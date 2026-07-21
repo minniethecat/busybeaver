@@ -82,6 +82,21 @@ Because every Meme is small, self-describing, and source-anchored, Memes are **d
 
 ---
 
+## Why a knowledge base, not just raw text?
+
+If agents can read, why not just feed them the books? Because BusyBeaver gives you two things raw text can't:
+
+### 1. A provenance framework to control hallucination
+Feeding raw text back through an LLM re-opens the door to the single biggest flaw of LLM-based knowledge bases: **hallucination**. BusyBeaver wraps every assertion in **provenance tracking** — each claim is anchored by its PN to the source passage it came from. That gives you a framework to *verify* what your agent tells you, instead of taking it on faith.
+
+### 2. A ready-made semantic skeleton
+We've already done the systematic work of **decomposing** the knowledge and **linking it back to the original text**. The key semantic structures buried in the prose have been lifted out into **concepts and properties** — a semantic skeleton you can build on immediately. That is far less work than starting from raw text and reconstructing all of it yourself.
+
+> Raw text gives your agent *words to read.*
+> BusyBeaver gives it *knowledge it can trust, already structured and cross-linked.*
+
+---
+
 ## How to use it
 
 BusyBeaver **does not force any particular storage or retrieval method**. Every text and every piece of derived knowledge has already been carefully segmented, decomposed, and analyzed — so you can plug it into whatever stack you already run:
