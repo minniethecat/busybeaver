@@ -142,6 +142,14 @@ Whatever path you choose, the PN provenance travels with the knowledge, so your 
 
 BusyBeaver is built to be **international**. The initial corpus is primarily **English and Chinese**, and we will keep adding the world's major languages over time — because the classics that shaped human civilization were not written in any single tongue.
 
+### 🔮 What's coming
+
+BusyBeaver is the corpus. Around it we're building:
+
+- **Interactive wikis for every book** — browse and query each book's knowledge as a living, linked wiki, not just a flat dump.
+- **Any-content → wiki** — a service that turns *arbitrary* content (yours included) into a structured, agent-native wiki.
+- **Federated semantic wiki** — a shared protocol that lets knowledge agents **freely exchange, aggregate, and query** knowledge across independent wikis. One address space, many participants — the Purple-Number dream, federated.
+
 ### 📚 Request a book
 
 Is there a classic you especially want memified? **We'd love to hear it.** Open an issue on this repository, or email **Minnie Katz** at **minnie.sew.da@gmail.com** with your suggestion, and we'll prioritize it in the queue.
