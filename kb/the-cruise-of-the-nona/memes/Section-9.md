@@ -1,0 +1,19 @@
+---
+description: "On the rich and the poor"
+id: Section-9
+label: "Section 9"
+tags: ["chapter"]
+type: chapter
+---
+
+[009-001]High as are the mountains on this shore, yet by a trick of the air they were soon out of sight.
+
+[009-002]That is a thing I have never understood. High land which ought to be plainly visible, and even overhanging one, disappears like this at [[the-sea|sea]] magically on a clear day. When the weather is thick, one expects that; but the curious thing is that one may see clear air all around and a sharp horizon, nothing but sky and sea, and yet know perfectly well that the empty heaven at which one is gazing is really full of great hills close at hand. I do not know whether this happens in the clearer parts of the world. I have never seen it off North Africa or California. But upon the coasts of these islands it happens continually, and it is one of the hundred things which, I think, has made their inhabitants familiar with mystery and amenable to the unseen. For those of these islands, British and Irish, have always been remarkable for the sense of mystery; and among them none feel the effect of mystery more strongly than such as sail upon the sea.
+
+[009-003]It was an astonishing thing to sit there, at the end of the afternoon, just past the end of Saint Patrick’s Causeway, heading for Strumbles light below the horizon, with a slight air, now from the northwest, giving the boat steering-way and no more, with the tiller lazily pushed a little up to keep her course, and looking over the rail to the left, eastward, and seeing nothing there but an horizon of empty sky; yet knowing very well that the sky was not empty, but that the enormous mass of Cader Idris and the enormous mass of Plinlimmon stood guarding the sea. It was like the continual experience of this life wherein the wise firmly admit vast Presences to stand in what is an apparent emptiness, unperceived by any sense.
+
+[009-004]As I thus looked over the rail musing upon the strangeness of such things, I remembered how, many [[time|years]] ago, in this same boat and holding this same tiller, I had wondered, after a too rapid passage across the Channel from France, under too much canvas and with too much wind, how near I might be to [[england|England]]. For one could not see the coast at all. The wind had dropped suddenly, it had grown dead calm, and the *[[nona|Nona]]* lolloped on the big lump which the breeze had left. I had no idea, within ten miles, where I might be; it is a ridiculous confession to make, but true. It was the height of the spring tides, and I only roughly knew the set of them in mid-Channel. While I was so wondering, I thought I saw some difference between the lower and the upper sky, as though the lower grey were faintly darker than the upper. In a moment the line was defined, and I found myself looking at the turn of the high land east of Folkestone, where it runs away inland towards the old Roman harbour of Lympne. I was not more than three miles from shore.
+
+[009-005]And as there is a concealment of [[truth|reality]] at sea, corresponding to the concealment of reality from our experience in human life, so also at sea there is occasionally vision, corresponding to that occasional vision which you also have in human life: but vision is much rarer than the concealment of reality.
+
+[009-006]Once out near the Looe with an ugly thunderstorm glowering and lumbering down from the north, full of zigzags of lightning, I, in this same boat, was shortening sail rapidly to meet the gust when it should come. Even as I did so, I saw a fierce red light beating upon the [[beachy-head|Seven Sisters]] and Beachy Head, more than forty miles away. You could see every detail of those chalk cliffs. You could have touched them with your hand; yet the sea in between was vague: and that was a vision of the unseen. I say that the sea is in all things the teacher of men.

@@ -1,0 +1,5472 @@
+{
+  "book": "actions-and-reactions",
+  "title": "Actions and reactions",
+  "description": "Actions and reactions — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 122,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Actions and reactions\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-an-habitation-enforced",
+          "label": "ch01-an-habitation-enforced"
+        },
+        {
+          "type": "related",
+          "target": "ch02-the-recall",
+          "label": "ch02-the-recall"
+        },
+        {
+          "type": "related",
+          "target": "ch03-garm-a-hostage",
+          "label": "ch03-garm-a-hostage"
+        },
+        {
+          "type": "related",
+          "target": "ch04-the-power-of-the-dog",
+          "label": "ch04-the-power-of-the-dog"
+        },
+        {
+          "type": "related",
+          "target": "ch05-the-mother-hive",
+          "label": "ch05-the-mother-hive"
+        },
+        {
+          "type": "related",
+          "target": "ch06-the-bees-and-the-flies",
+          "label": "ch06-the-bees-and-the-flies"
+        },
+        {
+          "type": "related",
+          "target": "ch07-with-the-night-mail",
+          "label": "ch07-with-the-night-mail"
+        },
+        {
+          "type": "related",
+          "target": "ch08-the-four-angels",
+          "label": "ch08-the-four-angels"
+        },
+        {
+          "type": "related",
+          "target": "ch09-a-deal-in-cotton",
+          "label": "ch09-a-deal-in-cotton"
+        },
+        {
+          "type": "related",
+          "target": "ch10-the-new-knighthood",
+          "label": "ch10-the-new-knighthood"
+        },
+        {
+          "type": "related",
+          "target": "ch11-the-puzzler",
+          "label": "ch11-the-puzzler"
+        },
+        {
+          "type": "related",
+          "target": "ch12-the-puzzler-poem",
+          "label": "ch12-the-puzzler-poem"
+        },
+        {
+          "type": "related",
+          "target": "ch13-little-foxes",
+          "label": "ch13-little-foxes"
+        },
+        {
+          "type": "related",
+          "target": "ch14-gallios-song",
+          "label": "ch14-gallios-song"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-house-surgeon",
+          "label": "ch15-the-house-surgeon"
+        },
+        {
+          "type": "related",
+          "target": "ch16-the-rabbis-song",
+          "label": "ch16-the-rabbis-song"
+        }
+      ]
+    },
+    {
+      "id": "abdul",
+      "type": "person",
+      "label": "Abdul",
+      "description": "'Yellowish boy who serves as Mr. Groombride&#39;s interpreter and comically undermines his anti-imperial mission in \"Little Foxes.\"'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "interpreter"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:abdul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-groombride",
+          "label": "Groombride"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        }
+      ]
+    },
+    {
+      "id": "aerial-board-of-control",
+      "type": "organization",
+      "label": "Aerial Board of Control",
+      "description": "\"The technocratic world government of Kipling's 'With the Night Mail' (2000 A.D.) — the A.B.C. controls all planetary air traffic and, by extension, all governance, having rendered national sovereignty obsolete.\"",
+      "aliases": [
+        "A.B.C.",
+        "ABC",
+        "the Board"
+      ],
+      "tags": [
+        "technocracy",
+        "world-government",
+        "aviation",
+        "futurism",
+        "2000-AD"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:aerial-board-of-control",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "regulation"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "warfare"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        }
+      ]
+    },
+    {
+      "id": "america",
+      "type": "place",
+      "label": "America",
+      "description": "America, the New World nation that serves as a recurring contrast to England throughout Kipling's stories in Actions and Reactions.",
+      "aliases": [
+        "United States"
+      ],
+      "tags": [
+        "place",
+        "america"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:america",
+      "relations": []
+    },
+    {
+      "id": "atlantic",
+      "type": "place",
+      "label": "Atlantic Ocean",
+      "description": "'The Atlantic Ocean as traversed by airship in \"With the Night Mail\" (Chapter 7), a futuristic tale of transatlantic flight set in the year 2000.'",
+      "aliases": [
+        "the Atlantic",
+        "North Atlantic",
+        "transatlantic"
+      ],
+      "tags": [
+        "place",
+        "ocean"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:atlantic",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "Aerial Board of Control"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airships"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "bees-and-flies",
+      "type": "concept",
+      "label": "Bees and Flies",
+      "description": "\"An allegorical motif in Kipling's 'Actions and Reactions' contrasting the industrious bee with the parasitic fly as a commentary on labour, corruption, and social order.\"",
+      "aliases": [
+        "bee-and-fly",
+        "bee-fly-allegory",
+        "hive-industrial"
+      ],
+      "tags": [
+        "theme",
+        "allegory",
+        "industry",
+        "corruption",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:bees-and-flies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "garm-as-hostage",
+          "label": "garm-as-hostage"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "deal-in-cotton"
+        }
+      ]
+    },
+    {
+      "id": "bulaki-ram",
+      "type": "person",
+      "label": "Bulaki Ram",
+      "description": "The narrator's native clerk who assists with negotiations during the cotton deal and knows English Law in Chapter 9, \"A Deal in Cotton.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "clerk",
+        "native",
+        "professional"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:bulaki-ram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "hierarchy"
+        },
+        {
+          "type": "related",
+          "target": "the-hajji",
+          "label": "The Hajji"
+        },
+        {
+          "type": "related",
+          "target": "ibn-makarrah",
+          "label": "Ibn Makarrah"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "conflict"
+        }
+      ]
+    },
+    {
+      "id": "burnt-house",
+      "type": "place",
+      "label": "Burnt House",
+      "description": "'One of the five satellite farms of Friars Pardon, situated under High Pardons Wood, in \"An Habitation Enforced.\"'",
+      "aliases": [],
+      "tags": [
+        "place",
+        "england",
+        "farm"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:burnt-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friars-pardon",
+          "label": "Friars Pardon"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "gale-anstey",
+          "label": "Gale Anstey"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts Farm"
+        }
+      ]
+    },
+    {
+      "id": "captain-hodgson",
+      "type": "person",
+      "label": "Captain Hodgson",
+      "description": "'Relief captain of the G.P.O. airship \"162\" in \"With the Night Mail,\" a large red aeronaut who serves as technical guide and philosophical commentator.'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot",
+        "captain"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:captain-hodgson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-purnall",
+          "label": "Captain Purnall"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        }
+      ]
+    },
+    {
+      "id": "captain-purnall",
+      "type": "person",
+      "label": "Captain Purnall",
+      "description": "'Captain of the airship \"162\" in \"With the Night Mail,\" a skilled pilot navigating the transatlantic Aerial Board of Control routes.'",
+      "aliases": [
+        "Captain of 162"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "aviator"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:captain-purnall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "Aerial Board of Control"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        }
+      ]
+    },
+    {
+      "id": "centro-euro-africa-protectorate",
+      "type": "organization",
+      "label": "Centro-Euro-Africa Protectorate",
+      "description": "'A fictional African colonial protectorate where Adam Strickland serves as Assistant-Commissioner in \"A Deal in Cotton\".'",
+      "aliases": [
+        "the Protectorate",
+        "Centro-Euro-Africa"
+      ],
+      "tags": [
+        "organization",
+        "colonial",
+        "africa",
+        "protectorate"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:centro-euro-africa-protectorate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "punjab-police",
+          "label": "Punjab Police"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "stalky",
+          "label": "Stalky"
+        }
+      ]
+    },
+    {
+      "id": "ch01-an-habitation-enforced",
+      "type": "chapter",
+      "label": "\"Chapter 1: An Habitation Enforced\"",
+      "description": "\"My friend, if cause doth wrest thee, Ere folly hath much oppressed thee, Far from acquaintance kest thee Where country…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch01-an-habitation-enforced",
+      "relations": []
+    },
+    {
+      "id": "ch02-the-recall",
+      "type": "chapter",
+      "label": "\"Chapter 2: The Recall\"",
+      "description": "\"I am the land of their fathers, In me the virtue stays; I will bring back my children, After certain days.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch02-the-recall",
+      "relations": []
+    },
+    {
+      "id": "ch03-garm-a-hostage",
+      "type": "chapter",
+      "label": "\"Chapter 3: Garm — a Hostage\"",
+      "description": "\"One night, a very long time ago, I drove to an Indian military cantonment called Mian Mir to see amateur theatricals.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch03-garm-a-hostage",
+      "relations": []
+    },
+    {
+      "id": "ch04-the-power-of-the-dog",
+      "type": "chapter",
+      "label": "\"Chapter 4: The Power of the Dog\"",
+      "description": "\"There is sorrow enough in the natural way From men and women to fill our day; But when we are certain of sorrow in…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch04-the-power-of-the-dog",
+      "relations": []
+    },
+    {
+      "id": "ch05-the-mother-hive",
+      "type": "chapter",
+      "label": "\"Chapter 5: The Mother Hive\"",
+      "description": "\"If the stock had not been old and overcrowded, the Wax-moth would never have entered; but where bees are too thick on…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch05-the-mother-hive",
+      "relations": []
+    },
+    {
+      "id": "ch06-the-bees-and-the-flies",
+      "type": "chapter",
+      "label": "\"Chapter 6: The Bees and the Flies\"",
+      "description": "\"A farmer of the Augustan age Perused in Virgil's golden page, The story of the secret won From Proteus by Cyrene's son…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch06-the-bees-and-the-flies",
+      "relations": []
+    },
+    {
+      "id": "ch07-with-the-night-mail",
+      "type": "chapter",
+      "label": "\"Chapter 7: With the Night Mail\"",
+      "description": "'A STORY OF 2000 A. D. (Together with extracts from the magazine in which it appeared) A nine o''clock of a gusty…'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch07-with-the-night-mail",
+      "relations": []
+    },
+    {
+      "id": "ch08-the-four-angels",
+      "type": "chapter",
+      "label": "\"Chapter 8: The Four Angels\"",
+      "description": "\"As ADAM lay a-dreaming beneath the Apple Tree, The Angel of the Earth came down, and offered Earth in fee.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch08-the-four-angels",
+      "relations": []
+    },
+    {
+      "id": "ch09-a-deal-in-cotton",
+      "type": "chapter",
+      "label": "\"Chapter 9: A Deal in Cotton\"",
+      "description": "\"Long and long ago, when Devadatta was King of Benares, I wrote some tales concerning Strickland of the Punjab Police…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch09-a-deal-in-cotton",
+      "relations": []
+    },
+    {
+      "id": "ch10-the-new-knighthood",
+      "type": "chapter",
+      "label": "\"Chapter 10: The New Knighthood\"",
+      "description": "\"Who gives him the Bath? “I,” said the wet, Rank Jungle-sweat, “I'll give him the Bath!” Who'll sing the psalms?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch10-the-new-knighthood",
+      "relations": []
+    },
+    {
+      "id": "ch11-the-puzzler",
+      "type": "chapter",
+      "label": "\"Chapter 11: The Puzzler\"",
+      "description": "\"I had not seen Penfentenyou since the Middle Nineties, when he was Minister of Ways and Woodsides in De Thouar's first…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch11-the-puzzler",
+      "relations": []
+    },
+    {
+      "id": "ch12-the-puzzler-poem",
+      "type": "chapter",
+      "label": "\"Chapter 12: The Puzzler (poem)\"",
+      "description": "\"The Celt in all his variants from Builth to Ballyhoo, His mental processes are plain--one knows what he will do, And…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch12-the-puzzler-poem",
+      "relations": []
+    },
+    {
+      "id": "ch13-little-foxes",
+      "type": "chapter",
+      "label": "\"Chapter 13: Little Foxes\"",
+      "description": "\"A TALE OF THE GIHON HUNT A fox came out of his earth on the banks of the Great River Gihon, which waters Ethiopia.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch13-little-foxes",
+      "relations": []
+    },
+    {
+      "id": "ch14-gallios-song",
+      "type": "chapter",
+      "label": "\"Chapter 14: Gallio's Song\"",
+      "description": "\"All day long to the judgment-seat The crazed Provincials drew-- All day long at their ruler's feet Howled for the blood…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch14-gallios-song",
+      "relations": []
+    },
+    {
+      "id": "ch15-the-house-surgeon",
+      "type": "chapter",
+      "label": "\"Chapter 15: The House Surgeon\"",
+      "description": "\"On an evening after Easter Day, I sat at a table in a homeward bound steamer's smoking-room, where half a dozen of us…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch15-the-house-surgeon",
+      "relations": []
+    },
+    {
+      "id": "ch16-the-rabbis-song",
+      "type": "chapter",
+      "label": "\"Chapter 16: The Rabbi's Song\"",
+      "description": "\"If thought can reach to Heaven, On Heaven let it dwell, For fear that Thought be given Like power to reach to Hell.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "actions-and-reactions:ch16-the-rabbis-song",
+      "relations": []
+    },
+    {
+      "id": "cotton",
+      "type": "concept",
+      "label": "Cotton",
+      "description": "\"Cotton as an agricultural commodity, economic venture, and symbol of colonial enterprise in Kipling's ch09 A Deal in Cotton.\"",
+      "aliases": [
+        "cotton-growing",
+        "cotton-trade",
+        "cotton-scheme"
+      ],
+      "tags": [
+        "theme",
+        "agriculture",
+        "commerce",
+        "imperialism"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:cotton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "soil"
+        },
+        {
+          "type": "related",
+          "target": "imam-din",
+          "label": "Imam Din"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "capital"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "fever",
+          "label": "Fever"
+        }
+      ]
+    },
+    {
+      "id": "courage",
+      "type": "concept",
+      "label": "Courage",
+      "description": "'Courage as a professional virtue in Kipling''s \"Actions and Reactions\" — the calm competence of airmen facing danger in \"With the Night Mail\" and the quieter courage of characters confronting change.'",
+      "aliases": [
+        "bravery",
+        "fortitude",
+        "valour"
+      ],
+      "tags": [
+        "theme",
+        "morality",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:courage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        }
+      ]
+    },
+    {
+      "id": "deal-in-cotton",
+      "type": "event",
+      "label": "A Deal in Cotton",
+      "description": "'A frame story in which Adam Strickland recounts a cotton negotiation in Africa, told during a reunion of Anglo-Indian friends in England.'",
+      "aliases": [
+        "the cotton negotiation",
+        "cotton deal"
+      ],
+      "tags": [
+        "plot",
+        "business",
+        "colonial"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:deal-in-cotton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stalky",
+          "label": "Corkran"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "punjab-police",
+          "label": "Punjab Police"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "centro-euro-africa-protectorate",
+          "label": "Centro-Euro-Africa Protectorate"
+        }
+      ]
+    },
+    {
+      "id": "depression",
+      "type": "concept",
+      "label": "Depression",
+      "description": "'Depression as psychological affliction in Kipling''s \"The House Surgeon\" — an oppressive mental state that haunts a house and its inhabitants.'",
+      "aliases": [
+        "melancholy",
+        "low-spirits",
+        "mental-depression"
+      ],
+      "tags": [
+        "theme",
+        "psychology",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:depression",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        }
+      ]
+    },
+    {
+      "id": "dirigible",
+      "type": "concept",
+      "label": "Dirigible",
+      "description": "\"Dirigible balloons as the primary mode of aerial mail transport in Kipling's futuristic ch07 With the Night Mail, set in the year 2000 AD.\"",
+      "aliases": [
+        "airship",
+        "aerial-mail-packet",
+        "Tangye dirigible",
+        "Fleury's gas"
+      ],
+      "tags": [
+        "theme",
+        "technology",
+        "aviation",
+        "science-fiction"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:dirigible",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "aerial mail service"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        }
+      ]
+    },
+    {
+      "id": "dr-dallas",
+      "type": "person",
+      "label": "Dr. Dallas",
+      "description": "\"The local doctor near Friars Pardon, summoned by Mrs. Betts to attend the dying Iggulden and later consulted about the ailing Miss Claxton in Chapter 1.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "doctor",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:dr-dallas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-betts",
+          "label": "Mrs. Betts"
+        },
+        {
+          "type": "related",
+          "target": "iggulden",
+          "label": "Iggulden"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "fever",
+          "label": "illness"
+        }
+      ]
+    },
+    {
+      "id": "duty",
+      "type": "concept",
+      "label": "Duty",
+      "description": "'A central moral theme in Kipling''s \"Actions and Reactions\" — the sense of obligation that drives characters across social classes, professions, and imperial settings.'",
+      "aliases": [
+        "obligation",
+        "responsibility",
+        "moral-duty"
+      ],
+      "tags": [
+        "theme",
+        "morality",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:duty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "Aerial Board of Control"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth-invasion",
+          "label": "wax-moth-invasion"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "type": "concept",
+      "label": "Earth",
+      "description": "'The earth as a grounding force in Kipling''s \"Actions and Reactions\" — the literal soil of England that roots identity, the planet transformed by aerial technology, and the contested ground between wild and cultivated.'",
+      "aliases": [
+        "soil",
+        "land",
+        "ground",
+        "world"
+      ],
+      "tags": [
+        "theme",
+        "nature",
+        "setting",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:earth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "dwelling"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "type": "place",
+      "label": "England",
+      "description": "\"The primary setting of Kipling's 'Actions and Reactions' — an England of country estates, tenant farms, and ancient obligations that confronts the American Chapins with the weight of place.\"",
+      "aliases": [
+        "English countryside",
+        "rural England"
+      ],
+      "tags": [
+        "setting",
+        "geography",
+        "edwardian-era",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "Home"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "iggulden",
+          "label": "Iggulden"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "ethiopia",
+      "type": "place",
+      "label": "Ethiopia",
+      "description": "'Setting of \"Little Foxes\" (Chapter 13), where the Gihon River flows and British colonial administration contends with reformist meddling.'",
+      "aliases": [],
+      "tags": [
+        "place",
+        "africa",
+        "fictional"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:ethiopia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gihon",
+          "label": "Great River Gihon"
+        },
+        {
+          "type": "related",
+          "target": "mr-groombride",
+          "label": "Mr. Groombride"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English"
+        }
+      ]
+    },
+    {
+      "id": "fever",
+      "type": "concept",
+      "label": "Fever",
+      "description": "\"Recurring motif of fever as physical illness and narrative catalyst across Kipling's Actions and Reactions, most prominently in ch03 Garm and ch09 A Deal in Cotton.\"",
+      "aliases": [
+        "illness",
+        "Peshawur fever",
+        "fever-chart"
+      ],
+      "tags": [
+        "theme",
+        "illness",
+        "colonialism"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:fever",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "imam-din",
+          "label": "Imam Din"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "cotton",
+          "label": "Cotton"
+        }
+      ]
+    },
+    {
+      "id": "four-angels",
+      "type": "concept",
+      "label": "Four Angels",
+      "description": "'The four angelic figures from Chapter 8 of Kipling''s \"Actions and Reactions\" — a theological allegory exploring divine justice, intercession, and the limits of heavenly intervention in human affairs.'",
+      "aliases": [
+        "the-four-angels",
+        "azrael-uriel",
+        "angelic-powers"
+      ],
+      "tags": [
+        "theme",
+        "theology",
+        "allegory",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:four-angels",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "friars-pardon",
+      "type": "place",
+      "label": "Friars Pardon",
+      "description": "'Country estate in the Sussex Weald, ancestral home restored by George and Sophie Chapin in \"An Habitation Enforced.\"'",
+      "aliases": [
+        "Friars Pardon estate"
+      ],
+      "tags": [
+        "place",
+        "england",
+        "estate"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:friars-pardon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "burnt-house",
+          "label": "Burnt House"
+        },
+        {
+          "type": "related",
+          "target": "gale-anstey",
+          "label": "Gale Anstey"
+        }
+      ]
+    },
+    {
+      "id": "gale-anstey",
+      "type": "place",
+      "label": "Gale Anstey",
+      "description": "'One of the five satellite farms of the Friars Pardon estate, home to old Whybarne, in \"An Habitation Enforced.\"'",
+      "aliases": [],
+      "tags": [
+        "place",
+        "england",
+        "farm"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:gale-anstey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friars-pardon",
+          "label": "Friars Pardon"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English"
+        },
+        {
+          "type": "related",
+          "target": "whybarne",
+          "label": "Whybarne"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts Farm"
+        },
+        {
+          "type": "related",
+          "target": "burnt-house",
+          "label": "Burnt House"
+        }
+      ]
+    },
+    {
+      "id": "gallios-song",
+      "type": "concept",
+      "label": "\"Gallio's Song\"",
+      "description": "\"Kipling's poetic dramatisation of Gallio the Roman proconsul's refusal to adjudicate religious disputes, from ch14 of Actions and Reactions.\"",
+      "aliases": [
+        "Gallio",
+        "I care for none of these things"
+      ],
+      "tags": [
+        "theme",
+        "religion",
+        "law",
+        "poetry"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:gallios-song",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "type": "concept",
+      "label": "Garden",
+      "description": "'The garden as a central image in Kipling''s \"Actions and Reactions\" — England conceived as a cultivated garden, the terraced gardens of Friars Pardon, and the garden as a site of both order and loss.'",
+      "aliases": [
+        "garden-of-england",
+        "landscape",
+        "horticulture"
+      ],
+      "tags": [
+        "theme",
+        "nature",
+        "setting",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:garden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        }
+      ]
+    },
+    {
+      "id": "garm",
+      "type": "person",
+      "label": "Garm",
+      "description": "'A prize bull-terrier given as a hostage-gift by a soldier to the narrator in \"Garm — a Hostage\", noted for his intelligence and loyalty.'",
+      "aliases": [
+        "the bull-terrier"
+      ],
+      "tags": [
+        "character",
+        "animal",
+        "dog"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:garm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stanley",
+          "label": "Stanley"
+        },
+        {
+          "type": "related",
+          "target": "garm-as-hostage",
+          "label": "Garm's transfer"
+        },
+        {
+          "type": "related",
+          "target": "vixen",
+          "label": "Vixen"
+        }
+      ]
+    },
+    {
+      "id": "garm-as-hostage",
+      "type": "event",
+      "label": "Garm Given as Hostage",
+      "description": "'A soldier gives his prize bull-terrier Garm to the narrator as repayment for being rescued from military discipline in \"Garm — a Hostage\".'",
+      "aliases": [
+        "Garm's transfer",
+        "the bull-terrier gift"
+      ],
+      "tags": [
+        "plot",
+        "character-event",
+        "gift"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:garm-as-hostage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stanley",
+          "label": "Stanley"
+        },
+        {
+          "type": "related",
+          "target": "mian-mir",
+          "label": "Mian Mir cantonment"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "vixen",
+          "label": "Vixen"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "responsibility"
+        }
+      ]
+    },
+    {
+      "id": "gentleman",
+      "type": "concept",
+      "label": "Gentleman",
+      "description": "'The ideal of the gentleman in Kipling''s \"Actions and Reactions\" — a social identity defined by conduct rather than birth, operating across English, Brazilian, and Mohammedan cultural contexts.'",
+      "aliases": [
+        "gentry",
+        "english-gentleman",
+        "gentlemanly-conduct"
+      ],
+      "tags": [
+        "theme",
+        "society",
+        "class",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:gentleman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sangres",
+          "label": "Sangres"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "george-chapin",
+      "type": "person",
+      "label": "George Chapin",
+      "description": "'American financier who retreats to rural England after a nervous breakdown, protagonist of \"An Habitation Enforced\".'",
+      "aliases": [
+        "Chapin"
+      ],
+      "tags": [
+        "character",
+        "protagonist",
+        "american",
+        "businessman"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:george-chapin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "holz-and-gunsberg-combine",
+          "label": "Holz and Gunsberg Combine"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "commerce"
+        },
+        {
+          "type": "related",
+          "target": "mrs-shonts",
+          "label": "Mrs. Shonts"
+        },
+        {
+          "type": "related",
+          "target": "fever",
+          "label": "illness"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        }
+      ]
+    },
+    {
+      "id": "ghost",
+      "type": "concept",
+      "label": "Ghost",
+      "description": "'The ghost in Kipling''s \"Actions and Reactions\" — from the literal ghost stories of \"The House Surgeon\" to the metaphorical ghosts of landscape, memory, and conscience that haunt the collection.'",
+      "aliases": [
+        "haunting",
+        "apparition",
+        "ghost-story"
+      ],
+      "tags": [
+        "theme",
+        "supernatural",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:ghost",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "imam-din",
+          "label": "Imam Din"
+        },
+        {
+          "type": "related",
+          "target": "rabbis-song",
+          "label": "The Rabbi's Song"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth",
+          "label": "wax-moth"
+        }
+      ]
+    },
+    {
+      "id": "gihon",
+      "type": "place",
+      "label": "Gihon",
+      "description": "'The Gihon, a great river in Africa, setting of the Gihon Hunt in \"Little Foxes\" (Chapter 13).'",
+      "aliases": [
+        "the River Gihon",
+        "Great Gihon"
+      ],
+      "tags": [
+        "place",
+        "river",
+        "africa"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:gihon",
+      "relations": []
+    },
+    {
+      "id": "giuseppe",
+      "type": "person",
+      "label": "Giuseppe",
+      "description": "'Italian organ-grinder and servant at Lord Lundie&#39;s estate, whose barrel-organ becomes the instrument for luring a monkey in \"The Puzzler.\"'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "musician",
+        "servant"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:giuseppe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "Lord Lundie"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "sir-christopher-tomling",
+          "label": "Sir Christopher Tomling"
+        },
+        {
+          "type": "related",
+          "target": "jimmy",
+          "label": "Jimmy"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        }
+      ]
+    },
+    {
+      "id": "government",
+      "type": "organization",
+      "label": "Imperial Government",
+      "description": "\"The diffuse apparatus of British imperial governance that appears throughout Kipling's 'Actions and Reactions' as both an administrative reality and a target of satirical scrutiny.\"",
+      "aliases": [
+        "colonial administration",
+        "the Crown",
+        "imperial authorities",
+        "civil service"
+      ],
+      "tags": [
+        "colonial-administration",
+        "imperial-governance",
+        "institution",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "A.B.C."
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "penfentenyou",
+          "label": "Penfentenyou"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "bulaki-ram",
+          "label": "Bulaki Ram"
+        },
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "the Law Lord"
+        }
+      ]
+    },
+    {
+      "id": "holmescroft",
+      "type": "place",
+      "label": "Holmescroft",
+      "description": "'Holmescroft, a large two-storied creeper-covered residence in England, home of the M''Leod family, central setting of \"The House Surgeon\" (Chapter 15).'",
+      "aliases": [],
+      "tags": [
+        "place",
+        "england"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:holmescroft",
+      "relations": []
+    },
+    {
+      "id": "holz-and-gunsberg-combine",
+      "type": "organization",
+      "label": "Holz and Gunsberg Combine",
+      "description": "'A financial combine targeted by George Chapin before his nervous breakdown in \"An Habitation Enforced\", representing American corporate power.'",
+      "aliases": [
+        "the Combine"
+      ],
+      "tags": [
+        "organization",
+        "business",
+        "finance"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:holz-and-gunsberg-combine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "money",
+          "label": "finance"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "type": "concept",
+      "label": "Home",
+      "description": "'Home as the gravitational centre of belonging in Kipling''s \"Actions and Reactions\" — the ancestral English house that claims the Chapins, the cottage to which Garm must return, and the aerial beacon that guides the night mail back.'",
+      "aliases": [
+        "homeland",
+        "dwelling",
+        "household",
+        "hearth"
+      ],
+      "tags": [
+        "theme",
+        "belonging",
+        "setting",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:home",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "colonial administration"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "honour",
+      "type": "concept",
+      "label": "Honour",
+      "description": "'A social and moral code governing reputation, truthfulness, and standing in Kipling''s \"Actions and Reactions.\"'",
+      "aliases": [
+        "honor",
+        "word-of-honour",
+        "reputation"
+      ],
+      "tags": [
+        "theme",
+        "morality",
+        "social-order",
+        "1900s"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:honour",
+      "relations": [
+        {
+          "type": "related",
+          "target": "money",
+          "label": "currency"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "gentleman",
+          "label": "gentry"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "house-surgeon",
+      "type": "concept",
+      "label": "House Surgeon",
+      "description": "\"The metaphorical role of one who diagnoses and heals the psychological or spiritual ailments of a house, as dramatised in Kipling's ch15 The House Surgeon.\"",
+      "aliases": [
+        "Holmescroft",
+        "house diagnosis"
+      ],
+      "tags": [
+        "theme",
+        "psychology",
+        "supernatural"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:house-surgeon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "home",
+          "label": "dwelling"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "miss-mary",
+          "label": "Miss Mary Moultrie"
+        },
+        {
+          "type": "related",
+          "target": "miss-aggie",
+          "label": "Agnes"
+        },
+        {
+          "type": "related",
+          "target": "mary-cloke",
+          "label": "Mary"
+        },
+        {
+          "type": "related",
+          "target": "fever",
+          "label": "illness"
+        }
+      ]
+    },
+    {
+      "id": "ibn-makarrah",
+      "type": "person",
+      "label": "Ibn Makarrah",
+      "description": "A hostile tribal leader who waged war against the British before annexation and whose men continue to threaten the region in Chapter 9, \"A Deal in Cotton.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "antagonist",
+        "leader",
+        "tribal"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:ibn-makarrah",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "the-hajji",
+          "label": "The Hajji"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "warfare"
+        },
+        {
+          "type": "related",
+          "target": "bulaki-ram",
+          "label": "bulaki-ram"
+        }
+      ]
+    },
+    {
+      "id": "iggulden",
+      "type": "person",
+      "label": "Iggulden",
+      "description": "\"A tenant farmer family at Rocketts Farm in 'An Habitation Enforced' — old Iggulden represents the dying generation of English rural labour, while his son inherits the land and its duties.\"",
+      "aliases": [
+        "Old Iggulden",
+        "Young Iggulden",
+        "Iggulden of Rocketts"
+      ],
+      "tags": [
+        "character",
+        "tenant-farmer",
+        "english-countryside",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:iggulden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "imam-din",
+      "type": "person",
+      "label": "Imam Din",
+      "description": "'Muslim servant to Strickland in \"A Deal in Cotton,\" who assists in the cotton speculation scheme and cares for the fever-stricken narrator.'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "servant"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:imam-din",
+      "relations": [
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "stalky",
+          "label": "Stalky"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "type": "place",
+      "label": "India",
+      "description": "India, the British colonial territory that serves as the backdrop for many characters and events across Kipling's Actions and Reactions stories.",
+      "aliases": [
+        "British India"
+      ],
+      "tags": [
+        "place",
+        "india",
+        "colony"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:india",
+      "relations": []
+    },
+    {
+      "id": "jimmy",
+      "type": "person",
+      "label": "Jimmy",
+      "description": "\"An artist and old Harrovian who serves as interpreter during the monkey-puzzler experiment — known for his high voice, linguistic facility, and the Artistic Temperament in 'The Puzzler'.\"",
+      "aliases": [
+        "Jimmy the artist"
+      ],
+      "tags": [
+        "character",
+        "artist",
+        "interpreter",
+        "1900s"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:jimmy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "Lord Lundie"
+        },
+        {
+          "type": "related",
+          "target": "penfentenyou",
+          "label": "Penfentenyou"
+        },
+        {
+          "type": "related",
+          "target": "giuseppe",
+          "label": "Giuseppe"
+        },
+        {
+          "type": "related",
+          "target": "sir-christopher-tomling",
+          "label": "Tomling"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        }
+      ]
+    },
+    {
+      "id": "john-baxter",
+      "type": "person",
+      "label": "John Baxter",
+      "description": "A large, throaty-voiced solicitor who handled the sale of Holmescroft and becomes a key figure in uncovering the house's mysterious affliction in Chapter 15.",
+      "aliases": [
+        "Mr. Baxter"
+      ],
+      "tags": [
+        "character",
+        "solicitor",
+        "professional"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:john-baxter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "responsibility"
+        },
+        {
+          "type": "related",
+          "target": "mrs-shonts",
+          "label": "mrs-shonts"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "Justice",
+      "description": "'Justice as a moral expectation in Kipling''s \"Actions and Reactions\" — from the ancient court of hounds in \"Little Foxes\" to the personal plea for fair treatment in \"The Mother Hive.\"'",
+      "aliases": [
+        "fairness",
+        "moral-justice",
+        "legal-justice",
+        "poetic-justice"
+      ],
+      "tags": [
+        "theme",
+        "morality",
+        "law",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:justice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "melissa",
+          "label": "Melissa"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth",
+          "label": "wax-moth"
+        }
+      ]
+    },
+    {
+      "id": "kadir-buksh",
+      "type": "person",
+      "label": "Kadir Buksh",
+      "description": "The narrator's trusted native attendant who assists with Garm and provides quiet, capable service during the events of Chapter 3, \"Garm — a Hostage.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "servant",
+        "attendant",
+        "native"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:kadir-buksh",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "garm-as-hostage",
+          "label": "garm-as-hostage"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "strickland"
+        }
+      ]
+    },
+    {
+      "id": "lady-conant",
+      "type": "person",
+      "label": "Lady Conant",
+      "description": "'Local aristocrat in \"An Habitation Enforced\" who takes an interest in Sophie Chapin and the future of Friars Pardon.'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "aristocrat"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:lady-conant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "sangres",
+          "label": "Mr. Sangres"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "type": "concept",
+      "label": "Law",
+      "description": "'Law as a social ordering principle in Kipling''s \"Actions and Reactions\" — from English property law to Mosaic dietary law, from colonial legal authority to the futuristic \"Lavalle''s Law\" of atmospheric physics.'",
+      "aliases": [
+        "legal-system",
+        "legislation",
+        "regulation"
+      ],
+      "tags": [
+        "theme",
+        "society",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:law",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "cotton",
+          "label": "cotton-growing"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "wealth"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "little-foxes"
+        }
+      ]
+    },
+    {
+      "id": "little-foxes",
+      "type": "concept",
+      "label": "Little Foxes",
+      "description": "'An allegorical concept from Chapter 13 of Kipling''s \"Actions and Reactions\" — the \"little foxes\" that spoil the vines, representing petty corruptions that undermine colonial governance.'",
+      "aliases": [
+        "fox-hunting",
+        "fox-hunt",
+        "the-fox"
+      ],
+      "tags": [
+        "theme",
+        "allegory",
+        "fox-hunting",
+        "colonial-administration",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:little-foxes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "vixen",
+          "label": "Vixen"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "hierarchy"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "\"The metropolitan hub of Kipling's Edwardian world — a place of solicitors, business, and imperial administration that serves as the counterpoint to rural England throughout 'Actions and Reactions'.\"",
+      "aliases": [
+        "the metropolis",
+        "imperial capital"
+      ],
+      "tags": [
+        "setting",
+        "urban",
+        "imperial-centre",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "rural England"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        }
+      ]
+    },
+    {
+      "id": "lord-lundie",
+      "type": "person",
+      "label": "Lord Lundie",
+      "description": "\"A Law Lord and the final authority on legal and constitutional questions in 'The Puzzler' — a figure of wry judicial wisdom who hosts Penfentenyou at his Credence Green farm during the colonial premier's English visit.\"",
+      "aliases": [
+        "Lord Lundie of Credence Green",
+        "the Law Lord"
+      ],
+      "tags": [
+        "character",
+        "judge",
+        "law-lord",
+        "colonial-politics",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:lord-lundie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "penfentenyou",
+          "label": "Penfentenyou"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "'Love as a binding and testing force in Kipling''s \"Actions and Reactions\" — the love of land that transforms the Chapins, the love between man and dog that defies ownership, and the love of work that defines the hive.'",
+      "aliases": [
+        "affection",
+        "devotion",
+        "attachment",
+        "passion"
+      ],
+      "tags": [
+        "theme",
+        "emotion",
+        "relationships",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "power-of-the-dog",
+          "label": "Power of the Dog"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "melissa",
+          "label": "Melissa"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        }
+      ]
+    },
+    {
+      "id": "madness",
+      "type": "concept",
+      "label": "Madness",
+      "description": "'Madness as divine affliction and psychological motif in Kipling''s \"Actions and Reactions\" — from God-sent disease to the brain''s reflected chaos.'",
+      "aliases": [
+        "insanity",
+        "derangement",
+        "affliction"
+      ],
+      "tags": [
+        "theme",
+        "psychology",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:madness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "rabbis-song",
+          "label": "The Rabbi's Song"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        }
+      ]
+    },
+    {
+      "id": "mary-cloke",
+      "type": "person",
+      "label": "Mary Cloke",
+      "description": "'The daughter of Mr. and Mrs. Cloke, a sewing maid at Pardons who assists Sophie Chapin in \"An Habitation Enforced.\"'",
+      "aliases": [
+        "Mary"
+      ],
+      "tags": [
+        "character",
+        "servant"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mary-cloke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        },
+        {
+          "type": "related",
+          "target": "gentleman",
+          "label": "gentry"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        }
+      ]
+    },
+    {
+      "id": "melissa",
+      "type": "person",
+      "label": "Melissa",
+      "description": "A young, practical-minded worker bee who first encounters the Wax-moth infiltrator and helps lead the loyal swarm to safety in Chapter 5, \"The Mother Hive.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "protagonist",
+        "bee",
+        "worker"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:melissa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "sacharissa",
+          "label": "the Wax-moth"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth",
+          "label": "Wax-moth"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "the-hajji",
+          "label": "the-hajji"
+        }
+      ]
+    },
+    {
+      "id": "mian-mir",
+      "type": "place",
+      "label": "Mian Mir",
+      "description": "\"An Indian military cantonment near Lahore, setting for the opening of \\\"Garm — a Hostage\\\" and site of the narrator's rescue of a soldier friend.\"",
+      "aliases": [
+        "Mian Mir cantonment"
+      ],
+      "tags": [
+        "place",
+        "india",
+        "military",
+        "cantonment"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:mian-mir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "stanley",
+          "label": "Stanley"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "miss-aggie",
+      "type": "person",
+      "label": "Agnes Moultrie",
+      "description": "\"The youngest Moultrie sister, whose death at Holmescroft — long believed a suicide — is ultimately revealed as an accident caused by the house's depressive affliction in Chapter 15.\"",
+      "aliases": [
+        "Miss Aggie",
+        "Aggie",
+        "Agnes"
+      ],
+      "tags": [
+        "character",
+        "deceased"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:miss-aggie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        },
+        {
+          "type": "related",
+          "target": "mary-cloke",
+          "label": "Mary"
+        },
+        {
+          "type": "related",
+          "target": "miss-mary",
+          "label": "Miss Mary Moultrie"
+        },
+        {
+          "type": "related",
+          "target": "miss-bessie",
+          "label": "Miss Elizabeth Moultrie"
+        },
+        {
+          "type": "related",
+          "target": "john-baxter",
+          "label": "John Baxter"
+        },
+        {
+          "type": "related",
+          "target": "mrs-mcleod",
+          "label": "Mrs. M'Leod"
+        },
+        {
+          "type": "related",
+          "target": "mr-mcleod",
+          "label": "mr-mcleod"
+        }
+      ]
+    },
+    {
+      "id": "miss-bessie",
+      "type": "person",
+      "label": "Miss Elizabeth Moultrie",
+      "description": "\"The middle Moultrie sister, nicknamed Bessie, who is timid and easily influenced, serving as a foil to her imperious elder sister Mary in Chapter 15.\"",
+      "aliases": [
+        "Miss Bessie",
+        "Elizabeth Moultrie",
+        "Bessie"
+      ],
+      "tags": [
+        "character",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:miss-bessie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "miss-elizabeth",
+          "label": "Miss Elizabeth Moultrie"
+        },
+        {
+          "type": "related",
+          "target": "miss-mary",
+          "label": "Miss Mary"
+        },
+        {
+          "type": "related",
+          "target": "mary-cloke",
+          "label": "Mary"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "miss-aggie",
+          "label": "Agnes"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        },
+        {
+          "type": "related",
+          "target": "john-baxter",
+          "label": "John Baxter"
+        }
+      ]
+    },
+    {
+      "id": "miss-elizabeth",
+      "type": "person",
+      "label": "Miss Elizabeth Moultrie",
+      "description": "\"The youngest surviving Moultrie sister, physically small and emotionally vulnerable, who wrestles with her elder sister and the house's affliction in Chapter 15.\"",
+      "aliases": [
+        "Elizabeth Moultrie"
+      ],
+      "tags": [
+        "character"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:miss-elizabeth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "miss-aggie",
+          "label": "Agnes"
+        },
+        {
+          "type": "related",
+          "target": "miss-mary",
+          "label": "Miss Mary"
+        },
+        {
+          "type": "related",
+          "target": "john-baxter",
+          "label": "John Baxter"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        }
+      ]
+    },
+    {
+      "id": "miss-mary",
+      "type": "person",
+      "label": "Miss Mary Moultrie",
+      "description": "\"The eldest of the three Moultrie sisters, haunted by the depressive affliction of Holmescroft, who seeks the truth about her youngest sister Agnes's death in Chapter 15.\"",
+      "aliases": [
+        "Miss Mary",
+        "Mary Moultrie"
+      ],
+      "tags": [
+        "character",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:miss-mary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "miss-elizabeth",
+          "label": "Miss Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "miss-aggie",
+          "label": "Agnes"
+        },
+        {
+          "type": "related",
+          "target": "john-baxter",
+          "label": "John Baxter"
+        },
+        {
+          "type": "related",
+          "target": "mr-mcleod",
+          "label": "mr-mcleod"
+        }
+      ]
+    },
+    {
+      "id": "miss-mcleod",
+      "type": "person",
+      "label": "Miss M'Leod",
+      "description": "\"The daughter of the M'Leod family, called Thea, whose youthful vitality is the first casualty of Holmescroft's depressive influence in Chapter 15.\"",
+      "aliases": [
+        "Thea",
+        "Miss Thea M'Leod"
+      ],
+      "tags": [
+        "character"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:miss-mcleod",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "mr-mcleod",
+          "label": "L. Maxwell M'Leod"
+        },
+        {
+          "type": "related",
+          "target": "mrs-mcleod",
+          "label": "Mrs. M'Leod"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "type": "concept",
+      "label": "Money",
+      "description": "'Money as a medium of exchange and power in Kipling''s \"Actions and Reactions\" — the purchase of Friars Pardon, the cotton speculation in Chapter 9, and the tension between inherited wealth and commercial acquisition.'",
+      "aliases": [
+        "wealth",
+        "capital",
+        "finance",
+        "commerce",
+        "currency"
+      ],
+      "tags": [
+        "theme",
+        "economy",
+        "commerce",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:money",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "cotton deal"
+        },
+        {
+          "type": "related",
+          "target": "power-of-the-dog",
+          "label": "Power of the Dog"
+        },
+        {
+          "type": "related",
+          "target": "sangres",
+          "label": "Sangres"
+        },
+        {
+          "type": "related",
+          "target": "the-hajji",
+          "label": "The Hajji"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "gentleman",
+          "label": "gentry"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "mother-hive",
+      "type": "concept",
+      "label": "Mother Hive",
+      "description": "'Central allegorical concept in \"The Mother Hive\" — the beehive as a metaphor for British society facing internal decay and ideological subversion.'",
+      "aliases": [
+        "the beehive",
+        "the hive"
+      ],
+      "tags": [
+        "theme",
+        "allegory",
+        "society",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:mother-hive",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sacharissa",
+          "label": "the Wax-moth"
+        }
+      ]
+    },
+    {
+      "id": "mr-cloke",
+      "type": "person",
+      "label": "Mr. Cloke",
+      "description": "'The farmer at Rocketts who, with his wife Mrs. Cloke, hosts George and Sophie Chapin upon their arrival in the English countryside in \"An Habitation Enforced.\"'",
+      "aliases": [
+        "Cloke",
+        "old man Cloke"
+      ],
+      "tags": [
+        "character",
+        "farmer"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mr-cloke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "gentleman",
+          "label": "gentry"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "wealth"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "mr-geary",
+      "type": "person",
+      "label": "Mr. L.L. Geary",
+      "description": "'Second Despatcher and learned official aboard the G.P.O. night mail airship in \"With the Night Mail.\"'",
+      "aliases": [
+        "Mr. Geary",
+        "L.L. Geary",
+        "Geary"
+      ],
+      "tags": [
+        "character",
+        "official"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mr-geary",
+      "relations": []
+    },
+    {
+      "id": "mr-groombride",
+      "type": "person",
+      "label": "Mr. Lethabie Groombride",
+      "description": "\"A self-righteous British MP who travels to Ethiopia to investigate alleged colonial abuses, only to be spectacularly outmaneuvered by the local administration in Chapter 13.\"",
+      "aliases": [
+        "Groombride",
+        "Lethabie Groombride"
+      ],
+      "tags": [
+        "character",
+        "antagonist",
+        "politician"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mr-groombride",
+      "relations": [
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Imperial Government"
+        },
+        {
+          "type": "related",
+          "target": "abdul",
+          "label": "Abdul"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "the-puzzler"
+        }
+      ]
+    },
+    {
+      "id": "mr-mcleod",
+      "type": "person",
+      "label": "L. Maxwell M'Leod",
+      "description": "\"A City man and owner of Holmescroft, who discovers too late that his country house harbors a sinister depressive affliction that threatens his entire family in Chapter 15.\"",
+      "aliases": [
+        "Mr. M'Leod",
+        "Maxwell M'Leod"
+      ],
+      "tags": [
+        "character",
+        "professional"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mr-mcleod",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "mrs-mcleod",
+          "label": "Mrs. M'Leod"
+        },
+        {
+          "type": "related",
+          "target": "miss-mcleod",
+          "label": "Miss M'Leod (Thea)"
+        },
+        {
+          "type": "related",
+          "target": "john-baxter",
+          "label": "John Baxter"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "commerce"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        }
+      ]
+    },
+    {
+      "id": "mrs-betts",
+      "type": "person",
+      "label": "Mrs. Betts",
+      "description": "\"A small, capable villager near Friars Pardon who responds to Iggulden's collapse with characteristic English phlegm — 'They come down like ellum-branches in still weather' — in Chapter 1.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "villager",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mrs-betts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "iggulden",
+          "label": "Iggulden"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "dr-dallas",
+          "label": "Dr. Dallas"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        }
+      ]
+    },
+    {
+      "id": "mrs-cloke",
+      "type": "person",
+      "label": "Mrs. Cloke",
+      "description": "'The farmer wife at Rocketts who hosts the Chapins during their countryside retreat in \"An Habitation Enforced.\"'",
+      "aliases": [
+        "Mrs Cloke"
+      ],
+      "tags": [
+        "character",
+        "farmer"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mrs-cloke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "lady-conant",
+          "label": "Lady Conant"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Mr. Cloke"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        }
+      ]
+    },
+    {
+      "id": "mrs-mcleod",
+      "type": "person",
+      "label": "Mrs. M'Leod",
+      "description": "\"The wife of L. Maxwell M'Leod, whose suffering from Holmescroft's depressive affliction reveals the house's insidious power over the family in Chapter 15.\"",
+      "aliases": [],
+      "tags": [
+        "character"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mrs-mcleod",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "mr-mcleod",
+          "label": "L. Maxwell M'Leod"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "miss-aggie",
+          "label": "Aggie"
+        },
+        {
+          "type": "related",
+          "target": "miss-mcleod",
+          "label": "Miss M'Leod (Thea)"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        }
+      ]
+    },
+    {
+      "id": "mrs-shonts",
+      "type": "person",
+      "label": "Mrs. Shonts",
+      "description": "'American expatriate who recommends the English countryside to Sophie Chapin in \"An Habitation Enforced.\"'",
+      "aliases": [
+        "Mrs Shonts"
+      ],
+      "tags": [
+        "character",
+        "american",
+        "expatriate"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:mrs-shonts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "type": "concept",
+      "label": "Music",
+      "description": "'Music as a recurring artistic motif in Kipling''s \"Actions and Reactions\" — from the songs and poems embedded in the collection to the music-room as a site of social performance and emotional release.'",
+      "aliases": [
+        "song",
+        "musical-performance",
+        "poetry-as-song"
+      ],
+      "tags": [
+        "theme",
+        "art",
+        "poetry",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:music",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "gallios-song",
+          "label": "Gallio's Song"
+        },
+        {
+          "type": "related",
+          "target": "rabbis-song",
+          "label": "The Rabbi's Song"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "type": "concept",
+      "label": "Nature",
+      "description": "'Nature as the given order of persons and things in Kipling''s \"Actions and Reactions\" — from the \"nature of things\" to \"his or her nature\" as character destiny.'",
+      "aliases": [
+        "human-nature",
+        "natural-order",
+        "way-of-things"
+      ],
+      "tags": [
+        "theme",
+        "philosophy",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:nature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        }
+      ]
+    },
+    {
+      "id": "night-mail-flight",
+      "type": "event",
+      "label": "Night Mail Flight",
+      "description": "\"A transatlantic flight aboard Postal Packet 162 in Kipling's futuristic 'With the Night Mail' (set in 2000 A.D.) — a journey through the technological sublime of a world governed by the Aerial Board of Control.\"",
+      "aliases": [
+        "Postal Packet 162",
+        "GPO night mail",
+        "aerial mail service"
+      ],
+      "tags": [
+        "technology",
+        "aviation",
+        "futurism",
+        "postal-service",
+        "2000-AD"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:night-mail-flight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "captain-purnall",
+          "label": "Captain Purnall"
+        },
+        {
+          "type": "related",
+          "target": "captain-hodgson",
+          "label": "Captain Hodgson"
+        },
+        {
+          "type": "related",
+          "target": "dirigible",
+          "label": "airship"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "A.B.C."
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "capital"
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "concept",
+      "label": "Order",
+      "description": "'Order as command, structure, and social foundation in Kipling''s \"Actions and Reactions\" — from military discipline to the putting-right of houses and worlds.'",
+      "aliases": [
+        "command",
+        "authority",
+        "social-order",
+        "hierarchy"
+      ],
+      "tags": [
+        "theme",
+        "society",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:order",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "household"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "Aerial Board of Control"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "commerce"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "penfentenyou",
+      "type": "person",
+      "label": "Penfentenyou",
+      "description": "\"Colonial Premier and Minister of Ways and Woodsides in De Thouar's first Administration — an old Harrovian who travels to England to develop a Great Idea for his growing country in 'The Puzzler'.\"",
+      "aliases": [
+        "Minister of Ways and Woodsides",
+        "Colonial Premier"
+      ],
+      "tags": [
+        "character",
+        "politician",
+        "colonial-premier",
+        "1900s"
+      ],
+      "quality": "standard",
+      "source_ref": "actions-and-reactions:penfentenyou",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "Lord Lundie"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "jimmy",
+          "label": "Jimmy"
+        },
+        {
+          "type": "related",
+          "target": "sir-christopher-tomling",
+          "label": "Tomling"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "soil"
+        },
+        {
+          "type": "related",
+          "target": "giuseppe",
+          "label": "giuseppe"
+        }
+      ]
+    },
+    {
+      "id": "power-of-the-dog",
+      "type": "concept",
+      "label": "Power of the Dog",
+      "description": "\"A recurring motif in Kipling's 'Actions and Reactions' exploring the bond between humans and dogs as a metaphor for loyalty, power, and moral obligation.\"",
+      "aliases": [
+        "dog-loyalty",
+        "human-animal-bond",
+        "garm-dog"
+      ],
+      "tags": [
+        "theme",
+        "loyalty",
+        "animal-symbolism",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:power-of-the-dog",
+      "relations": [
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "responsibility"
+        },
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "garm-as-hostage",
+          "label": "garm-as-hostage"
+        }
+      ]
+    },
+    {
+      "id": "punjab-police",
+      "type": "organization",
+      "label": "Punjab Police",
+      "description": "'The police force of the Punjab province in British India, where Strickland served before retiring to England.'",
+      "aliases": [
+        "Punjab Police Force"
+      ],
+      "tags": [
+        "organization",
+        "police",
+        "india",
+        "colonial"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:punjab-police",
+      "relations": [
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "centro-euro-africa-protectorate",
+          "label": "Centro-Euro-Africa Protectorate"
+        }
+      ]
+    },
+    {
+      "id": "rabbis-song",
+      "type": "concept",
+      "label": "\"Rabbi's Song\"",
+      "description": "'The Rabbi''s Song — Kipling''s closing poem in \"Actions and Reactions,\" a meditation on divine foreknowledge, human madness, and the consolation of faith.'",
+      "aliases": [
+        "The Rabbi's Song",
+        "rabbinical reflection"
+      ],
+      "tags": [
+        "theme",
+        "poem",
+        "religion",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:rabbis-song",
+      "relations": [
+        {
+          "type": "related",
+          "target": "war",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "colonial administration"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "affliction"
+        }
+      ]
+    },
+    {
+      "id": "rocketts-farm",
+      "type": "place",
+      "label": "Rocketts Farm",
+      "description": "'A farm in the southern English counties where George and Sophie Chapin recuperate and rediscover ancestral English life in \"An Habitation Enforced\".'",
+      "aliases": [
+        "Rocketts"
+      ],
+      "tags": [
+        "place",
+        "england",
+        "farm",
+        "rural"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:rocketts-farm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "mrs-shonts",
+          "label": "Mrs. Shonts"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "landscape"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "hearth"
+        },
+        {
+          "type": "related",
+          "target": "the-recall",
+          "label": "The Recall"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        }
+      ]
+    },
+    {
+      "id": "sacharissa",
+      "type": "person",
+      "label": "Sacharissa",
+      "description": "A disguised Wax-moth who infiltrates the Mother Hive in Chapter 5, laying eggs that threaten to destroy the colony from within.",
+      "aliases": [
+        "the Wax-moth"
+      ],
+      "tags": [
+        "character",
+        "antagonist",
+        "wax-moth",
+        "infiltrator"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sacharissa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth",
+          "label": "Wax-moth"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "melissa",
+          "label": "Melissa"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "wax-moth-invasion",
+          "label": "wax-moth-invasion"
+        }
+      ]
+    },
+    {
+      "id": "sacrifice",
+      "type": "concept",
+      "label": "Sacrifice",
+      "description": "'Sacrifice as a moral and narrative motif in Kipling''s \"Actions and Reactions\" — from ancestral land-devotion to personal cost and social obligation.'",
+      "aliases": [
+        "self-sacrifice",
+        "offering"
+      ],
+      "tags": [
+        "theme",
+        "morality",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sacrifice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "commerce"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        }
+      ]
+    },
+    {
+      "id": "sangres",
+      "type": "person",
+      "label": "Sangres",
+      "description": "A Brazilian gentleman who purchased four farms in England, becoming a figure of suspicion and envy among the local community in Chapter 1.",
+      "aliases": [
+        "Mr. Sangres"
+      ],
+      "tags": [
+        "character",
+        "landowner",
+        "foreigner"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sangres",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "wealth"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        }
+      ]
+    },
+    {
+      "id": "servant",
+      "type": "concept",
+      "label": "Servant",
+      "description": "'The servant as a social institution in Kipling''s \"Actions and Reactions\" — domestic service, colonial body-servants, and the master-servant relationship as a microcosm of imperial hierarchy.'",
+      "aliases": [
+        "domestic-service",
+        "body-servant",
+        "master-servant-relationship"
+      ],
+      "tags": [
+        "theme",
+        "society",
+        "class",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:servant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie Chapin"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "imam-din",
+          "label": "Imam Din"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "colonial administration"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "household"
+        },
+        {
+          "type": "related",
+          "target": "mr-cloke",
+          "label": "Cloke"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        }
+      ]
+    },
+    {
+      "id": "sheshaheli",
+      "type": "place",
+      "label": "Sheshaheli",
+      "description": "'The Sheshaheli country, a tribal region in Africa central to the cotton dealings in \"A Deal in Cotton\" (Chapter 9).'",
+      "aliases": [
+        "Sheshaheli country"
+      ],
+      "tags": [
+        "place",
+        "africa"
+      ],
+      "quality": "basic",
+      "source_ref": "actions-and-reactions:sheshaheli",
+      "relations": []
+    },
+    {
+      "id": "sir-christopher-tomling",
+      "type": "person",
+      "label": "Sir Christopher Tomling",
+      "description": "'A political figure and friend of Lord Lundie who contributes a puzzle about the Empire to the gathering at Credence Green in \"The Puzzler.\"'",
+      "aliases": [
+        "Tomling",
+        "Christopher Tomling"
+      ],
+      "tags": [
+        "character",
+        "politician"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sir-christopher-tomling",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "Lord Lundie"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        }
+      ]
+    },
+    {
+      "id": "sir-walter-conant",
+      "type": "person",
+      "label": "Sir Walter Conant",
+      "description": "'Baronet and large landholder in the neighbourhood of Friars Pardon, husband of Lady Conant in \"An Habitation Enforced.\"'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "baronet",
+        "landowner"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sir-walter-conant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-conant",
+          "label": "Lady Conant"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        }
+      ]
+    },
+    {
+      "id": "sophie-chapin",
+      "type": "person",
+      "label": "Sophie Chapin",
+      "description": "'Wife of George Chapin, who accompanies him through his nervous breakdown recovery and rural English retreat in \"An Habitation Enforced\".'",
+      "aliases": [
+        "Sophie"
+      ],
+      "tags": [
+        "character",
+        "female",
+        "american"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:sophie-chapin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "mrs-shonts",
+          "label": "Mrs. Shonts"
+        },
+        {
+          "type": "related",
+          "target": "rocketts-farm",
+          "label": "Rocketts"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        }
+      ]
+    },
+    {
+      "id": "soul",
+      "type": "concept",
+      "label": "Soul",
+      "description": "'The soul as the irreducible self in Kipling''s \"Actions and Reactions\" — the alien soul seeking anchorage, the house that possesses a soul, and the bruised soul that must speak truth.'",
+      "aliases": [
+        "spirit",
+        "psyche",
+        "inner-life",
+        "consciousness"
+      ],
+      "tags": [
+        "theme",
+        "religion",
+        "psychology",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:soul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "the-recall",
+          "label": "The Recall"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "Order"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        }
+      ]
+    },
+    {
+      "id": "spirit",
+      "type": "concept",
+      "label": "Spirit",
+      "description": "'The dual meaning of spirit in Kipling''s \"Actions and Reactions\" — the psychological attitude of \"proper spirit\" and the supernatural presence that haunts the house in \"The House Surgeon.\"'",
+      "aliases": [
+        "spiritual-presence",
+        "ghostly-presence",
+        "proper-spirit"
+      ],
+      "tags": [
+        "theme",
+        "supernatural",
+        "psychology",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:spirit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "ghost",
+          "label": "haunting"
+        },
+        {
+          "type": "related",
+          "target": "house-surgeon",
+          "label": "House Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cloke",
+          "label": "Mrs. Cloke"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        },
+        {
+          "type": "related",
+          "target": "power-of-the-dog",
+          "label": "Power of the Dog"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "colonial administration"
+        },
+        {
+          "type": "related",
+          "target": "rabbis-song",
+          "label": "The Rabbi's Song"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "world"
+        },
+        {
+          "type": "related",
+          "target": "the-recall",
+          "label": "the-recall"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "homeland"
+        }
+      ]
+    },
+    {
+      "id": "stalky",
+      "type": "person",
+      "label": "Stalky",
+      "description": "'Colonel A.L. Corkran, nicknamed Stalky, a veteran commander of native Infantry on the Indian frontier and friend in \"A Deal in Cotton\".'",
+      "aliases": [
+        "Colonel A.L. Corkran",
+        "Corkran"
+      ],
+      "tags": [
+        "character",
+        "military",
+        "colonel",
+        "anglo-indian"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:stalky",
+      "relations": [
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        }
+      ]
+    },
+    {
+      "id": "stanley",
+      "type": "person",
+      "label": "Stanley",
+      "description": "A soldier stationed at Kasauli, original owner of the dog Garm, whose good conduct is secured by the narrator holding Garm as a hostage.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "soldier"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:stanley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        }
+      ]
+    },
+    {
+      "id": "strickland",
+      "type": "person",
+      "label": "Strickland",
+      "description": "'Veteran officer of the Punjab Police who appears in multiple Kipling stories, now retired to Weston-super-Mare.'",
+      "aliases": [
+        "Strickland of the Punjab Police",
+        "Strick"
+      ],
+      "tags": [
+        "character",
+        "police",
+        "indian-service",
+        "anglo-indian"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:strickland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "weston-super-mare",
+          "label": "Weston-super-Mare"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "centro-euro-africa-protectorate",
+          "label": "Centro-Euro-Africa Protectorate"
+        },
+        {
+          "type": "related",
+          "target": "stalky",
+          "label": "Corkran"
+        }
+      ]
+    },
+    {
+      "id": "the-hajji",
+      "type": "person",
+      "label": "The Hajji",
+      "description": "A revered elder and Hajji (pilgrim to Mecca) in the cotton region, who serves as guide and mediator in the deal of cotton narrated in Chapter 9.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "guide",
+        "elder"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:the-hajji",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "bulaki-ram",
+          "label": "Bulaki Ram"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "wealth"
+        }
+      ]
+    },
+    {
+      "id": "the-puzzler",
+      "type": "event",
+      "label": "The Puzzler",
+      "description": "\"A diplomatic comedy in Kipling's 'Actions and Reactions' — the Colonial Premier Penfentenyou visits England to advance a Great Idea, only to be chased by his own Agent-General in a motor car through a maze of imperial politics.\"",
+      "aliases": [
+        "monkey-puzzler",
+        "Penfentenyou-diplomacy",
+        "colonial-premier-visit"
+      ],
+      "tags": [
+        "diplomacy",
+        "colonial-politics",
+        "satire",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:the-puzzler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "penfentenyou",
+          "label": "Penfentenyou"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "deal-in-cotton"
+        },
+        {
+          "type": "related",
+          "target": "lord-lundie",
+          "label": "the Law Lord"
+        }
+      ]
+    },
+    {
+      "id": "the-recall",
+      "type": "concept",
+      "label": "The Recall",
+      "description": "'A central theme in \"Actions and Reactions\" — the magnetic pull of England drawing its scattered children home to ancestral land and identity.'",
+      "aliases": [
+        "return to England",
+        "England's call"
+      ],
+      "tags": [
+        "theme",
+        "england",
+        "belonging",
+        "patriotism"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:the-recall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "attachment"
+        }
+      ]
+    },
+    {
+      "id": "tradition",
+      "type": "concept",
+      "label": "Tradition",
+      "description": "'The inherited framework of custom and expectation that structures social life in Kipling''s \"Actions and Reactions\" — from land tenure to fox-hunting ritual.'",
+      "aliases": [
+        "custom",
+        "heritage",
+        "inherited-order"
+      ],
+      "tags": [
+        "theme",
+        "social-order",
+        "inheritance",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:tradition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "land"
+        },
+        {
+          "type": "related",
+          "target": "the-puzzler",
+          "label": "The Puzzler"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "George Chapin"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "duty",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "vixen",
+      "type": "person",
+      "label": "Vixen",
+      "description": "The narrator's fox-terrier, fiercely loyal and jealous, whose interactions with Garm the bull-terrier form a key subplot in Chapter 3.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "animal",
+        "dog"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:vixen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garm",
+          "label": "Garm"
+        },
+        {
+          "type": "related",
+          "target": "home",
+          "label": "household"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "command"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "stanley",
+          "label": "stanley"
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "type": "concept",
+      "label": "War",
+      "description": "'War as a background presence and commercial reality in Kipling''s \"Actions and Reactions\" — from colonial skirmishes to the futurist abolition of war in the Aerial Board era.'",
+      "aliases": [
+        "warfare",
+        "conflict",
+        "military-conflict"
+      ],
+      "tags": [
+        "theme",
+        "imperialism",
+        "1900s"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "ground"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "commerce"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "colonial administration"
+        },
+        {
+          "type": "related",
+          "target": "holz-and-gunsberg-combine",
+          "label": "Holz and Gunsberg Combine"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "deal-in-cotton",
+          "label": "A Deal in Cotton"
+        },
+        {
+          "type": "related",
+          "target": "ibn-makarrah",
+          "label": "Ibn Makarrah"
+        },
+        {
+          "type": "related",
+          "target": "little-foxes",
+          "label": "Little Foxes"
+        },
+        {
+          "type": "related",
+          "target": "aerial-board-of-control",
+          "label": "Aerial Board of Control"
+        },
+        {
+          "type": "related",
+          "target": "night-mail-flight",
+          "label": "night-mail-flight"
+        }
+      ]
+    },
+    {
+      "id": "wax-moth",
+      "type": "concept",
+      "label": "Wax-moth",
+      "description": "'Allegorical parasite in \"The Mother Hive\" representing insidious ideological corruption that exploits weakness and division within communities.'",
+      "aliases": [
+        "wax moth",
+        "Wax-moth allegory"
+      ],
+      "tags": [
+        "theme",
+        "allegory",
+        "parasite",
+        "decay"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:wax-moth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "Mother Hive"
+        },
+        {
+          "type": "related",
+          "target": "sacharissa",
+          "label": "the Wax-moth"
+        }
+      ]
+    },
+    {
+      "id": "wax-moth-invasion",
+      "type": "event",
+      "label": "The Wax-moth Invasion of the Hive",
+      "description": "'A wax-moth enters an overheated, overcrowded beehive and systematically subverts it from within in \"The Mother Hive\".'",
+      "aliases": [
+        "the infestation",
+        "the hive's corruption"
+      ],
+      "tags": [
+        "plot",
+        "allegory",
+        "infiltration"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:wax-moth-invasion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wax-moth",
+          "label": "Wax-moth"
+        },
+        {
+          "type": "related",
+          "target": "melissa",
+          "label": "Melissa"
+        },
+        {
+          "type": "related",
+          "target": "sacharissa",
+          "label": "the Wax-moth"
+        },
+        {
+          "type": "related",
+          "target": "mother-hive",
+          "label": "the hive"
+        }
+      ]
+    },
+    {
+      "id": "weston-super-mare",
+      "type": "place",
+      "label": "Weston-super-Mare",
+      "description": "'English seaside town where Strickland of the Punjab Police retires after completing his Indian Service, mentioned in \"A Deal in Cotton\".'",
+      "aliases": [
+        "Weston"
+      ],
+      "tags": [
+        "place",
+        "england",
+        "seaside",
+        "retirement"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:weston-super-mare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "strickland",
+          "label": "Strickland"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "punjab-police",
+          "label": "Punjab Police"
+        }
+      ]
+    },
+    {
+      "id": "whybarne",
+      "type": "person",
+      "label": "Whybarne",
+      "description": "'Elderly resident of Gale Anstey and local sage in \"An Habitation Enforced,\" who has seen seventy-eight years and embodies the deep-rooted rural perspective.'",
+      "aliases": [],
+      "tags": [
+        "character",
+        "farmer",
+        "elderly"
+      ],
+      "quality": "featured",
+      "source_ref": "actions-and-reactions:whybarne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "iggulden",
+          "label": "Iggulden"
+        },
+        {
+          "type": "related",
+          "target": "sophie-chapin",
+          "label": "Sophie"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "English countryside"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "soil"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "george-chapin",
+          "label": "Chapin"
+        }
+      ]
+    }
+  ]
+}

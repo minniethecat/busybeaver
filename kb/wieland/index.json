@@ -1,0 +1,5026 @@
+{
+  "book": "wieland",
+  "title": "Wieland",
+  "description": "Wieland — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 104,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Wieland\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "wieland:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "wieland:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-roman-1",
+          "label": "ch01-roman-1"
+        },
+        {
+          "type": "related",
+          "target": "ch02-roman-2",
+          "label": "ch02-roman-2"
+        },
+        {
+          "type": "related",
+          "target": "ch03-roman-3",
+          "label": "ch03-roman-3"
+        },
+        {
+          "type": "related",
+          "target": "ch04-roman-4",
+          "label": "ch04-roman-4"
+        },
+        {
+          "type": "related",
+          "target": "ch05-roman-5",
+          "label": "ch05-roman-5"
+        },
+        {
+          "type": "related",
+          "target": "ch06-roman-6",
+          "label": "ch06-roman-6"
+        },
+        {
+          "type": "related",
+          "target": "ch07-roman-7",
+          "label": "ch07-roman-7"
+        },
+        {
+          "type": "related",
+          "target": "ch08-roman-8",
+          "label": "ch08-roman-8"
+        },
+        {
+          "type": "related",
+          "target": "ch09-roman-9",
+          "label": "ch09-roman-9"
+        },
+        {
+          "type": "related",
+          "target": "ch10-roman-10",
+          "label": "ch10-roman-10"
+        },
+        {
+          "type": "related",
+          "target": "ch11-roman-11",
+          "label": "ch11-roman-11"
+        },
+        {
+          "type": "related",
+          "target": "ch12-roman-12",
+          "label": "ch12-roman-12"
+        },
+        {
+          "type": "related",
+          "target": "ch13-roman-13",
+          "label": "ch13-roman-13"
+        },
+        {
+          "type": "related",
+          "target": "ch14-roman-14",
+          "label": "ch14-roman-14"
+        },
+        {
+          "type": "related",
+          "target": "ch15-roman-15",
+          "label": "ch15-roman-15"
+        },
+        {
+          "type": "related",
+          "target": "ch16-roman-16",
+          "label": "ch16-roman-16"
+        },
+        {
+          "type": "related",
+          "target": "ch17-roman-17",
+          "label": "ch17-roman-17"
+        },
+        {
+          "type": "related",
+          "target": "ch18-roman-18",
+          "label": "ch18-roman-18"
+        },
+        {
+          "type": "related",
+          "target": "ch19-roman-19",
+          "label": "ch19-roman-19"
+        },
+        {
+          "type": "related",
+          "target": "ch20-roman-20",
+          "label": "ch20-roman-20"
+        },
+        {
+          "type": "related",
+          "target": "ch21-roman-21",
+          "label": "ch21-roman-21"
+        },
+        {
+          "type": "related",
+          "target": "ch22-roman-22",
+          "label": "ch22-roman-22"
+        },
+        {
+          "type": "related",
+          "target": "ch23-roman-23",
+          "label": "ch23-roman-23"
+        },
+        {
+          "type": "related",
+          "target": "ch24-roman-24",
+          "label": "ch24-roman-24"
+        },
+        {
+          "type": "related",
+          "target": "ch25-roman-25",
+          "label": "ch25-roman-25"
+        },
+        {
+          "type": "related",
+          "target": "ch26-roman-26",
+          "label": "ch26-roman-26"
+        },
+        {
+          "type": "related",
+          "target": "ch27-roman-27",
+          "label": "ch27-roman-27"
+        },
+        {
+          "type": "related",
+          "target": "endnotes",
+          "label": "endnotes"
+        }
+      ]
+    },
+    {
+      "id": "advertisement",
+      "type": "chapter",
+      "label": "\"Advertisement\"",
+      "description": "\"Author's preface to the first edition (1798)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:advertisement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "baxter",
+      "type": "person",
+      "label": "\"Baxter\"",
+      "description": "\"A figure referenced in critical literature on Wieland, though the name does not appear in the surviving corpus of the novel's text.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor",
+        "uncertain"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:baxter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "cambridge",
+      "type": "person",
+      "label": "\"Thomas Cambridge\"",
+      "description": "\"Clara Wieland's maternal uncle, a physician who provides rational counsel, medical care, and moral support in the aftermath of the Wieland tragedy.\"",
+      "aliases": [
+        "Mr. Cambridge",
+        "Cambridge"
+      ],
+      "tags": [
+        "person",
+        "physician",
+        "caregiver"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:cambridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        }
+      ]
+    },
+    {
+      "id": "carwin",
+      "type": "person",
+      "label": "\"Carwin\"",
+      "description": "\"The mysterious biloquist whose ventriloquism produces the supernatural-seeming voices that deceive the Wieland household and trigger Theodore's homicidal delusion — the novel's ambiguous antagonist and embodiment of radical epistemological uncertainty.\"",
+      "aliases": [
+        "Francis Carwin",
+        "The Biloquist",
+        "The Stranger"
+      ],
+      "tags": [
+        "person",
+        "antagonist",
+        "catalyst",
+        "ventriloquist",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:carwin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Evidence"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "God's command"
+        }
+      ]
+    },
+    {
+      "id": "carwins-confession",
+      "type": "event",
+      "label": "\"Carwin's Confession\"",
+      "description": "\"The final revelation in which Carwin admits to producing the mysterious voices through ventriloquism, providing the natural explanation for the novel's supernatural-seeming events while leaving the moral question unresolved.\"",
+      "aliases": [
+        "The Confession",
+        "Carwin's Explanation",
+        "The Revelation"
+      ],
+      "tags": [
+        "event",
+        "resolution",
+        "confession",
+        "ventriloquism"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:carwins-confession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        }
+      ]
+    },
+    {
+      "id": "catharine-wieland",
+      "type": "person",
+      "label": "\"Catharine Wieland\"",
+      "description": "\"The wife of Theodore Wieland and mother of his children — the novel's primary victim, whose murder at her husband's hands transforms a domestic idyll into Gothic tragedy.\"",
+      "aliases": [
+        "Catharine",
+        "Catharine Pleyel",
+        "Mrs. Wieland"
+      ],
+      "tags": [
+        "person",
+        "victim",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:catharine-wieland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "ch01-roman-1",
+      "type": "chapter",
+      "label": "\"Chapter I\"",
+      "description": "\"I feel little reluctance in complying with your request.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch01-roman-1",
+      "relations": [
+        {
+          "type": "related",
+          "target": "leipzig",
+          "label": "Saxony"
+        },
+        {
+          "type": "related",
+          "target": "hamburg",
+          "label": "Hamburg"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        }
+      ]
+    },
+    {
+      "id": "ch02-roman-2",
+      "type": "chapter",
+      "label": "\"Chapter II\"",
+      "description": "\"Early in the morning of a sultry day in August, he left Mettingen, to go to the city.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch02-roman-2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        }
+      ]
+    },
+    {
+      "id": "ch03-roman-3",
+      "type": "chapter",
+      "label": "\"Chapter III\"",
+      "description": "\"The shock which this disastrous occurrence occasioned to my mother, was the foundation of a disease which carried her, in a few months, to the grave.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch03-roman-3",
+      "relations": [
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "ch04-roman-4",
+      "type": "chapter",
+      "label": "\"Chapter IV\"",
+      "description": "\"Six years of uninterrupted happiness had rolled away, since my brother’s marriage.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch04-roman-4",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa Conway"
+        },
+        {
+          "type": "related",
+          "target": "stuart",
+          "label": "Stuart"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "ch05-roman-5",
+      "type": "chapter",
+      "label": "\"Chapter V\"",
+      "description": "\"Some time had elapsed when there happened another occurrence, still more remarkable.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch05-roman-5",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "leipzig",
+          "label": "Leipzig"
+        },
+        {
+          "type": "related",
+          "target": "hamburg",
+          "label": "Hamburg"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        }
+      ]
+    },
+    {
+      "id": "ch06-roman-6",
+      "type": "chapter",
+      "label": "\"Chapter VI\"",
+      "description": "\"I now come to the mention of a person with whose name the most turbulent sensations are connected.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch06-roman-6",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        }
+      ]
+    },
+    {
+      "id": "ch07-roman-7",
+      "type": "chapter",
+      "label": "\"Chapter VII\"",
+      "description": "\"I will not enumerate the various inquiries and conjectures which these incidents occasioned.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch07-roman-7",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "The river"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "ch08-roman-8",
+      "type": "chapter",
+      "label": "\"Chapter VIII\"",
+      "description": "\"As soon as evening arrived, I performed my visit.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch08-roman-8",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "The city"
+        }
+      ]
+    },
+    {
+      "id": "ch09-roman-9",
+      "type": "chapter",
+      "label": "\"Chapter IX\"",
+      "description": "\"My brother had received a new book from Germany.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch09-roman-9",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        }
+      ]
+    },
+    {
+      "id": "ch10-roman-10",
+      "type": "chapter",
+      "label": "\"Chapter X\"",
+      "description": "\"Order could not readily be introduced into my thoughts.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch10-roman-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        }
+      ]
+    },
+    {
+      "id": "ch11-roman-11",
+      "type": "chapter",
+      "label": "\"Chapter XI\"",
+      "description": "\"I was aroused from this stupor by sounds that evidently arose in the next chamber.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch11-roman-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Evidence"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        }
+      ]
+    },
+    {
+      "id": "ch12-roman-12",
+      "type": "chapter",
+      "label": "\"Chapter XII\"",
+      "description": "\"My way lay through the city.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch12-roman-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        }
+      ]
+    },
+    {
+      "id": "ch13-roman-13",
+      "type": "chapter",
+      "label": "\"Chapter XIII\"",
+      "description": "\"Here was wrought a surprising change in my friend.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch13-roman-13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        }
+      ]
+    },
+    {
+      "id": "ch14-roman-14",
+      "type": "chapter",
+      "label": "\"Chapter XIV\"",
+      "description": "\"“Three days have elapsed since this occurrence.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch14-roman-14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "the honorable Mr. Ludloe"
+        },
+        {
+          "type": "related",
+          "target": "mr-hallet",
+          "label": "Mr. Hallet"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "ch15-roman-15",
+      "type": "chapter",
+      "label": "\"Chapter XV\"",
+      "description": "\"Before I reached the city it was dusk.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch15-roman-15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa Conway"
+        }
+      ]
+    },
+    {
+      "id": "ch16-roman-16",
+      "type": "chapter",
+      "label": "\"Chapter XVI\"",
+      "description": "\"As soon as I arrived in sight of the front of the house, my attention was excited by a light from the window of my own chamber.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch16-roman-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "ch17-roman-17",
+      "type": "chapter",
+      "label": "\"Chapter XVII\"",
+      "description": "\"I had no inclination nor power to move from this spot.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch17-roman-17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "mr-hallet",
+          "label": "Mr. Hallet"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "ch18-roman-18",
+      "type": "chapter",
+      "label": "\"Chapter XVIII\"",
+      "description": "\"I had imperfectly recovered my strength, when I was informed of the arrival of my mother’s brother, Thomas Cambridge.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch18-roman-18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Thomas Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "mr-hallet",
+          "label": "Mrs. Hallet"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "ch19-roman-19",
+      "type": "chapter",
+      "label": "\"Chapter XIX\"",
+      "description": "\"Theodore Wieland's defence at the bar\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch19-roman-19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore Wieland"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        }
+      ]
+    },
+    {
+      "id": "ch20-roman-20",
+      "type": "chapter",
+      "label": "\"Chapter XX\"",
+      "description": "\"Will you wonder that I read no farther?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch20-roman-20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Mr. Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "insanity",
+          "label": "Madness"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "ch21-roman-21",
+      "type": "chapter",
+      "label": "\"Chapter XXI\"",
+      "description": "\"Such, for some time, was the course of my meditations.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch21-roman-21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Mr. Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "Ludloe"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "mr-hallet",
+          "label": "Mr. Hallet"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        }
+      ]
+    },
+    {
+      "id": "ch22-roman-22",
+      "type": "chapter",
+      "label": "\"Chapter XXII\"",
+      "description": "\"The inhabitants of the Hut received me with a mixture of joy and surprise.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch22-roman-22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        }
+      ]
+    },
+    {
+      "id": "ch23-roman-23",
+      "type": "chapter",
+      "label": "\"Chapter XXIII\"",
+      "description": "\"“My morals will appear to you far from rigid, yet my conduct will fall short of your suspicions.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch23-roman-23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "judith",
+          "label": "Judith"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "vindication"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Miss Wieland"
+        }
+      ]
+    },
+    {
+      "id": "ch24-roman-24",
+      "type": "chapter",
+      "label": "\"Chapter XXIV\"",
+      "description": "\"“Deeply did I ruminate on the occurrences that had just passed.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch24-roman-24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        }
+      ]
+    },
+    {
+      "id": "ch25-roman-25",
+      "type": "chapter",
+      "label": "\"Chapter XXV\"",
+      "description": "\"A few words more and I lay aside the pen forever.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch25-roman-25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        }
+      ]
+    },
+    {
+      "id": "ch26-roman-26",
+      "type": "chapter",
+      "label": "\"Chapter XXVI\"",
+      "description": "\"My right hand, grasping the unseen knife, was still disengaged.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch26-roman-26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "frenzy"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        }
+      ]
+    },
+    {
+      "id": "ch27-roman-27",
+      "type": "chapter",
+      "label": "\"Chapter XXVII\"",
+      "description": "\"[Written three years after the foregoing, and dated at Montpellier.]\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:ch27-roman-27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Mr. Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "maniacal illusion"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "Ludloe"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa Conway"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "mrs-baynton",
+          "label": "Mrs. Baynton"
+        },
+        {
+          "type": "related",
+          "target": "stuart",
+          "label": "Major Stuart"
+        },
+        {
+          "type": "related",
+          "target": "maxwell",
+          "label": "Maxwell"
+        }
+      ]
+    },
+    {
+      "id": "clara-wieland",
+      "type": "person",
+      "label": "\"Clara Wieland\"",
+      "description": "\"The first-person narrator of the novel — Theodore Wieland's sister, whose account of the family tragedy is both a testimony to horror and an assertion of survival against forces that destroyed everyone else she loved.\"",
+      "aliases": [
+        "Clara",
+        "Miss Wieland",
+        "The Narrator"
+      ],
+      "tags": [
+        "person",
+        "narrator",
+        "survivor",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:clara-wieland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Colophon and edition details\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        }
+      ]
+    },
+    {
+      "id": "death-of-wieland-sr",
+      "type": "event",
+      "label": "\"Death of Wieland Sr.\"",
+      "description": "\"The mysterious death of the elder Wieland by an apparent spontaneous combustion at the temple in Mettingen — the novel's opening Gothic spectacle that establishes the family curse, the theme of inexplicable violence, and the epistemological crisis that will determine his son Theodore's tragic destiny.\"",
+      "aliases": [
+        "Spontaneous combustion",
+        "The elder Wieland's death",
+        "The fiery death"
+      ],
+      "tags": [
+        "event",
+        "gothic",
+        "prologue",
+        "mystery",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:death-of-wieland-sr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Evidence"
+        }
+      ]
+    },
+    {
+      "id": "deception",
+      "type": "concept",
+      "label": "\"Deception\"",
+      "description": "\"A central Gothic motif in Wieland — the systematic manipulation of perception through ventriloquism, leading characters to mistake human artifice for divine or supernatural intervention.\"",
+      "aliases": [
+        "Auricular deception",
+        "Sensory deception",
+        "Carwin's deceptions"
+      ],
+      "tags": [
+        "concept",
+        "gothic",
+        "plot-mechanism",
+        "carwin"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:deception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Enlightenment skepticism"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic novel"
+        }
+      ]
+    },
+    {
+      "id": "delusion",
+      "type": "concept",
+      "label": "\"Delusion\"",
+      "description": "\"The false perception of reality that drives the central tragedy of Wieland — encompassing religious delusion, sensory delusion produced by Carwin's ventriloquism, and the self-deception of Enlightenment confidence in reason.\"",
+      "aliases": [
+        "Madness",
+        "Hallucination",
+        "False Belief"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "gothic",
+        "plot-mechanism"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:delusion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "The Elder Wieland"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "Religious Melancholy"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic novel"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "divine-command",
+      "type": "concept",
+      "label": "\"Divine Command\"",
+      "description": "\"The theological doctrine that God directly instructs individuals to perform specific acts — in Wieland, the belief that drives Theodore to murder his family, transforming him from dutiful son into religious executioner.\"",
+      "aliases": [
+        "Divine mandate",
+        "God's command",
+        "Heavenly decree",
+        "The voice of God"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "fanaticism",
+        "tragedy"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:divine-command",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "dreams-and-visions",
+      "type": "concept",
+      "label": "\"Dreams and Visions\"",
+      "description": "\"The nocturnal and waking hallucinations that haunt Clara Wieland — her recurring dream of her brother as her enemy, the apparition in her closet — functioning as Gothic prophecy and psychological symptom.\"",
+      "aliases": [
+        "Nightmares",
+        "Hallucinations",
+        "Apparitions",
+        "Nocturnal visions"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "gothic",
+        "clara"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:dreams-and-visions",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "American Gothic"
+        }
+      ]
+    },
+    {
+      "id": "duty-and-moral-obligation",
+      "type": "concept",
+      "label": "\"Duty and Moral Obligation\"",
+      "description": "\"The theme of duty as a driving force in Wieland — from Wieland Sr.'s missionary calling to Theodore's fatal sense of divine command, duty operates as both virtue and destructive force.\"",
+      "aliases": [
+        "duty",
+        "moral obligation",
+        "sacred duty",
+        "religious duty"
+      ],
+      "tags": [
+        "concept",
+        "duty",
+        "morality",
+        "religion"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:duty-and-moral-obligation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "ventriloquism",
+          "label": "ventriloquism"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "Religious Fanaticism"
+        },
+        {
+          "type": "related",
+          "target": "moral-responsibility",
+          "label": "Moral Responsibility"
+        }
+      ]
+    },
+    {
+      "id": "education-and-discipline",
+      "type": "concept",
+      "label": "\"Education and Discipline\"",
+      "description": "\"The theme of moral and intellectual education in Wieland — the novel frames its tragedy as the consequence of 'erroneous or imperfect discipline' (001-001).\"",
+      "aliases": [
+        "education",
+        "discipline",
+        "moral education"
+      ],
+      "tags": [
+        "concept",
+        "education",
+        "morality",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:education-and-discipline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "the-temple",
+          "label": "the Temple"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "devout"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "empirical reasoning"
+        },
+        {
+          "type": "related",
+          "target": "patriarchal-authority",
+          "label": "patriarchal authority"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Enlightenment Rationalism"
+        }
+      ]
+    },
+    {
+      "id": "eloquence-and-persuasion",
+      "type": "concept",
+      "label": "\"Eloquence and Persuasion\"",
+      "description": "\"The power of rhetorical speech in Wieland — Carwin's eloquence is his most dangerous weapon, and the novel examines how persuasive language can overwhelm reason.\"",
+      "aliases": [
+        "eloquence",
+        "persuasion",
+        "rhetoric",
+        "oratory"
+      ],
+      "tags": [
+        "concept",
+        "rhetoric",
+        "language",
+        "power"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:eloquence-and-persuasion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "ventriloquism",
+          "label": "Ventriloquism"
+        },
+        {
+          "type": "related",
+          "target": "voice-and-authority",
+          "label": "Voice and Authority"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Deception"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Empiricism and Evidence"
+        }
+      ]
+    },
+    {
+      "id": "empiricism-and-evidence",
+      "type": "concept",
+      "label": "\"Empiricism and Evidence\"",
+      "description": "\"The epistemological framework — championed by Pleyel, undermined by events — that demands sensory evidence as the sole basis for belief, and its catastrophic failure when the senses themselves prove unreliable.\"",
+      "aliases": [
+        "Empiricism",
+        "Evidence",
+        "Sensory testimony",
+        "Epistemological crisis"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "epistemology",
+        "enlightenment"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:empiricism-and-evidence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "endnotes",
+      "type": "chapter",
+      "label": "\"Endnotes\"",
+      "description": "\"Endnotes for Wieland\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:endnotes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ventriloquism",
+          "label": "Biloquium"
+        }
+      ]
+    },
+    {
+      "id": "enlightenment-rationalism",
+      "type": "concept",
+      "label": "\"Enlightenment Rationalism\"",
+      "description": "\"The philosophical framework of empiricism, skepticism, and reliance on sensory evidence embodied by Henry Pleyel — whose rationalist worldview proves inadequate to explain or prevent the catastrophic events of the novel.\"",
+      "aliases": [
+        "Rationalism",
+        "Enlightenment skepticism",
+        "Empiricism",
+        "Pleyel's rationalism",
+        "Reason"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "enlightenment",
+        "gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:enlightenment-rationalism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "familial-curse",
+      "type": "concept",
+      "label": "\"Familial Curse\"",
+      "description": "\"The inheritance of doom across two generations: Wieland Sr.'s religious mania, mysterious death, and the passage of his 'erroneous or imperfect discipline' to his children, culminating in Theodore's murderous delusions and Clara's trauma.\"",
+      "aliases": [
+        "Inherited doom",
+        "Generational curse",
+        "Family legacy"
+      ],
+      "tags": [
+        "concept",
+        "gothic",
+        "family",
+        "doom",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:familial-curse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "fate-and-providence",
+      "type": "concept",
+      "label": "\"Fate and Providence\"",
+      "description": "\"The tension between fatalism and divine providence in Wieland — characters struggle to interpret whether events are governed by fate, divine will, or human agency.\"",
+      "aliases": [
+        "fate",
+        "providence",
+        "destiny",
+        "predestination"
+      ],
+      "tags": [
+        "concept",
+        "fate",
+        "providence",
+        "determinism",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:fate-and-providence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "spontaneous-combustion",
+          "label": "spontaneous combustion"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "supernatural-explanation",
+          "label": "Supernatural Explanation"
+        },
+        {
+          "type": "related",
+          "target": "moral-responsibility",
+          "label": "Moral Responsibility"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "Religious Fanaticism"
+        }
+      ]
+    },
+    {
+      "id": "gothic-fiction",
+      "type": "concept",
+      "label": "\"Gothic Fiction\"",
+      "description": "\"The literary genre that Wieland exemplifies and transforms — Brown transplants European Gothic conventions from medieval castles and Catholic monasteries to the rural American landscape, creating a distinctive psychological horror grounded in Enlightenment anxieties about sensory perception, religious fanaticism, and the limits of reason.\"",
+      "aliases": [
+        "American Gothic",
+        "Gothic novel",
+        "Gothic romance",
+        "The Gothic"
+      ],
+      "tags": [
+        "concept",
+        "genre",
+        "gothic",
+        "literary-history"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:gothic-fiction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "spontaneous-combustion",
+          "label": "Spontaneous Combustion"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "the-sublime",
+          "label": "Burkean sublime"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "id": "guilt",
+      "type": "concept",
+      "label": "\"Guilt\"",
+      "description": "\"The moral and psychological burden of wrongdoing — a central thematic force in Wieland that drives confession, madness, and legal consequence.\"",
+      "aliases": [
+        "Culpability",
+        "Remorse",
+        "Crime"
+      ],
+      "tags": [
+        "concept",
+        "morality",
+        "psychology",
+        "gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:guilt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "half-title",
+      "type": "chapter",
+      "label": "\"Half Title\"",
+      "description": "\"Wieland; or, The Transformation: An American Tale\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:half-title",
+      "relations": []
+    },
+    {
+      "id": "hamburg",
+      "type": "place",
+      "label": "\"Hamburg\"",
+      "description": "\"The German port city that serves as the European origin point for multiple characters in Wieland — the site of the elder Wieland's marriage, Carwin's birthplace, and Pleyel's correspondence nexus.\"",
+      "aliases": [
+        "Free City of Hamburg"
+      ],
+      "tags": [
+        "place",
+        "european",
+        "backstory"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:hamburg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "leipzig",
+          "label": "Saxony"
+        }
+      ]
+    },
+    {
+      "id": "henry-pleyel",
+      "type": "person",
+      "label": "\"Henry Pleyel\"",
+      "description": "\"The rationalist friend of the Wieland family — brother of Catharine, intellectual companion to Clara, and the novel's spokesman for Enlightenment empiricism, whose worldview is systematically undermined by events he cannot explain.\"",
+      "aliases": [
+        "Pleyel",
+        "Henry"
+      ],
+      "tags": [
+        "person",
+        "rationalist",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:henry-pleyel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        }
+      ]
+    },
+    {
+      "id": "honor-and-reputation",
+      "type": "concept",
+      "label": "\"Honor and Reputation\"",
+      "description": "\"The social dimension of virtue in Wieland — Clara's lost reputation, Pleyel's concern for honor, and the novel's examination of how public perception shapes private identity.\"",
+      "aliases": [
+        "honor",
+        "reputation",
+        "social standing",
+        "dishonor"
+      ],
+      "tags": [
+        "concept",
+        "honor",
+        "reputation",
+        "society",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:honor-and-reputation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "letters-and-correspondence",
+          "label": "Letters and Correspondence"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Empiricism and Evidence"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Deception"
+        },
+        {
+          "type": "related",
+          "target": "liberty-and-captivity",
+          "label": "Liberty and Captivity"
+        }
+      ]
+    },
+    {
+      "id": "imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Imprint and edition information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:imprint",
+      "relations": []
+    },
+    {
+      "id": "innocence",
+      "type": "concept",
+      "label": "Innocence",
+      "description": "The theme of innocence in Wieland — Clara's struggle to prove her moral innocence against sensory evidence, and the novel's interrogation of whether innocence can be demonstrated through testimony alone.",
+      "aliases": [
+        "moral innocence",
+        "self-advocacy",
+        "vindication"
+      ],
+      "tags": [
+        "Clara-Wieland",
+        "epistemology",
+        "morality",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:innocence",
+      "relations": []
+    },
+    {
+      "id": "insanity",
+      "type": "concept",
+      "label": "\"Insanity (Madness)\"",
+      "description": "\"The central psychological theme of Wieland — Theodore Wieland's descent into homicidal frenzy under the conviction of a divine command, and the broader novelistic interrogation of whether extreme religious obedience constitutes clinical derangement.\"",
+      "aliases": [
+        "Madness",
+        "Frenzy",
+        "Delusion",
+        "Derangement",
+        "Maniacal illusion"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "gothic",
+        "religion",
+        "mental-illness"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:insanity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Mr. Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "American Gothic"
+        }
+      ]
+    },
+    {
+      "id": "judith",
+      "type": "person",
+      "label": "\"Judith\"",
+      "description": "\"A servant in the Wieland household whose beauty and flexible principles make her an unwitting accomplice in Carwin's schemes of deception.\"",
+      "aliases": [
+        "Clara's servant"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "servant"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:judith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Carwin's deceptions"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic novel"
+        }
+      ]
+    },
+    {
+      "id": "leipzig",
+      "type": "place",
+      "label": "\"Leipzig\"",
+      "description": "\"The Saxon university city where Henry Pleyel studied, fell in love, and maintained social ties — representing the European intellectual world from which the American characters are partly estranged.\"",
+      "aliases": [
+        "Saxony"
+      ],
+      "tags": [
+        "place",
+        "european",
+        "intellectual"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:leipzig",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "The city"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Carwin's deceptions"
+        }
+      ]
+    },
+    {
+      "id": "letters-and-correspondence",
+      "type": "concept",
+      "label": "\"Letters and Correspondence\"",
+      "description": "\"The epistolary dimension of Wieland — letters function as crucial plot devices, vehicles of revelation, and instruments of deception throughout the novel.\"",
+      "aliases": [
+        "epistolary",
+        "correspondence",
+        "letter-writing"
+      ],
+      "tags": [
+        "concept",
+        "epistolary",
+        "narrative-form",
+        "letters"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:letters-and-correspondence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stuart",
+          "label": "Major Stuart"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "Ludloe"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "narrative-unreliability",
+          "label": "Narrative Unreliability"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Empiricism and Evidence"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "Secrecy"
+        }
+      ]
+    },
+    {
+      "id": "liberty-and-captivity",
+      "type": "concept",
+      "label": "\"Liberty and Captivity\"",
+      "description": "\"The tension between freedom and constraint in Wieland — characters pursue intellectual, physical, and spiritual liberty, yet find themselves imprisoned by forces they cannot control.\"",
+      "aliases": [
+        "freedom",
+        "liberty",
+        "captivity",
+        "imprisonment",
+        "confinement"
+      ],
+      "tags": [
+        "concept",
+        "liberty",
+        "freedom",
+        "gothic",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:liberty-and-captivity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "summerhouse",
+          "label": "summerhouse"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "patriarchal-authority",
+          "label": "Patriarchal Authority"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Enlightenment Rationalism"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Empiricism and Evidence"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Deception"
+        },
+        {
+          "type": "related",
+          "target": "the-trial",
+          "label": "The Trial"
+        }
+      ]
+    },
+    {
+      "id": "louisa-conway",
+      "type": "person",
+      "label": "\"Louisa Conway\"",
+      "description": "\"A young woman and companion in the Wieland household, whose father's tragic fate mirrors the novel's themes of persecution and family destruction.\"",
+      "aliases": [
+        "Louisa"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "companion"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:louisa-conway",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "Ludloe"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "ludloe",
+      "type": "person",
+      "label": "\"Ludloe\"",
+      "description": "\"A figure from Carwin's European past, an associate whose influence and persecution drove Carwin to America and whose machinations affected Louisa Conway's family.\"",
+      "aliases": [
+        "the honorable Mr. Ludloe"
+      ],
+      "tags": [
+        "person",
+        "backstory",
+        "antagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:ludloe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "louisa-conway",
+          "label": "Louisa Conway"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "madness",
+      "type": "concept",
+      "label": "Madness",
+      "description": "Madness as an 18th-century medical concept and its dramatic role in Wieland, where it serves as both a plot mechanism and an epistemological challenge.",
+      "aliases": [
+        "frenzy",
+        "mania",
+        "maniacal illusion"
+      ],
+      "tags": [
+        "18th-century-medicine",
+        "insanity",
+        "Theodore-Wieland",
+        "Gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:madness",
+      "relations": []
+    },
+    {
+      "id": "maxwell",
+      "type": "person",
+      "label": "\"Maxwell\"",
+      "description": "\"A deceitful and sensual character who appears in the backstory involving Major Stuart and Mrs. Maxwell, representing moral corruption.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor",
+        "backstory"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:maxwell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stuart",
+          "label": "Major Stuart"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "ludloe",
+          "label": "Ludloe"
+        }
+      ]
+    },
+    {
+      "id": "melancholy",
+      "type": "concept",
+      "label": "\"Melancholy\"",
+      "description": "\"An eighteenth-century medical and psychological condition characterized by profound sadness, religious fixation, and social withdrawal — the inherited temperament of the Wieland family that predisposes both father and son to catastrophic delusion.\"",
+      "aliases": [
+        "Melancholia",
+        "Religious Melancholy",
+        "Depression"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "medicine",
+        "gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:melancholy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic Fiction"
+        },
+        {
+          "type": "related",
+          "target": "death-of-wieland-sr",
+          "label": "Spontaneous combustion"
+        }
+      ]
+    },
+    {
+      "id": "memory-and-memorialization",
+      "type": "concept",
+      "label": "\"Memory and Memorialization\"",
+      "description": "\"The role of memory in Wieland — Clara's narrative is an act of memorialization, and the novel examines how memory preserves, transforms, and sometimes fails in the aftermath of trauma.\"",
+      "aliases": [
+        "memory",
+        "memorial",
+        "remembrance",
+        "recollection"
+      ],
+      "tags": [
+        "concept",
+        "memory",
+        "trauma",
+        "narrative",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:memory-and-memorialization",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "summerhouse",
+          "label": "summerhouse"
+        },
+        {
+          "type": "related",
+          "target": "the-temple",
+          "label": "the Temple"
+        },
+        {
+          "type": "related",
+          "target": "testimony-and-witness",
+          "label": "Testimony and Witness"
+        },
+        {
+          "type": "related",
+          "target": "narrative-unreliability",
+          "label": "Narrative Unreliability"
+        },
+        {
+          "type": "related",
+          "target": "spectacle-and-theatricality",
+          "label": "Spectacle and Theatricality"
+        }
+      ]
+    },
+    {
+      "id": "mettingen",
+      "type": "place",
+      "label": "\"Mettingen\"",
+      "description": "\"The Wieland family estate on the banks of the Schuylkill River near Philadelphia — the primary setting of the novel's tragic events, an isolated pastoral retreat whose physical features (the temple, the cliff, the woodlands) become instruments of Gothic terror.\"",
+      "aliases": [
+        "Wieland Estate",
+        "Wieland Farm",
+        "Mettingen Estate"
+      ],
+      "tags": [
+        "place",
+        "primary-setting",
+        "estate",
+        "gothic-setting",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:mettingen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "the-temple",
+          "label": "The Temple"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "death-of-wieland-sr",
+          "label": "Death of Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "murder-of-catharine",
+          "label": "The Murders"
+        }
+      ]
+    },
+    {
+      "id": "moral-responsibility",
+      "type": "concept",
+      "label": "\"Moral Responsibility\"",
+      "description": "\"The novel's central ethical problem: who bears responsibility for the murders — Theodore the actor, Carwin the manipulator, or the religious system that shaped Theodore's mind?\"",
+      "aliases": [
+        "Guilt",
+        "Culpability",
+        "Moral agency"
+      ],
+      "tags": [
+        "concept",
+        "ethics",
+        "law",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:moral-responsibility",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "mr-hallet",
+      "type": "person",
+      "label": "Mr. Hallet",
+      "description": "A distant kinsman of the Wieland family and one of the first to discover the aftermath of the murders; he and his wife cared for Clara during her subsequent illness.",
+      "aliases": [
+        "Hallet",
+        "Mrs. Hallet"
+      ],
+      "tags": [
+        "minor-character",
+        "Mettingen",
+        "witness"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:mr-hallet",
+      "relations": []
+    },
+    {
+      "id": "mrs-baynton",
+      "type": "person",
+      "label": "\"Mrs. Baynton\"",
+      "description": "\"Clara Wieland's maternal figure and foster mother, a worthy lady who provides care and refuge during the unfolding tragedy.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "caregiver",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:mrs-baynton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Thomas Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "murder-of-catharine",
+      "type": "event",
+      "label": "\"Murder of Catharine and Children\"",
+      "description": "\"Theodore Wieland murders his wife Catharine and their children in their home at Mettingen, believing himself commanded by God — the novel's central tragic climax.\"",
+      "aliases": [
+        "The Murders",
+        "Wieland's Crime",
+        "Familicide",
+        "The Slaughter at Mettingen"
+      ],
+      "tags": [
+        "event",
+        "climax",
+        "tragedy",
+        "murder",
+        "religious-fanaticism"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:murder-of-catharine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "narrative-unreliability",
+      "type": "concept",
+      "label": "\"Narrative Unreliability in Wieland\"",
+      "description": "\"An analysis of Clara Wieland's narrative unreliability — how her first-person account is shaped by trauma, love, possible inherited madness, and the inherent limits of subjective testimony in the face of inexplicable events.\"",
+      "aliases": [
+        "unreliable narrator",
+        "Clara's unreliability",
+        "narrative instability"
+      ],
+      "tags": [
+        "concept",
+        "narrative",
+        "epistemology",
+        "clara",
+        "gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:narrative-unreliability",
+      "relations": []
+    },
+    {
+      "id": "patriarchal-authority",
+      "type": "concept",
+      "label": "\"Patriarchal Authority\"",
+      "description": "\"The system of male-headed family governance that structures the Wieland household — and whose collapse drives the novel's domestic tragedy, as the fathers (divine and human) fail to protect those in their care.\"",
+      "aliases": [
+        "Paternal authority",
+        "Patriarchal order",
+        "Family governance",
+        "Domestic hierarchy"
+      ],
+      "tags": [
+        "concept",
+        "social-order",
+        "family",
+        "gothic",
+        "gender"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:patriarchal-authority",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia",
+      "type": "place",
+      "label": "\"Philadelphia\"",
+      "description": "\"The nearest city to the Wieland estate at Mettingen, representing urban civilization and Enlightenment rationality in contrast to the rural Gothic terror of the Schuylkill valley.\"",
+      "aliases": [
+        "The city",
+        "Penn's city"
+      ],
+      "tags": [
+        "place",
+        "city-setting",
+        "historical"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:philadelphia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "American Gothic"
+        }
+      ]
+    },
+    {
+      "id": "pleyel-sr",
+      "type": "person",
+      "label": "\"Pleyel Sr.\"",
+      "description": "\"The father of Henry and Catharine Pleyel, mentioned in the backstory as the parent whose early death shaped his children's circumstances.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "backstory",
+        "minor"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:pleyel-sr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Pleyel Wieland"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        }
+      ]
+    },
+    {
+      "id": "prayer-and-devotion",
+      "type": "concept",
+      "label": "\"Prayer and Devotion\"",
+      "description": "\"The practice and significance of prayer in Wieland — from Wieland Sr.'s solitary midnight devotions to Theodore's final prayers, prayer structures the novel's religious landscape.\"",
+      "aliases": [
+        "prayer",
+        "devotion",
+        "worship",
+        "supplication"
+      ],
+      "tags": [
+        "concept",
+        "prayer",
+        "devotion",
+        "religion",
+        "practice"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:prayer-and-devotion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "the-temple",
+          "label": "the Temple"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "Religious Fanaticism"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "ventriloquism",
+          "label": "Ventriloquism"
+        }
+      ]
+    },
+    {
+      "id": "religious-fanaticism",
+      "type": "concept",
+      "label": "\"Religious Fanaticism\"",
+      "description": "\"The intergenerational force of extreme devotional conviction that compels both Wieland Sr. and Theodore Wieland to violate natural human bonds in the name of divine obedience — the central tragic engine of Wieland and Brown's most devastating critique of unmediated religious experience.\"",
+      "aliases": [
+        "Religious Enthusiasm",
+        "Fanatical Devotion",
+        "Divine Command Mania"
+      ],
+      "tags": [
+        "concept",
+        "religion",
+        "gothic",
+        "tragedy",
+        "theme",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:religious-fanaticism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Enlightenment Rationalism"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Mr. Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic Fiction"
+        }
+      ]
+    },
+    {
+      "id": "savagery-and-civilization",
+      "type": "concept",
+      "label": "\"Savagery and Civilization\"",
+      "description": "\"The Gothic opposition between savagery and civilization in Wieland — the novel tests the boundary between civilized reason and savage violence, finding the distinction more fragile than it appears.\"",
+      "aliases": [
+        "savagery",
+        "civilization",
+        "barbarism",
+        "the primitive"
+      ],
+      "tags": [
+        "concept",
+        "savagery",
+        "civilization",
+        "gothic",
+        "nature"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:savagery-and-civilization",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "Religious Fanaticism"
+        },
+        {
+          "type": "related",
+          "target": "patriarchal-authority",
+          "label": "Patriarchal Authority"
+        },
+        {
+          "type": "related",
+          "target": "supernatural-explanation",
+          "label": "Supernatural Explanation"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Deception"
+        },
+        {
+          "type": "related",
+          "target": "murder-of-catharine",
+          "label": "Murder of Catharine"
+        }
+      ]
+    },
+    {
+      "id": "schuylkill-river",
+      "type": "place",
+      "label": "\"Schuylkill River\"",
+      "description": "\"The river that flows past the Wieland estate at Mettingen — a landscape feature that embodies both pastoral beauty and the sublime, framing the novel's Gothic atmosphere.\"",
+      "aliases": [
+        "Schuylkill",
+        "The river"
+      ],
+      "tags": [
+        "place",
+        "landscape",
+        "river"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:schuylkill-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "secrecy",
+      "type": "concept",
+      "label": "Secrecy",
+      "description": "The structural role of secrecy and concealed knowledge in Wieland, driving the plot and enabling Carwin's manipulations.",
+      "aliases": [
+        "secret",
+        "concealment",
+        "hidden knowledge"
+      ],
+      "tags": [
+        "gothic",
+        "narrative",
+        "Carwin",
+        "deception"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:secrecy",
+      "relations": []
+    },
+    {
+      "id": "sensory-deception",
+      "type": "concept",
+      "label": "\"Sensory Deception\"",
+      "description": "\"The systematic unreliability of the senses — especially hearing — as a recurring motif that drives the plot and undermines Enlightenment confidence in empirical knowledge.\"",
+      "aliases": [
+        "Deception of the senses",
+        "Sensory unreliability",
+        "Auditory hallucination"
+      ],
+      "tags": [
+        "concept",
+        "epistemology",
+        "deception",
+        "gothic",
+        "motif"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:sensory-deception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Sensory deception"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Pleyel's rationalism"
+        }
+      ]
+    },
+    {
+      "id": "silence-and-speech",
+      "type": "concept",
+      "label": "\"Silence and Speech\"",
+      "description": "\"The dialectic of silence and speech in Wieland — characters' strategic silences, the withholding of crucial information, and the weight of what remains unspoken drive the tragedy.\"",
+      "aliases": [
+        "silence",
+        "speech",
+        "withholding",
+        "unsaid"
+      ],
+      "tags": [
+        "concept",
+        "silence",
+        "speech",
+        "communication"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:silence-and-speech",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "eloquence-and-persuasion",
+          "label": "Eloquence and Persuasion"
+        },
+        {
+          "type": "related",
+          "target": "voice-and-authority",
+          "label": "Voice and Authority"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "Secrecy"
+        },
+        {
+          "type": "related",
+          "target": "narrative-unreliability",
+          "label": "Narrative Unreliability"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Deception"
+        }
+      ]
+    },
+    {
+      "id": "spectacle-and-theatricality",
+      "type": "concept",
+      "label": "\"Spectacle and Theatricality\"",
+      "description": "\"The motif of spectacle in Wieland — scenes of horror are framed as theatrical displays, and characters oscillate between spectators and performers in a Gothic theatre of violence.\"",
+      "aliases": [
+        "spectacle",
+        "theatricality",
+        "visual horror"
+      ],
+      "tags": [
+        "concept",
+        "spectacle",
+        "gothic",
+        "visuality"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:spectacle-and-theatricality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "spontaneous-combustion",
+          "label": "spontaneous combustion"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "death-of-wieland-sr",
+          "label": "death of Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "the-temple",
+          "label": "the Temple"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "murder-of-catharine",
+          "label": "murder of Catharine"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "the-trial",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "religious-fanaticism",
+          "label": "religious certainty"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic Fiction"
+        },
+        {
+          "type": "related",
+          "target": "narrative-unreliability",
+          "label": "Narrative Unreliability"
+        }
+      ]
+    },
+    {
+      "id": "spontaneous-combustion",
+      "type": "concept",
+      "label": "\"Spontaneous Combustion\"",
+      "description": "\"The mysterious fiery death of Wieland Sr. in his temple — a classic Gothic spectacle that opens the novel and establishes its central ambivalence between natural and supernatural causation.\"",
+      "aliases": [
+        "Death of Wieland Sr.",
+        "Combustion",
+        "Fiery death"
+      ],
+      "tags": [
+        "concept",
+        "gothic",
+        "death",
+        "mystery",
+        "plot-device"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:spontaneous-combustion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death-of-wieland-sr",
+          "label": "Spontaneous combustion"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "stuart",
+      "type": "person",
+      "label": "\"Major Stuart\"",
+      "description": "\"A military officer and kinsman of Mrs. Maxwell, whose generous character is targeted by Maxwell's deception and whose fate is marked by tragedy.\"",
+      "aliases": [
+        "Stuart",
+        "Major Stuart"
+      ],
+      "tags": [
+        "person",
+        "minor",
+        "military"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:stuart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell",
+          "label": "Maxwell"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "summerhouse",
+      "type": "place",
+      "label": "\"Summerhouse\"",
+      "description": "\"Clara Wieland's secluded retreat on the banks of the Schuylkill River — a key Gothic setting where mysterious voices, midnight encounters, and crucial revelations occur.\"",
+      "aliases": [
+        "Temple of Cloacina",
+        "Summer House"
+      ],
+      "tags": [
+        "place",
+        "gothic-setting",
+        "domestic"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:summerhouse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "American Gothic"
+        }
+      ]
+    },
+    {
+      "id": "supernatural-explanation",
+      "type": "concept",
+      "label": "\"Supernatural Explanation\"",
+      "description": "\"The central epistemological problem of the novel: how to distinguish natural causation from supernatural agency in the face of apparently inexplicable events.\"",
+      "aliases": [
+        "Explained supernatural",
+        "Natural vs. supernatural",
+        "Rational explanation"
+      ],
+      "tags": [
+        "concept",
+        "epistemology",
+        "gothic",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:supernatural-explanation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        }
+      ]
+    },
+    {
+      "id": "terror-and-horror",
+      "type": "concept",
+      "label": "\"Terror and Horror\"",
+      "description": "\"The Gothic aesthetic of fear in Wieland — the novel systematically explores the phenomenology of terror, distinguishing between different modes of fear and their effects on the mind.\"",
+      "aliases": [
+        "terror",
+        "horror",
+        "fear",
+        "dread",
+        "gothic terror"
+      ],
+      "tags": [
+        "concept",
+        "terror",
+        "horror",
+        "gothic",
+        "fear"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:terror-and-horror",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "spontaneous-combustion",
+          "label": "spontaneous combustion"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "murder-of-catharine",
+          "label": "murder of Catharine"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic Fiction"
+        },
+        {
+          "type": "related",
+          "target": "the-sublime",
+          "label": "The Sublime"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "Madness"
+        },
+        {
+          "type": "related",
+          "target": "delusion",
+          "label": "Delusion"
+        }
+      ]
+    },
+    {
+      "id": "testimony-and-witness",
+      "type": "concept",
+      "label": "\"Testimony and Witness\"",
+      "description": "\"The acts of bearing witness and giving testimony in Wieland — Clara's narrative is an act of testimony, and the novel foregrounds the epistemological and moral problems of witnessing horror.\"",
+      "aliases": [
+        "testimony",
+        "witness",
+        "bearing witness",
+        "evidence",
+        "attestation"
+      ],
+      "tags": [
+        "concept",
+        "testimony",
+        "witness",
+        "evidence",
+        "narrative"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:testimony-and-witness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "the-trial",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "narrative-unreliability",
+          "label": "Narrative Unreliability"
+        },
+        {
+          "type": "related",
+          "target": "empiricism-and-evidence",
+          "label": "Empiricism and Evidence"
+        },
+        {
+          "type": "related",
+          "target": "letters-and-correspondence",
+          "label": "Letters and Correspondence"
+        },
+        {
+          "type": "related",
+          "target": "silence-and-speech",
+          "label": "Silence and Speech"
+        }
+      ]
+    },
+    {
+      "id": "the-storm",
+      "type": "event",
+      "label": "\"The Storm\"",
+      "description": "\"A violent tempest that isolates the Wieland household in Chapter 6, trapping the male characters at Clara's house and setting the stage for the first manifestation of the mysterious voices.\"",
+      "aliases": [
+        "The Tempest",
+        "The Thunderstorm"
+      ],
+      "tags": [
+        "event",
+        "weather",
+        "gothic",
+        "plot-device"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:the-storm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Wieland"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic novel"
+        },
+        {
+          "type": "related",
+          "target": "deception",
+          "label": "Carwin's deceptions"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "the-sublime",
+      "type": "concept",
+      "label": "\"The Sublime\"",
+      "description": "\"The aesthetic category of overwhelming, awe-inspiring experience — both terrifying and elevating — that pervades Wieland's landscape descriptions and undergirds its Gothic atmosphere.\"",
+      "aliases": [
+        "Sublimity",
+        "Burkean sublime",
+        "Aesthetic terror"
+      ],
+      "tags": [
+        "concept",
+        "aesthetics",
+        "gothic",
+        "landscape"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:the-sublime",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        }
+      ]
+    },
+    {
+      "id": "the-temple",
+      "type": "place",
+      "label": "\"The Temple\"",
+      "description": "\"The cliffside structure built by Wieland Sr. above the Schuylkill River for solitary worship — the site of his mysterious death, the novel's central symbolic space, and the stage on which the drama of divine command and sensory deception unfolds.\"",
+      "aliases": [
+        "Wieland's Temple",
+        "The Summerhouse",
+        "The Cliff Temple"
+      ],
+      "tags": [
+        "place",
+        "religious-setting",
+        "gothic-setting",
+        "symbolic-space",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:the-temple",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "death-of-wieland-sr",
+          "label": "Death of Wieland Sr."
+        }
+      ]
+    },
+    {
+      "id": "the-trial",
+      "type": "event",
+      "label": "\"The Trial of Theodore Wieland\"",
+      "description": "\"The legal proceedings following the murders, in which Theodore Wieland freely confesses his actions while insisting on divine mandate — a courtroom drama that forces the novel's central question into the language of law, medicine, and public judgment.\"",
+      "aliases": [
+        "Wieland's Trial",
+        "The Examination",
+        "The Court"
+      ],
+      "tags": [
+        "event",
+        "legal",
+        "aftermath",
+        "showcase"
+      ],
+      "quality": "standard",
+      "source_ref": "wieland:the-trial",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "Guilt"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "The city"
+        }
+      ]
+    },
+    {
+      "id": "the-voices-begin",
+      "type": "event",
+      "label": "\"The Voices Begin\"",
+      "description": "\"The first appearance of Carwin's ventriloquial voices at Mettingen — mysterious disembodied utterances that inaugurate the novel's campaign of supernatural-seeming deception.\"",
+      "aliases": [
+        "The First Voice",
+        "The Mysterious Voices",
+        "Auricular Deception"
+      ],
+      "tags": [
+        "event",
+        "mystery",
+        "deception",
+        "ventriloquism"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:the-voices-begin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "theodore-wieland",
+      "type": "person",
+      "label": "\"Theodore Wieland\"",
+      "description": "\"The protagonist-turned-antagonist of the novel — inheritor of his father's religious intensity who, deceived by Carwin's ventriloquism, murders his wife and children in obedience to what he believes is a divine command, embodying the tragic convergence of religious fanaticism and sensory deception.\"",
+      "aliases": [
+        "Wieland",
+        "Theodore"
+      ],
+      "tags": [
+        "person",
+        "protagonist",
+        "antagonist",
+        "perpetrator",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:theodore-wieland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "wieland-sr",
+          "label": "Wieland Sr."
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "murder-of-catharine",
+          "label": "The Murders"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Pleyel's rationalism"
+        }
+      ]
+    },
+    {
+      "id": "theodore-wieland-jr",
+      "type": "person",
+      "label": "\"Theodore Wieland's Children\"",
+      "description": "\"The children of Theodore and Catharine Wieland, victims of their father's religious delusion, whose deaths represent the ultimate horror of the novel's tragedy.\"",
+      "aliases": [
+        "Theodore's children",
+        "Wieland children"
+      ],
+      "tags": [
+        "person",
+        "victim",
+        "minor"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:theodore-wieland-jr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine Wieland"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Henry Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        }
+      ]
+    },
+    {
+      "id": "title-page",
+      "type": "chapter",
+      "label": "\"Title Page\"",
+      "description": "\"Title page of Wieland; or The Transformation\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:title-page",
+      "relations": []
+    },
+    {
+      "id": "uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Public domain dedication\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "wieland:uncopyright",
+      "relations": []
+    },
+    {
+      "id": "ventriloquism",
+      "type": "concept",
+      "label": "\"Ventriloquism (Biloquium)\"",
+      "description": "\"The art of throwing one's voice to create the illusion of a disembodied speaker — the central plot mechanism of Wieland, wielded by Carwin to deceive the Wieland circle, and the novel's deepest philosophical device for interrogating the reliability of sensory evidence.\"",
+      "aliases": [
+        "Biloquium",
+        "Voice-throwing",
+        "Ventrilocution",
+        "Auricular deception"
+      ],
+      "tags": [
+        "concept",
+        "plot-mechanism",
+        "gothic",
+        "sensory-deception",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:ventriloquism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Wieland"
+        },
+        {
+          "type": "related",
+          "target": "carwin",
+          "label": "Carwin"
+        },
+        {
+          "type": "related",
+          "target": "catharine-wieland",
+          "label": "Catharine"
+        },
+        {
+          "type": "related",
+          "target": "mettingen",
+          "label": "Mettingen"
+        },
+        {
+          "type": "related",
+          "target": "henry-pleyel",
+          "label": "Pleyel"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment-rationalism",
+          "label": "Pleyel's rationalism"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "divine-command",
+          "label": "Divine Command"
+        },
+        {
+          "type": "related",
+          "target": "the-voices-begin",
+          "label": "The First Voice"
+        },
+        {
+          "type": "related",
+          "target": "gothic-fiction",
+          "label": "Gothic novel"
+        }
+      ]
+    },
+    {
+      "id": "voice-and-authority",
+      "type": "concept",
+      "label": "\"Voice and Authority in Wieland\"",
+      "description": "\"An analytical exploration of how Wieland interrogates the authority of voice — whose speech is believed, whose testimony is trusted, and how Carwin's ventriloquism exposes the fragility of all vocal authority.\"",
+      "aliases": [
+        "voice",
+        "authority of voice",
+        "whose voice matters"
+      ],
+      "tags": [
+        "concept",
+        "narrative",
+        "epistemology",
+        "authority",
+        "carwin",
+        "clara"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:voice-and-authority",
+      "relations": []
+    },
+    {
+      "id": "wieland-sr",
+      "type": "person",
+      "label": "\"Wieland Sr.\"",
+      "description": "\"The father of Theodore and Clara Wieland — a German immigrant and religious fanatic of the Camissard sect whose mysterious death by spontaneous combustion opens the novel and inaugurates the family tragedy.\"",
+      "aliases": [
+        "The Elder Wieland",
+        "Wieland the Elder",
+        "Theodor Wieland Sr."
+      ],
+      "tags": [
+        "person",
+        "patriarch",
+        "religious-fanatic",
+        "precursor"
+      ],
+      "quality": "featured",
+      "source_ref": "wieland:wieland-sr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "leipzig",
+          "label": "Saxony"
+        },
+        {
+          "type": "related",
+          "target": "hamburg",
+          "label": "Hamburg"
+        },
+        {
+          "type": "related",
+          "target": "schuylkill-river",
+          "label": "Schuylkill River"
+        },
+        {
+          "type": "related",
+          "target": "clara-wieland",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "theodore-wieland",
+          "label": "Theodore"
+        }
+      ]
+    }
+  ]
+}

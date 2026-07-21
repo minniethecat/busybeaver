@@ -1,0 +1,29 @@
+---
+description: "13
+id: ch13-the-same-to-the-same
+label: "13: The Same to the Same"
+tags: ["chapter"]
+type: chapter
+---
+
+### 13
+
+[013-001] The Same to the Same
+
+[013-002] 15a, Whittington Terrace, Bayswater
+
+[013-003] 22.10.28
+
+[013-004] Hullo, [[elizabeth-drake|Bungie]], darling! My God, but Iâm played-out! Iâve been sticking to the accursed *Life* like a leech, and have finished the religious outlook. Having ground it out with incredible sweat and travail, I read it through and thought it so awful that I was in two minds about chucking the whole thing into the fire. However, I didnât, but instead went over and joined Jim in Paris for a week, on his way home, as you saw by my postcard. We had a mildly riotous time in that cheerful city, restraining each other in a brotherly way from the more perilous kinds of exuberance, and reached home feeling fit for anything. I took up the infernal religious outlook, read it through again, and came to the conclusion that it was bloody good stuff, after all! So now I am pressing forward with shouts of joy and encouragement to the critical estimate, which is the only part of the thing I really want to write at all. Dilkes, the dear old man, to whom I explained my troubles, talked to me like fifty fathers, and said extraordinarily nice things. He thinks, by the way, that the flippant and imaginative kind of biography has had its day, having been too much imitated, and that the time has come round again for solid facts and research. âThe great humility of science, in face of the infinite and valuable variety of Truth.â Isnât that an exquisite Victorian remark? âWe should pray,â said he, making me feel like a very grubby fourth-form infant, âto be delivered from cleverness, because very clever people end by finding that nothing is worth while.â So I said, rather ungraciously, that probably nothing *was* worth while, and he gave the funniest twinkle from under his thick eyebrows and replied: âYou must not think that, or you will become a bore.â
+
+[013-005] My parson turns out to be rather an enlightened person. It appears he took a mathematical tripos among other things, which is one up to him. He also has read Eddington, and, moreover, took it for granted that I had read Jeans and Japp and one or two other fantastic scientists whose names I had never heard of, which was two up to him. Also, he seemed quite delighted about the whole thing, and said he was thankful to find that scientists would at last allow him to believe what the Church taught, which in his young days they wouldnât. I should have put this down to the usual shifty ecclesiastical claptrap, but for the obvious fact that he knew what he was talking about, and I didnât, so, feeling a fool, I put a good face on the matter and asked his advice about the religious outlook chapter. He gave me some really very useful stuff about Victorian materialism, which you will find in the book when itâs finished. We ended by discussing, with much laughter, some incredibly silly letter from correspondents in the *Daily Dispatch*, one of whom said: âSir, Genesis says that God made Adam from the dust of the earth. God is the initial cause and dust is protoplasm. Yours faithfullyâ; while the reply observed briefly, âSir, Dust is not protoplasm, Yours faithfully.â
+
+[013-006] Dearest, do you really want to be married to the sort of unsatisfactory bloke I am? It is extraordinarily brave and dear of you. You will have a devil of a time. I want to warn you now that when I say I want you to keep your independence and exquisite detachment, I donât really mean it. I shall try to mould you into the mirror of myself, fatally and inevitably. When I say I am not jealous, either of your work or friends, I am lying. When I promise to look at things from your point of view, I am promising what I cannot perform. When I declare myself ready to discuss everything fully and freely and have a *situation nette*, I am pretending to be more honest than a man ever is or can be. I shall be reticent, inconsistent, selfish and jealous. I shall put my interests before yours, and the slightest suggestion that I should put myself out to give you peace and quietness to work in will wound my self-importance. I know it. I shall pretend to give you freedom, and make such an unholy martyr of myself that you will take up your chains for the sake of a quiet life. You will end by hating me, and leave me for some scamp of a fellow who knows how to handle women. And you will be quite right, from your point of view. I have been trying to look honestly into the thing, and I want to warn you. You think I am âdifferent,â but I am not. With all your theoretical knowledge, Bungie, you havenât had experience. You are generous, I know, and think you are willing to risk it, but I must try and make you understand the facts. Donât think that I am wanting for one moment to cut our engagement out. I want you as I have never wanted anything. I want you terribly. But do try and understand that it wonât be what you think. I donât want us to end in a ghastly sort of muddle.
+
+[013-007] I know you will say that you understand, but you donât. You have an ideaï»¿âall women haveï»¿âthat you can enter into a manâs point of view. You canât; any more than I can enter into a womanâs point of view. Donât, for Godâs sake, tell me to cheer up and it will be all right. Donât be sweet and understandingï»¿âbe brutal, if you likeï»¿âI shall not take offence at anything you may say, but I want you to realise what you are in for.
+
+[013-008] Yours ever,
+
+[013-009] **Jack**
+
+[013-010] P.S. This is arrant hypocrisy. I am bound to take offence, whatever you say, and we shall have one of those painful and acrimonious arguments. If you say nothing, I shall be offended at that, too. But for Godâs sake donât chuck me, Bungie.

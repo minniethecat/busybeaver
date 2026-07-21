@@ -1,0 +1,9 @@
+---
+description: "This little treatise is part of a longer work which I began years ago without realising my limitations, and long since abandoned. Of the various fragments that…"
+id: Foreword
+label: "Foreword"
+tags: ["chapter"]
+type: chapter
+---
+
+[P03-001] This little treatise is part of a longer work which I began years ago without realising my limitations, and long since abandoned. Of the various fragments that might have been extracted from what I wrote, this is the most considerable, and, I think, the least unworthy of being offered to the public. The rest no longer exists.

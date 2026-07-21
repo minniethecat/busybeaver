@@ -1,0 +1,4655 @@
+{
+  "book": "murder-in-the-maze",
+  "title": "Murder in the Maze",
+  "description": "Murder in the Maze — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 108,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Murder in the Maze\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Production credits for this Standard Ebooks edition of Murder in the Maze.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "maze"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Publishing metadata for this Standard Ebooks edition of Murder in the Maze.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "\"Table of Contents\"",
+      "description": "\"Table of Contents for Murder in the Maze\"",
+      "aliases": [
+        "TOC",
+        "Contents"
+      ],
+      "tags": [
+        "overview"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Imprint",
+          "label": "Imprint"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        },
+        {
+          "type": "related",
+          "target": "ch01-the-hackleton-case",
+          "label": "ch01-the-hackleton-case"
+        },
+        {
+          "type": "related",
+          "target": "ch02-the-affair-in-the-maze",
+          "label": "ch02-the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "ch03-the-immediate-results",
+          "label": "ch03-the-immediate-results"
+        },
+        {
+          "type": "related",
+          "target": "ch04-the-chief-constable",
+          "label": "ch04-the-chief-constable"
+        },
+        {
+          "type": "related",
+          "target": "ch05-the-evidence-in-the-case",
+          "label": "ch05-the-evidence-in-the-case"
+        },
+        {
+          "type": "related",
+          "target": "ch06-the-toxicologist",
+          "label": "ch06-the-toxicologist"
+        },
+        {
+          "type": "related",
+          "target": "ch07-the-pot-of-curare",
+          "label": "ch07-the-pot-of-curare"
+        },
+        {
+          "type": "related",
+          "target": "ch08-opportunity-method-and-motive",
+          "label": "ch08-opportunity-method-and-motive"
+        },
+        {
+          "type": "related",
+          "target": "ch09-the-burglary-at-whistlefield",
+          "label": "ch09-the-burglary-at-whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "ch10-the-third-attack-in-the-maze",
+          "label": "ch10-the-third-attack-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "ch11-the-squires-theories",
+          "label": "ch11-the-squires-theories"
+        },
+        {
+          "type": "related",
+          "target": "ch12-the-fourth-attack",
+          "label": "ch12-the-fourth-attack"
+        },
+        {
+          "type": "related",
+          "target": "ch13-the-dart",
+          "label": "ch13-the-dart"
+        },
+        {
+          "type": "related",
+          "target": "ch14-the-forged-cheque",
+          "label": "ch14-the-forged-cheque"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-secretarys-affairs",
+          "label": "ch15-the-secretarys-affairs"
+        },
+        {
+          "type": "related",
+          "target": "ch16-the-last-attack-in-the-maze",
+          "label": "ch16-the-last-attack-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-siege-in-the-maze",
+          "label": "ch17-the-siege-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "ch18-the-truth-of-the-matter",
+          "label": "ch18-the-truth-of-the-matter"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Public domain dedication for this Standard Ebooks edition.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "air-rifle",
+      "type": "concept",
+      "label": "The Air-Rifle",
+      "description": "The silenced air-rifle used as the murder weapon in the Whistlefield Maze killings — a near-silent projectile weapon modified to deliver curare-tipped darts",
+      "aliases": [
+        "airgun",
+        "air-gun",
+        "air rifle",
+        "the murder weapon"
+      ],
+      "tags": [
+        "weapon",
+        "murder-method",
+        "forensic"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:air-rifle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        }
+      ]
+    },
+    {
+      "id": "alibi",
+      "type": "concept",
+      "label": "Alibi",
+      "description": "The legal defence of having been elsewhere at the time of a crime — a central investigative concept in the Maze murders, particularly regarding the suspects' whereabouts during the attacks",
+      "aliases": [
+        "alibis",
+        "the alibi problem"
+      ],
+      "tags": [
+        "legal",
+        "investigation",
+        "deduction"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:alibi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        }
+      ]
+    },
+    {
+      "id": "arthur-hawkhurst",
+      "type": "person",
+      "label": "Arthur Hawkhurst",
+      "description": "Arthur Hawkhurst, nephew of Roger Shandon and a beneficiary of his will — an expert airgun marksman whose weapon, skill, and access to curare make him the most obvious suspect in the Maze murders",
+      "aliases": [
+        "Arthur",
+        "young Hawkhurst",
+        "Mr. Hawkhurst"
+      ],
+      "tags": [
+        "suspect",
+        "marksman",
+        "beneficiary"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:arthur-hawkhurst",
+      "relations": [
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicion"
+        }
+      ]
+    },
+    {
+      "id": "barrister",
+      "type": "concept",
+      "label": "Barrister",
+      "description": "The legal profession of courtroom advocacy — embodied by Neville Shandon KC, whose barrister's skills drive the Hackleton prosecution and whose absence after his murder reshapes that trial",
+      "aliases": [
+        "King's Counsel",
+        "counsel",
+        "lawyer",
+        "advocate",
+        "the Bar"
+      ],
+      "tags": [
+        "legal",
+        "profession",
+        "character-role"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:barrister",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "the-hackleton-case"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "cross-examination"
+        },
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "neville-shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        }
+      ]
+    },
+    {
+      "id": "blackmail",
+      "type": "concept",
+      "label": "Blackmail",
+      "description": "The criminal demand for money under threat of exposure — a recurring motive and subplot in the Whistlefield murder case",
+      "aliases": [
+        "extortion",
+        "threats",
+        "hush-money",
+        "blackmailing"
+      ],
+      "tags": [
+        "crime",
+        "motive",
+        "legal"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:blackmail",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "the-hackleton-case"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "roger-shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "neville-shandon"
+        }
+      ]
+    },
+    {
+      "id": "ch01-the-hackleton-case",
+      "type": "chapter",
+      "label": "\"I: The Hackleton Case\"",
+      "description": "\"Neville Shandon stood at the window of his brother’s study gazing contentedly out over the Whistlefield grounds.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch01-the-hackleton-case",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "The Hackleton Case"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the estate"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witnesses"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        }
+      ]
+    },
+    {
+      "id": "ch02-the-affair-in-the-maze",
+      "type": "chapter",
+      "label": "\"II: The Affair in the Maze\"",
+      "description": "\"Howard Torrance fidgeted a little and then turned to the girl beside him.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch02-the-affair-in-the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "The Affair in the Maze"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Howard Torrance"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera Forrest"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "The Maze"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "pool-of-narcissus",
+          "label": "Pool of Narcissus"
+        }
+      ]
+    },
+    {
+      "id": "ch03-the-immediate-results",
+      "type": "chapter",
+      "label": "\"III: The Immediate Results\"",
+      "description": "\"As she took shortcuts across the lawns, Vera kept a sharp lookout; but no one was in sight.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch03-the-immediate-results",
+      "relations": [
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "questioning"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the labyrinth"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "the Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        }
+      ]
+    },
+    {
+      "id": "ch04-the-chief-constable",
+      "type": "chapter",
+      "label": "\"IV: The Chief Constable\"",
+      "description": "\"As Stenness picked his way through the convolutions of the Maze, his face showed that his mind was at work on some puzzling problem.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch04-the-chief-constable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "The Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "the Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "pool-of-narcissus",
+          "label": "Pool of Narcissus"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the estate"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "airgun darts"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the collection"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the labyrinth"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "Poison"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        }
+      ]
+    },
+    {
+      "id": "ch05-the-evidence-in-the-case",
+      "type": "chapter",
+      "label": "\"V: The Evidence in the Case\"",
+      "description": "\"When the doctor had completed his work and left the room, Sir Clinton pulled the tin box of darts from his pocket and went over to the window to examine it.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch05-the-evidence-in-the-case",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "Evidence"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicions"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "pool-of-narcissus",
+          "label": "Pool of Narcissus"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "The Maze"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "The Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "the inquest"
+        },
+        {
+          "type": "related",
+          "target": "constable-at-whistlefield",
+          "label": "the constable"
+        }
+      ]
+    },
+    {
+      "id": "ch06-the-toxicologist",
+      "type": "chapter",
+      "label": "\"VI: The Toxicologist\"",
+      "description": "\"“The next port of call, Squire, will be Dr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch06-the-toxicologist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "constable-at-whistlefield",
+          "label": "the constable"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "the inquest"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "Curare"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        }
+      ]
+    },
+    {
+      "id": "ch07-the-pot-of-curare",
+      "type": "chapter",
+      "label": "\"VII: The Pot of Curare\"",
+      "description": "\"After leaving the Chief Constable in the village, Wendover took the road to Whistlefield.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch07-the-pot-of-curare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "Curare"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "the Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the museum"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "The Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicions"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        }
+      ]
+    },
+    {
+      "id": "ch08-opportunity-method-and-motive",
+      "type": "chapter",
+      "label": "\"VIII: Opportunity, Method, and Motive\"",
+      "description": "\"Wendover picked up the decanter and poured out some whiskey for his guest.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch08-opportunity-method-and-motive",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "The Maze"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "clues"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witnesses"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the estate"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "young Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspects"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        }
+      ]
+    },
+    {
+      "id": "ch09-the-burglary-at-whistlefield",
+      "type": "chapter",
+      "label": "\"IX: The Burglary at Whistlefield\"",
+      "description": "\"When Sir Clinton came down to breakfast on the following morning, Wendover thought that he looked tired and worried, though he was doing his best to show...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch09-the-burglary-at-whistlefield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-burglary-at-whistlefield",
+          "label": "The Burglary at Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "The Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the museum"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the labyrinth"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        }
+      ]
+    },
+    {
+      "id": "ch10-the-third-attack-in-the-maze",
+      "type": "chapter",
+      "label": "\"X: The Third Attack in the Maze\"",
+      "description": "\"When Sir Clinton came down from his room Wendover noticed that he had mastered his vexation.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch10-the-third-attack-in-the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-third-attack-in-the-maze",
+          "label": "The Third Attack in the Maze"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspect"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        }
+      ]
+    },
+    {
+      "id": "ch11-the-squires-theories",
+      "type": "chapter",
+      "label": "\"XI: The Squire’s Theories\"",
+      "description": "\"Wendover nodded.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch11-the-squires-theories",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the labyrinth"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "clues"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspect"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the museum"
+        }
+      ]
+    },
+    {
+      "id": "ch12-the-fourth-attack",
+      "type": "chapter",
+      "label": "\"XII: The Fourth Attack\"",
+      "description": "\"“I see the coroner’s jury brought in a verdict of wilful murder against some person or persons unknown,” Wendover remarked.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch12-the-fourth-attack",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fourth-attack",
+          "label": "The Fourth Attack"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "Hackleton"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "interrogation"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        }
+      ]
+    },
+    {
+      "id": "ch13-the-dart",
+      "type": "chapter",
+      "label": "\"XIII: The Dart\"",
+      "description": "\"The period immediately following the attack upon Sylvia was one of intense inquietude in Wendover’s mind.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch13-the-dart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "the Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "the evidence"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera Forrest"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the estate"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspects"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the museum"
+        }
+      ]
+    },
+    {
+      "id": "ch14-the-forged-cheque",
+      "type": "chapter",
+      "label": "\"XIV: The Forged Cheque\"",
+      "description": "\"Sir Clinton had yet another surprise in store for his host.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch14-the-forged-cheque",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicions"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "forgery",
+          "label": "the forgery"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        }
+      ]
+    },
+    {
+      "id": "ch15-the-secretarys-affairs",
+      "type": "chapter",
+      "label": "\"XV: The Secretary’s Affairs\"",
+      "description": "\"Sir Clinton received Ardsley’s news almost as if he had feared that the end was inevitable.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch15-the-secretarys-affairs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "forgery",
+          "label": "forged cheque"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        }
+      ]
+    },
+    {
+      "id": "ch16-the-last-attack-in-the-maze",
+      "type": "chapter",
+      "label": "\"XVI: The Last Attack in the Maze\"",
+      "description": "\"When Ardsley and the Chief Constable entered the other room they found Wendover with Ernest Shandon and Arthur.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch16-the-last-attack-in-the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-last-attack-in-the-maze",
+          "label": "The Last Attack in the Maze"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "the Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        }
+      ]
+    },
+    {
+      "id": "ch17-the-siege-in-the-maze",
+      "type": "chapter",
+      "label": "\"XVII: The Siege in the Maze\"",
+      "description": "\"Wendover was awakened next morning in an unfamiliar bedroom to find Sir Clinton at his side.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch17-the-siege-in-the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-siege-in-the-maze",
+          "label": "The Siege in the Maze"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "The Chief Constable"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "the secretary"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "The Maze"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur"
+        },
+        {
+          "type": "related",
+          "target": "constable-at-whistlefield",
+          "label": "the constable"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspect"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witnesses"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "the inquest"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera Forrest"
+        }
+      ]
+    },
+    {
+      "id": "ch18-the-truth-of-the-matter",
+      "type": "chapter",
+      "label": "\"XVIII: The Truth of the Matter\"",
+      "description": "\"Wendover brought out cigars and cigarettes, and endeavoured to make his guests as comfortable as possible without too much fuss.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "murder-in-the-maze:ch18-the-truth-of-the-matter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "Ardsley"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Miss Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Miss Forrest"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Torrance"
+        },
+        {
+          "type": "related",
+          "target": "hackleton",
+          "label": "the Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "the darts"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspect"
+        },
+        {
+          "type": "related",
+          "target": "costock",
+          "label": "Costock"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "the poison"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "Whistlefield museum"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "clues"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibis"
+        },
+        {
+          "type": "related",
+          "target": "the-chief-constable",
+          "label": "Chief Constable"
+        }
+      ]
+    },
+    {
+      "id": "clue",
+      "type": "concept",
+      "label": "Clue",
+      "description": "Physical traces and logical signs that guide investigation — from the poisoned darts to the black thread that becomes the novel's central device of misdirection",
+      "aliases": [
+        "evidence",
+        "traces",
+        "threads",
+        "Ariadne's clue"
+      ],
+      "tags": [
+        "deduction",
+        "method",
+        "plot-device"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:clue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        }
+      ]
+    },
+    {
+      "id": "constable-at-whistlefield",
+      "type": "person",
+      "label": "The Constable at Whistlefield",
+      "description": "The local police constable who discovers the darts and tin lid at the Maze — his routine search of the crime scene yields the first crucial physical evidence",
+      "aliases": [
+        "the constable",
+        "the police constable"
+      ],
+      "tags": [
+        "police",
+        "witness",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:constable-at-whistlefield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        }
+      ]
+    },
+    {
+      "id": "coroner",
+      "type": "concept",
+      "label": "Coroner",
+      "description": "The judicial officer responsible for investigating sudden or suspicious deaths — the coroner's inquest provides the first official finding on the Shandon murders",
+      "aliases": [
+        "coroner's court",
+        "coroner's inquest",
+        "the coroner"
+      ],
+      "tags": [
+        "legal",
+        "procedure",
+        "investigation"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:coroner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jury",
+          "label": "jury"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        }
+      ]
+    },
+    {
+      "id": "costock",
+      "type": "person",
+      "label": "Costock",
+      "description": "Costock, a minor character in the Maze murder investigation",
+      "aliases": [
+        "Costock"
+      ],
+      "tags": [
+        "suspect",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:costock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "sir-clinton-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        }
+      ]
+    },
+    {
+      "id": "cross-examination",
+      "type": "concept",
+      "label": "Cross-Examination",
+      "description": "The legal process of testing witness testimony through adversarial questioning — a key procedural mechanism in the novel's investigation and its climactic revelations",
+      "aliases": [
+        "cross examination",
+        "questioning",
+        "interrogation",
+        "the inquest"
+      ],
+      "tags": [
+        "legal",
+        "procedure",
+        "testimony"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:cross-examination",
+      "relations": [
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witness"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicion"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        }
+      ]
+    },
+    {
+      "id": "curare",
+      "type": "concept",
+      "label": "Curare",
+      "description": "A fast-acting South American arrow poison used to tip the darts fired in the Whistlefield Maze murders — the key forensic discovery that reveals the murder method",
+      "aliases": [
+        "curara",
+        "Indian arrow-poison",
+        "arrow poison",
+        "para curare",
+        "calabash curare",
+        "pot curare"
+      ],
+      "tags": [
+        "poison",
+        "murder-method",
+        "forensic",
+        "toxicology"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:curare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "toxicology",
+          "label": "toxicology"
+        }
+      ]
+    },
+    {
+      "id": "darts",
+      "type": "concept",
+      "label": "Darts",
+      "description": "The curare-tipped projectiles fired from the air-rifle in the Whistlefield Maze murders — the physical evidence discovered at the scene that reveals the killing method",
+      "aliases": [
+        "airgun darts",
+        "air-rifle darts",
+        "the darts",
+        "feathered darts"
+      ],
+      "tags": [
+        "weapon",
+        "forensic",
+        "murder-method"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:darts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the Maze"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "wendover"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        }
+      ]
+    },
+    {
+      "id": "deduction",
+      "type": "concept",
+      "label": "Deduction",
+      "description": "Sir Clinton Driffield's method of logical deduction — reasoning from general principles to specific conclusions — as the intellectual engine of the Maze murder investigation",
+      "aliases": [
+        "deductive reasoning",
+        "deductive method",
+        "logical deduction",
+        "the detective's method"
+      ],
+      "tags": [
+        "method",
+        "investigation",
+        "reasoning"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:deduction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicion"
+        }
+      ]
+    },
+    {
+      "id": "dr-ardsley",
+      "type": "person",
+      "label": "Dr. Ardsley",
+      "description": "Dr. Ardsley, the local toxicologist whose expertise identifies curare as the poison used in the Maze murders — a grim, clean-shaven man whose vivisection work makes him both essential to the investigation and morally suspect to some characters",
+      "aliases": [
+        "Ardsley",
+        "the toxicologist",
+        "Dr. Ardsley"
+      ],
+      "tags": [
+        "suspect",
+        "toxicologist",
+        "expert-witness",
+        "scientist"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:dr-ardsley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "toxicology",
+          "label": "toxicology"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the-museum-at-whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicion"
+        }
+      ]
+    },
+    {
+      "id": "dr-ardsleys-laboratory",
+      "type": "place",
+      "label": "Dr. Ardsleys Laboratory",
+      "description": "The research laboratory where Dr. Ardsley conducts his toxicological experiments and vivisection work",
+      "aliases": [
+        "Dr. Ardsleys Laboratory"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:dr-ardsleys-laboratory",
+      "relations": []
+    },
+    {
+      "id": "ernest-shandon",
+      "type": "person",
+      "label": "Ernest Shandon",
+      "description": "Ernest Shandon, brother of Roger and Neville Shandon, whose broken alibi — exposed through Sir Clinton's bicycle-distance analysis — makes him the investigation's prime suspect and ultimately the identified killer",
+      "aliases": [
+        "Ernest",
+        "Mr. Ernest Shandon"
+      ],
+      "tags": [
+        "suspect",
+        "perpetrator",
+        "beneficiary"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:ernest-shandon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        },
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "sir-clinton-driffield"
+        }
+      ]
+    },
+    {
+      "id": "estate",
+      "type": "concept",
+      "label": "Estate",
+      "description": "The legal and physical entity of a landed property — Whistlefield functions as both the novel's setting and a contested asset whose disposition drives motive and plot",
+      "aliases": [
+        "Whistlefield estate",
+        "country estate",
+        "property",
+        "inheritance",
+        "the estate"
+      ],
+      "tags": [
+        "setting",
+        "legal",
+        "property",
+        "inheritance"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:estate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-burglary-at-whistlefield",
+          "label": "the-burglary-at-whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "roger-shandon"
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "type": "concept",
+      "label": "Evidence",
+      "description": "The physical and testimonial proof gathered during the investigation of the Whistlefield Maze murders — darts, curare, witness statements, and the forensic reasoning that connects them",
+      "aliases": [
+        "forensic evidence",
+        "physical evidence",
+        "clues",
+        "the evidence"
+      ],
+      "tags": [
+        "forensic",
+        "investigation",
+        "legal"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:evidence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        }
+      ]
+    },
+    {
+      "id": "fingerprint",
+      "type": "concept",
+      "label": "Fingerprint",
+      "description": "The forensic technique of identifying individuals by their unique finger marks — used by Sir Clinton as a precautionary measure in the Whistlefield investigation",
+      "aliases": [
+        "fingerprints",
+        "fingermarks",
+        "finger-marks",
+        "fingerprint evidence"
+      ],
+      "tags": [
+        "forensic",
+        "evidence",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:fingerprint",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clue",
+          "label": "clue"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        }
+      ]
+    },
+    {
+      "id": "forgery",
+      "type": "concept",
+      "label": "Forgery",
+      "description": "The act of forging a signature on a financial instrument — a plot device that provides motive and backstory for one of the key suspects in the Maze murders",
+      "aliases": [
+        "forged cheque",
+        "the forgery",
+        "cheque forgery"
+      ],
+      "tags": [
+        "crime",
+        "motive",
+        "financial"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:forgery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        }
+      ]
+    },
+    {
+      "id": "hackleton",
+      "type": "person",
+      "label": "Hackleton",
+      "description": "Hackleton, a figure from the backstory of the Shandon family whose past legal troubles — the \"Hackleton case\" — provide a backdrop of financial intrigue to the Maze murders",
+      "aliases": [
+        "Mr. Hackleton",
+        "the Hackleton case"
+      ],
+      "tags": [
+        "suspect",
+        "backstory",
+        "legal"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:hackleton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "ernest-shandon"
+        }
+      ]
+    },
+    {
+      "id": "helens-bower",
+      "type": "place",
+      "label": "Helens Bower",
+      "description": "One of the two centres of the Whistlefield Maze where Roger Shandon's body is found",
+      "aliases": [
+        "Helens Bower"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:helens-bower",
+      "relations": []
+    },
+    {
+      "id": "howard-torrance",
+      "type": "person",
+      "label": "Howard Torrance",
+      "description": "Howard Torrance, Roger Shandon's private secretary, whose financial difficulties, involvement in a cheque forgery, and presence near the Maze at the time of the murders make him a significant suspect",
+      "aliases": [
+        "Torrance",
+        "the secretary",
+        "Mr. Torrance"
+      ],
+      "tags": [
+        "suspect",
+        "secretary",
+        "forger"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:howard-torrance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "forgery",
+          "label": "forgery"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "vera-forrest"
+        }
+      ]
+    },
+    {
+      "id": "jury",
+      "type": "concept",
+      "label": "Jury",
+      "description": "The panel of citizens who determine facts and return verdicts in English criminal trials — a recurring reference point in the novel's examination of evidence and proof",
+      "aliases": [
+        "jurors",
+        "coroner's jury",
+        "trial jury",
+        "verdict"
+      ],
+      "tags": [
+        "legal",
+        "procedure",
+        "justice-system"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:jury",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "cross-examination"
+        },
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "the-inquest",
+          "label": "the-inquest"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "the-hackleton-case"
+        }
+      ]
+    },
+    {
+      "id": "motive-means-and-opportunity",
+      "type": "concept",
+      "label": "Motive, Means, and Opportunity",
+      "description": "The classical investigative triad — the three necessary conditions for a crime — that structures Sir Clinton Driffield's methodical investigation of the Maze murders",
+      "aliases": [
+        "means motive opportunity",
+        "the investigative triad",
+        "opportunity method and motive"
+      ],
+      "tags": [
+        "investigation",
+        "deduction",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:motive-means-and-opportunity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "forgery",
+          "label": "forgery"
+        }
+      ]
+    },
+    {
+      "id": "neville-shandon",
+      "type": "person",
+      "label": "Neville Shandon",
+      "description": "Neville Shandon, brother of Roger and Ernest Shandon, killed alongside Roger in the Maze — his death as a co-victim rather than the sole target complicates the investigation's understanding of motive",
+      "aliases": [
+        "Neville",
+        "Mr. Neville Shandon"
+      ],
+      "tags": [
+        "victim",
+        "brother",
+        "co-victim"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:neville-shandon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "roger-shandon"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "ernest-shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        }
+      ]
+    },
+    {
+      "id": "poison",
+      "type": "concept",
+      "label": "Poison",
+      "description": "The use of poison as a murder method in the Whistlefield Maze killings — a recurring motif in Golden Age detective fiction, here realised through curare delivered by air-rifle dart",
+      "aliases": [
+        "poisoning",
+        "the poison",
+        "toxic substance",
+        "lethal agent"
+      ],
+      "tags": [
+        "murder-method",
+        "forensic",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:poison",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the-museum-at-whistlefield"
+        }
+      ]
+    },
+    {
+      "id": "pool-of-narcissus",
+      "type": "place",
+      "label": "Pool of Narcissus",
+      "description": "The second centre of the Whistlefield Maze where Neville Shandon's body is discovered",
+      "aliases": [
+        "Pool of Narcissus"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:pool-of-narcissus",
+      "relations": []
+    },
+    {
+      "id": "roger-shandon",
+      "type": "person",
+      "label": "Roger Shandon",
+      "description": "Roger Shandon, the wealthy owner of Whistlefield estate and the first victim of the Maze murders — a collector of curiosities whose museum contained the curare used to kill him",
+      "aliases": [
+        "Roger",
+        "Mr. Shandon",
+        "the first victim"
+      ],
+      "tags": [
+        "victim",
+        "wealthy",
+        "collector"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:roger-shandon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "the-museum-at-whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        }
+      ]
+    },
+    {
+      "id": "scotland-yard",
+      "type": "place",
+      "label": "Scotland Yard",
+      "description": "The London headquarters referenced as the source of Sir Clinton Driffield's investigative authority",
+      "aliases": [
+        "Scotland Yard"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:scotland-yard",
+      "relations": []
+    },
+    {
+      "id": "scotland-yard-org",
+      "type": "organization",
+      "label": "Scotland Yard",
+      "description": "The Metropolitan Police headquarters in London, representing official police authority in the Maze murder investigation",
+      "aliases": [
+        "Scotland Yard"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:scotland-yard-org",
+      "relations": []
+    },
+    {
+      "id": "sir-clinton-driffield",
+      "type": "person",
+      "label": "Sir Clinton Driffield",
+      "description": "Sir Clinton Driffield, the Chief Constable who investigates the Whistlefield Maze murders — a methodical, scientifically-minded detective whose deductive reasoning drives the investigation",
+      "aliases": [
+        "Sir Clinton",
+        "Driffield",
+        "the Chief Constable"
+      ],
+      "tags": [
+        "detective",
+        "police",
+        "investigator"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:sir-clinton-driffield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        }
+      ]
+    },
+    {
+      "id": "stenness",
+      "type": "person",
+      "label": "Stenness",
+      "description": "Stenness, a local man intimately familiar with the Whistlefield Maze, who serves as Sir Clinton's guide through the labyrinth and whose personal involvement with one of the suspects adds an emotional dimension to the investigation",
+      "aliases": [
+        "Mr. Stenness"
+      ],
+      "tags": [
+        "supporting",
+        "guide",
+        "local"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:stenness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "Whistlefield Maze"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "sir-clinton-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "wendover"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "vera-forrest"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        }
+      ]
+    },
+    {
+      "id": "suspicion",
+      "type": "concept",
+      "label": "Suspicion",
+      "description": "The psychological and investigative dynamics of suspicion — how it gathers around certain characters, shifts between suspects, and is ultimately resolved through rational deduction in the Maze murder case",
+      "aliases": [
+        "suspicions",
+        "suspect",
+        "suspects",
+        "the web of suspicion"
+      ],
+      "tags": [
+        "investigation",
+        "psychology",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:suspicion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "cross-examination"
+        }
+      ]
+    },
+    {
+      "id": "sylvia-hawkhurst",
+      "type": "person",
+      "label": "Sylvia Hawkhurst",
+      "description": "Sylvia Hawkhurst, niece of Roger Shandon, sister of Arthur Hawkhurst, and a beneficiary of Roger's will — a young woman whose romantic entanglements and family position place her at the periphery of the murder investigation",
+      "aliases": [
+        "Sylvia",
+        "Miss Hawkhurst"
+      ],
+      "tags": [
+        "beneficiary",
+        "family",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:sylvia-hawkhurst",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "arthur-hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "roger-shandon"
+        }
+      ]
+    },
+    {
+      "id": "the-affair-in-the-maze",
+      "type": "event",
+      "label": "The Affair in the Maze",
+      "description": "The central crime of the novel — the murder of Roger and Neville Shandon by curare-tipped air-rifle darts fired from concealment within the Whistlefield Maze, witnessed aurally by [[vera-forrest|Vera Forrest]] and discovered by [[howard-torrance|Howard Torrance]].",
+      "aliases": [
+        "The Maze murders",
+        "the Shandon murders",
+        "the double murder at Whistlefield"
+      ],
+      "tags": [
+        "murder",
+        "crime",
+        "double-homicide",
+        "curare",
+        "air-rifle",
+        "labyrinth"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-affair-in-the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "Whistlefield Maze"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "curare-tipped darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera Forrest"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Howard Torrance"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton Driffield"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "helens-bower",
+          "label": "Helen's Bower"
+        },
+        {
+          "type": "related",
+          "target": "pool-of-narcissus",
+          "label": "Pool of Narcissus"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        },
+        {
+          "type": "related",
+          "target": "the-hawkhurst-family",
+          "label": "the-hawkhurst-family"
+        }
+      ]
+    },
+    {
+      "id": "the-bicycle-witnesses",
+      "type": "organization",
+      "label": "The Bicycle Witnesses",
+      "description": "The witnesses whose accounts of bicycle traffic near Whistlefield help Sir Clinton break Ernest Shandon's alibi",
+      "aliases": [
+        "The Bicycle Witnesses"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-bicycle-witnesses",
+      "relations": []
+    },
+    {
+      "id": "the-boat-house",
+      "type": "place",
+      "label": "The Boat House",
+      "description": "The boathouse on the riverbank at the edge of the Whistlefield estate, adjacent to the Maze — a critical location for the murderer's escape route, the disposal of the weapon, and the final siege.",
+      "aliases": [
+        "The Boathouse",
+        "the boat-house",
+        "the river boathouse"
+      ],
+      "tags": [
+        "outbuilding",
+        "riverside",
+        "crime-scene",
+        "weapon-recovery",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-boat-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "Maze"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton Driffield"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "airgun darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "airgun"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Squire Wendover"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "stenness"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "the-hackleton-case"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        }
+      ]
+    },
+    {
+      "id": "the-burglary-at-whistlefield",
+      "type": "event",
+      "label": "The Burglary at Whistlefield",
+      "description": "A burglary that complicates the investigation, potentially linked to the forgery subplot",
+      "aliases": [
+        "The Burglary at Whistlefield"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-burglary-at-whistlefield",
+      "relations": []
+    },
+    {
+      "id": "the-butler",
+      "type": "person",
+      "label": "The Butler",
+      "description": "The butler at Whistlefield estate, whose routine observations — noting who passed the window, who carried what — provide crucial circumstantial evidence in the Maze murder investigation",
+      "aliases": [
+        "the butler at Whistlefield"
+      ],
+      "tags": [
+        "witness",
+        "servant",
+        "observer"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-butler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "arthur-hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witness"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        }
+      ]
+    },
+    {
+      "id": "the-chief-constable",
+      "type": "person",
+      "label": "The Chief Constable",
+      "description": "The local Chief Constable who provides official police support to Sir Clinton Driffield's investigation — a figure of institutional authority who defers to Sir Clinton's superior analytical skills",
+      "aliases": [
+        "Chief Constable",
+        "the local Chief Constable"
+      ],
+      "tags": [
+        "police",
+        "authority",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-chief-constable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "sir-clinton-driffield"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "cross-examination"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witness"
+        }
+      ]
+    },
+    {
+      "id": "the-coroners-court",
+      "type": "place",
+      "label": "The Coroners Court",
+      "description": "The location of the inquest into the deaths of Roger and Neville Shandon",
+      "aliases": [
+        "The Coroners Court"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-coroners-court",
+      "relations": []
+    },
+    {
+      "id": "the-coroners-office",
+      "type": "organization",
+      "label": "The Coroners Office",
+      "description": "The office responsible for conducting the inquest into the deaths of Roger and Neville Shandon",
+      "aliases": [
+        "The Coroners Office"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-coroners-office",
+      "relations": []
+    },
+    {
+      "id": "the-county-police",
+      "type": "organization",
+      "label": "The County Police",
+      "description": "The local county police force that provides constables, conducts searches, and supports Sir Clinton's investigation",
+      "aliases": [
+        "The County Police"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-county-police",
+      "relations": []
+    },
+    {
+      "id": "the-curare-retrieval",
+      "type": "event",
+      "label": "The Curare Retrieval",
+      "description": "Sir Clinton's urgent dispatch of Wendover and Ardsley to secure the curare from the Shandon museum",
+      "aliases": [
+        "The Curare Retrieval"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-curare-retrieval",
+      "relations": []
+    },
+    {
+      "id": "the-darts-discovery",
+      "type": "event",
+      "label": "The Darts Discovery",
+      "description": "The constable's discovery of curare-stained darts and a tin lid at the Maze, the first physical evidence",
+      "aliases": [
+        "The Darts Discovery"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-darts-discovery",
+      "relations": []
+    },
+    {
+      "id": "the-ernest-shandon-suicide",
+      "type": "event",
+      "label": "The Ernest Shandon Suicide",
+      "description": "Ernest Shandon's suicide following the exposure of his guilt, closing the case without trial",
+      "aliases": [
+        "The Ernest Shandon Suicide"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-ernest-shandon-suicide",
+      "relations": []
+    },
+    {
+      "id": "the-final-explanation",
+      "type": "event",
+      "label": "The Final Explanation",
+      "description": "Sir Clinton's climactic explanation of the entire case to Wendover, Stenness, and Ardsley over dinner",
+      "aliases": [
+        "The Final Explanation"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-final-explanation",
+      "relations": []
+    },
+    {
+      "id": "the-forged-cheque-discovery",
+      "type": "event",
+      "label": "The Forged Cheque Discovery",
+      "description": "The discovery of a forged cheque among Roger Shandon's papers, introducing the financial crime subplot",
+      "aliases": [
+        "The Forged Cheque Discovery"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-forged-cheque-discovery",
+      "relations": []
+    },
+    {
+      "id": "the-fourth-attack",
+      "type": "event",
+      "label": "The Fourth Attack",
+      "description": "Another attack connected to the Maze murder case, further narrowing the suspect pool",
+      "aliases": [
+        "The Fourth Attack"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-fourth-attack",
+      "relations": []
+    },
+    {
+      "id": "the-golden-age-detective-story",
+      "type": "concept",
+      "label": "The Golden Age Detective Story",
+      "description": "The literary genre to which Murder in the Maze belongs — a tradition of puzzle-centred crime fiction emphasising fair play, rational deduction, and the intellectual contest between reader and detective",
+      "aliases": [
+        "Golden Age detective fiction",
+        "classic detective story",
+        "fair-play detective fiction"
+      ],
+      "tags": [
+        "genre",
+        "literary-context",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-golden-age-detective-story",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deduction",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        }
+      ]
+    },
+    {
+      "id": "the-golden-age-detective-writers",
+      "type": "organization",
+      "label": "The Golden Age Detective Writers",
+      "description": "The community of detective fiction writers to which J.J. Connington belonged, whose conventions shaped the novel",
+      "aliases": [
+        "The Golden Age Detective Writers"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-golden-age-detective-writers",
+      "relations": []
+    },
+    {
+      "id": "the-gun-room",
+      "type": "place",
+      "label": "The Gun Room",
+      "description": "The gun room at Whistlefield where Arthur Hawkhurst retrieves his air-rifle before the murders",
+      "aliases": [
+        "The Gun Room"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-gun-room",
+      "relations": []
+    },
+    {
+      "id": "the-hackleton-case",
+      "type": "event",
+      "label": "The Hackleton Case",
+      "description": "The major civil suit for breach of contract in which [[neville-shandon|Neville Shandon]] is lead counsel for the prosecution — a case that threatens to ruin the defendant Hackleton and provides a compelling external motive for Neville's murder in the Whistlefield Maze.",
+      "aliases": [
+        "The Hackleton affair",
+        "Hackleton cross-examination",
+        "the Hackleton prosecution"
+      ],
+      "tags": [
+        "legal-proceeding",
+        "motive",
+        "external-threat",
+        "fraud",
+        "cross-examination"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-hackleton-case",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Squire Wendover"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "curare-tipped dart"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "Maze"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "stenness"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        },
+        {
+          "type": "related",
+          "target": "the-hawkhurst-family",
+          "label": "the-hawkhurst-family"
+        }
+      ]
+    },
+    {
+      "id": "the-hawkhurst-family",
+      "type": "organization",
+      "label": "The Hawkhurst Family",
+      "description": "Sylvia and Arthur Hawkhurst, the orphaned niece and nephew of Roger Shandon — equal beneficiaries of his will, residents of Whistlefield, and the siblings whose access to the murder weapon and the curare places them at the centre of the Maze murder investigation",
+      "aliases": [
+        "Hawkhursts",
+        "the Hawkhurst siblings",
+        "Hawkhurst orphans"
+      ],
+      "tags": [
+        "family",
+        "orphans",
+        "beneficiaries",
+        "red-herring",
+        "golden-age-detective-fiction"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-hawkhurst-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Stenness"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "the-boat-house",
+          "label": "the-boat-house"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "the-hackleton-case"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        }
+      ]
+    },
+    {
+      "id": "the-home-office",
+      "type": "organization",
+      "label": "The Home Office",
+      "description": "The government department with ultimate authority over criminal investigations, referenced as Sir Clinton's institutional backing",
+      "aliases": [
+        "The Home Office"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-home-office",
+      "relations": []
+    },
+    {
+      "id": "the-inquest",
+      "type": "event",
+      "label": "The Inquest",
+      "description": "The coroner's inquest into the deaths of Roger and Neville Shandon, where witness testimony is formally recorded",
+      "aliases": [
+        "The Inquest"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-inquest",
+      "relations": []
+    },
+    {
+      "id": "the-jury-at-the-inquest",
+      "type": "organization",
+      "label": "The Jury at the Inquest",
+      "description": "The jury empanelled for the coroner's inquest, representing the public's role in legal proceedings",
+      "aliases": [
+        "The Jury at the Inquest"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-jury-at-the-inquest",
+      "relations": []
+    },
+    {
+      "id": "the-last-attack-in-the-maze",
+      "type": "event",
+      "label": "The Last Attack in the Maze",
+      "description": "The final murder attempt in the Maze before the killer is identified",
+      "aliases": [
+        "The Last Attack in the Maze"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-last-attack-in-the-maze",
+      "relations": []
+    },
+    {
+      "id": "the-legal-profession",
+      "type": "organization",
+      "label": "The Legal Profession",
+      "description": "The solicitors, barristers, and legal officers involved in the administration of Roger Shandon's will and the subsequent legal proceedings",
+      "aliases": [
+        "The Legal Profession"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-legal-profession",
+      "relations": []
+    },
+    {
+      "id": "the-maze",
+      "type": "concept",
+      "label": "The Maze",
+      "description": "The hedge maze at Whistlefield estate where the Shandon murders take place — central setting and plot device of the novel",
+      "aliases": [
+        "Whistlefield Maze",
+        "maze",
+        "the labyrinth"
+      ],
+      "tags": [
+        "setting",
+        "murder-scene",
+        "labyrinth"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-maze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "wendover"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "stenness"
+        },
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-boat-house",
+          "label": "the-boat-house"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-hawkhurst-family",
+          "label": "the-hawkhurst-family"
+        }
+      ]
+    },
+    {
+      "id": "the-maze-garden",
+      "type": "place",
+      "label": "The Maze Garden",
+      "description": "The elaborate hedge maze at Whistlefield — scene of the murders and the novel's central location",
+      "aliases": [
+        "The Maze Garden"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-maze-garden",
+      "relations": []
+    },
+    {
+      "id": "the-medical-profession",
+      "type": "organization",
+      "label": "The Medical Profession",
+      "description": "The doctors, toxicologists, and medical experts whose expertise is essential to the forensic investigation",
+      "aliases": [
+        "The Medical Profession"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-medical-profession",
+      "relations": []
+    },
+    {
+      "id": "the-museum-at-whistlefield",
+      "type": "concept",
+      "label": "The Museum at Whistlefield",
+      "description": "Roger Shandon's private museum at Whistlefield — a collection of curiosities from his travels, including the pot of curare that becomes a crucial piece of evidence in the murder investigation",
+      "aliases": [
+        "the museum",
+        "Roger Shandon's museum",
+        "Whistlefield museum",
+        "the collection"
+      ],
+      "tags": [
+        "setting",
+        "evidence",
+        "curare"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-museum-at-whistlefield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        }
+      ]
+    },
+    {
+      "id": "the-rhododendron-bank",
+      "type": "place",
+      "label": "The Rhododendron Bank",
+      "description": "The bank of rhododendrons near the winter garden, used by the murderer as concealment during one attack",
+      "aliases": [
+        "The Rhododendron Bank"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-rhododendron-bank",
+      "relations": []
+    },
+    {
+      "id": "the-shandon-family",
+      "type": "organization",
+      "label": "The Shandon Family",
+      "description": "The Shandon family of Whistlefield — twin brothers Roger and Neville, the feckless Ernest, and their orphaned niece and nephew Sylvia and Arthur Hawkhurst — whose inheritance, rivalries, and buried secrets supply the motive for the Maze murders",
+      "aliases": [
+        "Shandons",
+        "Shandon brothers",
+        "Whistlefield Shandons"
+      ],
+      "tags": [
+        "family",
+        "inheritance",
+        "motive",
+        "golden-age-detective-fiction"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:the-shandon-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "Whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "the-will",
+          "label": "the-will"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "Wendover"
+        },
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest Shandon"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "stenness"
+        },
+        {
+          "type": "related",
+          "target": "the-boat-house",
+          "label": "the-boat-house"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-hawkhurst-family",
+          "label": "the-hawkhurst-family"
+        }
+      ]
+    },
+    {
+      "id": "the-shandon-museum-room",
+      "type": "place",
+      "label": "The Shandon Museum Room",
+      "description": "The room at Whistlefield housing Roger Shandon's collection of curiosities, including the curare",
+      "aliases": [
+        "The Shandon Museum Room"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-shandon-museum-room",
+      "relations": []
+    },
+    {
+      "id": "the-shooting-range",
+      "type": "place",
+      "label": "The Shooting Range",
+      "description": "The informal shooting range at Whistlefield where Arthur Hawkhurst demonstrates his airgun marksmanship",
+      "aliases": [
+        "The Shooting Range"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-shooting-range",
+      "relations": []
+    },
+    {
+      "id": "the-siege-in-the-maze",
+      "type": "event",
+      "label": "The Siege in the Maze",
+      "description": "The final confrontation in the Maze, where Sir Clinton's deductions lead to the resolution of the case",
+      "aliases": [
+        "The Siege in the Maze"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-siege-in-the-maze",
+      "relations": []
+    },
+    {
+      "id": "the-standard-ebooks-editorial-team",
+      "type": "organization",
+      "label": "The Standard Ebooks Editorial Team",
+      "description": "The editorial team responsible for preparing this edition of the novel, acknowledged in the colophon",
+      "aliases": [
+        "The Standard Ebooks Editorial Team"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-standard-ebooks-editorial-team",
+      "relations": []
+    },
+    {
+      "id": "the-third-attack-in-the-maze",
+      "type": "event",
+      "label": "The Third Attack in the Maze",
+      "description": "A subsequent attack in the Maze following the initial murders, demonstrating the killer's continued activity",
+      "aliases": [
+        "The Third Attack in the Maze"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-third-attack-in-the-maze",
+      "relations": []
+    },
+    {
+      "id": "the-toxicology-demonstration",
+      "type": "event",
+      "label": "The Toxicology Demonstration",
+      "description": "Dr. Ardsley's live experiment demonstrating curare's lethal effects, confirming the murder method",
+      "aliases": [
+        "The Toxicology Demonstration"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-toxicology-demonstration",
+      "relations": []
+    },
+    {
+      "id": "the-travellers-club",
+      "type": "organization",
+      "label": "The Travellers Club",
+      "description": "Roger Shandon's social circle of fellow travellers, from whose ranks he acquired the curiosities in his museum",
+      "aliases": [
+        "The Travellers Club"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-travellers-club",
+      "relations": []
+    },
+    {
+      "id": "the-vivisection-licensing-authority",
+      "type": "organization",
+      "label": "The Vivisection Licensing Authority",
+      "description": "The regulatory body that grants vivisection licences, referenced in connection with Dr. Ardsley's research",
+      "aliases": [
+        "The Vivisection Licensing Authority"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-vivisection-licensing-authority",
+      "relations": []
+    },
+    {
+      "id": "the-will",
+      "type": "concept",
+      "label": "The Will",
+      "description": "Roger Shandon's last will and testament — the legal document dividing his estate equally among four relatives, establishing the financial context and potential motives for the Maze murders",
+      "aliases": [
+        "Roger Shandon's will",
+        "the Shandon will",
+        "inheritance",
+        "the estate"
+      ],
+      "tags": [
+        "legal",
+        "motive",
+        "inheritance"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-will",
+      "relations": [
+        {
+          "type": "related",
+          "target": "motive-means-and-opportunity",
+          "label": "motive-means-and-opportunity"
+        },
+        {
+          "type": "related",
+          "target": "forgery",
+          "label": "forgery"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        }
+      ]
+    },
+    {
+      "id": "the-winter-garden",
+      "type": "place",
+      "label": "The Winter Garden",
+      "description": "The winter garden at Whistlefield, adjacent to rhododendron banks, used as a vantage point in one of the attacks",
+      "aliases": [
+        "The Winter Garden"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-winter-garden",
+      "relations": []
+    },
+    {
+      "id": "the-winter-garden-attack",
+      "type": "event",
+      "label": "The Winter Garden Attack",
+      "description": "The attack in which Ernest Shandon's suspicious actions in the winter garden are noted",
+      "aliases": [
+        "The Winter Garden Attack"
+      ],
+      "tags": [
+        "plot-event"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:the-winter-garden-attack",
+      "relations": []
+    },
+    {
+      "id": "toxicology",
+      "type": "concept",
+      "label": "Toxicology",
+      "description": "The forensic science of poisons and their effects — Dr. Ardsley's specialised field, central to identifying curare as the murder weapon in the Whistlefield case",
+      "aliases": [
+        "toxicologist",
+        "poison-analysis",
+        "forensic-toxicology"
+      ],
+      "tags": [
+        "forensic",
+        "poison",
+        "method",
+        "science"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:toxicology",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "poison",
+          "label": "poison"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "dr-ardsley"
+        }
+      ]
+    },
+    {
+      "id": "vera-forrest",
+      "type": "person",
+      "label": "Vera Forrest",
+      "description": "Vera Forrest, a guest at Whistlefield who becomes the key earwitness to the Maze murders — trapped inside the labyrinth while the killer strikes, she hears the sounds that later prove crucial to identifying the murder method",
+      "aliases": [
+        "Vera",
+        "Miss Forrest"
+      ],
+      "tags": [
+        "witness",
+        "guest",
+        "key-witness"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:vera-forrest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "air-rifle",
+          "label": "air-rifle"
+        },
+        {
+          "type": "related",
+          "target": "witness",
+          "label": "witness"
+        }
+      ]
+    },
+    {
+      "id": "wendover",
+      "type": "person",
+      "label": "Wendover",
+      "description": "The Squire of Whistlefield, friend and host to Sir Clinton Driffield, who serves as the detective's sounding board, occasional field agent, and the novel's principal audience for the detective's explanations",
+      "aliases": [
+        "the Squire",
+        "Squire Wendover"
+      ],
+      "tags": [
+        "supporting",
+        "squire",
+        "investigator"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:wendover",
+      "relations": [
+        {
+          "type": "related",
+          "target": "whistlefield",
+          "label": "whistlefield"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "sir-clinton-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "the-affair-in-the-maze"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "the-maze"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "vera-forrest"
+        },
+        {
+          "type": "related",
+          "target": "dr-ardsley",
+          "label": "dr-ardsley"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "stenness"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "the-shandon-family"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        }
+      ]
+    },
+    {
+      "id": "whistlefield",
+      "type": "place",
+      "label": "Whistlefield",
+      "description": "The country estate of Roger Shandon in the English countryside — the primary setting of the novel, encompassing the manor house, gardens, Maze, boathouse, and river frontage where the central murders and investigation unfold.",
+      "aliases": [
+        "Whistlefield Manor",
+        "the Shandon estate",
+        "Whistlefield estate"
+      ],
+      "tags": [
+        "estate",
+        "manor",
+        "country-house",
+        "crime-scene",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "murder-in-the-maze:whistlefield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "roger-shandon",
+          "label": "Roger Shandon"
+        },
+        {
+          "type": "related",
+          "target": "the-hackleton-case",
+          "label": "Hackleton case"
+        },
+        {
+          "type": "related",
+          "target": "the-affair-in-the-maze",
+          "label": "murders in the Maze"
+        },
+        {
+          "type": "related",
+          "target": "the-final-explanation",
+          "label": "final denouement"
+        },
+        {
+          "type": "related",
+          "target": "the-shandon-family",
+          "label": "Shandon family"
+        },
+        {
+          "type": "related",
+          "target": "ernest-shandon",
+          "label": "Ernest"
+        },
+        {
+          "type": "related",
+          "target": "sylvia-hawkhurst",
+          "label": "Sylvia Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "arthur-hawkhurst",
+          "label": "Arthur Hawkhurst"
+        },
+        {
+          "type": "related",
+          "target": "stenness",
+          "label": "Ivor Stenness"
+        },
+        {
+          "type": "related",
+          "target": "neville-shandon",
+          "label": "Neville Shandon"
+        },
+        {
+          "type": "related",
+          "target": "vera-forrest",
+          "label": "Vera Forrest"
+        },
+        {
+          "type": "related",
+          "target": "howard-torrance",
+          "label": "Howard Torrance"
+        },
+        {
+          "type": "related",
+          "target": "the-gun-room",
+          "label": "gun-room"
+        },
+        {
+          "type": "related",
+          "target": "the-museum-at-whistlefield",
+          "label": "private museum"
+        },
+        {
+          "type": "related",
+          "target": "curare",
+          "label": "curare"
+        },
+        {
+          "type": "related",
+          "target": "the-maze",
+          "label": "Maze"
+        },
+        {
+          "type": "related",
+          "target": "the-boat-house",
+          "label": "the boathouse"
+        },
+        {
+          "type": "related",
+          "target": "sir-clinton-driffield",
+          "label": "Sir Clinton Driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-winter-garden",
+          "label": "The Winter Garden"
+        },
+        {
+          "type": "related",
+          "target": "the-shooting-range",
+          "label": "The Shooting Range"
+        },
+        {
+          "type": "related",
+          "target": "darts",
+          "label": "darts"
+        },
+        {
+          "type": "related",
+          "target": "wendover",
+          "label": "wendover"
+        },
+        {
+          "type": "related",
+          "target": "the-hawkhurst-family",
+          "label": "the-hawkhurst-family"
+        }
+      ]
+    },
+    {
+      "id": "whistlefield-household-staff",
+      "type": "organization",
+      "label": "Whistlefield Household Staff",
+      "description": "The servants at Whistlefield — including the butler — whose observations provide crucial circumstantial evidence",
+      "aliases": [
+        "Whistlefield Household Staff"
+      ],
+      "tags": [
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:whistlefield-household-staff",
+      "relations": []
+    },
+    {
+      "id": "whistlefield-tennis-court",
+      "type": "place",
+      "label": "Whistlefield Tennis Court",
+      "description": "The tennis court where the shooting tournament takes place on the day of the murders",
+      "aliases": [
+        "Whistlefield Tennis Court"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:whistlefield-tennis-court",
+      "relations": []
+    },
+    {
+      "id": "whistlefield-village",
+      "type": "place",
+      "label": "Whistlefield Village",
+      "description": "The village near the Shandon estate where the inquest is held and suspects are watched",
+      "aliases": [
+        "Whistlefield Village"
+      ],
+      "tags": [
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:whistlefield-village",
+      "relations": []
+    },
+    {
+      "id": "witness",
+      "type": "concept",
+      "label": "Witness",
+      "description": "The role of witnesses — those who saw, heard, or observed events related to the Maze murders — in providing testimony that shapes the investigation",
+      "aliases": [
+        "witnesses",
+        "eyewitness",
+        "witness testimony",
+        "the witnesses"
+      ],
+      "tags": [
+        "legal",
+        "investigation",
+        "testimony"
+      ],
+      "quality": "standard",
+      "source_ref": "murder-in-the-maze:witness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evidence",
+          "label": "evidence"
+        },
+        {
+          "type": "related",
+          "target": "alibi",
+          "label": "alibi"
+        },
+        {
+          "type": "related",
+          "target": "cross-examination",
+          "label": "cross-examination"
+        },
+        {
+          "type": "related",
+          "target": "suspicion",
+          "label": "suspicion"
+        }
+      ]
+    }
+  ]
+}

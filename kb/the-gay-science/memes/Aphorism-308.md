@@ -1,0 +1,40 @@
+---
+description: ""
+id: Aphorism-308
+label: "Aphorism 308"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 308.
+
+### 308.
+
+
+*The History of each Day.*—What is it that constitutes
+
+the history of each day for thee? Look
+
+at thy habits of which it consists: are they the
+
+product of numberless little acts of cowardice and
+
+laziness, or of thy bravery and inventive reason?
+
+Although the two cases are so different, it is
+
+possible that men might bestow the same praise
+
+upon thee, and that thou mightst also be equally
+
+useful to them in the one case as in the other.
+
+But praise and utility and respectability may
+
+suffice for him whose only desire is to have a good
+
+conscience,—not however for thee, the "trier of the
+
+reins," who hast a *consciousness of the conscience*!

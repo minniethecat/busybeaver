@@ -1,0 +1,11 @@
+---
+description: "Whether abortions, if they are numbered among the dead, shall not also have a part in the resurrection."
+id: book-22-ch13
+label: "Book 22 — Ch. 13: XIII"
+tags: ["chapter"]
+type: chapter
+---
+
+[670-001]Whether abortions, if they are numbered among the dead, shall not also have a part in the resurrection.
+
+[670-002]To these objections, then, of our adversaries which I have thus detailed, I will now reply, trusting that God will mercifully assist my endeavours. That abortions, which, even supposing they were alive in the womb, did also die there, shall rise again, I make bold neither to affirm nor to deny, although I fail to see why, if they are not excluded from the number of the dead, they should not attain to the resurrection of the dead. For either all the dead shall not rise, and there will be to all eternity some souls without bodies, though they once had them—only in their mother’s womb, indeed; or, if all human souls shall receive again the bodies which they had wherever they lived, and which they left when they died, then I do not see how I can say that even those who died in their mother’s womb shall have no resurrection. But whichever of these opinions anyone may adopt concerning them, we must at least apply to them, if they rise again, all that we have to say of infants who have been born.

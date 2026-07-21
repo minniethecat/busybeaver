@@ -1,49 +1,89 @@
 ---
+description: "Wollstonecraft's conception of judgment as a cultivated rational faculty — the 'foundation of all taste' and a capacity systematically denied to women through an education that substitutes prejudice for independent thought."
 id: judgment
-label: Judgment
+label: "Judgment"
+tags: ["concept", "epistemology", "education"]
 type: concept
-description: 'Wollstonecraft''s treatment of judgment as a rational faculty that must be cultivated through education, central to her argument for women''s intellectual equality'
-tags: ["reason", "education", "faculty", "enlightenment"]
 ---
-
-In Wollstonecraft's framework, **judgment** is a core rational faculty — the power of the mind to weigh evidence, compare ideas, and form sound conclusions. She argues that judgment is not innately weaker in women but is left "unformed" (004-034) by a system of education that prizes accomplishments over understanding. The cultivation of judgment through the exercise of reason is, for Wollstonecraft, the prerequisite for both moral action and genuine virtue.
 
 ## Definition
 
-Wollstonecraft treats judgment as an active intellectual power that must be developed through experience and reflection. She refers to "clearness to the judgment" (002-019) as a quality that reason confers upon the mind, suggesting that judgment is not a passive faculty but one sharpened by rational exercise. For Wollstonecraft, judgment functions as a "counterpoise" (004-061) — a balancing force that checks passion and sensibility, preventing the mind from being governed by mere feeling.
+Judgment, for Wollstonecraft, is the practical application of [[reason]] to particular cases — the capacity to evaluate, discriminate, and decide correctly. She identifies it as "the foundation of all taste" [012-036], linking aesthetic discernment to rational capacity rather than mere [[sensibility]]. This is a significant move: by grounding taste in judgment rather than feeling, she reclaims a domain traditionally assigned to women's supposed intuitive [[sensibility|sensitivity]] and redefines it as a rational achievement.
 
-Crucially, she insists that judgment cannot be imparted by precept alone. Children, and by extension women treated as perpetual children, cannot develop judgment when "blind obedience required, when conviction should be brought home to reason" (005-122). Judgment requires the freedom to compare, to err, and to learn from error — conditions systematically denied to women in Wollstonecraft's analysis.
+> "…lacking judgment the foundation of all taste." (012-036)
 
-## Wollstonecraft's Argument
+Wollstonecraft emphasizes that judgment is cultivated, not innate. She critiques the [[education]] of women for "instilling [[prejudice|prejudices]]" rather than "cultivating the judgment" [005-135], and she observes that women are systematically denied the experiences that develop judgment — they are not permitted to make consequential decisions, evaluate evidence, or exercise independent thought. The result is that women are thought to lack judgment when in fact they have been denied its cultivation: "denying her genius and judgment, it is scarcely possible to determine what [[character]] would make them respectable" [004-003].
 
-Wollstonecraft's argument about judgment operates at two levels. At the individual level, she contends that women's judgment remains undeveloped because their education substitutes rote accomplishment for genuine thought. "Instead of cultivating the judgment," she writes, prevailing educational practices "instil prejudices" (005-118), producing women who can perform social graces but cannot reason soundly. At the societal level, she traces how men's "superiour judgment" (005-131) is not a natural endowment but the predictable result of a system that exercises male reason while neglecting female reason.
+> "…denying her genius and judgment, it is scarcely possible to divine what remains to characterize intellect." (004-003)
 
-The connection between judgment and moral action is explicit throughout the *Vindication*. Wollstonecraft asks pointedly: "where are they suddenly to find judgment enough to weigh patiently the various arguments?" (006-010). This rhetorical question underscores her core claim — that judgment is not an instantaneous gift but a slowly cultivated capacity, and that women, denied the conditions of cultivation, are then unfairly condemned for lacking what they were never permitted to develop.
+For Wollstonecraft, the cultivation of judgment requires active intellectual labor rather than passive reception. Drawing on her empiricist commitments, she treats judgment as a faculty strengthened through exercise — through grappling with evidence, forming conclusions, and learning from error. This stands in sharp contrast to the prevailing educational model for women, which substituted received opinion for independent thought. She insists that "men have superior judgment and more fortitude than women" only because "they give a freer scope to the grand passions, and by more frequent" exercise develop the faculties that women are prevented from using [005-148]. The inequality of judgment between the sexes is therefore not a natural fact but an artifact of unequal opportunity.
 
-She also links judgment to taste, arguing that "taste is the offspring of judgment" (006-012). This claim reverses the eighteenth-century assumption that taste is a matter of sensibility or innate refinement. For Wollstonecraft, genuine taste — in literature, in conduct, in moral life — springs from the exercise of judgment, making the cultivation of judgment essential not only to morality but to all forms of discernment.
+> "…one reason why men have superior judgment and more fortitude than women, is undoubtedly this, that they give a freer scope to the grand passions…" (005-148)
 
-### Contrast with Contemporary Views
+### Cultivation vs. Suppression
 
-Wollstonecraft's emphasis on judgment directly counters Rousseau's prescription for Sophie, who was to be educated not to reason independently but to defer to male judgment. Where Rousseau envisions a woman whose understanding is shaped entirely by male opinion, Wollstonecraft insists that women must develop their own judgment through experience and reflection. She also implicitly critiques the conduct-book tradition — writers like Dr. Gregory who advised women to cultivate reputation rather than understanding — arguing that "a counterpoise of judgment is not acquired, when the head is merely the index of the heart" (004-061). Her vision of judgment as a faculty equally available to both sexes places her firmly within the Enlightenment tradition while challenging its gendered limitations.
+Wollstonecraft develops a detailed analysis of how judgment is both cultivated and suppressed. The mechanism of cultivation involves confronting real intellectual challenges — weighing evidence, making consequential decisions, and exercising independent thought. The mechanism of suppression, by contrast, operates through an [[education]] that substitutes authority for inquiry and instills [[prejudice]] in place of critical reflection.
+
+> "…instead of cultivating the judgment, [they] instil prejudices, and render hard the heart that gradual experience would only have cooled." (005-135)
+
+The most damaging consequence of this substitution is not merely that women fail to develop judgment but that they internalize their own intellectual dependency. When a woman is "trained up to obedience" and married to a sensible man "who directs her judgment, without making her feel the servility of her subjection," she may "act with as much propriety by this reflected light as can be expected when reason is taken at second hand" [003-037]. But this proxy judgment is fragile: the husband may die, leaving her with responsibilities she has never been equipped to handle. Wollstonecraft's analysis here is devastating in its clarity — the system that claims to protect women by directing their judgment for them actually renders them catastrophically vulnerable.
+
+> "…supposing a woman, trained up to obedience, be married to a sensible man, who directs her judgment… yet she cannot ensure the life of her protector; he may die and leave her with a large family." (003-037)
+
+### Judgment and Character
+
+Wollstonecraft also deploys judgment as a tool of character analysis, distinguishing types of moral personality by their relationship to judgment. In a striking formulation, she observes: "A modest man is steady, an humble man timid, and a vain one presumptuous; this is the judgment, which the observation of many characters, has led me to form" [007-005]. Here judgment functions not as the object of analysis but as its instrument — the faculty through which Wollstonecraft herself evaluates human [[character]]. This reflexive use of judgment to analyze judgment underscores her commitment to reason as a self-correcting practice.
+
+> "A modest man is steady, an humble man timid, and a vain one presumptuous; this is the judgment, which the observation of many characters, has led me to form." (007-005)
+
+## In Context
+
+Judgment appears across the *Vindication* as both a positive ideal and a diagnostic tool for analyzing women's condition. In Chapter IV, Wollstonecraft pairs "genius and judgment" as the twin intellectual faculties denied to women [004-003]. In Chapter V, she offers a sustained analysis: she quotes a critic who claims "her judgment, the matured fruit of profound thinking, was a sound one" of an exceptional woman [005-131], then immediately notes that the same [[education]] system that refuses to cultivate judgment in women then cites their lack of it as proof of inferiority [005-135].
+
+> "…her judgment, the matured fruit of profound thinking, was a proof that a woman can acquire judgment, in the full extent of the word." (005-131)
+
+In Chapter VII, judgment appears in a striking personal anecdote: "when he suffered a suggestion of judgment to escape him that proved a prophecy" [007-004], Wollstonecraft illustrates how judgment can emerge even in a degraded [[character]], emphasizing that it is a universal human faculty suppressed rather than a special gift denied. She describes Milton as an exemplar: "Milton was not arrogant when he suffered a suggestion of judgment to escape him that proved a prophesy" [007-004] — the poet's confident claim about his own work was vindicated by history, distinguishing genuine judgment from mere vanity.
+
+> "Milton was not arrogant when he suffered a suggestion of judgment to escape him that proved a prophesy." (007-004)
+
+In Chapter XII, the concept is elevated to "the foundation of all taste" [012-036], and Wollstonecraft argues that men of [[sensibility]] who lack judgment should not be the ones who "enlighten their judgment" [012-070] — women need direct access to rational [[education]], not mediated guidance from unreliable mentors.
+
+> "Men of fancy, and those sanguine characters who mostly hold the helm of human affairs, in general, relax in the society of women; and surely I need not cite to the most superficial observer, the many instances… who ought to enlighten their judgment." (012-070)
+
+### The Macaulay Standard
+
+Wollstonecraft's most powerful illustration of genuine judgment is her tribute to Catharine Macaulay, whom she describes as "the woman of the greatest abilities, undoubtedly, that this country has ever produced" [005-129]. In a passage that serves as both eulogy and argument, Wollstonecraft declares: "I contend that it was a sound one, and that her judgment, the matured fruit of profound thinking, was a proof that a woman can acquire judgment, in the full extent of the word" [005-131]. The Macaulay example is strategically crucial: it provides an existence proof that female judgment is not only possible but capable of reaching the highest standard, refuting the circular logic by which women's lack of judgment is both produced by their [[education]] and then cited as justification for denying them that education.
+
+> "I will not call hers a masculine understanding, because I admit not of such an arrogant assumption of reason; but I contend that it was a sound one…" (005-131)
 
 ## Key Passages
 
-> Instead of cultivating the judgment, [they] instil prejudices, and render the female mind a complete hot-bed of vanity, which, ever seeking for adventitious support, can never arrive at maturity. (005-118)
+> "...denying her genius and judgment, it is scarcely possible to determine what character would make them respectable." [004-003]
 
-> For taste is the offspring of judgment, how can they discover, that true grace must arise from purity of mind? (006-012)
+> "...instead of cultivating the judgment, [they] instil prejudices, and render the task of removing them extremely difficult." [005-135]
 
-> A counterpoise of judgment is not acquired, when the head is merely the index of the heart, and never acts but from the impulse of the latter. (004-061)
+> "...her judgment, the matured fruit of profound thinking, was a sound one..." [005-131]
+
+> "...when he suffered a suggestion of judgment to escape him that proved a prophecy..." [007-004]
+
+> "...lacking judgment the foundation of all taste." [012-036]
+
+> "Men of fancy, and those sanguine characters who mostly instruct women, ought to enlighten their judgment." [012-070]
 
 ## Related Concepts
 
-- [[Reason]] — the broader faculty of which judgment is a specific application
-- [[Education]] — the means by which judgment must be cultivated
-- [[Vanity]] — the product of "instilling prejudices" instead of cultivating judgment
-- [[Prejudice]] — what fills the mind when judgment is not exercised
-- [[Understanding]] — the cognitive foundation upon which judgment builds
+- [[reason]] — the general faculty of which judgment is the practical application
+- [[genius]] — paired with judgment as the twin intellectual faculties denied to women
+- [[education]] — the mechanism that should cultivate judgment but currently suppresses it
+- [[taste]] — judgment is described as the foundation of all taste
+- [[prejudice]] — the substitute instilled in place of cultivated judgment
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose Sophie exemplifies the absence of cultivated judgment
-- [[John Gregory]] — whose conduct advice presupposes women's lack of independent judgment
-- [[Modesty]] — the rational virtue that requires judgment to be genuine rather than performed
+- [[Rousseau]] — his [[education]]al philosophy is critiqued for replacing the cultivation of judgment with the inculcation of sentiment
+- [[John Gregory]] — his advice to daughters is critiqued for encouraging the concealment of judgment in favor of pleasing manners
+
+## Further Reading
+
+- Wollstonecraft, Mary. *A Vindication of the [[rights-of-woman|Rights of Woman]]* (1792), especially Ch. IV, V, VII, XII.
+- O'Neill, Daniel. *The Burke-Wollstonecraft Debate* (2007), on judgment and political [[reason]] in Wollstonecraft's thought.

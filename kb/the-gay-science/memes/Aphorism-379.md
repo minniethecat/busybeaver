@@ -1,0 +1,80 @@
+---
+description: ""
+id: Aphorism-379
+label: "Aphorism 379"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book V
+
+### 379.
+
+### 379.
+
+
+*The Fool's Interruption.*—It is not a misanthrope
+
+who has written this book: the hatred of men costs
+
+too dear to-day. To hate as they formerly hated
+
+*man*, in the fashion of Timon, completely, without
+
+qualification, with all the heart, from the pure *love*
+
+of hatred—for that purpose one would have to
+
+renounce contempt:—and how much refined
+
+pleasure, how much patience, how much benevolence
+
+even, do we owe to contempt! Moreover
+
+we are thereby the "elect of God": refined contempt
+
+is our taste and privilege, our art, our virtue
+
+perhaps, we, the most modern amongst the
+
+moderns!... Hatred, on the contrary, makes
+
+equal, it puts men face to face, in hatred there is
+
+honour; finally, in hatred there is *fear*, quite a
+
+large amount of fear. We fearless ones, however,
+
+we, the most intellectual men of the period,
+
+know our advantage well enough to live without
+
+fear as the most intellectual persons of this age.
+
+People will not easily behead us, shut us up,
+
+or banish us; they will not even ban or burn
+
+our books. The age loves intellect, it loves us,
+
+and needs us, even when we have to give it to
+
+understand that we are artists in despising; that
+
+all intercourse with men is something of a horror
+
+to us; that with all our gentleness, patience,
+
+humanity and courteousness, we cannot persuade
+
+our nose to abandon its prejudice against the
+
+proximity of man; that we love nature the more,
+
+the less humanly things are done by her, and
+
+that we love art *when* it is the flight of the artist
+
+from man, or the raillery of the artist at man, or the
+
+raillery of the artist at himself....

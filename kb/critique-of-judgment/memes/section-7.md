@@ -1,0 +1,21 @@
+---
+description: §7 from Part I of Critique of Judgment.
+id: section-7
+label: '§ 7: Comparison of the Beautiful with the Pleasant'
+tags: ["chapter"]
+type: chapter
+---
+
+[007-001]and the Good by means of the above characteristic
+
+[007-002]As regards the Pleasant every one is content that his judgement, which he bases upon private feeling, and by which he says of an object that it pleases him, should be limited merely to his own person. Thus he is quite contented that if he says “Canary wine is pleasant,” another man may correct his expression and remind him that he ought to say “It is pleasantto me.” And this is the case not only as regards the taste of the tongue, the palate, and the throat, but for whatever is pleasant to any one’s eyes and ears. To one violet colour is soft and lovely, to another it is faded and dead. One man likes the tone of wind instruments, another that of strings. To strive here with the design of reproving as incorrect another man’s judgement which is different from our own, as if the judgements were logically opposed, would be folly. As regards the pleasant therefore the fundamental proposition is valid,every one has his own taste(the taste of Sense).
+
+[007-003]The case is quite different with the Beautiful.
+
+[007-004]It would (on the contrary) be laughable if a man who imagined anything to his own taste, thought to justify himself by saying: “This object (the house we see, the coat that person wears, the concert we hear, the poem submitted to our judgement) is beautifulfor me.” For he must not call itbeautifulif it merely pleases himself. Many things may have for him charm and pleasantness; no one troubles himself at that; but if he gives out anything as beautiful, he supposes in others the same satisfaction—hejudges not merely for himself, but for every one, and speaks of beauty as if it were a property of things.
+
+[007-005]Hence he says “thethingis beautiful”; and he does not count on the agreement of others with this his judgement of satisfaction, because he has found this agreement several times before, but hedemandsit of them. He blames them if they judge otherwise and he denies them taste, which he nevertheless requires from them. Here then we cannot say that each man has his own particular taste. For this would be as much as to say that there is no taste whatever;i.e.no aesthetical judgement, which can make a rightful claim upon every one’s assent.
+
+[007-006]At the same time we find as regards the Pleasant that there is an agreement among men in their judgements upon it, in regard to which we deny [[taste|Taste]] to some and attribute it to others; by this not meaning one of our organic senses, but a faculty of judging in respect of the pleasant generally.
+
+[007-007]Thus we say of a man who knows how to entertain his guests with pleasures (of enjoyment for all the senses), so that they are all pleased, “he has taste.” But here the universality is only taken comparatively; and there emerge rules which are onlygeneral(like all empirical ones), and notuniversal; which latter the judgement of Taste upon the beautiful undertakes or lays claim to. It is a judgement in reference to sociability, so far as this rests on empirical rules. In respect of the Good it is true that judgements make rightful claim to validity for every one; but the Good is represented onlyby means of a conceptas the Object of a universal satisfaction, which is the case neither with the Pleasant nor with the Beautiful.

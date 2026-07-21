@@ -1,86 +1,70 @@
 ---
+description: "A complex concept in Wollstonecraft's argument — sometimes invoked as an idealized state from which society has fallen, more often critiqued as a rhetorical tool used to justify women's subordination through appeals to supposed natural differences."
 id: nature
-label: Nature
+label: "Nature"
+tags: ["concept"]
 type: concept
-description: 'The contested concept Wollstonecraft deploys against Rousseau — arguing that what passes for female nature is in fact social construction, not biological destiny'
-tags: ["ethics", "philosophy", "enlightenment", "gender", "rousseau"]
 ---
 
 # Nature
 
-**Nature** is one of the most contested terms in _[[A Vindication of the Rights of Woman]]_. [[Mary Wollstonecraft]] engages the concept on two fronts simultaneously: she rejects the claim that women's subordination is natural while asserting that natural rights provide the foundation for women's claims to equality.
-
-The term appears in over thirty passages across all thirteen chapters. Wollstonecraft's treatment of nature is strategically double-edged: against [[Jean-Jacques Rousseau]]'s celebration of the "state of nature," she argues for civilization and improvement; against the claim that gender hierarchy is natural, she argues that what passes for female nature is manufactured by [[Education]] and social conditioning.
-
 ## Definition
 
-Wollstonecraft refuses to accept appeals to nature as self-evident justifications for women's inequality. She insists that:
+Wollstonecraft uses **nature** in several distinct registers throughout the *Vindication*. The term can refer to: (1) the divinely ordained constitution of human beings — the capacity for [[reason]] and [[virtue]] that defines human nature and ought to be cultivated; (2) the physical reality of bodily difference between the sexes, which she acknowledges but argues has been exaggerated to justify social hierarchy; (3) the "state of nature" in [[rousseau|Rousseau]]'s sense, which she critiques as a plausible but unsound idealisation; and (4) the appeals to "natural" feminine qualities — [[sensibility|delicacy]], [[sensibility]], weakness — which she exposes as products of social training rather than innate disposition.
 
-> "Either nature has made a great difference between man and man, or that the civilization which has hitherto taken place in the world has been very partial" (P03-001)
+> "If women are by nature inferior to men, their virtues must be the same in quality, if not in degree, or virtue is a relative idea." (002-042)
 
-If nature made women inferior, the argument is biological; if civilization made them so, the remedy is political. Wollstonecraft consistently argues for the latter: the "nature" invoked to justify women's subordination is the product of unequal education and restricted experience.
+Her masterstroke is the argument that even if one grants the premise of natural female inferiority, the conclusion (different moral standards) does not follow. [[virtue|Virtue]] must be one thing or it is nothing; the quality of [[virtue]] cannot change with the sex of the agent.
 
-She extends this critique to Rousseau directly, noting that "next to a state of nature, Rousseau celebrates barbarism" (001-020) — a pointed observation that Rousseau's primitivism serves to naturalize hierarchy.
+## In Context
 
-## Wollstonecraft's Argument
+The Introduction engages with the nature question directly: Wollstonecraft confesses that from her observations, "either nature has made a great difference between man and man, or that the civilization, which has hitherto taken place in the world, has been very partial" (P03-001). This ambivalence — is it nature or nurture? — runs through the entire text and establishes the empirical warrant for her critique. Chapter I critiques the appeal to a "state of nature" as a rhetorical device: "In what does man's pre-eminence over the brute creation consist? The answer is as clear as that a half is less than the whole; in Reason" (001-005). The relevant nature is not a primitive state but the nature that [[reason]] reveals. Chapter II advances the most pointed critique: appeals to women's "nature" are almost always post-hoc justifications for a social order that denies women the means to develop the very capacities said to be naturally lacking.
 
-### Nature as Social Construction
+### Nature versus Nurture
 
-Wollstonecraft's central move is to historicize what her opponents naturalize. She observes that "the nature of the poison points out the antidote" (001-033): if women's degradation is socially produced, it can be socially remedied.
+The Introduction engages with the nature question directly: Wollstonecraft confesses that from her observations, "either nature has made a great difference between man and man, or that the civilization, which has hitherto taken place in the world, has been very partial" (P03-001). This ambivalence — is it nature or nurture? — runs through the entire text and establishes the empirical warrant for her critique.
 
-> "If women are by nature inferior to men, their virtues must be the same in quality, if not in degree, or virtue is a relative idea" (002-032)
+Wollstonecraft's treatment of the nature-nurture question is more sophisticated than a simple assertion that all difference is social. She acknowledges that bodily strength differs between the sexes, noting that "in the government of the physical world, it is observable that the female, in general, is inferior to the male" (P03-003). But she immediately insists that "not content with this natural pre-eminence, men endeavour to sink us still lower" (P03-003). Physical difference, in other words, is real but insufficient to justify the vast edifice of intellectual and moral subordination built upon it.
 
-This dilemma is devastating: either women share the same moral nature as men (in which case they deserve the same rights) or virtue means different things for different people (in which case morality is arbitrary). Wollstonecraft forces the reader to choose the first horn.
+The concept of "second nature" is crucial to her analysis: "Consequently the perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual" (001-006). True human nature is not the state we are born into but the state we achieve through the cultivation of [[reason]]. This distinguishes her position from [[rousseau|Rousseau]]'s primitivism: "Reared on a false hypothesis, his arguments in favour of a state of nature are plausible, but unsound" (001-014). For Wollstonecraft, nature culminates in civilization rightly ordered, not in a pre-social past.
 
-### The Law of Nature vs. the Laws of Men
+### The Critique of Naturalising Arguments
 
-Wollstonecraft distinguishes between genuine natural law — the rational order discoverable by reason — and the pseudo-natural arguments used to justify male dominion. She notes drily that "the law of nature" invoked to keep women subordinate "does not appear to be suspended in favour of woman" (P03-003) when it comes to recognizing their rational capacities.
+Chapter I critiques the appeal to a "state of nature" as a rhetorical device. Wollstonecraft lays down her criterion: "In what does man's pre-eminence over the brute creation consist? The answer is as clear as that a half is less than the whole; in Reason" (001-005). The relevant nature is not a primitive state but the nature that [[reason]] reveals. [[rousseau|Rousseau]]'s error was to mistake the absence of cultivation for the presence of authenticity.
 
-> "The perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual" (001-006)
+Chapter II advances the most pointed critique: appeals to women's "nature" are almost always post-hoc justifications for a social order that denies women the means to develop the very capacities said to be naturally lacking. "What nonsense!" Wollstonecraft exclaims, "When will a great man arise with sufficient strength of mind to puff away the fumes which pride and sensuality have thus spread over the subject!" (002-042). The naturalising argument is not merely incorrect — it is *convenient* for those who benefit from existing arrangements.
 
-This passage redefines nature as potential rather than fixed essence. Human nature is not a static condition but a capacity for improvement — and women, as human beings, share that capacity.
-
-### Nature and Equality
-
-Wollstonecraft aligns nature with equality against the artificial hierarchies of rank and gender. She argues that "they must return to nature and equality, if they wish to secure the placid satisfaction of virtue" (002-015). Nature, properly understood, is the ground of equality — not its enemy.
-
-This sets up a critical distinction: nature as understood by reason (which reveals equality) versus nature as depicted by custom (which naturalizes hierarchy). Wollstonecraft's entire argument depends on this distinction.
+Wollstonecraft also deploys nature as a critical standard against which social practices can be measured. "Nature never dictated such insincerity" (005-028), she writes of the conduct-book advice that women should feign submission. Against the artificial refinements of civilization, she holds up "the artless impulse of nature" (004-019) — a nature that, properly understood, equips women with the same rational powers as men. The [[education]] system that produces "factitious manners" (004-018) is the obstacle, not nature itself.
 
 ## Key Passages
 
-> "Either nature has made a great difference between man and man, or that the civilization which has hitherto taken place in the world has been very partial." (P03-001)
+> "I am now to make some remarks on the arguments that have been adduced in favour of a state of nature. They are plausible, but unsound. I shall first observe that the persons who plead for the state of nature, and those who are for the state of civilisation, describe, in similar terms, the state they severally advocate." (001-014)
 
-> "If women are by nature inferior to men, their virtues must be the same in quality, if not in degree, or virtue is a relative idea." (002-032)
+> "In what does man's pre-eminence over the brute creation consist? The answer is as clear as that a half is less than the whole; in Reason." (001-005)
 
-> "The perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual." (001-006)
+> "If women are by nature inferior to men, their virtues must be the same in quality, if not in degree, or virtue is a relative idea; consequently, their conduct should be founded on the same principles, and have the same aim." (002-042)
 
-> "Next to a state of nature, Rousseau celebrates barbarism." (001-020)
+> "Let their virtues be the same in kind, though they may vainly struggle for the same degree." (002-088)
 
-> "The nature of the poison points out the antidote." (001-033)
+> "Love, from its very nature, must be transitory. To seek for a secret that would render it constant, would be as wild a search as for the philosopher's stone." (002-062)
 
-### Nature in Wollstonecraft's Argument
+> "Consequently the perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual." (001-006)
 
-| Claim | Implication | PN |
-|-------|------------|-----|
-| Nature ≠ women's subordination | Gender hierarchy is social, not biological | P03-001 |
-| Moral nature is universal | Women share the same virtues as men | 002-032 |
-| Nature = potential for improvement | Education unlocks natural capacity | 001-006 |
-| Rousseau's state of nature = barbarism | Primitivism naturalizes hierarchy | 001-020 |
-| Nature and equality are allied | Return to nature means return to equality | 002-015 |
+> "In the government of the physical world, it is observable that the female, in general, is inferior to the male. The male pursues, the female yields — this is the law of nature; and it does not appear to be suspended or abrogated in favour of woman." (P03-003)
 
-## Relationship to Other Concepts
+## Related Concepts
 
-Nature is the battlefield on which Wollstonecraft fights both for [[Reason]] (against those who claim women's nature is irrational) and for [[Equality]] (against those who claim nature ordained hierarchy). The concept connects directly to her critique of [[Sensibility]] — the claim that women are "naturally" more emotional than rational is, for Wollstonecraft, a product of education, not nature.
+- [[virtue]] — Nature and [[virtue]] are intimately linked: the problem is whether [[virtue]] is natural or socially constructed
+- [[reason]] — The faculty that distinguishes human nature from brute nature
+- [[education]] — The means by which "second nature" is formed; can either cultivate or corrupt true nature
+- [[prejudice]] — Appeals to nature often mask [[prejudice]]
+- [[tyranny]] — The political consequence of false naturalising arguments
+- [[character]] — Character is a product of the conditions in which human nature develops
+- [[sensibility]] — The cultivated weakness that is falsely attributed to female nature
+- [[modesty]] — A virtue whose genuine form rests on rational nature, not social performance
 
-Nature also underpins Wollstonecraft's theory of [[Rights]]: natural rights derive from human nature as rational, and because women share that nature, they share those rights. The argument for [[Education]] similarly rests on nature: education perfects nature; it does not contradict it.
+## Related Persons
 
-## See Also
-
-- [[Reason]]
-- [[Rights]]
-- [[Equality]]
-- [[Education]]
-- [[Sensibility]]
-- [[Virtue]]
-- [[Jean-Jacques Rousseau]]
-- [[Mary Wollstonecraft]]
+- [[rousseau|Jean-Jacques Rousseau]] — The primary source of the "state of nature" discourse Wollstonecraft critiques; also the most influential proponent of natural sex differences
+- [[john-milton|John Milton]] — His depiction of Eve provides a literary touchstone for debates about woman's nature
+- [[charles-maurice-de-talleyrand-perigord|Charles Maurice de Talleyrand-Périgord]] — His 1791 report on public [[education]] embodies the naturalising exclusion Wollstonecraft contests

@@ -1,0 +1,62 @@
+---
+description: Complete table of contents for Algonquin Legends of New England
+id: TOC
+label: Table of Contents
+tags: []
+type: overview
+---
+
+# Table of Contents
+
+*Algonquin Legends of New England* by Charles G. Leland (1884) contains the following sections:
+
+- [[ch001|and the Online Distributed Proofreading Team.]]
+- [[ch002|How the Lord of Men and Beasts strove with the Mighty Wasis, and was]]
+- [[ch003|It is to the Rev. Silas T. Rand that the credit belongs of having]]
+- [[ch004|It came to pass in after-days that Kwah-beet-a-sis, the son of the]]
+- [[ch005|Finding that his brother continually thwarted him, the Good Mind]]
+- [[ch006|Then the lord of men and beasts sang the song again, and there came the]]
+- [[ch007|Then, going on, he reached the Strait of Camsoke [Footnote: Camsoke]]
+- [[ch008|Section 8]]
+- [[ch009|So they plotted to kill Turtle, and his nephew, who was about to leave,]]
+- [[ch010|Then, to frighten the Beaver, Glooskap threw at it a few handfuls of]]
+- [[ch011|Now the third went merrily onward alone, when all at once it flashed]]
+- [[ch012|It may be observed that most of these Indian traditions were originally]]
+- [[ch013|Yet the young man had more to do; for the chief said, ]]
+- [[ch014|_Of other Men who went to Glooskap for Gifts_.]]
+- [[ch015|And the next said, ]]
+- [[ch016|It came to pass that the Turtle waxed mighty in his own conceit, and]]
+- [[ch017|And just before he came all of these good fellows had resolved in]]
+- [[ch018|This family was at _Samgadihawk_, or Saco, on the sandy field]]
+- [[ch019|Section 19]]
+- [[ch020|(Micmac and Passamaquoddy.)]]
+- [[ch021|And as they sat there and day dawned, men of the different Indian]]
+- [[ch022|Now he had learned from the boys that they were of a _Cullo_]]
+- [[ch023|Then they laid them down to sleep; but before their slumber came they]]
+- [[ch024|Now as of all rowdies and rascals the wolves are the worst, we may well]]
+- [[ch025|My grandfather said that after this Mrs. Bear kept her eyes open on]]
+- [[ch026|Now the Raccoon is bare or has little fur where he scratched himself,]]
+- [[ch027|The sorcerer's passing himself off for a woman and the trick of the]]
+- [[ch028|Here he rested. He remained for a hundred moons observing the customs]]
+- [[ch029|Section 29]]
+- [[ch030|Section 30]]
+- [[ch031|Now having dressed the bride, she was so grateful to Rabbit that she]]
+- [[ch032|THE CHENOO LEGENDS.]]
+- [[ch033|He ran to the fight. What he saw was terrible! The Chenoos, who upright]]
+- [[ch034|Another time an Indian village was visited by a Kewahqu', but he was]]
+- [[ch035|Since writing the foregoing paragraph, I have read The Abnakis, by Rev.]]
+- [[ch036|I may here mention that I am well acquainted with old Peter Sabattis,]]
+- [[ch037|He went on to the camping ground and built a wigwam. He made up two]]
+- [[ch038|Now Pulowech, being himself addicted to sorcery, knew that there were]]
+- [[ch039|In this legend the hero passes the mysterious river which separates in]]
+- [[ch040|Then his father was very angry, and said, ]]
+- [[ch041|When their father returned home the next evening he brought with him]]
+- [[ch042|They went their way back to the chieftain's town, and found him married]]
+- [[ch043|This very singular legend was obtained for me by Mrs. W. Wallace Brown.]]
+- [[ch044|He had with him an elder brother, a great brave, a very fierce man. He,]]
+- [[ch045|For wherever Shamanism exists, there is to be found, in company with]]
+- [[ch046|Section 46]]
+- [[ch047|A very important part of _m'teoulin_ is the materials employed. In]]
+- [[ch048|This legend is little more than an enumeration of the recipes popularly]]
+- [[ch049|He who would cheat must watch his words well.]]
+- [[ch050|Then he remembered that the giant had told him he would think of him in]]

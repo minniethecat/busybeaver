@@ -1,0 +1,4552 @@
+{
+  "book": "a-daughter-of-eve",
+  "title": "A Daughter of Eve",
+  "description": "A Daughter of Eve — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 129,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"A Daughter of Eve\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:About",
+      "relations": []
+    },
+    {
+      "id": "Dedication",
+      "type": "chapter",
+      "label": "\"Dedication\"",
+      "description": "\"Dedication\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:Dedication",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "a-daughter-of-eve:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Dedication",
+          "label": "Dedication"
+        },
+        {
+          "type": "related",
+          "target": "ch01-the-two-maries",
+          "label": "I: The Two Maries"
+        },
+        {
+          "type": "related",
+          "target": "ch02-sisterly-confidences",
+          "label": "II: Sisterly Confidences"
+        },
+        {
+          "type": "related",
+          "target": "ch03-story-of-a-happy-woman",
+          "label": "III: The Story of a Happy Woman"
+        },
+        {
+          "type": "related",
+          "target": "ch04-a-man-of-note",
+          "label": "IV: A Man of Note"
+        },
+        {
+          "type": "related",
+          "target": "ch05-florine",
+          "label": "V: Florine"
+        },
+        {
+          "type": "related",
+          "target": "ch06-love-versus-society",
+          "label": "VI: Love Versus Society"
+        },
+        {
+          "type": "related",
+          "target": "ch07-suicide",
+          "label": "VII: Suicide"
+        },
+        {
+          "type": "related",
+          "target": "ch08-a-lover-saved-and-lost",
+          "label": "VIII: A Lover Saved and Lost"
+        },
+        {
+          "type": "related",
+          "target": "ch09-a-husbands-triumph",
+          "label": "IX: A Husband's Triumph"
+        }
+      ]
+    },
+    {
+      "id": "ambition",
+      "type": "concept",
+      "label": "Ambition",
+      "description": "In A Daughter of Eve, ambition is the driving force that propels characters through the social machinery of Restoration Paris — it elevates some (Rastignac), consumes others (Nathan), and corrupts all who pursue it without limit.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:ambition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passionate"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        }
+      ]
+    },
+    {
+      "id": "aristocracy",
+      "type": "concept",
+      "label": "aristocracy",
+      "description": "",
+      "aliases": [
+        "aristocracy",
+        "nobility",
+        "aristocratic-society"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "class",
+        "balzac"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:aristocracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "duchesse-de-grandlieu",
+          "label": "Duchesse de Grandlieu"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-montcornet",
+          "label": "Comtesse de Montcornet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "eugene-de-rastignac",
+          "label": "Rastignac"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "vanity",
+          "label": "vanity"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "type": "concept",
+      "label": "Art",
+      "description": "In Balzac's A Daughter of Eve, art serves as both a genuine vocation and a social performance — Raoul Nathan embodies the tension between creative integrity and the demands of Parisian celebrity, while music represents a lost spiritual purity in the Granville sisters' upbringing.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:art",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Parisian social life"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        }
+      ]
+    },
+    {
+      "id": "bank-of-france",
+      "type": "organization",
+      "label": "Bank of France",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:bank-of-france",
+      "relations": [
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "du-tillets-financial-scheme",
+          "label": "du-tillets-financial-scheme"
+        },
+        {
+          "type": "related",
+          "target": "felix-vandenesse-counterplot",
+          "label": "felix-vandenesse-counterplot"
+        },
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "baron-de-nucingen"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        }
+      ]
+    },
+    {
+      "id": "baron-de-nucingen",
+      "type": "person",
+      "label": "Baron de Nucingen",
+      "description": "The great Alsatian banker of La Comédie Humaine — a peer of the realm, a handler of millions, and a recurring figure in Balzac's fictional universe. In A Daughter of Eve, Nucingen is resigning his seat in the Chamber of Deputies to du Tillet, while his wife becomes entangled in Marie-Eugénie's financial schemes.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:baron-de-nucingen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "La Comédie Humaine"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "chamber-of-deputies",
+          "label": "Chamber of Deputies"
+        }
+      ]
+    },
+    {
+      "id": "baronne-de-nucingen",
+      "type": "person",
+      "label": "Baronne de Nucingen",
+      "description": "Wife of the great banker Baron de Nucingen and daughter of Père Goriot — in A Daughter of Eve, the Baronne de Nucingen is the financial intermediary who makes the rescue of Raoul Nathan possible, providing forty thousand francs in exchange for Schmucke's bills and Marie-Angélique's personal guarantee.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:baronne-de-nucingen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "Balzac's *La Comédie Humaine*"
+        },
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "Baron de Nucingen"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "ch08-a-lover-saved-and-lost",
+          "label": "Chapter VIII"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "eugene-de-rastignac",
+          "label": "Eugène de Rastignac"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "ch09-a-husbands-triumph",
+          "label": "Chapter IX"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty",
+      "description": "In *A Daughter of Eve*, beauty is a form of social capital — it opens doors, attracts attention, and creates value, but it is also a trap, binding women to roles defined by male desire rather than personal agency.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:beauty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "finance"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriages"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        }
+      ]
+    },
+    {
+      "id": "betrayal",
+      "type": "concept",
+      "label": "betrayal",
+      "description": "",
+      "aliases": [
+        "betrayal",
+        "infidelity",
+        "treachery"
+      ],
+      "tags": [
+        "concept",
+        "morality",
+        "relationships",
+        "balzac"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:betrayal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Émile Blondet"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "temptation"
+        },
+        {
+          "type": "related",
+          "target": "fidelity",
+          "label": "fidelity"
+        },
+        {
+          "type": "related",
+          "target": "forgiveness",
+          "label": "forgiveness"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "vice",
+          "label": "vice"
+        }
+      ]
+    },
+    {
+      "id": "bixiou",
+      "type": "person",
+      "label": "bixiou",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "journalist",
+        "caricaturist",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:bixiou",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "etienne-lousteau",
+          "label": "etienne-lousteau"
+        }
+      ]
+    },
+    {
+      "id": "bois-de-boulogne",
+      "type": "place",
+      "label": "Bois de Boulogne",
+      "description": "The great park on the western edge of Paris — in Balzac's time, a fashionable destination for carriage promenades where the aristocracy displayed its wealth, leisure, and social standing.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:bois-de-boulogne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "salon-of-mme-de-montcornet",
+          "label": "salon"
+        }
+      ]
+    },
+    {
+      "id": "byron",
+      "type": "work",
+      "label": "byron",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:byron",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        }
+      ]
+    },
+    {
+      "id": "ch01-the-two-maries",
+      "type": "chapter",
+      "label": "\"I: The Two Maries\"",
+      "description": "\"I: The Two Maries\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch01-the-two-maries",
+      "relations": []
+    },
+    {
+      "id": "ch02-sisterly-confidences",
+      "type": "chapter",
+      "label": "\"II: Sisterly Confidences\"",
+      "description": "\"II: Sisterly Confidences\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch02-sisterly-confidences",
+      "relations": []
+    },
+    {
+      "id": "ch03-story-of-a-happy-woman",
+      "type": "chapter",
+      "label": "\"III: The Story of a Happy Woman\"",
+      "description": "\"III: The Story of a Happy Woman\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch03-story-of-a-happy-woman",
+      "relations": []
+    },
+    {
+      "id": "ch04-a-man-of-note",
+      "type": "chapter",
+      "label": "\"IV: A Man of Note\"",
+      "description": "\"IV: A Man of Note\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch04-a-man-of-note",
+      "relations": []
+    },
+    {
+      "id": "ch05-florine",
+      "type": "chapter",
+      "label": "\"V: Florine\"",
+      "description": "\"V: Florine\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch05-florine",
+      "relations": []
+    },
+    {
+      "id": "ch06-love-versus-society",
+      "type": "chapter",
+      "label": "\"VI: Love Versus Society\"",
+      "description": "\"VI: Love Versus Society\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch06-love-versus-society",
+      "relations": []
+    },
+    {
+      "id": "ch07-suicide",
+      "type": "chapter",
+      "label": "\"VII: Suicide\"",
+      "description": "\"VII: Suicide\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch07-suicide",
+      "relations": []
+    },
+    {
+      "id": "ch08-a-lover-saved-and-lost",
+      "type": "chapter",
+      "label": "\"VIII: A Lover Saved and Lost\"",
+      "description": "\"VIII: A Lover Saved and Lost\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch08-a-lover-saved-and-lost",
+      "relations": []
+    },
+    {
+      "id": "ch09-a-husbands-triumph",
+      "type": "chapter",
+      "label": "\"IX: A Husband's Triumph\"",
+      "description": "\"IX: A Husband's Triumph\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-daughter-of-eve:ch09-a-husbands-triumph",
+      "relations": []
+    },
+    {
+      "id": "chamber-of-deputies",
+      "type": "organization",
+      "label": "Chamber of Deputies",
+      "description": "The lower house of the French Parliament under the July Monarchy (1830–1848) — the political arena toward which Raoul Nathan directs his ambitions and the institution that embodies the post-Revolutionary convergence of journalism, finance, and legislative power.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:chamber-of-deputies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        }
+      ]
+    },
+    {
+      "id": "character-index",
+      "type": "list",
+      "label": "Characters",
+      "description": "All characters appearing in Honoré de Balzac's \"A Daughter of Eve\" (1839), drawn from the interconnected world of La Comédie Humaine.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:character-index",
+      "relations": []
+    },
+    {
+      "id": "charles-de-vandenesse",
+      "type": "person",
+      "label": "Charles de Vandenesse",
+      "description": "Charles de Vandenesse is the elder brother of Comte Félix de Vandenesse, a former ambassador and marquis whose marriage to a de Fontaine and inherited wealth from the Comte de Kergarouët position him among the high aristocracy of Restoration France — a background figure in *A Daughter of Eve* whose marital alliance illuminates the family network within which the novel's central drama unfolds.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:charles-de-vandenesse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        }
+      ]
+    },
+    {
+      "id": "chaussee-dantin",
+      "type": "place",
+      "label": "chaussee-dantin",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "neighborhood",
+        "finance"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:chaussee-dantin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "Baron de Nucingen"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        }
+      ]
+    },
+    {
+      "id": "claude-vignon",
+      "type": "person",
+      "label": "Claude Vignon",
+      "description": "A talented critic and writer who appears briefly in A Daughter of Eve as a contributor to Nathan's planned newspaper — a minor role here, but a significant recurring figure across La Comédie Humaine.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:claude-vignon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "chamber-of-deputies",
+          "label": "Chamber of Deputies"
+        }
+      ]
+    },
+    {
+      "id": "comte-de-granville",
+      "type": "person",
+      "label": "Comte de Granville",
+      "description": "The father of Marie-Angélique and Marie-Eugénie, and a distinguished magistrate — Comte de Granville's severe, patriarchal approach to family life shaped both daughters' understanding of marriage and authority, contributing indirectly to their later unhappiness.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:comte-de-granville",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "aristocratic marriage"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "comte-felix-de-vandenesse",
+      "type": "person",
+      "label": "Comte Félix de Vandenesse",
+      "description": "The husband of Marie-Angélique de Vandenesse and a distinguished figure in post-Restoration French political life — Vandenesse embodies the well-meaning but emotionally obtuse aristocratic husband whose blindness to his wife's unhappiness drives the novel's central conflict.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:comte-felix-de-vandenesse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        }
+      ]
+    },
+    {
+      "id": "comtesse-de-granville",
+      "type": "person",
+      "label": "comtesse-de-granville",
+      "description": "The pious and severe mother of Marie-Angélique and Marie-Eugénie, whose oppressive religious upbringing shapes both daughters.",
+      "aliases": [
+        "Mme. de Granville",
+        "Angelique de Granville"
+      ],
+      "tags": [
+        "person",
+        "mother",
+        "devotion",
+        "religion"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:comtesse-de-granville",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie"
+        },
+        {
+          "type": "related",
+          "target": "comte-de-granville",
+          "label": "Comte de Granville"
+        },
+        {
+          "type": "related",
+          "target": "la-quotidienne",
+          "label": "*La Quotidienne*"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "devotion",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "fidelity",
+          "label": "fidelity"
+        }
+      ]
+    },
+    {
+      "id": "comtesse-de-montcornet",
+      "type": "person",
+      "label": "Comtesse de Montcornet",
+      "description": "A charming Parisian salon hostess in Balzac's *A Daughter of Eve* (1839) — the Comtesse de Montcornet presided over the most lively and eclectic drawing-room of the Restoration, where Raoul Nathan first met Marie-Angélique de Vandenesse and the novel's central romantic plot was set in motion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:comtesse-de-montcornet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "de-marsay",
+          "label": "Henri de Marsay"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "salon-of-mme-de-montcornet",
+          "label": "salon-of-mme-de-montcornet"
+        },
+        {
+          "type": "related",
+          "target": "montcornets-concert",
+          "label": "montcornets-concert"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "the-salons-of-paris"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "emile-blondet"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concepts",
+      "description": "Key themes and concepts explored in Honoré de Balzac's \"A Daughter of Eve\" (1839).",
+      "aliases": [],
+      "tags": [
+        "list",
+        "index",
+        "concept"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:concept-index",
+      "relations": []
+    },
+    {
+      "id": "conti",
+      "type": "person",
+      "label": "conti",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "composer",
+        "musician",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:conti",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        }
+      ]
+    },
+    {
+      "id": "couture",
+      "type": "person",
+      "label": "couture",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:couture",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Blondet"
+        },
+        {
+          "type": "related",
+          "target": "finot",
+          "label": "Finot"
+        },
+        {
+          "type": "related",
+          "target": "etienne-lousteau",
+          "label": "Lousteau"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        }
+      ]
+    },
+    {
+      "id": "de-marsay",
+      "type": "person",
+      "label": "de Marsay",
+      "description": "A formidable statesman and Prime Minister in Balzac's La Comédie Humaine — de Marsay heads the government during the events of A Daughter of Eve, embodying the cold, calculating political intelligence of the July Monarchy before his death mid-novel precipitates a ministerial crisis.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:de-marsay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "july-revolution-1830",
+          "label": "July Revolution of 1830"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-masked-ball",
+          "label": "Lady Dudley's great ball"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Rastignac"
+        }
+      ]
+    },
+    {
+      "id": "dedication",
+      "type": "work",
+      "label": "dedication",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "work",
+        "dedication",
+        "paratext"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:dedication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "devotion",
+      "type": "concept",
+      "label": "Devotion",
+      "description": "In *A Daughter of Eve*, devotion is a double-edged virtue — it is Marie-Angélique's inheritance from her religious upbringing, the form her love for Nathan takes, and ultimately the engine of her self-destruction when devotion is given to the wrong object.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:devotion",
+      "relations": []
+    },
+    {
+      "id": "dinner-at-verys",
+      "type": "event",
+      "label": "Dinner at Véry's",
+      "description": "The midnight supper at Véry's restaurant where Raoul Nathan, Eugène de Rastignac, and Émile Blondet cynically discuss the Comtesse Marie de Vandenesse as a sexual conquest — Rastignac urging the pursuit, Blondet applying mockery, and Nathan waxing poetic about finding his \"Beatrice\" and \"Laura\" in a society woman.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:dinner-at-verys",
+      "relations": []
+    },
+    {
+      "id": "du-tillet",
+      "type": "person",
+      "label": "Ferdinand du Tillet",
+      "description": "A wealthy Parisian banker and brother-in-law to the protagonist Marie-Angélique de Vandenesse — du Tillet embodies the ruthless financial ambition of post-Restoration France, using debt and political manipulation to destroy Raoul Nathan.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:du-tillet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "Balzac's *La Comédie Humaine*"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "Mme. de Montcornet and Mme. d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marital unhappiness"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Restoration aristocracy"
+        }
+      ]
+    },
+    {
+      "id": "du-tillets-financial-scheme",
+      "type": "event",
+      "label": "du Tillet's Financial Scheme",
+      "description": "Ferdinand du Tillet's financial manipulation — the scheme of speculation, credit manipulation, and legal pressure by which the banker ensnares Raoul Nathan, precipitating the journalist's financial ruin and attempted suicide.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:du-tillets-financial-scheme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        }
+      ]
+    },
+    {
+      "id": "duchesse-de-grandlieu",
+      "type": "person",
+      "label": "Duchesse de Grandlieu",
+      "description": "The Duchesse de Grandlieu is one of the grandes dames of Restoration Paris whose salon ranks among the most exclusive aristocratic drawing-rooms of the Faubourg Saint-Germain — a gatekeeper of the old nobility whose drawing-room served as a last redoubt of legitimist society during the July Monarchy.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:duchesse-de-grandlieu",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-montcornet",
+          "label": "the Comtesse de Montcornet"
+        },
+        {
+          "type": "related",
+          "target": "mademoiselle-des-touches",
+          "label": "Mlle. des Touches"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "La Comédie Humaine"
+        }
+      ]
+    },
+    {
+      "id": "emile-blondet",
+      "type": "person",
+      "label": "Émile Blondet",
+      "description": "A brilliant but indolent journalist and critic in Balzac's *A Daughter of Eve* — Blondet serves as Raoul Nathan's closest confidant and the novel's resident political sceptic, a man of penetrating judgment who can analyze everyone's affairs except his own.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:emile-blondet",
+      "relations": []
+    },
+    {
+      "id": "etienne-lousteau",
+      "type": "person",
+      "label": "etienne-lousteau",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:etienne-lousteau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "La Comédie Humaine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Blondet"
+        },
+        {
+          "type": "related",
+          "target": "claude-vignon",
+          "label": "Claude Vignon"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "Nathan's Journalism"
+        },
+        {
+          "type": "related",
+          "target": "jealousy",
+          "label": "jealousy"
+        }
+      ]
+    },
+    {
+      "id": "eugene-de-rastignac",
+      "type": "person",
+      "label": "Eugène de Rastignac",
+      "description": "The Undersecretary of State in de Marsay's government and a rising political figure in Balzac's *A Daughter of Eve* — Rastignac embodies the ambitious social climber navigating between aristocratic salons, financial cabals, and the machinery of power in post-Restoration Paris.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:eugene-de-rastignac",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "Balzac's *La Comédie Humaine*"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "Henri de Marsay's"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "Nucingen"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Nathan's"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "Mme. d'Espard and Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine's"
+        }
+      ]
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Events",
+      "description": "Key events in Honoré de Balzac's \"A Daughter of Eve\" (1839), from intimate salon gatherings to political machinations.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "index",
+        "event"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:event-index",
+      "relations": []
+    },
+    {
+      "id": "faubourg-saint-germain",
+      "type": "place",
+      "label": "faubourg-saint-germain",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "neighborhood",
+        "aristocracy"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:faubourg-saint-germain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "duchesse-de-grandlieu",
+          "label": "Duchesse de Grandlieu"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Nathan"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "chaussee-dantin",
+          "label": "chaussee-dantin"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "felicien-vernou",
+      "type": "person",
+      "label": "felicien-vernou",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "journalist",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:felicien-vernou",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Blondet"
+        },
+        {
+          "type": "related",
+          "target": "finot",
+          "label": "Finot"
+        },
+        {
+          "type": "related",
+          "target": "etienne-lousteau",
+          "label": "Lousteau"
+        }
+      ]
+    },
+    {
+      "id": "felix-vandenesse-counterplot",
+      "type": "event",
+      "label": "Félix de Vandenesse's Counterplot",
+      "description": "Comte Félix de Vandenesse's methodical counter-plot to rescue his wife Marie-Angélique from her affair with Raoul Nathan — a campaign of financial intelligence, political manipulation, and theatrical exposure that restores his conjugal authority without a single overt confrontation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:felix-vandenesse-counterplot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "comte-felix-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        }
+      ]
+    },
+    {
+      "id": "fidelity",
+      "type": "concept",
+      "label": "fidelity",
+      "description": "",
+      "aliases": [
+        "fidelity",
+        "loyalty",
+        "faithfulness",
+        "constancy"
+      ],
+      "tags": [
+        "concept",
+        "morality",
+        "virtue",
+        "balzac"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:fidelity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "betrayal",
+          "label": "betrayal"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "devotion",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "honor",
+          "label": "honor"
+        },
+        {
+          "type": "related",
+          "target": "forgiveness",
+          "label": "forgiveness"
+        }
+      ]
+    },
+    {
+      "id": "finot",
+      "type": "person",
+      "label": "finot",
+      "description": "A powerful newspaper proprietor and editor in Balzac's Paris — the commercial face of the press.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "journalist",
+        "editor",
+        "newspaper"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:finot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "nathans-journalism"
+        },
+        {
+          "type": "related",
+          "target": "etienne-lousteau",
+          "label": "etienne-lousteau"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "emile-blondet"
+        }
+      ]
+    },
+    {
+      "id": "florine",
+      "type": "person",
+      "label": "Florine",
+      "description": "A popular Parisian actress and courtesan — mistress to Raoul Nathan, Florine represents the demi-monde world of theatrical celebrity, financial precarity, and strategic relationships that Balzac uses to mirror the aristocratic society of A Daughter of Eve.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:florine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "the-two-marriages",
+          "label": "the-two-marriages"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        }
+      ]
+    },
+    {
+      "id": "florines-apartment",
+      "type": "place",
+      "label": "florines-apartment",
+      "description": "The residence of the actress Florine where Nathan lives — a bohemian counterpoint to the aristocratic salons.",
+      "aliases": [
+        "Florine's lodgings"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "apartment",
+        "bohemian"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:florines-apartment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Émile Blondet"
+        },
+        {
+          "type": "related",
+          "target": "etienne-lousteau",
+          "label": "Étienne Lousteau"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "Rue du Rocher"
+        },
+        {
+          "type": "related",
+          "target": "marie-discovers-florine",
+          "label": "marie-discovers-florine"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        }
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "type": "concept",
+      "label": "forgiveness",
+      "description": "",
+      "aliases": [
+        "forgiveness",
+        "pardon",
+        "mercy"
+      ],
+      "tags": [
+        "concept",
+        "morality",
+        "redemption",
+        "balzac"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:forgiveness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "felix-vandenesse-counterplot",
+          "label": "counterplot against du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "fidelity",
+          "label": "fidelity"
+        },
+        {
+          "type": "related",
+          "target": "betrayal",
+          "label": "betrayal"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "genius",
+      "type": "concept",
+      "label": "Genius",
+      "description": "In Balzac's *A Daughter of Eve*, genius is a double-edged gift — the source of artistic power and the root of personal destruction, embodied most fully in the figure of Raoul Nathan, whose creative brilliance cannot survive the marketplace.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:genius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "gigonnet",
+      "type": "person",
+      "label": "gigonnet",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:gigonnet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Blondet"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie"
+        },
+        {
+          "type": "related",
+          "target": "du-tillets-financial-scheme",
+          "label": "du Tillet's Financial Scheme"
+        },
+        {
+          "type": "related",
+          "target": "nathans-debt-rescue",
+          "label": "Nathan's Debt Rescue"
+        },
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        }
+      ]
+    },
+    {
+      "id": "girodets-portrait-of-chateaubriand",
+      "type": "work",
+      "label": "girodets-portrait-of-chateaubriand",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:girodets-portrait-of-chateaubriand",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "byron",
+          "label": "byron"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        }
+      ]
+    },
+    {
+      "id": "honor",
+      "type": "concept",
+      "label": "Honor",
+      "description": "The governing principle of masculine conduct in Balzac's Paris — a code of public integrity that often conceals private compromise and serves as both shield and weapon in social competition.",
+      "aliases": [
+        "reputation",
+        "social honor",
+        "dignité"
+      ],
+      "tags": [
+        "concept",
+        "honor",
+        "reputation",
+        "morality",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:honor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        }
+      ]
+    },
+    {
+      "id": "hotel-de-mail",
+      "type": "place",
+      "label": "hotel-de-mail",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "hotel",
+        "residence"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:hotel-de-mail",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "faubourg-saint-germain",
+          "label": "faubourg-saint-germain"
+        }
+      ]
+    },
+    {
+      "id": "innocence",
+      "type": "concept",
+      "label": "Innocence",
+      "description": "In *A Daughter of Eve*, innocence is the novel's starting condition and its central loss — it is what Marie-Angélique possesses, what protects her, and what she cannot keep once she enters the world of adult passion and social transaction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:innocence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "Italy",
+      "description": "Italy appears in A Daughter of Eve as the promised destination of romantic escape and, ultimately, as the site of the novel's quiet resolution — a place where travel serves as both a dream of freedom and, later, a return to domestic order.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:italy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Parisian"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "romantic freedom"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "Rue du Rocher"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "ivanhoe-novel",
+      "type": "work",
+      "label": "ivanhoe-novel",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:ivanhoe-novel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "jealousy",
+      "type": "concept",
+      "label": "jealousy",
+      "description": "",
+      "aliases": [
+        "jealousy",
+        "envy",
+        "rivalry"
+      ],
+      "tags": [
+        "concept",
+        "emotion",
+        "psychology",
+        "balzac"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:jealousy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "vanity",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        }
+      ]
+    },
+    {
+      "id": "july-revolution-1830",
+      "type": "event",
+      "label": "The July Revolution of 1830",
+      "description": "The July Revolution of 1830 (Trois Glorieuses) — the three-day uprising that overthrew Charles X and the Bourbon Restoration, installing Louis-Philippe and the July Monarchy; the political horizon against which Balzac's characters unknowingly live their dramas of ambition, love, and finance.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:july-revolution-1830",
+      "relations": [
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "du-tillets-financial-scheme",
+          "label": "financial scheme"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        }
+      ]
+    },
+    {
+      "id": "la-comedie-humaine",
+      "type": "work",
+      "label": "La Comédie Humaine",
+      "description": "Honoré de Balzac's monumental cycle of interlinked novels and stories — the fictional universe within which A Daughter of Eve appears as one of the Scènes de la vie privée.",
+      "aliases": [
+        "The Human Comedy",
+        "Balzac's cycle"
+      ],
+      "tags": [
+        "work",
+        "balzac",
+        "french-literature",
+        "cycle",
+        "reference"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:la-comedie-humaine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comte-de-granville",
+          "label": "Comte de Granville"
+        }
+      ]
+    },
+    {
+      "id": "la-quotidienne",
+      "type": "organization",
+      "label": "La Quotidienne",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:la-quotidienne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "the-restoration",
+          "label": "the-restoration"
+        },
+        {
+          "type": "related",
+          "target": "comte-de-granville",
+          "label": "comte-de-granville"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "nathans-journalism"
+        }
+      ]
+    },
+    {
+      "id": "lady-dudley",
+      "type": "person",
+      "label": "Lady Dudley",
+      "description": "A wealthy English aristocrat resident in Paris, Lady Dudley is one of the grandes dames of Restoration high society — a hostess of grand balls, a sharp-tongued observer of others' affairs, and a figure who embodies the worldly, disillusioned wisdom of experience.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:lady-dudley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "lady-dudleys-boudoir",
+      "type": "place",
+      "label": "lady-dudleys-boudoir",
+      "description": "The intimate private room at Lady Dudley's residence where Nathan's suicidal despair is discovered and his farewell is spoken.",
+      "aliases": [
+        "Lady Dudley's boudoir"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "boudoir",
+        "private-room"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:lady-dudleys-boudoir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-dudleys-salon",
+          "label": "lady-dudleys-salon"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-masked-ball",
+          "label": "lady-dudleys-masked-ball"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "lady-dudley"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "comte-felix-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "nathans-suicide-attempt",
+          "label": "nathans-suicide-attempt"
+        }
+      ]
+    },
+    {
+      "id": "lady-dudleys-masked-ball",
+      "type": "event",
+      "label": "Lady Dudley's Masked Ball",
+      "description": "The culminating social event of A Daughter of Eve — Lady Dudley's masked ball becomes the stage for the novel's climactic confrontation between Nathan, du Tillet, and the Vandenesse marriage, where hidden identities mirror hidden truths.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:lady-dudleys-masked-ball",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "montcornets-concert",
+          "label": "montcornets-concert"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        }
+      ]
+    },
+    {
+      "id": "lady-dudleys-salon",
+      "type": "place",
+      "label": "lady-dudleys-salon",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:lady-dudleys-salon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "lady-dudley"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "felix-vandenesse-counterplot",
+          "label": "Felix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "le-misanthrope",
+      "type": "work",
+      "label": "le-misanthrope",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:le-misanthrope",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "moliere",
+          "label": "moliere"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "theatre-francais",
+          "label": "theatre-francais"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        }
+      ]
+    },
+    {
+      "id": "lecons-de-litterature",
+      "type": "work",
+      "label": "lecons-de-litterature",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "work",
+        "literature",
+        "education"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:lecons-de-litterature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "comtesse-de-granville"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "lettres-edifiantes",
+          "label": "lettres-edifiantes"
+        }
+      ]
+    },
+    {
+      "id": "lettres-edifiantes",
+      "type": "work",
+      "label": "lettres-edifiantes",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "work",
+        "literature",
+        "religious",
+        "missionary"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:lettres-edifiantes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        }
+      ]
+    },
+    {
+      "id": "limpartial",
+      "type": "organization",
+      "label": "L'Impartial",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:limpartial",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "nathans-journalism"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        }
+      ]
+    },
+    {
+      "id": "lord-dudley",
+      "type": "person",
+      "label": "lord-dudley",
+      "description": "An elderly English aristocrat who appears at Lady Dudley's ball — a figure from an older, more dissolute generation.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "aristocrat",
+        "english",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:lord-dudley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-salon",
+          "label": "lady-dudleys-salon"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "The central emotional force in Balzac's A Daughter of Eve — a complex interplay of romantic idealism, social ambition, and moral danger in 19th-century Parisian society.",
+      "aliases": [
+        "romantic love",
+        "passion",
+        "amour"
+      ],
+      "tags": [
+        "concept",
+        "love",
+        "marriage",
+        "parisian-society",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "mademoiselle-des-touches",
+      "type": "person",
+      "label": "Mademoiselle des Touches",
+      "description": "A celebrated woman writer and salon hostess in Balzac's La Comédie Humaine, Mademoiselle des Touches — who also publishes under the masculine pseudonym Camille Maupin — is one of the most intellectually formidable figures in Restoration Paris, based in part on George Sand and embodying the rare woman who claims artistic independence in a society that grants it only to men.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:mademoiselle-des-touches",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "La Comédie Humaine"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "duchesse-de-grandlieu",
+          "label": "Duchesse de Grandlieu"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-montcornet",
+          "label": "Montcornet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        }
+      ]
+    },
+    {
+      "id": "marie-angelique-de-vandenesse",
+      "type": "person",
+      "label": "Marie-Angélique de Vandenesse",
+      "description": "The protagonist of A Daughter of Eve — a young aristocratic wife whose romantic disillusionment drives the novel's central conflict between marital duty and passionate love.",
+      "aliases": [
+        "Marie-Angélique",
+        "Comtesse de Vandenesse",
+        "Angélique de Granville"
+      ],
+      "tags": [
+        "person",
+        "protagonist",
+        "aristocracy",
+        "marriage",
+        "love"
+      ],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:marie-angelique-de-vandenesse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "ch01-the-two-maries",
+          "label": "ch01-the-two-maries"
+        },
+        {
+          "type": "related",
+          "target": "ch02-sisterly-confidences",
+          "label": "Ch. II: Sisterly Confidences"
+        },
+        {
+          "type": "related",
+          "target": "ch03-story-of-a-happy-woman",
+          "label": "Ch. III: The Story of a Happy Woman"
+        }
+      ]
+    },
+    {
+      "id": "marie-confesses-to-felix",
+      "type": "event",
+      "label": "Marie Confesses to Félix",
+      "description": "The climactic domestic scene in which Marie-Angélique de Vandenesse, driven by jealousy and her husband's careful orchestration, confesses her emotional infidelity with Raoul Nathan to Comte Félix de Vandenesse — who has already known everything and acted to save her from ruin before she speaks a word.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:marie-confesses-to-felix",
+      "relations": []
+    },
+    {
+      "id": "marie-discovers-florine",
+      "type": "event",
+      "label": "Marie Discovers Florine",
+      "description": "Marie-Angélique de Vandenesse's gradual and devastating discovery that her idealized lover Raoul Nathan has maintained a long-standing domestic and financial relationship with the actress Florine — a revelation that shatters her romantic illusions and forces her to confront the demi-monde reality beneath Nathan's poetic self-presentation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:marie-discovers-florine",
+      "relations": []
+    },
+    {
+      "id": "marie-eugenie-du-tillet",
+      "type": "person",
+      "label": "Marie-Eugénie du Tillet",
+      "description": "The elder sister of Marie-Angélique de Vandenesse and the wife of the wealthy banker Ferdinand du Tillet — trapped in a cold, controlling marriage, Eugénie serves as a foil to her sister and a warning of what aristocratic marriage can become.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:marie-eugenie-du-tillet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriages"
+        }
+      ]
+    },
+    {
+      "id": "marie-returns-to-felix",
+      "type": "event",
+      "label": "marie-returns-to-felix",
+      "description": "The final reconciliation between Marie-Angélique and Félix de Vandenesse after the crisis of her infatuation with Raoul Nathan.",
+      "aliases": [
+        "the reconciliation",
+        "Marie's return"
+      ],
+      "tags": [
+        "event",
+        "reconciliation",
+        "marriage",
+        "forgiveness"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:marie-returns-to-felix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-confesses-to-felix",
+          "label": "marie-confesses-to-felix"
+        },
+        {
+          "type": "related",
+          "target": "felix-vandenesse-counterplot",
+          "label": "felix-vandenesse-counterplot"
+        },
+        {
+          "type": "related",
+          "target": "forgiveness",
+          "label": "forgiveness"
+        }
+      ]
+    },
+    {
+      "id": "marquise-d-espard",
+      "type": "person",
+      "label": "Marquise d'Espard",
+      "description": "A formidable grande dame of Paris Restoration society, the Marquise d'Espard presides over one of the most exclusive salons of the Faubourg Saint-Germain — sharp-tongued, socially omniscient, and deeply complicit in the romantic entanglement between Marie-Angélique de Vandenesse and Raoul Nathan.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:marquise-d-espard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "marquise-de-listomere",
+      "type": "person",
+      "label": "marquise-de-listomere",
+      "description": "An aristocratic salon hostess in Restoration Paris — one of the grandes dames who define the novel's social landscape.",
+      "aliases": [
+        "Mme. de Listomère"
+      ],
+      "tags": [
+        "person",
+        "aristocrat",
+        "salonnière",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:marquise-de-listomere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Mme. d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "mademoiselle-des-touches",
+          "label": "Mlle. des Touches"
+        },
+        {
+          "type": "related",
+          "target": "duchesse-de-grandlieu",
+          "label": "Duchesse de Grandlieu"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "the-salons-of-paris"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "marquise-de-vandenesse",
+      "type": "person",
+      "label": "marquise-de-vandenesse",
+      "description": "Marie-Angélique's sister-in-law, who delivers cynical maxims about love and marriage.",
+      "aliases": [
+        "Mme. Charles de Vandenesse"
+      ],
+      "tags": [
+        "person",
+        "aristocrat",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:marquise-de-vandenesse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Mme. d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "comte-felix-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "type": "concept",
+      "label": "Marriage",
+      "description": "The central social institution in A Daughter of Eve — simultaneously an economic contract, a moral obligation, and a constraint upon romantic love in Balzac's Paris.",
+      "aliases": [
+        "matrimony",
+        "wedlock",
+        "conjugal union"
+      ],
+      "tags": [
+        "concept",
+        "marriage",
+        "society",
+        "love",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        }
+      ]
+    },
+    {
+      "id": "massol",
+      "type": "person",
+      "label": "massol",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:massol",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "Nucingen"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Blondet"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "chamber-of-deputies",
+          "label": "Chamber of Deputies"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "Nathan's Journalism"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        }
+      ]
+    },
+    {
+      "id": "mme-de-manerville",
+      "type": "person",
+      "label": "mme-de-manerville",
+      "description": "A former mistress of Félix de Vandenesse who appears at Lady Dudley's ball and in salon scenes.",
+      "aliases": [
+        "Mme. de Manerville"
+      ],
+      "tags": [
+        "person",
+        "aristocrat",
+        "recurring-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:mme-de-manerville",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Mme. d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-montcornet",
+          "label": "Mme. de Montcornet"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-salon",
+          "label": "lady-dudleys-salon"
+        }
+      ]
+    },
+    {
+      "id": "moina-de-saint-heren",
+      "type": "person",
+      "label": "moina-de-saint-heren",
+      "description": "A pretty young society woman in Balzac's Paris who voices the allure of forbidden love.",
+      "aliases": [
+        "Moina de Saint-Heren"
+      ],
+      "tags": [
+        "person",
+        "society-woman",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:moina-de-saint-heren",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marquise-de-vandenesse",
+          "label": "marquise-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "temptation"
+        }
+      ]
+    },
+    {
+      "id": "moliere",
+      "type": "work",
+      "label": "moliere",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:moliere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "le-misanthrope",
+          "label": "le-misanthrope"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        },
+        {
+          "type": "related",
+          "target": "theatre-francais",
+          "label": "theatre-francais"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "type": "concept",
+      "label": "Money",
+      "description": "In *A Daughter of Eve*, money is the hidden infrastructure of all social relationships — it flows through debts, diamonds, and dowries, binding characters together in webs of obligation that no romantic sentiment can dissolve.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:money",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "Florine"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "montcornets-concert",
+      "type": "event",
+      "label": "Mme. de Montcornet's Concert",
+      "description": "A pivotal salon concert hosted by the Comtesse de Montcornet — the event where Raoul Nathan meets Marie-Angélique de Vandenesse and their fateful relationship begins, setting in motion the central plot of A Daughter of Eve.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:montcornets-concert",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Parisian social season"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "the-two-marriages",
+          "label": "the-two-marriages"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "the-salons-of-paris"
+        }
+      ]
+    },
+    {
+      "id": "nathans-debt-rescue",
+      "type": "event",
+      "label": "Nathan's Debt Rescue",
+      "description": "The clandestine operation mounted by Marie-Angélique de Vandenesse and her sister Marie-Eugénie du Tillet to rescue Raoul Nathan from debtors' prison by raising forty thousand francs through forged bills signed by the old music-master Schmucke and guaranteed by the Baronne de Nucingen.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:nathans-debt-rescue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "marie-eugenie-du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        }
+      ]
+    },
+    {
+      "id": "nathans-journalism",
+      "type": "event",
+      "label": "Nathan's Journalism",
+      "description": "Raoul Nathan's career as a journalist, newspaper founder, and playwright in Restoration Paris — the professional identity that both elevates and undermines him, providing entry to society while ensnaring him in financial obligations that precipitate his downfall.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:nathans-journalism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        }
+      ]
+    },
+    {
+      "id": "nathans-suicide-attempt",
+      "type": "event",
+      "label": "Nathan's Suicide Attempt",
+      "description": "Raoul Nathan's attempted suicide by charcoal asphyxiation — the crisis point of his financial ruin and romantic entanglement with Marie-Angélique de Vandenesse, occurring between his arrest for debt and his eventual rescue by Marie's intervention.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:nathans-suicide-attempt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        }
+      ]
+    },
+    {
+      "id": "nucingen-family",
+      "type": "person",
+      "label": "nucingen-family",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "person",
+        "family",
+        "banking",
+        "finance"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:nucingen-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "eugene-de-rastignac",
+          "label": "Rastignac"
+        },
+        {
+          "type": "related",
+          "target": "baronne-de-nucingen",
+          "label": "Delphine de Nucingen"
+        },
+        {
+          "type": "related",
+          "target": "schmucke",
+          "label": "Schmucke"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "baron-de-nucingen",
+          "label": "baron-de-nucingen"
+        },
+        {
+          "type": "related",
+          "target": "nathans-debt-rescue",
+          "label": "nathans-debt-rescue"
+        }
+      ]
+    },
+    {
+      "id": "octave-de-camps",
+      "type": "person",
+      "label": "Mme. Octave de Camps",
+      "description": "Mme. Octave de Camps is a minor but quietly crucial figure in Balzac's *A Daughter of Eve* — an excellent woman whose discretion, loyalty, and protective instinct place her at Marie-Angélique de Vandenesse's side during the two most vulnerable moments of her romantic awakening.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:octave-de-camps",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-montcornet",
+          "label": "Comtesse de Montcornet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        }
+      ]
+    },
+    {
+      "id": "odeon-theatre",
+      "type": "organization",
+      "label": "Odéon Theatre",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:odeon-theatre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theatre-francais",
+          "label": "theatre-francais"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "nathans-journalism"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "opera-de-paris",
+      "type": "place",
+      "label": "Opéra de Paris",
+      "description": "The great opera house and supreme public theater of Parisian high society in the 1830s — a place of spectacle, rendezvous, and social surveillance where Balzac's characters see and are seen, and where the private dramas of the plot unfold under the gaze of the fashionable world.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:opera-de-paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "salon-of-mme-de-montcornet",
+          "label": "salon"
+        },
+        {
+          "type": "related",
+          "target": "ch04-a-man-of-note",
+          "label": "Chapter IV"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "de Marsay"
+        },
+        {
+          "type": "related",
+          "target": "ch08-a-lover-saved-and-lost",
+          "label": "Chapter VIII"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "salon"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "La Comédie Humaine"
+        },
+        {
+          "type": "related",
+          "target": "bois-de-boulogne",
+          "label": "Bois de Boulogne"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Parisian"
+        }
+      ]
+    },
+    {
+      "id": "organization-index",
+      "type": "list",
+      "label": "Organizations",
+      "description": "Institutions and organizations referenced in Honoré de Balzac's \"A Daughter of Eve\" (1839).",
+      "aliases": [],
+      "tags": [
+        "list",
+        "index",
+        "organization"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:organization-index",
+      "relations": []
+    },
+    {
+      "id": "palais-royal",
+      "type": "place",
+      "label": "palais-royal",
+      "description": "The Palais-Royal — commercial and social heart of Restoration Paris, home to Véry's restaurant and a symbol of the city's vibrant public life.",
+      "aliases": [
+        "Palais Royal",
+        "the Palais-Royal"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "landmark",
+        "commerce"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:palais-royal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "very-restaurant",
+          "label": "Véry's Restaurant"
+        },
+        {
+          "type": "related",
+          "target": "dinner-at-verys",
+          "label": "dinner-at-verys"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "The setting and unseen protagonist of A Daughter of Eve — a city whose salons, theaters, and boulevards form the stage on which Balzac's social drama unfolds.",
+      "aliases": [
+        "the capital",
+        "Parisian world"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "setting",
+        "society",
+        "france"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "italy"
+        }
+      ]
+    },
+    {
+      "id": "passion",
+      "type": "concept",
+      "label": "Passion",
+      "description": "The most dangerous form of love in Balzac's moral universe — an overwhelming emotional force that consumes reason, defies social convention, and leads inexorably to ruin.",
+      "aliases": [
+        "romantic passion",
+        "ardor",
+        "fervor"
+      ],
+      "tags": [
+        "concept",
+        "passion",
+        "love",
+        "morality",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:passion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "pinto-play",
+      "type": "work",
+      "label": "pinto-play",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:pinto-play",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        },
+        {
+          "type": "related",
+          "target": "theatre-francais",
+          "label": "theatre-francais"
+        },
+        {
+          "type": "related",
+          "target": "nathans-journalism",
+          "label": "nathans-journalism"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        }
+      ]
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "Places",
+      "description": "Locations in Honoré de Balzac's \"A Daughter of Eve\" (1839) — the streets, salons, and districts of Restoration-era Paris.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "index",
+        "place"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:place-index",
+      "relations": []
+    },
+    {
+      "id": "politics",
+      "type": "concept",
+      "label": "Politics",
+      "description": "In *A Daughter of Eve*, politics is the arena where ambition, finance, and journalism converge — it is the prize that men like du Tillet and Nathan pursue, and the system that Balzac anatomizes with cold precision.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:politics",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Nathan"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "the-salons-of-paris",
+          "label": "The great houses"
+        }
+      ]
+    },
+    {
+      "id": "pont-neuf",
+      "type": "place",
+      "label": "pont-neuf",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "bridge",
+        "seine"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:pont-neuf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "quai-conti",
+          "label": "quai-conti"
+        },
+        {
+          "type": "related",
+          "target": "seine-river",
+          "label": "seine-river"
+        }
+      ]
+    },
+    {
+      "id": "quai-conti",
+      "type": "place",
+      "label": "quai-conti",
+      "description": "The Left Bank quay where Schmucke lives — visited by Marie-Angélique during the debt-rescue scheme.",
+      "aliases": [
+        "Quai Conti"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "quay",
+        "left-bank"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:quai-conti",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-mail",
+          "label": "rue-du-mail"
+        },
+        {
+          "type": "related",
+          "target": "rue-de-nevers",
+          "label": "rue-de-nevers"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "marie-eugenie-du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        }
+      ]
+    },
+    {
+      "id": "raoul-nathan",
+      "type": "person",
+      "label": "Raoul Nathan",
+      "description": "A talented but struggling writer and journalist in Balzac's *A Daughter of Eve* — Nathan embodies the clash between literary ambition and financial survival in post-Restoration Paris, becoming the object of Marie-Angélique de Vandenesse's romantic fascination.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:raoul-nathan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "Rue du Rocher"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        }
+      ]
+    },
+    {
+      "id": "rue-de-clichy",
+      "type": "place",
+      "label": "rue-de-clichy",
+      "description": "The Paris street housing the notorious debtors' prison where Nathan is threatened with imprisonment.",
+      "aliases": [
+        "Rue de Clichy",
+        "Clichy",
+        "debtors' prison"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "prison",
+        "debt"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:rue-de-clichy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "florines-apartment",
+          "label": "florines-apartment"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "marie-eugenie-du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "du-tillets-financial-scheme",
+          "label": "du-tillets-financial-scheme"
+        },
+        {
+          "type": "related",
+          "target": "nathans-debt-rescue",
+          "label": "nathans-debt-rescue"
+        }
+      ]
+    },
+    {
+      "id": "rue-de-la-paix",
+      "type": "place",
+      "label": "rue-de-la-paix",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "street",
+        "fashion"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:rue-de-la-paix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "rue-du-rocher"
+        },
+        {
+          "type": "related",
+          "target": "opera-de-paris",
+          "label": "opera-de-paris"
+        }
+      ]
+    },
+    {
+      "id": "rue-de-nevers",
+      "type": "place",
+      "label": "rue-de-nevers",
+      "description": "A street on the Left Bank where Wilhelm Schmucke lives in extreme poverty — the counterpoint to the aristocratic Rue du Rocher.",
+      "aliases": [
+        "Rue de Nevers",
+        "Nevers"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "street",
+        "latin-quarter"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:rue-de-nevers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schmucke",
+          "label": "Wilhelm Schmucke"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "Rue du Rocher"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "nathans-debt-rescue",
+          "label": "nathans-debt-rescue"
+        }
+      ]
+    },
+    {
+      "id": "rue-du-mail",
+      "type": "place",
+      "label": "Rue du Mail",
+      "description": "A Paris street near the Place des Victoires, known in the novel for the Hôtel du Mail — the lodging house where Raoul Nathan was taken after his failed suicide attempt, and where Marie-Angélique's secret correspondence with him was discovered.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:rue-du-mail",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "rue-du-rocher",
+          "label": "Rue du Rocher"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        }
+      ]
+    },
+    {
+      "id": "rue-du-rocher",
+      "type": "place",
+      "label": "Rue du Rocher",
+      "description": "The Parisian residence of the Comte and Comtesse de Vandenesse in the Rue du Rocher — a domestic space that Balzac renders as both a \"paradise\" of aristocratic refinement and a gilded cage for its dissatisfied mistress, Marie-Angélique.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "a-daughter-of-eve:rue-du-rocher",
+      "relations": [
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "emotional fulfillment"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "salon-of-mme-de-montcornet",
+      "type": "organization",
+      "label": "Salon of Mme. de Montcornet",
+      "description": "The Paris salon of the Comtesse de Montcornet — the most mixed and lively gathering-place of artists, literary men, and financial princes in Balzac's novel, where Raoul Nathan first enters the world of Marie-Angélique de Vandenesse and where the machinery of the plot is set in motion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:salon-of-mme-de-montcornet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        }
+      ]
+    },
+    {
+      "id": "schmucke",
+      "type": "person",
+      "label": "Schmucke",
+      "description": "An elderly German musician, former choirmaster to the Margrave of Anspach, and the beloved childhood music-master of Marie-Angélique and Marie-Eugénie — Schmucke is a figure of pure innocence, self-sacrificing devotion, and unworldly goodness whose signature on four bills of exchange enables the rescue of Raoul Nathan and nearly destroys him.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:schmucke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Comte Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "*La Comédie Humaine*"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Nathan"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "innocent"
+        },
+        {
+          "type": "related",
+          "target": "devotion",
+          "label": "devotion"
+        }
+      ]
+    },
+    {
+      "id": "seine-river",
+      "type": "place",
+      "label": "seine-river",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "place",
+        "paris",
+        "river"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:seine-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "faubourg-saint-germain",
+          "label": "faubourg-saint-germain"
+        },
+        {
+          "type": "related",
+          "target": "chaussee-dantin",
+          "label": "chaussee-dantin"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "type": "concept",
+      "label": "Society",
+      "description": "The all-seeing, all-judging collective force in Balzac's novel — a world of salons, reputations, and unspoken rules that shapes every character's destiny.",
+      "aliases": [
+        "Parisian society",
+        "high society",
+        "le monde",
+        "social world"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "paris",
+        "social-class",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-masked-ball",
+          "label": "lady-dudleys-masked-ball"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "italy"
+        }
+      ]
+    },
+    {
+      "id": "telemachus",
+      "type": "work",
+      "label": "telemachus",
+      "description": "Fénelon's didactic novel *Les Aventures de Télémaque* (1699) — a classical reference in the novel's literary culture.",
+      "aliases": [
+        "Telemachus",
+        "Les Aventures de Télémaque"
+      ],
+      "tags": [
+        "work",
+        "literature",
+        "classical",
+        "french"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:telemachus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pinto-play",
+          "label": "pinto-play"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "la-comedie-humaine",
+          "label": "la-comedie-humaine"
+        }
+      ]
+    },
+    {
+      "id": "temptation",
+      "type": "concept",
+      "label": "temptation",
+      "description": "",
+      "aliases": [
+        "temptation",
+        "seduction",
+        "fall"
+      ],
+      "tags": [
+        "concept",
+        "morality",
+        "theme",
+        "balzac"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:temptation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudleys-salon",
+          "label": "Lady Dudley's ball"
+        },
+        {
+          "type": "related",
+          "target": "marquise-d-espard",
+          "label": "Marquise d'Espard"
+        },
+        {
+          "type": "related",
+          "target": "lady-dudley",
+          "label": "Lady Dudley"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Émile Blondet"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "innocence"
+        },
+        {
+          "type": "related",
+          "target": "devotion",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "betrayal",
+          "label": "betrayal"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "vanity",
+          "label": "vanity"
+        }
+      ]
+    },
+    {
+      "id": "the-restoration",
+      "type": "event",
+      "label": "The Bourbon Restoration",
+      "description": "The Bourbon Restoration (1814–1830) — the political regime under which A Daughter of Eve takes place, shaping the novel's social hierarchies, financial dynamics, and the contested position of talent and ambition in a society organized around birth and legitimacy.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:the-restoration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "money",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "july-revolution-1830",
+          "label": "july-revolution-1830"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        }
+      ]
+    },
+    {
+      "id": "the-salons-of-paris",
+      "type": "organization",
+      "label": "The Salons of Paris",
+      "description": "The network of aristocratic and bourgeois drawing-rooms that constituted the social infrastructure of Balzac's Paris — arenas of conversation, reputation management, and covert power.",
+      "aliases": [
+        "Parisian salons",
+        "le monde",
+        "high society circles"
+      ],
+      "tags": [
+        "organization",
+        "salon",
+        "society",
+        "paris",
+        "aristocracy"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:the-salons-of-paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        }
+      ]
+    },
+    {
+      "id": "the-two-marriages",
+      "type": "event",
+      "label": "The Two Marriages",
+      "description": "The paired marriages of Marie-Angélique and Marie-Eugénie de Granville — the foundational event of the novel that sets both sisters on divergent paths through Parisian society.",
+      "aliases": [
+        "the sisters' marriages",
+        "marriages of the Granville sisters"
+      ],
+      "tags": [
+        "event",
+        "marriage",
+        "plot",
+        "sisters"
+      ],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:the-two-marriages",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-dudleys-masked-ball",
+          "label": "lady-dudleys-masked-ball"
+        },
+        {
+          "type": "related",
+          "target": "montcornets-concert",
+          "label": "montcornets-concert"
+        }
+      ]
+    },
+    {
+      "id": "the-two-sisters",
+      "type": "event",
+      "label": "the-two-sisters",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "event",
+        "family",
+        "sisters",
+        "relationship"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:the-two-sisters",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie-Angélique"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "Marie-Eugénie"
+        },
+        {
+          "type": "related",
+          "target": "comtesse-de-granville",
+          "label": "Comtesse de Granville"
+        },
+        {
+          "type": "related",
+          "target": "schmucke",
+          "label": "Schmucke"
+        },
+        {
+          "type": "related",
+          "target": "comte-felix-de-vandenesse",
+          "label": "Félix de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "Ferdinand du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "the-two-marriages",
+          "label": "the-two-marriages"
+        }
+      ]
+    },
+    {
+      "id": "theatre-francais",
+      "type": "organization",
+      "label": "Théâtre Français",
+      "description": "The state-subsidized national theatre of France, home to the classical repertory — the institution where Raoul Nathan's serious dramatic ambitions met their most humiliating defeat and which symbolizes the tension between literary art and commercial entertainment in Balzac's Paris.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:theatre-francais",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "raoul-nathan"
+        },
+        {
+          "type": "related",
+          "target": "florine",
+          "label": "florine"
+        }
+      ]
+    },
+    {
+      "id": "vanity",
+      "type": "concept",
+      "label": "Vanity",
+      "description": "In *A Daughter of Eve*, vanity is the invisible engine of social behavior — it governs ambition, wounds pride, and creates the vulnerabilities through which characters are manipulated, elevated, and destroyed.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:vanity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social life"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        }
+      ]
+    },
+    {
+      "id": "vergiss-mein-nicht",
+      "type": "work",
+      "label": "vergiss-mein-nicht",
+      "description": "A German song (\"Forget-me-not\") referenced in the novel — part of the musical and emotional texture of the sisters' childhood.",
+      "aliases": [
+        "Forget-me-not",
+        "Vergissmeinnicht"
+      ],
+      "tags": [
+        "work",
+        "music",
+        "german",
+        "song"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:vergiss-mein-nicht",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schmucke",
+          "label": "Wilhelm Schmucke"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "marie-angelique-de-vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "marie-eugenie-du-tillet",
+          "label": "marie-eugenie-du-tillet"
+        },
+        {
+          "type": "related",
+          "target": "byron",
+          "label": "byron"
+        }
+      ]
+    },
+    {
+      "id": "very-restaurant",
+      "type": "place",
+      "label": "very-restaurant",
+      "description": "The celebrated Paris restaurant where Nathan, Rastignac, and Blondet share their cynical supper — a moral theater of the novel.",
+      "aliases": [
+        "Véry",
+        "Véry's",
+        "Verys"
+      ],
+      "tags": [
+        "place",
+        "paris",
+        "restaurant",
+        "palais-royal"
+      ],
+      "quality": "basic",
+      "source_ref": "a-daughter-of-eve:very-restaurant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Raoul Nathan"
+        },
+        {
+          "type": "related",
+          "target": "eugene-de-rastignac",
+          "label": "Rastignac"
+        },
+        {
+          "type": "related",
+          "target": "emile-blondet",
+          "label": "Émile Blondet"
+        },
+        {
+          "type": "related",
+          "target": "marie-angelique-de-vandenesse",
+          "label": "Marie de Vandenesse"
+        },
+        {
+          "type": "related",
+          "target": "dinner-at-verys",
+          "label": "dinner-at-verys"
+        }
+      ]
+    },
+    {
+      "id": "vice",
+      "type": "concept",
+      "label": "Vice",
+      "description": "In *A Daughter of Eve*, vice is not a matter of individual sin but a structural feature of Parisian society — Balzac depicts a world where every profession, every salon, and every ambition has its characteristic form of moral corruption.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "a-daughter-of-eve:vice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "du-tillet",
+          "label": "du Tillet"
+        },
+        {
+          "type": "related",
+          "target": "raoul-nathan",
+          "label": "Nathan"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    }
+  ]
+}

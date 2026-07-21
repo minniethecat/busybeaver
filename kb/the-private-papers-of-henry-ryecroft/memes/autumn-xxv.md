@@ -1,0 +1,19 @@
+---
+description: XXV — Part III: Autumn
+id: autumn-xxv
+label: Part III: Autumn — XXV
+tags: []
+type: chapter
+---
+
+# XXV
+
+?xml version="1.0" encoding="utf-8"?
+
+### XXV
+
+Yesterday I passed by an elm avenue, leading to a beautiful old house. The road between the trees was covered in all its length and breadth with fallen leaves﻿—a carpet of pale gold. Further on, I came to a plantation, mostly of larches; it shone in the richest aureate hue, with here and there a splash of bloodred, which was a young beech in its moment of autumnal glory.
+
+I looked at an alder, laden with brown catkins, its blunt foliage stained with innumerable shades of lovely colour. Near it was a horse-chestnut, with but a few leaves hanging on its branches, and those a deep orange. The limes, I see, are already bare.
+
+Tonight the wind is loud, and rain dashes against my casement; tomorrow I shall awake to a sky of winter.

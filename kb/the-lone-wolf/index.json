@@ -1,0 +1,6073 @@
+{
+  "book": "the-lone-wolf",
+  "title": "The Lone Wolf",
+  "description": "The Lone Wolf — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 106,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"The Lone Wolf\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "Table of Contents",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-lone-wolf:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch-01",
+          "label": "1"
+        },
+        {
+          "type": "related",
+          "target": "ch-02",
+          "label": "2"
+        },
+        {
+          "type": "related",
+          "target": "ch-03",
+          "label": "3"
+        },
+        {
+          "type": "related",
+          "target": "ch-04",
+          "label": "4"
+        },
+        {
+          "type": "related",
+          "target": "ch-05",
+          "label": "5"
+        },
+        {
+          "type": "related",
+          "target": "ch-06",
+          "label": "6"
+        },
+        {
+          "type": "related",
+          "target": "ch-07",
+          "label": "7"
+        },
+        {
+          "type": "related",
+          "target": "ch-08",
+          "label": "8"
+        },
+        {
+          "type": "related",
+          "target": "ch-09",
+          "label": "9"
+        },
+        {
+          "type": "related",
+          "target": "ch-10",
+          "label": "10"
+        },
+        {
+          "type": "related",
+          "target": "ch-11",
+          "label": "11"
+        },
+        {
+          "type": "related",
+          "target": "ch-12",
+          "label": "12"
+        },
+        {
+          "type": "related",
+          "target": "ch-13",
+          "label": "13"
+        },
+        {
+          "type": "related",
+          "target": "ch-14",
+          "label": "14"
+        },
+        {
+          "type": "related",
+          "target": "ch-15",
+          "label": "15"
+        },
+        {
+          "type": "related",
+          "target": "ch-16",
+          "label": "16"
+        },
+        {
+          "type": "related",
+          "target": "ch-17",
+          "label": "17"
+        },
+        {
+          "type": "related",
+          "target": "ch-18",
+          "label": "18"
+        },
+        {
+          "type": "related",
+          "target": "ch-19",
+          "label": "19"
+        },
+        {
+          "type": "related",
+          "target": "ch-20",
+          "label": "20"
+        },
+        {
+          "type": "related",
+          "target": "ch-21",
+          "label": "21"
+        },
+        {
+          "type": "related",
+          "target": "ch-22",
+          "label": "22"
+        },
+        {
+          "type": "related",
+          "target": "ch-23",
+          "label": "23"
+        },
+        {
+          "type": "related",
+          "target": "ch-24",
+          "label": "24"
+        },
+        {
+          "type": "related",
+          "target": "ch-25",
+          "label": "25"
+        },
+        {
+          "type": "related",
+          "target": "ch-26",
+          "label": "26"
+        },
+        {
+          "type": "related",
+          "target": "ch-27",
+          "label": "27"
+        },
+        {
+          "type": "related",
+          "target": "colophon",
+          "label": "28"
+        },
+        {
+          "type": "related",
+          "target": "uncopyright",
+          "label": "29"
+        }
+      ]
+    },
+    {
+      "id": "antwerp",
+      "type": "place",
+      "label": "Antwerp",
+      "description": "The Belgian port city that serves as the communications hub of the international underworld, where coded telegrams coordinate criminal operations across Europe.",
+      "aliases": [
+        "Antwerp",
+        "Belgium"
+      ],
+      "tags": [
+        "city",
+        "port",
+        "underworld",
+        "communications-hub",
+        "Belgium"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:antwerp",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "aviation",
+      "type": "concept",
+      "label": "Aviation",
+      "description": "The technology of powered flight — aeroplanes, pilots, and aerial combat — that enables Michael Lanyard's escape from France and symbolizes the dawn of a new era in The Lone Wolf.",
+      "aliases": [
+        "aeroplane",
+        "flight"
+      ],
+      "tags": [
+        "technology",
+        "flight",
+        "port-aviation",
+        "modernity"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:aviation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "port-aviation"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "captain-vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "michael-lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "lucy-shannon"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "de-morbihan"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "ducroy"
+        }
+      ]
+    },
+    {
+      "id": "bannon",
+      "type": "person",
+      "label": "Bannon",
+      "description": "An American businessman travelling in Paris who serves as a guardian figure to Lucy Shannon — a reminder of the legitimate world that exists beyond Lanyard's criminal milieu.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:bannon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "belgian-underworld",
+      "type": "organization",
+      "label": "Belgian Underworld",
+      "description": "The Antwerp-based node of the international criminal network, serving as the communications hub through which the Pack coordinates its operations across Europe via coded telegrams.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:belgian-underworld",
+      "relations": [
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "Antwerp"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "british-secret-service"
+        }
+      ]
+    },
+    {
+      "id": "bois-de-boulogne",
+      "type": "place",
+      "label": "Bois de Boulogne",
+      "description": "The large public park on the western edge of Paris, site of the climactic car chase where De Morbihan's men pursue Michael Lanyard and De Morbihan's own car crashes.",
+      "aliases": [
+        "the Bois",
+        "avenue du Bois"
+      ],
+      "tags": [
+        "Paris",
+        "park",
+        "chase",
+        "escape"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:bois-de-boulogne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "porte-dauphine",
+          "label": "Porte Dauphine"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        }
+      ]
+    },
+    {
+      "id": "bourke",
+      "type": "person",
+      "label": "Bourke",
+      "description": "A quick, compact, dangerous little Irishman who was Michael Lanyard's earliest associate in Paris and a fixture at the restaurant Troyon's.",
+      "aliases": [
+        "Bourke",
+        "Mr. Bourke"
+      ],
+      "tags": [
+        "Irish",
+        "associate",
+        "gentleman",
+        "Paris",
+        "Troyons"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:bourke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber jewel theft"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        }
+      ]
+    },
+    {
+      "id": "bourkes-death",
+      "type": "event",
+      "label": "Bourke's Death",
+      "description": "The death of Bourke — Michael Lanyard's earliest associate and closest friend — the event that serves as the emotional and narrative catalyst for Lanyard's return to Paris and his eventual reformation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:bourkes-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-return",
+          "label": "lanyards-return"
+        }
+      ]
+    },
+    {
+      "id": "british-secret-service",
+      "type": "organization",
+      "label": "British Secret Service",
+      "description": "The British government intelligence service that becomes peripherally involved in the Lone Wolf affair through the Huysman plans — secret military documents stolen alongside Madame Omber's jewels.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:british-secret-service",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "scotland-yard"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "the-omber-affair"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "captain-vauquelin",
+      "type": "person",
+      "label": "Captain Vauquelin",
+      "description": "A French military aviator who pilots the aeroplane that carries Michael Lanyard across the English Channel — a figure of courage and professional skill who becomes an unwitting ally in Lanyard's escape.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:captain-vauquelin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "channel-crossing",
+          "label": "cross-Channel flight"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    },
+    {
+      "id": "ch-01",
+      "type": "chapter",
+      "label": "'I: Troyon’s'",
+      "description": "It must have been Bourke who first said that even if you knew your way",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "la-tour-pointue",
+          "label": "Préfecture de Police"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        }
+      ]
+    },
+    {
+      "id": "ch-02",
+      "type": "chapter",
+      "label": "'II: Return'",
+      "description": "His return to Troyon’s, whereas an enterprise which Lanyard had been",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber affair"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "la-tour-pointue",
+          "label": "Préfecture de Police"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        }
+      ]
+    },
+    {
+      "id": "ch-03",
+      "type": "chapter",
+      "label": "'III: A Point of Interrogation'",
+      "description": "The man from Scotland Yard had just surrendered hat, coat, and umbrella",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "Sûreté"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber affair"
+        }
+      ]
+    },
+    {
+      "id": "ch-04",
+      "type": "chapter",
+      "label": "'IV: A Stratagem'",
+      "description": "When the maitre-d’hôtel had shown him all over the establishment (innocently",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "the Count"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        }
+      ]
+    },
+    {
+      "id": "ch-05",
+      "type": "chapter",
+      "label": "'V: Anticlimax'",
+      "description": "The surprise was complete; none, indeed, was ever more so; but it’s a",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        }
+      ]
+    },
+    {
+      "id": "ch-06",
+      "type": "chapter",
+      "label": "'VI: The Pack Gives Tongue'",
+      "description": "Lanyard’s first destination was that convenient little *rez-de-chaussée*",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "the Count"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        }
+      ]
+    },
+    {
+      "id": "ch-07",
+      "type": "chapter",
+      "label": "'VII: L’Abbaye'",
+      "description": "His secret uncovered, that essential incognito of his punctured, his",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        }
+      ]
+    },
+    {
+      "id": "ch-08",
+      "type": "chapter",
+      "label": "'VIII: The High Hand'",
+      "description": "Evidently his first move toward departure was signalled; for as he passed",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "the Count"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        }
+      ]
+    },
+    {
+      "id": "ch-09",
+      "type": "chapter",
+      "label": "'IX: Disaster'",
+      "description": "Having fulfilled his purpose of making himself acquainted with the personnel",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "the Count"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "Sûreté"
+        },
+        {
+          "type": "related",
+          "target": "la-tour-pointue",
+          "label": "La Tour Pointue"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "type": "chapter",
+      "label": "'X: Turn About'",
+      "description": "The thought of Lanyard’s pocket flash-lamp offering itself, immediately",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        }
+      ]
+    },
+    {
+      "id": "ch-11",
+      "type": "chapter",
+      "label": "'XI: Flight'",
+      "description": "Now when Lanyard had locked the door, he told himself that the gruesome",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame Troyon"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "Impasse Stanislas"
+        }
+      ]
+    },
+    {
+      "id": "ch-12",
+      "type": "chapter",
+      "label": "'XII: Awakening'",
+      "description": "It was late afternoon when Lanyard wakened from sleep so deep and dreamless",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "impasse Stanislas"
+        }
+      ]
+    },
+    {
+      "id": "ch-13",
+      "type": "chapter",
+      "label": "'XIII: Confessional'",
+      "description": "And then, when the girl made no response, but remained with troubled",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        }
+      ]
+    },
+    {
+      "id": "ch-14",
+      "type": "chapter",
+      "label": "'XIV: Rive Droit'",
+      "description": "Falling without presage upon the slumberous hush enveloping the little",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "impasse Stanislas"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Miss Shannon"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        }
+      ]
+    },
+    {
+      "id": "ch-15",
+      "type": "chapter",
+      "label": "'XV: Sheer Impudence'",
+      "description": "Though it had been nearly eight when they entered the restaurant, it",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "professional ethics"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        }
+      ]
+    },
+    {
+      "id": "ch-16",
+      "type": "chapter",
+      "label": "'XVI: Restitution'",
+      "description": "For all that success had rewarded his effrontery, Lanyard’s mind was",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Hélène Omber"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        }
+      ]
+    },
+    {
+      "id": "ch-17",
+      "type": "chapter",
+      "label": "'XVII: The Forlorn Hope'",
+      "description": "Established behind his splendid mahogany desk in his office at the Ministère",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Hector Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        }
+      ]
+    },
+    {
+      "id": "ch-18",
+      "type": "chapter",
+      "label": "'XVIII: Enigma'",
+      "description": "He found no reason to believe she had left him other than voluntarily,",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "impasse Stanislas"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        }
+      ]
+    },
+    {
+      "id": "ch-19",
+      "type": "chapter",
+      "label": "'XIX: Unmasked'",
+      "description": "When there was no more light in the sky, a profound sigh escaped Lanyard’s",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "Antwerp"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "International Underworld"
+        }
+      ]
+    },
+    {
+      "id": "ch-20",
+      "type": "chapter",
+      "label": "'XX: War'",
+      "description": "But why?—he asked himself as he swung his cab aimlessly away—why that",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        }
+      ]
+    },
+    {
+      "id": "ch-21",
+      "type": "chapter",
+      "label": "'XXI: Apostate'",
+      "description": "He was singularly free from any sort of exultation over the manner in",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        }
+      ]
+    },
+    {
+      "id": "ch-22",
+      "type": "chapter",
+      "label": "'XXII: Trapped'",
+      "description": "It was a sound so slight, so very small and still, that only a super-subtle",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        }
+      ]
+    },
+    {
+      "id": "ch-23",
+      "type": "chapter",
+      "label": "'XXIII: Madame Omber'",
+      "description": "Before the echo of that crash ceased to reverberate from room to room,",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        }
+      ]
+    },
+    {
+      "id": "ch-24",
+      "type": "chapter",
+      "label": "'XXIV: Rendezvous'",
+      "description": "With as little ceremony as though the bullet had lodged in himself, Lanyard",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "Sûreté"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "ch-25",
+      "type": "chapter",
+      "label": "'XXV: Wings of the Morning'",
+      "description": "About half-past six Lanyard left the dressing-room assigned him in the",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        }
+      ]
+    },
+    {
+      "id": "ch-26",
+      "type": "chapter",
+      "label": "'XXVI: The Flying Death'",
+      "description": "Steadying himself with a splendid display of self-control and sheer courage,",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        }
+      ]
+    },
+    {
+      "id": "ch-27",
+      "type": "chapter",
+      "label": "'XXVII: Daybreak'",
+      "description": "The Englishman smiled cheerfully in response to Lanyard’s cry of astonishment.",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:ch-27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Miss Shannon"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "Sûreté"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "International Underworld"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "the Service"
+        }
+      ]
+    },
+    {
+      "id": "channel-crossing",
+      "type": "event",
+      "label": "Channel Crossing",
+      "description": "The daring cross-Channel aeroplane flight by which Michael Lanyard escapes from France to England, piloting through fog and danger in one of the novel's most dramatic sequences.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:channel-crossing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    },
+    {
+      "id": "characters",
+      "type": "list",
+      "label": "Characters",
+      "description": "Index of all characters appearing in Louis Joseph Vance's The Lone Wolf (1914), sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "character-index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:characters",
+      "relations": []
+    },
+    {
+      "id": "colophon",
+      "type": "chapter",
+      "label": "Colophon",
+      "description": "Colophon and publishing information.",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        }
+      ]
+    },
+    {
+      "id": "concepts",
+      "type": "list",
+      "label": "Concepts",
+      "description": "Index of thematic concepts explored in The Lone Wolf (1914) — from honour among thieves to espionage and aviation.",
+      "aliases": [],
+      "tags": [
+        "concept-index",
+        "theme"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:concepts",
+      "relations": []
+    },
+    {
+      "id": "criminal-code",
+      "type": "concept",
+      "label": "Criminal Code",
+      "description": "The unwritten code of professional ethics governing the behaviour of criminals — particularly gentleman thieves — as depicted in Louis Joseph Vance's 1914 novel The Lone Wolf, where honour among thieves is both a practical necessity and a moral framework.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:criminal-code",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman thief"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel-theft"
+        }
+      ]
+    },
+    {
+      "id": "daybreak-resolution",
+      "type": "event",
+      "label": "Daybreak Resolution",
+      "description": "The final resolution of the novel in Chapter XXVII (\"Daybreak\"), in which Wertheimer reveals his true identity as a Scotland Yard special agent — transforming the entire preceding narrative from a criminal pursuit into a secret operation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:daybreak-resolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "International Underworld"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        },
+        {
+          "type": "related",
+          "target": "channel-crossing",
+          "label": "channel-crossing"
+        },
+        {
+          "type": "related",
+          "target": "huysman-plans-delivery",
+          "label": "huysman-plans-delivery"
+        }
+      ]
+    },
+    {
+      "id": "de-morbihan",
+      "type": "person",
+      "label": "De Morbihan",
+      "description": "A French count and man-about-town with deep connections to the Parisian underworld, who attempts to recruit the Lone Wolf into a criminal syndicate.",
+      "aliases": [
+        "De Morbihan",
+        "the Count",
+        "Count De Morbihan"
+      ],
+      "tags": [
+        "antagonist",
+        "aristocrat",
+        "French",
+        "underworld",
+        "count"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:de-morbihan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "Parisian society"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "International Underworld"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "lucy-shannon"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "high-society",
+          "label": "high-society"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        }
+      ]
+    },
+    {
+      "id": "de-morbihan-plot",
+      "type": "event",
+      "label": "De Morbihan's Plot",
+      "description": "The elaborate plot orchestrated by Count De Morbihan to draw Michael Lanyard into the Pack's criminal enterprise — a scheme that begins with a seemingly innocent dinner invitation and ends with an ultimatum.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:de-morbihan-plot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "the-omber-affair"
+        }
+      ]
+    },
+    {
+      "id": "disguise",
+      "type": "concept",
+      "label": "Disguise",
+      "description": "The art of physical concealment and misdirection practised by the Lone Wolf to evade detection by police and criminal rivals.",
+      "aliases": [
+        "disguise",
+        "disguises",
+        "disguise technique"
+      ],
+      "tags": [
+        "tradecraft",
+        "concealment",
+        "identity",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:disguise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        },
+        {
+          "type": "related",
+          "target": "high-society",
+          "label": "high-society"
+        }
+      ]
+    },
+    {
+      "id": "double-life",
+      "type": "concept",
+      "label": "Double Life",
+      "description": "The central psychological condition of Michael Lanyard — the simultaneous existence as gentleman and thief, public man and secret criminal, which drives the novel's exploration of identity and authenticity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:double-life",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "Parisian society"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "professional thief"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "Disguise"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-confession",
+          "label": "lanyards-confession"
+        }
+      ]
+    },
+    {
+      "id": "ducroy",
+      "type": "person",
+      "label": "Ducroy",
+      "description": "Monsieur Hector Ducroy, the French Minister of War, to whom Lanyard delivers stolen military plans in a midnight visit.",
+      "aliases": [
+        "Monsieur Ducroy",
+        "Hector Ducroy",
+        "Monsieur Hector Ducroy"
+      ],
+      "tags": [
+        "government",
+        "military",
+        "minister",
+        "france"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:ducroy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "huysman-plans-delivery",
+          "label": "huysman-plans-delivery"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    },
+    {
+      "id": "ekstrom",
+      "type": "person",
+      "label": "Ekstrom",
+      "description": "An agent of the international criminal underworld who applies pressure on the Lone Wolf through threats and manipulation.",
+      "aliases": [
+        "Ekstrom",
+        "Mr. Ekstrom"
+      ],
+      "tags": [
+        "antagonist",
+        "underworld",
+        "criminal",
+        "agent"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:ekstrom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "International Underworld"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel-theft"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        }
+      ]
+    },
+    {
+      "id": "espionage",
+      "type": "concept",
+      "label": "Espionage",
+      "description": "Espionage and intelligence operations in *The Lone Wolf* — the theft of the Huysman war plans, German spy rings in Paris, and the shadow war between nations that provides the novel's geopolitical backdrop.",
+      "aliases": [
+        "Espionage",
+        "Spycraft",
+        "Intelligence"
+      ],
+      "tags": [
+        "spying",
+        "secrets",
+        "Germany",
+        "war-intrigue"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:espionage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber affair"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "huysman-plans-delivery",
+          "label": "huysman-plans-delivery"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "type": "list",
+      "label": "Events",
+      "description": "Chronological index of major plot events in The Lone Wolf (1914), from the opening burglary to the final resolution.",
+      "aliases": [],
+      "tags": [
+        "event-index",
+        "timeline"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:events",
+      "relations": []
+    },
+    {
+      "id": "faubourg-saint-germain-heist",
+      "type": "event",
+      "label": "Faubourg Saint-Germain Heist",
+      "description": "The meticulous midnight burglary of Madame Omber's Passy mansion by Michael Lanyard — a return to his cracking skills — in which he recovers the Omber jewels with Lucy Shannon as his lookout, as depicted in Chapters XV–XVI (\"Sheer Impudence\" and \"Restitution\").",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:faubourg-saint-germain-heist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Hélène Omber"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "professional ethics"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "the-omber-affair"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber-betrayal",
+          "label": "madame-omber-betrayal"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        }
+      ]
+    },
+    {
+      "id": "flight-from-paris",
+      "type": "event",
+      "label": "Flight from Paris",
+      "description": "The desperate flight of Michael Lanyard from Paris after the Pack's attempt on his life and the police pursuit, spanning a night of narrow escapes through the city's streets and culminating in his departure for London.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:flight-from-paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "gare-du-nord"
+        }
+      ]
+    },
+    {
+      "id": "france-german-espionage",
+      "type": "concept",
+      "label": "Franco-German Espionage",
+      "description": "The international intelligence conflict between France and Germany that forms the political backdrop of The Lone Wolf — German agents sought the Huysman war plans while Scotland Yard and the Sûreté worked to recover them.",
+      "aliases": [
+        "Franco-German intelligence war",
+        "German espionage"
+      ],
+      "tags": [
+        "espionage",
+        "military",
+        "France",
+        "Germany",
+        "international"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:france-german-espionage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tours",
+          "label": "Tours"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-huysman-plans",
+          "label": "the-huysman-plans"
+        }
+      ]
+    },
+    {
+      "id": "french-police",
+      "type": "organization",
+      "label": "French Police",
+      "description": "The French law enforcement apparatus that pursues the Lone Wolf alongside Scotland Yard, operating through both uniformed police and the detective bureau known as the Sûreté.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:french-police",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "professional thief"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguises"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "british-secret-service"
+        }
+      ]
+    },
+    {
+      "id": "gare-du-nord",
+      "type": "place",
+      "label": "Gare du Nord",
+      "description": "The major Paris railway station that serves as a critical transit point in the Lone Wolf's flight from his pursuers and a key location in the novel's climax.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:gare-du-nord",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-return",
+          "label": "return to Paris"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue-des-acacias"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "gentleman-thief",
+      "type": "concept",
+      "label": "Gentleman Thief",
+      "description": "The code of conduct, professional ethics, and social camouflage practised by the gentleman thief — a criminal archetype embodied by Michael Lanyard in Louis Joseph Vance's 1914 novel The Lone Wolf.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:gentleman-thief",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "professional ethics"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "Parisian society"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel-theft"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "greggs",
+      "type": "person",
+      "label": "Greggs",
+      "description": "Mr. Greggs, Bannon's private secretary and right-hand man — a minor Pack operative whose arrest and suicide mark a turning point in the underworld's campaign against the Lone Wolf.",
+      "aliases": [
+        "Greggs",
+        "Mr. Greggs"
+      ],
+      "tags": [
+        "antagonist",
+        "underworld",
+        "secretary",
+        "minor-character"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:greggs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "troyons-reunion",
+          "label": "troyons-reunion"
+        }
+      ]
+    },
+    {
+      "id": "high-society",
+      "type": "concept",
+      "label": "High Society",
+      "description": "The world of Parisian high society that Michael Lanyard infiltrates and exploits — a realm of salons, gambling tables, and titled personages that forms the backdrop of his criminal career.",
+      "aliases": [
+        "High Society",
+        "Parisian Society",
+        "Aristocracy"
+      ],
+      "tags": [
+        "society",
+        "aristocracy",
+        "Paris",
+        "class"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:high-society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "de-morbihan"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "madame-omber"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "honour",
+      "type": "concept",
+      "label": "Honour",
+      "description": "The gentleman's code of ethics that governs Michael Lanyard's conduct — a thief who steals property but not lives, and who holds loyalty above profit.",
+      "aliases": [
+        "the gentleman's code",
+        "honour among thieves"
+      ],
+      "tags": [
+        "ethics",
+        "honour",
+        "code",
+        "gentleman",
+        "morality"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:honour",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "michael-lanyard"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman-thief"
+        },
+        {
+          "type": "related",
+          "target": "honour-among-thieves",
+          "label": "honour-among-thieves"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "criminal-code"
+        }
+      ]
+    },
+    {
+      "id": "honour-among-thieves",
+      "type": "concept",
+      "label": "Honour Among Thieves",
+      "description": "The unwritten principle that even criminals operate by codes of professional respect and mutual recognition — a concept tested and ultimately betrayed by the Pack in The Lone Wolf.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:honour-among-thieves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "code of honour"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman-thief"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "huysman-plans-delivery",
+      "type": "event",
+      "label": "Huysman Plans Delivery",
+      "description": "The midnight delivery of the stolen Huysman war plans to the French Minister of War, Monsieur Ducroy — an act of patriotic restitution by the Lone Wolf that blurs the line between criminal and patriot.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:huysman-plans-delivery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "faubourg-saint-germain-heist",
+          "label": "faubourg-saint-germain-heist"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        },
+        {
+          "type": "related",
+          "target": "daybreak-resolution",
+          "label": "daybreak-resolution"
+        }
+      ]
+    },
+    {
+      "id": "impasse-stanislas",
+      "type": "place",
+      "label": "Impasse Stanislas",
+      "description": "A dead-end street in Paris where Lanyard and Lucy Shannon take temporary refuge during their flight — a brief sanctuary that proves, like all sanctuaries in the novel, to be temporary.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:impasse-stanislas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "escape from Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        }
+      ]
+    },
+    {
+      "id": "impasse-stanislas-escape",
+      "type": "event",
+      "label": "Impasse Stanislas Escape",
+      "description": "The escape of Michael Lanyard and Lucy Shannon from the Pack's surveillance at the Impasse Stanislas hideout, a tense nighttime flight through rain-swept Paris streets.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:impasse-stanislas-escape",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "Impasse Stanislas"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        },
+        {
+          "type": "related",
+          "target": "rive-droite-confrontation",
+          "label": "rive-droite-confrontation"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-confession",
+          "label": "lanyards-confession"
+        }
+      ]
+    },
+    {
+      "id": "jewel-theft",
+      "type": "concept",
+      "label": "Jewel Theft",
+      "description": "The Lone Wolf's criminal specialty — the stealthy acquisition of portable valuables from the homes of the wealthy elite in Paris and London.",
+      "aliases": [
+        "jewel theft",
+        "jewel robbery",
+        "jewel burglary"
+      ],
+      "tags": [
+        "crime",
+        "method",
+        "jewel",
+        "burglary",
+        "tradecraft"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:jewel-theft",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "high-society",
+          "label": "high-society"
+        }
+      ]
+    },
+    {
+      "id": "la-sante",
+      "type": "place",
+      "label": "La Santé Prison",
+      "description": "The notorious Paris prison — La Santé — where members of the criminal underworld are sent after capture, referenced throughout The Lone Wolf as the fate awaiting those who fail.",
+      "aliases": [
+        "La Santé",
+        "the Santé"
+      ],
+      "tags": [
+        "Paris",
+        "prison",
+        "underworld",
+        "justice"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:la-sante",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        }
+      ]
+    },
+    {
+      "id": "la-tour-pointue",
+      "type": "place",
+      "label": "La Tour Pointue",
+      "description": "La Tour Pointue — Parisian slang for the Préfecture de Police headquarters on the Quai de Marché Neuf, the city's central police building and notorious jail.",
+      "aliases": [
+        "La Tour Pointue",
+        "Préfecture de Police",
+        "Quai de Marché Neuf"
+      ],
+      "tags": [
+        "police",
+        "prison",
+        "Paris",
+        "government-building"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:la-tour-pointue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "French law enforcement"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-return",
+          "label": "return to Paris"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "Impasse Stanislas"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame Troyon"
+        }
+      ]
+    },
+    {
+      "id": "labbaye-council",
+      "type": "event",
+      "label": "L'Abbaye Council",
+      "description": "\"The Pack council at L'Abbaye where Michael Lanyard is formally introduced to the syndicate and given a choice — join or be destroyed.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:labbaye-council",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "lanyards-confession",
+      "type": "event",
+      "label": "Lanyard's Confession",
+      "description": "The pivotal scene in which Michael Lanyard confesses his identity as the Lone Wolf to Lucy Shannon — a moment of emotional vulnerability that marks the beginning of his moral transformation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:lanyards-confession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "criminal-code"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman-thief"
+        }
+      ]
+    },
+    {
+      "id": "lanyards-return",
+      "type": "event",
+      "label": "Lanyard's Return",
+      "description": "Michael Lanyard's return to Paris after years abroad, a decision that sets in motion the entire chain of events in the novel — his reunion with old associates, his rediscovery by the Pack, and the unravelling of his carefully protected identity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:lanyards-return",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "bourkes-death",
+          "label": "death of Bourke"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "locations",
+      "type": "list",
+      "label": "Locations",
+      "description": "Index of all places featured in The Lone Wolf (1914), from Parisian streets to European capitals.",
+      "aliases": [],
+      "tags": [
+        "location-index",
+        "place"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:locations",
+      "relations": []
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "The city to which Michael Lanyard retreats when Paris becomes too dangerous, and the home of Scotland Yard — the force that pursues him.",
+      "aliases": [
+        "London",
+        "England"
+      ],
+      "tags": [
+        "city",
+        "setting",
+        "England",
+        "refuge",
+        "Scotland-Yard"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        }
+      ]
+    },
+    {
+      "id": "lucy-disappearance",
+      "type": "event",
+      "label": "Lucy's Disappearance",
+      "description": "The unexplained disappearance of Lucy Shannon — Lanyard's love interest — who vanishes from the garden of the Impasse Stanislas hideout, leaving Lanyard to search Paris for three desperate days.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:lucy-disappearance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas",
+          "label": "Impasse Stanislas"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "rive-droite-confrontation",
+          "label": "Rive Droite"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "bannon",
+          "label": "Bannon"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "impasse-stanislas-escape",
+          "label": "impasse-stanislas-escape"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-confession",
+          "label": "lanyards-confession"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        }
+      ]
+    },
+    {
+      "id": "lucy-shannon",
+      "type": "person",
+      "label": "Lucy Shannon",
+      "description": "An American woman in Paris whose relationship with Michael Lanyard offers him a path to redemption from his life as the Lone Wolf.",
+      "aliases": [
+        "Lucy Shannon",
+        "Lucy",
+        "Miss Shannon"
+      ],
+      "tags": [
+        "female-lead",
+        "American",
+        "love-interest",
+        "ally"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:lucy-shannon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "Parisian society"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        }
+      ]
+    },
+    {
+      "id": "madame-omber",
+      "type": "person",
+      "label": "Madame Omber",
+      "description": "A wealthy Parisian aristocrat whose famous jewels become the target of both the Lone Wolf and the criminal syndicate known as the Pack, triggering the central conflict of the novel.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:madame-omber",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "the-omber-affair"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "wertheimer"
+        }
+      ]
+    },
+    {
+      "id": "madame-omber-betrayal",
+      "type": "event",
+      "label": "Madame Omber's Betrayal",
+      "description": "The climactic betrayal in which Madame Omber sets a deadly trap for Michael Lanyard at her Passy mansion, resulting in a shooting that brings the French police down upon both the Lone Wolf and his enemies.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:madame-omber-betrayal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Hélène Omber"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber jewel theft"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel theft"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        },
+        {
+          "type": "related",
+          "target": "rive-droite-confrontation",
+          "label": "rive-droite-confrontation"
+        }
+      ]
+    },
+    {
+      "id": "madame-troyon",
+      "type": "person",
+      "label": "Madame Troyon",
+      "description": "The proprietress of Troyon's restaurant and hotel — a maternal figure who raised the orphaned Michael Lanyard from childhood and represents the one constant in his turbulent life.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:madame-troyon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's restaurant"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "troyons-reunion",
+          "label": "troyons-reunion"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "bourke"
+        }
+      ]
+    },
+    {
+      "id": "michael-lanyard",
+      "type": "person",
+      "label": "Michael Lanyard",
+      "description": "An American-born gentleman thief raised in Paris, known to the world as the Lone Wolf — the protagonist of Louis Joseph Vance's 1914 novel.",
+      "aliases": [
+        "Lanyard",
+        "Michael Lanyard",
+        "the Lone Wolf",
+        "Monsieur Lanyard"
+      ],
+      "tags": [
+        "protagonist",
+        "thief",
+        "gentleman",
+        "adventurer",
+        "American"
+      ],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:michael-lanyard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman thief"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's restaurant"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "code of honour"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "Lucy Shannon"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "type": "place",
+      "label": "New York",
+      "description": "New York City — the American metropolis where Michael Lanyard relocated with Bourke after leaving Paris, and which later figures in his thoughts as a possible refuge.",
+      "aliases": [
+        "New York",
+        "New York City"
+      ],
+      "tags": [
+        "city",
+        "america",
+        "refuge"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:new-york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        }
+      ]
+    },
+    {
+      "id": "organizations",
+      "type": "list",
+      "label": "Organizations",
+      "description": "Index of organizations, institutions, and criminal networks in The Lone Wolf (1914).",
+      "aliases": [],
+      "tags": [
+        "organization-index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:organizations",
+      "relations": []
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "The primary setting of The Lone Wolf — the city where Michael Lanyard was raised, operated as a jewel thief, and navigated between high society and the underworld.",
+      "aliases": [
+        "Paris",
+        "France"
+      ],
+      "tags": [
+        "city",
+        "setting",
+        "France",
+        "Europe",
+        "capital"
+      ],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "rive-droite-confrontation",
+          "label": "Rive Droite"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "troyons"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "bourke"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "high-society",
+          "label": "high-society"
+        }
+      ]
+    },
+    {
+      "id": "popinot",
+      "type": "person",
+      "label": "Popinot",
+      "description": "A brutish enforcer of the Pack who commands the Apaches — the street-level criminal gangs of Paris — and serves as the muscle behind the syndicate's threats against the Lone Wolf.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:popinot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "the Apaches"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        }
+      ]
+    },
+    {
+      "id": "port-aviation",
+      "type": "place",
+      "label": "Port Aviation",
+      "description": "The military aerodrome near Paris from which Lanyard and Captain Vauquelin launch their daring cross-Channel flight — the site of the novel's climactic aerial escape sequence.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:port-aviation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "channel-crossing",
+          "label": "channel-crossing"
+        }
+      ]
+    },
+    {
+      "id": "porte-dauphine",
+      "type": "place",
+      "label": "Porte Dauphine",
+      "description": "One of the western city gates of Paris, leading to the Bois de Boulogne, through which Michael Lanyard is driven during the climactic car chase.",
+      "aliases": [
+        "Porte Dauphine"
+      ],
+      "tags": [
+        "Paris",
+        "gate",
+        "chase",
+        "Bois-de-Boulogne"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:porte-dauphine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "bois-de-boulogne",
+          "label": "Bois de Boulogne"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        }
+      ]
+    },
+    {
+      "id": "rive-droite-confrontation",
+      "type": "event",
+      "label": "Rive Droite Confrontation",
+      "description": "The violent nighttime confrontation in a dead backwater of Paris where the Pack's agents close in on the Lone Wolf, forcing him to flee his sanctuary.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:rive-droite-confrontation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        }
+      ]
+    },
+    {
+      "id": "roddy",
+      "type": "person",
+      "label": "Roddy",
+      "description": "A seemingly harmless fixture at Troyon's restaurant who secretly serves as an informant for Scotland Yard — a minor character whose betrayal has major consequences for the Lone Wolf.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:roddy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's restaurant"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "roddys-betrayal"
+        }
+      ]
+    },
+    {
+      "id": "roddys-betrayal",
+      "type": "event",
+      "label": "Roddy's Betrayal",
+      "description": "The discovery that Roddy — a seemingly harmless habitué of Troyon's — has been reporting Lanyard's activities to Scotland Yard, revealing the extent to which the Lone Wolf's identity has been compromised.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:roddys-betrayal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-return",
+          "label": "lanyards-return"
+        }
+      ]
+    },
+    {
+      "id": "rue-des-acacias",
+      "type": "place",
+      "label": "Rue des Acacias",
+      "description": "A quiet street in Paris where Michael Lanyard maintains a secret apartment, serving as his sanctuary and operational base when not at Troyon's.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:rue-des-acacias",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "gare-du-nord"
+        }
+      ]
+    },
+    {
+      "id": "rue-roget-assault",
+      "type": "event",
+      "label": "Rue Roget Assault",
+      "description": "The brutal ambush of Michael Lanyard at his rue Roget apartment in Paris — a Pack assassination attempt by drugging that he barely survives, turning the tables on his attacker in the darkness of the rez-de-chaussée.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:rue-roget-assault",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "trocadero-apartment",
+          "label": "Trocadéro"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan-plot",
+          "label": "de-morbihan-plot"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer-confrontation",
+          "label": "wertheimer-confrontation"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    },
+    {
+      "id": "scotland-yard",
+      "type": "concept",
+      "label": "Scotland Yard",
+      "description": "The Metropolitan Police detective force of London, whose emissaries pursue the Lone Wolf across Europe.",
+      "aliases": [
+        "Scotland Yard",
+        "the Yard"
+      ],
+      "tags": [
+        "law-enforcement",
+        "police",
+        "detective",
+        "London"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:scotland-yard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "la-tour-pointue",
+          "label": "Préfecture de Police"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber jewel theft"
+        },
+        {
+          "type": "related",
+          "target": "gare-du-nord",
+          "label": "Gare du Nord"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "de-morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "social-class",
+      "type": "concept",
+      "label": "Social Class",
+      "description": "The rigid social hierarchy of pre-World War I Parisian society that shapes the world of The Lone Wolf — determining who may move where, who may speak to whom, and who is above suspicion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:social-class",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman thief"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "high-society",
+          "label": "Aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        }
+      ]
+    },
+    {
+      "id": "the-apaches",
+      "type": "organization",
+      "label": "The Apaches",
+      "description": "The criminal street gangs of Paris — known as Les Apaches — who serve as the Pack's foot soldiers and enforcers, representing the violent, unskilled underbelly of organized crime in contrast to the gentleman thief.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:the-apaches",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman thief"
+        },
+        {
+          "type": "related",
+          "target": "criminal-code",
+          "label": "professional ethics"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "the-huysman-plans",
+      "type": "concept",
+      "label": "The Huysman Plans",
+      "description": "The stolen military defense plans that serve as the central MacGuffin of The Lone Wolf — originally the property of a murdered man in Tours, they pass through the underworld until Michael Lanyard returns them to France.",
+      "aliases": [
+        "Huysman plans",
+        "war plans",
+        "the plans"
+      ],
+      "tags": [
+        "espionage",
+        "military",
+        "MacGuffin",
+        "war"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:the-huysman-plans",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "tours",
+          "label": "Tours"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        }
+      ]
+    },
+    {
+      "id": "the-lone-wolf",
+      "type": "concept",
+      "label": "The Lone Wolf",
+      "description": "The criminal sobriquet of Michael Lanyard, a celebrated gentleman thief operating in Paris and London, coined by a French reporter.",
+      "aliases": [
+        "Lone Wolf",
+        "the lone wolf"
+      ],
+      "tags": [
+        "identity",
+        "crime",
+        "sobriquet",
+        "alias"
+      ],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:the-lone-wolf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gentleman-thief",
+          "label": "gentleman thief"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel theft"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "bourke"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        }
+      ]
+    },
+    {
+      "id": "the-omber-affair",
+      "type": "event",
+      "label": "The Omber Affair",
+      "description": "The theft of Madame Omber's famous jewels — the crime that sets Scotland Yard in motion and begins the unravelling of the Lone Wolf's carefully protected identity.",
+      "aliases": [
+        "Omber affair",
+        "Omber jewel theft",
+        "Omber robbery"
+      ],
+      "tags": [
+        "crime",
+        "jewel-theft",
+        "inciting-incident",
+        "plot-catalyst"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:the-omber-affair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "lucy-shannon",
+          "label": "lucy-shannon"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel-theft"
+        }
+      ]
+    },
+    {
+      "id": "the-pack",
+      "type": "organization",
+      "label": "The Pack",
+      "description": "An international criminal syndicate operating across Europe that attempts to recruit and later destroy the Lone Wolf, representing the organized, institutional face of crime in contrast to Lanyard's solitary professionalism.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:the-pack",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "Antwerp"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "Ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "Madame Omber"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        }
+      ]
+    },
+    {
+      "id": "the-surete",
+      "type": "organization",
+      "label": "The Sûreté",
+      "description": "The French criminal police — Sûreté Générale — involved in the manhunt for Michael Lanyard and working in uneasy cooperation with Wertheimer in The Lone Wolf.",
+      "aliases": [
+        "Sûreté Générale",
+        "French police",
+        "the Surete"
+      ],
+      "tags": [
+        "police",
+        "France",
+        "law-enforcement",
+        "Paris"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:the-surete",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "captain-vauquelin",
+          "label": "Captain Vauquelin"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "la-sante",
+          "label": "La Santé prison"
+        },
+        {
+          "type": "related",
+          "target": "greggs",
+          "label": "Greggs"
+        },
+        {
+          "type": "related",
+          "target": "french-police",
+          "label": "french-police"
+        }
+      ]
+    },
+    {
+      "id": "the-underworld",
+      "type": "concept",
+      "label": "The Underworld",
+      "description": "The international criminal network that attempts to recruit and later destroy the Lone Wolf, operating across Europe under a shadowy leadership.",
+      "aliases": [
+        "underworld",
+        "International Underworld",
+        "the Pack"
+      ],
+      "tags": [
+        "crime",
+        "criminal-network",
+        "organization",
+        "conspiracy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:the-underworld",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "the Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "Antwerp"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "de-morbihan"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        },
+        {
+          "type": "related",
+          "target": "jewel-theft",
+          "label": "jewel-theft"
+        }
+      ]
+    },
+    {
+      "id": "tours",
+      "type": "place",
+      "label": "Tours",
+      "description": "The French city where a man named Huysman was mysteriously murdered — the original crime whose stolen war plans set the entire plot of The Lone Wolf in motion.",
+      "aliases": [],
+      "tags": [
+        "France",
+        "crime",
+        "origin",
+        "Huysman"
+      ],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:tours",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "ducroy",
+          "label": "Monsieur Ducroy"
+        },
+        {
+          "type": "related",
+          "target": "port-aviation",
+          "label": "Port Aviation"
+        },
+        {
+          "type": "related",
+          "target": "the-huysman-plans",
+          "label": "the-huysman-plans"
+        },
+        {
+          "type": "related",
+          "target": "france-german-espionage",
+          "label": "france-german-espionage"
+        }
+      ]
+    },
+    {
+      "id": "trocadero-apartment",
+      "type": "place",
+      "label": "Trocadéro Apartment",
+      "description": "Michael Lanyard's convenient ground-floor apartment near the Trocadéro in Paris — his secondary residence and first destination upon returning to the city, serving as a secret base of operations.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:trocadero-apartment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "rue-des-acacias",
+          "label": "rue des Acacias"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    },
+    {
+      "id": "troyons",
+      "type": "place",
+      "label": "Troyon's",
+      "description": "A discreet restaurant and hotel on the Left Bank of Paris that served as Michael Lanyard's home, base of operations, and sanctuary for over two decades.",
+      "aliases": [
+        "Troyon's",
+        "Troyons",
+        "Troyon's restaurant"
+      ],
+      "tags": [
+        "restaurant",
+        "hotel",
+        "Paris",
+        "Left-Bank",
+        "hideout"
+      ],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:troyons",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-omber-affair",
+          "label": "Omber affair"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "the-lone-wolf"
+        }
+      ]
+    },
+    {
+      "id": "troyons-reunion",
+      "type": "event",
+      "label": "Troyon's Reunion",
+      "description": "Michael Lanyard's emotional reunion with the staff and familiar surroundings of Troyon's restaurant after years abroad — a homecoming that momentarily restores the life he left behind before the Pack's intrusion shatters the illusion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-lone-wolf:troyons-reunion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "troyons",
+          "label": "Troyon's"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "madame-troyon",
+          "label": "Madame Troyon"
+        },
+        {
+          "type": "related",
+          "target": "bourke",
+          "label": "Bourke"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "The Pack"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "lanyards-return",
+          "label": "lanyards-return"
+        }
+      ]
+    },
+    {
+      "id": "uncopyright",
+      "type": "chapter",
+      "label": "Uncopyright",
+      "description": "Public domain dedication.",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-lone-wolf:uncopyright",
+      "relations": []
+    },
+    {
+      "id": "wertheimer",
+      "type": "person",
+      "label": "Wertheimer",
+      "description": "A smooth-talking blackmailer and key operative of the criminal syndicate known as the Pack, who attempts to coerce the Lone Wolf into stealing Madame Omber's jewels.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-lone-wolf:wertheimer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "the Pack"
+        },
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "the-lone-wolf",
+          "label": "The Lone Wolf"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "labbaye-council",
+          "label": "L'Abbaye"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "the-underworld"
+        },
+        {
+          "type": "related",
+          "target": "madame-omber",
+          "label": "madame-omber"
+        },
+        {
+          "type": "related",
+          "target": "ekstrom",
+          "label": "ekstrom"
+        }
+      ]
+    },
+    {
+      "id": "wertheimer-confrontation",
+      "type": "event",
+      "label": "Wertheimer Confrontation",
+      "description": "The tense confrontation between Michael Lanyard and Wertheimer — a Scotland Yard informant and blackmailer — who attempts to force the Lone Wolf into the service of the International Underworld Unlimited.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-lone-wolf:wertheimer-confrontation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "michael-lanyard",
+          "label": "Michael Lanyard"
+        },
+        {
+          "type": "related",
+          "target": "wertheimer",
+          "label": "Wertheimer"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-pack",
+          "label": "International Underworld"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan",
+          "label": "De Morbihan"
+        },
+        {
+          "type": "related",
+          "target": "popinot",
+          "label": "Popinot"
+        },
+        {
+          "type": "related",
+          "target": "the-apaches",
+          "label": "Apaches"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-underworld",
+          "label": "underworld"
+        },
+        {
+          "type": "related",
+          "target": "de-morbihan-plot",
+          "label": "de-morbihan-plot"
+        },
+        {
+          "type": "related",
+          "target": "roddys-betrayal",
+          "label": "roddys-betrayal"
+        },
+        {
+          "type": "related",
+          "target": "roddy",
+          "label": "Roddy"
+        },
+        {
+          "type": "related",
+          "target": "flight-from-paris",
+          "label": "flight-from-paris"
+        }
+      ]
+    }
+  ]
+}

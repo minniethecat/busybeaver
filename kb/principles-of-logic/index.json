@@ -1,0 +1,6682 @@
+{
+  "book": "principles-of-logic",
+  "title": "Principles of Logic",
+  "description": "Principles of Logic — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 149,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"逻辑原理（上下册）\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "Table of Contents",
+      "description": "Complete table of contents for The Principles of Logic by F.H. Bradley",
+      "aliases": [
+        "Contents",
+        "目录"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "front-matter",
+          "label": "front-matter"
+        },
+        {
+          "type": "related",
+          "target": "ch01-general-nature-of-judgment",
+          "label": "ch01-general-nature-of-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "ch02-categorical-and-hypothetical-forms",
+          "label": "ch02-categorical-and-hypothetical-forms"
+        },
+        {
+          "type": "related",
+          "target": "ch03-the-negative-judgment",
+          "label": "ch03-the-negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "Negative Judgment"
+        },
+        {
+          "type": "related",
+          "target": "ch04-the-disjunctive-judgment",
+          "label": "ch04-the-disjunctive-judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "Disjunctive Judgment"
+        },
+        {
+          "type": "related",
+          "target": "ch05-principles-of-identity",
+          "label": "ch05-principles-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "double-negation",
+          "label": "Double Negation"
+        },
+        {
+          "type": "related",
+          "target": "ch06-the-quantity-of-judgments",
+          "label": "ch06-the-quantity-of-judgments"
+        },
+        {
+          "type": "related",
+          "target": "quantity-of-judgments",
+          "label": "Quantity of Judgments"
+        },
+        {
+          "type": "related",
+          "target": "ch07-the-modality-of-judgments",
+          "label": "ch07-the-modality-of-judgments"
+        },
+        {
+          "type": "related",
+          "target": "ch08-some-characteristics-of-reasoning",
+          "label": "ch08-some-characteristics-of-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "ch09-some-erroneous-views",
+          "label": "ch09-some-erroneous-views"
+        },
+        {
+          "type": "related",
+          "target": "ch10-a-general-idea-of-inference",
+          "label": "ch10-a-general-idea-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "ch11-principles-of-reasoning",
+          "label": "ch11-principles-of-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "ch12-negative-reasoning",
+          "label": "ch12-negative-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "negative-reasoning",
+          "label": "Negative Reasoning"
+        },
+        {
+          "type": "related",
+          "target": "ch13-the-theory-of-association-of-ideas",
+          "label": "ch13-the-theory-of-association-of-ideas"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "Association of Ideas"
+        },
+        {
+          "type": "related",
+          "target": "ch14-argument-from-particulars-to-particulars",
+          "label": "ch14-argument-from-particulars-to-particulars"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-inductive-methods-of-proof",
+          "label": "ch15-the-inductive-methods-of-proof"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "Inductive Methods"
+        },
+        {
+          "type": "related",
+          "target": "ch16-jevons-equational-logic",
+          "label": "ch16-jevons-equational-logic"
+        },
+        {
+          "type": "related",
+          "target": "equational-logic",
+          "label": "Equational Logic"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-enquiry-reopened",
+          "label": "ch17-the-enquiry-reopened"
+        },
+        {
+          "type": "related",
+          "target": "ch18-fresh-specimens-of-inference",
+          "label": "ch18-fresh-specimens-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "ch19-general-characteristics-of-inference",
+          "label": "ch19-general-characteristics-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "ch20-the-main-types-of-inference",
+          "label": "ch20-the-main-types-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "ch21-another-feature-of-inference",
+          "label": "ch21-another-feature-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "ch22-the-final-essence-of-reasoning",
+          "label": "ch22-the-final-essence-of-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "ch23-the-beginnings-of-inference",
+          "label": "ch23-the-beginnings-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "ch24-formal-and-material-reasoning",
+          "label": "ch24-formal-and-material-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "material-reasoning",
+          "label": "Material Reasoning"
+        },
+        {
+          "type": "related",
+          "target": "ch25-the-cause-and-the-because",
+          "label": "ch25-the-cause-and-the-because"
+        },
+        {
+          "type": "related",
+          "target": "ch26-the-validity-of-inference",
+          "label": "ch26-the-validity-of-inference"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "Validity"
+        }
+      ]
+    },
+    {
+      "id": "absolute",
+      "type": "concept",
+      "label": "Absolute",
+      "description": "In Bradley's logical system, the absolute is ultimate reality — the complete, self-consistent whole in which all appearances find their truth; it is the metaphysical terminus toward which all judgment and inference point.",
+      "aliases": [
+        "the absolute",
+        "absolute reality"
+      ],
+      "tags": [
+        "metaphysics",
+        "ontology",
+        "idealism"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:absolute",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "abstract",
+      "type": "concept",
+      "label": "Abstract",
+      "description": "In Bradley's logic, abstraction is the process of separating an element from its concrete whole; abstract universals and abstract particulars are both unreal when taken as independent existences.",
+      "aliases": [
+        "abstraction",
+        "abstract universal",
+        "abstract particular"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:abstract",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "particular",
+          "label": "particular"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "abstract-universal",
+      "type": "concept",
+      "label": "'Abstract Universal'",
+      "description": "'A judgment whose subject is a bare universal abstraction — unreal in itself because it takes one aspect of the concrete individual and treats it as an independent existence.'",
+      "aliases": [
+        "abstract universal judgment"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:abstract-universal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "major premise"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "universal-judgment",
+          "label": "universal proposition"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "extension-and-intension",
+          "label": "extension-and-intension"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "abstraction",
+      "type": "concept",
+      "label": "'Abstraction'",
+      "description": "'The logical process by which a universal meaning or general idea is extracted from the concrete particular — a central operation in Bradley''s theory of inference and ideal content.'",
+      "aliases": [
+        "abstract ideas",
+        "logical abstraction"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "universal",
+        "ideal-content",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:abstraction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "ideal-construction",
+          "label": "ideal-construction"
+        }
+      ]
+    },
+    {
+      "id": "alexander-bain",
+      "type": "person",
+      "label": "Alexander Bain",
+      "description": ">",
+      "aliases": [
+        "Bain",
+        "Professor Bain"
+      ],
+      "tags": [
+        "logic",
+        "psychology",
+        "british-empiricism",
+        "associationism",
+        "19th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "principles-of-logic:alexander-bain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bain",
+          "label": "Bain"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "John Stuart Mill"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "associationism"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "belief",
+          "label": "Belief"
+        },
+        {
+          "type": "related",
+          "target": "system",
+          "label": "System"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "jevons",
+          "label": "jevons"
+        },
+        {
+          "type": "related",
+          "target": "sigwart",
+          "label": "sigwart"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "hegel",
+          "label": "hegel"
+        }
+      ]
+    },
+    {
+      "id": "analogy",
+      "type": "concept",
+      "label": "Analogy",
+      "description": "A form of reasoning from particular to particular based on resemblance — Bradley analyzes analogy as reasoning from a shared universal element, not from bare particulars.",
+      "aliases": [
+        "argument from analogy",
+        "analogical reasoning"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "reasoning",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:analogy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "John Stuart Mill"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic reasoning"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        }
+      ]
+    },
+    {
+      "id": "analytic-judgment",
+      "type": "concept",
+      "label": "'Analytic Judgment'",
+      "description": "'A judgment that merely analyzes the given without extending beyond it — in Bradley''s system, a provisional and unstable category that inevitably becomes synthetic.'",
+      "aliases": [
+        "analysis (judgment)"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "epistemology",
+        "analysis"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:analytic-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Bain"
+        },
+        {
+          "type": "related",
+          "target": "synthetic-judgment",
+          "label": "synthetic-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "appearance",
+      "type": "concept",
+      "label": "Appearance",
+      "description": "In Bradley's philosophy, appearance is that which presents itself to experience but is not ultimately real; the distinction between appearance and reality is a central theme of his idealism.",
+      "aliases": [],
+      "tags": [
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:appearance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "phenomenon",
+          "label": "phenomenon"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "quality",
+          "label": "quality"
+        }
+      ]
+    },
+    {
+      "id": "assertoric-judgment",
+      "type": "concept",
+      "label": "Assertoric Judgment",
+      "description": "A modal judgment that asserts a subject-predicate connection as actually holding, without claiming necessity — the form of straightforward factual assertion in Bradley's analysis of logical modality.",
+      "aliases": [
+        "assertorical judgment",
+        "judgment of actuality"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "modality",
+        "kantian-categories"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:assertoric-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "modality",
+          "label": "modality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "possible-judgment",
+          "label": "possible-judgment"
+        },
+        {
+          "type": "related",
+          "target": "necessary-judgment",
+          "label": "necessary-judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "association-of-ideas",
+      "type": "concept",
+      "label": "'Association of Ideas'",
+      "description": "'The psychological doctrine that mental contents are linked by associative laws — a theory Bradley subjects to sustained criticism, arguing that reproduction by ideal identity replaces external association.'",
+      "aliases": [
+        "mental association",
+        "laws of association",
+        "associationism",
+        "association psychology"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "psychology",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:association-of-ideas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "Experience"
+        },
+        {
+          "type": "related",
+          "target": "redintegration",
+          "label": "Redintegration"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "james-mill",
+          "label": "James Mill"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "John Stuart Mill"
+        },
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Alexander Bain"
+        },
+        {
+          "type": "related",
+          "target": "ideal-content",
+          "label": "ideal-content"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        }
+      ]
+    },
+    {
+      "id": "bain",
+      "type": "person",
+      "label": "'Bain'",
+      "description": "'Redirect to alexander-bain — Alexander Bain, Scottish philosopher and psychologist discussed in Bradley''s Principles of Logic.'",
+      "aliases": [
+        "Alexander Bain"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "associationism"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:bain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Alexander Bain"
+        }
+      ]
+    },
+    {
+      "id": "belief",
+      "type": "concept",
+      "label": "Belief",
+      "description": "Bradley's analysis of belief as an intellectual attitude distinct from mere association yet inseparable from the affective and practical dimensions of mental life — central to his account of judgment and the grounds of inference.",
+      "aliases": [
+        "Intellectual Belief",
+        "Practical Belief",
+        "Conviction"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "belief",
+        "judgment",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:belief",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        },
+        {
+          "type": "related",
+          "target": "feeling",
+          "label": "feeling"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        }
+      ]
+    },
+    {
+      "id": "categorical-judgment",
+      "type": "concept",
+      "label": "Categorical Judgment",
+      "description": "The form of judgment that makes a direct assertion about reality, which Bradley subjects to sustained analysis to determine whether any judgment can be purely categorical in form.",
+      "aliases": [
+        "Categorical Proposition"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "categorical",
+        "predication"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:categorical-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        }
+      ]
+    },
+    {
+      "id": "cause",
+      "type": "concept",
+      "label": "Cause",
+      "description": "In Bradley's logical system, causality is a relational category by which the mind connects events in temporal succession; it belongs to the realm of appearance and, like all finite relations, points beyond itself to the non-causal absolute whole.",
+      "aliases": [
+        "causality",
+        "causation",
+        "causal-relation"
+      ],
+      "tags": [
+        "metaphysics",
+        "logic",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:cause",
+      "relations": [
+        {
+          "type": "related",
+          "target": "relation",
+          "label": "relation"
+        },
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "cause-and-effect",
+      "type": "concept",
+      "label": "Cause and Effect",
+      "description": "The relation of causal connection that Bradley analyzes as a form of synthesis and a judgment-based construction rather than a merely empirical association.",
+      "aliases": [
+        "causation",
+        "causality"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "causation"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:cause-and-effect",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        },
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        }
+      ]
+    },
+    {
+      "id": "ch01-general-nature-of-judgment",
+      "type": "chapter",
+      "label": "\"Chapter I: The General Nature of Judgment\"",
+      "description": "\"What judgment is, its relation to ideas and reality\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch01-general-nature-of-judgment",
+      "relations": []
+    },
+    {
+      "id": "ch02-categorical-and-hypothetical-forms",
+      "type": "chapter",
+      "label": "\"Chapter II: The Categorical and Hypothetical Forms of Judgment\"",
+      "description": "\"Categorical and hypothetical judgment forms and their logical analysis\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch02-categorical-and-hypothetical-forms",
+      "relations": []
+    },
+    {
+      "id": "ch03-the-negative-judgment",
+      "type": "chapter",
+      "label": "\"Chapter III: The Negative Judgment\"",
+      "description": "\"The nature and logical function of negative judgment\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch03-the-negative-judgment",
+      "relations": []
+    },
+    {
+      "id": "ch04-the-disjunctive-judgment",
+      "type": "chapter",
+      "label": "\"Chapter IV: The Disjunctive Judgment\"",
+      "description": "\"The disjunctive judgment form and its logical analysis\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch04-the-disjunctive-judgment",
+      "relations": []
+    },
+    {
+      "id": "ch05-principles-of-identity",
+      "type": "chapter",
+      "label": "\"Chapter V: Principles of Identity, Contradiction, Excluded Middle, and Double Negation\"",
+      "description": "\"Fundamental logical principles\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch05-principles-of-identity",
+      "relations": []
+    },
+    {
+      "id": "ch06-the-quantity-of-judgments",
+      "type": "chapter",
+      "label": "\"Chapter VI: The Quantity of Judgments\"",
+      "description": "\"Intension, extension, universal and particular judgments\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch06-the-quantity-of-judgments",
+      "relations": []
+    },
+    {
+      "id": "ch07-the-modality-of-judgments",
+      "type": "chapter",
+      "label": "\"Chapter VII: The Modality of Judgments\"",
+      "description": "\"Modality in judgments: necessity, possibility, actuality\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch07-the-modality-of-judgments",
+      "relations": []
+    },
+    {
+      "id": "ch08-some-characteristics-of-reasoning",
+      "type": "chapter",
+      "label": "\"Chapter VIII: Some Characteristics of Reasoning\"",
+      "description": "\"Book II introduction: the general nature of inference and reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch08-some-characteristics-of-reasoning",
+      "relations": []
+    },
+    {
+      "id": "ch09-some-erroneous-views",
+      "type": "chapter",
+      "label": "\"Chapter IX: Some Erroneous Views\"",
+      "description": "\"Critique of mistaken ideas about syllogism and inference\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch09-some-erroneous-views",
+      "relations": []
+    },
+    {
+      "id": "ch10-a-general-idea-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter X: A General Idea of Inference\"",
+      "description": "\"The dual nature of inference as process and product\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch10-a-general-idea-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch11-principles-of-reasoning",
+      "type": "chapter",
+      "label": "\"Chapter XI: Principles of Reasoning\"",
+      "description": "\"Fundamental principles that operate in reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch11-principles-of-reasoning",
+      "relations": []
+    },
+    {
+      "id": "ch12-negative-reasoning",
+      "type": "chapter",
+      "label": "\"Chapter XII: Negative Reasoning\"",
+      "description": "\"The nature and principles of negative reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch12-negative-reasoning",
+      "relations": []
+    },
+    {
+      "id": "ch13-the-theory-of-association-of-ideas",
+      "type": "chapter",
+      "label": "\"Chapter XIII: The Theory of Association of Ideas\"",
+      "description": "\"Association of ideas and its relation to inference\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch13-the-theory-of-association-of-ideas",
+      "relations": []
+    },
+    {
+      "id": "ch14-argument-from-particulars-to-particulars",
+      "type": "chapter",
+      "label": "\"Chapter XIV: The Argument from Particulars to Particulars\"",
+      "description": "\"Inference from particular experience to particular conclusions\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch14-argument-from-particulars-to-particulars",
+      "relations": []
+    },
+    {
+      "id": "ch15-the-inductive-methods-of-proof",
+      "type": "chapter",
+      "label": "\"Chapter XV: The Inductive Methods of Proof\"",
+      "description": "\"Mill's Canons of Induction and inductive proof methods\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch15-the-inductive-methods-of-proof",
+      "relations": []
+    },
+    {
+      "id": "ch16-jevons-equational-logic",
+      "type": "chapter",
+      "label": "\"Chapter XVI: Jevons' Equational Logic\"",
+      "description": "\"Examination of Jevons' equational logic system\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch16-jevons-equational-logic",
+      "relations": []
+    },
+    {
+      "id": "ch17-the-enquiry-reopened",
+      "type": "chapter",
+      "label": "\"Chapter XVII: The Enquiry Reopened\"",
+      "description": "\"Book III introduction: reopening the enquiry into inference\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch17-the-enquiry-reopened",
+      "relations": []
+    },
+    {
+      "id": "ch18-fresh-specimens-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XVIII: Fresh Specimens of Inference\"",
+      "description": "\"New examples and analysis of inferential reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch18-fresh-specimens-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch19-general-characteristics-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XIX: General Characteristics of Inference\"",
+      "description": "\"Further analysis of inference characteristics\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch19-general-characteristics-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch20-the-main-types-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XX: The Main Types of Inference\"",
+      "description": "\"Classification and analysis of main inference types\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch20-the-main-types-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch21-another-feature-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XXI: Another Feature of Inference\"",
+      "description": "\"Additional features of inferential processes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch21-another-feature-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch22-the-final-essence-of-reasoning",
+      "type": "chapter",
+      "label": "\"Chapter XXII: The Final Essence of Reasoning\"",
+      "description": "\"The ultimate nature and essence of reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch22-the-final-essence-of-reasoning",
+      "relations": []
+    },
+    {
+      "id": "ch23-the-beginnings-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XXIII: The Beginnings of Inference\"",
+      "description": "\"The origins and beginnings of inferential thought\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch23-the-beginnings-of-inference",
+      "relations": []
+    },
+    {
+      "id": "ch24-formal-and-material-reasoning",
+      "type": "chapter",
+      "label": "\"Chapter XXIV: Formal and Material Reasoning\"",
+      "description": "\"Distinction between formal and material aspects of reasoning\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch24-formal-and-material-reasoning",
+      "relations": []
+    },
+    {
+      "id": "ch25-the-cause-and-the-because",
+      "type": "chapter",
+      "label": "\"Chapter XXV: The Cause and the Because\"",
+      "description": "\"Causation and the logical relation of because\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch25-the-cause-and-the-because",
+      "relations": []
+    },
+    {
+      "id": "ch26-the-validity-of-inference",
+      "type": "chapter",
+      "label": "\"Chapter XXVI: The Validity of Inference\"",
+      "description": "\"The ultimate validity and justification of inference\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:ch26-the-validity-of-inference",
+      "relations": []
+    },
+    {
+      "id": "christian-wolff",
+      "type": "person",
+      "label": "Christian Wolff",
+      "description": "German philosopher and mathematician (1679–1754); Bradley references Wolff's logical principles across multiple chapters of The Principles of Logic.",
+      "aliases": [
+        "Wolff"
+      ],
+      "tags": [
+        "logic",
+        "philosophy",
+        "mathematics",
+        "german-enlightenment",
+        "rationalism"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:christian-wolff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "christoph-von-sigwart",
+      "type": "person",
+      "label": "Christoph von Sigwart",
+      "description": ">",
+      "aliases": [
+        "Sigwart",
+        "Christoph Sigwart"
+      ],
+      "tags": [
+        "logic",
+        "german-idealism",
+        "judgment",
+        "negation",
+        "19th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "principles-of-logic:christoph-von-sigwart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "logical negation"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "lotze",
+          "label": "Hermann Lotze"
+        },
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Bain"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "hegel",
+          "label": "hegel"
+        },
+        {
+          "type": "related",
+          "target": "jevons",
+          "label": "jevons"
+        }
+      ]
+    },
+    {
+      "id": "concrete-universal",
+      "type": "concept",
+      "label": "'Concrete Universal'",
+      "description": "\"In Bradley's logic, the individual considered as the identity of its internal differences — the real that is both particular (against others) and universal (one throughout its diversity).\"",
+      "aliases": [
+        "concrete particular",
+        "relative universal",
+        "individual as universal"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "universals"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:concrete-universal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "particular-judgment",
+          "label": "particular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "universal-judgment",
+          "label": "universal-judgment"
+        },
+        {
+          "type": "related",
+          "target": "ideal-content",
+          "label": "ideal-content"
+        }
+      ]
+    },
+    {
+      "id": "consciousness",
+      "type": "concept",
+      "label": "Consciousness",
+      "description": "In Bradley's logic, consciousness is the medium in which judgment occurs; the evolution of self-consciousness involves the opposition of idea and reality that defines logical activity.",
+      "aliases": [
+        "self-consciousness",
+        "conscious awareness"
+      ],
+      "tags": [
+        "psychology",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:consciousness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "self",
+          "label": "self"
+        }
+      ]
+    },
+    {
+      "id": "contradiction",
+      "type": "concept",
+      "label": "Contradiction",
+      "description": "The logical relation of mutual exclusion between assertions, central to Bradley's analysis of negation and the law of contradiction.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "definition",
+        "dialectic"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:contradiction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "double-negation",
+          "label": "double-negation"
+        }
+      ]
+    },
+    {
+      "id": "conversion",
+      "type": "concept",
+      "label": "Conversion",
+      "description": "The logical operation of interchanging the subject and predicate of a proposition, treated by Bradley as a limiting case of inference that reveals the inadequacy of purely formal transformation rules.",
+      "aliases": [
+        "Conversion of Propositions",
+        "Logical Conversion"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "immediate-inference",
+        "conversion",
+        "traditional-logic"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:conversion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negative judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "copula",
+      "type": "concept",
+      "label": "'Copula (Logical)'",
+      "description": "'The traditional logical connective joining subject and predicate in judgment — Bradley argues the copula is a \"sheer superstition\" that misrepresents the unitary act of judgment as a compound of independent parts.'",
+      "aliases": [
+        "logical copula",
+        "the copula in judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "grammar",
+        "subject-predicate",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:copula",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        }
+      ]
+    },
+    {
+      "id": "david-hume",
+      "type": "person",
+      "label": "'David Hume'",
+      "description": "'Scottish philosopher whose empiricism and theory of belief provide the foundational framework that Bradley''s Principles of Logic systematically opposes, particularly on identity, association, and the nature of judgment.'",
+      "aliases": [
+        "David Hume (1711–1776)"
+      ],
+      "tags": [
+        "philosophy",
+        "empiricism",
+        "skepticism",
+        "scottish-enlightenment",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:david-hume",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "Experience"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "principle of identity"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "associationism"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "redintegration",
+          "label": "redintegration"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "john-stuart-mill"
+        }
+      ]
+    },
+    {
+      "id": "degree",
+      "type": "concept",
+      "label": "Degree",
+      "description": "In Bradley's logical system, degree denotes the gradation of truth — the view that truth is not a simple binary but admits of degrees, from the highest sense down to the lowest, with modal judgments occupying intermediate positions.",
+      "aliases": [
+        "degrees of truth",
+        "gradation"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:degree",
+      "relations": [
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "modality",
+          "label": "modality"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        }
+      ]
+    },
+    {
+      "id": "demonstration",
+      "type": "concept",
+      "label": "'Demonstration'",
+      "description": "'The logical process of showing or pointing out that a conclusion follows necessarily from its premises — the union of inductive data with deductive ideal construction.'",
+      "aliases": [
+        "logical demonstration",
+        "demonstrative inference"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "proof",
+        "method",
+        "syllogism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:demonstration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "elision",
+          "label": "elision of the middle"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "principle of identity"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "J.S. Mill"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        },
+        {
+          "type": "related",
+          "target": "abstraction",
+          "label": "abstraction"
+        }
+      ]
+    },
+    {
+      "id": "denial",
+      "type": "concept",
+      "label": "'Denial (Logical)'",
+      "description": "'The logical act of rejecting or excluding an ideal content from reality — in Bradley''s system, denial is not coordinate with assertion but derivative from it and grounded in the positive character of the real.'",
+      "aliases": [
+        "logical denial",
+        "negation-as-denial"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "negation",
+        "assertion",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:denial",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        }
+      ]
+    },
+    {
+      "id": "desire",
+      "type": "concept",
+      "label": "Desire",
+      "description": "In Bradley's logical system, desire is the psychical drive toward satisfaction that shapes the movement of thought and judgment; it is the volitional element present in all mental activity but ultimately transcended by the logical ideal.",
+      "aliases": [
+        "volition",
+        "appetite"
+      ],
+      "tags": [
+        "psychology",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:desire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will",
+          "label": "will"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        }
+      ]
+    },
+    {
+      "id": "difference",
+      "type": "concept",
+      "label": "Difference",
+      "description": "The logical relation of non-identity between terms, essential to judgment as the ground of distinction between truth and falsehood in Bradley's system.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "judgment"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:difference",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "identity",
+          "label": "identity"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "dilemma",
+      "type": "concept",
+      "label": "Dilemma",
+      "description": "A logical argument form presenting two alternatives that each lead to an undesirable or contradictory consequence, analyzed by Bradley as revealing fundamental features of reasoning under constraints.",
+      "aliases": [
+        "Destructive Dilemma",
+        "Logical Dilemma"
+      ],
+      "tags": [
+        "logic",
+        "argument-form",
+        "inference",
+        "reasoning"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:dilemma",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "disjunction",
+      "type": "concept",
+      "label": "'Disjunction'",
+      "description": "'A form of judgment that unites hypothetical supposals on a categorical basis — asserting a common quality while entertaining exclusive alternative determinations of it.'",
+      "aliases": [
+        "disjunctive judgment",
+        "either-or",
+        "exclusive alternatives"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "judgment"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:disjunction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        }
+      ]
+    },
+    {
+      "id": "disjunctive-judgment",
+      "type": "concept",
+      "label": "'Disjunctive Judgment'",
+      "description": "'A judgment of the form \"A is b or c\" — in Bradley''s analysis, a combination of categorical assertion and hypothetical alternative, grounded in an exhaustive disjunction of the real.'",
+      "aliases": [
+        "disjunction"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "disjunction"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:disjunctive-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        }
+      ]
+    },
+    {
+      "id": "double-negation",
+      "type": "concept",
+      "label": "'Double Negation'",
+      "description": "'The logical principle that the denial of a denial is equivalent to affirmation — in Bradley''s analysis, grounded not in mere formal cancellation but in the positive ground required by the second denial.'",
+      "aliases": [
+        "duplex negatio affirmat",
+        "negation of negation",
+        "double denial"
+      ],
+      "tags": [
+        "logic",
+        "negation",
+        "judgment",
+        "formal-principle"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:double-negation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "absence"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "elision",
+          "label": "elimination"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        }
+      ]
+    },
+    {
+      "id": "elision",
+      "type": "concept",
+      "label": "'Elision'",
+      "description": "'The logical operation of dropping or eliminating a middle term or part of the content in inference — a necessary but potentially distorting step in syllogistic reasoning.'",
+      "aliases": [
+        "elimination",
+        "logical elision",
+        "elision of the middle"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "syllogism",
+        "method",
+        "abstraction"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:elision",
+      "relations": [
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "abstraction",
+          "label": "abstraction"
+        },
+        {
+          "type": "related",
+          "target": "demonstration",
+          "label": "demonstration"
+        },
+        {
+          "type": "related",
+          "target": "ideal-construction",
+          "label": "ideal-construction"
+        }
+      ]
+    },
+    {
+      "id": "equational-logic",
+      "type": "concept",
+      "label": "'Equational Logic'",
+      "description": "'A 19th-century approach to formal logic that treats logical operations as equations between terms — represented primarily by Jevons, critically examined in Bradley''s Principles of Logic.'",
+      "aliases": [
+        "algebraic logic",
+        "logical equations"
+      ],
+      "tags": [
+        "logic",
+        "formal-reasoning",
+        "algebraic-method",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:equational-logic",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jevons",
+          "label": "W.S. Jevons"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "principle of identity"
+        },
+        {
+          "type": "related",
+          "target": "ideal-content",
+          "label": "logical content"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "formal-reasoning",
+          "label": "formal-reasoning"
+        }
+      ]
+    },
+    {
+      "id": "existence",
+      "type": "concept",
+      "label": "Existence",
+      "description": "In Bradley's logic, existence is one of the two fundamental aspects of every judgment — the assertion that the subject is, as distinct from assertions about its content or qualities.",
+      "aliases": [],
+      "tags": [
+        "metaphysics",
+        "ontology",
+        "judgment"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:existence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "copula",
+          "label": "copula"
+        },
+        {
+          "type": "related",
+          "target": "individual",
+          "label": "individual"
+        }
+      ]
+    },
+    {
+      "id": "existential-judgment",
+      "type": "concept",
+      "label": "'Existential Judgment'",
+      "description": "'A judgment that asserts or denies the existence of its subject — a form Bradley analyses as ultimately categorical because its genuine subject is present reality, not a mere idea.'",
+      "aliases": [
+        "existential proposition"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:existential-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "privation"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "experience",
+      "type": "concept",
+      "label": "Experience",
+      "description": "The cumulative body of past encounters and their ideal fixation that, for Bradley, provides the material basis for inference while requiring systematic ideal construction to attain logical validity.",
+      "aliases": [
+        "Logical Experience",
+        "School of Experience"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "experience",
+        "empiricism",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:experience",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "major premise"
+        },
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Bain"
+        },
+        {
+          "type": "related",
+          "target": "feeling",
+          "label": "feeling"
+        },
+        {
+          "type": "related",
+          "target": "ideal-content",
+          "label": "ideal-content"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        },
+        {
+          "type": "related",
+          "target": "belief",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        }
+      ]
+    },
+    {
+      "id": "extension-and-intension",
+      "type": "concept",
+      "label": "'Extension and Intension'",
+      "description": "'The twofold way of reading a judgment — in extension (the instances falling under a term) or in intension (the content or attributes composing a term).'",
+      "aliases": [
+        "denotation and connotation",
+        "extensional reading",
+        "intensional reading",
+        "comprehension"
+      ],
+      "tags": [
+        "logic",
+        "semantics",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:extension-and-intension",
+      "relations": [
+        {
+          "type": "related",
+          "target": "quantity-of-judgments",
+          "label": "judgment quantity"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "major premise"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "universal-judgment",
+          "label": "universal-judgment"
+        }
+      ]
+    },
+    {
+      "id": "feeling",
+      "type": "concept",
+      "label": "Feeling",
+      "description": "The immediate, pre-reflective element of mental life that Bradley analyzes as both the starting-point of knowledge and a persistent factor within judgment and inference.",
+      "aliases": [
+        "Immediate Feeling",
+        "Feeling and Thought"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "psychology",
+        "feeling",
+        "judgment"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:feeling",
+      "relations": [
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "absence"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        },
+        {
+          "type": "related",
+          "target": "belief",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        }
+      ]
+    },
+    {
+      "id": "finite",
+      "type": "concept",
+      "label": "Finite",
+      "description": "In Bradley's logical system, the finite denotes that which is limited and determinate; it is the mode in which reality appears to partial thought, but no finite truth is ultimately self-subsistent, for every finite determination points beyond itself to the infinite whole.",
+      "aliases": [
+        "finitude",
+        "limited",
+        "determinate"
+      ],
+      "tags": [
+        "metaphysics",
+        "ontology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:finite",
+      "relations": [
+        {
+          "type": "related",
+          "target": "infinite",
+          "label": "infinite"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "formal-reasoning",
+      "type": "concept",
+      "label": "Formal Reasoning",
+      "description": "Reasoning that operates on the bare form of propositions abstracted from their material content, which Bradley critiques to show that form alone cannot account for the actual movement of inference.",
+      "aliases": [
+        "Formal Inference"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "formal-reasoning",
+        "syllogism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:formal-reasoning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "material-reasoning",
+          "label": "Material Reasoning"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        }
+      ]
+    },
+    {
+      "id": "front-matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Title page, preface, and table of contents\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "principles-of-logic:front-matter",
+      "relations": []
+    },
+    {
+      "id": "hegel",
+      "type": "person",
+      "label": "'G.W.F. Hegel'",
+      "description": "'German idealist philosopher whose logical system profoundly influenced Bradley''s Principles of Logic, though Bradley explicitly distances himself from Hegel''s main principle.'",
+      "aliases": [
+        "Georg Wilhelm Friedrich Hegel"
+      ],
+      "tags": [
+        "philosophy",
+        "german-idealism",
+        "logic"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:hegel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "herbert-spencer",
+      "type": "person",
+      "label": "'Herbert Spencer'",
+      "description": "'English philosopher and sociologist whose theory of inference and evolutionary epistemology is critically noted but expressly set aside in Bradley''s Principles of Logic.'",
+      "aliases": [
+        "Herbert Spencer (1820–1903)",
+        "Mr. Spencer"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "sociology",
+        "evolutionism",
+        "british-empiricism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:herbert-spencer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "J.S. Mill"
+        },
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "Alexander Bain"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        },
+        {
+          "type": "related",
+          "target": "cause-and-effect",
+          "label": "cause-and-effect"
+        }
+      ]
+    },
+    {
+      "id": "hypothetical-judgment",
+      "type": "concept",
+      "label": "Hypothetical Judgment",
+      "description": "The form of judgment that asserts a consequential relation between conditions, which Bradley identifies as the fundamental logical form underlying all judgment and the basis of inference.",
+      "aliases": [
+        "Hypothetical Proposition",
+        "Conditional Judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "hypothetical",
+        "conditional",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:hypothetical-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "modality",
+          "label": "modality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "idea",
+      "type": "concept",
+      "label": "Idea (Logical)",
+      "description": ">",
+      "aliases": [
+        "ideas",
+        "logical idea",
+        "idea as symbol"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "symbolism",
+        "judgment",
+        "meaning",
+        "representation"
+      ],
+      "quality": "featured",
+      "source_ref": "principles-of-logic:idea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "bain",
+          "label": "Alexander Bain"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "john-stuart-mill"
+        },
+        {
+          "type": "related",
+          "target": "hegel",
+          "label": "hegel"
+        },
+        {
+          "type": "related",
+          "target": "sigwart",
+          "label": "sigwart"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        }
+      ]
+    },
+    {
+      "id": "ideal-construction",
+      "type": "concept",
+      "label": "\"Ideal Construction\"",
+      "description": "\"The logical act of synthesizing given data into a connected whole through the application of identity — the fundamental operation that constitutes inference in Bradley's system.\"",
+      "aliases": [
+        "ideal synthesis",
+        "logical construction"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "ideal-content",
+        "synthesis",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:ideal-construction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "principle of identity"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "abstraction",
+          "label": "abstraction"
+        }
+      ]
+    },
+    {
+      "id": "ideal-content",
+      "type": "concept",
+      "label": "'Ideal Content'",
+      "description": "'The meaning or signification borne by an idea — in Bradley''s logical system, ideal content is what judgment refers to reality, and it stands in a distinctive relation to both psychical existence and real fact.'",
+      "aliases": [
+        "logical content",
+        "ideal meaning"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "judgment",
+        "idea",
+        "meaning"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:ideal-content",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "abstraction",
+          "label": "abstraction"
+        },
+        {
+          "type": "related",
+          "target": "ideal-construction",
+          "label": "ideal-construction"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "ideal-experiment",
+      "type": "concept",
+      "label": "Ideal Experiment",
+      "description": "A mental operation in which ideal content is manipulated to test logical relations and procure new judgments, central to Bradley's account of inference.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "epistemology",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:ideal-experiment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic reasoning"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "identity",
+      "type": "concept",
+      "label": "Identity",
+      "description": "The logical relation of sameness that persists through difference, serving as the unifying ground of judgment in Bradley's idealist logic.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "judgment"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "difference",
+          "label": "difference"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "individual",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "imagination",
+      "type": "concept",
+      "label": "Imagination",
+      "description": "In Bradley's logical system, imagination is the faculty of forming mental images distinct from perception and thought; it plays a necessary role in judgment yet must be distinguished from the logical reference to reality that constitutes truth.",
+      "aliases": [
+        "mental-imagery",
+        "phantasy"
+      ],
+      "tags": [
+        "psychology",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:imagination",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "immanuel-kant",
+      "type": "person",
+      "label": "'Immanuel Kant'",
+      "description": "'German philosopher whose critical philosophy — particularly the analytic/synthetic distinction and the principle of syllogism — is referenced throughout Bradley''s Principles of Logic as both an advance over empiricism and an incomplete position requiring idealist correction.'",
+      "aliases": [
+        "Immanuel Kant (1724–1804)"
+      ],
+      "tags": [
+        "philosophy",
+        "german-idealism",
+        "epistemology",
+        "logic",
+        "critical-philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:immanuel-kant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "analytic-judgment",
+          "label": "analytic-judgment"
+        },
+        {
+          "type": "related",
+          "target": "synthetic-judgment",
+          "label": "synthetic-judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "immediate-inference",
+      "type": "concept",
+      "label": "'Immediate Inference'",
+      "description": "'A so-called inference drawn from a single premise without mediation — a category Bradley examines critically, arguing that genuine immediate inferences, where they exist, fall under the same principles as mediate reasoning.'",
+      "aliases": [
+        "immediate reasoning",
+        "direct inference",
+        "eduction",
+        "logical conversion"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "syllogism",
+        "conversion"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:immediate-inference",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "conversion",
+          "label": "Conversion"
+        },
+        {
+          "type": "related",
+          "target": "possible-judgment",
+          "label": "problematic judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        }
+      ]
+    },
+    {
+      "id": "individual",
+      "type": "concept",
+      "label": "Individual",
+      "description": "In Bradley's logic, the individual is what is self-existent and unique; however, no mere particular can satisfy the demands of individuality, which can only be realized in the concrete whole.",
+      "aliases": [
+        "individuality",
+        "particular individual"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:individual",
+      "relations": [
+        {
+          "type": "related",
+          "target": "particular",
+          "label": "particular"
+        },
+        {
+          "type": "related",
+          "target": "abstract",
+          "label": "abstract"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "identity",
+          "label": "identity"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "induction",
+      "type": "concept",
+      "label": "Induction",
+      "description": "The process of inferring general conclusions from particular instances, which Bradley examines critically to determine its logical foundations and limitations.",
+      "aliases": [
+        "Inductive Reasoning",
+        "Inductive Methods"
+      ],
+      "tags": [
+        "logic",
+        "reasoning",
+        "inference",
+        "methodology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:induction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "system",
+          "label": "System"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        }
+      ]
+    },
+    {
+      "id": "inference",
+      "type": "concept",
+      "label": "'Inference'",
+      "description": "'The logical process that combines synthesis (ideal construction of premises into a whole) with perception (intuition of a new relation within that unity) — the central operation of reasoning in Bradley''s system.'",
+      "aliases": [
+        "reasoning",
+        "logical demonstration",
+        "deduction"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "reasoning"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:inference",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ideal-construction",
+          "label": "ideal synthesis"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "demonstration",
+          "label": "Demonstration"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunction"
+        }
+      ]
+    },
+    {
+      "id": "infinite",
+      "type": "concept",
+      "label": "Infinite",
+      "description": "In Bradley's logical system, the infinite denotes both the endless serial progression characteristic of finite thought and space-time, which Bradley critiques as the \"spurious infinite,\" and the genuine infinity of the absolute whole in which all relations are completed.",
+      "aliases": [
+        "infinity",
+        "endlessness",
+        "spurious-infinite"
+      ],
+      "tags": [
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:infinite",
+      "relations": [
+        {
+          "type": "related",
+          "target": "finite",
+          "label": "finite"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "intuition",
+      "type": "concept",
+      "label": "Intuition",
+      "description": "In Bradley's logical theory, intuition is the immediate perception of a new relation within a constructed whole, forming the conclusion-stage of inference following the synthetic construction of premises.",
+      "aliases": [
+        "intellectual-intuition",
+        "logical-intuition"
+      ],
+      "tags": [
+        "epistemology",
+        "logic",
+        "inference"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:intuition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "demonstration",
+          "label": "demonstration"
+        }
+      ]
+    },
+    {
+      "id": "james-mill",
+      "type": "person",
+      "label": "'James Mill'",
+      "description": "'Scottish philosopher and historian whose associationist psychology is critically examined in Bradley''s Principles of Logic (Chapter XIII) through J.S. Mill''s analysis.'",
+      "aliases": [
+        "James Mill (1773–1836)"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "associationism",
+        "british-empiricism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:james-mill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "J.S. Mill"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "associationism"
+        },
+        {
+          "type": "related",
+          "target": "redintegration",
+          "label": "redintegration"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "logical inference"
+        }
+      ]
+    },
+    {
+      "id": "jevons",
+      "type": "person",
+      "label": "'W.S. Jevons'",
+      "description": "'British logician and economist whose equational logic is the subject of sustained critical examination in Bradley''s Principles of Logic (Chapter VIII).'",
+      "aliases": [
+        "William Stanley Jevons",
+        "Professor Jevons"
+      ],
+      "tags": [
+        "logic",
+        "philosophy",
+        "equational-logic",
+        "british-empiricism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:jevons",
+      "relations": [
+        {
+          "type": "related",
+          "target": "equational-logic",
+          "label": "Equational Logic"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negative judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        }
+      ]
+    },
+    {
+      "id": "johann-friedrich-herbart",
+      "type": "person",
+      "label": "Johann Friedrich Herbart",
+      "description": "German philosopher and psychologist (1776–1841); Bradley extensively discusses Herbart's views on judgment and existence in Book I, Chapter II of The Principles of Logic.",
+      "aliases": [
+        "Herbart"
+      ],
+      "tags": [
+        "logic",
+        "philosophy",
+        "psychology",
+        "german-idealism"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:johann-friedrich-herbart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "copula",
+          "label": "copula"
+        },
+        {
+          "type": "related",
+          "target": "subject-and-attribute",
+          "label": "subject-and-attribute"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "john-stuart-mill",
+      "type": "person",
+      "label": "'J.S. Mill'",
+      "description": "'British empiricist philosopher whose logical doctrines — particularly associationism and the treatment of the copula — are a primary critical target in Bradley''s Principles of Logic.'",
+      "aliases": [
+        "John Stuart Mill"
+      ],
+      "tags": [
+        "philosophy",
+        "logic",
+        "empiricism",
+        "associationism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:john-stuart-mill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "system",
+          "label": "System"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "james-mill",
+          "label": "James Mill"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "laws of association"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "john-venn",
+      "type": "person",
+      "label": "John Venn",
+      "description": "English logician and philosopher (1834–1923), best known for Venn diagrams; Bradley critically engages with Venn's symbolic logic and theory of judgment in The Principles of Logic.",
+      "aliases": [
+        "Venn",
+        "Mr. Venn"
+      ],
+      "tags": [
+        "logic",
+        "philosophy",
+        "mathematics",
+        "symbolic-logic",
+        "probability"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:john-venn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "subsumption",
+          "label": "subsumption"
+        },
+        {
+          "type": "related",
+          "target": "extension-and-intension",
+          "label": "extension-and-intension"
+        },
+        {
+          "type": "related",
+          "target": "equational-logic",
+          "label": "equational-logic"
+        }
+      ]
+    },
+    {
+      "id": "judgment",
+      "type": "concept",
+      "label": "'Judgment'",
+      "description": "'The act of referring an ideal content to a reality beyond the act — the central logical operation in Bradley''s system.'",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "epistemology",
+        "definition"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "associationism"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "judgment-of-perception",
+      "type": "concept",
+      "label": "Judgment of Perception",
+      "description": "The most basic form of judgment, arising directly from perceptual experience — for Bradley, even this elementary act involves universality and inference.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "perception",
+        "judgment"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:judgment-of-perception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        },
+        {
+          "type": "related",
+          "target": "thisness",
+          "label": "thisness"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "type": "concept",
+      "label": "Knowledge",
+      "description": "The cognitive relation to truth and falsehood that constitutes the starting point of logical inquiry in Bradley's system.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "epistemology",
+        "definition"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:knowledge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "absence"
+        },
+        {
+          "type": "related",
+          "target": "belief",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        }
+      ]
+    },
+    {
+      "id": "law-of-contradiction",
+      "type": "concept",
+      "label": "'Law of Contradiction'",
+      "description": "'The logical principle that contradictory attributes cannot be predicated of the same subject at the same time — grounded in the real nature of things, not merely in the form of thought.'",
+      "aliases": [
+        "principle of contradiction",
+        "principle of non-contradiction"
+      ],
+      "tags": [
+        "logic",
+        "definition",
+        "principle"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:law-of-contradiction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "double-negation",
+          "label": "Double Negation"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "law-of-excluded-middle",
+      "type": "concept",
+      "label": "Law of Excluded Middle",
+      "description": "The logical principle that every possible judgment must be true or false, understood by Bradley as a special case of disjunctive judgment rather than an independent axiom.",
+      "aliases": [
+        "Excluded Middle",
+        "Principle of Excluded Middle"
+      ],
+      "tags": [
+        "logic",
+        "principle",
+        "disjunction",
+        "negation"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:law-of-excluded-middle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunctive judgment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "disjunctive-judgment",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "law-of-identity",
+      "type": "concept",
+      "label": "'Law of Identity'",
+      "description": "'The logical principle that every judgment asserts identity of subject and predicate — not mere abstract sameness but identity persisting through differences.'",
+      "aliases": [
+        "principle of identity"
+      ],
+      "tags": [
+        "logic",
+        "definition",
+        "principle"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:law-of-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "double-negation",
+          "label": "Double Negation"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "lotze",
+      "type": "person",
+      "label": "'Hermann Lotze'",
+      "description": "'German philosopher and logician whose Logik is repeatedly cited with admiration throughout Bradley''s Principles of Logic as a key authority on logical and metaphysical questions.'",
+      "aliases": [
+        "Rudolf Hermann Lotze",
+        "Professor Lotze"
+      ],
+      "tags": [
+        "logic",
+        "philosophy",
+        "german-idealism",
+        "teleology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:lotze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "J.S. Mill"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "christoph-von-sigwart"
+        }
+      ]
+    },
+    {
+      "id": "major-premise",
+      "type": "concept",
+      "label": "'Major Premise'",
+      "description": "'The universal premise of the syllogism which Bradley argues is a delusion — a metaphysical fiction generated by treating an abstract universal judgment as if it were a self-standing categorical truth.'",
+      "aliases": [
+        "major premiss"
+      ],
+      "tags": [
+        "logic",
+        "syllogism",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:major-premise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "major premise"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "system",
+          "label": "System"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "negative-reasoning",
+          "label": "negative-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        }
+      ]
+    },
+    {
+      "id": "material-reasoning",
+      "type": "concept",
+      "label": "'Material Reasoning'",
+      "description": "'Reasoning that is related to fact and refers to reality — in Bradley''s system, an essential quality of all genuine inference, in contrast to purely formal reasoning that abstracts from content.'",
+      "aliases": [
+        "material inference"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "material-reasoning",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:material-reasoning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-excluded-middle",
+          "label": "Excluded Middle"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "formal-reasoning",
+          "label": "formal-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        }
+      ]
+    },
+    {
+      "id": "mind",
+      "type": "concept",
+      "label": "Mind",
+      "description": "In Bradley's logical system, mind denotes the totality of psychical phenomena — sensations, images, feelings, and thoughts — as they occur in the finite individual; it is the stage upon which logical acts are performed but is not itself the ground of logical validity.",
+      "aliases": [
+        "psyche",
+        "mental",
+        "psychical"
+      ],
+      "tags": [
+        "psychology",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:mind",
+      "relations": [
+        {
+          "type": "related",
+          "target": "self",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        }
+      ]
+    },
+    {
+      "id": "modality",
+      "type": "concept",
+      "label": "Modality (Logical)",
+      "description": "In Bradley's logic, modality concerns not the form but the content of judgment — the assertoric, necessary (apodeictic), and possible (problematic) are distinctions within the asserted content rather than modes of assertion.",
+      "aliases": [
+        "Logical Modality",
+        "Modal Judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "modality",
+        "necessity",
+        "possibility"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:modality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "necessary-judgment",
+      "type": "concept",
+      "label": "Necessary Judgment",
+      "description": "A modal judgment asserting that a subject-predicate connection must hold by logical necessity, which Bradley reinterprets as an inference whose premises are fully explicit.",
+      "aliases": [
+        "apodictic judgment",
+        "apodeiktic judgment",
+        "judgment of necessity"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "modality",
+        "kantian-categories",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:necessary-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "possible-judgment",
+          "label": "problematic judgment"
+        },
+        {
+          "type": "related",
+          "target": "modality",
+          "label": "modality"
+        },
+        {
+          "type": "related",
+          "target": "assertoric-judgment",
+          "label": "assertoric-judgment"
+        },
+        {
+          "type": "related",
+          "target": "necessary-truth",
+          "label": "necessary-truth"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "necessary-truth",
+      "type": "concept",
+      "label": "Necessary Truth",
+      "description": "In Bradley's logic, a truth that follows necessarily from a ground — identified with inference itself rather than a distinct species of proposition.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "epistemology",
+        "necessity"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:necessary-truth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "deduction"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "reasoning-process",
+          "label": "reasoning-process"
+        }
+      ]
+    },
+    {
+      "id": "necessity",
+      "type": "concept",
+      "label": "Necessity",
+      "description": "Bradley's account of logical necessity as fundamentally hypothetical rather than categorical — a conclusion is necessary not absolutely but relative to the grounds that support it.",
+      "aliases": [
+        "Logical Necessity",
+        "Hypothetical Necessity"
+      ],
+      "tags": [
+        "logic",
+        "modality",
+        "necessity",
+        "inference",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:necessity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "belief",
+          "label": "belief"
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "type": "concept",
+      "label": "'Negation'",
+      "description": "'The logical act of excluding an ideal content from a real subject — negation is more ideal than affirmation, rests on a positive ground, and is central to Bradley''s treatment of judgment in Book I Chapter III.'",
+      "aliases": [
+        "negative judgment",
+        "denial",
+        "logical negation"
+      ],
+      "tags": [
+        "logic",
+        "epistemology",
+        "judgment"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:negation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "absence"
+        },
+        {
+          "type": "related",
+          "target": "contradiction",
+          "label": "Contradiction"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunction"
+        }
+      ]
+    },
+    {
+      "id": "negative-judgment",
+      "type": "concept",
+      "label": "'Negative Judgment'",
+      "description": "'The form of judgment that denies a predicate of a subject — in Bradley''s system, negative judgment is grounded not in a negative fact but in the positive exclusion effected by the real itself.'",
+      "aliases": [
+        "negative judgement",
+        "negation in judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "negation",
+        "denial",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:negative-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negative judgment"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "absence"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "negative-reasoning",
+      "type": "concept",
+      "label": "'Negative Reasoning'",
+      "description": "'The process of drawing a conclusion from premises one of which denies — a form of reasoning Bradley argues does not differ vitally from positive inference and is governed by the same underlying principle of ideal construction.'",
+      "aliases": [
+        "negative inference",
+        "reasoning by denial",
+        "exclusion-based reasoning"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "syllogism",
+        "negation"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:negative-reasoning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "double-negation",
+          "label": "double-negation"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        }
+      ]
+    },
+    {
+      "id": "particular",
+      "type": "concept",
+      "label": "Particular",
+      "description": "In Bradley's logic, the particular is the concrete instance clothed with sensuous detail, distinguished from the universal meaning it conveys.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:particular",
+      "relations": [
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "abstract",
+          "label": "abstract"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        }
+      ]
+    },
+    {
+      "id": "particular-judgment",
+      "type": "concept",
+      "label": "'Particular Judgment'",
+      "description": "'A judgment that explicitly predicates of only part of the extension of its subject — a form Bradley argues is ultimately hypothetical and does not exist as a genuine categorical assertion.'",
+      "aliases": [
+        "particular proposition",
+        "some-judgment",
+        "relative particular judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "quantity"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:particular-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "possible-judgment",
+          "label": "problematic judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "universal-judgment",
+          "label": "universal-judgment"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "type": "concept",
+      "label": "Perception",
+      "description": "In Bradley's logical system, perception is the immediate presentation of reality to the mind, serving as the point of contact where ideal content meets the given in judgment and the base from which inference projects its constructions.",
+      "aliases": [
+        "sensory-perception",
+        "present-perception"
+      ],
+      "tags": [
+        "epistemology",
+        "psychology",
+        "logic"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:perception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        },
+        {
+          "type": "related",
+          "target": "feeling",
+          "label": "feeling"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        }
+      ]
+    },
+    {
+      "id": "phenomenon",
+      "type": "concept",
+      "label": "Phenomenon",
+      "description": "In Bradley's logical system, a phenomenon is a psychical event or appearance as it is given in experience, distinguished from the reality to which judgment refers; the phenomenal series is the interconnected flow of such appearances.",
+      "aliases": [
+        "appearance",
+        "phenomenal"
+      ],
+      "tags": [
+        "metaphysics",
+        "epistemology",
+        "ontology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:phenomenon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "pleasure",
+      "type": "concept",
+      "label": "Pleasure",
+      "description": "In Bradley's logical system, pleasure is the affective accompaniment of satisfied desire, significant as a psychical datum but insufficient as a ground for logical validity or ethical judgment.",
+      "aliases": [
+        "satisfaction",
+        "gratification"
+      ],
+      "tags": [
+        "psychology",
+        "ethics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:pleasure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "desire",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "will",
+          "label": "will"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "possible-judgment",
+      "type": "concept",
+      "label": "Possible Judgment",
+      "description": "A modal judgment that asserts the logical possibility of a subject-predicate relation without committing to its actual truth or necessity, discussed by Bradley as the lowest form of modality.",
+      "aliases": [
+        "problematic judgment",
+        "judgment of possibility"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "modality",
+        "kantian-categories"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:possible-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "modality",
+          "label": "modality"
+        },
+        {
+          "type": "related",
+          "target": "assertoric-judgment",
+          "label": "assertoric-judgment"
+        },
+        {
+          "type": "related",
+          "target": "necessary-judgment",
+          "label": "necessary-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "predicate",
+      "type": "concept",
+      "label": "Predicate",
+      "description": "In Bradley's logical theory, the predicate is the ideal content affirmed of a subject in judgment; predicates are universal meanings that function as attributes of reality in the act of judging.",
+      "aliases": [
+        "predication",
+        "logical-predicate"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:predicate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "subject",
+          "label": "subject"
+        },
+        {
+          "type": "related",
+          "target": "substance",
+          "label": "substance"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "universal",
+          "label": "universal"
+        },
+        {
+          "type": "related",
+          "target": "abstract",
+          "label": "abstract"
+        }
+      ]
+    },
+    {
+      "id": "predication",
+      "type": "concept",
+      "label": "Predication",
+      "description": "The logical act of attributing a predicate to a subject — the fundamental operation Bradley analyzes at the very outset of his logical inquiry into judgment.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "judgment",
+        "definition"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:predication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "subject-and-attribute",
+          "label": "subject-and-attribute"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        }
+      ]
+    },
+    {
+      "id": "premise",
+      "type": "concept",
+      "label": "Premise",
+      "description": "A starting judgment in an inferential process from which a conclusion is derived; Bradley analyzes premises as neither self-evident ultimates nor mere hypotheses but as judgments whose necessity is demonstrated through the ideal experiment.",
+      "aliases": [
+        "premises",
+        "major premise",
+        "minor premise"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "syllogism",
+        "argument-structure"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:premise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "ideal-experiment",
+          "label": "ideal-experiment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "principle-of-identity-of-indiscernibles",
+      "type": "concept",
+      "label": "Principle of Identity of Indiscernibles",
+      "description": "The principle that entities sharing all properties are identical; Bradley examines its logical role in inference and its metaphysical implications for the nature of difference and sameness.",
+      "aliases": [
+        "identity of indiscernibles",
+        "Leibniz's law"
+      ],
+      "tags": [
+        "logic",
+        "identity",
+        "metaphysics",
+        "leibniz",
+        "principle"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:principle-of-identity-of-indiscernibles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic inference"
+        },
+        {
+          "type": "related",
+          "target": "identity",
+          "label": "identity"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "denial"
+        }
+      ]
+    },
+    {
+      "id": "privation",
+      "type": "concept",
+      "label": "'Privation'",
+      "description": "\"In Bradley's logic, a mode of negation grounded not in bare absence but in a positive quality of the subject that repels or excludes a suggested determination.\"",
+      "aliases": [
+        "steresis",
+        "absence",
+        "lack"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:privation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "denial",
+          "label": "logical denial"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "Negative Judgment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "Negation"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "negative-reasoning",
+          "label": "negative inference"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "existential-judgment",
+          "label": "existential-judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-contradiction",
+          "label": "law-of-contradiction"
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "type": "concept",
+      "label": "Quality (of Judgment)",
+      "description": "In Bradley's logic, quality refers to the affirmative or negative character of a judgment — whether a predicate is attributed to or denied of the subject.",
+      "aliases": [
+        "qualitative-judgment",
+        "quality-of-judgments"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "categories"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:quality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        },
+        {
+          "type": "related",
+          "target": "negative-judgment",
+          "label": "negative-judgment"
+        },
+        {
+          "type": "related",
+          "target": "copula",
+          "label": "copula"
+        }
+      ]
+    },
+    {
+      "id": "quantity-of-judgments",
+      "type": "concept",
+      "label": "Quantity of Judgments",
+      "description": "The classification of judgments by their subject-extension into singular, particular, and universal forms, as treated in Bradley's analysis of logical form.",
+      "aliases": [
+        "judgment quantity",
+        "logical quantity"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "kantian-categories",
+        "classification"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:quantity-of-judgments",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "particular-judgment",
+          "label": "particular proposition"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        },
+        {
+          "type": "related",
+          "target": "universal-judgment",
+          "label": "universal-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "subject-and-attribute",
+          "label": "subject-and-attribute"
+        }
+      ]
+    },
+    {
+      "id": "real-ground",
+      "type": "concept",
+      "label": "Real Ground",
+      "description": "The actual basis in reality from which a necessary truth follows — Bradley's concept linking logical necessity to metaphysical foundation.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "causation"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:real-ground",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        },
+        {
+          "type": "related",
+          "target": "necessary-truth",
+          "label": "necessary-truth"
+        },
+        {
+          "type": "related",
+          "target": "cause-and-effect",
+          "label": "cause-and-effect"
+        }
+      ]
+    },
+    {
+      "id": "reality",
+      "type": "concept",
+      "label": "Reality",
+      "description": "In Bradley's logical system, reality is the ultimate subject to which all ideas and judgments refer; the distinction between appearance and reality is fundamental to his idealist metaphysics.",
+      "aliases": [],
+      "tags": [
+        "metaphysics",
+        "epistemology",
+        "ontology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:reality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "reasoning-process",
+      "type": "concept",
+      "label": "Reasoning Process",
+      "description": "The general nature and structure of inferential thinking that Bradley investigates as the central activity of logical inquiry.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "inference",
+        "methodology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:reasoning-process",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "formal-reasoning",
+          "label": "formal-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "material-reasoning",
+          "label": "material-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        }
+      ]
+    },
+    {
+      "id": "redintegration",
+      "type": "concept",
+      "label": "Redintegration",
+      "description": "The process by which a partial presentation reinstates the whole of an associated ideal content, operating as the fundamental mechanism of reproduction and inference in Bradley's logical psychology.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "psychology",
+        "association",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:redintegration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "associationism"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "james-mill",
+          "label": "James Mill"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "relation",
+      "type": "concept",
+      "label": "Relation",
+      "description": "In Bradley's logical system, relation is the connection between terms that constitutes the structure of judgment and inference; while all finite thought is relational, Bradley argues that relations are ultimately appearance — the relational form points beyond itself to a non-relational absolute whole.",
+      "aliases": [
+        "relations",
+        "relational-structure"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:relation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        },
+        {
+          "type": "related",
+          "target": "quality",
+          "label": "quality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "subject",
+          "label": "subject"
+        },
+        {
+          "type": "related",
+          "target": "predicate",
+          "label": "predicate"
+        }
+      ]
+    },
+    {
+      "id": "self",
+      "type": "concept",
+      "label": "Self",
+      "description": "In Bradley's logical system, the self is the felt centre of psychical experience that emerges through the evolution of self-consciousness; it is not an independent substance but a finite appearance within the absolute whole.",
+      "aliases": [
+        "self-consciousness",
+        "ego",
+        "subject-self"
+      ],
+      "tags": [
+        "metaphysics",
+        "psychology",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:self",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mind",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "subject",
+          "label": "subject"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        }
+      ]
+    },
+    {
+      "id": "sensation",
+      "type": "concept",
+      "label": "Sensation",
+      "description": "In Bradley's logical system, sensation is the primitive psychical datum — a simple mental event that stands in contrast to the idea; the distinction between sensation and idea is fundamental to his theory of judgment.",
+      "aliases": [
+        "sense-perception"
+      ],
+      "tags": [
+        "epistemology",
+        "psychology",
+        "perception"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:sensation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "feeling",
+          "label": "feeling"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        }
+      ]
+    },
+    {
+      "id": "sigwart",
+      "type": "person",
+      "label": "'Sigwart'",
+      "description": "'Redirect to christoph-von-sigwart — Christoph von Sigwart, German logician frequently cited in Bradley''s Principles of Logic.'",
+      "aliases": [
+        "Christoph von Sigwart"
+      ],
+      "tags": [
+        "logic",
+        "philosophy"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:sigwart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Christoph von Sigwart"
+        }
+      ]
+    },
+    {
+      "id": "singular-judgment",
+      "type": "concept",
+      "label": "Singular Judgment",
+      "description": "The form of judgment that predicates something of an individual subject, which Bradley analyzes to show that singular reference cannot sustain the logical role traditionally assigned to it.",
+      "aliases": [
+        "Singular Proposition"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "singular-judgment",
+        "predication",
+        "proper-names"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:singular-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "system",
+          "label": "System"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "type": "concept",
+      "label": "Space",
+      "description": "In Bradley's logic, space and time are principles of individuation but cannot provide true singularity; spatial determinations are relations that point beyond themselves to the whole of reality.",
+      "aliases": [
+        "space and time",
+        "spatial"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:space",
+      "relations": [
+        {
+          "type": "related",
+          "target": "time",
+          "label": "time"
+        },
+        {
+          "type": "related",
+          "target": "particular",
+          "label": "particular"
+        },
+        {
+          "type": "related",
+          "target": "individual",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        }
+      ]
+    },
+    {
+      "id": "subject",
+      "type": "concept",
+      "label": "Subject",
+      "description": "In Bradley's logical system, the subject is that to which a predicate is referred in judgment; the ultimate subject of every judgment is reality as a whole, and the grammatical subject of ordinary propositions is merely a provisional abstraction from this ultimate reference.",
+      "aliases": [
+        "logical-subject",
+        "ultimate-subject"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "judgment"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:subject",
+      "relations": [
+        {
+          "type": "related",
+          "target": "predicate",
+          "label": "predicate"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "copula",
+          "label": "copula"
+        },
+        {
+          "type": "related",
+          "target": "whole",
+          "label": "whole"
+        }
+      ]
+    },
+    {
+      "id": "subject-and-attribute",
+      "type": "concept",
+      "label": "Subject and Attribute",
+      "description": "The fundamental categorical relation in Bradley's logic, in which a subject term is qualified by an attribute term, forming the basic structure of judgment and the only relation valid for syllogistic inference.",
+      "aliases": [
+        "subject-attribute relation",
+        "subject-predicate relation"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "categorical-form",
+        "syllogism"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:subject-and-attribute",
+      "relations": [
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic inference"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "negative-reasoning",
+          "label": "negative inference"
+        },
+        {
+          "type": "related",
+          "target": "christoph-von-sigwart",
+          "label": "Sigwart"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "categorical-judgment",
+          "label": "categorical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "hypothetical-judgment",
+          "label": "hypothetical-judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        }
+      ]
+    },
+    {
+      "id": "substance",
+      "type": "concept",
+      "label": "Substance",
+      "description": "In Bradley's logical system, substance denotes the self-existent individual reality that serves as the ultimate subject of predication, distinguished from mere adjectives or attributes that depend on it for their being.",
+      "aliases": [
+        "substantive",
+        "substantial-reality"
+      ],
+      "tags": [
+        "metaphysics",
+        "logic",
+        "ontology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:substance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "subject",
+          "label": "subject"
+        },
+        {
+          "type": "related",
+          "target": "predicate",
+          "label": "predicate"
+        },
+        {
+          "type": "related",
+          "target": "individual",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "identity",
+          "label": "identity"
+        }
+      ]
+    },
+    {
+      "id": "subsumption",
+      "type": "concept",
+      "label": "Subsumption",
+      "description": "The logical operation of placing a particular under a universal — a model of reasoning that Bradley critically examines and finds insufficient as a general account of inference.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "inference",
+        "methodology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:subsumption",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "reasoning-process",
+          "label": "reasoning-process"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "formal-reasoning",
+          "label": "formal-reasoning"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "syllogism",
+      "type": "concept",
+      "label": "Syllogism",
+      "description": ">",
+      "aliases": [
+        "syllogistic reasoning",
+        "syllogistic inference"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "deduction",
+        "formal-reasoning",
+        "aristotelian-logic"
+      ],
+      "quality": "featured",
+      "source_ref": "principles-of-logic:syllogism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "immediate-inference",
+          "label": "eduction"
+        },
+        {
+          "type": "related",
+          "target": "negative-reasoning",
+          "label": "negative inference"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "denial"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "Induction"
+        },
+        {
+          "type": "related",
+          "target": "equational-logic",
+          "label": "Equational Logic"
+        },
+        {
+          "type": "related",
+          "target": "material-reasoning",
+          "label": "material inference"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "john-stuart-mill"
+        },
+        {
+          "type": "related",
+          "target": "jevons",
+          "label": "jevons"
+        },
+        {
+          "type": "related",
+          "target": "sigwart",
+          "label": "sigwart"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "disjunction",
+          "label": "disjunction"
+        },
+        {
+          "type": "related",
+          "target": "alexander-bain",
+          "label": "alexander-bain"
+        }
+      ]
+    },
+    {
+      "id": "synthesis",
+      "type": "concept",
+      "label": "Synthesis",
+      "description": "The mental act by which distinct ideal elements are united into a single judgment, forming the positive moment of thought that Bradley distinguishes from mere analysis and from the association of ideas.",
+      "aliases": [
+        "synthesis of ideas",
+        "ideal synthesis"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "epistemology",
+        "mental-acts"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:synthesis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "Judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "ideal-construction",
+          "label": "ideal synthesis"
+        },
+        {
+          "type": "related",
+          "target": "subject-and-attribute",
+          "label": "subject-and-attribute"
+        },
+        {
+          "type": "related",
+          "target": "ideal-experiment",
+          "label": "ideal-experiment"
+        },
+        {
+          "type": "related",
+          "target": "negation",
+          "label": "negation"
+        }
+      ]
+    },
+    {
+      "id": "synthetic-judgment",
+      "type": "concept",
+      "label": "'Synthetic Judgment'",
+      "description": "'A judgment that extends beyond the given by constructing a connection not contained in the data alone — in Bradley''s system, every judgment is essentially synthetic.'",
+      "aliases": [
+        "synthesis (judgment)",
+        "synthetical judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "epistemology",
+        "synthesis"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:synthetic-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "analytic-judgment",
+          "label": "analytic-judgment"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "synthesis",
+          "label": "synthesis"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "type": "concept",
+      "label": "System",
+      "description": "The organizing ideal of thought by which individual judgments and inferences are integrated into a coherent whole — for Bradley, both the goal of logical activity and the ultimate criterion of truth.",
+      "aliases": [
+        "Systematic Unity",
+        "Logical System",
+        "System of Ideas"
+      ],
+      "tags": [
+        "logic",
+        "idealism",
+        "system",
+        "coherence",
+        "inference"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "reasoning"
+        },
+        {
+          "type": "related",
+          "target": "validity",
+          "label": "validity"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        }
+      ]
+    },
+    {
+      "id": "thisness",
+      "type": "concept",
+      "label": "Thisness",
+      "description": "The quality of being a particular \"this\" — a concept Bradley analyzes in his account of how ideas can refer to individuals despite the universal character of thought.",
+      "aliases": [
+        "haecceity"
+      ],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "individuation"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:thisness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "privation",
+          "label": "lack"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract-universal"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "experience",
+          "label": "experience"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "type": "concept",
+      "label": "Time",
+      "description": "In Bradley's logic, time is a form of appearance rather than ultimate reality — judgments about temporal succession belong to the realm of phenomena, not to the timeless logical order.",
+      "aliases": [],
+      "tags": [
+        "metaphysics",
+        "logic"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:time",
+      "relations": [
+        {
+          "type": "related",
+          "target": "space",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        }
+      ]
+    },
+    {
+      "id": "truth",
+      "type": "concept",
+      "label": "Truth",
+      "description": "In Bradley's logic, truth is the correspondence of a judgment's ideal content with reality; truth and falsehood are the defining characteristics of judgment as distinct from mere association.",
+      "aliases": [
+        "truth and falsehood",
+        "true judgment"
+      ],
+      "tags": [
+        "logic",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:truth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "knowledge",
+          "label": "knowledge"
+        }
+      ]
+    },
+    {
+      "id": "understanding",
+      "type": "concept",
+      "label": "Understanding",
+      "description": "In Bradley's logical system, understanding denotes the faculty or activity of grasping ideal content as meaning, distinct from mere sensation or feeling; it is the capacity to employ universals in thought and judgment.",
+      "aliases": [],
+      "tags": [
+        "epistemology",
+        "logic",
+        "psychology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:understanding",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "feeling",
+          "label": "feeling"
+        },
+        {
+          "type": "related",
+          "target": "sensation",
+          "label": "sensation"
+        },
+        {
+          "type": "related",
+          "target": "abstract",
+          "label": "abstract"
+        }
+      ]
+    },
+    {
+      "id": "universal",
+      "type": "concept",
+      "label": "Universal",
+      "description": "An ideal content that transcends particular instances, serving as the vehicle of meaning and the subject matter of logical judgment in Bradley's system.",
+      "aliases": [],
+      "tags": [
+        "logic",
+        "metaphysics",
+        "epistemology"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:universal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "particular",
+          "label": "particular"
+        },
+        {
+          "type": "related",
+          "target": "abstract",
+          "label": "abstract"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        }
+      ]
+    },
+    {
+      "id": "universal-judgment",
+      "type": "concept",
+      "label": "'Universal Judgment'",
+      "description": "'The form of judgment that asserts something of all members of a class — in Bradley''s analysis, every abstract universal judgment is ultimately hypothetical, grounded not in real existence but in the relation of characters.'",
+      "aliases": [
+        "universal proposition",
+        "general judgment"
+      ],
+      "tags": [
+        "logic",
+        "judgment",
+        "universality",
+        "hypothetical",
+        "abstraction"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:universal-judgment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "abstract-universal",
+          "label": "abstract universal judgment"
+        },
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogism"
+        },
+        {
+          "type": "related",
+          "target": "abstraction",
+          "label": "abstraction"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "inference"
+        },
+        {
+          "type": "related",
+          "target": "singular-judgment",
+          "label": "singular-judgment"
+        }
+      ]
+    },
+    {
+      "id": "validity",
+      "type": "concept",
+      "label": "Validity",
+      "description": "The property of an inference or judgment by which its conclusion rightly follows from its premises, examined by Bradley as a problem concerning the nature of logical connection rather than a formal criterion.",
+      "aliases": [
+        "Logical Validity"
+      ],
+      "tags": [
+        "logic",
+        "inference",
+        "validity",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:validity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "premise",
+          "label": "premises"
+        },
+        {
+          "type": "related",
+          "target": "inference",
+          "label": "Inference"
+        },
+        {
+          "type": "related",
+          "target": "syllogism",
+          "label": "syllogistic reasoning"
+        },
+        {
+          "type": "related",
+          "target": "dilemma",
+          "label": "dilemma"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "induction",
+          "label": "induction"
+        },
+        {
+          "type": "related",
+          "target": "law-of-identity",
+          "label": "law-of-identity"
+        }
+      ]
+    },
+    {
+      "id": "whole",
+      "type": "concept",
+      "label": "Whole",
+      "description": "In Bradley's philosophy, the whole is the ultimate unity in which all parts and relations find their complete reality; every judgment ultimately refers to the whole as its final subject.",
+      "aliases": [
+        "totality",
+        "holistic-system"
+      ],
+      "tags": [
+        "metaphysics",
+        "ontology",
+        "holism"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:whole",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "concrete-universal",
+          "label": "concrete-universal"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "will",
+      "type": "concept",
+      "label": "Will",
+      "description": "In Bradley's logical system, will denotes the volitional side of mental activity, distinct from yet inseparable from the intellectual; volitional phenomena form part of the psychical background against which judgment operates.",
+      "aliases": [
+        "volition"
+      ],
+      "tags": [
+        "psychology",
+        "epistemology",
+        "metaphysics"
+      ],
+      "quality": "basic",
+      "source_ref": "principles-of-logic:will",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judgment",
+          "label": "judgment"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "idea"
+        },
+        {
+          "type": "related",
+          "target": "desire",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "association-of-ideas"
+        },
+        {
+          "type": "related",
+          "target": "reality",
+          "label": "reality"
+        }
+      ]
+    },
+    {
+      "id": "william-hamilton",
+      "type": "person",
+      "label": "'William Hamilton'",
+      "description": "'Scottish philosopher and logician from whom Bradley borrows the term \"Redintegration\" and whose doctrines on association and logic are critically discussed in the Principles of Logic.'",
+      "aliases": [
+        "Sir William Hamilton (1788–1856)",
+        "Sir W. Hamilton"
+      ],
+      "tags": [
+        "philosophy",
+        "logic",
+        "scottish-common-sense",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "principles-of-logic:william-hamilton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "redintegration",
+          "label": "Redintegration"
+        },
+        {
+          "type": "related",
+          "target": "association-of-ideas",
+          "label": "laws of association"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "J.S. Mill"
+        },
+        {
+          "type": "related",
+          "target": "idea",
+          "label": "ideas"
+        }
+      ]
+    }
+  ]
+}

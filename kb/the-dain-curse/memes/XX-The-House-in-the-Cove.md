@@ -1,0 +1,353 @@
+---
+description: "The Op investigates a house hidden in the cove"
+id: XX-The-House-in-the-Cove
+label: "XX: The House in the Cove"
+tags: ["chapter", "part-3"]
+type: "chapter"
+---
+
+###### XX
+
+[[the-house-in-the-cove|The House in the Cove]]
+
+[020-001] I got [[owen-fitzstephan|Fitzstephan]]’s car from the garage and drove [[gabrielle-leggett|Gabrielle]] and Mrs. Herman down to the house in the cove late the following morning. The girl was in low spirits. She made a poor job of smiling when spoken to, and had nothing to say on her own account. I thought she might be depressed by the thought of returning to the house she had shared with [[eric-collinson|Collinson]], but when we got there she went in with no [[appearance-and-reality|appearance]] of reluctance, and being there didn’t seem to increase her depression.
+
+[020-002] After luncheon—Mrs. Herman turned out to be a good cook—Gabrielle decided she wanted to go outdoors, so she and I walked over to the Mexican settlement to see Mary Nunez. The Mexican woman promised to come back to work the next day. She seemed fond of Gabrielle, but not of me.
+
+[020-003] We returned home by way of the shore, picking a path between scattered rocks. We walked slowly. The girl’s forehead was puckered between her eyebrows. Neither of us said anything until we were within a quarter of a mile of the house. Then Gabrielle sat down on the rounded top of a boulder that was warm in the sun.
+
+[020-004] “Can you remember what you told me last night?” she asked, running her words together in her hurry to get them out. She looked frightened.
+
+[020-005] “Yeah.”
+
+[020-006] “Tell me again,” she begged, moving over to one end of her boulder. “Sit down and tell me again—all of it.”
+
+[020-007] I did. According to me, it was as foolish to try to read character from the shape of ears as from the position of stars, tea-leaves, or spit in the sand; anybody who started hunting for [[evidence-and-proof|evidence]] of [[rationality-vs-madness|insanity]] in himself would certainly find plenty, because all but stupid minds were jumbled affairs; she was, as far as I could see, too much like her father to have much Dain blood in her, or to have been softened much by what she had, even if you wanted to believe that things like that could be handed down; there was nothing to show that her influence on people was any worse than anybody else’s, it being doubtful that many people had a very good influence on those of the opposite sex, and, anyway, she was too young, inexperienced, and self-centered to judge how she varied from the normal in this respect; I would show her in a few days that there was for her difficulties a much more tangible, logical, and jailable answer than any curse; and she wouldn’t have much trouble breaking away from [[morphine-addiction|morphine]], since she was a fairly light user of the stuff and had a temperament favorable to a cure.
+
+[020-008] I spent three-quarters of an hour working these ideas over for her, and didn’t make such a lousy job of it. The [[fear-and-control|fear]] went out of her eyes as I talked. Toward the last she smiled to herself. When I had finished she jumped up, laughing, working her fingers together.
+
+[020-009] “Thank you. Thank you,” she babbled. “Please don’t let me ever stop believing you. Make me believe you even if—No. It *is* true. Make me believe it always. Come on. Let’s walk some more.”
+
+[020-010] She almost ran me the rest of the way to the house, chattering all the way. Mickey Linehan was on the porch. I stopped there with him while the girl went in.
+
+[020-011] “Tch, tch, tch, as Mr. Rolly says.” He shook his grinning face at me. “I ought to tell her what happened to that poor girl up in Poisonville that got so she thought she could trust you.”
+
+[020-012] “Bring any news down from the village with you?” I asked.
+
+[020-013] “[[madison-andrews|Andrews]] has turned up. He was at the Jeffries’ place in San Mateo, where [[aaronia-haldorn|Aaronia Haldorn]]’s staying. She’s still there. Andrews was there from Tuesday afternoon till last night. Al was watching the place and saw him go in, but didn’t peg him till he came out. The Jeffries are away—San Diego. Dick’s tailing Andrews now. Al says the [[joseph-haldorn|Haldorn]] broad hasn’t been off the place. Rolly tells me Fink’s awake, but don’t know anything about the bomb. Fitzstephan’s still hanging on to life.”
+
+[020-014] “I think I’ll run over and talk to Fink this afternoon,” I said. “Stick around here. And—oh, yeah—you’ll have to act respectful to me when Mrs. Collinson’s around. It’s important that she keep on thinking I’m hot stuff.”
+
+[020-015] “Bring back some booze,” Mickey said. “I can’t do it sober.”
+
+[020-016] Fink was propped up in bed when I got to him, looking out under bandages. He insisted that he knew nothing about the bomb, that all he had come down for was to tell me that Harvey Whidden was his stepson, the missing village-blacksmith’s son by a former marriage.
+
+[020-017] “Well, what of it?” I asked.
+
+[020-018] “I don’t know what of it, except that he was, and I thought you’d want to know about it.”
+
+[020-019] “Why should I?”
+
+[020-020] “The papers said you said there was some kind of connection between what happened here and what happened up there, and that heavyset [[continental-op|detective]] said you said I knew more about it than I let on. And I don’t want any more trouble, so I thought I’d just come down and tell you, so you couldn’t say I hadn’t told all I knew.”
+
+[020-021] “Yeah? Then tell me what you know about Madison Andrews.”
+
+[020-022] “I don’t know anything about him. I don’t know him. He’s her guardian or something, ain’t he? I read that in the newspapers. But I don’t know him.”
+
+[020-023] “Aaronia Haldorn does.”
+
+[020-024] “Maybe she does, mister, but I don’t. I just worked for the Haldorns. It wasn’t anything to me but a job.”
+
+[020-025] “What was it to your wife?”
+
+[020-026] “The same thing, a job.”
+
+[020-027] “Where is she?”
+
+[020-028] “I don’t know.”
+
+[020-029] “Why’d she run away from the Temple?”
+
+[020-030] “I told you before, I don’t know. Didn’t want to get in trouble, I—Who wouldn’t of run away if they got a chance?”
+
+[020-031] The nurse who had been fluttering around became a nuisance by this time, so I left the hospital for the district attorney’s office in the courthouse. Vernon pushed aside a stack of papers with a the-world-can-wait gesture, and said, “Glad to see you; sit down,” nodding vigorously, showing me all his teeth.
+
+[020-032] I sat down and said:
+
+[020-033] “Been talking to Fink. I couldn’t get anything out of him, but he’s our meat. The bomb couldn’t have got in there except by him.”
+
+[020-034] Vernon frowned for a moment, then shook his chin at me, and snapped:
+
+[020-035] “What was his motive? And you were there. You say you were looking at him all the time he was in the room. You say you saw nothing.”
+
+[020-036] “What of that?” I asked. “He could outsmart me there. He was a magician’s mechanic. He’d know how to make a bomb, and how to put it down without my seeing it. That’s his game. We don’t know what Fitzstephan saw. They tell me he’ll pull through. Let’s hang on to Fink till he does.”
+
+[020-037] Vernon clicked his teeth together and said: “Very well, we’ll hold him.”
+
+[020-038] I went down the corridor to the sheriff’s office. Feeney wasn’t in, but his chief deputy—a lanky, pockmarked man named Sweet—said he knew from the way Feeney had spoken of me that he—Feeney—would want me to be given all the help I asked for.
+
+[020-039] “That’s fine,” I said. “What I’m interested in now is picking up a couple of bottles of—well, gin, Scotch—whatever happens to be best in this part of the country.”
+
+[020-040] Sweet scratched his Adam’s apple and said:
+
+[020-041] “I wouldn’t know about that. Maybe the elevator boy. I guess his gin would be safest. Say, Dick Cotton’s crying his head off wanting to see you. Want to talk to him?”
+
+[020-042] “Yeah, though I don’t know what for.”
+
+[020-043] “Well, come back in a couple of minutes.”
+
+[020-044] I went out and rang for the elevator. The boy—he had an age-bent back and a long yellow-gray mustache—was alone in it.
+
+[020-045] “Sweet said maybe you’d know where I could get a gallon of the white,” I said.
+
+[020-046] “He’s crazy,” the boy grumbled, and then, when I kept quiet: “You’ll be going out this way?”
+
+[020-047] “Yeah, in a little while.”
+
+[020-048] He closed the door. I went back to Sweet. He took me down an enclosed walk that connected the courthouse with the prison behind, and left me alone with Cotton in a small boilerplate cell. Two days in jail hadn’t done the marshal of Quesada any good. He was gray-faced and jumpy, and the dimple in his chin kept squirming as he talked. He hadn’t anything to tell me except that he was innocent.
+
+[020-049] All I could think of to say to him was: “Maybe, but you brought it on yourself. What evidence there is is against you. I don’t know whether it’s enough to convict you or not—depends on your lawyer.”
+
+[020-050] “What did he want?” Sweet asked when I had gone back to him.
+
+[020-051] “To tell me that he’s innocent.”
+
+[020-052] The deputy scratched his Adam’s apple again and asked:
+
+[020-053] “It’s supposed to make any difference to you?”
+
+[020-054] “Yeah, it’s been keeping me awake at night. See you later.”
+
+[020-055] I went out to the elevator. The boy pushed a newspaper-wrapped gallon jug at me and said: “Ten bucks.” I paid him, stowed the jug in Fitzstephan’s car, found the local telephone office, and put in a call for Vic Dallas’s drugstore in [[san-francisco|San Francisco]]’s Mission district.
+
+[020-056] “I want,” I told Vic, “fifty grains of M. and eight of those calomel-ipecac-atropine-strychnine-cascara shots. I’ll have somebody from [[continental-detective-agency|the agency]] pick up the package tonight or in the morning. Right?”
+
+[020-057] “If you say so, but if you kill anybody with it don’t tell them where you got the stuff.”
+
+[020-058] “Yeah,” I said; “they’ll die just because I haven’t got a lousy pill-roller’s diploma.”
+
+[020-059] I put in another San Francisco call, for the agency, talking to the Old Man.
+
+[020-060] “Can you spare me another op?” I asked.
+
+[020-061] “MacMan is available, or he can relieve Drake. Whichever you prefer.”
+
+[020-062] “MacMan’ll do. Have him stop at Dallas’s drugstore for a package on the way down. He knows where it is.”
+
+[020-063] The Old Man said he had no new reports on Aaronia Haldorn and Andrews.
+
+[020-064] I drove back to the house in the cove. We had company. Three strange cars were standing empty in the driveway, and half a dozen newshounds were sitting and standing around Mickey on the porch. They turned their questions on me.
+
+[020-065] “Mrs. Collinson’s here for a rest,” I said. “No interviews, no posing for pictures. Let her alone. If anything breaks here I’ll see that you get it, those of you who lay off her. The only thing I can tell you now is that Fink’s being held for [[the-pineapple|the bombing]].”
+
+[020-066] “What did Andrews come down for?” Jack Santos asked.
+
+[020-067] That wasn’t a surprise to me: I had expected him to turn up now that he had come out of seclusion.
+
+[020-068] “Ask him,” I suggested. “He’s administering Mrs. Collinson’s estate. You can’t make a mystery out of his coming down to see her.”
+
+[020-069] “Is it true that they’re on bad terms?”
+
+[020-070] “No.”
+
+[020-071] “Then why didn’t he show up before this—yesterday, or the day before?”
+
+[020-072] “Ask him.”
+
+[020-073] “Is it true that he’s up to his tonsils in debt, or was before the [[edgar-leggett|Leggett]] estate got into his hands?”
+
+[020-074] “Ask him.”
+
+[020-075] Santos smiled with thinned lips and said:
+
+[020-076] “We don’t have to: we asked some of his creditors. Is there anything to the report that Mrs. Collinson and her husband had quarreled over her being too friendly with Whidden, a couple of days before her husband was killed?”
+
+[020-077] “Anything but the truth,” I said. “Tough. You could do a lot with a story like that.”
+
+[020-078] “Maybe we will,” Santos said. “Is it true that she and her husband’s [[family-as-destiny|family]] are on the outs, that old Hubert has said he’s willing to spend all he’s got to see that she pays for any part she had in his son’s death?”
+
+[020-079] I didn’t know. I said:
+
+[020-080] “Don’t be a chump. We’re working for Hubert now, taking care of her.”
+
+[020-081] “Is it true that Mrs. Haldorn and Tom Fink were released because they had threatened to tell all they knew if they were held for trial?”
+
+[020-082] “Now you’re kidding me, Jack,” I said. “Is Andrews still here?”
+
+[020-083] “Yes.”
+
+[020-084] I went indoors and called Mickey in, asking him: “Seen Dick?”
+
+[020-085] “He drove past a couple of minutes after Andrews came.”
+
+[020-086] “Sneak away and find him. Tell him not to let the newspaper gang make him, even if he has to risk losing Andrews for a while. They’d go crazy all over their front pages if they learned we were shadowing him, and I don’t want them to go that crazy.”
+
+[020-087] Mrs. Herman was coming down the stairs. I asked her where Andrews was.
+
+[020-088] “Up in the front room.”
+
+[020-089] I went up there. Gabrielle, in a low-cut dark silk gown, was sitting stiff and straight on the edge of a leather rocker. Her face was white and sullen. She was looking at a handkerchief stretched between her hands. She looked up at me as if glad I had come in. Andrews stood with his back to the fireplace. His white hair, eyebrows, and mustache stood out every which way from his bony pink face. He shifted his scowl from the girl to me, and didn’t seem glad I had come in.
+
+[020-090] I said, “Hullo,” and found a table-corner to prop myself on.
+
+[020-091] He said: “I’ve come to take Mrs. Collinson back to San Francisco.”
+
+[020-092] She didn’t say anything. I said:
+
+[020-093] “Not to San Mateo?”
+
+[020-094] “What do you mean by that?” The white tangles of his brows came down to hide all but the bottom halves of his blue eyes.
+
+[020-095] “God knows. Maybe my mind’s been corrupted by the questions the newspapers have been asking me.”
+
+[020-096] He didn’t quite wince. He said, slowly, deliberately:
+
+[020-097] “Mrs. Haldorn sent for me professionally. I went to see her to explain how impossible it would be, in the circumstances, for me to advise or represent her.”
+
+[020-098] “That’s all right with me,” I said. “And if it took you thirty hours to explain that to her, it’s nobody’s business.”
+
+[020-099] “Precisely.”
+
+[020-100] “But—I’d be careful how I told the reporters waiting downstairs that. You know how suspicious they are—for no reason at all.”
+
+[020-101] He turned to Gabrielle again, speaking quietly, but with some impatience:
+
+[020-102] “Well, Gabrielle, are you going with me?”
+
+[020-103] “Should I?” she asked me.
+
+[020-104] “Not unless you especially want to.”
+
+[020-105] “I—I don’t.”
+
+[020-106] “Then that’s settled,” I said.
+
+[020-107] Andrews nodded and went forward to take her hand, saying:
+
+[020-108] “I’m sorry, but I must get back to the city now, my dear. You should have a phone put in, so you can reach me in case you need to.”
+
+[020-109] He declined her invitation to stay to dinner, said, “Good evening,” not unpleasantly, to me, and went out. Through a window I could see him presently getting into his car, giving as little attention as possible to the newspaper men gathered around him.
+
+[020-110] Gabrielle was frowning at me when I turned away from the window.
+
+[020-111] “What did you mean by what you said about San Mateo?” she asked.
+
+[020-112] “How friendly are he and Aaronia Haldorn?” I asked.
+
+[020-113] “I haven’t any idea. Why? Why did you talk to him as you did?”
+
+[020-114] “Detective business. For one thing, there’s a rumor that getting control of the estate may have helped him keep his own head above water. Maybe there’s nothing in it. But it won’t hurt to give him a little scare, so he’ll get busy straightening things out—if he has done any juggling—between now and cleanup day. No use of you losing money along with the rest of your troubles.”
+
+[020-115] “Then he—?” she began.
+
+[020-116] “He’s got a week—several days at least—to unjuggle in. That ought to be enough.”
+
+[020-117] “But—”
+
+[020-118] Mrs. Herman, calling us to dinner, ended the conversation.
+
+[020-119] Gabrielle ate very little. She and I had to do most of the talking until I got Mickey started telling about a job he had been on up in Eureka, where he posed as a foreigner who knew no English. Since English was the only language he did know, and Eureka normally held at least one specimen of every nationality there is, he’d had a hell of a time keeping people from finding out just what he was supposed to be. He made a long and laughable story of it. Maybe some of it was the truth: he always got a lot of fun out of acting like the other half of a half-wit.
+
+[020-120] After the meal he and I strolled around outside while the spring night darkened the grounds.
+
+[020-121] “MacMan will be down in the morning,” I told him. “You and he will have to do the watchdog. Divide it between you anyway you want, but one will have to be on the job all the time.”
+
+[020-122] “Don’t give yourself any of the worst of it,” he complained. “What’s this supposed to be down here—a trap?”
+
+[020-123] “Maybe.”
+
+[020-124] “Maybe. Uh-huh. You don’t know what the hell you’re doing. You’re stalling around waiting for the horseshoe in your pocket to work.”
+
+[020-125] “The outcome of successful planning always looks like luck to saps. Did Dick have any news?”
+
+[020-126] “No. He tailed Andrews straight here from his house.”
+
+[020-127] The front door opened, throwing yellow light across the porch. Gabrielle, a dark cape on her shoulders, came into the yellow light, shut the door, and came down the gravel walk.
+
+[020-128] “Take a nap now if you want,” I told Mickey. “I’ll call you when I turn in. You’ll have to stand guard till morning.”
+
+[020-129] “You’re a darb.” He laughed in the dark. “By God, you’re a darb.”
+
+[020-130] “There’s a gallon of gin in the car.”
+
+[020-131] “Huh? Why didn’t you say so instead of wasting my time just talking?” The lawn grass swished against his shoes as he walked away.
+
+[020-132] I moved towards the gravel walk, meeting the girl.
+
+[020-133] “Isn’t it a lovely night?” she said.
+
+[020-134] “Yeah. But you’re not supposed to go roaming around alone in the dark, even if your troubles are practically over.”
+
+[020-135] “I didn’t intend to,” she said, taking my arm. “And what does practically over mean?”
+
+[020-136] “That there are a few details to be taken care of—the morphine, for instance.”
+
+[020-137] She shivered and said:
+
+[020-138] “I’ve only enough left for tonight. You promised to—”
+
+[020-139] “Fifty grains coming in the morning.”
+
+[020-140] She kept quiet, as if waiting for me to say something else. I didn’t say anything else. Her fingers wriggled on my sleeve.
+
+[020-141] “You said it wouldn’t be hard to cure me.” She spoke half-questioningly, as if expecting me to deny having said anything of the sort.
+
+[020-142] “It wouldn’t.”
+
+[020-143] “You said, perhaps …” letting the words fade off.
+
+[020-144] “We’d do it while we were here?”
+
+[020-145] “Yes.”
+
+[020-146] “Want to?” I asked. “It’s no go if you don’t.”
+
+[020-147] “Do I want to?” She stood still in the road, facing me. “I’d give—” A sob ended that sentence. Her voice came again, high-pitched, thin: “Are you being honest with me? Are you? Is what you’ve told me—all you told me last night and this afternoon—as true as you made it sound? Do I believe in you because you’re sincere? Or because you’ve learned how—as a trick of your business—to make people believe in you?”
+
+[020-148] She might have been crazy, but she wasn’t so stupid. I gave her the answer that seemed best at the time:
+
+[020-149] “Your belief in me is built on mine in you. If mine’s unjustified, so is yours. So let me ask you a question first: were you lying when you said, ‘I don’t want to be evil’?”
+
+[020-150] “Oh, I don’t. I don’t.”
+
+[020-151] “Well, then,” I said with an air of finality, as if that settled it. “Now if you want to get off the junk, off we’ll get you.”
+
+[020-152] “How—how long will it take?”
+
+[020-153] “Say a week, to be safe. Maybe less.”
+
+[020-154] “Do you mean that? No longer than that?”
+
+[020-155] “That’s all for the part that counts. You’ll have to take care of yourself for some time after, till your system’s hitting on all eight again, but you’ll be off the junk.”
+
+[020-156] “Will I suffer—much?”
+
+[020-157] “A couple of bad days; but they won’t be as bad as you’ll think they are, and your father’s toughness will carry you through them.”
+
+[020-158] “If,” she said slowly, “I should find out in the middle of it that I can’t go through with it, can I—?”
+
+[020-159] “There’ll be nothing you can do about it,” I promised cheerfully. “You’ll stay in till you come out the other end.”
+
+[020-160] She shivered again and asked:
+
+[020-161] “When shall we start?”
+
+[020-162] “Day after tomorrow. Take your usual snort tomorrow, but don’t try to stock up. And don’t worry about it. It’ll be tougher on me than on you: I’ll have to put up with you.”
+
+[020-163] “And you’ll make allowances—you’ll understand—if I’m not always nice while I’m going through it? Even if I’m nasty?”
+
+[020-164] “I don’t know.” I didn’t want to encourage her to cut up on me. “I don’t think so much of niceness that can be turned into nastiness by a little grief.”
+
+[020-165] “Oh, but—” She stopped, wrinkled her forehead, said: “Can’t we send Mrs. Herman away? I don’t want to—I don’t want her looking at me.”
+
+[020-166] “I’ll get rid of her in the morning.”
+
+[020-167] “And if I’m—you won’t let anybody else see me—if I’m not—if I’m too terrible?”
+
+[020-168] “No,” I promised. “But look here: you’re preparing to put on a show for me. Stop thinking about that end of it. You’re going to behave. I don’t want a lot of monkey-business out of you.”
+
+[020-169] She laughed suddenly, asking:
+
+[020-170] “Will you beat me if I’m bad?”
+
+[020-171] I said she might still be young enough for a spanking to do her good.

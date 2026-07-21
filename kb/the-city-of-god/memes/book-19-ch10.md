@@ -1,0 +1,11 @@
+---
+description: "The reward prepared for the saints after they have endured the trial of this life."
+id: book-19-ch10
+label: "Book 19 — Ch. 10: X"
+tags: ["chapter"]
+type: chapter
+---
+
+[579-001]The reward prepared for the saints after they have endured the trial of this life.
+
+[579-002]But not even the saints and faithful worshippers of the one true and most high God are safe from the manifold temptations and deceits of the demons. For in this abode of weakness, and in these wicked days, this state of anxiety has also its use, stimulating us to seek with keener longing for that security where peace is complete and unassailable. There we shall enjoy the gifts of nature, that is to say, all that God the Creator of all natures has bestowed upon ours—gifts not only good, but eternal—not only of the spirit, healed now by wisdom, but also of the body renewed by the resurrection. There the virtues shall no longer be struggling against any vice or evil, but shall enjoy the reward of victory, the eternal peace which no adversary shall disturb. This is the final blessedness, this the ultimate consummation, the unending end. Here, indeed, we are said to be blessed when we have such peace as can be enjoyed in a good life; but such blessedness is mere misery compared to that final felicity. When we mortals possess such peace as this mortal life can afford, virtue, if we are living rightly, makes a right use of the advantages of this peaceful condition; and when we have it not, virtue makes a good use even of the evils a man suffers. But this is true virtue, when it refers all the advantages it makes a good use of, and all that it does in making good use of good and evil things, and itself also, to that end in which we shall enjoy the best and greatest peace possible.

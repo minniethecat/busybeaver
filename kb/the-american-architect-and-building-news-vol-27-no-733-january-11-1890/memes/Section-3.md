@@ -1,0 +1,63 @@
+---
+description: 'Civil architecture, in the proper sense of the term, originated with the Greeks and was extended in a surprising degree among the Romans. All…'
+id: Section-3
+label: "Section 3: Civil Architecture in Antiquity"
+tags: ["chapter", "1890s", "architecture", "building-news"]
+type: chapter
+---
+
+## Section 3
+
+[003-001] Civil architecture, in the proper sense of the term, originated with the Greeks and was extended in a surprising degree among the Romans. All the other peoples of antiquity devoted themselves to the rearing of religious and sepulchral monuments, and to the construction of palaces for their sovereigns. Their political organization did not lend itself to development in other directions. So long as a people is not considered as an individual there can be no thought of erecting for its comfort or education structures of any considerable importance; so long as it has no existence as a civil body there can be no call for the building of edifices wherein to discuss its own affairs or the affairs of State. Nevertheless, aside from temples and palaces, there are certain works of public utility which are forced upon all civilizations, and among all organized peoples a domestic architecture exists which answers to their needs and which we cannot pass over in silence.
+
+[003-002] The sacred books of the Hindoos give us the plans on which their cities were built. There were forty different kinds of cities, distinguished one from the other by their extent and form. The streets crossed at right angles. The centre of the city was reserved for sacred uses and was inhabited by the Brahmins; around them dwelt the people, and the angles were occupied by the exchanges, markets, colleges and other public structures. The city was always walled, with a gate on each of the four sides and one at each corner.
+
+[003-003] Private dwellings varied in height according to the rank of the owners.
+
+[003-004] Those of the inferior classes could have only one story above the ground-floor, and in most cases they were limited to the ground-floor itself. The door was never placed in the centre of the façade. Its position, as well as its height and breadth, was fixed by rule; the same was true of the windows. The streets were supplied with running water, and adorned with avenues of trees; they were bordered by rich shops and houses set close together, with no intervening spaces. The palaces, which were composed of separate buildings, approached by porches, were usually erected around small courts, and these courts were almost always planted with trees. The roofs were flat, and the narrow, rude staircases were made in the thickness of the walls. The Hindoos also constructed huge reservoirs, and reared columns and square triumphal arches in honor of their heroic victors; they are also known to have built bridges, the piles of which, formed of enormous blocks, were connected by stones of a single piece.
+
+[003-005] Passing into China we encounter a civilization whose antiquity rivals that of India. However, there are no very ancient remains there. But there is documentary evidence that the Chinese, several centuries before the Christian era, built from the same designs that they use to-day.
+
+[003-006] Architecture being the expression of the needs, instincts, character and traditions of a people, and the Chinese having in no way modified their manner of living or their traditions, we can easily understand why their architecture has undergone no modifications.
+
+[003-007] The Great Wall, running along the north of China proper, with a length of fifteen hundred to eighteen hundred miles, is the only Chinese work that can boast of its antiquity. It is attributed to the emperor Tsin Hoang Ti [Che Hoang-te], who reigned in the third century before our era, and who is said to have employed in its construction five or six million men. The foundations are of hewn stone, the rest is of brick faced with smoothly-joined stones. The wall is battlemented, flanked with towers, and is provided at certain intervals with fortified gates.
+
+[003-008] It is broad enough for six horsemen to ride abreast on it.
+
+[003-009] Among the great works of the Chinese, mention is also made of the bridge of Loyau at Sueno chou Fou; it is built over the point of an arm of the sea and comprises two hundred and fifty piles made of material of enormous bulk. The roadway is formed with single blocks of granite, and is guarded on each side by a balustrade.
+
+[003-010] There are other bridges raised on vaulted arches. Others, still, are decorated with triumphal arches, such as that of the Province of Kiang-Nan; and again there are others built of wood, like the bridge of King-Chou-Fou, with the flooring supported by iron chains fastened to rocks.
+
+[003-011] The cities are generally laid out on a square plan with the angles directed as far as possible toward the four cardinal points, and the predominance of a single architectural type imparts a certain monotony to the streets. The enclosing walls are flanked with towers and their gates are surmounted by lofty structures which include an arsenal and a guard-room. Besides the temples and commemorative monuments erected on the same plan as the temples, at the entrance to certain streets and before certain edifices monuments in the form of gates are to be seen.
+
+[003-012] These structures, called _pai léou_, are nothing else than triumphal arches raised to the memory of emperors, generals, mandarins and all those who have rendered important services to the country. The bases of these arches are of stone, the rest is made of wood; they have a single bay, or one principal bay with two smaller ones, and the top is in the form of a Chinese roof.
+
+[003-013] The palaces present a succession of spacious courts surrounded by buildings and are entered through gates in the form of triumphal arches.
+
+[003-014] Each separate portion of the structure is destined to a special use. The women and children are usually relegated to the rear court.
+
+[003-015] The houses have one or two stories; their dimensions are regulated by law, according to the rank and condition of the owner, and, as in all Oriental dwellings, there are but few openings on the street.
+
+[003-016] While the Hindoos built with enduring materials, the Chinese generally used brick and wood. The explanation of this fact is to be sought not so much in their fear of the earthquakes with which they are constantly threatened as in their narrow-mindedness and lack of ambition; they saw no reason why an edifice should outlast the generation for which it was constructed.
+
+[003-017] Judging from the ruins of Persepolis, the Medes and Persians must have attained to a high degree of civilization in the time of Cyrus, but we have no authentic records concerning their civil architecture. Their art is derived from the Babylonians and Assyrians, from whom they must have largely borrowed their customs.
+
+[003-018] The Assyrian palaces consisted of three wholly distinct groups of buildings, three divisions which we find exactly reproduced to-day in the seigneurial and princely dwellings of Persia, India and Turkey.
+
+[003-019] First, there was the seraglio, or the palace properly so-called, which comprised the reception-halls and the men's apartments, and which is known now throughout the East under the name of _selamlik_; then came the harem containing the private rooms where the master saw his wives and children with their guards of eunuchs and their throngs of attendants; and lastly, there was the _khan_, a cluster of dependent structures including servants' quarters and out-buildings. In princely palaces each of these divisions included several courts, and the whole was disposed around a principal court, the court of honor. The entire assemblage of edifices was nothing more than one vast ground-floor. "The design followed in the arrangement of these composite dwellings," it has been said, is almost naive in its simplicity: the plan is merely divided into as many right parallelograms as there are services to be provided for, and these rectangles are so disposed as to touch along one side or at one of the angles, but they never interfere with or command one another; they are contiguous or adjacent but always independent. Thus each of the three divisions (seraglio, harem and khan) presents a rectangular figure, and each borders one side of the principal court, which is neutral ground,--the common centre around which all are grouped. The same principle of arrangement is applied to the subdivisions of the great quarters; the latter are composed of smaller rectangles distributed about an uncovered space, on which each apartment opens, with no direct communication between adjoining rooms through partition-walls. In this way all the sections of an edifice were clustered together and at the same time isolated; and each of these sections had its special use and its pre-assigned occupants.[2]
+
+[003-020] Drains were contrived under the palaces, and certain square rooms were covered with dome-shaped vaults.
+
+[003-021] The houses, built of brick, were of two different types; some were covered with hemispherical or parabolical calottes, others had flat roofs with a tower in the fashion of a belvedere. They were generally quite low, except in large cities like Babylon, where they were sometimes three or four stories high.
+
+[003-022] The towns were regularly laid out; the streets ran at right-angles to each other; quays were built along the streams, and bridges established communication between their banks. The large cities were protected by a fortified wall. The gates were arched and flanked each by two towers which were separated by only the width of the entrance. Some of the gates were ornamented, others were plain, but each one was in itself an edifice of quite complicated structure.
+
+[003-023] The city gate played then, as it still does all through the East, an important rôle in the life of the urban populations. It was an agora for the Greeks, a forum for the Romans. The people gathered there to chat, and learn the news, and there the old men acted as arbitrators in case of quarrels. In the same way it was at the palace-gates, which were always constructed on the model of the city-gates, that the court attendants assembled, and that petitioners stood in waiting.
+
+[003-024] The Phoenician cities also were surrounded by fortified walls, and dwellings were burrowed into the very body of the ramparts. In order not to extend the limits of the city too much, the houses in the central portions were built very high. In the chief quarters of Carthage some of them had as many as six stories; they were covered with flat roofs, and, as is the case of all warm countries, the streets were narrow. The residences of the rich merchants were of a marked character and were easily distinguished; they were all provided with cisterns; they had inner courts adorned with porches, and with open galleries along the upper stories. The streets, squares and courts were paved with broad flags, probably for the purpose of saving every drop of water that fell.
+
+[003-025] There were also public cisterns, and ports for shipping. As their country abounded in stone that could be easily cut, the Phoenicians used no artificial building material: they are not known to have built of brick before the Roman period.
+
+[003-026] In Judea, while enormous, rough blocks were used in huge structures, the houses were made of unburned brick, with ceilings of palm or sycamore beams covered with a layer of hard earth. In order that the variations in temperature should not be felt in the interior, the outer walls and the roof had to be quite thick. All the dwellings were covered with flat roofs surrounded by a parapet, and here people passed the night in certain seasons. Most houses had only a ground-floor; but the residences of the wealthy sometimes boasted of an upper story, and certain windows, doubtless those lighting the women's apartments, were provided with lattices similar to the _moucharabiehs_ of the Arab houses of the present day.
+
+[003-027] The villages were generally built on the hill-tops, and the more important of them were surrounded with fortifications. Jerusalem was the seat of royalty. It was there that David reared his palace, to which Solomon added numerous edifices that occupied thirteen years in construction. Other great works were undertaken by the Hebrews, with the view of carrying to a distance the precious water of the springs; and they were compelled to supplement their scant supply of water by digging wells and making cisterns.

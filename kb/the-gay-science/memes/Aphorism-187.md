@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-187
+label: "Aphorism 187"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 187.
+
+### 187.
+
+
+*Offensiveness in Expression.*—This artist offends
+
+me by the way in which he expresses his ideas,
+
+his very excellent ideas: so diffusely and forcibly,
+
+and with such gross rhetorical artifices, as if
+
+he were speaking to the mob. We feel always as
+
+if "in bad company" when devoting some time
+
+to his art.

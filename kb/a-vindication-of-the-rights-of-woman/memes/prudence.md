@@ -1,49 +1,40 @@
 ---
+description: "Wollstonecraft critiques 'worldly prudence' as a degraded substitute for genuine virtue — a calculating self-interest that women are taught to cultivate in lieu of moral reasoning, reducing ethics to the management of appearances."
 id: prudence
-label: Prudence
+label: "Prudence"
+tags: ["concept"]
 type: concept
-description: 'Wollstonecraft''s distinction between genuine prudence as rational foresight and the degraded "worldly prudence" taught to women — a calculating selfishness that substitutes caution for virtue'
-tags: ["critique", "virtue", "selfishness", "worldly-wisdom", "femininity"]
 ---
 
-**Prudence** is a term Wollstonecraft handles with particular care, because it names a genuine virtue that has been systematically degraded in its application to women. True prudence is rational foresight — the capacity to govern conduct by reflection on consequences. But the prudence taught to women is something else: "the cautious prudence of a little soul" (002-063), "selfish prudence" (005-139), a "timid prudence" (013-077) that is not virtue but its simulation — the calculation of self-interest dressed in the language of moral caution.
+# Prudence
 
 ## Definition
 
-Wollstonecraft distinguishes two senses of prudence. The first is the Enlightenment virtue: the exercise of reason in the government of conduct. This prudence is not sex-specific but universal, and it requires the cultivation of understanding. The second is "worldly prudence" (004-058): a strategic caution taught to women as a substitute for both knowledge and virtue. This degraded prudence "is but the cautious craft of ignorant and selfish minds" (005-143), a defensive cunning that develops when genuine moral education is withheld.
+**Prudence** in Wollstonecraft's moral vocabulary carries a distinctly pejorative charge. She distinguishes between genuine prudence — the rational management of one's affairs in light of moral principles — and "worldly prudence," which is merely the calculation of advantage within a corrupt social order. The latter is what women are taught to cultivate, and Wollstonecraft regards it as a vice dressed in the language of [[virtue]].
 
-The distinction is sharpest in her choice of adjectives. "Cautious prudence" (002-063), "selfish prudence" (005-139), "timid prudence" (013-077), "cautious family prudence" (005-092) — each modifier exposes a different failure. Cautious prudence is fear masquerading as wisdom. Selfish prudence is calculation of narrow interest rather than moral reasoning. Timid prudence is the paralysis of those who have been taught to avoid risk rather than to pursue virtue.
+The key to Wollstonecraft's critique is that "worldly prudence" teaches women to navigate a system of oppression rather than to challenge it. A prudent woman, in the conventional sense, is one who has learned to manage her [[reputation]], please those with power over her, and avoid the appearance of transgression — all without ever developing a moral self.
 
-## Wollstonecraft's Argument
+## In Context
 
-Wollstonecraft's core argument is that the prudence women are taught is a mechanism of control, not of moral development. "Prudence, early in life, is but the cautious craft of ignorant and selfish minds" (005-143). Girls are taught prudence before they are taught to think — the effect is to produce adults who know how to protect their interests but not how to examine them. This is for Wollstonecraft a perversion of moral education, which should develop the capacity to judge rather than the habit of calculating.
+### Prudence as Moral Substitute
 
-She links this degraded prudence to the broader system of female subordination. Women are denied "the cultivation of the understanding" (004-057), and what grows in its absence is not virtue but a cunning substitute. "Good sense joined with worldly prudence" (004-058) may produce women who are socially adept, but it does not produce women who are morally developed. The phrase "worldly prudence" captures the problem precisely: it is prudence directed at worldly success — marriage, reputation, safety — rather than at moral growth.
+Wollstonecraft observes that women are praised for their prudence in a way that men are not — because for women, prudence *is* their entire morality. A woman who is "prudent" has satisfied the demands of social expectation, regardless of whether she possesses genuine [[virtue]]. This reduction of ethics to prudence is one of the most damaging consequences of women's exclusion from moral [[education]].
 
-Her most radical claim is that this degraded prudence is structurally produced, not individually chosen. Women "suffer the selfish prudence of age to chill the ardour of youth" (004-096) because the social order punishes ardour and rewards caution. The "cautious prudence that is ever on the watch for consequences" (012-018) is the rational response of a class that has been denied the power to shape its circumstances directly. Wollstonecraft does not blame women for being prudent; she blames the system that makes prudence of this kind their only available strategy.
+The critique extends to the way prudence is taught: not as a rational skill but as a set of rules to be followed without understanding. Women learn to be prudent as they learn to be [[modesty|modest]] — by conforming to external expectations rather than by developing internal standards of judgment.
 
-### Contrast with Contemporary Views
+### Prudence and Cunning
 
-The tradition of female conduct literature — from *The Whole Duty of Woman* onward — treated prudence as the cardinal feminine virtue. A prudent woman guarded her reputation, managed her household, and avoided notice. Wollstonecraft does not reject prudence; she redefines it. True prudence requires understanding, not merely caution. The conduct-book prudence is, in her analysis, "but the cautious craft of ignorant minds" — not a virtue at all but a survival strategy for the intellectually disenfranchised.
+Wollstonecraft draws a connection between prudence and the [[cunning]] she attributes to women under oppression. When the only power available is indirect — the power to manipulate, to please, to manage appearances — prudence becomes indistinguishable from cunning. Both are survival strategies in a system that denies women direct access to power and [[reason]].
+
+The remedy, as always in Wollstonecraft's argument, is [[education]]: teach women to reason, give them genuine moral principles, and they will have no need of the degraded prudence that passes for virtue in the drawing room.
 
 ## Key Passages
 
-> Prudence, early in life, is but the cautious craft of ignorant and selfish minds. (005-143)
-
-> The cautious prudence of a little soul that cannot extend its views beyond the present moment. (002-063)
-
-> Good sense joined with worldly prudence, that often render them more useful partners, though not better mothers. (004-058)
-
-## Related Concepts
-
-- [[Virtue]] — the genuine moral quality that degraded prudence counterfeits
-- [[Cunning]] — the skill that develops when prudence is taught without understanding
-- [[Reason]] — the faculty whose absence forces the substitution of prudence for moral judgment
-- [[Modesty]] — Wollstonecraft insists this should rest "not on worldly prudence" (007-033)
-- [[Education]] — the cultivation of understanding that transforms prudence from craft into virtue
+> "Worldly prudence… is ever the offspring of ignorance and cunning." (004-045)
 
 ## See Also
 
-- [[John Gregory]] — whose *Legacy* to his daughters epitomises the worldly-prudence tradition
-- [[Reputation]] — the social asset that women are taught prudence to protect
-- [[Obedience]] — the "blind obedience" (005-124) that elevated prudence slides into
+- [[cunning]] — prudence degraded into manipulation
+- [[wisdom]] — what prudence counterfeits
+- [[reputation]] — the object that prudence seeks to protect
+- [[virtue]] — the genuine moral quality that prudence can never substitute for

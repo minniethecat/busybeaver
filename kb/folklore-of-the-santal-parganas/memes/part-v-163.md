@@ -1,0 +1,9 @@
+---
+description: "A Santal folk tale: The Origin of Tobacco"
+id: part-v-163
+label: "CLXIII. The Origin of Tobacco"
+tags: ["folklore", "santal", "legend-custom"]
+type: chapter
+---
+
+[163-001]This is the way that the chewing tobacco began. There was once a Brahmin girl whose relations did not give her in marriage and she died unmarried. After the body had been burned and the people had gone home, Chandu thought "Alas, I sent this woman into the world and she found favour with no one; well, I will confer a gift on her which will make men ask for her every day," So he sowed tobacco at the burning place and it grew up and flourished. And there was a boy of the cowherd caste who used to graze his cattle about that place; he saw his goats greedily eating the tobacco leaf and he wondered what the leaf was and tasted a bit but finding it bitter he spat it out. Some time after however he had tooth-ache and having tried many remedies in vain he bethought himself of the bitter tobacco and he chewed some of that and kept it in his mouth and found that it cured the tooth-ache; from that time he formed the habit of chewing it. One day he saw some burnt bones or lime and he picked up the powder and rubbed it between his fingers to see what it was and after doing so he ate some tobacco and found that the taste was improved, so from that time he always chewed lime with the tobacco. He recommended the leaf to other men who had tooth-ache and they formed the habit of chewing it too and called it tobacco; and then men who had no tooth-ache took to it; and acquired a craving for it. This is the way tobacco chewing began, as our forefathers say.

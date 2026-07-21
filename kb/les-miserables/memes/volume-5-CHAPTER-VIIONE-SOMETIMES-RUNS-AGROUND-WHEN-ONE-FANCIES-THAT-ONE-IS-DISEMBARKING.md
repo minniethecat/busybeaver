@@ -1,0 +1,37 @@
+---
+description: "He set out on his way once more."
+id: volume-5-CHAPTER-VIIONE-SOMETIMES-RUNS-AGROUND-WHEN-ONE-FANCIES-THAT-ONE-IS-DISEMBARKING
+label: "CHAPTER VII—ONE SOMETIMES RUNS AGROUND WHEN ONE FANCIES THAT ONE IS DISEMBARKING"
+tags: ["chapter"]
+type: "chapter"
+---
+
+[335-001]He set out on his way once more.
+
+[335-002]However, although he had not left his life in the fontis, he seemed to have left his strength behind him there. That supreme effort had exhausted him. His lassitude was now such that he was obliged to pause for breath every three or four steps, and lean against the wall. Once he was forced to seat himself on the banquette in order to alter [[marius-pontmercy|Marius]]’ position, and he thought that he should have to remain there. But if his vigor was dead, his energy was not. He rose again.
+
+[335-003]He walked on desperately, almost fast, proceeded thus for a hundred paces, almost without drawing breath, and suddenly came in contact with the wall. He had reached an elbow of [[the-sewers-of-paris|the sewer]], and, arriving at the turn with head bent down, he had struck the wall. He raised his eyes, and at the extremity of the vault, far, very far away in front of him, he perceived a light. This time it was not that terrible light; it was good, white light. It was daylight. [[jean-valjean|Jean Valjean]] saw the outlet.
+
+[335-004]A damned soul, who, in the midst of the furnace, should suddenly perceive the outlet of Gehenna, would experience what Jean Valjean felt. It would fly wildly with the stumps of its burned wings towards that radiant portal. Jean Valjean was no longer conscious of fatigue, he no longer felt Marius’ weight, he found his legs once more of steel, he ran rather than walked. As he approached, the outlet became more and more distinctly defined. It was a pointed arch, lower than the vault, which gradually narrowed, and narrower than the gallery, which closed in as the vault grew lower. The tunnel ended like the interior of a funnel; a faulty construction, imitated from the wickets of penitentiaries, logical in a prison, illogical in a sewer, and which has since been corrected.
+
+[335-005]Jean Valjean reached the outlet.
+
+[335-006]There he halted.
+
+[335-007]It certainly was the outlet, but he could not get out.
+
+[335-008]The arch was closed by a heavy grating, and the grating, which, to all appearance, rarely swung on its rusty hinges, was clamped to its stone jamb by a thick lock, which, red with rust, seemed like an enormous brick. The keyhole could be seen, and the robust latch, deeply sunk in the iron staple. The door was plainly double-locked. It was one of those prison locks which old [[paris|Paris]] was so fond of lavishing.
+
+[335-009]Beyond the grating was the open air, the river, the daylight, the shore, very narrow but sufficient for escape. The distant quays, Paris, that gulf in which one so easily hides oneself, the broad horizon, [[liberty]]. On the right, downstream, the bridge of Jéna was discernible, on the left, upstream, the bridge of the Invalides; the place would have been a propitious one in which to await the night and to escape. It was one of the most solitary points in Paris; the shore which faces the Grand-Caillou. Flies were entering and emerging through the bars of the grating.
+
+[335-010]It might have been half-past eight o’clock in the evening. The day was declining.
+
+[335-011]Jean Valjean laid Marius down along the wall, on the dry portion of the vaulting, then he went to the grating and clenched both fists round the bars; the shock which he gave it was frenzied, but it did not move. The grating did not stir. Jean Valjean seized the bars one after the other, in the hope that he might be able to tear away the least solid, and to make of it a lever wherewith to raise the door or to break the lock. Not a bar stirred. The teeth of a tiger are not more firmly fixed in their sockets. No lever; no prying possible. The obstacle was invincible. There was no means of opening the gate.
+
+[335-012]Must he then stop there? What was he to do? What was to become of him? He had not the strength to retrace his steps, to recommence the journey which he had already taken. Besides, how was he to again traverse that quagmire whence he had only extricated himself as by a miracle? And after the quagmire, was there not the police patrol, which assuredly could not be twice avoided? And then, whither was he to go? What direction should he pursue? To follow the incline would not conduct him to his goal. If he were to reach another outlet, he would find it obstructed by a plug or a grating. Every outlet was, undoubtedly, closed in that manner. Chance had unsealed the grating through which he had entered, but it was evident that all the other sewer mouths were barred. He had only succeeded in escaping into a prison.
+
+[335-013]All was over. Everything that Jean Valjean had done was useless. Exhaustion had ended in failure.
+
+[335-014]They were both caught in the immense and gloomy web of death, and Jean Valjean felt the terrible spider running along those black strands and quivering in the shadows. He turned his back to the grating, and fell upon the pavement, hurled to earth rather than seated, close to Marius, who still made no movement, and with his head bent between his knees. This was the last drop of anguish.
+
+[335-015]Of what was he thinking during this profound depression? Neither of himself nor of Marius. He was thinking of [[cosette|Cosette]].

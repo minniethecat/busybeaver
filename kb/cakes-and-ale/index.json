@@ -1,0 +1,6847 @@
+{
+  "book": "cakes-and-ale",
+  "title": "Cakes and Ale",
+  "description": "Cakes and Ale — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 132,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Cakes and Ale\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"!The Standard Ebooks logo.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "W. Somerset Maugham"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"!The Standard Ebooks logo.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "cakes-and-ale:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"> May you do good and not evil.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "aesthetic",
+      "type": "concept",
+      "label": "Aesthetic Value",
+      "description": "The criteria by which literary works are judged — and whether those criteria are objective or socially constructed.",
+      "aliases": [
+        "aesthetics",
+        "artistic merit"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:aesthetic",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "allgood-newton",
+      "type": "person",
+      "label": "Allgood Newton",
+      "description": "A young writer encountered at Mrs. Barton Trafford's salon — he represents the next generation of literary aspirants in the ecosystem of reputation-making that the novel satirizes.",
+      "aliases": [
+        "Newton"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "writer"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:allgood-newton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "alroy-kear",
+      "type": "person",
+      "label": "Alroy Kear",
+      "description": "A successful but mediocre novelist commissioned to write Edward Driffield's official biography. His performative sincerity and relentless careerism make him the novel's chief satirical vehicle and the narrator's dark mirror.",
+      "aliases": [
+        "Roy Kear",
+        "Kear"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "novelist",
+        "biographer",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:alroy-kear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "hypocrisy",
+          "label": "hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "amy-driffield",
+      "type": "person",
+      "label": "Amy Driffield",
+      "description": "Edward Driffield's second wife — a former nurse who married the aging novelist, guarded his legacy at Ferne Court, and commissioned Alroy Kear's official biography. Her careful management of Driffield's reputation stands in pointed contrast to Rosie's unselfconscious vitality.",
+      "aliases": [
+        "Mrs. Edward Driffield",
+        "the widow",
+        "Mrs. Driffield"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "nurse",
+        "widow"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:amy-driffield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "ashenden",
+      "type": "person",
+      "label": "Willie Ashenden",
+      "description": "The first-person narrator of Cakes and Ale — a novelist and man of letters who serves as Maugham's ironic observer. His boyhood memories of the Driffields in Blackstable and adult entanglement with Alroy Kear's biographical project provide the novel's dual time-frame.",
+      "aliases": [
+        "Ashenden",
+        "Willie Ashenden",
+        "the narrator",
+        "Mr. Ashenden"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "narrator"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:ashenden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "narrative-voice",
+          "label": "narrative-voice"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "athenaeum",
+      "type": "work",
+      "label": "The Athenaeum",
+      "description": "The London gentlemen's club of which Alroy Kear was a member — one of the institutional pillars of the literary establishment the novel satirizes.",
+      "aliases": [
+        "Athenaeum"
+      ],
+      "tags": [
+        "publication",
+        "pilot",
+        "club"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:athenaeum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "st-jamess-street",
+          "label": "st-jamess-street"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty",
+      "description": "Physical and aesthetic beauty as a central theme in Cakes and Ale, embodied by Rosie Driffield and contrasted with conventional morality.",
+      "aliases": [
+        "physical beauty",
+        "aesthetic beauty"
+      ],
+      "tags": [
+        "literary theme",
+        "Rosie",
+        "aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:beauty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        }
+      ]
+    },
+    {
+      "id": "biography",
+      "type": "concept",
+      "label": "Biography",
+      "description": "The practice of writing authors' lives — the novel's meta-commentary on how biography distorts truth in service of reputation",
+      "aliases": [
+        "literary biography",
+        "life-writing"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:biography",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "blackstable",
+      "type": "place",
+      "label": "Blackstable",
+      "description": "The Kentish seaside village where Ashenden spent his boyhood as the Vicar's nephew, and where the young Edward Driffield lived in disreputable obscurity with his barmaid wife Rosie. The novel's foundational setting and moral laboratory.",
+      "aliases": [
+        "Blackstable Village"
+      ],
+      "tags": [
+        "place",
+        "pilot",
+        "kent",
+        "childhood",
+        "setting",
+        "showcase"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:blackstable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "mary-ann"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the-vicarage"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "bloomsbury",
+      "type": "place",
+      "label": "Bloomsbury",
+      "description": "The London district associated with literary and intellectual life, appearing in the novel as one of the key nodes in the geography of metropolitan literary culture.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "london",
+        "literary-quarter",
+        "bohemian"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:bloomsbury",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "chelsea"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "westminster"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "by-their-fruits",
+      "type": "work",
+      "label": "By Their Fruits",
+      "description": "A novel by Edward Driffield, finished in Mrs. Barton Trafford's flat and dedicated to her; she regarded it as substantially her own book.",
+      "aliases": [],
+      "tags": [
+        "work",
+        "novel",
+        "driffield-novel",
+        "in-universe-work",
+        "mrs-barton-trafford"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:by-their-fruits",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-life",
+          "label": "The Cup of Life"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Mrs. Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "St. Luke's Hospital"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear's"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "The Life and Letters of Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "mr-barton-trafford",
+          "label": "mr-barton-trafford"
+        }
+      ]
+    },
+    {
+      "id": "byron",
+      "type": "work",
+      "label": "Byron (Referenced Poet)",
+      "description": "The Romantic poet Lord Byron, referenced in the novel as a cultural touchstone — an example of the kind of literary immortality that Driffield's admirers aspire to claim for him.",
+      "aliases": [
+        "Lord Byron"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "poetry"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:byron",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        }
+      ]
+    },
+    {
+      "id": "cakes-and-ale",
+      "type": "concept",
+      "label": "Cakes and Ale",
+      "description": "The title concept of the novel — an allusion to the pleasures of life that the virtuous would deny. A complex metaphor for worldly enjoyment, sensuality, and the hypocrisy of those who moralize about art.",
+      "aliases": [
+        "cake and ale",
+        "cakes & ale"
+      ],
+      "tags": [
+        "literary theme",
+        "complex"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:cakes-and-ale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Chapter 1\"",
+      "description": "\"I have noticed that when someone asks for you on the telephone and, finding you out, leaves a message begging you to call him up the moment you come in, and ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-fellows",
+          "label": "Miss Fellows"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "athenaeum",
+          "label": "Athenaeum"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary circles"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "Bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "Westminster"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "characters"
+        },
+        {
+          "type": "related",
+          "target": "soho",
+          "label": "Soho"
+        },
+        {
+          "type": "related",
+          "target": "royal-academy-of-arts",
+          "label": "the Royal Academy"
+        },
+        {
+          "type": "related",
+          "target": "hypocrisy",
+          "label": "Hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "the author"
+        },
+        {
+          "type": "related",
+          "target": "location-index",
+          "label": "places"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "honesty"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Chapter 2\"",
+      "description": "\"When I rang for my letters and the papers next morning a message was delivered to me, in answer to my note to Miss Fellows, that Mr. Alroy Kear expected me a...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-fellows",
+          "label": "Miss Fellows"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "marcel-proust",
+          "label": "Marcel Proust"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "Times"
+        },
+        {
+          "type": "related",
+          "target": "the-collected-edition",
+          "label": "collected edition"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "piccadilly",
+          "label": "Piccadilly"
+        },
+        {
+          "type": "related",
+          "target": "half-moon-street",
+          "label": "Half Moon Street"
+        },
+        {
+          "type": "related",
+          "target": "location-index",
+          "label": "places"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Chapter 3\"",
+      "description": "\"I had a good deal to do that afternoon, but my conversation with Roy and the impression of the day before yesterday, the sense of a past that still dwelt in ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "half-moon-street",
+          "label": "Half Moon Street"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "characters"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kent"
+        },
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "the curate"
+        },
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "old Miss Wolfe"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham School"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "Times"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "greatness"
+        },
+        {
+          "type": "related",
+          "target": "westminster-abbey",
+          "label": "Westminster Abbey"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "Westminster"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Chapter 4\"",
+      "description": "\"To my surprise, two or three days after I lunched with Alroy Kear I received a letter from Edward Driffield’s widow. It ran as follows:\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "Tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "lady-hodmarsh",
+          "label": "Lady Hodmarsh"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "domestic life"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "lord-scallion",
+          "label": "Lord Scallion"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kentish"
+        },
+        {
+          "type": "related",
+          "target": "royal-academy-of-arts",
+          "label": "the Royal Academy"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Chapter 5\"",
+      "description": "\"It was true that Edward Driffield had taught me to bicycle. That was indeed how I first made his acquaintance. I do not know how long the safety bicycle had ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kent"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "Tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "the author"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "the curate"
+        },
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "Miss Wolfe"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "Mary-Ann"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "rye-lane",
+          "label": "Rye Lane"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham"
+        },
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "the-duke-of-kent",
+          "label": "Duke of Kent"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "works"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Chapter 6\"",
+      "description": "\"I had quite made up my mind that I was going out with the Driffields next morning, but knew that it was no good asking my uncle if I might. If he found out t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "Miss Wolfe"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Chapter 7\"",
+      "description": "\"I do not know why the Driffields bothered about me unless it was from pure kindness of heart. I was a dull little boy, not very talkative, and if I amused Te...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "Miss Wolfe"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "Mary-Ann"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George"
+        },
+        {
+          "type": "related",
+          "target": "rye-lane",
+          "label": "Rye Lane"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Chapter 8\"",
+      "description": "\"The weather broke suddenly; it grew chilly and heavy rain fell. It put an end to our excursions. I was not sorry, for I did not know how I could look Mrs. Dr...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "honesty"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "Tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "the curate"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "ideas"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "old Miss Wolfe"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Chapter 9\"",
+      "description": "\"As often as the mild Christmas gaieties of Blackstable allowed me I went to the Driffields’ little house next door to the Congregational chapel. I always fou...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "the curate"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Chapter 10\"",
+      "description": "\"But the term came to an end at last. I was in high spirits when once more I got out of the train at Blackstable. I had grown a little and I had had a new sui...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "Tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "Times"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "Mary-Ann"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Chapter 11\"",
+      "description": "\"Musing thus over the past, while I waited for Alroy Kear, I chuckled when I considered this shabby incident of Edward Driffield’s obscurity in the light of t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "characters"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "the author"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "Times"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "Beauty"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary circles"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "longevity"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "Bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "Chelsea"
+        },
+        {
+          "type": "related",
+          "target": "location-index",
+          "label": "places"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kent"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "the curate"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "Amy Driffield"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Chapter 12\"",
+      "description": "\"My promise to Roy sent my thoughts back to my first years in London. Having nothing much to do that afternoon, it occurred to me to stroll along and have a c...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "Westminster School"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "Amy Driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Chapter 13\"",
+      "description": "\"I lived with Mrs. Hudson for nearly two years before I met the Driffields again. My life was very regular. I spent all day at the hospital and about six walk...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "works"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "honesty"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Chapter 14\"",
+      "description": "\"I went. I enjoyed myself. I went again. When the autumn came and I returned to London for the winter session at St. Luke’s I got into the habit of going ever...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "Westminster"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "fame"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary circles"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "the author"
+        },
+        {
+          "type": "related",
+          "target": "jasper-gibbons",
+          "label": "Jasper Gibbons"
+        },
+        {
+          "type": "related",
+          "target": "athenaeum",
+          "label": "Athenaeum"
+        },
+        {
+          "type": "related",
+          "target": "location-index",
+          "label": "places"
+        },
+        {
+          "type": "related",
+          "target": "piccadilly",
+          "label": "Piccadilly"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "Chelsea Embankment"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "Tercanbury Cathedral"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie Driffield"
+        },
+        {
+          "type": "related",
+          "target": "royal-academy-of-arts",
+          "label": "the Academy"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Chapter 15\"",
+      "description": "\"Edward Driffield worked at night, and Rosie, having nothing to do, was glad to go out with one or other of her friends. She liked luxury and Quentin Forde wa...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "soho",
+          "label": "Soho"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kentish"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Chapter 16\"",
+      "description": "\"I did not go out with Rosie again for more than a week. She was going down to Haversham to spend a night with her mother. She had various engagements in Lond...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "Westminster"
+        },
+        {
+          "type": "related",
+          "target": "the-evening-standard",
+          "label": "Evening Standard"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "marcel-proust",
+          "label": "Proust"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "characters"
+        },
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "the hospital"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Chapter 17\"",
+      "description": "\"After that for more than a year whenever Rosie came out with me she used on the way home to drop into my rooms, sometimes for an hour, sometimes till the bre...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "the author"
+        },
+        {
+          "type": "related",
+          "target": "soho",
+          "label": "Soho"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Chapter 18\"",
+      "description": "\"During all this time I saw really very little of Driffield. His editorship occupied much of his day and in the evening he wrote. He was, of course, there eve...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-life",
+          "label": "The Cup of Life"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "works"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Chapter 19\"",
+      "description": "\"About six months later, when the excitement over The Cup of Life had subsided and Driffield had already begun the novel which he published under the name of ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-life",
+          "label": "The Cup of Life"
+        },
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "Chelsea"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "allgood-newton",
+          "label": "Allgood Newton"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "royal-academy-of-arts",
+          "label": "the Academy"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie Driffield"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Chapter 20\"",
+      "description": "\"But it was years before I saw Allgood Newton again, for when I got to Blackstable I found a letter from Mrs. Barton Trafford (who had taken the precaution to...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "allgood-newton",
+          "label": "Allgood Newton"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "victoria-station",
+          "label": "Victoria Station"
+        },
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie Driffield"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "Haversham"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "Mary-Ann"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "events"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "Chelsea"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Chapter 21\"",
+      "description": "\"I lost touch with Driffield. I was too shy to seek him out; I was busy with my examinations, and when I had passed them I went abroad. I remember vaguely to ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Chapter 22\"",
+      "description": "\"Alroy Kear and I, as arranged, met on Friday at Victoria Station to catch the five ten to Blackstable. We made ourselves comfortable in opposite corners of a...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "victoria-station",
+          "label": "Victoria Station"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "Chelsea"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "greatness"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Chapter 23\"",
+      "description": "\"When we arrived at Blackstable, Roy and I, a car, neither ostentatiously grand nor obviously cheap, was waiting for him and the chauffeur had a note for me a...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "mr-brentford",
+          "label": "Brentford"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "Lord George"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kent"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Chapter 24\"",
+      "description": "\"Next morning it was cold and raw, but it was not raining, and I walked down the High Street toward the vicarage. I recognized the names over the shops, the K...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the vicarage"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kentish"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "Bear and Key"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "the widow"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "miss-wolfe",
+          "label": "Miss Wolfe"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Chapter 25\"",
+      "description": "\"When Mrs. Driffield, having sent the pilgrims on their way, came back she bore under her arm a portfolio.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Alroy Kear"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "Ashenden"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Chapter 26\"",
+      "description": "\"Mrs. Driffield very kindly offered to send me back to Blackstable in her car, but I preferred to walk. I promised to dine at Ferne Court next day and meanwhi...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "Blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "yonkers",
+          "label": "Yonkers"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "Kentish"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "George Kemp"
+        },
+        {
+          "type": "related",
+          "target": "work-index",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "Barton Trafford"
+        },
+        {
+          "type": "related",
+          "target": "st-lukes-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-life",
+          "label": "The Cup of Life"
+        },
+        {
+          "type": "related",
+          "target": "victoria-station",
+          "label": "Victoria Station"
+        },
+        {
+          "type": "related",
+          "target": "piccadilly",
+          "label": "Piccadilly"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "Bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "the widow"
+        }
+      ]
+    },
+    {
+      "id": "charles-dickens",
+      "type": "work",
+      "label": "Charles Dickens in Cakes and Ale",
+      "description": "\"Charles Dickens as referenced in Cakes and Ale — the author of the dictum that 'genius is an infinite capacity for taking pains,' which Alroy Kear adopts as his literary philosophy\"",
+      "aliases": [
+        "Dickens",
+        "references to Dickens"
+      ],
+      "tags": [
+        "work",
+        "referenced-author",
+        "dickens",
+        "kear",
+        "literary-comparison"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:charles-dickens",
+      "relations": [
+        {
+          "type": "related",
+          "target": "charles-dickens",
+          "label": "Charles Dickens"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        }
+      ]
+    },
+    {
+      "id": "chelsea",
+      "type": "place",
+      "label": "Chelsea",
+      "description": "A London neighborhood on the north bank of the Thames, home to Mrs. Barton Trafford's literary salon and emblematic of the artistic-bohemian London that adopted Edward Driffield after his Blackstable obscurity.",
+      "aliases": [
+        "Chelsea Embankment",
+        "King's Road Chelsea"
+      ],
+      "tags": [
+        "place",
+        "london",
+        "literary-quarter",
+        "mrs-barton-trafford",
+        "artists"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:chelsea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "westminster"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Theme & Concept Index",
+      "description": "Index of literary themes and concepts explored in Cakes and Ale",
+      "aliases": [
+        "themes",
+        "concepts",
+        "ideas"
+      ],
+      "tags": [
+        "index",
+        "themes",
+        "literary-analysis"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:concept-index",
+      "relations": []
+    },
+    {
+      "id": "critical-reception",
+      "type": "insight",
+      "label": "Critical Reception of Cakes and Ale",
+      "description": "The publication history and critical reception of Cakes and Ale (1930), including the roman-à-clef controversy over Alroy Kear's resemblance to Hugh Walpole and the novel's place in Maugham's career.",
+      "aliases": [
+        "reception history",
+        "publication controversy"
+      ],
+      "tags": [
+        "insight",
+        "literary history",
+        "reception"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:critical-reception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "driffields-last-novel",
+      "type": "work",
+      "label": "Driffield's Last Novel",
+      "description": "Edward Driffield's final novel — written in his old age at Ferne Court, representing the culmination of a sixty-year career that produced thirty-seven volumes.",
+      "aliases": [],
+      "tags": [
+        "work",
+        "pilot",
+        "novel"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:driffields-last-novel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "driffields-westminster-funeral",
+      "type": "event",
+      "label": "Driffield's Westminster Abbey Funeral",
+      "description": "The controversial proposal to bury Edward Driffield in Westminster Abbey — the novel's sharpest satire of literary canonization and the machinery that converts a provincial novelist into a national monument.",
+      "aliases": [
+        "Driffield's funeral",
+        "Westminster Abbey burial",
+        "the funeral controversy"
+      ],
+      "tags": [
+        "event",
+        "mini-pilot",
+        "driffield",
+        "reputation",
+        "canonization"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:driffields-westminster-funeral",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        }
+      ]
+    },
+    {
+      "id": "edward-driffield",
+      "type": "person",
+      "label": "Edward Driffield",
+      "description": "\"The absent centre of Cakes and Ale — a celebrated English novelist whose posthumous biography exposes the social machinery of literary canon-formation\"",
+      "aliases": [
+        "Ted Driffield",
+        "Driffield"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "novelist",
+        "protagonist",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:edward-driffield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Index",
+      "description": "Index of key narrative events in Cakes and Ale",
+      "aliases": [
+        "events",
+        "narrative-events",
+        "timeline"
+      ],
+      "tags": [
+        "index",
+        "events",
+        "narrative"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:event-index",
+      "relations": []
+    },
+    {
+      "id": "ferne-court",
+      "type": "place",
+      "label": "Ferne Court",
+      "description": "The Kent country house where Edward Driffield spent his final years as the Grand Old Man of English letters — three miles from Blackstable where he began in obscurity. The physical emblem of literary canonisation and the gilded cage of reputation.",
+      "aliases": [
+        "Ferne Court estate"
+      ],
+      "tags": [
+        "place",
+        "pilot",
+        "kent",
+        "country-house",
+        "driffield",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:ferne-court",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        },
+        {
+          "type": "related",
+          "target": "half-moon-street",
+          "label": "half-moon-street"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "galloway",
+      "type": "person",
+      "label": "Mr. Galloway",
+      "description": "The vicar's curate at Blackstable, a tall ungainly young clergyman who befriends Ashenden and introduces him to the Driffields' social circle.",
+      "aliases": [
+        "the curate"
+      ],
+      "tags": [
+        "person",
+        "clergy",
+        "curate",
+        "blackstable"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:galloway",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the-vicarage"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "mary-ann"
+        }
+      ]
+    },
+    {
+      "id": "genius",
+      "type": "concept",
+      "label": "Genius",
+      "description": "A destabilised concept in Cakes and Ale — used to explain (and explain away) literary achievement, but exposed as partly a social construction. Longevity, patronage, and luck figure as heavily as talent in the novel's account of what passes for genius.",
+      "aliases": [
+        "literary genius",
+        "artistic genius",
+        "greatness"
+      ],
+      "tags": [
+        "concept",
+        "pilot",
+        "theme",
+        "literature",
+        "reputation",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:genius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "posterity"
+        }
+      ]
+    },
+    {
+      "id": "half-moon-street",
+      "type": "place",
+      "label": "Half Moon Street",
+      "description": "The Mayfair street where Ashenden keeps his London rooms — a quiet, respectable enclave just off Piccadilly that contrasts with the literary world's social bustle.",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot",
+        "street"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:half-moon-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        }
+      ]
+    },
+    {
+      "id": "harry-retford",
+      "type": "person",
+      "label": "Harry Retford",
+      "description": "An actor and one of Rosie Driffield's admirers in the London circle around Edward Driffield; arranged the iconic photographic sitting of Rosie.",
+      "aliases": [
+        "Retford"
+      ],
+      "tags": [
+        "person",
+        "driffield-circle",
+        "rosies-admirers",
+        "actor",
+        "london-literary-scene"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:harry-retford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Driffields'"
+        },
+        {
+          "type": "related",
+          "target": "quentin-forde",
+          "label": "quentin-forde"
+        },
+        {
+          "type": "related",
+          "target": "lionel-hillier",
+          "label": "lionel-hillier"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie's"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "The Life and Letters of Edward Driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Kear's"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        }
+      ]
+    },
+    {
+      "id": "haversham",
+      "type": "place",
+      "label": "Haversham",
+      "description": "A small Kentish market town near Blackstable, home to the grammar school Edward Driffield attended and the Prince of Wales's Feathers pub, a key node in the novel's network of working-class Kentish life.",
+      "aliases": [
+        "Prince of Wales's Feathers",
+        "Haversham School"
+      ],
+      "tags": [
+        "place",
+        "kent",
+        "market-town",
+        "school",
+        "pub"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:haversham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-reeves",
+          "label": "mrs-reeves"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        }
+      ]
+    },
+    {
+      "id": "hypocrisy",
+      "type": "concept",
+      "label": "Hypocrisy",
+      "description": "The gap between public virtue and private behavior — a recurring motif throughout the novel, from Kear's performative sincerity to the literary establishment's treatment of Rosie.",
+      "aliases": [
+        "moral hypocrisy",
+        "literary hypocrisy"
+      ],
+      "tags": [
+        "literary theme",
+        "complex"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:hypocrisy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "jack-kuyper",
+      "type": "person",
+      "label": "Jack Kuyper",
+      "description": "A Dutch Jewish diamond merchant from Amsterdam whose brief affair with Rosie Driffield and extravagant gift of a sable stole horrifies the young narrator Ashenden.",
+      "aliases": [
+        "Kuyper",
+        "the Dutch Jew"
+      ],
+      "tags": [
+        "person",
+        "rosies-admirers",
+        "diamond-merchant",
+        "amsterdam",
+        "outsider"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:jack-kuyper",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie Driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Driffields"
+        },
+        {
+          "type": "related",
+          "target": "quentin-forde",
+          "label": "quentin-forde"
+        },
+        {
+          "type": "related",
+          "target": "harry-retford",
+          "label": "harry-retford"
+        },
+        {
+          "type": "related",
+          "target": "lionel-hillier",
+          "label": "lionel-hillier"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "The Life and Letters of Edward Driffield"
+        }
+      ]
+    },
+    {
+      "id": "jasper-gibbons",
+      "type": "person",
+      "label": "Jasper Gibbons",
+      "description": "A poet whose career Mrs. Barton Trafford attempted to promote, but whose second volume failed critically and commercially — the one literary investment that didn't pay off.",
+      "aliases": [
+        "Gibbons"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "poet"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:jasper-gibbons",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "keers-novels",
+      "type": "work",
+      "label": "Kear's Novels",
+      "description": "Alroy Kear's own literary output — commercially successful novels whose mediocrity is the novel's unspoken premise. Miss Fellows \"had read them with admiration.\"",
+      "aliases": [
+        "Roy's novels",
+        "Alroy Kear's novels"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "novel"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:keers-novels",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "miss-fellows",
+          "label": "miss-fellows"
+        }
+      ]
+    },
+    {
+      "id": "kent",
+      "type": "place",
+      "label": "Kent",
+      "description": "The English county that contains Blackstable and Ferne Court — a landscape of elm-shaded churchyards, seaside towns, and the deep provincial rootedness that shapes both Driffield's origins and his later return.",
+      "aliases": [
+        "Kentish"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "county"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:kent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        }
+      ]
+    },
+    {
+      "id": "lady-hodmarsh",
+      "type": "person",
+      "label": "Lady Hodmarsh",
+      "description": "Clever and handsome American hostess who lives near Tercanbury and arranges the luncheon with Edward Driffield at Ferne Court.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "socialite",
+        "literary-patron",
+        "american-expatriate"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:lady-hodmarsh",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "lord-scallion",
+          "label": "lord-scallion"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "lionel-hillier",
+      "type": "person",
+      "label": "Lionel Hillier",
+      "description": "A painter and one of Rosie Driffield's admirers in the London circle around Edward Driffield; claimed to have \"made\" Rosie's beauty by teaching her to see herself through his painterly eye.",
+      "aliases": [
+        "Hillier"
+      ],
+      "tags": [
+        "person",
+        "driffield-circle",
+        "painter",
+        "artist",
+        "rosies-admirers",
+        "london-literary-scene"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:lionel-hillier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Driffields'"
+        },
+        {
+          "type": "related",
+          "target": "quentin-forde",
+          "label": "quentin-forde"
+        },
+        {
+          "type": "related",
+          "target": "harry-retford",
+          "label": "harry-retford"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie's"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "Kear's"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        }
+      ]
+    },
+    {
+      "id": "literary-establishment",
+      "type": "concept",
+      "label": "Literary Establishment",
+      "description": "The network of critics, publishers, and society hostesses who shape literary reputations — a primary target of the novel's satire.",
+      "aliases": [
+        "literary world",
+        "literary circles"
+      ],
+      "tags": [
+        "literary theme",
+        "complex"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:literary-establishment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "literary-influences",
+      "type": "insight",
+      "label": "Literary Influences and Context",
+      "description": "The literary influences, intertextual references, and comparative context of Cakes and Ale — from Shakespeare's Twelfth Night to the tradition of English literary satire.",
+      "aliases": [
+        "literary background",
+        "Maugham's influences",
+        "comparative analysis"
+      ],
+      "tags": [
+        "insight",
+        "literary history",
+        "comparative literature"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:literary-influences",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "critical-reception",
+          "label": "critical-reception"
+        },
+        {
+          "type": "related",
+          "target": "maugham-author",
+          "label": "maugham-author"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        },
+        {
+          "type": "related",
+          "target": "narrative-voice",
+          "label": "narrative-voice"
+        },
+        {
+          "type": "related",
+          "target": "marcel-proust",
+          "label": "marcel-proust"
+        }
+      ]
+    },
+    {
+      "id": "location-index",
+      "type": "list",
+      "label": "Location Index",
+      "description": "Complete index of places and settings in Cakes and Ale",
+      "aliases": [
+        "places",
+        "settings"
+      ],
+      "tags": [
+        "index",
+        "locations"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:location-index",
+      "relations": []
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "\"The metropolitan center of the novel literary world — a city of clubs, salons, and the social machinery of reputation-making\"",
+      "aliases": [
+        "Literary London",
+        "metropolitan London"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "half-moon-street",
+          "label": "half-moon-street"
+        },
+        {
+          "type": "related",
+          "target": "piccadilly",
+          "label": "piccadilly"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "chelsea"
+        },
+        {
+          "type": "related",
+          "target": "westminster",
+          "label": "westminster"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "lord-george-kemp",
+      "type": "person",
+      "label": "Lord George Kemp",
+      "description": "A Blackstable coal merchant ironically nicknamed \"Lord George\" for his grand manner. He was one of Rosie Driffield's lovers — the affair that precipitated the end of her marriage to Edward Driffield.",
+      "aliases": [
+        "George Kemp",
+        "Lord George"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "coal-merchant",
+        "lover"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:lord-george-kemp",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        }
+      ]
+    },
+    {
+      "id": "lord-scallion",
+      "type": "person",
+      "label": "Lord Scallion",
+      "description": "A young peer with literary ambitions who writes detective novels and eagerly joins Lady Hodmarsh's expedition to visit Edward Driffield at Ferne Court.",
+      "aliases": [
+        "Scallion"
+      ],
+      "tags": [
+        "person",
+        "aristocrat",
+        "writer",
+        "detective-novels",
+        "literary-world"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:lord-scallion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "lady-hodmarsh",
+          "label": "lady-hodmarsh"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "Love in its various forms — romantic love, artistic devotion, and self-serving affection — as portrayed through the novel's central relationships.",
+      "aliases": [
+        "romantic love",
+        "artistic devotion"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "marcel-proust",
+      "type": "work",
+      "label": "Marcel Proust",
+      "description": "The French novelist referenced in Cakes and Ale as part of the cultural furniture of literary London — mentioned alongside Matisse and the Russian Ballet as a marker of cultivated taste. His monumental novel-cycle À la recherche du temps perdu shares thematic ground with Maugham's treatment of memory and reputation.",
+      "aliases": [
+        "Proust"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "literature",
+        "cultural-reference",
+        "showcase"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:marcel-proust",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "the TLS"
+        },
+        {
+          "type": "related",
+          "target": "byron",
+          "label": "byron"
+        },
+        {
+          "type": "related",
+          "target": "keers-novels",
+          "label": "keers-novels"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "the-life-and-letters"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "type": "concept",
+      "label": "Marriage",
+      "description": "The institution of marriage as both a social framework and a source of narrative tension — from the Driffields' unconventional union to the respectable marriages of the literary set.",
+      "aliases": [
+        "matrimony",
+        "domestic life"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "mary-ann",
+      "type": "person",
+      "label": "Mary-Ann",
+      "description": "A Blackstable servant whose gossip about Rosie Driffield's infidelities provides the novel's vernacular counter-narrative — the unvarnished, morally judgmental voice of provincial opinion.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mary-ann",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        }
+      ]
+    },
+    {
+      "id": "maugham-author",
+      "type": "insight",
+      "label": "W. Somerset Maugham",
+      "description": "W. Somerset Maugham (1874–1965) — the author of Cakes and Ale, one of the most commercially successful and critically respected English writers of the early 20th century. This page contextualizes the novel within Maugham's life and career.",
+      "aliases": [
+        "Maugham",
+        "Somerset Maugham",
+        "the author"
+      ],
+      "tags": [
+        "insight",
+        "author biography",
+        "literary context"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:maugham-author",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "critical-reception",
+          "label": "critical-reception"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "type": "concept",
+      "label": "Memory",
+      "description": "The role of memory in shaping narrative — Ashenden's retrospective narration filters events through the distorting lens of time, raising questions about the reliability of literary biography.",
+      "aliases": [
+        "recollection",
+        "nostalgia"
+      ],
+      "tags": [
+        "literary theme",
+        "complex"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:memory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "miss-fellows",
+      "type": "person",
+      "label": "Miss Fellows",
+      "description": "Ashenden's landlady and an avid reader of popular novels — including Alroy Kear's. Her small but vivid presence in Chapter 1 establishes the novel's concern with the relationship between literary reputation and ordinary readers.",
+      "aliases": [
+        "Fellows"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "landlady"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:miss-fellows",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "miss-wolfe",
+      "type": "person",
+      "label": "Miss Wolfe",
+      "description": "Deceased landowner of Ferne Court near Blackstable, whose bailiff was Edward Driffield's father; her estate is the ancestral link between Driffield and the manor he later purchases.",
+      "aliases": [
+        "old Miss Wolfe"
+      ],
+      "tags": [
+        "person",
+        "landowner",
+        "blackstable",
+        "ferne-court"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:miss-wolfe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "mary-ann"
+        },
+        {
+          "type": "related",
+          "target": "mrs-reeves",
+          "label": "mrs-reeves"
+        }
+      ]
+    },
+    {
+      "id": "mr-barton-trafford",
+      "type": "person",
+      "label": "Mr. Barton Trafford",
+      "description": "\"Mrs. Barton Trafford's husband — a silent, long-suffering presence at her literary salons\"",
+      "aliases": [
+        "Barton Trafford"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "husband"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mr-barton-trafford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "allgood-newton",
+          "label": "allgood-newton"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "mr-brentford",
+      "type": "person",
+      "label": "Mr. Brentford",
+      "description": "A Blackstable publican who knew Edward Driffield in his later years. His memories of Driffield's pub visits provide an unvarnished counter-narrative to the official biography.",
+      "aliases": [
+        "Brentford"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "publican"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mr-brentford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        }
+      ]
+    },
+    {
+      "id": "mr-galloway",
+      "type": "person",
+      "label": "Mr. Galloway",
+      "description": "\"The curate of Blackstable, an energetic and gesticulating young clergyman who introduces the young Ashenden to Edward Driffield\"",
+      "aliases": [
+        "the curate",
+        "the Blackstable curate"
+      ],
+      "tags": [
+        "person",
+        "minor-character",
+        "blackstable",
+        "driffield"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mr-galloway",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the-vicarage"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "mrs-barton-trafford",
+      "type": "person",
+      "label": "Mrs. Barton Trafford",
+      "description": "A literary patroness and hostess who discovers and promotes Edward Driffield, transforming him from an obscure bohemian into a respected literary figure. Her \"soft\" manner masks formidable social ambition and talent for reputation-making.",
+      "aliases": [
+        "Mrs Barton Trafford",
+        "Barton Trafford"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "patroness",
+        "literary-hostess"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-barton-trafford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "hypocrisy",
+          "label": "hypocrisy"
+        }
+      ]
+    },
+    {
+      "id": "mrs-encombe",
+      "type": "person",
+      "label": "Mrs. Encombe",
+      "description": "Cultivated cousin of Mrs. Greencourt, a \"New Woman\" figure who visits Blackstable and participates in the drawing-room literary discussion about Edward Driffield.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "blackstable",
+        "new-woman",
+        "literary-society",
+        "oxford"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-encombe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hayforth",
+          "label": "mrs-hayforth"
+        },
+        {
+          "type": "related",
+          "target": "mrs-greencourt",
+          "label": "mrs-greencourt"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "mrs-gann",
+      "type": "person",
+      "label": "Mrs. Gann",
+      "description": "\"Rosie Driffield's mother, a resident of Haversham who provided a refuge for her daughter after the Blackstable scandal\"",
+      "aliases": [
+        "Rosie's mother",
+        "Mrs. Gann of Haversham"
+      ],
+      "tags": [
+        "person",
+        "minor-character",
+        "rosie-driffield",
+        "haversham",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-gann",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie Driffield (née Gann)"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "haversham"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "*The Life and Letters*"
+        },
+        {
+          "type": "related",
+          "target": "rosies-elopement",
+          "label": "rosies-elopement"
+        }
+      ]
+    },
+    {
+      "id": "mrs-greencourt",
+      "type": "person",
+      "label": "Mrs. Greencourt",
+      "description": "Blackstable resident whose adequate income derives from her family's china-manufacturing business; her tea party is the setting for the novel's key drawing-room discussion of Edward Driffield's literary worth.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "blackstable",
+        "hostess",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-greencourt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-encombe",
+          "label": "mrs-encombe"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hayforth",
+          "label": "mrs-hayforth"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "mrs-hayforth",
+      "type": "person",
+      "label": "Mrs. Hayforth",
+      "description": "Wife of the Blackstable doctor, who participates in the drawing-room literary discussion at Mrs. Greencourt's tea party, defending popular fiction with commonsensical directness.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "blackstable",
+        "doctor",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-hayforth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-encombe",
+          "label": "mrs-encombe"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "mrs-greencourt",
+          "label": "mrs-greencourt"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "mrs-hudson",
+      "type": "person",
+      "label": "Mrs. Hudson",
+      "description": "\"A Blackstable boarding-house keeper who knew the young Ashenden and Rosie Driffield\"",
+      "aliases": [
+        "Hudson",
+        "Ester"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "landlady"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-hudson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        }
+      ]
+    },
+    {
+      "id": "mrs-reeves",
+      "type": "person",
+      "label": "Mrs. Reeves",
+      "description": "Landlady of the Railway Arms public house in Blackstable, where Rosie Driffield (then Rosie Gann) worked as a barmaid before being dismissed over the scandal involving Lord George Kemp.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "blackstable",
+        "publican",
+        "railway-arms"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:mrs-reeves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "mary-ann"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "narrative-voice",
+      "type": "concept",
+      "label": "Narrative Voice",
+      "description": "The distinctive ironic narrative voice of Ashenden — detached, amused, and resistant to moral judgment — as the novel's defining stylistic feature.",
+      "aliases": [
+        "first-person narration",
+        "Ashenden's voice"
+      ],
+      "tags": [
+        "literary theme",
+        "complex"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:narrative-voice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Character Index",
+      "description": "Complete index of characters in Cakes and Ale",
+      "aliases": [
+        "characters",
+        "dramatis-personae"
+      ],
+      "tags": [
+        "index",
+        "characters"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:person-index",
+      "relations": []
+    },
+    {
+      "id": "piccadilly",
+      "type": "place",
+      "label": "Piccadilly",
+      "description": "London's great thoroughfare — the \"gay tumult\" from which Ashenden retreats into the quiet of Half Moon Street, marking the boundary between public spectacle and private reflection.",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot",
+        "street"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:piccadilly",
+      "relations": [
+        {
+          "type": "related",
+          "target": "half-moon-street",
+          "label": "half-moon-street"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "st-jamess-street",
+          "label": "st-jamess-street"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        }
+      ]
+    },
+    {
+      "id": "posterity",
+      "type": "concept",
+      "label": "Posterity",
+      "description": "The novel's meditation on what survives — how literary reputations fare after death, and whether posterity's judgment is any wiser than contemporary opinion.",
+      "aliases": [
+        "literary posterity",
+        "lasting fame"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:posterity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "quentin-forde",
+      "type": "person",
+      "label": "Quentin Forde",
+      "description": "A well-to-do gentleman and one of Rosie Driffield's most faithful admirers in the London circle that gathered around Edward Driffield.",
+      "aliases": [
+        "Forde"
+      ],
+      "tags": [
+        "person",
+        "driffield-circle",
+        "rosies-admirers",
+        "london-literary-scene"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:quentin-forde",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "Driffields'"
+        },
+        {
+          "type": "related",
+          "target": "harry-retford",
+          "label": "harry-retford"
+        },
+        {
+          "type": "related",
+          "target": "lionel-hillier",
+          "label": "lionel-hillier"
+        },
+        {
+          "type": "related",
+          "target": "jack-kuyper",
+          "label": "jack-kuyper"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie's"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "The Life and Letters of Edward Driffield"
+        }
+      ]
+    },
+    {
+      "id": "reputation",
+      "type": "concept",
+      "label": "Reputation",
+      "description": "How literary and personal reputations are manufactured, maintained, and challenged — the central satirical target of Cakes and Ale.",
+      "aliases": [
+        "literary reputation",
+        "fame",
+        "posthumous reputation"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:reputation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "posterity"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        }
+      ]
+    },
+    {
+      "id": "rosie-driffield",
+      "type": "person",
+      "label": "Rosie Driffield",
+      "description": "Edward Driffield's first wife — a warm, sensuous former barmaid whose vitality embodies the novel's eponymous \"cakes and ale.\" Her infidelity and elopement scandalize Blackstable, but Ashenden remembers her with enduring affection.",
+      "aliases": [
+        "Rosie Gann",
+        "Rosie",
+        "Mrs. Driffield",
+        "Rosie Iggulden",
+        "Mrs. Iggulden",
+        "Mrs. Hudson"
+      ],
+      "tags": [
+        "character",
+        "pilot",
+        "barmaid"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:rosie-driffield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "rosies-elopement",
+      "type": "event",
+      "label": "Rosie's Elopement",
+      "description": "\"Rosie Driffield leaves Edward Driffield for Lord George Kemp, the Blackstable coal merchant — the central biographical scandal that Amy Driffield and Alroy Kear seek to suppress\"",
+      "aliases": [
+        "Rosie leaves Driffield",
+        "Rosie and Lord George",
+        "Rosie runs away with George Kemp"
+      ],
+      "tags": [
+        "event",
+        "rosie-driffield",
+        "lord-george-kemp",
+        "blackstable",
+        "scandal"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:rosies-elopement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "haversham",
+          "label": "haversham"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "the-life-and-letters"
+        },
+        {
+          "type": "related",
+          "target": "hypocrisy",
+          "label": "hypocrisy"
+        }
+      ]
+    },
+    {
+      "id": "royal-academy-of-arts",
+      "type": "organization",
+      "label": "The Royal Academy of Arts",
+      "description": "The London art institution whose annual exhibition provides the novel with one of its sharpest images of social performance — the private view where \"no one could be more cordial\" and where Amy Driffield's social ambition is laid bare.",
+      "aliases": [
+        "the Royal Academy",
+        "the Academy"
+      ],
+      "tags": [
+        "organization",
+        "mini-pilot",
+        "london",
+        "social",
+        "class"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:royal-academy-of-arts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "rye-lane",
+      "type": "place",
+      "label": "Rye Lane",
+      "description": "The Blackstable street where Rosie Gann's family lived — the geography of her humble origins, mentioned in the gossip that reconstructs her past.",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot",
+        "street"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:rye-lane",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mary-ann",
+          "label": "mary-ann"
+        }
+      ]
+    },
+    {
+      "id": "shakespeare-in-cakes-and-ale",
+      "type": "work",
+      "label": "Shakespeare in Cakes and Ale",
+      "description": "\"Shakespeare as a recurring point of literary comparison in Cakes and Ale — the ultimate benchmark against which Edward Driffield is measured\"",
+      "aliases": [
+        "Shakespeare",
+        "references to Shakespeare"
+      ],
+      "tags": [
+        "work",
+        "referenced-author",
+        "shakespeare",
+        "driffield",
+        "literary-comparison"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:shakespeare-in-cakes-and-ale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "the-life-and-letters"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "sincerity",
+      "type": "concept",
+      "label": "Sincerity",
+      "description": "The novel's treatment of sincerity as a performative virtue — how Alroy Kear embodies the appearance of sincerity while practicing calculated self-promotion.",
+      "aliases": [
+        "literary sincerity",
+        "performative virtue"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:sincerity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "social-class",
+      "type": "concept",
+      "label": "Social Class",
+      "description": "How social class shapes literary careers and personal relationships in Edwardian England, as portrayed in the novel.",
+      "aliases": [
+        "class",
+        "social standing"
+      ],
+      "tags": [
+        "literary theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:social-class",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        }
+      ]
+    },
+    {
+      "id": "soho",
+      "type": "place",
+      "label": "Soho",
+      "description": "The London district known for its restaurants, bohemian life, and theatrical connections — the setting for Ashenden's dinners with Rosie and a symbol of the cosmopolitan London that contrasts with Blackstable's provincialism.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "london",
+        "bohemian",
+        "dining",
+        "theatre"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:soho",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "chelsea"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        }
+      ]
+    },
+    {
+      "id": "st-jamess-street",
+      "type": "place",
+      "label": "St. James's Street",
+      "description": "The club district of London where Alroy Kear hosts Ashenden for their pivotal luncheon — a masculine space of negotiation and literary business.",
+      "aliases": [
+        "St. James's"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "street"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:st-jamess-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "piccadilly",
+          "label": "piccadilly"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "st-lukes-hospital",
+      "type": "organization",
+      "label": "St. Luke's Hospital",
+      "description": "The London teaching hospital where the narrator Ashenden trained as a medical student and later worked — the institutional setting for his adult life and the site of the novel's most intimate late scenes involving Rosie's final illness.",
+      "aliases": [
+        "the hospital",
+        "St Luke's"
+      ],
+      "tags": [
+        "organization",
+        "mini-pilot",
+        "ashenden",
+        "medical",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:st-lukes-hospital",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "athenaeum",
+          "label": "the club"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "narrative-voice",
+          "label": "narrative-voice"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "tercanbury",
+      "type": "place",
+      "label": "Tercanbury",
+      "description": "The nearest town of any size to Blackstable, a cathedral city that serves as the regional centre for shopping, rail connections, and the Bishop's palace — and the destination for Ashenden's first proper suit.",
+      "aliases": [
+        "Tercanbury Cathedral"
+      ],
+      "tags": [
+        "place",
+        "kent",
+        "cathedral-city",
+        "shopping",
+        "railway"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:tercanbury",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "lady-hodmarsh",
+          "label": "lady-hodmarsh"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        }
+      ]
+    },
+    {
+      "id": "the-athenaeum-club",
+      "type": "organization",
+      "label": "The Athenaeum Club",
+      "description": "\"The London gentlemen's club on Pall Mall — where Sir Raymond Kear was a member and through which his son Alroy's literary career was launched\"",
+      "aliases": [
+        "the Athenaeum",
+        "the club in Pall Mall"
+      ],
+      "tags": [
+        "organization",
+        "london",
+        "literary-world",
+        "kear"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-athenaeum-club",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "the-bear-and-key",
+      "type": "place",
+      "label": "The Bear and Key",
+      "description": "The Blackstable public house where Edward Driffield enjoyed drinking and talking in his later years — a democratic social space that Amy Driffield tried to keep him away from.",
+      "aliases": [
+        "Bear and Key"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "pub"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-bear-and-key",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "mr-brentford",
+          "label": "mr-brentford"
+        }
+      ]
+    },
+    {
+      "id": "the-bicycle-lessons",
+      "type": "event",
+      "label": "The Bicycle Lessons",
+      "description": "\"Edward Driffield teaches young Ashenden to ride a bicycle in Blackstable, beginning their unlikely friendship\"",
+      "aliases": [
+        "Driffield teaches Ashenden to bicycle",
+        "learning to bicycle"
+      ],
+      "tags": [
+        "event",
+        "blackstable",
+        "driffield",
+        "ashenden",
+        "childhood",
+        "friendship"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-bicycle-lessons",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "William Ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-ferne-court-visit",
+          "label": "the-ferne-court-visit"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "the-biography-project",
+      "type": "event",
+      "label": "The Biography Project",
+      "description": "\"Alroy Kear's commission by Amy Driffield to write the official biography of Edward Driffield — the project that sets the novel's frame narrative in motion\"",
+      "aliases": [
+        "Kear writes Driffield's biography",
+        "The Life and Letters project",
+        "writing the official life"
+      ],
+      "tags": [
+        "event",
+        "kear",
+        "driffield",
+        "amy-driffield",
+        "ashenden",
+        "biography",
+        "literary-establishment"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-biography-project",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "*The Life and Letters*"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-luncheon-with-kear",
+          "label": "the-luncheon-with-kear"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "the-collected-edition",
+      "type": "work",
+      "label": "The Collected Edition of Driffield's Works",
+      "description": "The thirty-seven-volume collected edition of Edward Driffield's works — the material monument to his literary reputation, cited by Kear as evidence of his greatness.",
+      "aliases": [
+        "collected edition",
+        "thirty-seven volumes"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "collected-works"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-collected-edition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "the-cup-of-life",
+      "type": "work",
+      "label": "The Cup of Life",
+      "description": "Edward Driffield's most controversial and, in Ashenden's view, most interesting novel — a coldly ruthless book based on a child's death that provoked a storm of protest and marked its author as a serious literary force.",
+      "aliases": [],
+      "tags": [
+        "work",
+        "novel",
+        "driffield",
+        "controversial",
+        "masterpiece"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-cup-of-life",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "the-collected-edition",
+          "label": "the-collected-edition"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "the-life-and-letters"
+        },
+        {
+          "type": "related",
+          "target": "keers-novels",
+          "label": "keers-novels"
+        }
+      ]
+    },
+    {
+      "id": "the-duchess",
+      "type": "person",
+      "label": "The Duchess",
+      "description": "\"An unnamed duchess and literary enthusiast who visits Edward Driffield at Ferne Court with Lady Hodmarsh's party\"",
+      "aliases": [
+        "the fat duchess",
+        "the literary duchess"
+      ],
+      "tags": [
+        "person",
+        "minor-character",
+        "literary-world",
+        "satire"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-duchess",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "lady-hodmarsh",
+          "label": "lady-hodmarsh"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "lord-scallion",
+          "label": "lord-scallion"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "the-ferne-court-visit",
+          "label": "the-ferne-court-visit"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "the-duke-of-kent",
+      "type": "place",
+      "label": "The Duke of Kent",
+      "description": "A Blackstable public house mentioned in the novel's town topography — one of the landmarks defining the social geography of Driffield's world.",
+      "aliases": [
+        "Duke of Kent"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "pub"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-duke-of-kent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-bear-and-key",
+          "label": "the-bear-and-key"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        }
+      ]
+    },
+    {
+      "id": "the-evening-standard",
+      "type": "work",
+      "label": "The Evening Standard",
+      "description": "The London newspaper where Evelyn Waugh published an article declaring first-person narration \"a contemptible practice\" — prompting Ashenden's ironic self-reflection.",
+      "aliases": [
+        "Evening Standard"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "newspaper"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-evening-standard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "the-eye-of-the-needle",
+      "type": "work",
+      "label": "The Eye of the Needle",
+      "description": "\"Edward Driffield's most commercially successful novel, which sold 35,000 copies in England and 80,000 in America\"",
+      "aliases": [
+        "Driffield's bestseller",
+        "Driffield's most successful novel"
+      ],
+      "tags": [
+        "work",
+        "driffield",
+        "novel",
+        "bestseller",
+        "in-universe"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-eye-of-the-needle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "*The Life and Letters*"
+        },
+        {
+          "type": "related",
+          "target": "keers-novels",
+          "label": "keers-novels"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "the-ferne-court-visit",
+      "type": "event",
+      "label": "The Visit to Ferne Court",
+      "description": "\"Ashenden's final visit to the aged Edward Driffield at Ferne Court, chaperoned by literary tourists — the event that triggers the entire narrative of Cakes and Ale\"",
+      "aliases": [
+        "Ashenden visits Driffield",
+        "Lady Hodmarsh's lunch party",
+        "the last meeting with Driffield"
+      ],
+      "tags": [
+        "event",
+        "ferne-court",
+        "driffield",
+        "ashenden",
+        "amy-driffield",
+        "literary-world"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-ferne-court-visit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "lady-hodmarsh",
+          "label": "lady-hodmarsh"
+        },
+        {
+          "type": "related",
+          "target": "the-duchess",
+          "label": "the-duchess"
+        },
+        {
+          "type": "related",
+          "target": "lord-scallion",
+          "label": "lord-scallion"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "tercanbury",
+          "label": "tercanbury"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "the-bicycle-lessons",
+          "label": "the-bicycle-lessons"
+        }
+      ]
+    },
+    {
+      "id": "the-life-and-letters",
+      "type": "work",
+      "label": "The Life and Letters",
+      "description": "The official biography of Edward Driffield, commissioned by his widow and written by Alroy Kear — the project that frames Cakes and Ale's entire narrative. More an exercise in reputation management than scholarship, it is the novel's central case study in how literary lives are curated after death.",
+      "aliases": [
+        "Kear's biography",
+        "Driffield biography",
+        "the biography"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "biography",
+        "literary-culture",
+        "showcase"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-life-and-letters",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "Ferne Court"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "Amy Driffield"
+        },
+        {
+          "type": "related",
+          "target": "the-collected-edition",
+          "label": "the-collected-edition"
+        },
+        {
+          "type": "related",
+          "target": "keers-novels",
+          "label": "keers-novels"
+        },
+        {
+          "type": "related",
+          "target": "the-manuscript",
+          "label": "the-manuscript"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "the-luncheon-with-kear",
+      "type": "event",
+      "label": "The Luncheon with Kear",
+      "description": "\"The opening event of Cakes and Ale — Alroy Kear invites Ashenden to lunch at his club to propose sharing memories of Edward Driffield\"",
+      "aliases": [
+        "Kear's lunch invitation",
+        "lunch at the club"
+      ],
+      "tags": [
+        "event",
+        "mini-pilot",
+        "kear",
+        "ashenden",
+        "narrative-frame"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-luncheon-with-kear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "the-life-and-letters",
+          "label": "the-life-and-letters"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        }
+      ]
+    },
+    {
+      "id": "the-manuscript",
+      "type": "work",
+      "label": "The Blue Morocco Manuscript",
+      "description": "Driffield's manuscript bound in blue morocco leather at Ferne Court — a fetishized literary artifact that the widow displays to visitors as evidence of her husband's distinction.",
+      "aliases": [
+        "the manuscript"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "manuscript"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-manuscript",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ferne-court",
+          "label": "ferne-court"
+        },
+        {
+          "type": "related",
+          "target": "amy-driffield",
+          "label": "amy-driffield"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        }
+      ]
+    },
+    {
+      "id": "the-marshes",
+      "type": "place",
+      "label": "The Marshes",
+      "description": "The marshlands bordering Blackstable — a liminal landscape mentioned in the town's topography, marking the boundary between the civilized and the wild.",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot",
+        "landscape"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-marshes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "kent",
+          "label": "kent"
+        }
+      ]
+    },
+    {
+      "id": "the-quarterly-review",
+      "type": "organization",
+      "label": "The Quarterly Review",
+      "description": "A prestigious literary periodical in which Mr. Barton Trafford published an important article championing Edward Driffield's work, helping to secure his literary reputation.",
+      "aliases": [
+        "The Quarterly"
+      ],
+      "tags": [
+        "organization",
+        "periodical",
+        "literary-journal",
+        "quarterly"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-quarterly-review",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-barton-trafford",
+          "label": "mrs-barton-trafford"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "athenaeum",
+          "label": "athenaeum"
+        },
+        {
+          "type": "related",
+          "target": "the-times",
+          "label": "the-times"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "chelsea"
+        },
+        {
+          "type": "related",
+          "target": "the-evening-standard",
+          "label": "the-evening-standard"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-life",
+          "label": "the-cup-of-life"
+        }
+      ]
+    },
+    {
+      "id": "the-times",
+      "type": "work",
+      "label": "The Times",
+      "description": "The London newspaper whose literary coverage and obituary pages form part of the institutional machinery of reputation that the novel anatomizes.",
+      "aliases": [
+        "Times"
+      ],
+      "tags": [
+        "work",
+        "pilot",
+        "newspaper"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-times",
+      "relations": [
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        }
+      ]
+    },
+    {
+      "id": "the-vicarage",
+      "type": "place",
+      "label": "The Vicarage at Blackstable",
+      "description": "The Blackstable vicarage where the young Ashenden lived with his uncle and German aunt — the respectable, judgmental perspective from which Driffield's disreputable early life was first observed.",
+      "aliases": [
+        "the vicarage",
+        "my uncle's house"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "house"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:the-vicarage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        }
+      ]
+    },
+    {
+      "id": "truth",
+      "type": "concept",
+      "label": "Truth",
+      "description": "A contested value in Cakes and Ale — what a biography is supposed to tell but what social propriety, reputation management, and literary careerism conspire to suppress. The novel stages the conflict between truth and tact across every act of recollection.",
+      "aliases": [
+        "literary truth",
+        "truth-telling",
+        "veracity"
+      ],
+      "tags": [
+        "concept",
+        "pilot",
+        "theme",
+        "biography",
+        "reputation",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "cakes-and-ale:truth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "Cakes and Ale"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "Rosie"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "sincerity",
+          "label": "sincerity"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "hypocrisy",
+          "label": "hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "biography",
+          "label": "biography"
+        }
+      ]
+    },
+    {
+      "id": "vicar-blackstable",
+      "type": "person",
+      "label": "The Vicar of Blackstable",
+      "description": "The vicar of Blackstable parish and Ashenden's uncle and guardian — a lazy, socially conservative clergyman who disapproves of the Driffields and tries to shield his nephew from literature and low company.",
+      "aliases": [
+        "Ashenden's uncle"
+      ],
+      "tags": [
+        "person",
+        "clergy",
+        "blackstable",
+        "guardian",
+        "church-of-england"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:vicar-blackstable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "galloway"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the-vicarage"
+        },
+        {
+          "type": "related",
+          "target": "vicars-wife",
+          "label": "vicars-wife"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "vicars-wife",
+      "type": "person",
+      "label": "The Vicar's Wife",
+      "description": "Ashenden's German aunt, the vicar's wife at Blackstable — a meek woman of noble but impoverished lineage who maintains aristocratic standards in a modest parsonage.",
+      "aliases": [
+        "Ashenden's aunt"
+      ],
+      "tags": [
+        "person",
+        "clergy-family",
+        "german",
+        "blackstable",
+        "guardian"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:vicars-wife",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "vicar-blackstable",
+          "label": "vicar-blackstable"
+        },
+        {
+          "type": "related",
+          "target": "galloway",
+          "label": "galloway"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "the-vicarage",
+          "label": "the-vicarage"
+        },
+        {
+          "type": "related",
+          "target": "cakes-and-ale",
+          "label": "cakes-and-ale"
+        }
+      ]
+    },
+    {
+      "id": "victoria-station",
+      "type": "place",
+      "label": "Victoria Station",
+      "description": "The London railway station from which Ashenden and Kear depart for Blackstable — a threshold between metropolitan literary life and the provincial past.",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot",
+        "station"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:victoria-station",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        }
+      ]
+    },
+    {
+      "id": "westminster",
+      "type": "place",
+      "label": "Westminster",
+      "description": "The London district centred on the Abbey and Parliament, representing in the novel the intersection of literary reputation, institutional power, and the machinery of canonization — most sharply in the campaign to have Driffield buried in the Abbey.",
+      "aliases": [
+        "Westminster Abbey",
+        "Westminster School"
+      ],
+      "tags": [
+        "place",
+        "london",
+        "literary-quarter",
+        "politics",
+        "abbey",
+        "school"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:westminster",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alroy-kear",
+          "label": "alroy-kear"
+        },
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "chelsea",
+          "label": "chelsea"
+        },
+        {
+          "type": "related",
+          "target": "bloomsbury",
+          "label": "bloomsbury"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    },
+    {
+      "id": "westminster-abbey",
+      "type": "place",
+      "label": "Westminster Abbey",
+      "description": "The site of England's highest literary honor — burial in Poets' Corner — debated in the novel's closing reflections on Driffield's posthumous reputation.",
+      "aliases": [
+        "the Abbey"
+      ],
+      "tags": [
+        "location",
+        "pilot",
+        "burial-site"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:westminster-abbey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward-driffield",
+          "label": "edward-driffield"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        },
+        {
+          "type": "related",
+          "target": "literary-establishment",
+          "label": "literary-establishment"
+        }
+      ]
+    },
+    {
+      "id": "work-index",
+      "type": "list",
+      "label": "Work Index",
+      "description": "Index of literary and artistic works referenced in Cakes and Ale",
+      "aliases": [
+        "works",
+        "books",
+        "literary-works"
+      ],
+      "tags": [
+        "index",
+        "works",
+        "literature"
+      ],
+      "quality": "unknown",
+      "source_ref": "cakes-and-ale:work-index",
+      "relations": []
+    },
+    {
+      "id": "yonkers",
+      "type": "place",
+      "label": "Yonkers",
+      "description": "The suburban town in New York State where Rosie Driffield (now Mrs. Iggulden) settled with her husband George Kemp after emigrating from England, the setting for her reunion with Ashenden in Chapter 26.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "america",
+        "new-york",
+        "rosie",
+        "chapter-26"
+      ],
+      "quality": "standard",
+      "source_ref": "cakes-and-ale:yonkers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rosie-driffield",
+          "label": "rosie-driffield"
+        },
+        {
+          "type": "related",
+          "target": "ashenden",
+          "label": "ashenden"
+        },
+        {
+          "type": "related",
+          "target": "lord-george-kemp",
+          "label": "lord-george-kemp"
+        },
+        {
+          "type": "related",
+          "target": "blackstable",
+          "label": "blackstable"
+        }
+      ]
+    }
+  ]
+}

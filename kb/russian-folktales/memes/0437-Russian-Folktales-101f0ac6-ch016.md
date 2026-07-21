@@ -1,0 +1,69 @@
+---
+description: "Once a peasant lived with his wife, and they had three daughters: two were finely dressed and clever, but the third was a simple girl; the sisters and the father and mother as w."
+id: 0437-Russian-Folktales-101f0ac6-ch016
+label: "The Tale of the Silver Saucer and the Crystal Apple"
+tags: ["chapter"]
+type: chapter
+---
+
+# The Tale of the Silver Saucer and the Crystal Apple
+
+## The Tale of the Silver Saucer and the Crystal Apple
+
+[010-001]Once a peasant lived with his wife, and they had three daughters: two were finely dressed and clever, but the third was a simple girl; the sisters and the father and mother as well called her the Little Fool. They hustled the Little Fool, thrust her about this way and that and forced her to work. She never said a word and was always ready to weed the grass, break off lamp-splinters, feed the cows and ducks, and whatever anybody asked for the Little Fool would bring. They had only to say, “Fool, go and fetch this!” or “Fool, come and look here!”
+
+[010-002]One day the peasant went with his hay to the fair, and he asked his daughters, “What shall I bring you as your fairing?”
+
+[010-003]One daughter asked, “Buy me some red cloth for a sarafán.” The other asked, “Buy me some scarlet nankin.” But the Fool sat still and said nothing.
+
+[010-004]Well, after all, the Fool was his daughter, and her father felt sorry for her, so he asked her, “What would you like to have, Fool?”
+
+[010-005]So the Fool smiled and said, “Buy me, my own father, a [[the-silver-saucer-and-crystal-apple|silver saucer]] and a [[magical-fruits-in-folklore|crystal apple]].”
+
+[010-006]“What do you mean?” asked the sisters.
+
+[010-007]“I should then roll the apple on the saucer, and should speak words which an old woman taught me in return for my giving her a loaf of white bread.” So the peasant promised, and went away.
+
+[010-008]Whether he went far or near, whether he took long or short, anyhow he went to the fair, sold his hay, bought the fairings, gave his one daughter the scarlet nankin, the other the red cloth for a sarafán and the Fool a silver saucer and a crystal apple. He came back home and he showed them. Both sisters were overjoyed, sewed sarafáns, and mocked the Fool, and waited to see what she would do with her silver saucer and crystal apple. But the Fool did not eat the apple, but sat in a corner and whispered, “Roll, roll, roll, little apple, on the silver saucer, and show me all the cities and the fields, all the woods and the seas, and the heights of the hills and the fairness of heaven.”
+
+[010-009]Then the apple rolled about on the saucer; a transparency came over the silver; and, on the saucer, all the cities, one after the other, became visible, all the ships on the seas, and the regiments in the fields, and the heights of the mountains, and the beauties of the sky. Sunset appeared after sunset and the stars gathered in their nocturnal dances: it was all so beautiful and so lovely as no tale can tell and no pen can write.
+
+[010-010]Then the sisters looked on and they became envious and wanted to take the saucer away from their sister, but she would not exchange her saucer for anything else in the world. So the evil sisters walked about, called out and began to talk. “Oh, my darling sisters, let us go into the wood and pick berries and look for wild strawberries!” So the Fool gave her saucer to her father and herself went into the wood. She wandered about with her sisters, plucked the strawberries, and saw a spade lying on the grass; then the other sisters took the spade and began beating the Fool with it, slew the Fool, buried her under a silver birch, and came back to their father late at night, saying, “The Little Fool ran away from us, we could not find her, we went all over the wood searching for her. We suppose the wolves must have eaten her up.” But the father was sorry. She was a Fool, but she was his daughter after all, and so the peasant wept for his daughter, took the silver saucer and the apple, put them into a coffer and locked them up. And the sisters also wept for her.
+
+[010-011]Soon a herd came by and the trumpet sounded at dawn. But the shepherd was taking his flock, and at dawn he sounded his trumpet and went into the wood to look for a little lamb. He saw a little hummock beside a silver birch, and on it all around ruby-red and azure flowers, and bulrushes standing above the flowers. So the young shepherd broke a bulrush, made a pipe of it, and a wonderful wonder happened, a marvellous marvel: the pipe began of itself to sing and to speak. “Play on, play on, my little pipe. Console my father, console my guiding light, my father, and tell my mother of me, and my sisters, the little doves. For they killed me, the poor one, and for a silver saucer have severed me from light, all for my enchanted apple.”
+
+[010-012]People heard and ran together, the entire village thronged round the shepherd, asked him who had been slain. There was no end to the question. “Good folks all,” said the shepherd, “I do not know anything about it. I was looking for a little sheep in the wood, and I saw a knoll, on the knoll flowers, and a bulrush over the knoll. I broke off a bulrush, carved myself a pipe out of it, and the pipe began singing and speaking of itself.”
+
+[010-013]Now it so happened that the father of the Little Fool was there, heard the words of the shepherd, wanted to lay hold of the pipe, when the pipe began singing, “Play on, play on, little pipe: this is my father; console him with my mother. My poor little self they slew, they withdrew from the white world, all for the sake of my silver vessel and crystal apple.”
+
+[010-014]“Lead us, shepherd,” said the father, “where you broke off the bulrush.” So they followed the shepherd into the wood and to the knoll, and they were amazed at the beautiful flowers, ruby-red, sky-blue, that grew there.
+
+[010-015]Then they began to dig up the knoll and discovered the dead body. The father clasped his hands, groaned as he recognised his unfortunate daughter, saw her lying there slain, not knowing by whom she had been buried. And all the good folks asked who had been the slayers, who had been the murderers. Then the pipe began playing and speaking of itself. “O my light, my father, my sisters called me to the wood: they killed me here to get my saucer, my silver saucer, and my crystal apple. You cannot raise me from my heavy sleep till you get water from the Tsar’s well.”
+
+[010-016]The two envious sisters trembled, paled, and their [[the-soul-in-russian-folklore|soul]] was in flames. They acknowledged their guilt. They were seized, bound, locked up in a dark vault at the Tsar’s pleasure. But the father set out on his way to the capital city. The road was long or short. At last he reached the town and came up to the palace. The Tsar, the little sun, was coming down the golden staircase. The old man bowed down to the earth and asked for the Tsar’s mercy. Then the Tsar, the hope, said, “Take the [[the-water-of-life-and-death|water of life]] from the Tsar’s well. When your daughter revives, bring her here with the saucer, the apple, and the evildoing sisters.”
+
+[010-017]The old man was overjoyed, bowed down to earth and took the phial with the living water, ran into the wood to the flowery knoll, and took up the body. As soon as ever he sprinkled it with the water his daughter sprang up in front of him alive, and hung like a dove upon her father’s neck. All the people gathered together and wept. The old man went to the capital city. He was taken into the Tsar’s rooms. The Tsar, the little sun, appeared, saw the old man with his three daughters, two tied by the hands, and the third daughter like a spring flower, the light of Paradise in her eyes, with the dawn on her face, tears flowing in her eyes, falling like pearls.
+
+[010-018]The Tsar looked and was amazed, and was wroth with the wicked sisters. He asked the fair maiden, “Where are your saucer and the crystal apple?”
+
+[010-019]Then she took the little coffer out of her father’s hands, took out the apple and the saucer, and herself asked the Tsar, “What do you want to see, O Tsar my Emperor? Would you like to see your powerful cities, your valorous hosts, your ships on the sea, or the wonderful stars of the sky?” And she let the crystal apple roll about on the silver saucer, and on the saucer one after the other all the towns appeared in their shape; all the regiments with their banners and their arquebuses standing in warlike array, the leaders in front of the lines and the colonels in front of the platoons and the sergeants in front of their companies. And the guns fired and the shots flew, and the smoke wreathed and writhed: it was all visible to the eye. Then again the apple rolled about on the saucer, the crystal on the silver, and the sea could be seen billowing on the shore, and the ships swimming like swans, flags flying, issuing from the stern, and the noise of guns and cannon-smoke arriving like wreaths, all visible to the eye. Then again the apple rolled on the saucer, the crystal on the silver, and the sky was red on the saucer, and little sun after little sun made its round, and the stars gathered on their dance. The Tsar was amazed at this wonder.
+
+[010-020]But the fair maiden was lost in tears and fell down at the Tsar’s feet and begged for mercy, saying, “Tsar, your Majesty,” she said, “take my silver saucer and crystal apple if you will only forgive my sisters, and do not destroy them for my sake.”
+
+[010-021]And the Tsar was melted by her tears and pardoned them at her request. She for sheer joy shouted out and fell upon her sisters. The Tsar looked round, was amazed, took the fair maiden by the hand, said to her in a kindly voice, “I must for your goodness love your beauty: will you be my wife and the Tsarítsa of my fair realm?”
+
+[010-022]“Tsar, your Majesty,” answered the fair maiden, “it is your imperial will, but it is the father’s will which is law amongst the daughters, and the blessing of their mother. If my father will, if my mother will bless me, I will.”
+
+[010-023]Then the father bowed down to earth, and he sent for the mother, and the mother blessed her.
+
+[010-024]“Yet I have one word more for you,” said the fair maiden to the Tsar: “Do not separate my kin from me, let my mother and my father and my sisters remain with me.”
+
+[010-025]Then the sisters bowed down to her feet, and said, “We are not worthy!”
+
+[010-026]“It has all been forgotten, my beloved sisters,” she said to them; “ye are my kin, ye are not strangers. He who bears in mind an ill bygone has lost his sight.” And as she said this, she smiled and raised her sisters up.
+
+[010-027]And her sisters wept from sheer emotion, as the rivers flow, and would not rise from the ground.
+
+[010-028]Then the Tsar bade them rise and looked on them kindly, bidding them remain in the city.
+
+[010-029]There was a feast in the palace: the front steps glittered and glowed as though with flame, like the sun enwreathed in his beams. The Tsar and the Tsarítsa sat on a chariot, and the earth trembled, and the people ran up crying out, “Long live the Tsar and Tsarítsa!”

@@ -1,0 +1,11 @@
+---
+description: "This problem of the value of pity and of the pity-morality (I am an opponent of the modern infamous emasculation of our…"
+id: Preface-Section-6
+label: "Preface, Section 6"
+tags: ["chapter"]
+type: chapter
+---
+
+#### PREFACE.
+
+[P08-001]This problem of the value of pity and of the pity-morality (I am an opponent of the modern infamous emasculation of our emotions) seems at the first blush a mere isolated problem, a note of interrogation for itself; he, however, who once halts at this problem, and learns how to put questions, will experience what I experienced:—a new and immense vista unfolds itself before him, a sense of potentiality seizes him like a vertigo, every species of doubt, mistrust, and fear springs up, the belief in morality, nay, in all morality, totters,—finally a new demand voices itself. Let us speak out this _new demand_ : we need a _critique_ of moral values, _the value of these values_ is for the first time to be called into question—and for this purpose a knowledge is necessary of the conditions and circumstances out of which these values grew, and under which they experienced their evolution and their distortion (morality as a result, as a symptom, as a mask, as Tartuffism, as disease, as a misunderstanding; but also morality as a cause, as a remedy, as a stimulant, as a fetter, as a drug), especially as such a knowledge has neither existed up to the present time nor is even now generally desired. The value of these "values" was taken for granted as an indisputable fact, which was beyond all question. No one has, up to the present, exhibited the faintest doubt or hesitation in judging the "good man" to be of a higher value than the "evil man," of a higher value with regard specifically to human progress, utility, and prosperity generally, not forgetting the future. What? Suppose the converse were the truth! What? Suppose there lurked in the "good man" a symptom of retrogression, such as a danger, a temptation, a poison, a _narcotic_ , by means of which the present _battened on the future_! More comfortable and less risky perhaps than its opposite, but also pettier, meaner! So that morality would really be saddled with the guilt, if the _maximum potentiality of the power and splendour_ of the human species were never to be attained? So that really morality would be the danger of dangers?

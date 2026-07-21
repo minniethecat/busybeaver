@@ -1,0 +1,4171 @@
+{
+  "book": "beyond-good-and-evil",
+  "title": "Beyond Good and Evil",
+  "description": "Beyond Good and Evil — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 138,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Beyond Good and Evil\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:About",
+      "relations": []
+    },
+    {
+      "id": "From-the-Heights",
+      "type": "chapter",
+      "label": "\"From the Heights\"",
+      "description": "\"Poem: From the Heights, translated by L. A. Magnus\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:From-the-Heights",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        }
+      ]
+    },
+    {
+      "id": "Front-Matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Project Gutenberg eBook metadata and transcriber notes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:Front-Matter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        }
+      ]
+    },
+    {
+      "id": "License",
+      "type": "chapter",
+      "label": "\"Project Gutenberg License\"",
+      "description": "\"The full Project Gutenberg license text\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:License",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "Preface",
+      "type": "chapter",
+      "label": "\"Preface\"",
+      "description": "\"Author's preface to Beyond Good and Evil\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:Preface",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "subject"
+        },
+        {
+          "type": "related",
+          "target": "platonism",
+          "label": "Platonism"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "Socrates"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "jesuitism",
+          "label": "Jesuitism"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirits"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "From-the-Heights",
+          "label": "From-the-Heights"
+        },
+        {
+          "type": "related",
+          "target": "License",
+          "label": "License"
+        }
+      ]
+    },
+    {
+      "id": "Title-Page",
+      "type": "chapter",
+      "label": "\"Beyond Good and Evil\"",
+      "description": "\"Title page and author attribution\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:Title-Page",
+      "relations": []
+    },
+    {
+      "id": "Translator-Note",
+      "type": "chapter",
+      "label": "\"Translator's Note\"",
+      "description": "\"Translation credit: Helen Zimmern\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:Translator-Note",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "skepticism",
+          "label": "skeptic"
+        }
+      ]
+    },
+    {
+      "id": "a-treatise-of-human-nature",
+      "type": "work",
+      "label": "\"A Treatise of Human Nature\"",
+      "description": "\"David Hume's 1739 masterwork of skeptical empiricism, which Nietzsche respected as the most honest expression of the English philosophical tradition — a skepticism that, for all its limitations, at least had the courage of its own conclusions.\"",
+      "aliases": [
+        "Hume's Treatise",
+        "Treatise of Human Nature"
+      ],
+      "tags": [
+        "philosophy",
+        "epistemology",
+        "skepticism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:a-treatise-of-human-nature",
+      "relations": []
+    },
+    {
+      "id": "anarchism",
+      "type": "school",
+      "label": "\"Anarchism\"",
+      "description": "\"The political philosophy advocating the abolition of all hierarchical authority, which Nietzsche regarded as the logical endpoint of the democratic-egalitarian tendency — and as a form of the will to power disguised as its opposite.\"",
+      "aliases": [
+        "Anarchist",
+        "anarchist movement"
+      ],
+      "tags": [
+        "modern",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:anarchism",
+      "relations": []
+    },
+    {
+      "id": "ancient-skepticism",
+      "type": "school",
+      "label": "\"Ancient Skepticism\"",
+      "description": "\"The Pyrrhonian tradition of philosophical skepticism, which Nietzsche distinguishes from modern skeptical exhaustion as a vigorous intellectual discipline.\"",
+      "aliases": [],
+      "tags": [
+        "ancient",
+        "greek"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:ancient-skepticism",
+      "relations": []
+    },
+    {
+      "id": "aristocracy",
+      "type": "concept",
+      "label": "Aristocracy",
+      "description": "The noble or aristocratic form of social organization based on hierarchy and rank",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:aristocracy",
+      "relations": []
+    },
+    {
+      "id": "arthur-schopenhauer",
+      "type": "person",
+      "label": "\"Arthur Schopenhauer\"",
+      "description": "\"Arthur Schopenhauer (1788–1860) was the German philosopher whose pessimistic metaphysics of the will profoundly influenced Nietzsche's early thought and against whom Nietzsche defined his mature philosophy.\"",
+      "aliases": [
+        "Schopenhauer"
+      ],
+      "tags": [
+        "philosopher",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:arthur-schopenhauer",
+      "relations": []
+    },
+    {
+      "id": "augustine",
+      "type": "person",
+      "label": "Augustine",
+      "description": "Church Father and theologian (354–430 CE), Bishop of Hippo, referenced by Nietzsche as an example of religious slave morality and the weak type of man in ages of cultural dissolution.",
+      "aliases": [
+        "St. Augustine",
+        "Augustine of Hippo",
+        "Aurelius Augustinus"
+      ],
+      "tags": [
+        "philosopher",
+        "religious",
+        "theologian"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:augustine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martin-luther",
+          "label": "Martin Luther"
+        },
+        {
+          "type": "related",
+          "target": "epicurus",
+          "label": "Epicurus"
+        },
+        {
+          "type": "related",
+          "target": "jesus-of-nazareth",
+          "label": "Jesus of Nazareth"
+        }
+      ]
+    },
+    {
+      "id": "baruch-spinoza",
+      "type": "person",
+      "label": "\"Baruch Spinoza\"",
+      "description": "\"Baruch Spinoza (1632–1677) was the Dutch-Jewish rationalist philosopher whose pantheism and critique of teleology Nietzsche regarded as important precursors to his own naturalism, though Spinoza's geometrical method and rationalist optimism remained fundamentally un-Nietzschean.\"",
+      "aliases": [
+        "Spinoza",
+        "Benedict de Spinoza"
+      ],
+      "tags": [
+        "philosopher",
+        "jewish"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:baruch-spinoza",
+      "relations": []
+    },
+    {
+      "id": "beyond-good-and-evil",
+      "type": "work",
+      "label": "\"Beyond Good and Evil\"",
+      "description": "\"Nietzsche's own work — the very book this wiki annotates — a sustained critique of Western philosophy and morality that prepares the ground for a philosophy of the future.\"",
+      "aliases": [],
+      "tags": [
+        "19th-century",
+        "german",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:beyond-good-and-evil",
+      "relations": []
+    },
+    {
+      "id": "blaise-pascal",
+      "type": "person",
+      "label": "\"Blaise Pascal\"",
+      "description": "\"Blaise Pascal (1623–1662) was the French mathematician, physicist, and religious philosopher whom Nietzsche regarded as 'the most instructive victim of Christianity' — a great intellect destroyed by the very faith he embraced.\"",
+      "aliases": [
+        "Pascal"
+      ],
+      "tags": [
+        "philosopher",
+        "religious",
+        "french"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:blaise-pascal",
+      "relations": []
+    },
+    {
+      "id": "buddhism",
+      "type": "school",
+      "label": "\"Buddhism\"",
+      "description": "\"The religious-philosophical tradition that Nietzsche regarded as a more honest and sophisticated form of world-denial than Christianity — a 'religion for the close of a civilization' rather than for its beginning.\"",
+      "aliases": [
+        "Buddhist",
+        "the Buddhist tradition"
+      ],
+      "tags": [
+        "religious",
+        "eastern",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:buddhism",
+      "relations": []
+    },
+    {
+      "id": "candide",
+      "type": "work",
+      "label": "\"Candide\"",
+      "description": "\"Voltaire's 1759 satirical novella attacking philosophical optimism, which Nietzsche admired as an expression of the 'good European' spirit — the French Enlightenment at its most lucid, ironic, and merciless.\"",
+      "aliases": [
+        "Candide",
+        "ou l'Optimisme",
+        "Voltaire's Candide"
+      ],
+      "tags": [
+        "literature",
+        "philosophy",
+        "satire"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:candide",
+      "relations": []
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Chapter I: Prejudices of Philosophers\"",
+      "description": "\"On the prejudices of philosophers and the will to truth\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will-to-truth",
+          "label": "Will to Truth"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "prejudices"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "good taste"
+        },
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "Kant"
+        },
+        {
+          "type": "related",
+          "target": "baruch-spinoza",
+          "label": "Spinoza"
+        },
+        {
+          "type": "related",
+          "target": "epicurus",
+          "label": "Epicurus"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "stoicism",
+          "label": "the Stoa"
+        },
+        {
+          "type": "related",
+          "target": "nihilism",
+          "label": "Nihilism"
+        },
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "positivism",
+          "label": "Positivism"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "profundity"
+        },
+        {
+          "type": "related",
+          "target": "romanticism",
+          "label": "Romanticism"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "disguise"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Chapter II: The Free Spirit\"",
+      "description": "\"On the free spirit and intellectual independence\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will-to-truth",
+          "label": "truthfulness"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "baruch-spinoza",
+          "label": "Spinoza"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "good taste"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "voltaire",
+          "label": "Voltaire"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "profundity"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "moral prejudice"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirits"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "cruelty",
+          "label": "cruelty"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Chapter III: The Religious Mood\"",
+      "description": "\"On the religious mood and its psychological roots\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "intellectual-conscience",
+          "label": "intellectual conscience"
+        },
+        {
+          "type": "related",
+          "target": "blaise-pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "martin-luther",
+          "label": "Luther"
+        },
+        {
+          "type": "related",
+          "target": "cruelty",
+          "label": "cruelty"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "Richard Wagner"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "rene-descartes",
+          "label": "Descartes"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "profundity"
+        },
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "order of rank"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirits"
+        },
+        {
+          "type": "related",
+          "target": "epicureanism",
+          "label": "Epicurean philosophy"
+        },
+        {
+          "type": "related",
+          "target": "buddhism",
+          "label": "Buddhism"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Chapter IV: Apophthegms and Interludes\"",
+      "description": "\"Apophthegms and interludes — aphorisms and short sayings\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "Socrates"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "the profound"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "concealment"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "will-to-truth",
+          "label": "truthfulness"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Chapter V: The Natural History of Morals\"",
+      "description": "\"On the natural history of morals\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "pessimism",
+          "label": "pessimist"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "Kant"
+        },
+        {
+          "type": "related",
+          "target": "stoicism",
+          "label": "Stoicism"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "discipline"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "Socrates"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "rene-descartes",
+          "label": "Descartes"
+        },
+        {
+          "type": "related",
+          "target": "julius-caesar",
+          "label": "Caesar Borgia"
+        },
+        {
+          "type": "related",
+          "target": "baruch-spinoza",
+          "label": "Spinoza"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "prejudices"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "epicureanism",
+          "label": "Epicurean"
+        },
+        {
+          "type": "related",
+          "target": "buddhism",
+          "label": "Buddhism"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirits"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Chapter VI: We Scholars\"",
+      "description": "\"On scholars and the scholarly disposition\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "g-w-f-hegel",
+          "label": "Hegel"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "intellectual-conscience",
+          "label": "intellectual conscience"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "jesuitism",
+          "label": "Jesuitism"
+        },
+        {
+          "type": "related",
+          "target": "pessimism",
+          "label": "pessimist"
+        },
+        {
+          "type": "related",
+          "target": "skepticism",
+          "label": "skeptic"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "Socrates"
+        },
+        {
+          "type": "related",
+          "target": "romanticism",
+          "label": "Romanticism"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "cruelty",
+          "label": "cruelty"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "discipline"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "depth"
+        },
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "Kant"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Chapter VII: Our Virtues\"",
+      "description": "\"On our virtues and the character of modern man\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cruelty",
+          "label": "cruelty"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "training"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "order of rank"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "voltaire",
+          "label": "Voltaire"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "depth"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirits"
+        },
+        {
+          "type": "related",
+          "target": "blaise-pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "intellectual-conscience",
+          "label": "intellectual conscience"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Chapter VIII: Peoples and Countries\"",
+      "description": "\"On peoples and countries — national characteristics\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "Richard Wagner"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "depth"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "faust",
+          "label": "Faust"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "g-w-f-hegel",
+          "label": "Hegel"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "romanticism",
+          "label": "Romanticism"
+        },
+        {
+          "type": "related",
+          "target": "martin-luther",
+          "label": "Luther"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "Kant"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "discipline"
+        },
+        {
+          "type": "related",
+          "target": "charles-darwin",
+          "label": "Darwin"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "prejudices"
+        },
+        {
+          "type": "related",
+          "target": "epicureanism",
+          "label": "Epicurean"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Chapter IX: What Is Noble?\"",
+      "description": "\"On what is noble — the master morality\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "beyond-good-and-evil:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "ego",
+          "label": "self"
+        },
+        {
+          "type": "related",
+          "target": "instinct",
+          "label": "instincts"
+        },
+        {
+          "type": "related",
+          "target": "taste",
+          "label": "taste"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "discipline"
+        },
+        {
+          "type": "related",
+          "target": "will-to-truth",
+          "label": "truthfulness"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "mask",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "depth",
+          "label": "depth"
+        },
+        {
+          "type": "related",
+          "target": "faust",
+          "label": "Faust"
+        }
+      ]
+    },
+    {
+      "id": "charles-darwin",
+      "type": "person",
+      "label": "\"Charles Darwin\"",
+      "description": "\"Charles Darwin (1809–1882) was the English naturalist whose theory of evolution by natural selection Nietzsche engaged as both a confirmation of his anti-teleological naturalism and a target of critique — Darwinism, for Nietzsche, mistook the struggle for mere survival when it should have recognized the will to power.\"",
+      "aliases": [
+        "Darwin"
+      ],
+      "tags": [
+        "scientific",
+        "modern"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:charles-darwin",
+      "relations": []
+    },
+    {
+      "id": "christianity",
+      "type": "school",
+      "label": "\"Christianity\"",
+      "description": "\"Christianity, for Nietzsche, is 'Platonism for the people' — the religion that inherited Plato's devaluation of the world and democratized it, creating a 'slave morality' that has dominated European civilization for two millennia.\"",
+      "aliases": [
+        "Christian",
+        "the Christian faith",
+        "Christian religion"
+      ],
+      "tags": [
+        "religious",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:christianity",
+      "relations": []
+    },
+    {
+      "id": "christianity-philosophical",
+      "type": "school",
+      "label": "\"Christianity as Philosophical System\"",
+      "description": "\"Christianity treated as a moral and metaphysical system — Platonism for the people — that Nietzsche analyzes as the most successful expression of slave morality in history.\"",
+      "aliases": [],
+      "tags": [
+        "ancient",
+        "religious"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:christianity-philosophical",
+      "relations": []
+    },
+    {
+      "id": "compassion",
+      "type": "concept",
+      "label": "Compassion",
+      "description": "Mitleid — pity or compassion, critiqued by Nietzsche as a weakening morality",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:compassion",
+      "relations": []
+    },
+    {
+      "id": "critique-of-pure-reason",
+      "type": "work",
+      "label": "\"Critique of Pure Reason\"",
+      "description": "\"Immanuel Kant's 1781 masterwork of transcendental idealism, which Nietzsche regarded as the great 'delaying action' of theology — a sophisticated attempt to limit knowledge in order to make room for faith.\"",
+      "aliases": [
+        "Kritik der reinen Vernunft",
+        "the first Critique"
+      ],
+      "tags": [
+        "philosophy",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:critique-of-pure-reason",
+      "relations": []
+    },
+    {
+      "id": "cruelty",
+      "type": "concept",
+      "label": "\"Cruelty\"",
+      "description": "\"Nietzsche revalues cruelty from a moral vice into an intellectual virtue — the hardness necessary for genuine thinking, which refuses the consolations of comfortable falsehoods and demands that truths be faced without mitigation.\"",
+      "aliases": [
+        "cruelty",
+        "Grausamkeit",
+        "intellectual cruelty",
+        "spiritual cruelty"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:cruelty",
+      "relations": []
+    },
+    {
+      "id": "danger",
+      "type": "concept",
+      "label": "Danger",
+      "description": "Gefahr — danger as a condition for the elevation of the human type; the noble soul lives dangerously",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:danger",
+      "relations": []
+    },
+    {
+      "id": "darwinism",
+      "type": "school",
+      "label": "\"Darwinism\"",
+      "description": "\"The scientific and philosophical movement based on Darwin's theory of evolution by natural selection, which Nietzsche engaged as both a confirmation of his anti-teleological naturalism and a target of critique for its 'English' reduction of life to mere survival.\"",
+      "aliases": [
+        "Darwinian",
+        "Darwinian evolution",
+        "evolutionary theory"
+      ],
+      "tags": [
+        "modern",
+        "british",
+        "scientific"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:darwinism",
+      "relations": []
+    },
+    {
+      "id": "darwinism-philosophical",
+      "type": "school",
+      "label": "\"Darwinism as Worldview\"",
+      "description": "\"The extension of Darwinian natural selection beyond biology — which Nietzsche critiques as projecting bourgeois competitive values onto nature.\"",
+      "aliases": [],
+      "tags": [
+        "19th-century",
+        "british"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:darwinism-philosophical",
+      "relations": []
+    },
+    {
+      "id": "de-rerum-natura",
+      "type": "work",
+      "label": "\"De Rerum Natura\"",
+      "description": "\"Lucretius's first-century BCE didactic poem expounding Epicurean philosophy, which Nietzsche admired as the greatest poetic rendering of the materialist, anti-teleological worldview he shared.\"",
+      "aliases": [
+        "On the Nature of Things",
+        "Lucretius's poem"
+      ],
+      "tags": [
+        "philosophy",
+        "poetry",
+        "epicureanism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:de-rerum-natura",
+      "relations": []
+    },
+    {
+      "id": "democracy",
+      "type": "concept",
+      "label": "Democracy",
+      "description": "The democratic movement and its leveling tendencies in modern Europe",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:democracy",
+      "relations": []
+    },
+    {
+      "id": "depth",
+      "type": "concept",
+      "label": "\"Depth\"",
+      "description": "\"Nietzsche's spatial metaphor of 'depth' (Tiefe) describes a quality of spiritual and intellectual life — the capacity to go beneath surfaces, to endure ambiguity, and to resist the consolations of the superficial.\"",
+      "aliases": [
+        "depth",
+        "Tiefe",
+        "profundity",
+        "the profound"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:depth",
+      "relations": []
+    },
+    {
+      "id": "dialogues-plato",
+      "type": "work",
+      "label": "\"Dialogues\"",
+      "description": "\"Plato's collected dialogues — the corpus through which Platonism entered the Western tradition and the primary texts against which Nietzsche defines his philosophy.\"",
+      "aliases": [],
+      "tags": [
+        "ancient",
+        "greek",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:dialogues-plato",
+      "relations": []
+    },
+    {
+      "id": "discipline",
+      "type": "concept",
+      "label": "\"Discipline\"",
+      "description": "\"For Nietzsche, discipline (Zucht) is not repression but the productive channeling of instincts toward a higher end — the cultivation of the self through the coordinated exercise of all its powers.\"",
+      "aliases": [
+        "discipline",
+        "Zucht",
+        "self-discipline",
+        "breeding",
+        "training"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:discipline",
+      "relations": []
+    },
+    {
+      "id": "ego",
+      "type": "concept",
+      "label": "\"Ego\"",
+      "description": "\"Nietzsche's critique of the ego (Ich, subject) challenges the Cartesian and Kantian assumption of a unified, substantial self — replacing it with a dynamic 'social structure of many souls,' a hierarchy of competing drives and perspectives.\"",
+      "aliases": [
+        "ego",
+        "self",
+        "Ich",
+        "subject",
+        "individual"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:ego",
+      "relations": []
+    },
+    {
+      "id": "enlightenment",
+      "type": "event",
+      "label": "Enlightenment",
+      "description": "The Enlightenment as Nietzsche understood it in Beyond Good and Evil — a slave revolt in morality that caused the \"revolt of the ruled\" against traditional authorities",
+      "aliases": [
+        "Age of Enlightenment",
+        "Aufklärung",
+        "European Enlightenment"
+      ],
+      "tags": [
+        "intellectual-movement"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:enlightenment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "french-revolution",
+          "label": "french-revolution"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "europe"
+        },
+        {
+          "type": "related",
+          "target": "voltaire",
+          "label": "voltaire"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        },
+        {
+          "type": "related",
+          "target": "modernity",
+          "label": "modernity"
+        }
+      ]
+    },
+    {
+      "id": "epicureanism",
+      "type": "school",
+      "label": "\"Epicureanism\"",
+      "description": "\"The Hellenistic philosophical school founded by Epicurus that Nietzsche regarded with unusual sympathy — a philosophy of immanence, pleasure, and the indifference of the gods that offered an alternative to the Platonic-Christian tradition.\"",
+      "aliases": [
+        "Epicurean",
+        "the Garden",
+        "Epicurean philosophy"
+      ],
+      "tags": [
+        "ancient",
+        "greek",
+        "hedonism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:epicureanism",
+      "relations": []
+    },
+    {
+      "id": "epicurus",
+      "type": "person",
+      "label": "\"Epicurus\"",
+      "description": "\"Epicurus (341–270 BCE) was the Greek philosopher whose hedonistic ethics and materialist physics Nietzsche regarded with sympathy — a fellow enemy of Platonism and Christianity whose 'refined voluptuousness' of the spirit prefigured Nietzsche's own philosophical temperament.\"",
+      "aliases": [
+        "Epicurus of Samos"
+      ],
+      "tags": [
+        "philosopher",
+        "greek"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:epicurus",
+      "relations": []
+    },
+    {
+      "id": "equality",
+      "type": "concept",
+      "label": "Equality",
+      "description": "The doctrine of human equality, critiqued by Nietzsche as herd morality",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:equality",
+      "relations": []
+    },
+    {
+      "id": "essay-concerning-human-understanding",
+      "type": "work",
+      "label": "\"An Essay Concerning Human Understanding\"",
+      "description": "\"John Locke's 1689 foundation of British empiricism, which Nietzsche regarded as an exemplary instance of the 'English' philosophical temperament — sober, practical, and philosophically shallow in its failure to question its own presuppositions.\"",
+      "aliases": [
+        "Locke's Essay",
+        "Essay Concerning Human Understanding"
+      ],
+      "tags": [
+        "philosophy",
+        "epistemology",
+        "empiricism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:essay-concerning-human-understanding",
+      "relations": []
+    },
+    {
+      "id": "eternal-return",
+      "type": "concept",
+      "label": "Eternal Return",
+      "description": "The doctrine of the eternal recurrence of all things, Nietzsche's supreme test of affirmation",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:eternal-return",
+      "relations": []
+    },
+    {
+      "id": "ethics-spinoza",
+      "type": "work",
+      "label": "\"Ethics\"",
+      "description": "\"Spinoza's posthumously published masterwork (1677), whose pantheism and geometrical method Nietzsche both admired and critiqued — an important precursor to his own naturalism, despite its rationalist 'mask.'\"",
+      "aliases": [
+        "Ethica",
+        "ordine geometrico demonstrata",
+        "Spinoza's Ethics"
+      ],
+      "tags": [
+        "philosophy",
+        "metaphysics",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:ethics-spinoza",
+      "relations": []
+    },
+    {
+      "id": "europe",
+      "type": "place",
+      "label": "Europe",
+      "description": "Europe as the philosophical and cultural setting of Nietzsche's critique in Beyond Good and Evil — the seat of modern ideas, democratic enlightenment, and the moral sentiment he sought to overcome",
+      "aliases": [
+        "European continent",
+        "Western Europe"
+      ],
+      "tags": [
+        "continent",
+        "region"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:europe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "french-revolution",
+          "label": "french-revolution"
+        },
+        {
+          "type": "related",
+          "target": "enlightenment",
+          "label": "enlightenment"
+        },
+        {
+          "type": "related",
+          "target": "modernity",
+          "label": "modernity"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        }
+      ]
+    },
+    {
+      "id": "exploitation",
+      "type": "concept",
+      "label": "Exploitation",
+      "description": "The appropriation and use of others as a fundamental function of living organisms",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:exploitation",
+      "relations": []
+    },
+    {
+      "id": "faust",
+      "type": "work",
+      "label": "\"Faust\"",
+      "description": "\"Goethe's two-part dramatic poem (1808/1832) that Nietzsche regarded as the supreme achievement of German literature — a work whose affirmation of life and embrace of creative striving prefigured his own Dionysian philosophy.\"",
+      "aliases": [
+        "Goethe's Faust",
+        "Faust: A Tragedy"
+      ],
+      "tags": [
+        "literature",
+        "poetry",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:faust",
+      "relations": []
+    },
+    {
+      "id": "free-spirit",
+      "type": "concept",
+      "label": "\"Free Spirit\"",
+      "description": "\"The free spirit (Freigeist) is Nietzsche's ideal type of the independent, intellectually honest thinker who has liberated himself from traditional morality, metaphysical dogma, and herd values to pursue knowledge without presuppositions.\"",
+      "aliases": [
+        "Freigeist",
+        "free spirits",
+        "very free spirit"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:free-spirit",
+      "relations": []
+    },
+    {
+      "id": "french-revolution",
+      "type": "event",
+      "label": "French Revolution",
+      "description": "The French Revolution (1789–1799) as Nietzsche interpreted it in Beyond Good and Evil — a \"terrible farce\" that embodied the slave revolt in morality and the triumph of ressentiment over aristocratic values",
+      "aliases": [
+        "Revolution of 1789",
+        "French Revolution (1789–1799)"
+      ],
+      "tags": [
+        "revolution",
+        "political-event"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:french-revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "enlightenment",
+          "label": "enlightenment"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "europe"
+        },
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democracy"
+        }
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "type": "person",
+      "label": "Friedrich Nietzsche",
+      "description": "German philosopher (1844–1900), author of Beyond Good and Evil and one of the most influential thinkers in the Western tradition",
+      "aliases": [
+        "Friedrich Wilhelm Nietzsche",
+        "Nietzsche"
+      ],
+      "tags": [
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:friedrich-nietzsche",
+      "relations": [
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "immanuel-kant"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "plato"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "arthur-schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "richard-wagner"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "socrates"
+        }
+      ]
+    },
+    {
+      "id": "g-w-f-hegel",
+      "type": "person",
+      "label": "\"G. W. F. Hegel\"",
+      "description": "\"G. W. F. Hegel (1770–1831) was the German idealist philosopher whose system of absolute idealism Nietzsche regarded as a grandiose exercise in philosophical ' theatre' — impressive in its architecture but fundamentally dishonest in its subordination of truth to historical optimism.\"",
+      "aliases": [
+        "Hegel",
+        "Hegelian"
+      ],
+      "tags": [
+        "philosopher",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:g-w-f-hegel",
+      "relations": []
+    },
+    {
+      "id": "german-idealism",
+      "type": "school",
+      "label": "\"German Idealism\"",
+      "description": "\"The philosophical movement from Kant through Hegel that Nietzsche regarded as the 'great delaying action' of theology in the age of Enlightenment — a sophisticated attempt to salvage Christian metaphysics through conceptual innovation.\"",
+      "aliases": [
+        "German Idealist",
+        "post-Kantian idealism",
+        "Absolute Idealism"
+      ],
+      "tags": [
+        "modern",
+        "german",
+        "metaphysical"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:german-idealism",
+      "relations": []
+    },
+    {
+      "id": "germany",
+      "type": "place",
+      "label": "Germany",
+      "description": "Germany as the specific national context of Nietzsche's cultural critique in Beyond Good and Evil — the object of his sharpest observations on language, philosophy, music, and national character",
+      "aliases": [
+        "German Reich",
+        "German-speaking Europe"
+      ],
+      "tags": [
+        "country",
+        "region"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:germany",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "europe"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "richard-wagner"
+        },
+        {
+          "type": "related",
+          "target": "jew",
+          "label": "jew"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        }
+      ]
+    },
+    {
+      "id": "greatness",
+      "type": "concept",
+      "label": "Greatness",
+      "description": "The quality of magnitude in personality, achievement, or will — an aristocratic value opposed to the democratic preference for the merely useful",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:greatness",
+      "relations": []
+    },
+    {
+      "id": "heinrich-heine",
+      "type": "person",
+      "label": "Heinrich Heine",
+      "description": "German poet, essayist, and literary critic (1797–1856) whom Nietzsche admired and ranked among the great European geniuses in Beyond Good and Evil",
+      "aliases": [
+        "Heine",
+        "Harry Heine"
+      ],
+      "tags": [
+        "literary"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:heinrich-heine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "richard-wagner"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "arthur-schopenhauer"
+        }
+      ]
+    },
+    {
+      "id": "herd",
+      "type": "concept",
+      "label": "\"Herd\"",
+      "description": "\"The 'herd' (Herde) is Nietzsche's term for the mass of humanity that follows rather than leads — the democratic, conformist majority whose values, institutionalized in modern morality and politics, threaten the flourishing of exceptional individuals.\"",
+      "aliases": [
+        "herd instinct",
+        "herd morality",
+        "Herde",
+        "herd animal"
+      ],
+      "tags": [
+        "nietzschean",
+        "political-philosophy",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:herd",
+      "relations": []
+    },
+    {
+      "id": "hippolyte-taine",
+      "type": "person",
+      "label": "Hippolyte Taine",
+      "description": "Hippolyte Taine (1828–1893) was a French critic, historian, and positivist philosopher whom Nietzsche praised as \"the first of living historians.\"",
+      "aliases": [
+        "Taine",
+        "Hippolyte-Adolphe Taine"
+      ],
+      "tags": [
+        "french",
+        "historian",
+        "critic",
+        "positivism",
+        "19th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:hippolyte-taine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "positivism",
+          "label": "positivist"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "rigour",
+          "label": "rigour"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Jean-Jacques Rousseau"
+        }
+      ]
+    },
+    {
+      "id": "homer",
+      "type": "person",
+      "label": "Homer",
+      "description": "Ancient Greek epic poet, author of the Iliad and Odyssey, referenced by Nietzsche as a cultural and artistic touchstone of early Greek civilization.",
+      "aliases": [
+        "Homerus",
+        "Ὅμηρος"
+      ],
+      "tags": [
+        "poet",
+        "literary",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:homer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "voltaire",
+          "label": "Voltaire"
+        },
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "Bentham"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "type": "person",
+      "label": "Honoré de Balzac",
+      "description": "French novelist (1799–1850), author of \"La Comédie Humaine\"; Nietzsche references him as an exemplar of unrestrained artistic ambition and the 19th-century \"higher man.\"",
+      "aliases": [
+        "Balzac"
+      ],
+      "tags": [
+        "literary",
+        "novelist",
+        "French"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:honore-de-balzac",
+      "relations": [
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "stendhal",
+          "label": "Stendhal"
+        },
+        {
+          "type": "related",
+          "target": "heinrich-heine",
+          "label": "Heine"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "id": "immanuel-kant",
+      "type": "person",
+      "label": "\"Immanuel Kant\"",
+      "description": "\"Immanuel Kant (1724–1804) is the central figure of modern German philosophy, whose 'critical' project Nietzsche regarded as a sophisticated form of dogmatism — philosophy serving as the handmaid of morality rather than its interrogator.\"",
+      "aliases": [
+        "Kant",
+        "Kantian"
+      ],
+      "tags": [
+        "philosopher",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:immanuel-kant",
+      "relations": []
+    },
+    {
+      "id": "instinct",
+      "type": "concept",
+      "label": "\"Instinct\"",
+      "description": "\"Nietzsche deploys the concept of instinct as a naturalistic alternative to metaphysical accounts of human action — philosophy, morality, and religion are understood not as products of reason but as expressions of underlying instincts.\"",
+      "aliases": [
+        "instincts",
+        "Instinkt",
+        "drive",
+        "Trieb"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "naturalism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:instinct",
+      "relations": []
+    },
+    {
+      "id": "intellectual-conscience",
+      "type": "concept",
+      "label": "\"Intellectual Conscience\"",
+      "description": "\"The intellectual conscience (das intellektuelle Gewissen) is Nietzsche's term for the inner demand for rigorous honesty in thinking — a virtue he diagnoses as rare, demanding, and potentially self-destructive.\"",
+      "aliases": [
+        "intellectual conscience",
+        "das intellektuelle Gewissen",
+        "intellectual honesty"
+      ],
+      "tags": [
+        "nietzschean",
+        "epistemology",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:intellectual-conscience",
+      "relations": []
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "type": "person",
+      "label": "Jean-Jacques Rousseau",
+      "description": "Jean-Jacques Rousseau (1712–1778) was a Genevan philosopher whose doctrine of natural goodness and the general will Nietzsche regarded as a symptom of modern decadence and resentment.",
+      "aliases": [
+        "Rousseau"
+      ],
+      "tags": [
+        "french",
+        "enlightenment",
+        "romanticism",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:jean-jacques-rousseau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "modernity",
+          "label": "modernity"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "Hobbes"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        },
+        {
+          "type": "related",
+          "target": "french-revolution",
+          "label": "French Revolution"
+        },
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democratic"
+        },
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave revolt in morality"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "Napoleon"
+        },
+        {
+          "type": "related",
+          "target": "herd",
+          "label": "herd"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "hippolyte-taine",
+          "label": "Hippolyte Taine"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "Order of Rank"
+        }
+      ]
+    },
+    {
+      "id": "jean-paul",
+      "type": "person",
+      "label": "Jean Paul",
+      "description": "German Romantic novelist and humorist (1763–1825), author of Titan and Flegeljahre, whose satirical sensibilities Nietzsche references approvingly in Beyond Good and Evil",
+      "aliases": [
+        "Johann Paul Friedrich Richter",
+        "Jean Paul Richter"
+      ],
+      "tags": [
+        "literary"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:jean-paul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "johann-wolfgang-von-goethe"
+        },
+        {
+          "type": "related",
+          "target": "heinrich-heine",
+          "label": "heinrich-heine"
+        }
+      ]
+    },
+    {
+      "id": "jeremy-bentham",
+      "type": "person",
+      "label": "Jeremy Bentham",
+      "description": "English philosopher (1748–1832), founder of modern utilitarianism, whose \"greatest happiness principle\" Nietzsche subjects to sustained critique in Beyond Good and Evil",
+      "aliases": [
+        "Bentham"
+      ],
+      "tags": [
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:jeremy-bentham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "john-stuart-mill"
+        },
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "thomas-hobbes"
+        }
+      ]
+    },
+    {
+      "id": "jesuitism",
+      "type": "school",
+      "label": "\"Jesuitism\"",
+      "description": "\"The Catholic religious order that Nietzsche regarded as a model of spiritual discipline and institutional intelligence — an organization that understood power, hierarchy, and the psychological art of rule better than any secular institution of modernity.\"",
+      "aliases": [
+        "Jesuit",
+        "the Society of Jesus",
+        "Jesuitical"
+      ],
+      "tags": [
+        "religious",
+        "catholic",
+        "modern"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:jesuitism",
+      "relations": []
+    },
+    {
+      "id": "jesus-of-nazareth",
+      "type": "person",
+      "label": "Jesus of Nazareth",
+      "description": "Jewish preacher and religious leader (c. 4 BCE – c. 30 CE), founder of Christianity, whose moral teaching and legacy Nietzsche subjects to sustained critique as the archetype of slave-morality",
+      "aliases": [
+        "Jesus",
+        "Jesus Christ",
+        "Christ"
+      ],
+      "tags": [
+        "religious",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:jesus-of-nazareth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "plato"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "socrates"
+        },
+        {
+          "type": "related",
+          "target": "zarathustra",
+          "label": "zarathustra"
+        }
+      ]
+    },
+    {
+      "id": "jew",
+      "type": "concept",
+      "label": "Jew",
+      "description": "The Jewish people as a historical and philosophical type in Nietzsche's genealogy of morals",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:jew",
+      "relations": []
+    },
+    {
+      "id": "johann-wolfgang-von-goethe",
+      "type": "person",
+      "label": "\"Johann Wolfgang von Goethe\"",
+      "description": "\"Johann Wolfgang von Goethe (1749–1832) was the German poet, dramatist, and polymath whom Nietzsche revered as the supreme exemplar of the life-affirming, self-cultivating spirit.\"",
+      "aliases": [
+        "Goethe"
+      ],
+      "tags": [
+        "literary",
+        "german",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:johann-wolfgang-von-goethe",
+      "relations": []
+    },
+    {
+      "id": "john-stuart-mill",
+      "type": "person",
+      "label": "John Stuart Mill",
+      "description": "English philosopher (1806–1873), utilitarian and liberal theorist, author of On Liberty (1859), whom Nietzsche critiques as emblematic of English philosophical mediocrity",
+      "aliases": [
+        "J. S. Mill",
+        "Mill"
+      ],
+      "tags": [
+        "philosopher",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:john-stuart-mill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "jeremy-bentham"
+        },
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "thomas-hobbes"
+        }
+      ]
+    },
+    {
+      "id": "judaism",
+      "type": "school",
+      "label": "Judaism",
+      "description": "Judaism as understood by Nietzsche — the priestly revaluation that, through Christianity, transformed the moral landscape of the West.",
+      "aliases": [
+        "Jewish Tradition",
+        "Old Testament Religion"
+      ],
+      "tags": [
+        "religion",
+        "morality",
+        "ancient",
+        "slave-revolt"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:judaism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "morality",
+          "label": "morality"
+        },
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave revolt in morality"
+        },
+        {
+          "type": "related",
+          "target": "priestly",
+          "label": "priestly"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "cruelty",
+          "label": "cruelty"
+        },
+        {
+          "type": "related",
+          "target": "greatness",
+          "label": "greatness"
+        },
+        {
+          "type": "related",
+          "target": "compassion",
+          "label": "pity"
+        },
+        {
+          "type": "related",
+          "target": "jew",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "Order of Rank"
+        },
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "Master Morality"
+        },
+        {
+          "type": "related",
+          "target": "utilitarianism",
+          "label": "Utilitarianism"
+        }
+      ]
+    },
+    {
+      "id": "julius-caesar",
+      "type": "person",
+      "label": "\"Julius Caesar\"",
+      "description": "\"Julius Caesar (100–44 BCE) represents for Nietzsche the archetype of the commanding spirit — the Roman conqueror and statesman whose instinct for power and self-mastery exemplifies the noble type uncorrupted by Christian morality.\"",
+      "aliases": [
+        "Caesar",
+        "Gaius Julius Caesar",
+        "Caesar Borgia"
+      ],
+      "tags": [
+        "historical",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:julius-caesar",
+      "relations": []
+    },
+    {
+      "id": "leviathan",
+      "type": "work",
+      "label": "\"Leviathan\"",
+      "description": "\"Thomas Hobbes's 1651 masterwork of political philosophy, representing for Nietzsche the 'English' empirical tradition at its most lucid — a philosophy that honestly acknowledged the role of power in political life, even if its ultimate commitments remained utilitarian.\"",
+      "aliases": [
+        "Hobbes's Leviathan",
+        "Leviathan",
+        "or the Matter",
+        "Forme and Power of a Commonwealth"
+      ],
+      "tags": [
+        "philosophy",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:leviathan",
+      "relations": []
+    },
+    {
+      "id": "luthers-bible",
+      "type": "work",
+      "label": "\"Luther's Bible\"",
+      "description": "\"Martin Luther's 1534 German translation of the Bible, which Nietzsche acknowledged as the foundational work of modern German prose — a literary achievement of the first rank, even as he deplored the theological content it transmitted.\"",
+      "aliases": [
+        "Luther Bible",
+        "Lutherbibel",
+        "the German Bible"
+      ],
+      "tags": [
+        "religion",
+        "literature",
+        "translation"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:luthers-bible",
+      "relations": []
+    },
+    {
+      "id": "madame-de-stael",
+      "type": "person",
+      "label": "Madame de Staël",
+      "description": "French-Swiss writer and salonnière (1766–1817), whose intellectual independence Nietzsche dismisses in Beyond Good and Evil as an example of \"comical\" feminine ambition",
+      "aliases": [
+        "Germaine de Staël",
+        "Anne Louise Germaine de Staël-Holstein",
+        "Madame de Stael"
+      ],
+      "tags": [
+        "literary",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:madame-de-stael",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "napoleon-bonaparte",
+          "label": "napoleon-bonaparte"
+        }
+      ]
+    },
+    {
+      "id": "martin-luther",
+      "type": "person",
+      "label": "\"Martin Luther\"",
+      "description": "\"Martin Luther (1483–1546) was the German theologian and reformer whose break from the Catholic Church Nietzsche regarded as a pivotal — and deeply ambivalent — event in European history: a revolt that both liberated and impoverished the European spirit.\"",
+      "aliases": [
+        "Luther"
+      ],
+      "tags": [
+        "religious",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:martin-luther",
+      "relations": []
+    },
+    {
+      "id": "mask",
+      "type": "concept",
+      "label": "\"Mask\"",
+      "description": "\"For Nietzsche, the mask is not a sign of dishonesty but a necessary instrument of the profound spirit — a protection of depth from the superficiality of public comprehension and a form of courtesy toward others.\"",
+      "aliases": [
+        "masks",
+        "disguise",
+        "concealment",
+        "Maske"
+      ],
+      "tags": [
+        "nietzschean",
+        "psychology",
+        "aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:mask",
+      "relations": []
+    },
+    {
+      "id": "master-morality",
+      "type": "concept",
+      "label": "Master Morality",
+      "description": "The system of valuation characteristic of aristocratic cultures, in which \"good\" originates from the self-affirmation of the noble, powerful, and excellent",
+      "aliases": [
+        "master-morality",
+        "Herrenmoral",
+        "noble morality"
+      ],
+      "tags": [
+        "ethics",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:master-morality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave-morality"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "will-to-power"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "order-of-rank"
+        }
+      ]
+    },
+    {
+      "id": "metaphysics",
+      "type": "concept",
+      "label": "Metaphysics",
+      "description": "The branch of philosophy concerned with the fundamental nature of reality",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:metaphysics",
+      "relations": []
+    },
+    {
+      "id": "modernity",
+      "type": "concept",
+      "label": "Modernity",
+      "description": "The condition of modern European civilization, characterized by the triumph of democratic, egalitarian, and leveling tendencies",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:modernity",
+      "relations": []
+    },
+    {
+      "id": "morality",
+      "type": "concept",
+      "label": "Morality",
+      "description": "The system of values, norms, and evaluations governing human conduct",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:morality",
+      "relations": []
+    },
+    {
+      "id": "napoleon-bonaparte",
+      "type": "person",
+      "label": "\"Napoleon Bonaparte\"",
+      "description": "\"Napoleon Bonaparte (1769–1821) appears in Nietzsche's thought as the supreme modern exemplar of the 'higher man' — a synthesis of human and predator who imposed his will on history with the amoral necessity of a force of nature.\"",
+      "aliases": [
+        "Napoleon",
+        "Napoleon I"
+      ],
+      "tags": [
+        "historical",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:napoleon-bonaparte",
+      "relations": []
+    },
+    {
+      "id": "nihilism",
+      "type": "school",
+      "label": "\"Nihilism\"",
+      "description": "\"The condition Nietzsche diagnosed as the hidden logic of European civilization — the'devaluation of all values' that follows from the collapse of Christian-metaphysical worldviews and that must be passed through, not evaded, on the path to new creation.\"",
+      "aliases": [
+        "nihilist",
+        "European nihilism",
+        "the nihilistic movement"
+      ],
+      "tags": [
+        "modern",
+        "european",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:nihilism",
+      "relations": []
+    },
+    {
+      "id": "on-the-genealogy-of-morals",
+      "type": "work",
+      "label": "\"On the Genealogy of Morals\"",
+      "description": "\"Nietzsche's follow-up to Beyond Good and Evil — the work in which the genealogical method is most fully deployed against the origins of Christian morality.\"",
+      "aliases": [],
+      "tags": [
+        "19th-century",
+        "german",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:on-the-genealogy-of-morals",
+      "relations": []
+    },
+    {
+      "id": "on-the-origin-of-species",
+      "type": "work",
+      "label": "\"On the Origin of Species\"",
+      "description": "\"Charles Darwin's 1859 masterwork that established the theory of evolution by natural selection, which Nietzsche engaged as both a crucial anti-teleological achievement and a target of philosophical critique for its 'English' reduction of life to mere survival.\"",
+      "aliases": [
+        "Origin of Species",
+        "Darwin's Origin"
+      ],
+      "tags": [
+        "science",
+        "biology",
+        "evolution"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:on-the-origin-of-species",
+      "relations": []
+    },
+    {
+      "id": "order-of-rank",
+      "type": "concept",
+      "label": "Order of Rank",
+      "description": "Order of Rank (Rangordnung) is Nietzsche's principle that values, types of human beings, and moralities are fundamentally hierarchical — the recognition of rank is the mark of the noble soul.",
+      "aliases": [
+        "Rangordnung"
+      ],
+      "tags": [
+        "nietzschean",
+        "ethics",
+        "social-philosophy",
+        "hierarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:order-of-rank",
+      "relations": [
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democratic"
+        },
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "herd",
+          "label": "herd"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave"
+        },
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "Master Morality"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "Judaism"
+        },
+        {
+          "type": "related",
+          "target": "utilitarianism",
+          "label": "Utilitarianism"
+        },
+        {
+          "type": "related",
+          "target": "hippolyte-taine",
+          "label": "Hippolyte Taine"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Jean-Jacques Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "thus-spoke-zarathustra",
+          "label": "Thus Spoke Zarathustra"
+        },
+        {
+          "type": "related",
+          "target": "vedanta",
+          "label": "Vedanta"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy",
+          "label": "aristocracy"
+        }
+      ]
+    },
+    {
+      "id": "parerga-and-paralipomena",
+      "type": "work",
+      "label": "\"Parerga and Paralipomena\"",
+      "description": "\"Schopenhauer's collection of essays and aphorisms — the work that first brought him fame and which Nietzsche read as a young man.\"",
+      "aliases": [],
+      "tags": [
+        "19th-century",
+        "german",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:parerga-and-paralipomena",
+      "relations": []
+    },
+    {
+      "id": "pensees",
+      "type": "work",
+      "label": "\"Pensees\"",
+      "description": "\"Blaise Pascal's posthumously published collection of fragments on religion, philosophy, and the human condition, which Nietzsche regarded as a monument of the 'sacrifice of the intellect' — the most powerful Christian apology precisely because of its psychological honesty.\"",
+      "aliases": [
+        "Pascal's Pensees",
+        "Thoughts"
+      ],
+      "tags": [
+        "philosophy",
+        "religion",
+        "literature"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:pensees",
+      "relations": []
+    },
+    {
+      "id": "pessimism",
+      "type": "concept",
+      "label": "\"Pessimism\"",
+      "description": "\"Nietzsche's engagement with pessimism — both his debt to Schopenhauer's pessimistic philosophy and his attempt to overcome it by moving 'beyond good and evil' to a life-affirming perspective that neither denies nor is crushed by the suffering inherent in existence.\"",
+      "aliases": [
+        "pessimist",
+        "philosophical pessimism",
+        "Schopenhauerian pessimism"
+      ],
+      "tags": [
+        "nietzschean",
+        "ethics",
+        "schopenhauerian"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:pessimism",
+      "relations": []
+    },
+    {
+      "id": "pessimism-school",
+      "type": "school",
+      "label": "\"Pessimism\"",
+      "description": "\"The philosophical orientation, most powerfully articulated by Schopenhauer, that existence is characterized by suffering and that non-existence would be preferable — a position Nietzsche spent his career attempting to overcome through the Dionysian affirmation of life 'beyond good and evil.'\"",
+      "aliases": [
+        "Philosophical Pessimism",
+        "Schopenhauerian pessimism",
+        "Pessimist school"
+      ],
+      "tags": [
+        "modern",
+        "german",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:pessimism-school",
+      "relations": []
+    },
+    {
+      "id": "phenomenology-of-spirit",
+      "type": "work",
+      "label": "\"Phenomenology of Spirit\"",
+      "description": "\"Hegel's 1807 masterwork of Absolute Idealism, which Nietzsche regarded as the culmination of the German philosophical 'delaying action' — a grandiose attempt to salvage Christian theology through conceptual dialectics.\"",
+      "aliases": [
+        "Phanomenologie des Geistes",
+        "Hegel's Phenomenology"
+      ],
+      "tags": [
+        "philosophy",
+        "metaphysics",
+        "german-idealism"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:phenomenology-of-spirit",
+      "relations": []
+    },
+    {
+      "id": "plato",
+      "type": "person",
+      "label": "\"Plato\"",
+      "description": "\"Plato (c. 428–348 BCE) is for Nietzsche the founding figure of the Western metaphysical and moral tradition — the philosopher who invented the 'true world' behind the apparent one and thereby initiated the long history of life-denial that Nietzsche's philosophy seeks to overturn.\"",
+      "aliases": [
+        "Plato",
+        "Platon"
+      ],
+      "tags": [
+        "philosopher",
+        "greek"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:plato",
+      "relations": []
+    },
+    {
+      "id": "platonism",
+      "type": "school",
+      "label": "\"Platonism\"",
+      "description": "\"The philosophical tradition originating with Plato that Nietzsche regarded as the founding error of Western metaphysics — the invention of a 'true world' beyond the apparent world, which Christianity later inherited and democratized as the 'Platonism for the people.'\"",
+      "aliases": [
+        "Platonic philosophy",
+        "the Platonic tradition",
+        "Platonist"
+      ],
+      "tags": [
+        "ancient",
+        "greek",
+        "metaphysical"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:platonism",
+      "relations": []
+    },
+    {
+      "id": "positivism",
+      "type": "school",
+      "label": "\"Positivism\"",
+      "description": "\"The nineteenth-century philosophical movement, associated with Auguste Comte, that claimed to restrict knowledge to empirically verifiable facts — a position Nietzsche regarded as philosophically naive and covertly metaphysical.\"",
+      "aliases": [
+        "Positivist",
+        "positivist philosophy",
+        "scientism"
+      ],
+      "tags": [
+        "modern",
+        "french",
+        "scientific"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:positivism",
+      "relations": []
+    },
+    {
+      "id": "prejudice",
+      "type": "concept",
+      "label": "\"Prejudice\"",
+      "description": "\"Nietzsche uses 'prejudice' not as a term of ordinary disapprobation but as a diagnostic tool to expose the unexamined metaphysical and moral assumptions underlying all previous philosophy.\"",
+      "aliases": [
+        "prejudices",
+        "moral prejudice",
+        "prejudices of philosophers",
+        "Vorurteil"
+      ],
+      "tags": [
+        "nietzschean",
+        "epistemology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:prejudice",
+      "relations": []
+    },
+    {
+      "id": "priestly",
+      "type": "concept",
+      "label": "Priestly Type",
+      "description": "The priestly mode of valuation, characterized by the transvaluation of noble values through ressentiment",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:priestly",
+      "relations": []
+    },
+    {
+      "id": "rank",
+      "type": "concept",
+      "label": "\"Order of Rank\"",
+      "description": "\"The 'order of rank' (Rangordnung) is Nietzsche's principle that human beings are not equal and that a healthy culture requires hierarchical distinctions — a direct challenge to the democratic and egalitarian presuppositions of modern politics.\"",
+      "aliases": [
+        "rank",
+        "Rangordnung",
+        "order of rank",
+        "hierarchy"
+      ],
+      "tags": [
+        "nietzschean",
+        "political-philosophy",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:rank",
+      "relations": []
+    },
+    {
+      "id": "rene-descartes",
+      "type": "person",
+      "label": "\"René Descartes\"",
+      "description": "\"René Descartes (1596–1650), the French philosopher whose 'I think, therefore I am' Nietzsche regarded as a grammatical superstition — the hypostatization of a grammatical subject into a metaphysical substance.\"",
+      "aliases": [
+        "Descartes"
+      ],
+      "tags": [
+        "philosopher",
+        "french"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:rene-descartes",
+      "relations": []
+    },
+    {
+      "id": "republic-plato",
+      "type": "work",
+      "label": "\"Republic\"",
+      "description": "\"Plato's masterwork of political philosophy and metaphysics, which Nietzsche regarded as the founding document of the 'Platonic error' — the invention of the 'true world' that has dominated Western thought for two millennia.\"",
+      "aliases": [
+        "Politeia",
+        "Plato's Republic",
+        "the Republic"
+      ],
+      "tags": [
+        "philosophy",
+        "politics",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:republic-plato",
+      "relations": []
+    },
+    {
+      "id": "ressentiment",
+      "type": "concept",
+      "label": "Ressentiment",
+      "description": "The psychological mechanism by which the weak, unable to act on their hostility toward the strong, transmute their impotence into a moral system that condemns the powerful as \"evil\"",
+      "aliases": [
+        "ressentiment",
+        "resentment"
+      ],
+      "tags": [
+        "psychology",
+        "nietzschean",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:ressentiment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave-morality"
+        },
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "master-morality"
+        },
+        {
+          "type": "related",
+          "target": "priestly",
+          "label": "priestly"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "will-to-power"
+        }
+      ]
+    },
+    {
+      "id": "richard-wagner",
+      "type": "person",
+      "label": "\"Richard Wagner\"",
+      "description": "\"Richard Wagner (1813–1883) was the German composer whose music and personality profoundly shaped Nietzsche's early life and whose later 'decadence' became a central target of Nietzsche's mature philosophical critique.\"",
+      "aliases": [
+        "Wagner"
+      ],
+      "tags": [
+        "artist",
+        "german",
+        "composer"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:richard-wagner",
+      "relations": []
+    },
+    {
+      "id": "rigour",
+      "type": "concept",
+      "label": "Rigour",
+      "description": "Intellectual and moral strictness — a quality Nietzsche associates with the noble type and finds lacking in modern thought",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:rigour",
+      "relations": []
+    },
+    {
+      "id": "romanticism",
+      "type": "school",
+      "label": "\"Romanticism\"",
+      "description": "\"The late eighteenth- and nineteenth-century cultural movement that Nietzsche associated with his own early Wagnerian phase and subsequently diagnosed as a form of psychological sickness — a 'pessimism of weakness' disguised as artistic intensity.\"",
+      "aliases": [
+        "Romantic",
+        "the Romantic movement",
+        "Romantic philosophy"
+      ],
+      "tags": [
+        "modern",
+        "german",
+        "french",
+        "aesthetic"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:romanticism",
+      "relations": []
+    },
+    {
+      "id": "schelling",
+      "type": "person",
+      "label": "Friedrich Schelling",
+      "description": "German idealist philosopher (1775–1854), key figure in post-Kantian philosophy who coined \"intellectual intuition\"; Nietzsche references him as an exemplar of German philosophical ambition and anti-English sentiment.",
+      "aliases": [
+        "Friedrich Wilhelm Joseph Schelling"
+      ],
+      "tags": [
+        "philosopher",
+        "idealist",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:schelling",
+      "relations": [
+        {
+          "type": "related",
+          "target": "g-w-f-hegel",
+          "label": "Hegel"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "immanuel-kant",
+          "label": "Immanuel Kant"
+        }
+      ]
+    },
+    {
+      "id": "schiller",
+      "type": "person",
+      "label": "Friedrich Schiller",
+      "description": "German poet, playwright, and philosopher (1759–1805), author of \"William Tell\" and the \"Ode to Joy\"; Nietzsche references him alongside Rousseau and Byron as a voice of the European revolutionary era.",
+      "aliases": [
+        "Johann Christoph Friedrich von Schiller"
+      ],
+      "tags": [
+        "poet",
+        "playwright",
+        "literary",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:schiller",
+      "relations": [
+        {
+          "type": "related",
+          "target": "johann-wolfgang-von-goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "richard-wagner",
+          "label": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "id": "self-denial",
+      "type": "concept",
+      "label": "Self-Denial",
+      "description": "The renunciation of one's desires and instincts, central to ascetic ideals",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:self-denial",
+      "relations": []
+    },
+    {
+      "id": "self-overcoming",
+      "type": "concept",
+      "label": "Self-Overcoming",
+      "description": "The central Nietzschean virtue: the capacity to turn one's drives against oneself in a disciplined act of transformation rather than repression",
+      "aliases": [
+        "self-overcoming",
+        "Selbstüberwindung",
+        "self-mastery"
+      ],
+      "tags": [
+        "psychology",
+        "ethics",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:self-overcoming",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "will-to-power"
+        },
+        {
+          "type": "related",
+          "target": "ubermensch",
+          "label": "ubermensch"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free-spirit"
+        },
+        {
+          "type": "related",
+          "target": "discipline",
+          "label": "discipline"
+        }
+      ]
+    },
+    {
+      "id": "self-preservation",
+      "type": "concept",
+      "label": "Self-Preservation",
+      "description": "The instinct to preserve oneself, critiqued by Nietzsche as secondary to the will to power",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:self-preservation",
+      "relations": []
+    },
+    {
+      "id": "skepticism",
+      "type": "concept",
+      "label": "\"Skepticism\"",
+      "description": "\"Nietzsche's complex treatment of skepticism — both as a necessary stage in philosophical development and as a potential dead end that must itself be overcome by the philosophers of the future.\"",
+      "aliases": [
+        "skeptic",
+        "scepticism",
+        "philosophical skepticism"
+      ],
+      "tags": [
+        "nietzschean",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:skepticism",
+      "relations": []
+    },
+    {
+      "id": "skepticism-school",
+      "type": "school",
+      "label": "\"Skepticism\"",
+      "description": "\"The philosophical tradition of radical doubt that Nietzsche regarded as a necessary but insufficient stage in intellectual development — a tool for clearing dogmatic ground that must itself be overcome by the creative philosopher.\"",
+      "aliases": [
+        "Scepticism",
+        "the Skeptical tradition",
+        "Skeptics"
+      ],
+      "tags": [
+        "ancient",
+        "modern",
+        "greek",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:skepticism-school",
+      "relations": []
+    },
+    {
+      "id": "slave-morality",
+      "type": "concept",
+      "label": "Slave Morality",
+      "description": "The system of valuation originating in ressentiment, in which the weak redefine the qualities of the strong as \"evil\" and their own powerlessness as \"good\"",
+      "aliases": [
+        "slave-morality",
+        "Sklavenmoral",
+        "herd morality"
+      ],
+      "tags": [
+        "ethics",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:slave-morality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "master-morality"
+        },
+        {
+          "type": "related",
+          "target": "ressentiment",
+          "label": "ressentiment"
+        },
+        {
+          "type": "related",
+          "target": "priestly",
+          "label": "priestly"
+        },
+        {
+          "type": "related",
+          "target": "christianity-philosophical",
+          "label": "christianity-philosophical"
+        }
+      ]
+    },
+    {
+      "id": "socialism",
+      "type": "school",
+      "label": "\"Socialism\"",
+      "description": "\"The political and economic movement that Nietzsche regarded as a secularized form of Christian morality — the demand for equality and the redistribution of suffering that extended the slave revolt in morality into the economic sphere.\"",
+      "aliases": [
+        "Socialist",
+        "socialist movement"
+      ],
+      "tags": [
+        "modern",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:socialism",
+      "relations": []
+    },
+    {
+      "id": "socrates",
+      "type": "person",
+      "label": "\"Socrates\"",
+      "description": "\"Socrates (c. 470–399 BCE) is for Nietzsche the figure who introduced dialectical reason into philosophy and thereby destroyed the tragic culture of pre-Socratic Greece — the 'theoretical man' whose faith in reason Nietzsche diagnoses as a symptom of decadence.\"",
+      "aliases": [
+        "Socrates",
+        "Sokrat"
+      ],
+      "tags": [
+        "philosopher",
+        "greek"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:socrates",
+      "relations": []
+    },
+    {
+      "id": "stendhal",
+      "type": "person",
+      "label": "Stendhal",
+      "description": "French novelist (1783–1842), author of \"The Red and the Black\" and \"The Charterhouse of Parma\"; Nietzsche praises him alongside Napoleon, Goethe, and Beethoven as a European \"higher man.\"",
+      "aliases": [
+        "Henri Beyle",
+        "Marie-Henri Beyle"
+      ],
+      "tags": [
+        "literary",
+        "novelist",
+        "French"
+      ],
+      "quality": "basic",
+      "source_ref": "beyond-good-and-evil:stendhal",
+      "relations": []
+    },
+    {
+      "id": "stoicism",
+      "type": "school",
+      "label": "\"Stoicism\"",
+      "description": "\"The Hellenistic philosophical school founded by Zeno of Citium whose ethics of self-mastery and 'living according to Nature' Nietzsche subjected to a famous critique in the opening pages of *Beyond Good and Evil*.\"",
+      "aliases": [
+        "Stoic",
+        "the Stoa",
+        "Stoic philosophy"
+      ],
+      "tags": [
+        "ancient",
+        "greek",
+        "roman"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:stoicism",
+      "relations": []
+    },
+    {
+      "id": "taste",
+      "type": "concept",
+      "label": "\"Taste\"",
+      "description": "\"Nietzsche elevates taste from a matter of aesthetic preference to a fundamental philosophical criterion — the instinctive capacity to discriminate higher from lower that distinguishes the noble soul from the common.\"",
+      "aliases": [
+        "taste",
+        "Geschmack",
+        "good taste",
+        "aesthetic judgment"
+      ],
+      "tags": [
+        "nietzschean",
+        "aesthetics",
+        "epistemology"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:taste",
+      "relations": []
+    },
+    {
+      "id": "the-gay-science",
+      "type": "work",
+      "label": "\"The Gay Science\"",
+      "description": "\"Nietzsche's earlier work announcing the death of God and the doctrine of eternal recurrence — a crucial precursor to Beyond Good and Evil.\"",
+      "aliases": [],
+      "tags": [
+        "19th-century",
+        "german",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:the-gay-science",
+      "relations": []
+    },
+    {
+      "id": "the-prince",
+      "type": "work",
+      "label": "\"The Prince\"",
+      "description": "\"Machiavelli's treatise on political power — a work Nietzsche admired for its amoral realism and its recognition that politics operates beyond good and evil.\"",
+      "aliases": [],
+      "tags": [
+        "early-modern",
+        "italian",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:the-prince",
+      "relations": []
+    },
+    {
+      "id": "the-republic",
+      "type": "work",
+      "label": "\"Republic\"",
+      "description": "\"Plato's dialogue on justice and the ideal state — the founding text of the Western metaphysical and political tradition that Nietzsche's philosophy seeks to overturn.\"",
+      "aliases": [],
+      "tags": [
+        "ancient",
+        "greek",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:the-republic",
+      "relations": []
+    },
+    {
+      "id": "the-social-contract",
+      "type": "work",
+      "label": "\"The Social Contract\"",
+      "description": "\"Jean-Jacques Rousseau's 1762 treatise on political legitimacy, which Nietzsche regarded as a founding document of the 'slave revolt' in modern politics — the theory that the authority of the strong is illegitimate unless consented to by the weak.\"",
+      "aliases": [
+        "Du contrat social",
+        "Rousseau's Social Contract"
+      ],
+      "tags": [
+        "philosophy",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:the-social-contract",
+      "relations": []
+    },
+    {
+      "id": "the-world-as-will-and-representation",
+      "type": "work",
+      "label": "\"The World as Will and Representation\"",
+      "description": "\"Schopenhauer's 1818 magnum opus, the work that most profoundly shaped Nietzsche's early thought — the philosophy of the will that Nietzsche transformed from a pessimistic negation into a Dionysian affirmation.\"",
+      "aliases": [
+        "Die Welt als Wille und Vorstellung",
+        "Schopenhauer's main work"
+      ],
+      "tags": [
+        "philosophy",
+        "metaphysics",
+        "aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:the-world-as-will-and-representation",
+      "relations": []
+    },
+    {
+      "id": "thomas-hobbes",
+      "type": "person",
+      "label": "Thomas Hobbes",
+      "description": "English philosopher (1588–1679), author of Leviathan (1651), whose materialist psychology Nietzsche groups with Hume and Locke as an \"abasement\" of the philosophical spirit",
+      "aliases": [
+        "Hobbes"
+      ],
+      "tags": [
+        "philosopher",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:thomas-hobbes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "jeremy-bentham"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "john-stuart-mill"
+        },
+        {
+          "type": "related",
+          "target": "leviathan",
+          "label": "leviathan"
+        }
+      ]
+    },
+    {
+      "id": "thus-spoke-zarathustra",
+      "type": "work",
+      "label": "Thus Spoke Zarathustra",
+      "description": "Thus Spoke Zarathustra (Also Sprach Zarathustra, 1883–1885) is Nietzsche's most personal and poetic work, the 'fifth gospel' in which he first presents the doctrines of the Übermensch and the eternal return.",
+      "aliases": [
+        "Also Sprach Zarathustra",
+        "Zarathustra"
+      ],
+      "tags": [
+        "nietzsche",
+        "philosophical-literature",
+        "19th-century",
+        "german"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:thus-spoke-zarathustra",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Friedrich Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "zarathustra",
+          "label": "Zarathustra"
+        },
+        {
+          "type": "related",
+          "target": "ubermensch",
+          "label": "Übermensch"
+        },
+        {
+          "type": "related",
+          "target": "eternal-return",
+          "label": "eternal return"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "Order of Rank"
+        }
+      ]
+    },
+    {
+      "id": "ubermensch",
+      "type": "concept",
+      "label": "Übermensch",
+      "description": "Nietzsche's ideal of human self-overcoming: the individual who creates their own values beyond conventional morality, the \"lightning\" that announces the death of God",
+      "aliases": [
+        "Ubermensch",
+        "Overman",
+        "Superman",
+        "over-human"
+      ],
+      "tags": [
+        "ethics",
+        "nietzschean"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:ubermensch",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "will-to-power"
+        },
+        {
+          "type": "related",
+          "target": "self-overcoming",
+          "label": "self-overcoming"
+        },
+        {
+          "type": "related",
+          "target": "eternal-return",
+          "label": "eternal-return"
+        },
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "master-morality"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free-spirit"
+        },
+        {
+          "type": "related",
+          "target": "zarathustra",
+          "label": "zarathustra"
+        }
+      ]
+    },
+    {
+      "id": "upanishads",
+      "type": "work",
+      "label": "Upanishads",
+      "description": "The ancient Indian philosophical texts forming the basis of Vedanta philosophy",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "beyond-good-and-evil:upanishads",
+      "relations": []
+    },
+    {
+      "id": "utilitarianism",
+      "type": "school",
+      "label": "Utilitarianism",
+      "description": "Utilitarianism as Nietzsche's exemplary case of modern English herd morality — the reduction of ethics to the calculus of general happiness.",
+      "aliases": [
+        "English Utilitarianism",
+        "Benthamism"
+      ],
+      "tags": [
+        "ethics",
+        "modern",
+        "english-philosophy",
+        "herd-morality"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:utilitarianism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democratic"
+        },
+        {
+          "type": "related",
+          "target": "morality",
+          "label": "morality"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "herd",
+          "label": "herd"
+        },
+        {
+          "type": "related",
+          "target": "danger",
+          "label": "danger"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "rank"
+        },
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "Bentham"
+        },
+        {
+          "type": "related",
+          "target": "john-stuart-mill",
+          "label": "Mill"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "slave revolt in morality"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "Judaism"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "socialism",
+          "label": "Socialism"
+        }
+      ]
+    },
+    {
+      "id": "vedanta",
+      "type": "work",
+      "label": "Vedanta Philosophy",
+      "description": "The Vedanta philosophy — the end and culmination of the Vedas — is one of the few non-Western philosophical traditions Nietzsche takes seriously, comparing it favorably to Platonism.",
+      "aliases": [
+        "Vedanta",
+        "Vedanta Doctrine"
+      ],
+      "tags": [
+        "indian-philosophy",
+        "upanishads",
+        "metaphysics",
+        "non-dualism"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:vedanta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "upanishads",
+          "label": "Upanishads"
+        },
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "platonism",
+          "label": "Platonism"
+        },
+        {
+          "type": "related",
+          "target": "metaphysics",
+          "label": "metaphysical"
+        },
+        {
+          "type": "related",
+          "target": "will-to-nothingness",
+          "label": "will to nothingness"
+        },
+        {
+          "type": "related",
+          "target": "buddhism",
+          "label": "Buddhism"
+        },
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "Will to Power"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "Order of Rank"
+        }
+      ]
+    },
+    {
+      "id": "voltaire",
+      "type": "person",
+      "label": "\"Voltaire\"",
+      "description": "\"Voltaire (1694–1778) was the French Enlightenment writer and philosopher whom Nietzsche admired as a 'free spirit' — a grand seigneur of the intellect who combined skeptical wit with aristocratic elegance.\"",
+      "aliases": [
+        "Voltaire",
+        "François-Marie Arouet"
+      ],
+      "tags": [
+        "literary",
+        "french",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:voltaire",
+      "relations": []
+    },
+    {
+      "id": "will-to-nothingness",
+      "type": "concept",
+      "label": "Will to Nothingness",
+      "description": "Nietzsche's diagnosis of the ascetic ideal: a will that, unable to will power, wills nothingness instead — the ultimate expression of nihilism as a psychological condition",
+      "aliases": [
+        "will to nothingness",
+        "Wille zum Nichts",
+        "nihilistic will"
+      ],
+      "tags": [
+        "metaphysics",
+        "nietzschean",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:will-to-nothingness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "will-to-power",
+          "label": "will-to-power"
+        },
+        {
+          "type": "related",
+          "target": "nihilism",
+          "label": "nihilism"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free-spirit"
+        },
+        {
+          "type": "related",
+          "target": "self-overcoming",
+          "label": "self-overcoming"
+        }
+      ]
+    },
+    {
+      "id": "will-to-power",
+      "type": "concept",
+      "label": "Will to Power",
+      "description": "The Will to Power (Wille zur Macht) is Friedrich Nietzsche's fundamental principle — the drive to expand, dominate, and overcome that constitutes the essence of life itself.",
+      "aliases": [
+        "Wille zur Macht"
+      ],
+      "tags": [
+        "nietzschean",
+        "metaphysics",
+        "psychology",
+        "life"
+      ],
+      "quality": "featured",
+      "source_ref": "beyond-good-and-evil:will-to-power",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "Nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "beyond-good-and-evil",
+          "label": "Beyond Good and Evil"
+        },
+        {
+          "type": "related",
+          "target": "on-the-genealogy-of-morals",
+          "label": "On the Genealogy of Morals"
+        },
+        {
+          "type": "related",
+          "target": "metaphysics",
+          "label": "metaphysical"
+        },
+        {
+          "type": "related",
+          "target": "self-preservation",
+          "label": "self-preservation"
+        },
+        {
+          "type": "related",
+          "target": "arthur-schopenhauer",
+          "label": "Schopenhauer"
+        },
+        {
+          "type": "related",
+          "target": "charles-darwin",
+          "label": "Darwin"
+        },
+        {
+          "type": "related",
+          "target": "will-to-truth",
+          "label": "Will to Truth"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "Plato"
+        },
+        {
+          "type": "related",
+          "target": "free-spirit",
+          "label": "free spirit"
+        },
+        {
+          "type": "related",
+          "target": "morality",
+          "label": "morality"
+        },
+        {
+          "type": "related",
+          "target": "compassion",
+          "label": "pity"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "equality"
+        },
+        {
+          "type": "related",
+          "target": "self-denial",
+          "label": "self-denial"
+        },
+        {
+          "type": "related",
+          "target": "exploitation",
+          "label": "exploitation"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "socialism",
+          "label": "Socialist"
+        },
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democratic"
+        },
+        {
+          "type": "related",
+          "target": "master-morality",
+          "label": "Master Morality"
+        },
+        {
+          "type": "related",
+          "target": "slave-morality",
+          "label": "Slave Morality"
+        },
+        {
+          "type": "related",
+          "target": "nihilism",
+          "label": "Nihilism"
+        },
+        {
+          "type": "related",
+          "target": "eternal-return",
+          "label": "Eternal Return"
+        },
+        {
+          "type": "related",
+          "target": "self-overcoming",
+          "label": "Self-Overcoming"
+        },
+        {
+          "type": "related",
+          "target": "order-of-rank",
+          "label": "Order of Rank"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "Judaism"
+        },
+        {
+          "type": "related",
+          "target": "utilitarianism",
+          "label": "Utilitarianism"
+        },
+        {
+          "type": "related",
+          "target": "hippolyte-taine",
+          "label": "Hippolyte Taine"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Jean-Jacques Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "thus-spoke-zarathustra",
+          "label": "Thus Spoke Zarathustra"
+        },
+        {
+          "type": "related",
+          "target": "vedanta",
+          "label": "Vedanta"
+        }
+      ]
+    },
+    {
+      "id": "will-to-truth",
+      "type": "concept",
+      "label": "\"Will to Truth\"",
+      "description": "\"The Will to Truth (Wille zur Wahrheit) is the drive that compels philosophers to pursue truth unconditionally — a drive Nietzsche interrogates as potentially self-destructive, asking whether the value of truth itself has ever been questioned.\"",
+      "aliases": [
+        "Will to Truth",
+        "truthfulness",
+        "Wille zur Wahrheit"
+      ],
+      "tags": [
+        "nietzschean",
+        "epistemology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:will-to-truth",
+      "relations": []
+    },
+    {
+      "id": "zarathustra",
+      "type": "person",
+      "label": "Zarathustra",
+      "description": "The ancient Persian prophet (Zoroaster, c. 1500–1000 BCE) chosen by Nietzsche as the mouthpiece for his mature philosophy in Thus Spoke Zarathustra (1883–1885)",
+      "aliases": [
+        "Zoroaster",
+        "Zoroaster the Persian"
+      ],
+      "tags": [
+        "religious",
+        "mythological",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "beyond-good-and-evil:zarathustra",
+      "relations": [
+        {
+          "type": "related",
+          "target": "friedrich-nietzsche",
+          "label": "friedrich-nietzsche"
+        },
+        {
+          "type": "related",
+          "target": "plato",
+          "label": "plato"
+        },
+        {
+          "type": "related",
+          "target": "socrates",
+          "label": "socrates"
+        },
+        {
+          "type": "related",
+          "target": "thus-spoke-zarathustra",
+          "label": "thus-spoke-zarathustra"
+        }
+      ]
+    }
+  ]
+}

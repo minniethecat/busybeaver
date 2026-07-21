@@ -1,0 +1,37 @@
+---
+description: "Last year (1861), on a beautiful May morning, a traveller, the person who is telling this story, was coming from Nivelles, and directing his course towards La H…"
+id: volume-2-CHAPTER-IWHAT-IS-MET-WITH-ON-THE-WAY-FROM-NIVELLES
+label: "CHAPTER I—WHAT IS MET WITH ON THE WAY FROM NIVELLES"
+tags: ["chapter"]
+type: "chapter"
+---
+
+[071-001]Last year (1861), on a beautiful May morning, a traveller, the person who is telling this story, was coming from Nivelles, and directing his course towards La Hulpe. He was on foot. He was pursuing a broad paved road, which undulated between two rows of trees, over the hills which succeed each other, raise the road and let it fall again, and produce something in the [[nature]] of enormous waves.
+
+[071-002]He had passed Lillois and Bois-Seigneur-Isaac. In the west he perceived the slate-roofed tower of Braine-l’Alleud, which has the form of a reversed vase. He had just left behind a wood upon an eminence; and at the angle of the crossroad, by the side of a sort of mouldy gibbet bearing the inscription *Ancient Barrier No. 4*, a public house, bearing on its front this sign: *At the Four Winds* (Aux Quatre Vents). *Échabeau, Private Café*.
+
+[071-003]A quarter of a league further on, he arrived at the bottom of a little valley, where there is water which passes beneath an arch made through the embankment of the road. The clump of sparsely planted but very green trees, which fills the valley on one side of the road, is dispersed over the meadows on the other, and disappears gracefully and as in order in the direction of Braine-l’Alleud.
+
+[071-004]On the right, close to the road, was an inn, with a four-wheeled cart at the door, a large bundle of hop-poles, a plough, a heap of dried brushwood near a flourishing hedge, lime smoking in a square hole, and a ladder suspended along an old penthouse with straw partitions. A young girl was weeding in a field, where a huge yellow poster, probably of some outside spectacle, such as a parish festival, was fluttering in the wind. At one corner of the inn, beside a pool in which a flotilla of ducks was navigating, a badly paved path plunged into the bushes. The wayfarer struck into this.
+
+[071-005]After traversing a hundred paces, skirting a wall of the fifteenth century, surmounted by a pointed gable, with bricks set in contrast, he found himself before a large door of arched stone, with a rectilinear impost, in the sombre style of Louis XIV., flanked by two flat medallions. A severe façade rose above this door; a wall, perpendicular to the façade, almost touched the door, and flanked it with an abrupt right angle. In the meadow before the door lay three harrows, through which, in disorder, grew all the flowers of May. The door was closed. The two decrepit leaves which barred it were ornamented with an old rusty knocker.
+
+[071-006]The sun was charming; the branches had that soft shivering of May, which seems to proceed rather from the nests than from the wind. A brave little bird, probably a lover, was carolling in a distracted manner in a large tree.
+
+[071-007]The wayfarer bent over and examined a rather large circular excavation, resembling the hollow of a sphere, in the stone on the left, at the foot of the pier of the door.
+
+[071-008]At this moment the leaves of the door parted, and a peasant woman emerged.
+
+[071-009]She saw the wayfarer, and perceived what he was looking at.
+
+[071-010]“It was a French cannon-ball which made that,” she said to him. And she added:—
+
+[071-011]“That which you see there, higher up in the door, near a nail, is the hole of a big iron bullet as large as an egg. The bullet did not pierce the wood.”
+
+[071-012]“What is the name of this place?” inquired the wayfarer.
+
+[071-013]“Hougomont,” said the peasant woman.
+
+[071-014]The traveller straightened himself up. He walked on a few paces, and went off to look over the tops of the hedges. On the horizon through the trees, he perceived a sort of little elevation, and on this elevation something which at that distance resembled a lion.
+
+[071-015]He was on the battle-field of [[waterloo|Waterloo]].

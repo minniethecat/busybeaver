@@ -1,0 +1,11 @@
+---
+description: "Of the creation of the human race in time, and how this was effected without any new design or change of purpose on God’s part."
+id: book-12-ch14
+label: "Book 12 — Ch. 14: XIV"
+tags: ["chapter"]
+type: chapter
+---
+
+[349-001]Of the creation of the human race in time, and how this was effected without any new design or change of purpose on God’s part.
+
+[349-002]What wonder is it if, entangled in these circles, they find neither entrance nor egress? For they know not how the human race, and this mortal condition of ours, took its origin, nor how it will be brought to an end, since they cannot penetrate the inscrutable wisdom of God. For, though Himself eternal, and without beginning, yet He caused time to have a beginning; and man, whom He had not previously made, He made in time, not from a new and sudden resolution, but by His unchangeable and eternal design. Who can search out the unsearchable depth of this purpose, who can scrutinize the inscrutable wisdom, wherewith God, without change of will, created man, who had never before been, and gave him an existence in time, and increased the human race from one individual? For the Psalmist himself, when he had first said, “Thou shalt keep us, O Lord, Thou shalt preserve us from this generation forever,” and had then rebuked those whose foolish and impious doctrine preserves for the soul no eternal deliverance and blessedness, adds immediately, “The wicked walk in a circle.” Then, as if it were said to him, “What then do you believe, feel, know? Are we to believe that it suddenly occurred to God to create man, whom He had never before made in a past eternity—God, to whom nothing new can occur, and in whom is no changeableness?” the Psalmist goes on to reply, as if addressing God Himself, “According to the depth of Thy wisdom Thou hast multiplied the children of men.” Let men, he seems to say, fancy what they please, let them conjecture and dispute as seems good to them, but Thou hast multiplied the children of men according to the depth of thy wisdom, which no man can comprehend. For this is a depth indeed, that God always has been, and that man, whom He had never made before, He willed to make in time, and this without changing His design and will.

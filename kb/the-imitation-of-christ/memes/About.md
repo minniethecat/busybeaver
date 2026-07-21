@@ -1,0 +1,33 @@
+---
+description: A knowledge wiki for "The Imitation of Christ" — this page is auto-generated from book metadata
+id: About
+label: About This Wiki
+tags: []
+type: overview
+---
+
+# About This Wiki
+
+This wiki is built around *The Imitation of Christ*, organizing the source text into searchable, cross-referenced encyclopedia pages.
+
+## Book Information
+
+| Field | Value |
+| --- | --- |
+| Title | The Imitation of Christ |
+| Estimated length | ~688,762 characters |
+| Expected pages | ~688 pages |
+| Rights status | Public domain |
+| Source | Project Gutenberg catalog |
+| Rights note | Project Gutenberg 收录文本通常基于美国公共领域或已获授权发布；适合作为公版优先候选。 |
+
+## Usage Notes
+
+- Use the top navigation and search box to find entries; `[[wikilinks]]` connect related pages.
+- Chapter pages follow the structure of the original book; entity pages aggregate by topic.
+
+## Copyright & Attribution
+
+This work is in the public domain (public domain); wiki content is derived from the public-domain text.
+
+Basis: Project Gutenberg 收录文本通常基于美国公共领域或已获授权发布；适合作为公版优先候选。

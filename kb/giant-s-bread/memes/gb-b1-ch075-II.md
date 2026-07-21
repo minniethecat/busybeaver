@@ -1,0 +1,135 @@
+---
+description: "In the meantime Mrs. Vereker had her own methods. One day she asked Nell to go and see an old friend—a girl who had married some few years ago. Ame..."
+id: gb-b1-ch075-II
+label: "II"
+tags: ["chapter"]
+type: chapter
+---
+
+In the meantime Mrs. Vereker had her own methods. One day she asked Nell to go and see an old friend—a girl who had married some few years ago. Amelie King had been a brilliant dashing creature whom Nell, as a schoolgirl, had admired enviously. She might have made a very good marriage, but to everyone’s surprise she had married a struggling young man and had disappeared from her own particular gay world.
+
+“It seems unkind to drop old friends,” said Mrs. Vereker. “I’m sure Amelie would be pleased if you went to see her, and you’re not doing anything this afternoon.”
+
+So Nell went off obediently to call on Mrs. Horton at 35 Glenster Gardens, Ealing.
+
+It was a hot day. Nell took the District Railway and inquired her way from Ealing Broadway Station when she got there.
+
+Glenster Gardens proved to be about a mile from the station—a long depressing road of little houses, all exactly alike. The door of No. 35 was opened by a frowsy-looking maid with a dirty apron and Nell was shown into a small drawing-room. There were one or two nice old pieces of furniture in it and the cretonnes and curtains were of an attractive pattern though very faded, but the place was very untidy and littered with children’s toys and odd bits of mending. A child’s fretful wail rose from somewhere in the house as the door opened and Amelie came in.
+
+“Nell, why how nice of you! I haven’t seen you for years.”
+
+Nell had quite a shock on seeing her. Could this be the well-turned-out attractive Amelie? Her figure had got sloppy, her blouse was shapeless and evidently homemade, and her face was tired and worried with all the old dash and sparkle gone out of it.
+
+She sat down and they talked. Presently Nell was taken to see the two children, a boy and a girl, the younger a baby in a cot.
+
+“I ought to take them out now,” said Amelie, “but really I’m too tired this afternoon. You don’t know how tired one can get pushing a perambulator all the way up from the shops as I did this morning.”
+
+The boy was an attractive child, the baby girl looked sickly and peevish.
+
+“It’s partly her teeth,” said Amelie. “And then her digestion is weak, the doctor says. I do wish she wouldn’t cry so at night. It’s annoying for Jack, who needs his sleep after working all day.”
+
+“You don’t have a nurse?”
+
+“Can’t afford it, my dear. We have the half-wit—that’s what we call the girl who opened the door to you. She’s a complete idiot, but she comes cheap and she really will set to and do some work which is more than most of them will do. A general servant hates coming anywhere where there are children.”
+
+She called out: “Mary, bring some tea,” and led the way back to the drawing-room.
+
+“Oh, dear Nell, do you know I almost wish you hadn’t come to see me. You look so smart and cool—you remind me of all the fun one used to have in the old days. Tennis and dancing and golf and parties.”
+
+Nell said timidly: “But you’re happy …”
+
+“Oh, of course. I’m only enjoying a grumble. Jack’s a dear, and then there are the children, only sometimes—well, one is really too tired to care for anyone or anything. I feel I’d sell my nearest and dearest for a tiled bathroom and bath salts and a maid to brush my hair and lovely silken garments to slip into. And then you hear some rich idiot holding forth on how money doesn’t bring happiness. Fools!”
+
+She laughed.
+
+“Tell me some news, Nell. I’m so out of things nowadays. You can’t keep up if you have no money. I never see any of the old crowd.”
+
+They gossiped a little, so-and-so was married, so-and-so had had a row with her husband, so-and-so had got a new baby, and about so-and-so there was the most terrible scandal.
+
+Tea was brought, rather untidily, with smeary silver and thick bread and butter. As they were finishing, the front door was opened with a key and a man’s voice sounded from the hall fretful and irritable.
+
+“Amelie—I say, it is too bad. I only ask you to do one thing and you go and forget it. This parcel has never been taken down to Jones’s. You said you would.”
+
+Amelie ran out to him in the hall. There was a quick interchange of whispers. She brought him into the drawing-room where he greeted Nell. The child in the nursery began to wail again.
+
+“I must go to her,” said Amelie, and hurried away.
+
+“What a life!” said Jack Horton. He was still very good-looking, though his clothes were distinctly shabby and there were bad-tempered lines coming round his mouth. He laughed as though it were a great joke. “You’ve found us at sixes and sevens, Miss Vereker. We always are. Travelling to and fro in trains this weather is very trying—and no peace in the home when you get there!”
+
+He laughed again, and Nell laughed too, politely. Amelie came back holding the child in her arms. Nell rose to go. They came with her to the door, Amelie sent messages to Mrs. Vereker and waved her hand.
+
+At the gate Nell looked back and caught the expression on Amelie’s face. A hungry envious look.
+
+In spite of herself Nell’s heart sank. Was this the inevitable end? Did poverty kill love?
+
+She reached the main road and was walking along it in the direction of the station when an unexpected voice made her start.
+
+“Miss Nell, by all that’s wonderful!”
+
+A big Rolls-Royce had drawn up to the kerb, George Chetwynd sat behind the wheel smiling at her.
+
+“If this isn’t too good to be true! I thought I saw a girl who was mighty like you—from the back view anyhow—so I slowed down to have a look at her face, and it was your very self. Are you going back to town? Because if so, step in.”
+
+Nell stepped in obediently and settled herself contentedly beside the driver. The car glided forward smoothly, gathering power. A heavenly sensation, Nell thought—effortless, delightful.
+
+“And what are you doing in Ealing?”
+
+“I’ve been to see some friends.”
+
+Moved by some obscure prompting, she described her visit. Chetwynd listened sympathetically, nodding his head from side to side, all the while driving the car with the perfection of a master.
+
+“If that isn’t too bad,” he said sympathetically. “You know, I hate to think of that poor girl. Women ought to be taken care of—to have their lives made easy for them. They ought to be surrounded with everything they want.”
+
+He looked at Nell and said kindly: “It’s upset you, I can see. You must have a very soft heart, Miss Nell.”
+
+Nell looked at him with a sudden warming of her heart. She did like George Chetwynd. There was something so kind and reliable and strong about him. She liked his rather wooden face, and the way his greying hair grew back from his temples. She liked the square, upright way he sat, and the firm precision of his hands on the wheel. He looked the kind of man who could deal with any emergency, a man on whom you could *depend*. The brunt of things would always be on his shoulders, not on yours. Oh! yes, she liked George. He was a nice person to meet when you were tired at the end of a bothering day.
+
+“Is my tie crooked?” he asked suddenly without looking round.
+
+Nell laughed.
+
+“Was I staring? I’m afraid I was.”
+
+“I felt the glance. What were you doing—sizing me up?”
+
+“I believe I was.”
+
+“And I suppose I’ve been found utterly wanting.”
+
+“No, very much the other way about.”
+
+“Don’t say these nice things—which I’m sure you don’t mean. You excited me so much that I nearly collided with a tram then.”
+
+“I never say things I don’t mean.”
+
+“Don’t you? I wonder now.” His voice altered. “There’s something I’ve wanted to say to you for a long time. This is a funny place to say it, but I’m going to take the plunge here and now. Will you marry me, Nell? I want you very badly.”
+
+“Oh!” Nell was startled. “Oh! no, I couldn’t.”
+
+He shot a quick glance at her before returning to his task of steering through the traffic. He slowed down a little.
+
+“Do you mean that, I wonder? I know I’m too old for you—”
+
+“No—you’re not—I mean, it’s not that.”
+
+A little smile twisted his mouth.
+
+“I must be twenty years older than you, Nell, at least. It’s a lot, I know. But I do honestly believe that I could make you happy. Queerly enough, I’m sure of it.”
+
+Nell didn’t answer for a minute or two. Then she said rather weakly: “Oh! but really, I couldn’t.”
+
+“Splendid! You said it much less decidedly that time.”
+
+“But indeed—”
+
+“I’m not going to bother you any more just now. We’ll take it that you’ve said No this time. But you aren’t always going to say No, Nell. I can afford to wait quite a long time for what I want to have. Some day you’ll find yourself saying Yes.”
+
+“No, I shan’t.”
+
+“Yes, you will, dear. There’s no one else, is there? Ah! but I know there isn’t.”
+
+Nell didn’t answer. She told herself that she didn’t know what to say. She had tacitly promised her mother that nothing should be said about her engagement.
+
+And yet, somewhere, deep down, she felt ashamed.
+
+George Chetwynd began cheerfully to talk of various outside topics.

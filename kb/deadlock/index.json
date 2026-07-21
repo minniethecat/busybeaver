@@ -1,0 +1,6711 @@
+{
+  "book": "deadlock",
+  "title": "Deadlock",
+  "description": "Deadlock — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 145,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Deadlock\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "deadlock:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Production credits and edition information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:Colophon",
+      "relations": []
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Publication and copyright information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:Imprint",
+      "relations": [
+        {
+          "type": "related",
+          "target": "art",
+          "label": "artwork"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [
+        "overview"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-deadlock",
+          "label": "ch01-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch02-deadlock",
+          "label": "ch02-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch03-deadlock",
+          "label": "ch03-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch04-deadlock",
+          "label": "ch04-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch05-deadlock",
+          "label": "ch05-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch06-deadlock",
+          "label": "ch06-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch07-deadlock",
+          "label": "ch07-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch08-deadlock",
+          "label": "ch08-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch09-deadlock",
+          "label": "ch09-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch10-deadlock",
+          "label": "ch10-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch11-deadlock",
+          "label": "ch11-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch12-deadlock",
+          "label": "ch12-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "ch13-deadlock",
+          "label": "ch13-deadlock"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Public domain dedication and license\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:Uncopyright",
+      "relations": [
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "writing"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "artwork"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        }
+      ]
+    },
+    {
+      "id": "anna-karenina",
+      "type": "concept",
+      "label": "\"Anna Karenina\"",
+      "description": "\"Tolstoy's novel Anna Karenina, which Miriam and Shatov read together in Chapter II — the most extended literary discussion in Deadlock.\"",
+      "aliases": [
+        "Tolstoy's Anna Karenina"
+      ],
+      "tags": [
+        "concept",
+        "literature",
+        "novel",
+        "chapter-2"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:anna-karenina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "tolstoy",
+          "label": "tolstoy"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "type": "concept",
+      "label": "Architecture",
+      "description": "Architecture as a visual and aesthetic element in Deadlock, appearing in descriptions of London's built environment.",
+      "aliases": [
+        "buildings",
+        "architectural"
+      ],
+      "tags": [
+        "aesthetics",
+        "urban",
+        "visual",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:architecture",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "euston-road",
+          "label": "euston-road"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "type": "concept",
+      "label": "Art",
+      "description": "Art as creative expression and cultural value in Deadlock, appearing in debates about artistic truth, the purpose of fiction, and the relationship between art and life.",
+      "aliases": [
+        "artistic",
+        "artwork",
+        "arts"
+      ],
+      "tags": [
+        "concept",
+        "aesthetics",
+        "creativity"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:art",
+      "relations": [
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "art-and-culture",
+      "type": "list",
+      "label": "Art and Culture",
+      "description": ">",
+      "aliases": [
+        "aesthetics",
+        "literature",
+        "music",
+        "cultural-life"
+      ],
+      "tags": [
+        "list",
+        "art",
+        "culture",
+        "aesthetics",
+        "thematic-index"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:art-and-culture",
+      "relations": [
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "architecture",
+          "label": "architecture"
+        },
+        {
+          "type": "related",
+          "target": "elgin-marbles",
+          "label": "elgin-marbles"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty",
+      "description": "Beauty as an aesthetic and experiential category in Deadlock, appearing in descriptions of people, places, music, and the natural world as a source of meaning and consolation.",
+      "aliases": [
+        "beautiful",
+        "aesthetic"
+      ],
+      "tags": [
+        "concept",
+        "aesthetics",
+        "perception",
+        "modernism"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:beauty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "belonging",
+      "type": "concept",
+      "label": "Belonging",
+      "description": "The sense of social and existential belonging — and its absence — as experienced by Miriam throughout the novel, a central tension in her navigation of London society.",
+      "aliases": [
+        "social belonging",
+        "not-belonging",
+        "outsider"
+      ],
+      "tags": [
+        "philosophy",
+        "social",
+        "identity",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:belonging",
+      "relations": []
+    },
+    {
+      "id": "boardinghouse",
+      "type": "concept",
+      "label": "Boardinghouse",
+      "description": "The boardinghouse as a social institution and narrative device in Deadlock — a microcosm of Edwardian London where class, nationality, and private life intersect under one roof.",
+      "aliases": [
+        "boarding-house",
+        "lodging-house",
+        "the house"
+      ],
+      "tags": [
+        "concept",
+        "boardinghouse",
+        "domestic-space",
+        "social-structure"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:boardinghouse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "mrs-bailey"
+        },
+        {
+          "type": "related",
+          "target": "domestic-life",
+          "label": "domestic-life"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "boardinghouse-as-microcosm",
+      "type": "insight",
+      "label": "The Boardinghouse as Social Microcosm",
+      "description": "An analytical survey of how the Tansley Street boardinghouse functions as a microcosm of Edwardian society in Deadlock, dramatizing the intersections of class, gender, nationality, and domestic power through the daily rituals of communal living.",
+      "aliases": [
+        "Tansley Street as microcosm",
+        "domestic-space",
+        "social-structure"
+      ],
+      "tags": [
+        "insight",
+        "boardinghouse",
+        "society",
+        "class",
+        "gender",
+        "domestic-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:boardinghouse-as-microcosm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "sissie-bailey",
+          "label": "Sissie Bailey"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russian"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "boardinghouse",
+          "label": "boardinghouse"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "british",
+      "type": "concept",
+      "label": "British",
+      "description": ">",
+      "aliases": [
+        "Britishness",
+        "British-identity"
+      ],
+      "tags": [
+        "nationality",
+        "identity",
+        "politics",
+        "british",
+        "empire"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:british",
+      "relations": [
+        {
+          "type": "related",
+          "target": "english",
+          "label": "english"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "jewish"
+        },
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "british-museum"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        }
+      ]
+    },
+    {
+      "id": "british-museum",
+      "type": "place",
+      "label": "British Museum",
+      "description": "The London museum and library that represents Shatov's dream of England and serves as a significant setting for Miriam's intellectual life.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "museum",
+        "london",
+        "institution"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:british-museum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch01-deadlock",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"Miriam returns to Tansley Street and meets Mr. Shatov\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch01-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "the Baileys"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "quiet"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "covent-garden",
+          "label": "Covent Garden"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "writing"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "Philosophy"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "evenings"
+        },
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "British Museum"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "sissie-bailey",
+          "label": "Sissie"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembering"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "musical"
+        },
+        {
+          "type": "related",
+          "target": "eve",
+          "label": "Eve"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "married"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individuality"
+        }
+      ]
+    },
+    {
+      "id": "ch02-deadlock",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"Conversations and the development of intimacy\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch02-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "artistic"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "musical"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "British Museum"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "quiet"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "writing"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "the reading-room"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "Tansley Street"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "beloved"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "being alone"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "sissie-bailey",
+          "label": "Sissie"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "jan",
+          "label": "Jan"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "evenings"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        }
+      ]
+    },
+    {
+      "id": "ch03-deadlock",
+      "type": "chapter",
+      "label": "\"III\"",
+      "description": "\"Social encounters and inner reflections\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch03-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "eve",
+          "label": "Eve"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "evening hours"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Michael Shatov"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "conscious"
+        },
+        {
+          "type": "related",
+          "target": "harriett",
+          "label": "Harriett"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "married"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "stillness"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "Tansley Street"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking in London"
+        },
+        {
+          "type": "related",
+          "target": "hyde-park",
+          "label": "Hyde Park"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-church",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religious"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophical"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "scientific"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translating"
+        },
+        {
+          "type": "related",
+          "target": "jan",
+          "label": "Jan"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        }
+      ]
+    },
+    {
+      "id": "ch04-deadlock",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"A brief chapter of shifting perspectives\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch04-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        }
+      ]
+    },
+    {
+      "id": "ch05-deadlock",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"Emotional undercurrents and daily life\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch05-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosopher"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "quiet"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truthful"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "writing"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "evenings"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "ch06-deadlock",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"Deepening connections and unspoken tensions\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch06-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translations"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembering"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literary"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "artistic"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualistic"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        }
+      ]
+    },
+    {
+      "id": "ch07-deadlock",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"Extended meditations on consciousness and reality\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch07-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Michael Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religious"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "quiet"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "scientific"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "jan",
+          "label": "Jan"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "Philosophy"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        }
+      ]
+    },
+    {
+      "id": "ch08-deadlock",
+      "type": "chapter",
+      "label": "\"VIII\"",
+      "description": "\"Moments of crisis and revelation\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch08-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "quiet"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "song"
+        }
+      ]
+    },
+    {
+      "id": "ch09-deadlock",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"A brief interlude of calm\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch09-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "stillness"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individual"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "belonging",
+          "label": "outsider"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "writing"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "evenings"
+        }
+      ]
+    },
+    {
+      "id": "ch10-deadlock",
+      "type": "chapter",
+      "label": "\"X\"",
+      "description": "\"Rapid developments and turning points\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch10-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewishness"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "married"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        }
+      ]
+    },
+    {
+      "id": "ch11-deadlock",
+      "type": "chapter",
+      "label": "\"XI\"",
+      "description": "\"Confrontations and inner resolve\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch11-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "mind"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "jan",
+          "label": "Jan"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "novels"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "working"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "talk"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "Walking"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "stillness"
+        }
+      ]
+    },
+    {
+      "id": "ch12-deadlock",
+      "type": "chapter",
+      "label": "\"XII\"",
+      "description": "\"The gathering storm\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch12-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "stillness"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "discussion"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "the-church",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religious"
+        }
+      ]
+    },
+    {
+      "id": "ch13-deadlock",
+      "type": "chapter",
+      "label": "\"XIII\"",
+      "description": "\"Resolution and aftermath\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "deadlock:ch13-deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "beloved"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beautiful"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "married"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religious"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "social"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "conscious"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bergstein",
+          "label": "Mrs. Bergstein"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "free"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "the-church",
+          "label": "Anglican Church"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "Science"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Michael"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "stillness"
+        }
+      ]
+    },
+    {
+      "id": "chaliapin",
+      "type": "person",
+      "label": "Feodor Chaliapin",
+      "description": "Feodor Chaliapin, the Russian bass opera singer admired by Mr. Shatov as \"the only true Mephistopheles in Europe.\"",
+      "aliases": [
+        "Chaliapin",
+        "Feodor Chaliapin"
+      ],
+      "tags": [
+        "opera",
+        "singer",
+        "russian",
+        "bass",
+        "music"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:chaliapin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "faust-opera",
+          "label": "faust-opera"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "id": "chess",
+      "type": "concept",
+      "label": "\"Chess\"",
+      "description": "\"Recurring motif in Deadlock — Mr. Shatov's passion for chess and its symbolic role in the novel.\"",
+      "aliases": [
+        "chess-player",
+        "chess game"
+      ],
+      "tags": [
+        "concept",
+        "motif",
+        "game",
+        "chapter-1",
+        "chapter-3"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:chess",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "dr-veslovski",
+          "label": "Dr. Veslovski"
+        }
+      ]
+    },
+    {
+      "id": "christianity",
+      "type": "concept",
+      "label": "Christianity",
+      "description": "Christianity appears in Deadlock as a subject of intellectual debate and cultural identity, discussed among the characters as both a living faith and a contested historical inheritance.",
+      "aliases": [
+        "Christian faith"
+      ],
+      "tags": [
+        "religion",
+        "faith",
+        "British identity",
+        "philosophy"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:christianity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "english",
+          "label": "English identity"
+        }
+      ]
+    },
+    {
+      "id": "christmas",
+      "type": "event",
+      "label": "Christmas",
+      "description": "The Christmas holiday gathering at the Brooms' household marks a significant temporal sequence in Chapter 3, where Miriam observes domestic festivity as an outsider while Gerald, Harriett, and the Broom family enact the rituals of seasonal leisure.",
+      "aliases": [
+        "Christmas Day",
+        "Christmas season"
+      ],
+      "tags": [
+        "holiday",
+        "family",
+        "Broom family",
+        "social gathering"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:christmas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "gerald",
+          "label": "Gerald"
+        },
+        {
+          "type": "related",
+          "target": "harriett",
+          "label": "Harriett"
+        },
+        {
+          "type": "related",
+          "target": "eve",
+          "label": "Eve"
+        },
+        {
+          "type": "related",
+          "target": "elspeth",
+          "label": "Elspeth"
+        }
+      ]
+    },
+    {
+      "id": "commercial-traveler",
+      "type": "concept",
+      "label": "Commercial Traveler",
+      "description": "The figure of the commercial traveler in Deadlock, embodied by Mr. Rodkin, representing a particular stratum of Edwardian economic life — mobile, entrepreneurial, socially ambiguous.",
+      "aliases": [
+        "commercial traveller",
+        "travelling salesman",
+        "trade"
+      ],
+      "tags": [
+        "concept",
+        "work",
+        "class",
+        "identity"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:commercial-traveler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "consciousness",
+      "type": "concept",
+      "label": "Consciousness",
+      "description": "The central philosophical and narrative concern of Deadlock — consciousness as the medium of experience, identity, and Richardson's pioneering stream-of-consciousness technique.",
+      "aliases": [
+        "conscious",
+        "self-awareness",
+        "unconsciousness",
+        "mind"
+      ],
+      "tags": [
+        "concept",
+        "modernism",
+        "psychology",
+        "narrative-technique"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:consciousness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        }
+      ]
+    },
+    {
+      "id": "consciousness-and-narrative",
+      "type": "insight",
+      "label": "Consciousness and Narrative in Deadlock",
+      "description": "An analytical survey of how Dorothy M. Richardson's stream-of-consciousness technique in Deadlock embodies her philosophical commitments — collapsing the distinction between narrated event and narrating mind, and making perception itself the novel's true subject.",
+      "aliases": [
+        "stream-of-consciousness",
+        "narrative-technique",
+        "modernism-and-consciousness"
+      ],
+      "tags": [
+        "insight",
+        "consciousness",
+        "narrative",
+        "modernism",
+        "philosophy"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:consciousness-and-narrative",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        }
+      ]
+    },
+    {
+      "id": "consciousness-and-philosophy",
+      "type": "list",
+      "label": "Consciousness and Philosophy",
+      "description": ">",
+      "aliases": [
+        "philosophical-themes",
+        "epistemology",
+        "mind"
+      ],
+      "tags": [
+        "list",
+        "philosophy",
+        "consciousness",
+        "epistemology",
+        "thematic-index"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:consciousness-and-philosophy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "type": "concept",
+      "label": "Conversation",
+      "description": "Conversation in Deadlock is both the dominant mode of social interaction at the Tansley Street boardinghouse and a narrative technique through which Richardson renders consciousness in collision — a site of revelation, misprision, and the testing of ideas.",
+      "aliases": [
+        "talk",
+        "dialogue",
+        "discussion",
+        "conversational interchange"
+      ],
+      "tags": [
+        "narrative-technique",
+        "social-interaction",
+        "modernism",
+        "consciousness"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:conversation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        }
+      ]
+    },
+    {
+      "id": "covent-garden",
+      "type": "place",
+      "label": "Covent Garden",
+      "description": "The London market district that Miriam uses as a conversational pretext and that represents, for the novel's foreign boarders, active engagement with the city.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "market",
+        "london",
+        "tourism"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:covent-garden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "mrs-bailey"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "mr-gunner"
+        }
+      ]
+    },
+    {
+      "id": "darwin",
+      "type": "person",
+      "label": "Charles Darwin",
+      "description": "Charles Darwin, the English naturalist whose theory of evolution by natural selection is debated in Deadlock as a touchstone of scientific authority and its limits.",
+      "aliases": [
+        "Darwin",
+        "Charles Darwin",
+        "Darwinism"
+      ],
+      "tags": [
+        "science",
+        "evolution",
+        "biology",
+        "naturalist",
+        "intellectual-history"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:darwin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "truth",
+          "label": "truth"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "th-huxley",
+          "label": "T. H. Huxley"
+        },
+        {
+          "type": "related",
+          "target": "herbert-spencer",
+          "label": "herbert-spencer"
+        }
+      ]
+    },
+    {
+      "id": "deadlock",
+      "type": "concept",
+      "label": "Deadlock (Novel)",
+      "description": "Deadlock is the fifth volume of Dorothy M. Richardson's Pilgrimage series, published in 1921, set in London and centred on Miriam Henderson's life as a dental secretary and her deepening engagement with Russian émigré culture.",
+      "aliases": [
+        "Deadlock",
+        "Pilgrimage Volume V"
+      ],
+      "tags": [
+        "novel",
+        "pilgrimageseries",
+        "modernism",
+        "1921"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:deadlock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock-concept",
+          "label": "deadlock-concept"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "dorothy-m-richardson",
+          "label": "dorothy-m-richardson"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "deadlock-concept",
+      "type": "concept",
+      "label": "Deadlock (Concept)",
+      "description": "Deadlock as both the novel's title and its central metaphor — the condition of being caught between irreconcilable forces, whether social, psychological, or philosophical.",
+      "aliases": [
+        "impasse",
+        "stalemate",
+        "standstill"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "psychology",
+        "narrative"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:deadlock-concept",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "domestic-life",
+      "type": "list",
+      "label": "Domestic Life",
+      "description": ">",
+      "aliases": [
+        "home-life",
+        "household",
+        "boardinghouse-life"
+      ],
+      "tags": [
+        "list",
+        "domestic",
+        "boardinghouse",
+        "thematic-index"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:domestic-life",
+      "relations": []
+    },
+    {
+      "id": "dorothy-m-richardson",
+      "type": "person",
+      "label": "Dorothy M. Richardson",
+      "description": "Dorothy M. Richardson (1873–1957), British novelist and author of Pilgrimage, the thirteen-volume novel sequence of which Deadlock (1921) is the fifth volume. A pioneer of stream-of-consciousness technique.",
+      "aliases": [
+        "modernism",
+        "Dorothy Richardson",
+        "Richardson",
+        "Dorothy Miller Richardson"
+      ],
+      "tags": [
+        "person",
+        "author",
+        "modernism",
+        "stream-of-consciousness"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:dorothy-m-richardson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "virginia-woolf",
+          "label": "virginia-woolf"
+        }
+      ]
+    },
+    {
+      "id": "dr-mchibbert",
+      "type": "person",
+      "label": "Dr. McHibbert",
+      "description": "Dr. McHibbert is a lecturer on Hegel and metaphysics whose talk Miriam attends; he is described as possessing a \"marvellously intelligent\" manner and a soul, though his philosophical caution about belief and happiness provokes Miriam's resistance.",
+      "aliases": [
+        "McHibbert"
+      ],
+      "tags": [
+        "lecturer",
+        "philosophy",
+        "metaphysics",
+        "hegel"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:dr-mchibbert",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "dr-veslovski",
+      "type": "person",
+      "label": "\"Dr. Veslovski\"",
+      "description": "\"Polish medical student and chess partner of Mr. Shatov who visits Tansley Street.\"",
+      "aliases": [
+        "Veslovski"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "chapter-1",
+        "chapter-2"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:dr-veslovski",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "chess",
+          "label": "chess"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "type": "concept",
+      "label": "Education",
+      "description": "Education as a subject of discussion and social differentiation in Deadlock.",
+      "aliases": [
+        "schooling",
+        "learning",
+        "educational"
+      ],
+      "tags": [
+        "society",
+        "culture",
+        "class"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:education",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-furthermore-settlement",
+          "label": "Furthermore Settlement"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "elgin-marbles",
+      "type": "concept",
+      "label": "Elgin Marbles",
+      "description": "The Elgin Marbles, classical Greek sculptures housed in the British Museum, referenced in Deadlock as a cultural landmark.",
+      "aliases": [
+        "Parthenon Marbles"
+      ],
+      "tags": [
+        "art",
+        "sculpture",
+        "british-museum",
+        "classical",
+        "greece"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:elgin-marbles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "british-museum"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "architecture",
+          "label": "architecture"
+        }
+      ]
+    },
+    {
+      "id": "elspeth",
+      "type": "person",
+      "label": "Elspeth",
+      "description": "Elspeth is the young child of Gerald and Harriett, a golden-haired toddler whose presence at Tansley Street brings moments of spontaneous warmth into the boardinghouse world.",
+      "aliases": [
+        "Elspeth Bailey"
+      ],
+      "tags": [
+        "child",
+        "bailey-family",
+        "tansley-street"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:elspeth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gerald",
+          "label": "gerald"
+        },
+        {
+          "type": "related",
+          "target": "harriett",
+          "label": "harriett"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        }
+      ]
+    },
+    {
+      "id": "emerson",
+      "type": "person",
+      "label": "Emerson",
+      "description": ">",
+      "aliases": [
+        "Ralph Waldo Emerson"
+      ],
+      "tags": [
+        "person",
+        "writer",
+        "american",
+        "philosophy",
+        "transcendentalism"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:emerson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tolstoy",
+          "label": "tolstoy"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "type": "place",
+      "label": "England",
+      "description": "The English nation and cultural identity that serves as the primary setting and thematic backdrop of Deadlock, constantly contrasted with Shatov's Russian perspective.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "country",
+        "english-identity"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "russia"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "hyde-park",
+          "label": "hyde-park"
+        },
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "british-museum"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "type": "concept",
+      "label": "English",
+      "description": ">",
+      "aliases": [
+        "Englishness",
+        "English-language",
+        "English-identity"
+      ],
+      "tags": [
+        "language",
+        "identity",
+        "nationality",
+        "english",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:english",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british",
+          "label": "british"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "german"
+        },
+        {
+          "type": "related",
+          "target": "french",
+          "label": "french"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "type": "place",
+      "label": "Europe",
+      "description": ">",
+      "aliases": [
+        "European-continent",
+        "European-civilization"
+      ],
+      "tags": [
+        "place",
+        "continent",
+        "europe",
+        "civilization"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:europe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "french",
+          "label": "french"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "german"
+        },
+        {
+          "type": "related",
+          "target": "polish",
+          "label": "polish"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        }
+      ]
+    },
+    {
+      "id": "euston-road",
+      "type": "place",
+      "label": "Euston Road",
+      "description": "A major London thoroughfare that appears in several scenes of Deadlock, serving as a transitional space between interior conversation and the flow of urban life, where the mundane street is repeatedly transformed through Miriam's perceptual attention.",
+      "aliases": [],
+      "tags": [
+        "london",
+        "street",
+        "transportation",
+        "urban landscape"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:euston-road",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "Tansley Street"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "Wimpole Street"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking"
+        }
+      ]
+    },
+    {
+      "id": "eve",
+      "type": "person",
+      "label": "Eve",
+      "description": "A resident of the Tansley Street boarding house and a figure from Miriam's past, Eve is central to the communal domestic scenes of Chapter III, where her relationship with Harriett, Gerald, and Elspeth forms a vivid portrait of shared life.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "boarding-house",
+        "chapter-3",
+        "backstory"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:eve",
+      "relations": []
+    },
+    {
+      "id": "events",
+      "type": "list",
+      "label": "Events",
+      "description": "Complete index of all event entries in the Deadlock wiki, sorted by label.",
+      "aliases": [
+        "event-index",
+        "list-of-events"
+      ],
+      "tags": [
+        "index",
+        "event"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:events",
+      "relations": []
+    },
+    {
+      "id": "faust-opera",
+      "type": "concept",
+      "label": "\"Faust (opera)\"",
+      "description": "\"Gounod's opera Faust, which Miriam and Shatov attend in Chapter XI — a centerpiece cultural event and philosophical touchstone.\"",
+      "aliases": [
+        "Faust",
+        "Gounod's Faust"
+      ],
+      "tags": [
+        "concept",
+        "opera",
+        "music",
+        "chapter-11"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:faust-opera",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "chaliapin",
+          "label": "Chaliapin"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "freedom",
+      "type": "concept",
+      "label": "Freedom",
+      "description": "Freedom as a central existential value in Deadlock — Miriam's prized independence, her navigation of London's possibilities, and the tension between freedom and connection.",
+      "aliases": [
+        "free",
+        "liberty",
+        "independence"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "individualism",
+        "miriams-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:freedom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "french",
+      "type": "concept",
+      "label": "French",
+      "description": ">",
+      "aliases": [
+        "French-language",
+        "French-culture",
+        "France"
+      ],
+      "tags": [
+        "language",
+        "nationality",
+        "culture",
+        "french"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:french",
+      "relations": [
+        {
+          "type": "related",
+          "target": "english",
+          "label": "english"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "german"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        },
+        {
+          "type": "related",
+          "target": "polish",
+          "label": "polish"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        }
+      ]
+    },
+    {
+      "id": "gender-and-relationships",
+      "type": "list",
+      "label": "Gender and Relationships",
+      "description": ">",
+      "aliases": [
+        "women-in-deadlock",
+        "marriage",
+        "gender-roles"
+      ],
+      "tags": [
+        "list",
+        "gender",
+        "society",
+        "thematic-index"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:gender-and-relationships",
+      "relations": []
+    },
+    {
+      "id": "gerald",
+      "type": "person",
+      "label": "Gerald",
+      "description": "Gerald is a cheerful young man who appears during the Christmas gathering at the Brooms', characterized by his easy manner, whistling, and enthusiasm for modern gadgets like the gramophone.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "Christmas",
+        "Broom family",
+        "gramophone"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:gerald",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "harriett",
+          "label": "Harriett"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "christmas",
+          "label": "christmas"
+        },
+        {
+          "type": "related",
+          "target": "eve",
+          "label": "eve"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "gramophone",
+          "label": "gramophone"
+        }
+      ]
+    },
+    {
+      "id": "german",
+      "type": "concept",
+      "label": "German",
+      "description": ">",
+      "aliases": [
+        "German-language",
+        "German-culture",
+        "Germany"
+      ],
+      "tags": [
+        "language",
+        "nationality",
+        "culture",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:german",
+      "relations": [
+        {
+          "type": "related",
+          "target": "english",
+          "label": "english"
+        },
+        {
+          "type": "related",
+          "target": "french",
+          "label": "french"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "type": "place",
+      "label": "Germany",
+      "description": "Germany as a cultural and national reference point in Deadlock, appearing in discussions of forests, education, and European identity.",
+      "aliases": [
+        "German",
+        "Deutschland"
+      ],
+      "tags": [
+        "country",
+        "europe",
+        "nationality",
+        "culture"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:germany",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "belonging",
+          "label": "belonging"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "faust-opera",
+          "label": "faust-opera"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "europe"
+        }
+      ]
+    },
+    {
+      "id": "gramophone",
+      "type": "concept",
+      "label": "Gramophone",
+      "description": "The gramophone as an object of technological novelty and social negotiation in Deadlock.",
+      "aliases": [
+        "phonograph",
+        "record player"
+      ],
+      "tags": [
+        "technology",
+        "music",
+        "sound",
+        "domestic"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:gramophone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gerald",
+          "label": "gerald"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "harriett",
+      "type": "person",
+      "label": "Harriett",
+      "description": "A lively resident of the Tansley Street boarding house, Harriett is a central figure in the communal domestic life of Chapter III, known for her quick wit, maternal warmth, and bustling energy.",
+      "aliases": [
+        "Harriet"
+      ],
+      "tags": [
+        "character",
+        "boarding-house",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:harriett",
+      "relations": []
+    },
+    {
+      "id": "herbert-spencer",
+      "type": "person",
+      "label": "Herbert Spencer",
+      "description": "Herbert Spencer (1820–1903), Victorian philosopher and sociologist, referenced in intellectual discussions in Deadlock.",
+      "aliases": [
+        "Spencer"
+      ],
+      "tags": [
+        "philosopher",
+        "victorian",
+        "evolution",
+        "sociology"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:herbert-spencer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        }
+      ]
+    },
+    {
+      "id": "hyde-park",
+      "type": "place",
+      "label": "Hyde Park",
+      "description": "A London park that appears in Deadlock as a site of public assembly and a symbol of English political liberty, contrasted with Russian autocracy.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "park",
+        "london",
+        "public-space"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:hyde-park",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        }
+      ]
+    },
+    {
+      "id": "identity-and-belonging",
+      "type": "insight",
+      "label": "Identity and Belonging in Deadlock",
+      "description": "An analytical survey of how Deadlock explores the problem of identity and belonging through its treatment of Englishness, Jewishness, Russianness, and the possibilities of cultural self-definition beyond inherited national categories.",
+      "aliases": [
+        "identity",
+        "national-identity",
+        "cultural-belonging",
+        "Englishness"
+      ],
+      "tags": [
+        "insight",
+        "identity",
+        "nationality",
+        "belonging",
+        "culture",
+        "religion"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:identity-and-belonging",
+      "relations": [
+        {
+          "type": "related",
+          "target": "english",
+          "label": "Englishness"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "Russianness"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "Jewishness"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "british",
+          "label": "british"
+        },
+        {
+          "type": "related",
+          "target": "belonging",
+          "label": "belonging"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bergstein",
+          "label": "mrs-bergstein"
+        }
+      ]
+    },
+    {
+      "id": "individualism",
+      "type": "concept",
+      "label": "Individualism",
+      "description": "Miriam Henderson's philosophical commitment to individualism — her belief in the primacy of individual consciousness and her resistance to collective identity, explored through debates with Mr. Shatov.",
+      "aliases": [
+        "individual",
+        "individualistic",
+        "individuality"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "society",
+        "miriams-philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:individualism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        }
+      ]
+    },
+    {
+      "id": "james-joyce",
+      "type": "person",
+      "label": "James Joyce",
+      "description": "Irish modernist writer referenced in Deadlock as a contemporary of Dorothy Richardson — his work represents one pole of the modernist experiment with consciousness that Richardson's own narrative method both parallels and diverges from.",
+      "aliases": [
+        "Joyce"
+      ],
+      "tags": [
+        "author",
+        "irish",
+        "modernist",
+        "literary-reference"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:james-joyce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "virginia-woolf",
+          "label": "virginia-woolf"
+        }
+      ]
+    },
+    {
+      "id": "jan",
+      "type": "person",
+      "label": "Jan",
+      "description": "A friend or associate of Miriam's who appears across several chapters, Jan is connected to intellectual discussion and is referenced as someone whose judgment about philosophical matters matters.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "friend",
+        "recurring"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:jan",
+      "relations": []
+    },
+    {
+      "id": "jewish",
+      "type": "concept",
+      "label": "Jewish",
+      "description": "Jewish identity and culture as encountered and reflected upon by Miriam in Deadlock, illuminating themes of belonging, tradition, otherness, and the possibilities of cultural identity outside English Protestant norms.",
+      "aliases": [
+        "Jewishness",
+        "Jewish identity",
+        "Judaism"
+      ],
+      "tags": [
+        "religion",
+        "identity",
+        "social",
+        "culture"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:jewish",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        },
+        {
+          "type": "related",
+          "target": "english",
+          "label": "english"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bergstein",
+          "label": "mrs-bergstein"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "old-testament",
+          "label": "old-testament"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        }
+      ]
+    },
+    {
+      "id": "jews",
+      "type": "concept",
+      "label": "Jews",
+      "description": "Jewish identity as a central thematic concern in Deadlock — encompassing Mr. Shatov's Jewishness, questions of assimilation and belonging, and the political dimensions of Jewish life in early twentieth-century Europe and England.",
+      "aliases": [
+        "Jewish",
+        "Judaism",
+        "Jewish identity",
+        "Polish Jews"
+      ],
+      "tags": [
+        "concept",
+        "religion",
+        "identity",
+        "ethnicity",
+        "diaspora"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:jews",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        }
+      ]
+    },
+    {
+      "id": "john-henry-newman",
+      "type": "person",
+      "label": "John Henry Newman",
+      "description": "John Henry Newman (1801–1890), Anglican clergyman who converted to Roman Catholicism, referenced in Deadlock as a figure in Miriam and Shatov's discussions of religious authority and English religious identity.",
+      "aliases": [
+        "Newman",
+        "Cardinal Newman"
+      ],
+      "tags": [
+        "person",
+        "religion",
+        "catholicism",
+        "anglicanism",
+        "historical-figure"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:john-henry-newman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "christianity"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "judaism",
+      "type": "concept",
+      "label": "Judaism",
+      "description": "Judaism as a religious identity and heritage discussed among characters in Deadlock, particularly in conversations about conversion and belonging.",
+      "aliases": [
+        "Jewish faith",
+        "Jewish religion"
+      ],
+      "tags": [
+        "religion",
+        "identity",
+        "judaism",
+        "jewish"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:judaism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "jewish"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "type": "concept",
+      "label": "Language",
+      "description": "Language — its sounds, acquisition, translation, and aesthetic qualities — is a recurring concern in Deadlock, set in a cosmopolitan milieu where English, Russian, German, and French are all in play and where the materiality of language shapes thought, perception, and earning power.",
+      "aliases": [
+        "languages",
+        "linguistics",
+        "speech",
+        "tongue",
+        "translation"
+      ],
+      "tags": [
+        "language",
+        "communication",
+        "translation",
+        "learning",
+        "Russian",
+        "German",
+        "French",
+        "English"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:language",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "english",
+          "label": "English"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "Russian"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "German"
+        },
+        {
+          "type": "related",
+          "target": "french",
+          "label": "French"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "tolstoy",
+          "label": "Tolstoy"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        }
+      ]
+    },
+    {
+      "id": "language-and-communication",
+      "type": "list",
+      "label": "Language and Communication",
+      "description": ">",
+      "aliases": [
+        "speech",
+        "dialogue",
+        "talk"
+      ],
+      "tags": [
+        "list",
+        "language",
+        "communication",
+        "thematic-index"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:language-and-communication",
+      "relations": []
+    },
+    {
+      "id": "leonid-andreyev",
+      "type": "person",
+      "label": "\"Leonid Andreyev\"",
+      "description": "\"Russian:occupation:writer:Russian author (1871–1919) whose short stories Miriam Henderson translates throughout Chapters V and VI of Deadlock.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "chapter-2"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:leonid-andreyev",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        }
+      ]
+    },
+    {
+      "id": "leyton",
+      "type": "person",
+      "label": "Mr. Leyton",
+      "description": ">",
+      "aliases": [
+        "mr-leyton",
+        "Leyton"
+      ],
+      "tags": [
+        "person",
+        "boardinghouse",
+        "character",
+        "tansley-street"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:leyton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "mr-gunner"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "mrs-bailey"
+        },
+        {
+          "type": "related",
+          "target": "boardinghouse",
+          "label": "boardinghouse"
+        },
+        {
+          "type": "related",
+          "target": "leyton",
+          "label": "Mr. Leyton"
+        }
+      ]
+    },
+    {
+      "id": "list-of-characters",
+      "type": "list",
+      "label": "List of Characters",
+      "description": "Complete index of all person entries in the Deadlock wiki, sorted by reference count.",
+      "aliases": [
+        "characters",
+        "persons",
+        "character-index"
+      ],
+      "tags": [
+        "index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:list-of-characters",
+      "relations": []
+    },
+    {
+      "id": "list-of-concepts",
+      "type": "list",
+      "label": "List of Concepts",
+      "description": "Complete index of all concept entries in the Deadlock wiki, sorted by reference count to highlight the novel's central themes.",
+      "aliases": [
+        "concepts",
+        "themes",
+        "concept-index"
+      ],
+      "tags": [
+        "index",
+        "concept"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:list-of-concepts",
+      "relations": []
+    },
+    {
+      "id": "list-of-places",
+      "type": "list",
+      "label": "List of Places",
+      "description": "Complete index of all place entries in the Deadlock wiki, sorted alphabetically by label.",
+      "aliases": [
+        "places",
+        "locations",
+        "place-index"
+      ],
+      "tags": [
+        "index",
+        "place"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:list-of-places",
+      "relations": []
+    },
+    {
+      "id": "literature",
+      "type": "concept",
+      "label": "Literature",
+      "description": "Literature as an institution, a profession, and a passion in Deadlock, encompassing Miriam's ambivalent relationship to English literary culture and her discovery of Russian literature through Mr. Shatov.",
+      "aliases": [
+        "literary",
+        "writing",
+        "books",
+        "novels"
+      ],
+      "tags": [
+        "concept",
+        "art",
+        "writing",
+        "intellectual-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:literature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "London is the encompassing urban setting of Deadlock, experienced through Miriam Henderson's consciousness as both a physical landscape of streets, parks, and bridges, and a psychological condition — a \"temptation,\" a pressure, a distant prize.",
+      "aliases": [],
+      "tags": [
+        "city",
+        "setting",
+        "England",
+        "urban-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        }
+      ]
+    },
+    {
+      "id": "london-in-the-novel",
+      "type": "list",
+      "label": "London in the Novel",
+      "description": ">",
+      "aliases": [
+        "london-places",
+        "urban-landscape",
+        "city"
+      ],
+      "tags": [
+        "list",
+        "london",
+        "place",
+        "urban",
+        "thematic-index"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:london-in-the-novel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "euston-road",
+          "label": "euston-road"
+        },
+        {
+          "type": "related",
+          "target": "british-museum",
+          "label": "british-museum"
+        },
+        {
+          "type": "related",
+          "target": "hyde-park",
+          "label": "hyde-park"
+        },
+        {
+          "type": "related",
+          "target": "covent-garden",
+          "label": "covent-garden"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "Love in Deadlock is explored not as romantic convention but as a mode of attention — a way of perceiving persons, places, and objects that transforms the lover's consciousness as much as the beloved.",
+      "aliases": [
+        "affection",
+        "devotion",
+        "passion",
+        "beloved"
+      ],
+      "tags": [
+        "emotion",
+        "relationships",
+        "theme",
+        "consciousness"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "lucie-duclaux",
+      "type": "person",
+      "label": "\"Lucie Duclaux\"",
+      "description": "\"Frenchwoman and lecturer at the Furthermore Settlement who befriends Miriam at McHibbert's lecture.\"",
+      "aliases": [
+        "Lucie"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "chapter-7"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:lucie-duclaux",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "dr-mchibbert",
+          "label": "dr-mchibbert"
+        },
+        {
+          "type": "related",
+          "target": "the-furthermore-settlement",
+          "label": "the-furthermore-settlement"
+        }
+      ]
+    },
+    {
+      "id": "maeterlinck",
+      "type": "person",
+      "label": "\"Maurice Maeterlinck\"",
+      "description": "\"Belgian:occupation:writer:Belgian symbolist playwright (1862–1949) whose ideas about gender and consciousness are referenced by Miriam Henderson.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "chapter-2"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:maeterlinck",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "type": "concept",
+      "label": "Marriage",
+      "description": "Marriage as a social institution and personal dilemma in Deadlock — Miriam's ambivalence about marriage, the Bergstein marriage as a model, and the tension between love and autonomy.",
+      "aliases": [
+        "marry",
+        "married",
+        "wedding",
+        "engagement"
+      ],
+      "tags": [
+        "concept",
+        "relationships",
+        "gender",
+        "social-institution"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "type": "concept",
+      "label": "Meaning",
+      "description": "The question of meaning — how words carry significance and how experience yields understanding — runs throughout Deadlock, where Richardson's stream-of-consciousness technique enacts the process by which meaning accumulates (and sometimes refuses to cohere) across successive moments of perception.",
+      "aliases": [
+        "meanings",
+        "significance",
+        "interpretation",
+        "sense"
+      ],
+      "tags": [
+        "philosophy",
+        "language",
+        "consciousness",
+        "epistemology",
+        "perception"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:meaning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "German"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "type": "concept",
+      "label": "Memory",
+      "description": "Memory as a narrative and experiential mechanism in Deadlock, shaping how Miriam processes the present and constructs her sense of self through the accumulation of past moments, and central to Richardson's stream-of-consciousness technique.",
+      "aliases": [
+        "recollection",
+        "remembering",
+        "the past"
+      ],
+      "tags": [
+        "psychology",
+        "narrative",
+        "modernism",
+        "consciousness"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:memory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "time",
+          "label": "time"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "meaning",
+          "label": "meaning"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        }
+      ]
+    },
+    {
+      "id": "miriam-henderson",
+      "type": "person",
+      "label": "Miriam Henderson",
+      "description": "The protagonist and narrative consciousness of Deadlock — a young Englishwoman working as a dental secretary in London, navigating intellectual awakening, personal freedom, and a complex relationship with Russian tutor Mr. Shatov.",
+      "aliases": [
+        "Miriam",
+        "Miss Henderson",
+        "Henderson",
+        "Miriam-Henderson"
+      ],
+      "tags": [
+        "protagonist",
+        "dental-secretary",
+        "english",
+        "consciousness"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:miriam-henderson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        }
+      ]
+    },
+    {
+      "id": "most-referenced",
+      "type": "list",
+      "label": "Most Referenced Pages",
+      "description": "Ranking of all entry pages in the Deadlock wiki by total reference count, revealing the most central entities in the link network.",
+      "aliases": [
+        "top-pages",
+        "popular",
+        "ranking",
+        "statistics"
+      ],
+      "tags": [
+        "index",
+        "statistics",
+        "ranking"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:most-referenced",
+      "relations": []
+    },
+    {
+      "id": "mr-gunner",
+      "type": "person",
+      "label": "Mr. Gunner",
+      "description": "A fellow boarder at Tansley Street whose pedantic manner, \"numb clucking laughter,\" and unlikely romance with Mrs. Bailey make him an object of Miriam's amused contempt and reluctant respect.",
+      "aliases": [
+        "Gunner",
+        "Mr. Gunner",
+        "Mr-Gunner"
+      ],
+      "tags": [
+        "boarder",
+        "english",
+        "tansley-street",
+        "pedant"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:mr-gunner",
+      "relations": []
+    },
+    {
+      "id": "mr-hancock",
+      "type": "person",
+      "label": "Mr. Hancock",
+      "description": "Mr. Hancock is one of Miriam Henderson's employers at the Wimpole Street dental practice, whose reasonable but rigid manner and the conflict over Mudie's library books precipitates a crisis in Miriam's working life.",
+      "aliases": [
+        "Hancock"
+      ],
+      "tags": [
+        "employer",
+        "dental-practice",
+        "wimpole-street",
+        "english"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:mr-hancock",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "orly",
+          "label": "orly"
+        }
+      ]
+    },
+    {
+      "id": "mr-lahitte",
+      "type": "person",
+      "label": "Mr. Lahitte",
+      "description": "Mr. Lahitte is a French lecturer on Spanish literature whose pretentious and empty lecture Miriam is hired to translate and correct, revealing to her the difference between genuine intellectual substance and artificial rhetoric.",
+      "aliases": [
+        "Lahitte"
+      ],
+      "tags": [
+        "lecturer",
+        "french",
+        "spanish-literature",
+        "boardinghouse"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:mr-lahitte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "mr-rodkin",
+      "type": "person",
+      "label": "Mr. Rodkin",
+      "description": "Mr. Rodkin, a kindly commercial traveler and lodger at Tansley Street, anchors the dinner-table debates with his newspapers and precise observations — a figure of quiet dignity whose Jewish identity threads into the novel's engagement with belonging and difference.",
+      "aliases": [
+        "Rodkin"
+      ],
+      "tags": [
+        "lodger",
+        "commercial-traveler",
+        "Tansley-Street",
+        "Jewish"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:mr-rodkin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "commercial-traveler",
+          "label": "commercial traveler"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "belonging",
+          "label": "belonging"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "mr-shatov",
+      "type": "person",
+      "label": "Mr. Shatov",
+      "description": "A Russian Jewish student in London who becomes Miriam Henderson's pupil in English, her guide to European philosophy, and the central figure in her romantic and intellectual awakening in Deadlock.",
+      "aliases": [
+        "Shatov",
+        "Michael",
+        "Michael Shatov",
+        "Mr-Shatov"
+      ],
+      "tags": [
+        "russian",
+        "student",
+        "philosopher",
+        "love-interest"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:mr-shatov",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        }
+      ]
+    },
+    {
+      "id": "mrs-bailey",
+      "type": "person",
+      "label": "Mrs. Bailey",
+      "description": "The landlady of Tansley Street boardinghouse, whose quiet dignity, romantic renewal with Mr. Gunner, and knowing patience provide a counterpoint to Miriam's restless intellectual searching.",
+      "aliases": [
+        "Bailey",
+        "the landlady",
+        "Mrs-Bailey"
+      ],
+      "tags": [
+        "landlady",
+        "english",
+        "boardinghouse",
+        "tansley-street"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:mrs-bailey",
+      "relations": []
+    },
+    {
+      "id": "mrs-bergstein",
+      "type": "person",
+      "label": "Mrs. Bergstein",
+      "description": "An Englishwoman who converted to Judaism through marriage, whose interview with Miriam in Chapter XIII provides the novel's most concentrated examination of religion, marriage, and the possibility of crossing cultural boundaries.",
+      "aliases": [
+        "Bergstein",
+        "Mrs. Bergstein",
+        "Mrs-Bergstein"
+      ],
+      "tags": [
+        "convert",
+        "judaism",
+        "unitarian",
+        "english",
+        "marriage"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:mrs-bergstein",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "type": "concept",
+      "label": "Music",
+      "description": "Music as a recurring motif in Deadlock, representing pure aesthetic experience and emotional truth beyond the reach of verbal articulation.",
+      "aliases": [
+        "musical",
+        "melody",
+        "song"
+      ],
+      "tags": [
+        "concept",
+        "art",
+        "sensory-experience",
+        "beauty"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:music",
+      "relations": [
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        }
+      ]
+    },
+    {
+      "id": "nationality-and-identity",
+      "type": "list",
+      "label": "Nationality and Identity",
+      "description": ">",
+      "aliases": [
+        "national-identity",
+        "cultural-identity",
+        "foreignness"
+      ],
+      "tags": [
+        "list",
+        "nationality",
+        "identity",
+        "thematic-index"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:nationality-and-identity",
+      "relations": []
+    },
+    {
+      "id": "newspapers",
+      "type": "organization",
+      "label": "Newspapers",
+      "description": "Newspapers in Deadlock function as a diffuse institution of public knowledge — carried into the Tansley Street boardinghouse by Mr. Rodkin, discussed at the dinner table, and treated by Miriam with a characteristic mix of engagement and suspicion.",
+      "aliases": [
+        "the press",
+        "journalism",
+        "the daily papers"
+      ],
+      "tags": [
+        "media",
+        "public-discourse",
+        "information",
+        "London"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:newspapers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-church",
+          "label": "the Church"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "old-testament",
+      "type": "concept",
+      "label": "Old Testament",
+      "description": "The Old Testament as a cultural and religious reference point in Deadlock, invoked in discussions of faith and identity.",
+      "aliases": [
+        "Hebrew Bible",
+        "Hebrew Scriptures"
+      ],
+      "tags": [
+        "religion",
+        "bible",
+        "judaism",
+        "christianity",
+        "scripture"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:old-testament",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "jewish"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "orly",
+      "type": "person",
+      "label": "The Orlys",
+      "description": ">",
+      "aliases": [
+        "Mrs. Orly",
+        "Mr. Orly",
+        "Orly family"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "boardinghouse",
+        "tansley-street"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:orly",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "leyton",
+          "label": "Mr. Leyton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "mrs-bailey"
+        },
+        {
+          "type": "related",
+          "target": "boardinghouse",
+          "label": "boardinghouse"
+        }
+      ]
+    },
+    {
+      "id": "oxford-street",
+      "type": "place",
+      "label": "Oxford Street",
+      "description": "Oxford Street, a major London thoroughfare and shopping destination, referenced in Deadlock as part of the novel's London geography.",
+      "aliases": [],
+      "tags": [
+        "london",
+        "street",
+        "shopping",
+        "urban"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:oxford-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "euston-road",
+          "label": "euston-road"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "tottenham-court-road",
+          "label": "tottenham-court-road"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "Paris as a site of memory and anticipation in Deadlock, appearing in Shatov's recollections of his travels.",
+      "aliases": [
+        "Paris",
+        "France"
+      ],
+      "tags": [
+        "city",
+        "europe",
+        "travel",
+        "french"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "type": "concept",
+      "label": "Perception",
+      "description": "The act and experience of perceiving — central to Miriam Henderson's consciousness and to Richardson's narrative method, where perception is never passive but always interpretive and saturated with meaning.",
+      "aliases": [
+        "perceive",
+        "seeing",
+        "observation",
+        "awareness",
+        "noticing"
+      ],
+      "tags": [
+        "concept",
+        "consciousness",
+        "psychology",
+        "epistemology"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:perception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "type": "concept",
+      "label": "Philosophy",
+      "description": "A central intellectual preoccupation in Deadlock, representing Miriam's aspiration toward systematic thought and her engagement with European ideas through Mr. Shatov.",
+      "aliases": [
+        "philosophical",
+        "philosopher"
+      ],
+      "tags": [
+        "concept",
+        "intellectual-life",
+        "mr-shatov"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:philosophy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "polish",
+      "type": "concept",
+      "label": "Polish",
+      "description": ">",
+      "aliases": [
+        "Polish-people",
+        "Polish-culture",
+        "Poland"
+      ],
+      "tags": [
+        "nationality",
+        "culture",
+        "language",
+        "polish",
+        "european"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:polish",
+      "relations": [
+        {
+          "type": "related",
+          "target": "french",
+          "label": "french"
+        },
+        {
+          "type": "related",
+          "target": "german",
+          "label": "german"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "english",
+          "label": "english"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "europe"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "type": "concept",
+      "label": "Politics",
+      "description": "Political ideas and discourse as they appear in Deadlock — from Russian anarchism to British imperialism, and the political dimensions of Jewish identity and national belonging.",
+      "aliases": [
+        "political",
+        "anarchism",
+        "empire",
+        "British Empire",
+        "radicalism"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "ideology",
+        "nationalism"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:politics",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jews",
+          "label": "jews"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        }
+      ]
+    },
+    {
+      "id": "psychology-and-inner-life",
+      "type": "list",
+      "label": "Psychology and Inner Life",
+      "description": ">",
+      "aliases": [
+        "consciousness-studies",
+        "mind",
+        "interiority"
+      ],
+      "tags": [
+        "list",
+        "psychology",
+        "consciousness",
+        "thematic-index"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:psychology-and-inner-life",
+      "relations": []
+    },
+    {
+      "id": "reading",
+      "type": "event",
+      "label": "Reading",
+      "description": "Reading in Deadlock is the event through which Miriam Henderson's intellectual life unfolds — a solitary practice conducted in the British Museum reading-room and in private, through which she encounters philosophy, literature, and the shaping force of ideas.",
+      "aliases": [
+        "books",
+        "study",
+        "the reading-room",
+        "literary activity"
+      ],
+      "tags": [
+        "intellectual-life",
+        "solitude",
+        "education",
+        "British-Museum"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:reading",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "The Evening"
+        }
+      ]
+    },
+    {
+      "id": "reform-judaism",
+      "type": "concept",
+      "label": "\"Reform Judaism\"",
+      "description": "\"The movement within Judaism that makes special provisions for the recognition of women — a central theme in Chapter XIII's exploration of gender and religion.\"",
+      "aliases": [],
+      "tags": [
+        "concept",
+        "religion",
+        "judaism",
+        "chapter-13"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:reform-judaism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "Zionism"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "jews",
+          "label": "jews"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bergstein",
+          "label": "mrs-bergstein"
+        }
+      ]
+    },
+    {
+      "id": "religion",
+      "type": "concept",
+      "label": "Religion",
+      "description": "The role of organized and personal religion in Deadlock, encompassing Anglican Christianity, Judaism, and Unitarianism as frameworks through which characters negotiate identity and belonging.",
+      "aliases": [
+        "religious",
+        "faith",
+        "christianity",
+        "judaism",
+        "unitarianism"
+      ],
+      "tags": [
+        "concept",
+        "belief",
+        "society",
+        "mrs-bergstein"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:religion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        }
+      ]
+    },
+    {
+      "id": "religion-and-spirituality",
+      "type": "list",
+      "label": "Religion and Spirituality",
+      "description": ">",
+      "aliases": [
+        "faith",
+        "religious-themes",
+        "spiritual-life"
+      ],
+      "tags": [
+        "list",
+        "religion",
+        "spirituality",
+        "thematic-index"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:religion-and-spirituality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "christianity"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "the-church",
+          "label": "the-church"
+        },
+        {
+          "type": "related",
+          "target": "zionism",
+          "label": "zionism"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bergstein",
+          "label": "mrs-bergstein"
+        }
+      ]
+    },
+    {
+      "id": "ritual",
+      "type": "concept",
+      "label": "Ritual",
+      "description": "The role of religious ritual and ceremony as a link between individuals and spiritual tradition in Deadlock, explored through salon conversations about Jewish observance, Christianity, and the tension between institutional form and inner experience.",
+      "aliases": [
+        "religious ritual",
+        "old ritual",
+        "spiritual ritual"
+      ],
+      "tags": [
+        "religion",
+        "spirituality",
+        "judaism",
+        "ceremony",
+        "tradition"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:ritual",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "Jewish"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christian"
+        },
+        {
+          "type": "related",
+          "target": "james-joyce",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "virginia-woolf",
+          "label": "Woolf"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        }
+      ]
+    },
+    {
+      "id": "russia",
+      "type": "place",
+      "label": "Russia",
+      "description": "A country evoked throughout Deadlock through the character of Mr. Shatov, its literature, language, and cultural contrasts with England.",
+      "aliases": [],
+      "tags": [
+        "place",
+        "country",
+        "russian-literature"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:russia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "russian",
+      "type": "concept",
+      "label": "Russian",
+      "description": "Russian culture, literature, and identity as a significant thematic presence in Deadlock, embodied through characters and intellectual discussions.",
+      "aliases": [
+        "Russian culture",
+        "Russian literature",
+        "Russian identity"
+      ],
+      "tags": [
+        "culture",
+        "nationality",
+        "literature",
+        "politics",
+        "identity"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:russian",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        }
+      ]
+    },
+    {
+      "id": "schenck",
+      "type": "person",
+      "label": "\"Schenck\"",
+      "description": "\"unknown:occupation:researcher:Medical researcher discussed in Chapter II whose theory of reproduction crystallizes the theme of gendered knowledge and male scientific authority.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "chapter-2"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:schenck",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "type": "concept",
+      "label": "Science",
+      "description": "The role of science as a system of knowledge in Deadlock, appearing in debates about method, truth, and the limits of scientific understanding in relation to philosophy and religion.",
+      "aliases": [
+        "scientific",
+        "scientific-method",
+        "darwinism",
+        "exact-science"
+      ],
+      "tags": [
+        "concept",
+        "knowledge",
+        "modernity",
+        "intellectual-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:science",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "silence",
+      "type": "concept",
+      "label": "Silence",
+      "description": "Silence as both an interpersonal dynamic and a narrative quality in the novel — a space of unspoken understanding, awkwardness, and the limits of language itself.",
+      "aliases": [
+        "quiet",
+        "stillness",
+        "wordlessness"
+      ],
+      "tags": [
+        "psychology",
+        "communication",
+        "modernism",
+        "narrative"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:silence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        }
+      ]
+    },
+    {
+      "id": "singing",
+      "type": "concept",
+      "label": "Singing",
+      "description": "Singing appears throughout Deadlock as a recurring motif used to characterize individuals — particularly Mr. Shatov — and to mark moments of heightened emotion, self-forgetfulness, and cross-cultural aesthetic experience, from drawing-room performance to the mighty sound of Russian choral singing.",
+      "aliases": [
+        "song",
+        "vocal music",
+        "chant"
+      ],
+      "tags": [
+        "music",
+        "motif",
+        "character",
+        "expression",
+        "emotion",
+        "Russian singing"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:singing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "Russian"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "sissie",
+      "type": "person",
+      "label": "Sissie Bailey",
+      "description": "Sissie Bailey is the sullen teenage daughter of Mrs. Bailey at the boarding house, learning typewriting in hopes of escaping domestic service.",
+      "aliases": [
+        "Sissie"
+      ],
+      "tags": [
+        "character",
+        "Bailey family",
+        "typewriting"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:sissie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "typewriting",
+          "label": "typewriting"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "Tansley Street"
+        }
+      ]
+    },
+    {
+      "id": "sissie-bailey",
+      "type": "person",
+      "label": "Sissie Bailey",
+      "description": "Sissie Bailey, the daughter of Mrs. Bailey, helps run the Tansley Street boardinghouse while training in typewriting — a figure poised between domestic obligation and the promise of independence.",
+      "aliases": [
+        "Sissie"
+      ],
+      "tags": [
+        "boardinghouse",
+        "daughter",
+        "typewriting",
+        "Baileys",
+        "Tansley-Street"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:sissie-bailey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "typewriting",
+          "label": "typewriting"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "type": "concept",
+      "label": "Society",
+      "description": "Society as a system of class, gender, and national distinctions in Deadlock, structuring Miriam's experience and providing the backdrop against which her individual consciousness defines itself.",
+      "aliases": [
+        "social",
+        "english-society",
+        "social-class"
+      ],
+      "tags": [
+        "concept",
+        "social-structure",
+        "class",
+        "gender",
+        "england"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "boardinghouse",
+          "label": "boardinghouse"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "jewish"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "women",
+          "label": "women"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "society-and-identity",
+      "type": "list",
+      "label": "Society and Identity",
+      "description": ">",
+      "aliases": [
+        "social-world",
+        "class",
+        "gender"
+      ],
+      "tags": [
+        "list",
+        "society",
+        "identity",
+        "gender",
+        "thematic-index"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:society-and-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "society"
+        },
+        {
+          "type": "related",
+          "target": "women",
+          "label": "women"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "belonging",
+          "label": "belonging"
+        }
+      ]
+    },
+    {
+      "id": "solitude",
+      "type": "concept",
+      "label": "Solitude",
+      "description": "A central existential state in the novel, solitude represents both a refuge for Miriam's consciousness and a condition she interrogates as potentially \"too easy\" — a hallmark of Richardson's modernist interiority.",
+      "aliases": [
+        "aloneness",
+        "being alone",
+        "isolation"
+      ],
+      "tags": [
+        "psychology",
+        "philosophy",
+        "modernism",
+        "consciousness"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:solitude",
+      "relations": []
+    },
+    {
+      "id": "st-pancras",
+      "type": "place",
+      "label": "\"St. Pancras\"",
+      "description": "\"London landmark whose clock marks pivotal moments across multiple chapters of Deadlock.\"",
+      "aliases": [
+        "St. Pancras clock"
+      ],
+      "tags": [
+        "place",
+        "london",
+        "landmark",
+        "chapter-1",
+        "chapter-3",
+        "chapter-5",
+        "chapter-7"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:st-pancras",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "euston-road",
+          "label": "euston-road"
+        }
+      ]
+    },
+    {
+      "id": "tansley-street",
+      "type": "place",
+      "label": "Tansley Street",
+      "description": "Tansley Street is the site of Mrs. Bailey's boardinghouse, the domestic centre of Deadlock, where Miriam Henderson lodges and where the novel's principal conversations, encounters, and private reflections unfold.",
+      "aliases": [
+        "the boardinghouse",
+        "the Baileys",
+        "the dining-room at Tansley Street",
+        "Tansley-Street"
+      ],
+      "tags": [
+        "boardinghouse",
+        "domestic-space",
+        "London",
+        "Baileys"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:tansley-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "mr-gunner",
+          "label": "Mr. Gunner"
+        },
+        {
+          "type": "related",
+          "target": "mr-rodkin",
+          "label": "Mr. Rodkin"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "the evening"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "th-huxley",
+      "type": "person",
+      "label": "\"T.H. Huxley\"",
+      "description": "\"Thomas Henry Huxley (1825–1895), Victorian biologist known as 'Darwin's Bulldog,' whose ideas Miriam critiques in Chapter XII.\"",
+      "aliases": [
+        "Thomas Henry Huxley",
+        "Huxley"
+      ],
+      "tags": [
+        "person",
+        "scientist",
+        "victorian",
+        "chapter-12"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:th-huxley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "miriam-henderson"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        }
+      ]
+    },
+    {
+      "id": "the-church",
+      "type": "organization",
+      "label": "The Church",
+      "description": "The Church in Deadlock appears not as a unified institution but as a field of denominational difference — Anglican, Russian Orthodox, Greek, and Nonconformist — through which characters negotiate questions of belonging, tradition, and belief.",
+      "aliases": [
+        "Christianity",
+        "Anglican Church",
+        "Russian Orthodox Church",
+        "Greek Church",
+        "religious institutions"
+      ],
+      "tags": [
+        "religion",
+        "institution",
+        "Christianity",
+        "worship",
+        "ritual"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:the-church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "architecture",
+          "label": "architecture"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        }
+      ]
+    },
+    {
+      "id": "the-evening",
+      "type": "event",
+      "label": "The Evening",
+      "description": "The evening is the novel's primary temporal unit of social life — a recurrent event-structure in which the lodgers of Tansley Street gather, converse, read, and negotiate the threshold between public duty and private consciousness.",
+      "aliases": [
+        "evenings",
+        "evening hours",
+        "social evenings"
+      ],
+      "tags": [
+        "social-ritual",
+        "time",
+        "boardinghouse",
+        "domestic-life"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:the-evening",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "reading",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        }
+      ]
+    },
+    {
+      "id": "the-furthermore-settlement",
+      "type": "organization",
+      "label": "\"The Furthermore Settlement\"",
+      "description": "\"Cultural institution hosting Dr. McHibbert's lecture in Chapter VII — dedicated to bringing culture among the people.\"",
+      "aliases": [
+        "Furthermore Settlement"
+      ],
+      "tags": [
+        "organization",
+        "settlement",
+        "education",
+        "chapter-7"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:the-furthermore-settlement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-mchibbert",
+          "label": "Dr. McHibbert"
+        },
+        {
+          "type": "related",
+          "target": "lucie-duclaux",
+          "label": "Lucie Duclaux"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "education"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "type": "concept",
+      "label": "Time",
+      "description": "Time as a dimension of consciousness and narrative structure in Deadlock, where the flow of temporal experience resists conventional chronology.",
+      "aliases": [
+        "temporality",
+        "duration",
+        "past"
+      ],
+      "tags": [
+        "philosophy",
+        "consciousness",
+        "narrative",
+        "memory"
+      ],
+      "quality": "basic",
+      "source_ref": "deadlock:time",
+      "relations": [
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        }
+      ]
+    },
+    {
+      "id": "tolstoy",
+      "type": "person",
+      "label": "Tolstoy",
+      "description": ">",
+      "aliases": [
+        "Leo Tolstoy",
+        "Lev Tolstoy"
+      ],
+      "tags": [
+        "person",
+        "writer",
+        "russian",
+        "literature",
+        "novelist"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:tolstoy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "emerson",
+          "label": "emerson"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "individualism",
+          "label": "individualism"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        }
+      ]
+    },
+    {
+      "id": "tottenham-court-road",
+      "type": "place",
+      "label": "Tottenham Court Road",
+      "description": "Tottenham Court Road, a major London street connecting Bloomsbury to the West End, referenced in Deadlock.",
+      "aliases": [],
+      "tags": [
+        "london",
+        "street",
+        "urban"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:tottenham-court-road",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "oxford-street",
+          "label": "oxford-street"
+        },
+        {
+          "type": "related",
+          "target": "euston-road",
+          "label": "euston-road"
+        },
+        {
+          "type": "related",
+          "target": "walking",
+          "label": "walking"
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "type": "concept",
+      "label": "Translation",
+      "description": "Miriam Henderson's engagement with literary translation — both as creative practice and as a source of income — connecting Russian and English literary cultures through her relationship with Mr. Shatov.",
+      "aliases": [
+        "translations",
+        "translating"
+      ],
+      "tags": [
+        "concept",
+        "literature",
+        "language",
+        "miriams-work"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:translation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "truth",
+      "type": "concept",
+      "label": "Truth",
+      "description": "Truth as an epistemological and aesthetic value in Deadlock — the problem of truthful representation in fiction and the relationship between philosophical truth and lived experience.",
+      "aliases": [
+        "true",
+        "truthful",
+        "truthfulness"
+      ],
+      "tags": [
+        "concept",
+        "epistemology",
+        "philosophy",
+        "art"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:truth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philosophy",
+          "label": "philosophy"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        }
+      ]
+    },
+    {
+      "id": "typewriting",
+      "type": "concept",
+      "label": "Typewriting",
+      "description": "Typewriting as a practical skill and marker of female employment in Deadlock, associated with the character Sissie Bailey.",
+      "aliases": [
+        "typing",
+        "typewriting skill"
+      ],
+      "tags": [
+        "work",
+        "skill",
+        "technology",
+        "employment"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:typewriting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sissie-bailey",
+          "label": "sissie-bailey"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "women",
+          "label": "women"
+        },
+        {
+          "type": "related",
+          "target": "newspapers",
+          "label": "newspapers"
+        }
+      ]
+    },
+    {
+      "id": "virginia-woolf",
+      "type": "person",
+      "label": "Virginia Woolf",
+      "description": "English modernist writer and contemporary of Dorothy Richardson — Woolf's experiments with narrative consciousness both parallel and illuminate Richardson's own pioneering stream-of-consciousness technique in the Pilgrimage series.",
+      "aliases": [
+        "Woolf"
+      ],
+      "tags": [
+        "author",
+        "english",
+        "modernist",
+        "literary-reference",
+        "bloomsbury"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:virginia-woolf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "james-joyce",
+          "label": "james-joyce"
+        },
+        {
+          "type": "related",
+          "target": "literature",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "walking",
+      "type": "event",
+      "label": "Walking",
+      "description": "Walking in Deadlock is the event through which Miriam Henderson navigates London, processes thought, and bridges the distance between professional obligation and private consciousness — a mobile form of meditation central to Richardson's narrative method.",
+      "aliases": [
+        "walks",
+        "strolling",
+        "pedestrian movement",
+        "walking in London"
+      ],
+      "tags": [
+        "movement",
+        "London",
+        "consciousness",
+        "solitude",
+        "urban-experience"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:walking",
+      "relations": [
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "Mr. Shatov"
+        },
+        {
+          "type": "related",
+          "target": "conversation",
+          "label": "conversation"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-evening",
+          "label": "The Evening"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        }
+      ]
+    },
+    {
+      "id": "wimpole-street",
+      "type": "place",
+      "label": "Wimpole Street",
+      "description": "Wimpole Street is the site of Miriam Henderson's workplace as a dental secretary, a professional enclave in London's medical district whose routines of ledgers and appointments shape the novel's counterpoint between labour and consciousness.",
+      "aliases": [],
+      "tags": [
+        "dental-practice",
+        "workplace",
+        "London",
+        "Harley-Street",
+        "medical-district"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:wimpole-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "work",
+          "label": "work"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "tansley-street",
+          "label": "tansley-street"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "type": "concept",
+      "label": "Women",
+      "description": "The representation of women and womanhood is a central thematic concern in Deadlock, explored through Miriam's observations of gender relations, working women's lives, and the constraints of Edwardian femininity.",
+      "aliases": [
+        "womanhood"
+      ],
+      "tags": [
+        "gender",
+        "society",
+        "identity",
+        "feminism"
+      ],
+      "quality": "featured",
+      "source_ref": "deadlock:women",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deadlock",
+          "label": "Deadlock"
+        },
+        {
+          "type": "related",
+          "target": "miriam-henderson",
+          "label": "Miriam Henderson"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "typewriting",
+          "label": "typewriting"
+        },
+        {
+          "type": "related",
+          "target": "sissie",
+          "label": "Sissie Bailey"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bailey",
+          "label": "Mrs. Bailey"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "type": "concept",
+      "label": "Work",
+      "description": "Work as economic necessity and identity in Deadlock — Miriam's position as a dental secretary, the gendered nature of professional life, and the contrast between work and creative vocation.",
+      "aliases": [
+        "working",
+        "employment",
+        "profession",
+        "labor",
+        "job"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "economy",
+        "miriams-life",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "freedom"
+        },
+        {
+          "type": "related",
+          "target": "translation",
+          "label": "translation"
+        },
+        {
+          "type": "related",
+          "target": "consciousness",
+          "label": "consciousness"
+        },
+        {
+          "type": "related",
+          "target": "wimpole-street",
+          "label": "wimpole-street"
+        }
+      ]
+    },
+    {
+      "id": "zionism",
+      "type": "concept",
+      "label": "Zionism",
+      "description": "Zionism as a political movement briefly referenced in Deadlock, in the context of the novel's engagement with Jewish identity and political ideas.",
+      "aliases": [],
+      "tags": [
+        "politics",
+        "judaism",
+        "ideology",
+        "nationalism"
+      ],
+      "quality": "standard",
+      "source_ref": "deadlock:zionism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judaism",
+          "label": "judaism"
+        },
+        {
+          "type": "related",
+          "target": "jewish",
+          "label": "jewish"
+        },
+        {
+          "type": "related",
+          "target": "politics",
+          "label": "politics"
+        },
+        {
+          "type": "related",
+          "target": "mr-shatov",
+          "label": "mr-shatov"
+        },
+        {
+          "type": "related",
+          "target": "russian",
+          "label": "russian"
+        }
+      ]
+    }
+  ]
+}

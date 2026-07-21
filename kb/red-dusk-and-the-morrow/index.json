@@ -1,0 +1,5582 @@
+{
+  "book": "red-dusk-and-the-morrow",
+  "title": "Red Dusk and the Morrow",
+  "description": "Red Dusk and the Morrow — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 103,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Red Dusk and the Morrow\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:About",
+      "relations": []
+    },
+    {
+      "id": "Epigraph",
+      "type": "\"chapter\"",
+      "label": "\"Epigraph\"",
+      "description": "\"Epigraph from Bryce's Modern Democracies\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:Epigraph",
+      "relations": []
+    },
+    {
+      "id": "Foreword",
+      "type": "\"chapter\"",
+      "label": "\"Foreword\"",
+      "description": "\"Author's foreword on the purpose and limitations of this account\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:Foreword",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "org-british-foreign-office",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-ukraine",
+          "label": "Ukraine"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "\"Table of Contents\"",
+      "description": "\"Table of Contents for Red Dusk and the Morrow\"",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "red-dusk-and-the-morrow:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Foreword",
+          "label": "Foreword"
+        },
+        {
+          "type": "related",
+          "target": "Epigraph",
+          "label": "Epigraph"
+        },
+        {
+          "type": "related",
+          "target": "ch01-one-of-the-crowd",
+          "label": "ch01-one-of-the-crowd"
+        },
+        {
+          "type": "related",
+          "target": "ch02-five-days",
+          "label": "ch02-five-days"
+        },
+        {
+          "type": "related",
+          "target": "ch03-the-green-shawl",
+          "label": "ch03-the-green-shawl"
+        },
+        {
+          "type": "related",
+          "target": "ch04-meshes",
+          "label": "ch04-meshes"
+        },
+        {
+          "type": "related",
+          "target": "ch05-melnikoff",
+          "label": "ch05-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "ch06-stepanovna",
+          "label": "ch06-stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "ch07-finland",
+          "label": "ch07-finland"
+        },
+        {
+          "type": "related",
+          "target": "ch08-a-village-bourgeois-capitalist",
+          "label": "ch08-a-village-bourgeois-capitalist"
+        },
+        {
+          "type": "related",
+          "target": "ch09-metamorphosis",
+          "label": "ch09-metamorphosis"
+        },
+        {
+          "type": "related",
+          "target": "ch10-the-sphinx",
+          "label": "ch10-the-sphinx"
+        },
+        {
+          "type": "related",
+          "target": "ch11-the-red-army",
+          "label": "ch11-the-red-army"
+        },
+        {
+          "type": "related",
+          "target": "ch12-the-party-and-the-people",
+          "label": "ch12-the-party-and-the-people"
+        },
+        {
+          "type": "related",
+          "target": "ch13-escape",
+          "label": "ch13-escape"
+        },
+        {
+          "type": "related",
+          "target": "ch14-conclusion",
+          "label": "ch14-conclusion"
+        }
+      ]
+    },
+    {
+      "id": "ch01-one-of-the-crowd",
+      "type": "\"chapter\"",
+      "label": "\"I: One of the Crowd\"",
+      "description": "\"Petrograd, March 1917: the revolution begins\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch01-one-of-the-crowd",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "Duma building"
+        },
+        {
+          "type": "related",
+          "target": "org-state-duma",
+          "label": "Duma"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "starvation"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "org-british-foreign-office",
+          "label": "British Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-archangel",
+          "label": "Archangel"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "person-the-chief",
+          "label": "the Chief"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "Helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-captain-cromie",
+          "label": "Captain Cromie"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "event-founding-of-the-cheka",
+          "label": "Chrezvychayka"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "person-uritsky",
+          "label": "Uritsky"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "place-ukraine",
+          "label": "Little Russia"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        }
+      ]
+    },
+    {
+      "id": "ch02-five-days",
+      "type": "\"chapter\"",
+      "label": "\"II: Five Days\"",
+      "description": "\"Five days in revolutionary Petrograd\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch02-five-days",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "educated class"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "place-river-neva",
+          "label": "Neva"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "person-captain-cromie",
+          "label": "Captain Cromie"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "place-kamenostrovsky-prospect",
+          "label": "Kamenostrovsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Captain Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "org-house-committee",
+          "label": "Committee of the Poor"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Trotsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya Street"
+        },
+        {
+          "type": "related",
+          "target": "org-okhrana",
+          "label": "Okhrana"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "the Policeman"
+        },
+        {
+          "type": "related",
+          "target": "place-winter-palace",
+          "label": "Imperial Palace"
+        },
+        {
+          "type": "related",
+          "target": "event-founding-of-the-cheka",
+          "label": "Chrezvychayka"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        }
+      ]
+    },
+    {
+      "id": "ch03-the-green-shawl",
+      "type": "\"chapter\"",
+      "label": "\"III: The Green Shawl\"",
+      "description": "\"The green shawl — a story of espionage\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch03-the-green-shawl",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Trotsky"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-archangel",
+          "label": "Archangel"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "the Policeman"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya Street"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "Whites"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Baltic"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "educated class"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        }
+      ]
+    },
+    {
+      "id": "ch04-meshes",
+      "type": "\"chapter\"",
+      "label": "\"IV: Meshes\"",
+      "description": "\"Caught in the meshes of the Cheka\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch04-meshes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "Helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "person-joseph-krylenko",
+          "label": "Joseph Krylenko"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "Alexei Fomitch"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "Fortress of Kronstadt"
+        }
+      ]
+    },
+    {
+      "id": "ch05-melnikoff",
+      "type": "\"chapter\"",
+      "label": "\"V: Melnikoff\"",
+      "description": "\"The enigmatic Mr. Melnikoff\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch05-melnikoff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "the Doctor"
+        },
+        {
+          "type": "related",
+          "target": "place-kamenostrovsky-prospect",
+          "label": "Kamenostrovsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "person-rosa-luxembourg",
+          "label": "Rosa Luxembourg"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "place-winter-palace",
+          "label": "Winter Palace"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "Third International"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "person-joseph-krylenko",
+          "label": "Krylenko"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Baltic"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "the Policeman"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch06-stepanovna",
+      "type": "\"chapter\"",
+      "label": "\"VI: Stepanovna\"",
+      "description": "\"Stepanovna and the peasant household\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch06-stepanovna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet regime"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "the Policeman"
+        }
+      ]
+    },
+    {
+      "id": "ch07-finland",
+      "type": "\"chapter\"",
+      "label": "\"VII: Finland\"",
+      "description": "\"Across the border — Finland as intelligence base\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch07-finland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-river-neva",
+          "label": "River Neva"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Gulf of Finland"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "place-terijoki",
+          "label": "Terijoki"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "Helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "the Doctor"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya"
+        },
+        {
+          "type": "related",
+          "target": "person-the-policeman",
+          "label": "the Policeman"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        }
+      ]
+    },
+    {
+      "id": "ch08-a-village-bourgeois-capitalist",
+      "type": "\"chapter\"",
+      "label": "'VIII: A Village \"Bourgeois-Capitalist\"'",
+      "description": "\"A village 'bourgeois-capitalist' under Soviet rule\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch08-a-village-bourgeois-capitalist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "org-kombedy",
+          "label": "Committees of the Village Poor"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "org-house-committee",
+          "label": "Committee of the Poor"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Revolution"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "starvation"
+        }
+      ]
+    },
+    {
+      "id": "ch09-metamorphosis",
+      "type": "\"chapter\"",
+      "label": "\"IX: Metamorphosis\"",
+      "description": "\"The metamorphosis of Soviet society\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch09-metamorphosis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Russian Revolution"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "the Doctor"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "person-joseph-krylenko",
+          "label": "Krylenko"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Marsh"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-winter-palace",
+          "label": "Winter Palace"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-river-neva",
+          "label": "Neva"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        }
+      ]
+    },
+    {
+      "id": "ch10-the-sphinx",
+      "type": "\"chapter\"",
+      "label": "\"X: The Sphinx\"",
+      "description": "\"Russia, the sphinx — interpreting the peasant\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch10-the-sphinx",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "Zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "person-kolchak",
+          "label": "Kolchak"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Trotsky"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "ch11-the-red-army",
+      "type": "\"chapter\"",
+      "label": "\"XI: The Red Army\"",
+      "description": "\"The Red Army — its composition and morale\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch11-the-red-army",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "Red Army"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "Gorokhovaya"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "Viborg"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Leo Bronstein"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Baltic"
+        },
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "Whites"
+        },
+        {
+          "type": "related",
+          "target": "person-kolchak",
+          "label": "Kolchak"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-ukraine",
+          "label": "Ukraine"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "intellectuals"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "org-revolutionary-tribunal",
+          "label": "Revolutionary Tribunals"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevik-propaganda",
+          "label": "Communist propaganda"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "org-mensheviks",
+          "label": "Mensheviks"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "hunger"
+        }
+      ]
+    },
+    {
+      "id": "ch12-the-party-and-the-people",
+      "type": "\"chapter\"",
+      "label": "'XII: \"The Party\" and the People'",
+      "description": "\"The Party versus the Russian people\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch12-the-party-and-the-people",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "Third International"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "Zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Trotsky"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "starvation"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "org-state-duma",
+          "label": "Duma"
+        },
+        {
+          "type": "related",
+          "target": "person-rosa-luxembourg",
+          "label": "Rosa Luxembourg"
+        },
+        {
+          "type": "related",
+          "target": "org-mensheviks",
+          "label": "Mensheviks"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "person-uritsky",
+          "label": "Uritsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "intellectuals"
+        },
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "Tauride Palace"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "counterrevolutionary"
+        },
+        {
+          "type": "related",
+          "target": "event-petrograd-soviet-elections",
+          "label": "Fourth Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Baltic"
+        },
+        {
+          "type": "related",
+          "target": "event-third-international-congress",
+          "label": "Communist International"
+        },
+        {
+          "type": "related",
+          "target": "place-river-neva",
+          "label": "Neva"
+        }
+      ]
+    },
+    {
+      "id": "ch13-escape",
+      "type": "\"chapter\"",
+      "label": "\"XIII: Escape\"",
+      "description": "\"Escape from Soviet Russia\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch13-escape",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Gulf of Finland"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "place-river-neva",
+          "label": "Neva"
+        },
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "Whites"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        }
+      ]
+    },
+    {
+      "id": "ch14-conclusion",
+      "type": "\"chapter\"",
+      "label": "\"XIV: Conclusion\"",
+      "description": "\"Conclusion — lessons of the Soviet experiment\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "red-dusk-and-the-morrow:ch14-conclusion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "bourgeois"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "revolutionary"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Lenin"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Bolsheviks"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevist"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "Third International"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet Government"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "Trotsky"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Extraordinary Commission"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-baltic-sea",
+          "label": "Baltic"
+        },
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "Whites"
+        },
+        {
+          "type": "related",
+          "target": "org-cooperative-unions",
+          "label": "Union of Cooperative Societies"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "peasants"
+        },
+        {
+          "type": "related",
+          "target": "place-ukraine",
+          "label": "Ukraine"
+        }
+      ]
+    },
+    {
+      "id": "concept-allied-intervention",
+      "type": "concept",
+      "label": "Allied Intervention",
+      "description": "The military intervention by Britain, France, the United States, and other Allied powers in the Russian Civil War (1918–1920), which Dukes experienced as both participant and critical observer, documenting its strategic contradictions and ultimate failure.",
+      "aliases": [
+        "Allied Intervention",
+        "foreign intervention",
+        "Allied expedition",
+        "Allied forces in Russia"
+      ],
+      "tags": [
+        "concept",
+        "military",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-allied-intervention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        }
+      ]
+    },
+    {
+      "id": "concept-bolshevik-propaganda",
+      "type": "concept",
+      "label": "Bolshevik Propaganda",
+      "description": "The systematic use of mass communication, agitation, and ideological indoctrination by the Bolshevik regime to consolidate power and promote world revolution, as observed and analysed by Paul Dukes in his memoir.",
+      "aliases": [
+        "Bolshevik Propaganda",
+        "Bolshevik agitation",
+        "Soviet propaganda",
+        "Communist propaganda"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "communication"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-bolshevik-propaganda",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "person-zinoviev"
+        }
+      ]
+    },
+    {
+      "id": "concept-bolshevism",
+      "type": "concept",
+      "label": "Bolshevism",
+      "description": "The revolutionary Marxist ideology of the Bolshevik faction, characterised by its promotion of class war and proletarian dictatorship, as observed and critiqued by Paul Dukes in revolutionary Russia (1917–1919).",
+      "aliases": [
+        "Bolshevism",
+        "Bolshevist",
+        "Bolshevik ideology"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "ideological"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:concept-bolshevism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "Vladimir Lenin"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "Bolshevist Coup d'État"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "concept-bourgeoisie",
+      "type": "concept",
+      "label": "Bourgeoisie",
+      "description": "The urban middle class that was the declared class enemy of the Bolshevik revolution — shopkeepers, professionals, small property owners — whose destruction as a class Dukes documents as one of Bolshevism's central objectives and most thorough accomplishments.",
+      "aliases": [
+        "Bourgeoisie",
+        "bourgeois",
+        "middle class",
+        "bourgeois class"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-bourgeoisie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "concept-intelligentsia"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        }
+      ]
+    },
+    {
+      "id": "concept-counterrevolution",
+      "type": "concept",
+      "label": "Counterrevolution",
+      "description": "The organised opposition to the Bolshevik regime, encompassing armed resistance, conspiracies, and political movements that sought to overthrow Soviet power during the Russian Civil War period as observed by Paul Dukes.",
+      "aliases": [
+        "Counterrevolution",
+        "counter-revolutionary",
+        "counterrevolutionary"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "military"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-counterrevolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        }
+      ]
+    },
+    {
+      "id": "concept-famine",
+      "type": "concept",
+      "label": "Famine",
+      "description": "'The recurrent scourge of hunger that afflicted revolutionary Russia, exacerbated by Bolshevik economic policies and the Civil War, documented by Dukes as both humanitarian catastrophe and political indictment of the Soviet regime.'",
+      "aliases": [
+        "Famine",
+        "hunger",
+        "food shortage",
+        "starvation"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "economic"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-famine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "concept-house-committee",
+      "type": "concept",
+      "label": "House Committee",
+      "description": "'The grassroots Soviet institution governing apartment buildings — a microcosm of Bolshevik administration in which servants and yard-keepers exercised authority over residents, as vividly described by Dukes during his stay in revolutionary Petrograd.'",
+      "aliases": [
+        "House Committee",
+        "domkom",
+        "building committee",
+        "apartment committee"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-house-committee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        }
+      ]
+    },
+    {
+      "id": "concept-intelligentsia",
+      "type": "concept",
+      "label": "Intelligentsia",
+      "description": "The educated class of Russian society — professionals, academics, artists, and civil servants — whose persecution under Bolshevik rule and capacity for self-sacrificing labour Dukes documents with particular sympathy and insight.",
+      "aliases": [
+        "Intelligentsia",
+        "educated class",
+        "intellectuals",
+        "Russian intelligentsia"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "political"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-intelligentsia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        }
+      ]
+    },
+    {
+      "id": "concept-party-discipline",
+      "type": "concept",
+      "label": "Party Discipline",
+      "description": "'The internal system of control, obedience, and ideological conformity within the Bolshevik Party, which Dukes observed evolving from revolutionary voluntarism into a mechanism of \"merciless discipline\" that eliminated independent thought.'",
+      "aliases": [
+        "Party Discipline",
+        "Communist discipline",
+        "Bolshevik discipline",
+        "party control"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "ideological"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-party-discipline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        }
+      ]
+    },
+    {
+      "id": "concept-passport-system",
+      "type": "concept",
+      "label": "Passport System",
+      "description": "'The bureaucratic apparatus of identity documents and travel permits that Dukes navigated under multiple false identities, revealing how the Soviet regime controlled movement and surveilled its population through paper credentials.'",
+      "aliases": [
+        "Passport System",
+        "identity documents",
+        "travel permits",
+        "internal passport"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "security"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-passport-system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "concept-house-committee",
+          "label": "concept-house-committee"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        }
+      ]
+    },
+    {
+      "id": "concept-peasantry",
+      "type": "concept",
+      "label": "Peasantry",
+      "description": "The vast rural population of Russia whose allegiance was contested by Reds and Whites during the Civil War, and whose relationship to Bolshevism Dukes identifies as the decisive factor in the revolution's trajectory.",
+      "aliases": [
+        "Peasantry",
+        "peasants",
+        "Russian peasantry",
+        "rural population"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "economic"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-peasantry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "concept-bourgeoisie"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "concept-red-terror",
+      "type": "concept",
+      "label": "Red Terror",
+      "description": "'The systematic campaign of state violence, executions, and political repression conducted by the Bolshevik regime through the Cheka (Extraordinary Commission) to eliminate opposition, as witnessed and documented by Paul Dukes.'",
+      "aliases": [
+        "Red Terror",
+        "Terror",
+        "Cheka terror",
+        "Bolshevik terror"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "security"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-red-terror",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "concept-revolution",
+      "type": "concept",
+      "label": "Revolution",
+      "description": "'The transformative political upheaval that Dukes witnessed firsthand in Petrograd in March 1917 — a moment of millenarian hope that, in his telling, was betrayed by the Bolshevik seizure of power and the descent into class war and terror.'",
+      "aliases": [
+        "Revolution",
+        "Russian Revolution",
+        "revolutionary",
+        "March Revolution"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "historical"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:concept-revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "Red Terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "Bolshevist Coup d'État"
+        },
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "March Revolution"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        }
+      ]
+    },
+    {
+      "id": "concept-soviet-system",
+      "type": "concept",
+      "label": "Soviet System",
+      "description": "The revolutionary governmental structure based on workers', soldiers', and peasants' councils (Soviets) that replaced the Tsarist state apparatus, as observed and documented by Paul Dukes during his undercover mission in Russia (1917–1919).",
+      "aliases": [
+        "Soviet system",
+        "Soviet Government",
+        "Soviet regime",
+        "Council system"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "governmental"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-soviet-system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        }
+      ]
+    },
+    {
+      "id": "concept-world-revolution",
+      "type": "concept",
+      "label": "World Revolution",
+      "description": "The Bolshevik doctrine that proletarian revolution must spread internationally, especially to industrialised Western Europe, for Soviet Russia to survive — a constant theme in Paul Dukes' analysis of Bolshevik foreign policy and propaganda.",
+      "aliases": [
+        "World Revolution",
+        "international revolution",
+        "global proletarian revolution"
+      ],
+      "tags": [
+        "concept",
+        "political",
+        "ideological"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:concept-world-revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "org-third-international"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "person-trotsky"
+        }
+      ]
+    },
+    {
+      "id": "count-mirbach",
+      "type": "person",
+      "label": "Count Wilhelm von Mirbach",
+      "description": "German ambassador to Soviet Russia, assassinated in Moscow on 6 July 1918 by Left Socialist-Revolutionaries seeking to rupture German-Bolshevik relations under the Brest-Litovsk Treaty.",
+      "aliases": [
+        "Count Mirbach",
+        "Wilhelm von Mirbach",
+        "Count Wilhelm von Mirbach-Harff"
+      ],
+      "tags": [
+        "person",
+        "diplomat",
+        "german",
+        "assassination"
+      ],
+      "quality": "basic",
+      "source_ref": "red-dusk-and-the-morrow:count-mirbach",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-mirbach-murder",
+          "label": "Mirbach Murder"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "Bolshevist Coup"
+        }
+      ]
+    },
+    {
+      "id": "event-allied-intervention-archangel",
+      "type": "event",
+      "label": "Allied Intervention at Archangel",
+      "description": "'The Allied military intervention at Archangel in 1918, where British forces occupied the city to establish an anti-Bolshevik front — an episode Dukes observed firsthand and later recounted critically.'",
+      "aliases": [
+        "Allied Intervention at Archangel",
+        "Archangel landing",
+        "Allied occupation of Archangel",
+        "North Russia intervention"
+      ],
+      "tags": [
+        "event",
+        "intervention",
+        "1918",
+        "allied",
+        "archangel"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-allied-intervention-archangel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "concept-allied-intervention"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "event-british-naval-raid-kronstadt"
+        }
+      ]
+    },
+    {
+      "id": "event-bolshevist-coup",
+      "type": "event",
+      "label": "Bolshevist Coup d'État",
+      "description": ">",
+      "aliases": [
+        "Bolshevist Coup",
+        "October Revolution",
+        "Bolshevik coup d'état",
+        "November Revolution"
+      ],
+      "tags": [
+        "event",
+        "revolution",
+        "1917",
+        "bolshevik"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:event-bolshevist-coup",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "March Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "Red Terror"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "event-british-naval-raid-kronstadt",
+      "type": "event",
+      "label": "British Naval Raid on Kronstadt",
+      "description": ">",
+      "aliases": [
+        "British Naval Raid on Kronstadt",
+        "Kronstadt raid",
+        "Kronstadt naval raid",
+        "raid on Kronstadt"
+      ],
+      "tags": [
+        "event",
+        "military",
+        "1919",
+        "kronstadt",
+        "naval"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:event-british-naval-raid-kronstadt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-allied-intervention-archangel",
+          "label": "Allied Intervention at Archangel"
+        },
+        {
+          "type": "related",
+          "target": "event-russo-polish-war",
+          "label": "Russo-Polish War"
+        },
+        {
+          "type": "related",
+          "target": "event-white-generals-offensives",
+          "label": "White Generals' Offensives"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "Allied Intervention"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "event-famine-1920",
+      "type": "event",
+      "label": "Famine of 1920-21",
+      "description": "'The catastrophic famine that struck Russia in 1920-1921, which Dukes describes as an \"affliction\" that the Soviet regime was \"incompetent to cope with\" and which forced the Bolsheviks to appeal to Western philanthropy.'",
+      "aliases": [
+        "Famine of 1920-21",
+        "Russian famine",
+        "1921 famine",
+        "Soviet famine",
+        "Volga famine"
+      ],
+      "tags": [
+        "event",
+        "famine",
+        "1920",
+        "humanitarian"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-famine-1920",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "concept-famine"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        }
+      ]
+    },
+    {
+      "id": "event-founding-of-the-cheka",
+      "type": "event",
+      "label": "Founding of the Cheka",
+      "description": ">",
+      "aliases": [
+        "Founding of the Cheka",
+        "Cheka establishment",
+        "creation of the Extraordinary Commission",
+        "Chrezvychayka"
+      ],
+      "tags": [
+        "event",
+        "security",
+        "1917",
+        "cheka",
+        "terror"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-founding-of-the-cheka",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "event-march-revolution",
+      "type": "event",
+      "label": "March Revolution",
+      "description": "'The February/March Revolution of 1917 in Petrograd that overthrew Tsar Nicholas II, as witnessed firsthand by Paul Dukes on the streets of the capital.'",
+      "aliases": [
+        "March Revolution",
+        "February Revolution",
+        "Russian Revolution of 1917"
+      ],
+      "tags": [
+        "event",
+        "revolution",
+        "1917"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-march-revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "concept-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        }
+      ]
+    },
+    {
+      "id": "event-mirbach-murder",
+      "type": "event",
+      "label": "Mirbach Murder",
+      "description": "'The assassination of the German ambassador Count Wilhelm von Mirbach in Moscow on 6 July 1918, an event Dukes learned of while en route out of Russia and wished he had been present to witness.'",
+      "aliases": [
+        "Mirbach Murder",
+        "Assassination of Count Mirbach",
+        "Mirbach assassination"
+      ],
+      "tags": [
+        "event",
+        "assassination",
+        "1918",
+        "german"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-mirbach-murder",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "event-petrograd-soviet-elections",
+      "type": "event",
+      "label": "Petrograd Soviet Elections",
+      "description": "'The elections to the Petrograd Soviet under Bolshevik rule, which Dukes observed as a systematic farce in which the Communists secured overwhelming majorities only through \"threats, bribes, trickery, and violence\" after having purged their own party of over half its members.'",
+      "aliases": [
+        "Petrograd Soviet Elections",
+        "Soviet elections",
+        "Petrograd Soviet ballot",
+        "Fourth Petrograd Soviet"
+      ],
+      "tags": [
+        "event",
+        "political",
+        "1918",
+        "petrograd",
+        "elections"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-petrograd-soviet-elections",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-third-international-congress",
+          "label": "event-third-international-congress"
+        }
+      ]
+    },
+    {
+      "id": "event-red-army-mobilization",
+      "type": "event",
+      "label": "Red Army Mobilization",
+      "description": "'The creation and forced conscription into the Red Army under Trotsky, which Dukes experienced personally when he was compelled to serve as a Red soldier to maintain his cover in Soviet Russia.'",
+      "aliases": [
+        "Red Army Mobilization",
+        "Red Army conscription",
+        "Red Army formation"
+      ],
+      "tags": [
+        "event",
+        "military",
+        "1918",
+        "red-army"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-red-army-mobilization",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "event-russo-polish-war",
+          "label": "event-russo-polish-war"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        }
+      ]
+    },
+    {
+      "id": "event-russo-polish-war",
+      "type": "event",
+      "label": "Russo-Polish War",
+      "description": "'The war between Soviet Russia and Poland in 1920, which Dukes observed from the Polish front as a Red Army soldier, witnessing the Bolshevik defeat that dispelled the myth of Red Army invincibility.'",
+      "aliases": [
+        "Russo-Polish War",
+        "Polish War",
+        "Polish campaign",
+        "Soviet-Polish War",
+        "Polish-Soviet War"
+      ],
+      "tags": [
+        "event",
+        "military",
+        "1920",
+        "poland"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-russo-polish-war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-red-army-mobilization",
+          "label": "event-red-army-mobilization"
+        },
+        {
+          "type": "related",
+          "target": "event-white-generals-offensives",
+          "label": "event-white-generals-offensives"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "concept-allied-intervention"
+        }
+      ]
+    },
+    {
+      "id": "event-sacking-of-the-arsenal",
+      "type": "event",
+      "label": "Sacking of the Arsenal",
+      "description": "'The sacking of the Petrograd arsenal by the revolutionary mob on 12 March 1917, witnessed personally by Paul Dukes as one of the key episodes of the March Revolution.'",
+      "aliases": [
+        "Sacking of the Arsenal",
+        "Arsenal sacking",
+        "Petrograd arsenal"
+      ],
+      "tags": [
+        "event",
+        "revolution",
+        "1917",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-sacking-of-the-arsenal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "event-march-revolution"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "concept-revolution"
+        }
+      ]
+    },
+    {
+      "id": "event-third-international-congress",
+      "type": "event",
+      "label": "Founding of the Third International",
+      "description": ">",
+      "aliases": [
+        "Founding of the Third International",
+        "Third International Congress",
+        "Comintern founding",
+        "Communist International"
+      ],
+      "tags": [
+        "event",
+        "political",
+        "1919",
+        "moscow",
+        "international"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-third-international-congress",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-petrograd-soviet-elections",
+          "label": "event-petrograd-soviet-elections"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "event-tsar-abdication",
+      "type": "event",
+      "label": "Abdication of Nicholas II",
+      "description": ">",
+      "aliases": [
+        "Abdication of Nicholas II",
+        "Tsar's abdication",
+        "Nicholas II abdication",
+        "Romanov abdication"
+      ],
+      "tags": [
+        "event",
+        "monarchy",
+        "1917",
+        "romanov"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-tsar-abdication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "event-march-revolution"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "concept-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        }
+      ]
+    },
+    {
+      "id": "event-white-generals-offensives",
+      "type": "event",
+      "label": "White Generals' Offensives",
+      "description": "'The successive military campaigns of the White generals Kolchak, Denikin, and Wrangel against the Bolsheviks during the Russian Civil War, which Dukes assessed as militarily formidable but politically doomed.'",
+      "aliases": [
+        "White Generals' Offensives",
+        "White Army campaigns",
+        "Kolchak Denikin Wrangel offensives",
+        "White offensives",
+        "White movement campaigns"
+      ],
+      "tags": [
+        "event",
+        "military",
+        "civil-war",
+        "white-army"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-white-generals-offensives",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-yudenich-advance-petrograd",
+          "label": "event-yudenich-advance-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "event-russo-polish-war",
+          "label": "event-russo-polish-war"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "event-red-army-mobilization",
+          "label": "event-red-army-mobilization"
+        }
+      ]
+    },
+    {
+      "id": "event-yudenich-advance-petrograd",
+      "type": "event",
+      "label": "Yudenich's Advance on Petrograd",
+      "description": ">",
+      "aliases": [
+        "Yudenich's Advance on Petrograd",
+        "Yudenich offensive",
+        "Yudenich campaign",
+        "White advance on Petrograd"
+      ],
+      "tags": [
+        "event",
+        "military",
+        "1919",
+        "white-army",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:event-yudenich-advance-petrograd",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-white-generals-offensives",
+          "label": "event-white-generals-offensives"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "event-bolshevist-coup"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "event-allied-intervention-archangel",
+          "label": "event-allied-intervention-archangel"
+        }
+      ]
+    },
+    {
+      "id": "francis-davison",
+      "type": "person",
+      "label": "Charles Davison",
+      "description": "British subject executed in Moscow on 16 January 1920, whom the Soviet government claimed was an accomplice of Paul Dukes' \"provocative activities\" — a man Dukes maintained he had never heard of.",
+      "aliases": [
+        "Charles Davison",
+        "Francis Davison",
+        "Mr. Davison"
+      ],
+      "tags": [
+        "person",
+        "british",
+        "intelligence",
+        "execution"
+      ],
+      "quality": "basic",
+      "source_ref": "red-dusk-and-the-morrow:francis-davison",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        }
+      ]
+    },
+    {
+      "id": "general-yudenich",
+      "type": "person",
+      "label": "General Nikolai Yudenich",
+      "description": "White Army general who led the Northwestern Army's advance on Petrograd in 1919, coming close to capturing the city before being repulsed by Bolshevik forces.",
+      "aliases": [
+        "General Yudenich",
+        "Nikolai Yudenich",
+        "Nikolai Nikolaevich Yudenich",
+        "Yudenich"
+      ],
+      "tags": [
+        "person",
+        "white-army",
+        "general",
+        "military",
+        "civil-war"
+      ],
+      "quality": "basic",
+      "source_ref": "red-dusk-and-the-morrow:general-yudenich",
+      "relations": [
+        {
+          "type": "related",
+          "target": "event-yudenich-advance-petrograd",
+          "label": "Yudenich's Advance on Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "event-white-generals-offensives",
+          "label": "White Generals' Offensives"
+        },
+        {
+          "type": "related",
+          "target": "person-kolchak",
+          "label": "Admiral Kolchak"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        }
+      ]
+    },
+    {
+      "id": "org-allied-intervention",
+      "type": "organization",
+      "label": "Allied Intervention",
+      "description": ">",
+      "aliases": [
+        "Allied Forces in Russia",
+        "Allied Expeditionary Force",
+        "Intervention Forces"
+      ],
+      "tags": [
+        "organization",
+        "military",
+        "international"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-allied-intervention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "White Movement"
+        },
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "Red Army"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "Allied Intervention"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "org-british-foreign-office",
+      "type": "organization",
+      "label": "British Foreign Office",
+      "description": ">",
+      "aliases": [
+        "Foreign Office",
+        "UK Foreign Office",
+        "British Foreign and Commonwealth Office"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "britain"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-british-foreign-office",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        },
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "Red Army"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "Allied Intervention"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "org-cheka",
+      "type": "organization",
+      "label": "Cheka",
+      "description": ">",
+      "aliases": [
+        "Extraordinary Commission",
+        "Vecheka",
+        "All-Russian Extraordinary Commission"
+      ],
+      "tags": [
+        "organization",
+        "intelligence",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-cheka",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "Red Terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet System"
+        },
+        {
+          "type": "related",
+          "target": "org-okhrana",
+          "label": "Okhrana"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "org-communist-party",
+      "type": "organization",
+      "label": "Communist Party",
+      "description": ">",
+      "aliases": [
+        "Bolshevik Party",
+        "Russian Communist Party",
+        "RCP(B)",
+        "All-Russian Communist Party",
+        "Bolsheviks"
+      ],
+      "tags": [
+        "organization",
+        "political",
+        "russia"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:org-communist-party",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-party-discipline",
+          "label": "Party Discipline"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet System"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "Third International"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "org-cooperative-unions",
+      "type": "organization",
+      "label": "Union of Cooperative Societies",
+      "description": "The federation of Russian consumer cooperative societies — one of the largest non-governmental economic organisations in pre-revolutionary Russia — whose suppression by the Bolsheviks Dukes cites as emblematic of the regime's war on independent civil society.",
+      "aliases": [
+        "Tsentrosoyuz",
+        "Cooperative Unions",
+        "Russian Cooperative Movement"
+      ],
+      "tags": [
+        "organization",
+        "economic",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-cooperative-unions",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "concept-famine"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "org-sovnarkom"
+        }
+      ]
+    },
+    {
+      "id": "org-house-committee",
+      "type": "organization",
+      "label": "House Committee",
+      "description": ">",
+      "aliases": [
+        "Committee of the Poor",
+        "House Committee of the Poor",
+        "Domkom",
+        "Domovy Komitet"
+      ],
+      "tags": [
+        "organization",
+        "political",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-house-committee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet System"
+        },
+        {
+          "type": "related",
+          "target": "concept-bourgeoisie",
+          "label": "Bourgeoisie"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Revolution"
+        }
+      ]
+    },
+    {
+      "id": "org-kombedy",
+      "type": "organization",
+      "label": "Committees of the Village Poor",
+      "description": "Bolshevik-created rural committees of poor peasants established in 1918 to seize grain, break kulak power, and enforce state requisitioning — instruments of class war in the countryside that Dukes observed at close hand.",
+      "aliases": [
+        "Kombedy",
+        "Committees of the Poor",
+        "Village Poor Committees"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "rural",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-kombedy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "concept-famine"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        }
+      ]
+    },
+    {
+      "id": "org-mensheviks",
+      "type": "organization",
+      "label": "Mensheviks",
+      "description": ">",
+      "aliases": [
+        "Menshevik Party",
+        "Mensheviki",
+        "Russian Social Democratic Labour Party (Menshevik)"
+      ],
+      "tags": [
+        "organization",
+        "political",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-mensheviks",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-revolution",
+          "label": "Revolution"
+        }
+      ]
+    },
+    {
+      "id": "org-okhrana",
+      "type": "organization",
+      "label": "Okhrana",
+      "description": ">",
+      "aliases": [
+        "Tsarist Secret Police",
+        "Tsarist Police",
+        "Okhranka",
+        "Department for Protecting Public Security and Order"
+      ],
+      "tags": [
+        "organization",
+        "intelligence",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-okhrana",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "Red Terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        }
+      ]
+    },
+    {
+      "id": "org-petrograd-soviet",
+      "type": "organization",
+      "label": "Petrograd Soviet",
+      "description": ">",
+      "aliases": [
+        "Petrograd Soviet of Workers' and Red Armymen's Deputies",
+        "Petrograd Council",
+        "Leningrad Soviet"
+      ],
+      "tags": [
+        "organization",
+        "political",
+        "russia"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:org-petrograd-soviet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "org-third-international",
+          "label": "Third International"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-petrograd-soviet-elections",
+          "label": "Petrograd Soviet Elections"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        }
+      ]
+    },
+    {
+      "id": "org-red-army",
+      "type": "organization",
+      "label": "Red Army",
+      "description": ">",
+      "aliases": [
+        "Workers' and Peasants' Red Army",
+        "RKKA",
+        "Red Army of Workers and Peasants"
+      ],
+      "tags": [
+        "organization",
+        "military",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-red-army",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "org-revolutionary-tribunal",
+      "type": "organization",
+      "label": "Revolutionary Tribunal",
+      "description": ">",
+      "aliases": [
+        "Revolutionary Tribunals",
+        "Revtribunal",
+        "People's Tribunal"
+      ],
+      "tags": [
+        "organization",
+        "judicial",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-revolutionary-tribunal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "Cheka"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "Red Terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "org-sovnarkom",
+      "type": "organization",
+      "label": "Soviet of People's Commissars",
+      "description": "The executive cabinet of the Bolshevik government established in November 1917, chaired by Lenin, which Dukes observed governing through commissars, decrees, and the expanding apparatus of revolutionary administration.",
+      "aliases": [
+        "Sovnarkom",
+        "Council of People's Commissars",
+        "Soviet Government"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-sovnarkom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "person-trotsky"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "org-petrograd-soviet"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "org-state-duma",
+      "type": "organization",
+      "label": "State Duma",
+      "description": "The elected lower house of the Russian Imperial parliament (1906–1917), whose Tauride Palace home and parliamentary tradition were appropriated and extinguished by the Bolsheviks.",
+      "aliases": [
+        "Duma",
+        "Imperial Duma",
+        "Russian Parliament"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "russia",
+        "pre-revolutionary"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-state-duma",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "place-tauride-palace"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "org-petrograd-soviet"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "org-third-international",
+      "type": "organization",
+      "label": "Third International",
+      "description": ">",
+      "aliases": [
+        "Comintern",
+        "Communist International",
+        "Third International Workers' Association"
+      ],
+      "tags": [
+        "organization",
+        "political",
+        "international"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-third-international",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "World Revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "Soviet System"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "org-vtsik",
+      "type": "organization",
+      "label": "Central Executive Committee",
+      "description": "The formal supreme legislative body of the Russian Soviet Republic between Congresses of Soviets — in theory the ultimate source of Soviet authority, in practice a rubber-stamp body whose credentials conferred unlimited power on the commissars who brandished them.",
+      "aliases": [
+        "VTsIK",
+        "All-Russian Central Executive Committee",
+        "Soviet Parliament"
+      ],
+      "tags": [
+        "organization",
+        "government",
+        "russia",
+        "legislative"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-vtsik",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "org-petrograd-soviet"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "org-sovnarkom"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "org-white-movement",
+      "type": "organization",
+      "label": "White Movement",
+      "description": ">",
+      "aliases": [
+        "White Army",
+        "Whites",
+        "Anti-Bolshevik Forces",
+        "White Russians",
+        "White Guards"
+      ],
+      "tags": [
+        "organization",
+        "military",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:org-white-movement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "Red Army"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "Counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "Allied Intervention"
+        }
+      ]
+    },
+    {
+      "id": "paul-dukes",
+      "type": "person",
+      "label": "Paul Dukes",
+      "description": ">",
+      "aliases": [
+        "Paul Dukes",
+        "Monsieur Dukes",
+        "Paul Dukes KBE"
+      ],
+      "tags": [
+        "person",
+        "british",
+        "intelligence",
+        "author"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:paul-dukes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "person-captain-cromie",
+          "label": "Captain Cromie"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Dmitri Melnikoff"
+        }
+      ]
+    },
+    {
+      "id": "person-captain-cromie",
+      "type": "person",
+      "label": "Captain Cromie",
+      "description": "British Naval Attaché in Petrograd and Secret Intelligence Service officer who operated an anti-Bolshevik network before Dukes' arrival; his mysterious death at the British Embassy in August 1918 made him a legend among Allied intelligence circles.",
+      "aliases": [
+        "Cromie",
+        "Captain Francis Cromie"
+      ],
+      "tags": [
+        "person",
+        "british",
+        "intelligence",
+        "naval-attache"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-captain-cromie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "person-marsh"
+        },
+        {
+          "type": "related",
+          "target": "org-british-foreign-office",
+          "label": "org-british-foreign-office"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "concept-allied-intervention"
+        }
+      ]
+    },
+    {
+      "id": "person-ivan-sergeievitch",
+      "type": "person",
+      "label": "Ivan Sergeievitch",
+      "description": "'Russian officer and friend of Melnikoff who assisted Paul Dukes in crossing the Finnish border into Soviet Russia, providing shelter and guidance during the early days of Dukes'' undercover mission.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "russian-officer",
+        "white-russian",
+        "refugee"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:person-ivan-sergeievitch",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "person-stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "place-viborg"
+        }
+      ]
+    },
+    {
+      "id": "person-joseph-krylenko",
+      "type": "person",
+      "label": "Joseph Krylenko",
+      "description": "The false identity adopted by Paul Dukes during his second mission in Russia — a cover name crafted from forged documents that enabled him to move through Bolshevik Petrograd and ultimately proved his undoing when betrayed.",
+      "aliases": [
+        "Krylenko",
+        "Joseph Krylenko",
+        "Alexander Markovitch"
+      ],
+      "tags": [
+        "person",
+        "alias",
+        "cover-identity"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-joseph-krylenko",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "person-the-doctor"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        },
+        {
+          "type": "related",
+          "target": "concept-passport-system",
+          "label": "concept-passport-system"
+        }
+      ]
+    },
+    {
+      "id": "person-kolchak",
+      "type": "person",
+      "label": "Admiral Alexander Kolchak",
+      "description": "Supreme Ruler of the anti-Bolshevik White movement in Siberia whose eastern offensive in 1919 posed a serious military threat to the Bolshevik regime; Dukes analyses Kolchak as exemplar of the moral failure of White leadership.",
+      "aliases": [
+        "Kolchak",
+        "Alexander Vasilyevich Kolchak",
+        "Admiral Kolchak"
+      ],
+      "tags": [
+        "person",
+        "white-army",
+        "admiral",
+        "counterrevolutionary"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-kolchak",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "concept-allied-intervention"
+        },
+        {
+          "type": "related",
+          "target": "event-white-generals-offensives",
+          "label": "event-white-generals-offensives"
+        },
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "org-red-army"
+        },
+        {
+          "type": "related",
+          "target": "org-white-movement",
+          "label": "org-white-movement"
+        }
+      ]
+    },
+    {
+      "id": "person-lenin",
+      "type": "person",
+      "label": "Vladimir Lenin",
+      "description": "Leader of the Bolshevik Party and architect of the October Revolution, who established the world's first Soviet state and served as the primary antagonist in Paul Dukes' account of revolutionary Russia.",
+      "aliases": [
+        "Lenin",
+        "Vladimir Ilyich Lenin",
+        "Vladimir Ilyich Ulyanov",
+        "Nicolai Lenin"
+      ],
+      "tags": [
+        "person",
+        "revolutionary",
+        "bolshevik-leader"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-lenin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "person-trotsky"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "person-zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        }
+      ]
+    },
+    {
+      "id": "person-maria",
+      "type": "person",
+      "label": "Maria",
+      "description": "Marsh's devoted housekeeper who maintained a safe flat in Petrograd, hid provisions from Marsh's farm, and served as a crucial support figure in Dukes' intelligence network.",
+      "aliases": [
+        "Maria"
+      ],
+      "tags": [
+        "person",
+        "housekeeper",
+        "loyalist"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:person-maria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "Mr. Marsh"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "The Doctor"
+        },
+        {
+          "type": "related",
+          "target": "concept-passport-system",
+          "label": "Passport System"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        }
+      ]
+    },
+    {
+      "id": "person-marsh",
+      "type": "person",
+      "label": "Mr. Marsh",
+      "description": "A British businessman and intelligence operative in Petrograd whose arrest, escape, and poignant concern for his imprisoned wife form one of the most human dramas in Dukes' memoir.",
+      "aliases": [
+        "Marsh",
+        "Mr. Marsh",
+        "Michael Ivanitch Schmit"
+      ],
+      "tags": [
+        "person",
+        "british-agent",
+        "businessman"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-marsh",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "person-maria"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-passport-system",
+          "label": "concept-passport-system"
+        }
+      ]
+    },
+    {
+      "id": "person-melnikoff",
+      "type": "person",
+      "label": "Dmitri Melnikoff",
+      "description": "A White Russian officer whose arrest and imprisonment by the Bolsheviks drove a central thread of Paul Dukes' undercover mission in Petrograd, ultimately ending in his execution in January 1919.",
+      "aliases": [
+        "Melnikoff",
+        "Dmitri Dmitrievitch Melnikoff",
+        "Nicholas Nicholaievitch N."
+      ],
+      "tags": [
+        "person",
+        "counterrevolutionary",
+        "officer"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-melnikoff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "person-the-doctor"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "person-rosa-luxembourg",
+      "type": "person",
+      "label": "Rosa Luxembourg",
+      "description": "German Marxist revolutionary and theorist murdered in Berlin in January 1919 alongside Karl Liebknecht; Dukes records how her name became a Bolshevik propaganda tool despite her critique of Leninist authoritarianism.",
+      "aliases": [
+        "Luxembourg",
+        "Rosa Luxemburg",
+        "Rosa Luxembourg"
+      ],
+      "tags": [
+        "person",
+        "communist",
+        "german",
+        "revolutionary"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-rosa-luxembourg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        }
+      ]
+    },
+    {
+      "id": "person-stepanovna",
+      "type": "person",
+      "label": "Stepanovna",
+      "description": "The housekeeper of Dukes' Petrograd contact Ivan Sergeievitch, who provided shelter, food, and unwavering loyalty to Dukes during his undercover mission, embodying the resilience of ordinary Russians under Bolshevik rule.",
+      "aliases": [
+        "Stepanovna"
+      ],
+      "tags": [
+        "person",
+        "housekeeper",
+        "informant"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:person-stepanovna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "Dmitri Melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "The Doctor"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        },
+        {
+          "type": "related",
+          "target": "concept-house-committee",
+          "label": "House Committee"
+        },
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "Peasantry"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "person-the-chief",
+      "type": "person",
+      "label": "The Chief",
+      "description": "The head of British Secret Intelligence Service (MI6) who personally briefed Paul Dukes before his return to Soviet Russia, identified in the memoir only as \"the Chief\" and described with deliberate mystification.",
+      "aliases": [
+        "the Chief",
+        "C",
+        "Mansfield Cumming"
+      ],
+      "tags": [
+        "person",
+        "intelligence-chief",
+        "british"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-the-chief",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "person-marsh"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "person-the-doctor",
+      "type": "person",
+      "label": "The Doctor",
+      "description": "Melnikoff's uncle, an educated Russian radical who became one of Paul Dukes' most trusted informants and confidants during his undercover mission in Petrograd.",
+      "aliases": [
+        "the Doctor",
+        "Doktor",
+        "Melnikoff's uncle"
+      ],
+      "tags": [
+        "person",
+        "informant",
+        "radical"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-the-doctor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "person-stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-intelligentsia",
+          "label": "concept-intelligentsia"
+        }
+      ]
+    },
+    {
+      "id": "person-the-policeman",
+      "type": "person",
+      "label": "The Policeman",
+      "description": "A former Tsarist official turned underworld fixer who served as an informant and intermediary for Dukes and Marsh, navigating the Bolshevik prison system through bribery and connections.",
+      "aliases": [
+        "the Policeman",
+        "Alexei Fomitch"
+      ],
+      "tags": [
+        "person",
+        "informant",
+        "tsarist-official"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-the-policeman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "person-marsh"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-passport-system",
+          "label": "concept-passport-system"
+        }
+      ]
+    },
+    {
+      "id": "person-trotsky",
+      "type": "person",
+      "label": "Leon Trotsky",
+      "description": "Bolshevik revolutionary, founder of the Red Army, and second figure in the Lenin--Trotsky--Zinoviev triumvirate, as characterised in Paul Dukes' memoir of revolutionary Russia.",
+      "aliases": [
+        "Trotsky",
+        "Leo Bronstein",
+        "Lev Davidovich Bronstein",
+        "Leon Trotsky"
+      ],
+      "tags": [
+        "person",
+        "revolutionary",
+        "red-army"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-trotsky",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "person-zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "person-uritsky",
+      "type": "person",
+      "label": "Moisei Uritsky",
+      "description": "Jewish Bolshevik Commissar for Internal Affairs in Petrograd whose assassination in August 1918 triggered the escalation of the Red Terror, recorded by Dukes as a turning point in Bolshevik repression.",
+      "aliases": [
+        "Uritsky",
+        "Moisei Solomonovich Uritsky"
+      ],
+      "tags": [
+        "person",
+        "bolshevik",
+        "commissar"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-uritsky",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-zinoviev",
+          "label": "person-zinoviev"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "org-cheka",
+          "label": "org-cheka"
+        }
+      ]
+    },
+    {
+      "id": "person-zinoviev",
+      "type": "person",
+      "label": "Grigory Zinoviev",
+      "description": "President of the Petrograd Soviet and later the Third International, described by Paul Dukes as a consummate demagogue whose oratorical skill masked a complete absence of logical thought.",
+      "aliases": [
+        "Zinoviev",
+        "Apfelbaum",
+        "Grigory Yevseyevich Zinoviev",
+        "Hirsch Apfelbaum"
+      ],
+      "tags": [
+        "person",
+        "bolshevik-leader",
+        "orator"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-zinoviev",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-lenin",
+          "label": "person-lenin"
+        },
+        {
+          "type": "related",
+          "target": "person-trotsky",
+          "label": "person-trotsky"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevik-propaganda",
+          "label": "concept-bolshevik-propaganda"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-party-discipline",
+          "label": "concept-party-discipline"
+        }
+      ]
+    },
+    {
+      "id": "person-zorinsky",
+      "type": "person",
+      "label": "Captain Zorinsky",
+      "description": "A former Tsarist officer turned cynical profiteer who served as Dukes' intermediary in the Melnikoff case, embodying the moral corruption that Dukes saw as endemic under Bolshevik rule.",
+      "aliases": [
+        "Zorinsky",
+        "Captain Zorinsky"
+      ],
+      "tags": [
+        "person",
+        "intermediary",
+        "double-dealer"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:person-zorinsky",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "person-the-doctor",
+          "label": "person-the-doctor"
+        },
+        {
+          "type": "related",
+          "target": "person-marsh",
+          "label": "person-marsh"
+        },
+        {
+          "type": "related",
+          "target": "concept-party-discipline",
+          "label": "concept-party-discipline"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        }
+      ]
+    },
+    {
+      "id": "place-archangel",
+      "type": "place",
+      "label": "Archangel",
+      "description": "A northern Russian port city on the White Sea where Dukes made his first failed attempt to enter Soviet Russia and which became the site of the Allied intervention in North Russia in 1918.",
+      "aliases": [
+        "Archangel",
+        "Arkhangelsk",
+        "Arkhangel"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-archangel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "place-moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "place-helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "event-allied-intervention-archangel",
+          "label": "event-allied-intervention-archangel"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "place-baltic-sea",
+      "type": "place",
+      "label": "Baltic Sea",
+      "description": "The maritime theatre connecting Petrograd to the outside world via the Gulf of Finland — the route by which Allied intelligence communicated with agents inside Russia and through which Dukes ultimately escaped.",
+      "aliases": [
+        "Baltic",
+        "Gulf of Finland",
+        "Baltic Fleet waters"
+      ],
+      "tags": [
+        "place",
+        "sea",
+        "region"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-baltic-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "place-kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "place-finland"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "place-helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-allied-intervention",
+          "label": "concept-allied-intervention"
+        }
+      ]
+    },
+    {
+      "id": "place-finland",
+      "type": "place",
+      "label": "Finland",
+      "description": "The Grand Duchy of Finland under Russian rule and, after 1917, an independent republic that served as Dukes' entry route into Soviet Russia and a base for Allied intelligence operations against the Bolshevik regime.",
+      "aliases": [
+        "Finland",
+        "Suomi"
+      ],
+      "tags": [
+        "place",
+        "country",
+        "finland"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-finland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "place-helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "place-viborg"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        }
+      ]
+    },
+    {
+      "id": "place-gorokhovaya-street",
+      "type": "place",
+      "label": "No. 2 Gorokhovaya Street",
+      "description": "The Petrograd headquarters of the Extraordinary Commission (Cheka) at No. 2 Gorokhovaya Street; the most notorious centre of Bolshevik terror in Dukes' memoir, where political prisoners were held, interrogated, and executed.",
+      "aliases": [
+        "No. 2 Gorokhovaya",
+        "Gorokhovaya Street",
+        "Gorokhovaya",
+        "Cheka Prefecture",
+        "Extraordinary Commission headquarters",
+        "Gorokhovaya 2"
+      ],
+      "tags": [
+        "place",
+        "building",
+        "cheka",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-gorokhovaya-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-red-terror",
+          "label": "concept-red-terror"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        },
+        {
+          "type": "related",
+          "target": "person-zorinsky",
+          "label": "person-zorinsky"
+        }
+      ]
+    },
+    {
+      "id": "place-helsingfors",
+      "type": "place",
+      "label": "Helsingfors",
+      "description": "The capital of Finland (now Helsinki), where Dukes established his base of operations before crossing the Gulf of Finland into Soviet Russia; a city \"bristling with life and intrigue\" that served as a hub for Allied intelligence activities against the Bolshevik regime.",
+      "aliases": [
+        "Helsingfors",
+        "Helsinki",
+        "Hfors"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "finland"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-helsingfors",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "place-finland"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "place-viborg"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "place-kamenostrovsky-prospect",
+      "type": "place",
+      "label": "Kamenostrovsky Prospect",
+      "description": "A long thoroughfare in Petrograd stretching across the Neva delta to \"The Islands\" district, where Melnikoff's hospital and the Doctor's flat were located, serving as a recurring route in Dukes' clandestine movements.",
+      "aliases": [
+        "Kamenostrovsky Prospect",
+        "Kamennoostrovsky Prospekt",
+        "Kameno-Ostrovsky"
+      ],
+      "tags": [
+        "place",
+        "street",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-kamenostrovsky-prospect",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "place-nevsky-prospect"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "place-gorokhovaya-street"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "concept-world-revolution",
+          "label": "concept-world-revolution"
+        }
+      ]
+    },
+    {
+      "id": "place-kremlin",
+      "type": "place",
+      "label": "The Kremlin",
+      "description": "The fortified citadel of Moscow and seat of the Bolshevik government after March 1918 — a symbol of centralised Soviet power that Dukes invokes as the distant source of the terror radiating across Russia.",
+      "aliases": [
+        "Moscow Kremlin",
+        "Kremlin Palace"
+      ],
+      "tags": [
+        "place",
+        "landmark",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-kremlin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "place-moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "org-sovnarkom",
+          "label": "org-sovnarkom"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "place-kronstadt",
+      "type": "place",
+      "label": "Kronstadt",
+      "description": "The island fortress in the Gulf of Finland, one of the most impregnable naval strongholds in the world, which guarded the sea approaches to Petrograd and featured prominently in Dukes' clandestine crossings of the frozen Gulf.",
+      "aliases": [
+        "Kronstadt",
+        "Fortress of Kronstadt",
+        "Kronshtadt"
+      ],
+      "tags": [
+        "place",
+        "fortress",
+        "naval"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-kronstadt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "place-finland"
+        },
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "org-red-army"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "event-allied-intervention-archangel",
+          "label": "event-allied-intervention-archangel"
+        }
+      ]
+    },
+    {
+      "id": "place-moscow",
+      "type": "place",
+      "label": "Moscow",
+      "description": "The historic capital of Russia, which became the seat of the Bolshevik government in March 1918; Dukes passed through Moscow on diplomatic and intelligence missions and observed the transfer of power from Petrograd.",
+      "aliases": [
+        "Moscow",
+        "Moskva"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "russia"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:place-moscow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "Petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-archangel",
+          "label": "Archangel"
+        },
+        {
+          "type": "related",
+          "target": "place-kremlin",
+          "label": "Kremlin"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "Bolshevism"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        }
+      ]
+    },
+    {
+      "id": "place-nevsky-prospect",
+      "type": "place",
+      "label": "Nevsky Prospect",
+      "description": "The principal avenue of Petrograd, a \"magnificent, unbroken vista\" where Dukes witnessed the opening scenes of the March 1917 Revolution and later observed Bolshevik society under the new regime.",
+      "aliases": [
+        "Nevsky Prospect",
+        "Nevsky",
+        "Nevsky Prospekt"
+      ],
+      "tags": [
+        "place",
+        "street",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-nevsky-prospect",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "place-gorokhovaya-street"
+        },
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "place-tauride-palace"
+        },
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "event-march-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-bolshevism",
+          "label": "concept-bolshevism"
+        }
+      ]
+    },
+    {
+      "id": "place-petrograd",
+      "type": "place",
+      "label": "Petrograd",
+      "description": "The capital of the Russian Empire and the epicentre of the February and October Revolutions of 1917, renamed Petrograd during World War I (1914–1924); the city where Dukes witnessed the revolution and returned to conduct secret intelligence work under the Bolshevik regime.",
+      "aliases": [
+        "Petrograd",
+        "St. Petersburg",
+        "Petersburg",
+        "Peter"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "russia"
+      ],
+      "quality": "featured",
+      "source_ref": "red-dusk-and-the-morrow:place-petrograd",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "No. 2 Gorokhovaya Street"
+        },
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "Tauride Palace"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "Nevsky Prospect"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "Helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "event-bolshevist-coup",
+          "label": "Bolshevist Coup d'État"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "Communist Party"
+        },
+        {
+          "type": "related",
+          "target": "person-stepanovna",
+          "label": "Stepanovna"
+        },
+        {
+          "type": "related",
+          "target": "event-british-naval-raid-kronstadt",
+          "label": "British Naval Raid on Kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "org-petrograd-soviet",
+          "label": "Petrograd Soviet"
+        },
+        {
+          "type": "related",
+          "target": "person-maria",
+          "label": "Maria"
+        }
+      ]
+    },
+    {
+      "id": "place-river-neva",
+      "type": "place",
+      "label": "River Neva",
+      "description": "The river that flows through Petrograd (St. Petersburg), forming the city's delta and defining its geography, its moods, and — in Dukes' memoir — the boundary between safety and mortal danger.",
+      "aliases": [
+        "Neva",
+        "Neva River",
+        "River Neva"
+      ],
+      "tags": [
+        "place",
+        "river",
+        "russia"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-river-neva",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-kronstadt",
+          "label": "place-kronstadt"
+        },
+        {
+          "type": "related",
+          "target": "place-viborg",
+          "label": "place-viborg"
+        },
+        {
+          "type": "related",
+          "target": "place-gorokhovaya-street",
+          "label": "place-gorokhovaya-street"
+        }
+      ]
+    },
+    {
+      "id": "place-tauride-palace",
+      "type": "place",
+      "label": "Tauride Palace",
+      "description": "The palace in Petrograd that housed the State Duma and became the centre of the February 1917 Revolution; later renamed the Palace of Uritsky, it served as a meeting place for the Petrograd Soviet, where Dukes attended sessions as an undercover observer.",
+      "aliases": [
+        "Tauride Palace",
+        "Palace of Uritsky",
+        "Taurida Palace",
+        "Tavrichesky Palace",
+        "Duma building"
+      ],
+      "tags": [
+        "place",
+        "building",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-tauride-palace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "place-nevsky-prospect"
+        },
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "event-march-revolution"
+        },
+        {
+          "type": "related",
+          "target": "org-communist-party",
+          "label": "org-communist-party"
+        },
+        {
+          "type": "related",
+          "target": "concept-soviet-system",
+          "label": "concept-soviet-system"
+        }
+      ]
+    },
+    {
+      "id": "place-terijoki",
+      "type": "place",
+      "label": "Terijoki",
+      "description": "Finnish border town on the Karelian Isthmus whose commandant's office was the gateway through which Dukes and other fugitives passed between Bolshevik Russia and the safety of independent Finland.",
+      "aliases": [
+        "Zelenogorsk",
+        "Terijoki border post"
+      ],
+      "tags": [
+        "place",
+        "border",
+        "finland"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-terijoki",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "place-finland"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "place-helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-passport-system",
+          "label": "concept-passport-system"
+        }
+      ]
+    },
+    {
+      "id": "place-ukraine",
+      "type": "place",
+      "label": "Ukraine",
+      "description": "Region of the former Russian Empire where Dukes travelled after escaping Soviet Russia, observing the Red Army's occupation and the peasantry's response to Bolshevik land policies.",
+      "aliases": [
+        "Northern Ukraine",
+        "Little Russia"
+      ],
+      "tags": [
+        "place",
+        "region",
+        "ukraine"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-ukraine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-peasantry",
+          "label": "concept-peasantry"
+        },
+        {
+          "type": "related",
+          "target": "concept-famine",
+          "label": "concept-famine"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        },
+        {
+          "type": "related",
+          "target": "org-red-army",
+          "label": "org-red-army"
+        }
+      ]
+    },
+    {
+      "id": "place-viborg",
+      "type": "place",
+      "label": "Viborg",
+      "description": "A small Finnish border town near the Russian frontier where Dukes met the Russian monarchist officer Melnikoff, who became his key facilitator for crossing into Soviet Russia undercover.",
+      "aliases": [
+        "Viborg",
+        "Vyborg",
+        "Viipuri"
+      ],
+      "tags": [
+        "place",
+        "town",
+        "finland"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-viborg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-finland",
+          "label": "place-finland"
+        },
+        {
+          "type": "related",
+          "target": "place-helsingfors",
+          "label": "place-helsingfors"
+        },
+        {
+          "type": "related",
+          "target": "person-melnikoff",
+          "label": "person-melnikoff"
+        },
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    },
+    {
+      "id": "place-winter-palace",
+      "type": "place",
+      "label": "Winter Palace",
+      "description": "The former imperial residence of the Russian tsars on the Palace Square in Petrograd, symbol of the old regime; Dukes observed it both as the site of revolutionary demonstrations and as the backdrop for clandestine meetings in its adjacent gardens.",
+      "aliases": [
+        "Winter Palace",
+        "Zimny Dvorets",
+        "Imperial Palace"
+      ],
+      "tags": [
+        "place",
+        "building",
+        "petrograd"
+      ],
+      "quality": "standard",
+      "source_ref": "red-dusk-and-the-morrow:place-winter-palace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-petrograd",
+          "label": "place-petrograd"
+        },
+        {
+          "type": "related",
+          "target": "place-tauride-palace",
+          "label": "place-tauride-palace"
+        },
+        {
+          "type": "related",
+          "target": "place-nevsky-prospect",
+          "label": "place-nevsky-prospect"
+        },
+        {
+          "type": "related",
+          "target": "event-march-revolution",
+          "label": "event-march-revolution"
+        },
+        {
+          "type": "related",
+          "target": "concept-counterrevolution",
+          "label": "concept-counterrevolution"
+        }
+      ]
+    }
+  ]
+}

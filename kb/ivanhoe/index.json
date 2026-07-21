@@ -1,0 +1,3466 @@
+{
+  "book": "ivanhoe",
+  "title": "Ivanhoe",
+  "description": "Ivanhoe — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 122,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"艾凡赫\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:About",
+      "relations": []
+    },
+    {
+      "id": "Dedicatory-Epistle",
+      "type": "chapter",
+      "label": "\"Dedicatory Epistle\"",
+      "description": "\"Dedicatory Epistle\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Dedicatory-Epistle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        }
+      ]
+    },
+    {
+      "id": "Footnotes",
+      "type": "chapter",
+      "label": "\"Footnotes\"",
+      "description": "\"Footnotes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Footnotes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "heraldry",
+          "label": "Heraldry"
+        }
+      ]
+    },
+    {
+      "id": "Introduction",
+      "type": "chapter",
+      "label": "\"Introduction to Ivanhoe\"",
+      "description": "\"Introduction to Ivanhoe\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Introduction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "Chivalry"
+        }
+      ]
+    },
+    {
+      "id": "Note-01",
+      "type": "chapter",
+      "label": "\"Note to Chapter I\"",
+      "description": "\"Note to Chapter I\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-01",
+      "relations": []
+    },
+    {
+      "id": "Note-02",
+      "type": "chapter",
+      "label": "\"Note to Chapter II\"",
+      "description": "\"Note to Chapter II\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-02",
+      "relations": []
+    },
+    {
+      "id": "Note-17",
+      "type": "chapter",
+      "label": "\"Note to Chapter XVII\"",
+      "description": "\"Note to Chapter XVII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-17",
+      "relations": []
+    },
+    {
+      "id": "Note-21",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXI\"",
+      "description": "\"Note to Chapter XXI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-21",
+      "relations": []
+    },
+    {
+      "id": "Note-22",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXII\"",
+      "description": "\"Note to Chapter XXII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "Note-29",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXIX\"",
+      "description": "\"Note to Chapter XXIX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "crusade",
+          "label": "crusades"
+        },
+        {
+          "type": "related",
+          "target": "heraldry",
+          "label": "Heraldry"
+        }
+      ]
+    },
+    {
+      "id": "Note-31",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXXI\"",
+      "description": "\"Note to Chapter XXXI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-31",
+      "relations": []
+    },
+    {
+      "id": "Note-32",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXXII\"",
+      "description": "\"Note to Chapter XXXII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-32",
+      "relations": []
+    },
+    {
+      "id": "Note-33",
+      "type": "chapter",
+      "label": "\"Note to Chapter XXXIII\"",
+      "description": "\"Note to Chapter XXXIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-33",
+      "relations": []
+    },
+    {
+      "id": "Note-41",
+      "type": "chapter",
+      "label": "\"Note to Chapter XLI\"",
+      "description": "\"Note to Chapter XLI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:Note-41",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents for Ivanhoe (Walter Scott, 1819)'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "ivanhoe:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Introduction",
+          "label": "Introduction"
+        },
+        {
+          "type": "related",
+          "target": "Dedicatory-Epistle",
+          "label": "Dedicatory-Epistle"
+        },
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "ch32"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "ch34",
+          "label": "ch34"
+        },
+        {
+          "type": "related",
+          "target": "ch35",
+          "label": "ch35"
+        },
+        {
+          "type": "related",
+          "target": "ch36",
+          "label": "ch36"
+        },
+        {
+          "type": "related",
+          "target": "ch37",
+          "label": "ch37"
+        },
+        {
+          "type": "related",
+          "target": "ch38",
+          "label": "ch38"
+        },
+        {
+          "type": "related",
+          "target": "ch39",
+          "label": "ch39"
+        },
+        {
+          "type": "related",
+          "target": "ch40",
+          "label": "ch40"
+        },
+        {
+          "type": "related",
+          "target": "ch41",
+          "label": "ch41"
+        },
+        {
+          "type": "related",
+          "target": "ch42",
+          "label": "ch42"
+        },
+        {
+          "type": "related",
+          "target": "ch43",
+          "label": "ch43"
+        },
+        {
+          "type": "related",
+          "target": "ch44",
+          "label": "ch44"
+        },
+        {
+          "type": "related",
+          "target": "Note-01",
+          "label": "Note-01"
+        },
+        {
+          "type": "related",
+          "target": "Note-02",
+          "label": "Note-02"
+        },
+        {
+          "type": "related",
+          "target": "Note-17",
+          "label": "Note-17"
+        },
+        {
+          "type": "related",
+          "target": "Note-21",
+          "label": "Note-21"
+        },
+        {
+          "type": "related",
+          "target": "Note-22",
+          "label": "Note-22"
+        },
+        {
+          "type": "related",
+          "target": "Note-29",
+          "label": "Note-29"
+        },
+        {
+          "type": "related",
+          "target": "Note-31",
+          "label": "Note-31"
+        },
+        {
+          "type": "related",
+          "target": "Note-32",
+          "label": "Note-32"
+        },
+        {
+          "type": "related",
+          "target": "Note-33",
+          "label": "Note-33"
+        },
+        {
+          "type": "related",
+          "target": "Note-41",
+          "label": "Note-41"
+        },
+        {
+          "type": "related",
+          "target": "Footnotes",
+          "label": "Footnotes"
+        }
+      ]
+    },
+    {
+      "id": "albert-malvoisin",
+      "type": "person",
+      "label": "艾伯特·马尔沃辛（Albert Malvoisin）",
+      "description": ">",
+      "aliases": [
+        "Albert Malvoisin",
+        "President of the Templestowe Preceptory"
+      ],
+      "tags": [
+        "Templar",
+        "Clergy",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:albert-malvoisin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "beaumanoir",
+          "label": "beaumanoir"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "malvoisin",
+          "label": "malvoisin"
+        }
+      ]
+    },
+    {
+      "id": "ashby-de-la-zouche",
+      "type": "place",
+      "label": "阿什比-德洛日（Ashby-de-la-Zouche）",
+      "description": ">",
+      "aliases": [
+        "Ashby-de-la-Zouche",
+        "Ashby",
+        "the Lists of Ashby"
+      ],
+      "tags": [
+        "Place",
+        "Tournament",
+        "Leicestershire"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:ashby-de-la-zouche",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "locksley",
+          "label": "locksley"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        }
+      ]
+    },
+    {
+      "id": "athelstane",
+      "type": "person",
+      "label": "艾瑟尔斯坦（Athelstane）",
+      "description": ">",
+      "aliases": [
+        "Athelstane of Coningsburgh",
+        "Athelstane the Unready"
+      ],
+      "tags": [
+        "Saxon",
+        "Nobility",
+        "Heir"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:athelstane",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "baldwin",
+      "type": "person",
+      "label": "鲍德温·德·奥莱",
+      "description": "布瓦-吉贝尔骑士的 squire，在阿什比比武大会上代表 Norman 阵营出场，态度傲慢无礼",
+      "aliases": [
+        "Baldwin de Oyley",
+        "Baldwin",
+        "the squire of Brian de Bois-Guilbert"
+      ],
+      "tags": [
+        "Norman",
+        "Templar",
+        "Squire"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:baldwin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        }
+      ]
+    },
+    {
+      "id": "beaumanoir",
+      "type": "person",
+      "label": "博马努瓦（Lucas de Beaumanoir）",
+      "description": ">",
+      "aliases": [
+        "Lucas de Beaumanoir",
+        "Grand Master of the Templars"
+      ],
+      "tags": [
+        "Templar",
+        "Antagonist",
+        "Clergy"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:beaumanoir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        }
+      ]
+    },
+    {
+      "id": "black-knight",
+      "type": "person",
+      "label": "Black Knight (King Richard I)",
+      "description": "King Richard I of England in disguise, appearing as a mysterious black-armoured knight who participates in the Tournament at Ashby and aids the captives at Torquilstone before revealing his true identity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "ivanhoe:black-knight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "Wilfred of Ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "Rebecca"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "Brian de Bois-Guilbert"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "Cedric the Saxon"
+        },
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "Richard I"
+        }
+      ]
+    },
+    {
+      "id": "brian-de-bois-guilbert",
+      "type": "person",
+      "label": "布赖恩·德·博希-吉尔伯特",
+      "description": ">",
+      "aliases": [
+        "Sir Brian de Bois-Guilbert",
+        "Bois-Guilbert",
+        "Brian de Bois-Guilbert"
+      ],
+      "tags": [
+        "Templar",
+        "Antagonist",
+        "Knight",
+        "Norman"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:brian-de-bois-guilbert",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "cedric",
+      "type": "person",
+      "label": "塞德里克",
+      "description": ">",
+      "aliases": [
+        "Cedric of Rotherwood",
+        "Cedric the Saxon"
+      ],
+      "tags": [
+        "Saxon",
+        "Nobility",
+        "Rotherwood"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:cedric",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rotherwood",
+          "label": "rotherwood"
+        },
+        {
+          "type": "related",
+          "target": "athelstane",
+          "label": "athelstane"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Chapter I: Ivanhoe\"",
+      "description": "\"Chapter I: Ivanhoe\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Chapter II\"",
+      "description": "\"Chapter II\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch02",
+      "relations": []
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Chapter III\"",
+      "description": "\"Chapter III\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Chapter IV\"",
+      "description": "\"Chapter IV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch04",
+      "relations": []
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Chapter V\"",
+      "description": "\"Chapter V\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch05",
+      "relations": []
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Chapter VI\"",
+      "description": "\"Chapter VI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Chapter VII\"",
+      "description": "\"Chapter VII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "crusade",
+          "label": "crusades"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Chapter VIII\"",
+      "description": "\"Chapter VIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Chapter IX\"",
+      "description": "\"Chapter IX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Chapter X\"",
+      "description": "\"Chapter X\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Chapter XI\"",
+      "description": "\"Chapter XI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Chapter XII\"",
+      "description": "\"Chapter XII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Chapter XIII\"",
+      "description": "\"Chapter XIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Chapter XIV\"",
+      "description": "\"Chapter XIV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "Chivalry"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Chapter XV\"",
+      "description": "\"Chapter XV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch15",
+      "relations": []
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Chapter XVI\"",
+      "description": "\"Chapter XVI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Chapter XVII\"",
+      "description": "\"Chapter XVII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch17",
+      "relations": []
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Chapter XVIII\"",
+      "description": "\"Chapter XVIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Chapter XIX\"",
+      "description": "\"Chapter XIX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Chapter XX\"",
+      "description": "\"Chapter XX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch20",
+      "relations": []
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Chapter XXI\"",
+      "description": "\"Chapter XXI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch21",
+      "relations": []
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Chapter XXII\"",
+      "description": "\"Chapter XXII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "Justice"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Chapter XXIII\"",
+      "description": "\"Chapter XXIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Chapter XXIV\"",
+      "description": "\"Chapter XXIV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Chapter XXV\"",
+      "description": "\"Chapter XXV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch25",
+      "relations": []
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Chapter XXVI\"",
+      "description": "\"Chapter XXVI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch26",
+      "relations": []
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Chapter XXVII\"",
+      "description": "\"Chapter XXVII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"Chapter XXVIII\"",
+      "description": "\"Chapter XXVIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"Chapter XXIX\"",
+      "description": "\"Chapter XXIX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "Chivalry"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"Chapter XXX\"",
+      "description": "\"Chapter XXX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch30",
+      "relations": []
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"Chapter XXXI\"",
+      "description": "\"Chapter XXXI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch31",
+      "relations": []
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"Chapter XXXII\"",
+      "description": "\"Chapter XXXII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch32",
+      "relations": []
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"Chapter XXXIII\"",
+      "description": "\"Chapter XXXIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch34",
+      "type": "chapter",
+      "label": "\"Chapter XXXIV\"",
+      "description": "\"Chapter XXXIV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch34",
+      "relations": []
+    },
+    {
+      "id": "ch35",
+      "type": "chapter",
+      "label": "\"Chapter XXXV\"",
+      "description": "\"Chapter XXXV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch35",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch36",
+      "type": "chapter",
+      "label": "\"Chapter XXXVI\"",
+      "description": "\"Chapter XXXVI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch36",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        }
+      ]
+    },
+    {
+      "id": "ch37",
+      "type": "chapter",
+      "label": "\"Chapter XXXVII\"",
+      "description": "\"Chapter XXXVII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch37",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch38",
+      "type": "chapter",
+      "label": "\"Chapter XXXVIII\"",
+      "description": "\"Chapter XXXVIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch38",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "law"
+        }
+      ]
+    },
+    {
+      "id": "ch39",
+      "type": "chapter",
+      "label": "\"Chapter XXXIX\"",
+      "description": "\"Chapter XXXIX\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch39",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "trial"
+        }
+      ]
+    },
+    {
+      "id": "ch40",
+      "type": "chapter",
+      "label": "\"Chapter XL\"",
+      "description": "\"Chapter XL\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch40",
+      "relations": []
+    },
+    {
+      "id": "ch41",
+      "type": "chapter",
+      "label": "\"Chapter XLI\"",
+      "description": "\"Chapter XLI\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch41",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heraldry",
+          "label": "armorial bearings"
+        }
+      ]
+    },
+    {
+      "id": "ch42",
+      "type": "chapter",
+      "label": "\"Chapter XLII\"",
+      "description": "\"Chapter XLII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch42",
+      "relations": []
+    },
+    {
+      "id": "ch43",
+      "type": "chapter",
+      "label": "\"Chapter XLIII\"",
+      "description": "\"Chapter XLIII\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch43",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "judicial combat"
+        }
+      ]
+    },
+    {
+      "id": "ch44",
+      "type": "chapter",
+      "label": "\"Chapter XLIV\"",
+      "description": "\"Chapter XLIV\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ivanhoe:ch44",
+      "relations": [
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "judicial combat"
+        }
+      ]
+    },
+    {
+      "id": "chivalry",
+      "type": "concept",
+      "label": "Chivalry",
+      "description": "The medieval code of knightly conduct — honour, martial prowess, and courtly behaviour — as portrayed in Walter Scott's Ivanhoe",
+      "aliases": [
+        "knightly code",
+        "chivalric code"
+      ],
+      "tags": [
+        "medieval",
+        "social-structure",
+        "norman",
+        "knight"
+      ],
+      "quality": "featured",
+      "source_ref": "ivanhoe:chivalry",
+      "relations": []
+    },
+    {
+      "id": "clerk-of-copmanhurst",
+      "type": "person",
+      "label": "科普曼赫斯特文书（Clerk of Copmanhurst）",
+      "description": ">",
+      "aliases": [
+        "Clerk of Copmanhurst",
+        "Holy Clerk",
+        "Friar Tuck"
+      ],
+      "tags": [
+        "Saxon",
+        "Cleric",
+        "Outlaw",
+        "Legendary"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:clerk-of-copmanhurst",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "richard-i"
+        },
+        {
+          "type": "related",
+          "target": "locksley",
+          "label": "locksley"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "coningsburgh-castle",
+      "type": "place",
+      "label": "Coningsburgh Castle",
+      "description": "Athelstane of Coningsburgh's ancestral castle in Yorkshire, a key Saxon stronghold and the site of Rebecca and Ivanhoe's imprisonment by Front-de-Boeuf.",
+      "aliases": [
+        "Coningsburgh",
+        "Athelstane's Castle"
+      ],
+      "tags": [
+        "Castle",
+        "Yorkshire",
+        "Saxon"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:coningsburgh-castle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tourney"
+        }
+      ]
+    },
+    {
+      "id": "copmanhurst",
+      "type": "place",
+      "label": "Copmanhurst",
+      "description": "A hermitage and chapel in Yorkshire associated with the Clerk of Copmanhurst, the Saxon priest who serves Athelstane's household.",
+      "aliases": [
+        "Clerk of Copmanhurst",
+        "Copmanhurst Hermitage"
+      ],
+      "tags": [
+        "Hermitage",
+        "Yorkshire",
+        "Chapel"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:copmanhurst",
+      "relations": []
+    },
+    {
+      "id": "crusade",
+      "type": "concept",
+      "label": "Crusade",
+      "description": "The religious-military expeditions to the Holy Land — the backdrop against which Ivanhoe's knights measure their honour and from which they return transformed",
+      "aliases": [
+        "crusades",
+        "holy war"
+      ],
+      "tags": [
+        "medieval",
+        "religion",
+        "warfare",
+        "crusader"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:crusade",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "de-bracy",
+      "type": "person",
+      "label": "德·布拉西（Maurice de Bracy）",
+      "description": ">",
+      "aliases": [
+        "Sir Maurice de Bracy",
+        "Maurice de Bracy"
+      ],
+      "tags": [
+        "Norman",
+        "Knight",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:de-bracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "edith",
+      "type": "person",
+      "label": "Edith of Coningsburgh",
+      "description": "The mother of Athelstane of Coningsburgh, a Saxon noblewoman who plays a key role in the novel's resolution by persuading Athelstane to abandon his ambitions for the Saxon throne and support Wilfred of Ivanhoe.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "ivanhoe:edith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "athelstane",
+          "label": "Athelstane of Coningsburgh"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "Cedric the Saxon"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "Rebecca"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "Wilfred of Ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "Rowena"
+        }
+      ]
+    },
+    {
+      "id": "elgitha",
+      "type": "person",
+      "label": "埃尔吉莎（Elgitha）",
+      "description": ">",
+      "aliases": [
+        "Elgitha"
+      ],
+      "tags": [
+        "Saxon",
+        "Female",
+        "Servant"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:elgitha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "athelstane",
+          "label": "athelstane"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        }
+      ]
+    },
+    {
+      "id": "escape-of-ivanhoe",
+      "type": "event",
+      "label": "艾凡赫的越狱",
+      "description": ">",
+      "aliases": [
+        "Escape of Ivanhoe",
+        "Ivanhoe's Escape"
+      ],
+      "tags": [
+        "Escape",
+        "Prison",
+        "Torquilstone",
+        "Crusade"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:escape-of-ivanhoe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "torquilstone-castle",
+          "label": "torquilstone-castle"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        }
+      ]
+    },
+    {
+      "id": "fitzurse",
+      "type": "person",
+      "label": "菲茨乌尔斯（Waldemar Fitzurse）",
+      "description": ">",
+      "aliases": [
+        "Waldemar Fitzurse",
+        "Fitzurse"
+      ],
+      "tags": [
+        "Norman",
+        "Nobility",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:fitzurse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "de-bracy",
+          "label": "de-bracy"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "friar-tuck",
+      "type": "person",
+      "label": "弗赖尔·塔克",
+      "description": "罗宾汉传说中的 jovial 修士，在小说中与理查德国王在森林中相遇，以好食好饮和善于使棍著称",
+      "aliases": [
+        "Friar Tuck",
+        "the irregular Eremite"
+      ],
+      "tags": [
+        "Church",
+        "Saxon",
+        "Robin Hood"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:friar-tuck",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "richard-i"
+        },
+        {
+          "type": "related",
+          "target": "locksley",
+          "label": "locksley"
+        },
+        {
+          "type": "related",
+          "target": "wamba",
+          "label": "wamba"
+        }
+      ]
+    },
+    {
+      "id": "front-de-boeuf",
+      "type": "person",
+      "label": "弗朗·德·博夫（Reginald Front-de-Bœuf）",
+      "description": ">",
+      "aliases": [
+        "Reginald Front-de-Bœuf",
+        "Front-de-Bœuf",
+        "Front-de-Boeuf"
+      ],
+      "tags": [
+        "Norman",
+        "Knight",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:front-de-boeuf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "torquilstone-castle",
+          "label": "torquilstone-castle"
+        },
+        {
+          "type": "related",
+          "target": "ulrica",
+          "label": "ulrica"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        }
+      ]
+    },
+    {
+      "id": "grand-master",
+      "type": "person",
+      "label": "圣殿骑士团大团长",
+      "description": "圣殿骑士团的大团长（Grand Master），在小说中为年迈偏执的 Lucas de Beaumanoir，在坦姆勒斯托修道院主持对丽贝卡的审判",
+      "aliases": [
+        "Grand Master",
+        "Lucas de Beaumanoir"
+      ],
+      "tags": [
+        "Templar",
+        "Church",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:grand-master",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "templestowe",
+          "label": "templestowe"
+        },
+        {
+          "type": "related",
+          "target": "knights-hospitallers",
+          "label": "knights-hospitallers"
+        },
+        {
+          "type": "related",
+          "target": "mont-fitchet",
+          "label": "mont-fitchet"
+        }
+      ]
+    },
+    {
+      "id": "gurth",
+      "type": "person",
+      "label": "葛斯（Gurth）",
+      "description": ">",
+      "aliases": [
+        "Gurth the Swineherd",
+        "Gurth son of Beowulph"
+      ],
+      "tags": [
+        "Saxon",
+        "Servant",
+        "Commoner"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:gurth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wamba",
+          "label": "wamba"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "heraldry",
+      "type": "concept",
+      "label": "Heraldry",
+      "description": "The system of visual symbols identifying knights by their shield devices — the language of identity and honour in the chivalric world of Ivanhoe",
+      "aliases": [
+        "coat of arms",
+        "armorial bearings"
+      ],
+      "tags": [
+        "medieval",
+        "chivalry",
+        "symbolism",
+        "tournament"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:heraldry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tournament"
+        }
+      ]
+    },
+    {
+      "id": "isaac-of-york",
+      "type": "person",
+      "label": "艾萨克（Isaac of York）",
+      "description": ">",
+      "aliases": [
+        "Isaac",
+        "Isaac the Jew",
+        "Isaac of York"
+      ],
+      "tags": [
+        "Jewish",
+        "Merchant",
+        "York",
+        "Father"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:isaac-of-york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        }
+      ]
+    },
+    {
+      "id": "jews-of-york",
+      "type": "organization",
+      "label": "约克犹太人社群",
+      "description": ">",
+      "aliases": [
+        "Jews of York",
+        "York Jewish Community"
+      ],
+      "tags": [
+        "Jewish",
+        "Community",
+        "York",
+        "Medieval"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:jews-of-york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "isaac-of-york",
+          "label": "isaac-of-york"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "york",
+          "label": "york"
+        }
+      ]
+    },
+    {
+      "id": "jorvaulx",
+      "type": "place",
+      "label": "乔尔沃克斯（Jorvaulx）",
+      "description": ">",
+      "aliases": [
+        "Jorvaulx Abbey",
+        "Jorvaulx Priory"
+      ],
+      "tags": [
+        "Place",
+        "Religious",
+        "Norman"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:jorvaulx",
+      "relations": [
+        {
+          "type": "related",
+          "target": "prior-aymer",
+          "label": "prior-aymer"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "Justice",
+      "description": "The administration of law in 12th-century England — a fractured system of Norman feudal courts, ecclesiastical tribunals, and the ancient right of trial by combat",
+      "aliases": [
+        "law",
+        "trial",
+        "judicial combat"
+      ],
+      "tags": [
+        "medieval",
+        "law",
+        "norman",
+        "saxon"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:justice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "knights-hospitallers",
+      "type": "organization",
+      "label": "圣约翰骑士团（Knights Hospitallers）",
+      "description": ">",
+      "aliases": [
+        "Knights Hospitallers",
+        "Knights of St John",
+        "Order of St John",
+        "Hospitallers"
+      ],
+      "tags": [
+        "Military Order",
+        "Crusader",
+        "Religious"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:knights-hospitallers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ralph-de-vipont",
+          "label": "ralph-de-vipont"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        },
+        {
+          "type": "related",
+          "target": "beaumanoir",
+          "label": "beaumanoir"
+        }
+      ]
+    },
+    {
+      "id": "knights-templar",
+      "type": "organization",
+      "label": "Knights Templar",
+      "description": "The medieval military order whose knight Brian de Bois-Guilbert serves as the novel's primary antagonist from the religious orders.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:knights-templar",
+      "relations": []
+    },
+    {
+      "id": "leicester",
+      "type": "place",
+      "label": "Leicester",
+      "description": "A town in the English Midlands mentioned as the location of the tournament at Ashby and as the home of Isaac of York.",
+      "aliases": [
+        "Leicestershire"
+      ],
+      "tags": [
+        "Town",
+        "Midlands",
+        "County"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:leicester",
+      "relations": []
+    },
+    {
+      "id": "locksley",
+      "type": "person",
+      "label": "洛克斯利（Locksley）",
+      "description": ">",
+      "aliases": [
+        "Robin Hood",
+        "the Yeoman",
+        "Locksley the Yeoman"
+      ],
+      "tags": [
+        "Saxon",
+        "Yeoman",
+        "Outlaw",
+        "Legendary"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:locksley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "malvoisin",
+      "type": "person",
+      "label": "马尔沃辛（Philip de Malvoisin）",
+      "description": ">",
+      "aliases": [
+        "Philip de Malvoisin",
+        "Sir Philip Malvoisin"
+      ],
+      "tags": [
+        "Norman",
+        "Knight",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:malvoisin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        }
+      ]
+    },
+    {
+      "id": "mont-fitchet",
+      "type": "person",
+      "label": "蒙特菲奇特（Conrade Mont-Fitchet）",
+      "description": ">",
+      "aliases": [
+        "Conrade Mont-Fitchet",
+        "Mont-Fitchet"
+      ],
+      "tags": [
+        "Templar",
+        "Clergy",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:mont-fitchet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "beaumanoir",
+          "label": "beaumanoir"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "albert-malvoisin",
+          "label": "albert-malvoisin"
+        }
+      ]
+    },
+    {
+      "id": "nathan",
+      "type": "person",
+      "label": "Nathan Ben Israel",
+      "description": "The chief rabbi and elder of the Jewish community of York, who appears at the trial of Rebecca and whose intercession is sought by Isaac of York to save his daughter.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "ivanhoe:nathan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "isaac-of-york",
+          "label": "Isaac of York"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "Rebecca"
+        },
+        {
+          "type": "related",
+          "target": "grand-master",
+          "label": "Lucas de Beaumanoir"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "Brian de Bois-Guilbert"
+        },
+        {
+          "type": "related",
+          "target": "jews-of-york",
+          "label": "Jews of York"
+        }
+      ]
+    },
+    {
+      "id": "nathan-ben-israel",
+      "type": "person",
+      "label": "以色列拿单（Nathan Ben Israel）",
+      "description": ">",
+      "aliases": [
+        "Nathan Ben Israel",
+        "Nathan the Physician",
+        "Rabbi Nathan"
+      ],
+      "tags": [
+        "Jewish",
+        "Physician",
+        "Scholar"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:nathan-ben-israel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "beaumanoir",
+          "label": "beaumanoir"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        }
+      ]
+    },
+    {
+      "id": "norman-faction",
+      "type": "organization",
+      "label": "诺曼派系",
+      "description": ">",
+      "aliases": [
+        "Normans",
+        "Norman faction",
+        "Norman nobility"
+      ],
+      "tags": [
+        "Norman",
+        "Nobility",
+        "Antagonist",
+        "Conqueror"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:norman-faction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        }
+      ]
+    },
+    {
+      "id": "oswald",
+      "type": "person",
+      "label": "奥斯瓦尔德",
+      "description": "塞德里克的贴身斟酒 servant，在小说中负责管理庄园事务，在艾凡赫初回罗瑟伍德时扮演了 gatekeeper 角色",
+      "aliases": [
+        "Oswald",
+        "Oswald the cupbearer"
+      ],
+      "tags": [
+        "Saxon",
+        "Servant"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:oswald",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "wamba",
+          "label": "wamba"
+        },
+        {
+          "type": "related",
+          "target": "rotherwood",
+          "label": "rotherwood"
+        }
+      ]
+    },
+    {
+      "id": "palestine",
+      "type": "place",
+      "label": "Palestine",
+      "description": "The Holy Land, referenced in the novel as the destination of the Crusaders and the context for the Templar Order's origins.",
+      "aliases": [
+        "Holy Land",
+        "Outremer"
+      ],
+      "tags": [
+        "Holy Land",
+        "Crusades",
+        "Historical Region"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:palestine",
+      "relations": []
+    },
+    {
+      "id": "palmer",
+      "type": "person",
+      "label": "The Palmer (Wilfred of Ivanhoe)",
+      "description": "The pilgrim identity assumed by Wilfred of Ivanhoe upon his return from the Crusades, under which he travels through England observing the state of his country before revealing himself at the Tournament at Ashby.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "ivanhoe:palmer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "Wilfred of Ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "Cedric the Saxon"
+        },
+        {
+          "type": "related",
+          "target": "wamba",
+          "label": "Wamba the Jester"
+        },
+        {
+          "type": "related",
+          "target": "gurth",
+          "label": "Gurth"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "Rebecca"
+        }
+      ]
+    },
+    {
+      "id": "plantagenet",
+      "type": "person",
+      "label": "金雀花王朝",
+      "description": "金雀花王朝（Plantagenet）是英格兰中世纪最重要的王朝之一，在小说中以 \"Richard Plantagenet\" 称呼理查德国王，体现其王朝血统",
+      "aliases": [
+        "Plantagenet",
+        "Geoffrey Plantagenet"
+      ],
+      "tags": [
+        "Royalty",
+        "Norman",
+        "Dynasty"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:plantagenet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "richard-i"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "norman-faction",
+          "label": "norman-faction"
+        }
+      ]
+    },
+    {
+      "id": "preceptory-of-templestowe",
+      "type": "place",
+      "label": "坦普尔斯托预修院（Preceptory of Templestowe）",
+      "description": ">",
+      "aliases": [
+        "Preceptory of Templestowe",
+        "Templestowe Preceptory"
+      ],
+      "tags": [
+        "Templar",
+        "Building",
+        "Location"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:preceptory-of-templestowe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "beaumanoir",
+          "label": "beaumanoir"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        }
+      ]
+    },
+    {
+      "id": "prince-john",
+      "type": "person",
+      "label": "普林斯·约翰（Prince John）",
+      "description": ">",
+      "aliases": [
+        "Prince John",
+        "John of England",
+        "John Lackland"
+      ],
+      "tags": [
+        "Norman",
+        "Royalty",
+        "Antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:prince-john",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "richard-i"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "fitzurse",
+          "label": "fitzurse"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "prior-aymer",
+      "type": "person",
+      "label": "艾默（Prior Aymer）",
+      "description": ">",
+      "aliases": [
+        "Prior Aymer",
+        "Aymer of Jorvaulx"
+      ],
+      "tags": [
+        "Norman",
+        "Clergy",
+        "Templar"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:prior-aymer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "gurth",
+          "label": "gurth"
+        }
+      ]
+    },
+    {
+      "id": "ralph-de-vipont",
+      "type": "person",
+      "label": "拉尔夫·德·维邦（Ralph de Vipont）",
+      "description": ">",
+      "aliases": [
+        "Ralph de Vipont",
+        "Ralph de Vipont of St John"
+      ],
+      "tags": [
+        "Knight",
+        "Hospitaller",
+        "Crusader"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:ralph-de-vipont",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        }
+      ]
+    },
+    {
+      "id": "ransom",
+      "type": "concept",
+      "label": "Ransom",
+      "description": "The medieval practice of capturing enemies for profit — a central economic reality of warfare and tournament that shaped the fortunes of Ivanhoe's characters",
+      "aliases": [
+        "prisoner's ransom",
+        "wergild"
+      ],
+      "tags": [
+        "medieval",
+        "warfare",
+        "economy",
+        "tournament"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:ransom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tournament",
+          "label": "tournament"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "rebecca",
+      "type": "person",
+      "label": "Rebecca",
+      "description": "The beautiful and virtuous daughter of Isaac of York, whose trial for sorcery forms the moral centre of the novel.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:rebecca",
+      "relations": []
+    },
+    {
+      "id": "richard-i",
+      "type": "person",
+      "label": "狮心王理查（Richard I）",
+      "description": ">",
+      "aliases": [
+        "Richard the Lionheart",
+        "the Black Knight",
+        "King Richard",
+        "Richard of England"
+      ],
+      "tags": [
+        "Royalty",
+        "Norman",
+        "Hero",
+        "Crusader"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:richard-i",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rowena",
+          "label": "rowena"
+        },
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "locksley",
+          "label": "locksley"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        }
+      ]
+    },
+    {
+      "id": "rotherwood",
+      "type": "place",
+      "label": "Rotherwood",
+      "description": "The Saxon estate and fortified hall of Cedric the Saxon, serving as the primary Saxon stronghold in the novel's opening chapters.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:rotherwood",
+      "relations": []
+    },
+    {
+      "id": "rowena",
+      "type": "person",
+      "label": "罗文娜（Rowena）",
+      "description": ">",
+      "aliases": [
+        "Lady Rowena",
+        "Rowena of Hargottstand"
+      ],
+      "tags": [
+        "Saxon",
+        "Nobility",
+        "Romantic Lead"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:rowena",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "athelstane",
+          "label": "athelstane"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        }
+      ]
+    },
+    {
+      "id": "salisbury",
+      "type": "person",
+      "label": "索尔兹伯里（Earl of Salisbury）",
+      "description": ">",
+      "aliases": [
+        "Earl of Salisbury",
+        "Salisbury"
+      ],
+      "tags": [
+        "Norman",
+        "Nobility",
+        "Court"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:salisbury",
+      "relations": [
+        {
+          "type": "related",
+          "target": "prince-john",
+          "label": "prince-john"
+        },
+        {
+          "type": "related",
+          "target": "fitzurse",
+          "label": "fitzurse"
+        },
+        {
+          "type": "related",
+          "target": "de-bracy",
+          "label": "de-bracy"
+        },
+        {
+          "type": "related",
+          "target": "richard-i",
+          "label": "richard-i"
+        }
+      ]
+    },
+    {
+      "id": "saxon-people",
+      "type": "organization",
+      "label": "撒克逊人",
+      "description": ">",
+      "aliases": [
+        "Saxons",
+        "Saxon nobility",
+        "Saxon people"
+      ],
+      "tags": [
+        "Saxon",
+        "Ethnicity",
+        "Nobility",
+        "Anglo-Saxon"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:saxon-people",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "athelstane",
+          "label": "athelstane"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "sheffield",
+      "type": "place",
+      "label": "设菲尔德（Sheffield）",
+      "description": ">",
+      "aliases": [
+        "Sheffield"
+      ],
+      "tags": [
+        "Town",
+        "Yorkshire",
+        "Industrial"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:sheffield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rotherwood",
+          "label": "rotherwood"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "torquilstone-castle",
+          "label": "torquilstone-castle"
+        }
+      ]
+    },
+    {
+      "id": "sherwood-forest",
+      "type": "place",
+      "label": "Sherwood Forest",
+      "description": "The famous forest in Nottinghamshire, the traditional refuge of outlaws and the domain of Robin Hood and his Merry Men.",
+      "aliases": [
+        "Sherwood"
+      ],
+      "tags": [
+        "Forest",
+        "Nottinghamshire",
+        "Outlaw"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:sherwood-forest",
+      "relations": []
+    },
+    {
+      "id": "templestowe",
+      "type": "place",
+      "label": "坦普尔斯托（Templestowe）",
+      "description": ">",
+      "aliases": [
+        "Preceptory of Templestowe",
+        "Templestowe Preceptory"
+      ],
+      "tags": [
+        "Preceptory",
+        "Templar",
+        "Prison",
+        "Trial"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:templestowe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "torquilstone-castle",
+      "type": "place",
+      "label": "Torquilstone Castle",
+      "description": "The Norman fortress of the tyrannical Front-de-Boeuf, where the novel's most dramatic siege sequence unfolds.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:torquilstone-castle",
+      "relations": []
+    },
+    {
+      "id": "tournament",
+      "type": "concept",
+      "label": "Tournament",
+      "description": "The medieval tournament as a formal chivalric contest — the centrepiece spectacle of Ivanhoe's Ashby-de-la-Zouche passages",
+      "aliases": [
+        "tourney",
+        "passage of arms"
+      ],
+      "tags": [
+        "medieval",
+        "chivalry",
+        "event-type"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:tournament",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "heraldry",
+          "label": "heraldry"
+        }
+      ]
+    },
+    {
+      "id": "tournament-at-ashby",
+      "type": "event",
+      "label": "Tournament at Ashby",
+      "description": "The great tournament at Ashby-de-la-Zouche, the climactic event of Ivanhoe's early chapters where the Disinherited Knight wins renown.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:tournament-at-ashby",
+      "relations": []
+    },
+    {
+      "id": "trial-of-rebecca",
+      "type": "event",
+      "label": "丽蓓卡受审",
+      "description": ">",
+      "aliases": [
+        "Trial of Rebecca",
+        "Rebecca's Trial",
+        "Witchcraft Trial"
+      ],
+      "tags": [
+        "Trial",
+        "Witchcraft",
+        "Preceptory",
+        "Jewish"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:trial-of-rebecca",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "brian-de-bois-guilbert"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        }
+      ]
+    },
+    {
+      "id": "ulrica",
+      "type": "person",
+      "label": "乌尔丽卡（Ulrica）",
+      "description": ">",
+      "aliases": [
+        "Ulrica of Torquilstone",
+        "Urfried",
+        "the Saxon Witch"
+      ],
+      "tags": [
+        "Saxon",
+        "Female",
+        "Resistance"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:ulrica",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "urfried",
+      "type": "person",
+      "label": "Urfried (Ulrica)",
+      "description": "The birth name of Ulrica, the Saxon noblewoman who appears as a housekeeper at Torquilstone Castle and ultimately burns the castle down in revenge for her family's murder by the Normans.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "ivanhoe:urfried",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ulrica",
+          "label": "Ulrica"
+        },
+        {
+          "type": "related",
+          "target": "front-de-boeuf",
+          "label": "Front-de-Boeuf"
+        },
+        {
+          "type": "related",
+          "target": "brian-de-bois-guilbert",
+          "label": "Brian de Bois-Guilbert"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "Rebecca"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "Cedric the Saxon"
+        }
+      ]
+    },
+    {
+      "id": "wamba",
+      "type": "person",
+      "label": "坎普（Wamba）",
+      "description": ">",
+      "aliases": [
+        "Wamba the Jester",
+        "Wamba the Fool",
+        "son of Witless"
+      ],
+      "tags": [
+        "Saxon",
+        "Jester",
+        "Companion"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:wamba",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gurth",
+          "label": "gurth"
+        },
+        {
+          "type": "related",
+          "target": "cedric",
+          "label": "cedric"
+        },
+        {
+          "type": "related",
+          "target": "wilfred-of-ivanhoe",
+          "label": "wilfred-of-ivanhoe"
+        },
+        {
+          "type": "related",
+          "target": "tournament-at-ashby",
+          "label": "tournament-at-ashby"
+        }
+      ]
+    },
+    {
+      "id": "wilfred-of-ivanhoe",
+      "type": "person",
+      "label": "Wilfred of Ivanhoe",
+      "description": "The Saxon knight and protagonist of the novel, son of Cedric the Saxon and hero of the Tournament at Ashby.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "ivanhoe:wilfred-of-ivanhoe",
+      "relations": []
+    },
+    {
+      "id": "york",
+      "type": "place",
+      "label": "约克（York）",
+      "description": ">",
+      "aliases": [
+        "York",
+        "Yorkshire"
+      ],
+      "tags": [
+        "City",
+        "Yorkshire",
+        "Commercial",
+        "Religious"
+      ],
+      "quality": "standard",
+      "source_ref": "ivanhoe:york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "isaac-of-york",
+          "label": "isaac-of-york"
+        },
+        {
+          "type": "related",
+          "target": "rebecca",
+          "label": "rebecca"
+        },
+        {
+          "type": "related",
+          "target": "preceptory-of-templestowe",
+          "label": "preceptory-of-templestowe"
+        },
+        {
+          "type": "related",
+          "target": "knights-templar",
+          "label": "knights-templar"
+        }
+      ]
+    }
+  ]
+}

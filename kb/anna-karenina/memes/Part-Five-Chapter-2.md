@@ -1,0 +1,117 @@
+---
+description: "On the day of the wedding, according to the Russian custom (the princess and Darya Alexandrovna insisted on strictly keeping all the customs), Levin did not see his betrothed, and dined at his hotel w…"
+id: Part-Five-Chapter-2
+label: "Part Five, Chapter 2"
+tags: ["chapter"]
+type: "chapter"
+---
+
+# Part Five, Chapter 2
+
+[134-001] On the day of the wedding, according to the Russian custom (the princess and [[Darya-Alexandrovna|Darya Alexandrovna]] insisted on strictly keeping all the customs), [[Konstantin-Levin|Levin]] did not see his betrothed, and dined at his hotel with three bachelor friends, casually brought together at his rooms. These were [[Sergius-Ivanitch|Sergey Ivanovitch]], [[Katavasov]], a university friend, now professor of natural science, whom Levin had met in the street and insisted on taking home with him, and Tchirikov, his best man, a [[Moscow]] conciliation-board judge, Levin’s companion in his bear-hunts. The dinner was a very merry one: Sergey Ivanovitch was in his happiest mood, and was much amused by Katavasov’s originality. Katavasov, feeling his originality was appreciated and understood, made the most of it. Tchirikov always gave a lively and good-humored support to conversation of any sort.
+
+[134-002] “See, now,” said Katavasov, drawling his words from a habit acquired in the lecture-room, “what a capable fellow was our friend Konstantin Dmitrievitch. I’m not speaking of present company, for he’s absent. At the time he left the university he was fond of science, took an interest in humanity; now one-half of his abilities is devoted to deceiving himself, and the other to justifying the deceit.”
+
+[134-003] “A more determined enemy of matrimony than you I never saw,” said Sergey Ivanovitch.
+
+[134-004] “Oh, no, I’m not an enemy of matrimony. I’m in favor of division of labor. People who can do nothing else ought to rear people while the rest work for their happiness and enlightenment. That’s how I look at it. To muddle up two trades is the error of the amateur; I’m not one of their number.”
+
+[134-005] “How happy I shall be when I hear that you’re in love!” said Levin. “Please invite me to the wedding.”
+
+[134-006] “I’m in love now.”
+
+[134-007] “Yes, with a cuttlefish! You know,” Levin turned to his brother, “Mihail Semyonovitch is writing a work on the digestive organs of the....”
+
+[134-008] “Now, make a muddle of it! It doesn’t matter what about. And the fact is, I certainly do love cuttlefish.”
+
+[134-009] “But that’s no hindrance to your loving your wife.”
+
+[134-010] “The cuttlefish is no hindrance. The wife is the hindrance.”
+
+[134-011] “Why so?”
+
+[134-012] “Oh, you’ll see! You care about farming, hunting,—well, you’d better look out!”
+
+[134-013] “Arhip was here today; he said there were a lot of elks in Prudno, and two bears,” said Tchirikov.
+
+[134-014] “Well, you must go and get them without me.”
+
+[134-015] “Ah, that’s the truth,” said Sergey Ivanovitch. “And you may say good-bye to bear-hunting for the future—your wife won’t allow it!”
+
+[134-016] Levin smiled. The picture of his wife not letting him go was so pleasant that he was ready to renounce the delights of looking upon bears forever.
+
+[134-017] “Still, it’s a pity they should get those two bears without you. Do you remember last time at Hapilovo? That was a delightful hunt!” said Tchirikov.
+
+[134-018] Levin had not the heart to disillusion him of the notion that there could be something delightful apart from her, and so said nothing.
+
+[134-019] “There’s some sense in this custom of saying good-bye to bachelor life,” said Sergey Ivanovitch. “However happy you may be, you must regret your freedom.”
+
+[134-020] “And confess there is a feeling that you want to jump out of the window, like Gogol’s bridegroom?”
+
+[134-021] “Of course there is, but it isn’t confessed,” said Katavasov, and he broke into loud laughter.
+
+[134-022] “Oh, well, the window’s open. Let’s start off this instant to Tver! There’s a big she-bear; one can go right up to the lair. Seriously, let’s go by the five o’clock! And here let them do what they like,” said Tchirikov, smiling.
+
+[134-023] “Well, now, on my honor,” said Levin, smiling, “I can’t find in my heart that feeling of regret for my freedom.”
+
+[134-024] “Yes, there’s such a chaos in your heart just now that you can’t find anything there,” said Katavasov. “Wait a bit, when you set it to rights a little, you’ll find it!”
+
+[134-025] “No; if so, I should have felt a little, apart from my feeling” (he could not say love before them) “and happiness, a certain regret at losing my freedom.... On the contrary, I am glad at the very loss of my freedom.”
+
+[134-026] “Awful! It’s a hopeless case!” said Katavasov. “Well, let’s drink to his recovery, or wish that a hundredth part of his dreams may be realized—and that would be happiness such as never has been seen on earth!”
+
+[134-027] Soon after dinner the guests went away to be in time to be dressed for the wedding.
+
+[134-028] When he was left alone, and recalled the conversation of these bachelor friends, Levin asked himself: had he in his heart that regret for his freedom of which they had spoken? He smiled at the question. “Freedom! What is freedom for? [[Happiness]] is only in loving and wishing her wishes, thinking her thoughts, that is to say, not freedom at all—that’s happiness!”
+
+[134-029] “But do I know her ideas, her wishes, her feelings?” some voice suddenly whispered to him. The smile died away from his face, and he grew thoughtful. And suddenly a strange feeling came upon him. There came over him a dread and doubt—doubt of everything.
+
+[134-030] “What if she does not love me? What if she’s marrying me simply to be married? What if she doesn’t see herself what she’s doing?” he asked himself. “She may come to her senses, and only when she is being married realize that she does not and cannot love me.” And strange, most evil thoughts of her began to come to him. He was jealous of [[Alexei-Vronsky|Vronsky]], as he had been a year ago, as though the evening he had seen her with Vronsky had been yesterday. He suspected she had not told him everything.
+
+[134-031] He jumped up quickly. “No, this can’t go on!” he said to himself in despair. “I’ll go to her; I’ll ask her; I’ll say for the last time: we are free, and hadn’t we better stay so? Anything’s better than endless misery, disgrace, unfaithfulness!” With despair in his heart and bitter anger against all men, against himself, against her, he went out of the hotel and drove to her house.
+
+[134-032] He found her in one of the back rooms. She was sitting on a chest and making some arrangements with her maid, sorting over heaps of dresses of different colors, spread on the backs of chairs and on the floor.
+
+[134-033] “Ah!” she cried, seeing him, and beaming with delight. “Kostya! Konstantin Dmitrievitch!” (These latter days she used these names almost alternately.) “I didn’t expect you! I’m going through my wardrobe to see what’s for whom....”
+
+[134-034] “Oh! that’s very nice!” he said gloomily, looking at the maid.
+
+[134-035] “You can go, Dunyasha, I’ll call you presently,” said Kitty. “Kostya, what’s the matter?” she asked, definitely adopting this familiar name as soon as the maid had gone out. She noticed his strange face, agitated and gloomy, and a panic came over her.
+
+[134-036] “Kitty! I’m in torture. I can’t suffer alone,” he said with despair in his voice, standing before her and looking imploringly into her eyes. He saw already from her loving, truthful face, that nothing could come of what he had meant to say, but yet he wanted her to reassure him herself. “I’ve come to say that there’s still time. This can all be stopped and set right.”
+
+[134-037] “What? I don’t understand. What is the matter?”
+
+[134-038] “What I have said a thousand times over, and can’t help thinking ... that I’m not worthy of you. You couldn’t consent to marry me. Think a little. You’ve made a mistake. Think it over thoroughly. You can’t love me.... If ... better say so,” he said, not looking at her. “I shall be wretched. Let people say what they like; anything’s better than misery.... Far better now while there’s still time....”
+
+[134-039] “I don’t understand,” she answered, panic-stricken; “you mean you want to give it up ... don’t want it?”
+
+[134-040] “Yes, if you don’t love me.”
+
+[134-041] “You’re out of your mind!” she cried, turning crimson with vexation. But his face was so piteous, that she restrained her vexation, and flinging some clothes off an armchair, she sat down beside him. “What are you thinking? tell me all.”
+
+[134-042] “I am thinking you can’t love me. What can you love me for?”
+
+[134-043] “My God! what can I do?...” she said, and burst into tears.
+
+[134-044] “Oh! what have I done?” he cried, and kneeling before her, he fell to kissing her hands.
+
+[134-045] When the princess came into the room five minutes later, she found them completely reconciled. Kitty had not simply assured him that she loved him, but had gone so far—in answer to his question, what she loved him for—as to explain what for. She told him that she loved him because she understood him completely, because she knew what he would like, and because everything he liked was good. And this seemed to him perfectly clear. When the princess came to them, they were sitting side by side on the chest, sorting the dresses and disputing over Kitty’s wanting to give Dunyasha the brown dress she had been wearing when Levin proposed to her, while he insisted that that dress must never be given away, but Dunyasha must have the blue one.
+
+[134-046] “How is it you don’t see? She’s a brunette, and it won’t suit her.... I’ve worked it all out.”
+
+[134-047] Hearing why he had come, the princess was half humorously, half seriously angry with him, and sent him home to dress and not to hinder Kitty’s hair-dressing, as Charles the hair-dresser was just coming.
+
+[134-048] “As it is, she’s been eating nothing lately and is losing her looks, and then you must come and upset her with your nonsense,” she said to him. “Get along with you, my dear!”
+
+[134-049] Levin, guilty and shamefaced, but pacified, went back to his hotel. His brother, Darya Alexandrovna, and Stepan Arkadyevitch, all in full dress, were waiting for him to bless him with the holy picture. There was no time to lose. Darya Alexandrovna had to drive home again to fetch her curled and pomaded son, who was to carry the holy pictures after the bride. Then a carriage had to be sent for the best man, and another that would take Sergey Ivanovitch away would have to be sent back.... Altogether there were a great many most complicated matters to be considered and arranged. One thing was unmistakable, that there must be no delay, as it was already half-past six.
+
+[134-050] Nothing special happened at the ceremony of benediction with the holy picture. Stepan Arkadyevitch stood in a comically solemn pose beside his wife, took the holy picture, and telling Levin to bow down to the ground, he blessed him with his kindly, ironical smile, and kissed him three times; Darya Alexandrovna did the same, and immediately was in a hurry to get off, and again plunged into the intricate question of the destinations of the various carriages.
+
+[134-051] “Come, I’ll tell you how we’ll manage: you drive in our carriage to fetch him, and Sergey Ivanovitch, if he’ll be so good, will drive there and then send his carriage.”
+
+[134-052] “Of course; I shall be delighted.”
+
+[134-053] “We’ll come on directly with him. Are your things sent off?” said Stepan Arkadyevitch.
+
+[134-054] “Yes,” answered Levin, and he told [[Kouzma]] to put out his clothes for him to dress.

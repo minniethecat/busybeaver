@@ -1,0 +1,57 @@
+---
+description: "II. THE APOSTOLICAL VOCATION OF SAINT MAËL"
+id: II-THE-APOSTOLICAL-VOCATION-OF-SAINT-MAËL
+label: "II. THE APOSTOLICAL VOCATION OF SAINT MAËL"
+tags: ["chapter"]
+type: chapter
+---
+
+# II. THE APOSTOLICAL VOCATION OF SAINT MAËL
+
+[003-001]One day as he walked in meditation to the furthest point of a tranquil beach, for which rocks jutting out into the sea formed a rugged dam, he saw a trough of stone which floated like a boat upon the waters.
+
+[003-002]It was in a vessel similar to this that St. Guirec, the great St. Columba, and so many holy men from Scotland and from Ireland had gone forth to evangelize Armorica. More recently still, St. Avoye having come from England, ascended the river Auray in a mortar made of rose-coloured granite into which children were afterwards placed in order to make them strong; St. Vouga passed from Hibernia to Cornwall on a rock whose fragments, preserved at Penmarch, will cure of fever such pilgrims as place these splinters on their heads. St. Samson entered the Bay of St. Michael’s Mount in a granite vessel which will one day be called St. Samson’s basin. It is because of these facts that when he saw the stone trough [[saint-mael|the holy Maël]] understood that the Lord intended him for the apostolate of the pagans who still peopled the coast and the Breton islands.
+
+[003-003]He handed his ashen staff to the holy Budoc, thus investing him with the government of the monastery. Then, furnished with bread, a barrel of fresh water, and the book of the Holy Gospels, he entered the stone trough which carried him gently to the island of Hœdic.
+
+[003-004]This island is perpetually buffeted by the winds. In it some poor men fished among the clefts of the rocks and labouriously cultivated vegetables in gardens full of sand and pebbles that were sheltered from the wind by walls of barren stone and hedges of tamarisk. A beautiful fig-tree raised itself in a hollow of the island and thrust forth its branches far and wide. The inhabitants of the island used to worship it.
+
+[003-005]And the holy Maël said to them: “You worship this tree because it is beautiful. Therefore you are capable of feeling beauty. Now I come to reveal to you the hidden beauty.” And he taught them the Gospel. And after having instructed them, he baptized them with salt and water.
+
+[003-006]The islands of Morbihan were more numerous in those times than they are to-day. For since then many have been swallowed up by the sea. St. Maël evangelized sixty of them. Then in his granite trough he ascended the river Auray. And after sailing for three hours he landed before a Roman house. A thin column of smoke went up from the roof. The holy man crossed the threshold on which there was a mosaic representing a dog with its hind legs outstretched and its lips drawn back. He was welcomed by an old couple, Marcus Combabus and Valeria Moerens, who lived there on the products of their lands. There was a portico round the interior court the columns of which were painted red, half their height upwards from the base. A fountain made of shells stood against the wall and under the portico there rose an altar with a niche in which the master of the house had placed some little idols made of baked earth and whitened with whitewash. Some represented winged children, others Apollo or Mercury, and several were in the form of a naked woman twisting her hair. But the holy Maël, observing those figures, discovered among them the image of a young mother holding a child upon her knees.
+
+[003-007]Immediately pointing to that image he said:
+
+[003-008]“That is the Virgin, the mother of God. The poet Virgil foretold her in Sibylline verses before she was born and, in angelical tones he sang *Jam redit et virgo*. Throughout heathendom prophetic figures of her have been made, like that which you, O Marcus, have placed upon this altar. And without doubt it is she who has protected your modest household. Thus it is that those who faithfully observe the natural [[justice|law]] prepare themselves for the knowledge of revealed truths.”
+
+[003-009]Marcus Combabus and Valeria Moerens, having been instructed by this speech, were converted to the Christian [[religion|faith]]. They received baptism together with their young freedwoman, Caelia Avitella, who was dearer to them than the light of their eyes. All their tenants renounced paganism and were baptized on the same day.
+
+[003-010]Marcus Combabus, Valeria Moerens, and Caelia Avitella led thenceforth a life full of merit. They died in the Lord and were admitted into the canon of the saints.
+
+[003-011]For thirty-seven years longer the blessed Maël evangelized the pagans of the inner lands. He built two hundred and eighteen chapels and seventy-four abbeys.
+
+[003-012]Now on a certain day in the city of Vannes, when he was preaching the Gospel, he learned that the monks of Yvern had in his absence declined from the rule of St. Gal. Immediately, with the zeal of a hen who gathers her brood, he repaired to his erring children. He was then towards the end of his ninety-seventh year; his figure was bent, but his arms were still strong, and his speech was poured forth abundantly like winter snow in the depths of the valleys.
+
+[003-013]Abbot Budoc restored the ashen staff to St. Maël and informed him of the unhappy state into which the Abbey had fallen. The monks were in disagreement as to the date on which the festival of Easter ought to be celebrated. Some held for the Roman calendar, others for the Greek calendar, and the horrors of a chronological schism distracted the monastery.
+
+[003-014]There also prevailed another cause of disorder. The nuns of the island of Gad, sadly fallen from their former virtue, continually came in boats to the coast of Yvern. The monks received them in the guesthouse and from this there arose scandals which filled pious souls with desolation.
+
+[003-015]Having finished his faithful report, Abbot Budoc concluded in these terms:
+
+[003-016]“Since the coming of these nuns the innocence and peace of the monks are at an end.”
+
+[003-017]“I readily believe it,” answered the blessed Maël. “For woman is a cleverly constructed snare by which we are taken even before we suspect the trap. Alas! the delightful attraction of these creatures is exerted with even greater force from a distance than when they are close at hand. The less they satisfy desire the more they inspire it. This is the reason why a poet wrote this verse to one of them:
+
+[003-018]‘When present I avoid thee, but when away I find thee.’
+
+[003-019]“Thus we see, my son, that the blandishments of carnal love have more power over hermits and monks than over men who live in the world. All through my life the demon of lust has tempted me in various ways, but his strongest temptations did not come to me from meeting a woman, however beautiful and fragrant she was. They came to me from the image of an absent woman. Even now, though full of days and approaching my ninety-eighth year, I am often led by the Enemy to sin against chastity, at least in thought. At night when I am cold in my bed and my frozen old bones rattle together with a dull sound I hear voices reciting the second verse of the third Book of the Kings: ‘Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat,’ and the devil shows me a girl in the bloom of youth who says to me: ‘I am thy Abishag; I am thy Shunamite. Make, O my lord, room for me in thy couch.’
+
+[003-020]“Believe me,” added the old man, “it is only by the special aid of Heaven that a monk can keep his chastity in act and in intention.”
+
+[003-021]Applying himself immediately to restore innocence and peace to the monastery, he corrected the calendar according to the calculations of chronology and astronomy and he compelled all the monks to accept his decision; he sent the women who had declined from St. Bridget’s rule back to their convent; but far from driving them away brutally, he caused them to be led to their boat with singing of psalms and litanies.
+
+[003-022]“Let us respect in them,” he said, “the daughters of Bridget and the betrothed of the Lord. Let us beware lest we imitate the Pharisees who affect to despise sinners. The sin of these women and not their persons should be abased, and they should be made ashamed of what they have done and not of what they are, for they are all creatures of God.”
+
+[003-023]And the holy man exhorted his monks to obey faithfully the rule of their order.
+
+[003-024]“When it does not yield to the rudder,” said he to them, “the ship yields to the rock.”

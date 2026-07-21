@@ -1,0 +1,13 @@
+---
+description: 'There were other men who could not stand shellfire.'
+id: Part-I-Ch-13
+label: 'Part I, Chapter XIII'
+tags: ["chapter"]
+type: 'chapter'
+---
+
+[014-001]There were other men who could not stand [[artillery|shellfire]]. It filled them with an animal terror and took all willpower out of them. One young officer was like that man who “did not mind rifle-fire.” He, by some strange freak of psychology, was brave under machine-gun fire. He had done several gallant things, and was bright and cheerful in the trenches until the enemy barraged them with high explosive. Then he was seen wandering back to the support trenches in a dazed way. It happened three times, and he was sentenced to death. Before going out at dawn to face the firing-squad he was calm. There was a lighted candle on the table, and he sorted out his personal belongings and made small packages of them as keepsakes for his family and friends. His hand did not tremble. When his time came he put out the candle, between thumb and finger, raised his hand, and said, “Right O!”
+
+[014-002]---
+
+[014-003]Another man, shot for cowardice in face of the enemy, was sullen and silent to one who hoped to comfort him in the last hour. The chaplain asked him whether he had any message for his relatives. He said, “I have no relatives.” He was asked whether he would like to say any prayers, and he said, “I don’t believe in them.” The chaplain talked to him, but could get no answer—and time was creeping on. There were two guards in the room, sitting motionless, with loaded rifles between their knees. Outside it was silent in the courtyard, except for little noises of the night and the wind. The chaplain suffered, and was torn with pity for that sullen man whose life was almost at an end. He took out his hymnbook and said: “I will sing to you. It will pass the time.” He sang a hymn, and once or twice his voice broke a little, but he steadied it. Then the man said, “I will sing with you.” He knew all the hymns, words and music. It was an unusual, astonishing knowledge, and he went on singing, hymn after hymn, with the chaplain by his side. It was the chaplain who tired first. His voice cracked and his throat became parched. Sweat broke out on his forehead, because of the nervous strain. But the man who was going to die sang on in a clear, hard voice. A faint glimmer of coming dawn lightened the cottage window. There were not many minutes more. The two guards shifted their feet. “Now,” said the man, “we’ll sing ‘God Save the King.’ ” The two guards rose and stood at attention, and the chaplain sang the national anthem with the man who was to be shot for cowardice. Then the tramp of the firing-party came across the cobblestones in the courtyard. It was dawn.

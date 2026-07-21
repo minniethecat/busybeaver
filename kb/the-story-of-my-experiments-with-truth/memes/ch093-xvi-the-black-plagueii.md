@@ -1,0 +1,43 @@
+---
+description: "The Town Clerk expressed his gratitude to me for having taken charge of the vacant house and the patients. He frankly..."
+id: ch093-xvi-the-black-plagueii
+label: "Chapter 93: XVI: The Black Plague—II"
+tags: ["chapter"]
+type: chapter
+---
+
+# XVI: The Black Plague—II
+
+[093-001] The Town Clerk expressed his gratitude to me for having taken charge of the vacant house and the patients. He frankly confessed that the Town Council had no immediate means to cope with such an emergency, but promised that they would render all the help in their power. Once awakened to a sense of their duty, the Municipality made no delay in taking prompt measures.
+
+[093-002] The next day they placed a vacant godown at my disposal, and suggested that the patients be removed there, but the Municipality did not undertake to clean the premises. The building was unkempt and unclean. We cleaned it up ourselves, raised a few beds and other necessaries through the offices of charitable Indians, and improvised a temporary hospital. The Municipality lent the services of a nurse, who came with brandy and other hospital equipment. Dr. Godfrey still remained in charge.
+
+[093-003] The nurse was a kindly lady and would fain have attended to the patients, but we rarely allowed her to touch them, lest she should catch the contagion.
+
+[093-004] We had instructions to give the patients frequent doses of brandy. The nurse even asked us to take it for precaution, just as she was doing herself. But none of us would touch it. I had no faith in its beneficial effect even for the patients. With the permission of Dr. Godfrey, I put three patients, who were prepared to do without brandy, under the earth treatment, applying wet earth bandages to their heads and chests. Two of these were saved. The other twenty died in the godown.
+
+[093-005] Meanwhile the Municipality was busy taking other measures. There was a lazaretto for contagious diseases about seven miles from [[johannesburg|Johannesburg]]. The two surviving patients were removed to tents near the lazaretto, and arrangements were made for sending any fresh cases there. We were thus relieved of our work.
+
+[093-006] In the course of a few days we learnt that the good nurse had had an attack and immediately succumbed. It is impossible to say how the two patients were saved and how we remained immune, but the experience enhanced my faith in earth treatment, as also my scepticism of the efficacy of brandy, even as a medicine. I know that neither this faith nor this scepticism is based upon any solid grounds, but I still retain the impression which I then received, and have therefore thought it necessary to mention it here.
+
+[093-007] On the outbreak of the plague, I had addressed a strong letter to the press, holding the Municipality guilty of negligence after the location came into its possession and responsible for the outbreak of the plague itself. This letter secured me Mr. [[henry-polak|Henry Polak]], and was partly responsible for the friendship of the late Rev. Joseph Doke.
+
+[093-008] I have said in an earlier chapter that I used to have my meals at a vegetarian restaurant. Here I met Mr. [[albert-west|Albert West]]. We used to meet in this restaurant every evening and go out walking after dinner. Mr. West was a partner in a small printing concern. He read my letter in the press about the outbreak of the plague and, not finding me in the restaurant, felt uneasy.
+
+[093-009] My coworkers and I had reduced our diet since the outbreak, as I had long made it a rule to go on a light diet during the epidemics. In these days I had therefore given up my evening dinner. Lunch also I would finish before the other guests arrived. I knew the proprietor of the restaurant very well, and I had informed him that, as I was engaged in nursing the plague patients, I wanted to avoid the contact of friends as much as possible.
+
+[093-010] Not finding me in the restaurant for a day or two, Mr. West knocked at my door early one morning just as I was getting ready to go out for a walk. As I opened the door Mr. West said: “I did not find you in the restaurant and was really afraid lest something should have happened to you. So I decided to come and see you in the morning in order to make sure of finding you at home. Well, here I am at your disposal. I am ready to help in nursing the patients. You know that I have no one depending on me.”
+
+[093-011] I expressed my gratitude, and without taking even a second to think, replied: “I will not have you as a nurse. If there are no more cases, we shall be free in a day or two. There is one thing however.”
+
+[093-012] “Yes, what is it?”
+
+[093-013] “Could you take charge of *The Indian Opinion* press at [[durban|Durban]]? Mr. Madanjit is likely to be engaged here, and someone is needed at Durban. If you could go, I should feel quite relieved on that score.”
+
+[093-014] “You know that I have a press. Most probably I shall be able to go, but may I give my final reply in the evening? We shall talk it over during our evening walk.”
+
+[093-015] I was delighted. We had the talk. He agreed to go. Salary was no consideration to him, as money was not his motive. But a salary of £10 per month and a part of the profits, if any, was fixed up. The very next day Mr. West left for Durban by the evening mail, entrusting me with the recovery of his dues. From that day until the time I left the shores of South Africa, he remained a partner of my joys and sorrows.
+
+[093-016] Mr. West belonged to a peasant family in Louth (Lincolnshire). He had had an ordinary school education, but had learnt a good deal in the school of experience and by dint of self-help. I have always known him to be a pure, sober, [[truth|God]]-fearing, humane Englishman.
+
+[093-017] We shall know more of him and his family in the chapters to follow.

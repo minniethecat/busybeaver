@@ -1,0 +1,15 @@
+---
+description: "On friendship and companionship"
+id: Section-16
+label: "Section 16"
+tags: ["chapter"]
+type: chapter
+---
+
+[016-001]I wonder, indeed, how much of [[religion|Catholic]] doctrine will survive, and what part of it—if any—in whatever of Europe continues to reject the present advance of [[the-church|the Faith]]. That some great section of Europe will lose the last savour of Christian culture, and that soon, is probable; for already the half-educated are abandoning it all over the North. That the rest will return to full doctrine is probable. For already the thirst for it is apparent, and the stronger minds are so returning. But what will follow where it is wholly abandoned? We know what heavy weather property is making today, and, as for marriage, it has nearly gone by the board. The doctrine of justice is cloudily remembered, but mixed up in some muddled way with the idea of playing a lawyer’s game, and so sodden with sentimental frailties, and rough-edged with cruelties and sale and purchase, that one can make nothing of it. For instance, outside the Catholic world, it is an accepted idea that if a man accused of murder be under grave suspicion, but not definitely proved guilty, he must, indeed, be condemned to some horrible punishment, such as imprisonment for life, but not to the punishment for murder. And it is an approved idea that punishment should not be vindictive, but only deterrent, save where the vindictive side of it is the vengeance of the great against the weak. And it is an approved idea that the witness in a legal case may justly be confused and harried in order that the truth shall be concealed; and that capacity of so confusing and harrying a witness is the great test of a man’s moral aptitude to administer [[justice|Justice]]. And it is an approved idea that a lawyer may do his utmost to have an innocent man condemned, if only he be paid highly enough. But the breakdown of the idea of justice is only one department of the great change. There are a score of others to be surveyed; notably the novel doctrine that a man’s wealth is the test of his value in the State.
+
+[016-002]Well, what will come out of that welter, that corruption into which the decomposition of the Christian culture is now dissolving?
+
+[016-003]What I think will spring out of the filth is a new religion.
+
+[016-004]I think there will arise in whatever parts of Christendom remain, say, two hundred [[time|years]] hence, cut off from the advancing restoration of the Faith, some simplified, odd, strong code of new habit, comparable to the sudden code of habit which Arabia constructed on the ruins of Christian doctrine in the East. Whatever refuses to accept the Catholic restoration will sooner or later develop a new religion, because human society cannot live on air, and to men of our strong Western blood the substance of a doctrine and a ritual are especially needful. This conception of a new religion (and, therefore, an evil one) arising out of the rottenness of the grave of truth, seems today at once fantastic and unpleasant. Unpleasant I admit it is; fantastic I do not believe it to be.

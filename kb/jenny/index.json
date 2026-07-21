@@ -1,0 +1,5923 @@
+{
+  "book": "jenny",
+  "title": "Jenny",
+  "description": "Jenny — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 125,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Jenny\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "jenny:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "Colophon",
+      "description": "\"Production notes for this Standard Ebooks edition\"",
+      "aliases": [],
+      "tags": [
+        "[chapter",
+        "back-matter]"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "Imprint",
+      "description": "\"Publication and copyright information for Jenny\"",
+      "aliases": [],
+      "tags": [
+        "[chapter",
+        "front-matter]"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "jenny:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Imprint",
+          "label": "Imprint"
+        },
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "Part I"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "Part II"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "Part III"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "ch32"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "Uncopyright",
+      "description": "\"Public domain dedication and license information\"",
+      "aliases": [],
+      "tags": [
+        "[chapter",
+        "back-matter]"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "ahlin",
+      "type": "person",
+      "label": "Ahlin",
+      "description": "Ahlin is a Swedish sculptor in Sigrid Undset's novel Jenny (1911) — a member of the Scandinavian expatriate artist circle in Rome, known for his protective devotion to Francesca Cesca Jahrman and his emotional volatility",
+      "aliases": [],
+      "tags": [
+        "character",
+        "sculptor",
+        "Swedish",
+        "expatriate",
+        "Rome",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:ahlin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "all-concepts",
+      "type": "list",
+      "label": "All Concepts",
+      "description": "Complete index of all thematic concepts and motifs in Sigrid Undset's Jenny, sorted alphabetically",
+      "aliases": [
+        "Themes",
+        "Ideas",
+        "Concept index",
+        "Motifs"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "concept"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:all-concepts",
+      "relations": []
+    },
+    {
+      "id": "all-events",
+      "type": "list",
+      "label": "All Events",
+      "description": "Complete index of all key plot events in Sigrid Undset's Jenny, sorted alphabetically",
+      "aliases": [
+        "Plot events",
+        "Key events",
+        "Event index",
+        "Timeline"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "event"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:all-events",
+      "relations": []
+    },
+    {
+      "id": "all-persons",
+      "type": "list",
+      "label": "All Persons",
+      "description": "Complete index of all characters in Sigrid Undset's Jenny, sorted alphabetically",
+      "aliases": [
+        "Characters",
+        "People",
+        "Character index"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:all-persons",
+      "relations": []
+    },
+    {
+      "id": "all-places",
+      "type": "list",
+      "label": "All Places",
+      "description": "Complete index of all locations and settings in Sigrid Undset's Jenny, sorted alphabetically",
+      "aliases": [
+        "Locations",
+        "Places index",
+        "Settings"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "place"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:all-places",
+      "relations": []
+    },
+    {
+      "id": "artist-circle-in-rome",
+      "type": "list",
+      "label": "Artist Circle in Rome",
+      "description": "The Scandinavian artist community in Rome — centered around Jenny, Cesca, Ahlin, Lennart, and Hjerrild — and the social events that define expatriate artistic life",
+      "aliases": [
+        "Rome Artist Community",
+        "Scandinavian Artists in Rome",
+        "Via Vantaggio Circle"
+      ],
+      "tags": [
+        "list",
+        "community",
+        "artist",
+        "rome",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:artist-circle-in-rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "via-vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "via-condotti"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "campagna"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "corso"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "pincio"
+        },
+        {
+          "type": "related",
+          "target": "all-persons",
+          "label": "all-persons"
+        },
+        {
+          "type": "related",
+          "target": "all-events",
+          "label": "all-events"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "christmas-at-via-vantaggio",
+          "label": "christmas-at-via-vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "dinner-party-in-the-campagna",
+          "label": "dinner-party-in-the-campagna"
+        }
+      ]
+    },
+    {
+      "id": "artist-life",
+      "type": "concept",
+      "label": "Artist Life in Rome",
+      "description": "The expatriate artist community in Rome and its role as backdrop for Jenny's personal and creative struggles",
+      "aliases": [
+        "bohemian-life",
+        "expatriate-artists",
+        "artist-community"
+      ],
+      "tags": [
+        "theme",
+        "art",
+        "Rome",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:artist-life",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "Artistic Identity"
+        }
+      ]
+    },
+    {
+      "id": "artistic-identity",
+      "type": "concept",
+      "label": "Artistic Identity",
+      "description": "Jenny Winge's struggle to define herself as a woman and an artist, and the tension between creative ambition and personal fulfillment",
+      "aliases": [
+        "creative-identity",
+        "artist-selfhood"
+      ],
+      "tags": [
+        "theme",
+        "art",
+        "Jenny",
+        "Part-I",
+        "Part-II",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:artistic-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "aventine",
+      "type": "place",
+      "label": "Aventine",
+      "description": "The Aventine Hill in Rome is a site where Jenny Winge painted and later revisited with Helge Gram — a place of artistic creation and romantic memory in Undset's Jenny (1911)",
+      "aliases": [
+        "Aventine Hill"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "hill",
+        "painting",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:aventine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "berit-eck",
+      "type": "person",
+      "label": "Berit Eck",
+      "description": "A Norwegian singer, formerly engaged to Hans Hermann, who marries him while already pregnant — her marriage becomes a painful event for Francesca Jahrman.",
+      "aliases": [
+        "Miss Eck",
+        "Mrs. Hermann",
+        "Berit Hermann"
+      ],
+      "tags": [
+        "singer",
+        "Norwegian",
+        "offstage-character"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:berit-eck",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "borghild",
+          "label": "Borghild"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "type": "place",
+      "label": "Berlin",
+      "description": "German capital where Helge and Jenny cross paths and where Cesca briefly relocated from Rome",
+      "aliases": [],
+      "tags": [
+        "city",
+        "germany",
+        "europe"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:berlin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "copenhagen",
+          "label": "copenhagen"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "helge-gram"
+        }
+      ]
+    },
+    {
+      "id": "bodily-winge",
+      "type": "person",
+      "label": "Bodil Winge",
+      "description": "Bodil Winge is a character in Undsets Jenny — Norwegian sibling",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:bodily-winge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "bohemianism",
+      "type": "concept",
+      "label": "Bohemianism",
+      "description": "The rejection of bourgeois conventions through artist lifestyle — free relationships, unconventional living, and creative community in early 20th-century Rome",
+      "aliases": [
+        "bohemian-lifestyle",
+        "artist-bohemia"
+      ],
+      "tags": [
+        "theme",
+        "bohemian",
+        "lifestyle",
+        "Rome",
+        "artist-culture"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:bohemianism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "borghese-garden",
+      "type": "place",
+      "label": "Borghese Garden",
+      "description": "The Borghese Garden — the park surrounding the Villa Borghese in Rome — appears in the final chapter of Jenny (1911) as the setting for a scene of mourning two days after the funeral of Jenny's child",
+      "aliases": [
+        "Villa Borghese gardens",
+        "Borghese park"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "garden",
+        "Part-III",
+        "mourning"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:borghese-garden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "suicide"
+        },
+        {
+          "type": "related",
+          "target": "medici-garden",
+          "label": "Medici Garden"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "death-of-jennys-child",
+          "label": "Death of Jenny's Child"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "melancholy"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        }
+      ]
+    },
+    {
+      "id": "borghild",
+      "type": "person",
+      "label": "Borghild",
+      "description": "Borghild is a character in Sigrid Undset's novel Jenny (1911) — a friend of Cesca Jahrman based in Berlin, who appears through letters and reports as a link to the wider European social world beyond Rome",
+      "aliases": [],
+      "tags": [
+        "character",
+        "Berlin",
+        "friend",
+        "family",
+        "correspondent"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:borghild",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "campagna",
+      "type": "place",
+      "label": "Campagna",
+      "description": "The Campagna is the landscape surrounding Rome in Sigrid Undset's novel Jenny (1911) — a space of romantic idyll, emotional release, and contrast with the city's social constraints",
+      "aliases": [
+        "Roman Campagna",
+        "Roman countryside"
+      ],
+      "tags": [
+        "location",
+        "landscape",
+        "Rome-countryside",
+        "romance",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:campagna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "via-appia-nuova",
+          "label": "Via Appia Nuova"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting-of-jenny-and-helge",
+          "label": "first-meeting-of-jenny-and-helge"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "spring-symbolism",
+          "label": "spring-symbolism"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        }
+      ]
+    },
+    {
+      "id": "cesca-jahrman",
+      "type": "person",
+      "label": "Francesca Cesca Jahrman",
+      "description": "Cesca Jahrman is a Norwegian painter and Jennys closest female friend",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:cesca-jahrman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Part I, Chapter I\"",
+      "description": "\"Helge Gram arrives in Rome\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber"
+        },
+        {
+          "type": "related",
+          "target": "termini",
+          "label": "Termini"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Miss Winge"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "frascati",
+          "label": "Frascati"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Part I, Chapter II\"",
+      "description": "\"Jenny Winge and her circle of artist friends\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "frascati",
+          "label": "Frascati"
+        },
+        {
+          "type": "related",
+          "target": "douglas",
+          "label": "Douglas"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "piazza-di-spagna",
+          "label": "Piazza di Spagna"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Part I, Chapter III\"",
+      "description": "\"A studio visit reveals tensions beneath the surface\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        },
+        {
+          "type": "related",
+          "target": "palatine",
+          "label": "Palatine"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Part I, Chapter IV\"",
+      "description": "\"Helge and Jenny walk through the Roman Campagna\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "ripetta",
+          "label": "Ripetta"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "douglas",
+          "label": "Douglas"
+        },
+        {
+          "type": "related",
+          "target": "borghild",
+          "label": "Borghild"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "berit-eck",
+          "label": "Berit Eck"
+        },
+        {
+          "type": "related",
+          "target": "aventine",
+          "label": "Aventine"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Part I, Chapter V\"",
+      "description": "\"Easter in the Alban Hills with the artist group\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        },
+        {
+          "type": "related",
+          "target": "ponte-molle",
+          "label": "Ponte Molle"
+        },
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VI\"",
+      "description": "\"Jenny and Helge grow closer in Rome\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "ripetta",
+          "label": "Ripetta"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Miss Winge"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "ponte-molle",
+          "label": "Ponte Molle"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "berit-eck",
+          "label": "Miss Eck"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        },
+        {
+          "type": "related",
+          "target": "borghild",
+          "label": "Borghild"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hermann"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VII\"",
+      "description": "\"Helge returns home and Jenny writes letters\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        },
+        {
+          "type": "related",
+          "target": "via-appia-nuova",
+          "label": "Via Appia Nuova"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "miss-palm",
+          "label": "Miss Palm"
+        },
+        {
+          "type": "related",
+          "target": "ponte-molle",
+          "label": "Ponte Molle"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VIII\"",
+      "description": "\"Summer in Norway — Helge and Jenny together\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "nils-berner",
+          "label": "Mr. Berner"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Part I, Chapter IX\"",
+      "description": "\"Jenny and Helge at odds; Gram returns to Rome\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Miss Winge"
+        },
+        {
+          "type": "related",
+          "target": "holmenkollen",
+          "label": "Holmenkollen"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "Marriage"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Part I, Chapter X\"",
+      "description": "\"Gram receives distressing news from home\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "trajan-forum",
+          "label": "Trajan Forum"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Part I, Chapter XI\"",
+      "description": "\"Jenny makes her decision and leaves Rome\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Part II, Chapter I\"",
+      "description": "\"Jenny returns to Norway and family life\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "frederikshald",
+          "label": "Frederikshald"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "nils-berner",
+          "label": "Berner"
+        },
+        {
+          "type": "related",
+          "target": "wergelandsveien",
+          "label": "Wergelandsveien"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Part II, Chapter II\"",
+      "description": "\"Jenny encounters Gunnar Heggen in Kristiania\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Part II, Chapter III\"",
+      "description": "\"Jenny’s mother and the weight of the past\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Part II, Chapter IV\"",
+      "description": "\"A secret revealed — Jenny confides in Gunnar\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Part II, Chapter V\"",
+      "description": "\"The burden of Jenny’s hidden sorrow\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Part II, Chapter VI\"",
+      "description": "\"Gunnar’s steadfast affection\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "frederikshald",
+          "label": "Frederikshald"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Part II, Chapter VII\"",
+      "description": "\"The arrival of a child and a new chapter\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "holmestrand",
+          "label": "Holmestrand"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Part II, Chapter VIII\"",
+      "description": "\"Jenny’s artistic renewal and struggle\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Part II, Chapter IX\"",
+      "description": "\"Loss and despair overwhelm Jenny\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "douglas",
+          "label": "Norman Douglas"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Part II, Chapter X\"",
+      "description": "\"The fateful conclusion of Part II\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "aventine",
+          "label": "Aventine"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Part III, Chapter I\"",
+      "description": "\"Jenny in Rome once more\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "nils-berner",
+          "label": "Nils Berner"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Part III, Chapter II\"",
+      "description": "\"A new life and renewed purpose\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "borghild",
+          "label": "Borghild"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Part III, Chapter III\"",
+      "description": "\"Jenny’s painting career blossoms\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "borghild",
+          "label": "Borghild"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Part III, Chapter IV\"",
+      "description": "\"Cesca and the complexities of friendship\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Part III, Chapter V\"",
+      "description": "\"Gunnar returns — old feelings reawaken\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "nils-berner",
+          "label": "Berner"
+        },
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VI\"",
+      "description": "\"Tensions between love and independence\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VII\"",
+      "description": "\"Jenny’s inner conflict deepens\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VIII\"",
+      "description": "\"A turning point in Jenny’s relationship with Gunnar\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "loulou-schulin",
+          "label": "Loulou Schulin"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "Corso"
+        },
+        {
+          "type": "related",
+          "target": "piazza-di-spagna",
+          "label": "Piazza di Spagna"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"Part III, Chapter IX\"",
+      "description": "\"The demands of art and the demands of love\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "loulou-schulin",
+          "label": "Miss Schulin"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        }
+      ]
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"Part III, Chapter X\"",
+      "description": "\"Jenny’s fragile peace begins to fracture\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        }
+      ]
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"Part III, Chapter XI\"",
+      "description": "\"The final crisis\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "palatine",
+          "label": "Palatine"
+        },
+        {
+          "type": "related",
+          "target": "colosseum",
+          "label": "Colosseum"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "aventine",
+          "label": "Aventine"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        }
+      ]
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"Part III, Chapter XII\"",
+      "description": "\"Jenny’s last days and the cemetery on the hill\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jenny:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        }
+      ]
+    },
+    {
+      "id": "christiania",
+      "type": "place",
+      "label": "Christiania Os",
+      "description": "Christiania Os is a city in Norway, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:christiania",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "christmas-at-via-vantaggio",
+      "type": "event",
+      "label": "Christmas at Via Vantaggio",
+      "description": "The Scandinavian expatriate community's Christmas celebration at Jenny Winge and Cesca Jahrman's studio on Via Vantaggio in Rome — Sigrid Undset's Jenny (1911), Part I Chapter VI, the novel's only holiday scene, depicting the displaced cultural rituals of Norwegian artists abroad",
+      "aliases": [
+        "Christmas Eve in Rome",
+        "Scandinavian Christmas celebration",
+        "Norwegian Christmas party"
+      ],
+      "tags": [
+        "event",
+        "celebration",
+        "Christmas",
+        "Part-I",
+        "Rome",
+        "Via Vantaggio",
+        "Scandinavian"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:christmas-at-via-vantaggio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "lennart"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        }
+      ]
+    },
+    {
+      "id": "class-and-poverty",
+      "type": "concept",
+      "label": "Class and Poverty",
+      "description": "Economic reality of artists — financial precarity and class tensions in Jenny",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:class-and-poverty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "colosseum",
+      "type": "place",
+      "label": "Colosseum",
+      "description": "The Colosseum — ancient Rome's great amphitheater — appears in the final part of Jenny (1911) as part of the ruined cityscape Jenny Winge moves through after her return to Rome",
+      "aliases": [
+        "Colosseo",
+        "Flavian Amphitheatre"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "landmark",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:colosseum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "palatine",
+          "label": "Palatine"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "trajan-forum",
+          "label": "Trajan Forum"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "melancholy"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "Jenny's Suicide"
+        }
+      ]
+    },
+    {
+      "id": "copenhagen",
+      "type": "place",
+      "label": "Copenhagen",
+      "description": "Danish capital and Helge Gram's city of origin, where he studied and where Jenny confronts the Gram family",
+      "aliases": [],
+      "tags": [
+        "city",
+        "denmark",
+        "scandinavia"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:copenhagen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "helge-gram"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "gert-gram"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "mrs-gram"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "paris"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        }
+      ]
+    },
+    {
+      "id": "corso",
+      "type": "place",
+      "label": "Via del Corso",
+      "description": "The Via del Corso is the central thoroughfare of Rome — in Jenny (1911), it is the street where the expatriate artists walk, meet, and experience the city's social and emotional currents",
+      "aliases": [
+        "Corso",
+        "the Corso"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "street",
+        "Part-I",
+        "Part-III",
+        "expatriate-life"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:corso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "piazza-di-spagna",
+          "label": "Spanish Steps"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "Jenny's death"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "ripetta",
+          "label": "Ripetta"
+        }
+      ]
+    },
+    {
+      "id": "creative-community",
+      "type": "concept",
+      "label": "Creative Community",
+      "description": "The artist circle as surrogate family — mutual support among expatriate creatives",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:creative-community",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "death-of-jennys-child",
+      "type": "event",
+      "label": "Death of Jennys Child",
+      "description": "Death of Jennys Child in Undsets Jenny, Part III",
+      "aliases": [],
+      "tags": [
+        "event",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:death-of-jennys-child",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "dinner-party-in-the-campagna",
+      "type": "event",
+      "label": "Dinner Party in the Campagna",
+      "description": "A dinner party held on Jenny Winge's twenty-eighth birthday at an osteria on the Via Appia Nuova in the Roman Campagna, marking a turning point in her relationship with Helge Gram.",
+      "aliases": [
+        "jenny-birthday-dinner",
+        "campagna-dinner-party",
+        "osteria-via-appia-nuova"
+      ],
+      "tags": [
+        "social-gathering",
+        "romance",
+        "artist-community",
+        "Part I"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:dinner-party-in-the-campagna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "francesca-cesca-jahrman"
+        },
+        {
+          "type": "related",
+          "target": "via-appia-nuova",
+          "label": "Via Appia Nuova"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "miss-palm",
+          "label": "Miss Palm"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "the Corso"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting-of-jenny-and-helge",
+          "label": "first-meeting-of-jenny-and-helge"
+        },
+        {
+          "type": "related",
+          "target": "jennys-engagement-to-helge",
+          "label": "jennys-engagement-to-helge"
+        }
+      ]
+    },
+    {
+      "id": "douglas",
+      "type": "person",
+      "label": "Norman Douglas",
+      "description": "Norman Douglas is a character in Sigrid Undset's novel Jenny (1911) — a member of the Scandinavian expatriate circle in Rome who has a brief entanglement with Francesca Cesca Jahrman",
+      "aliases": [
+        "Douglas"
+      ],
+      "tags": [
+        "character",
+        "Rome",
+        "expatriate",
+        "artist-circle"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:douglas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "hjerrild",
+          "label": "Hjerrild"
+        }
+      ]
+    },
+    {
+      "id": "expatriate-life",
+      "type": "concept",
+      "label": "Expatriate Life",
+      "description": "The experience of Norwegian artists living in Rome — the freedom, rootlessness, and cultural dislocation of expatriate existence in early 20th-century Europe",
+      "aliases": [
+        "exile",
+        "living-abroad",
+        "Scandinavian-diaspora"
+      ],
+      "tags": [
+        "theme",
+        "expatriate",
+        "Rome",
+        "Norway",
+        "identity"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:expatriate-life",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        }
+      ]
+    },
+    {
+      "id": "female-artist",
+      "type": "concept",
+      "label": "Female Artist",
+      "description": "The specific challenges and contradictions faced by women pursuing art in early 20th-century Europe",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:female-artist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "first-meeting-of-jenny-and-helge",
+      "type": "event",
+      "label": "First Meeting of Jenny and Helge",
+      "description": "The initiating event of Sigrid Undset's Jenny (1911) — Jenny Winge and Helge Gram's first encounter in Rome, which sets in motion the central relationship that will define the novel's trajectory across all three parts",
+      "aliases": [
+        "Jenny meets Helge",
+        "introduction of Helge Gram"
+      ],
+      "tags": [
+        "event",
+        "meeting",
+        "Part-I",
+        "Jenny",
+        "Helge",
+        "romance",
+        "featured"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:first-meeting-of-jenny-and-helge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "jennys-suicide"
+        }
+      ]
+    },
+    {
+      "id": "frascati",
+      "type": "place",
+      "label": "Frascati",
+      "description": "Frascati is a hillside town near Rome known for its wine — in Jenny (1911), it appears as a proposed and debated dinner destination during the expatriate artists' social evenings",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Rome-countryside",
+        "dining",
+        "Part-I"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:frascati",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "ponte-molle",
+          "label": "Ponte Molle"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        },
+        {
+          "type": "related",
+          "target": "creative-community",
+          "label": "creative-community"
+        }
+      ]
+    },
+    {
+      "id": "frederikshald",
+      "type": "place",
+      "label": "Frederikshald",
+      "description": "Frederikshald (Halden) is a Norwegian border town near Sweden — in Jenny (1911), it is the hometown of Cesca Jahrman's respectable family and a site of provincial moral judgment",
+      "aliases": [
+        "Fredrikshald",
+        "Halden"
+      ],
+      "tags": [
+        "location",
+        "Norway",
+        "border-town",
+        "Part-II",
+        "cesca"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:frederikshald",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca \"Cesca\" Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "class-and-poverty",
+          "label": "class-and-poverty"
+        },
+        {
+          "type": "related",
+          "target": "female-artist",
+          "label": "female-artist"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "gert-gram",
+      "type": "person",
+      "label": "Gert Gram",
+      "description": "Gert Gram is a character in Undsets Jenny — Danish factory-owner",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:gert-gram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "gunnar-heggen",
+      "type": "person",
+      "label": "Gunnar Heggen",
+      "description": "Gunnar Heggen is a Norwegian writer and Jennys closest intellectual companion",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:gunnar-heggen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "gunnar-proposes-to-jenny",
+      "type": "event",
+      "label": "Gunnar Proposes to Jenny",
+      "description": "Gunnar Heggen offers to marry Jenny Winge and protect her and her unborn child in Part II of Sigrid Undset's Jenny (1911) — the alternative future that Jenny cannot accept, representing the novel's central conflict between love, independence, and the social necessity of marriage",
+      "aliases": [
+        "Gunnar Heggen proposes",
+        "Gunnar offers marriage",
+        "Gunnar's proposal to Jenny"
+      ],
+      "tags": [
+        "event",
+        "proposal",
+        "turning-point",
+        "Part-II",
+        "Norway",
+        "Jenny",
+        "Gunnar"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:gunnar-proposes-to-jenny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-abandons-jenny",
+          "label": "Helge's abandonment"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "death-of-jennys-child",
+          "label": "child's death"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "her eventual suicide"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love and independence"
+        }
+      ]
+    },
+    {
+      "id": "hans",
+      "type": "person",
+      "label": "Hans Hermann",
+      "description": "Hans Hermann is a character in Sigrid Undset's novel Jenny (1911) — Cesca Jahrman's former lover who appears in backstory as a betraying figure whose legacy haunts Cesca's subsequent relationships",
+      "aliases": [
+        "Hans",
+        "Hermann"
+      ],
+      "tags": [
+        "character",
+        "Berlin",
+        "Cesca",
+        "backstory"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:hans",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "helge-abandons-jenny",
+      "type": "event",
+      "label": "Helge Abandons Jenny",
+      "description": "Helge Gram writes to break off his engagement to Jenny Winge while she is in Norway in Part II of Sigrid Undset's Jenny (1911) — the pivotal crisis that leaves Jenny pregnant and alone, transforming the novel's trajectory from romantic drama to tragedy",
+      "aliases": [
+        "Helge breaks engagement",
+        "Helge leaves Jenny",
+        "broken engagement",
+        "Jenny abandoned"
+      ],
+      "tags": [
+        "event",
+        "crisis",
+        "abandonment",
+        "Part-II",
+        "Norway",
+        "Jenny",
+        "Helge",
+        "engagement"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:helge-abandons-jenny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "jennys-engagement-to-helge",
+          "label": "engagement in Rome"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "berit-eck",
+          "label": "Berit Eck"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "death-of-jennys-child",
+          "label": "death of Jenny's child"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love and independence"
+        }
+      ]
+    },
+    {
+      "id": "helge-gram",
+      "type": "person",
+      "label": "Helge Gram",
+      "description": "Helge Gram is a Danish-Norwegian archaeologist and Jennys lover",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:helge-gram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "hjerrild",
+      "type": "person",
+      "label": "Hjerrild",
+      "description": "Hjerrild is a character in Sigrid Undset's novel Jenny (1911) — a composer in the Scandinavian expatriate artist circle in Rome, known for his wit, socialist sympathies, and entanglement with Francesca Cesca Jahrman",
+      "aliases": [],
+      "tags": [
+        "character",
+        "composer",
+        "artist",
+        "Rome",
+        "expatriate"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:hjerrild",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans Hermann"
+        },
+        {
+          "type": "related",
+          "target": "douglas",
+          "label": "Norman Douglas"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "holmenkollen",
+      "type": "place",
+      "label": "Holmenkollen",
+      "description": "Holmenkollen is a hillside area north of Christiania (Oslo) — in Jenny (1911), it is remembered by Jenny Winge from Rome as a place of beech groves and wild violets, a piece of Norwegian nature held in memory against the Roman landscape",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Norway",
+        "Christiania",
+        "forest",
+        "nature",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:holmenkollen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "colosseum",
+          "label": "Colosseum"
+        },
+        {
+          "type": "related",
+          "target": "palatine",
+          "label": "Palatine"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        }
+      ]
+    },
+    {
+      "id": "holmestrand",
+      "type": "place",
+      "label": "Holmestrand",
+      "description": "Holmestrand is a coastal town in Norway where Jenny Winge plans a restorative trip — and which becomes entangled in the emotional tensions between Jenny and Helge Gram in Part II of Undset's novel",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Norway",
+        "coastal-town",
+        "Part-II"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:holmestrand",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "moss",
+          "label": "Moss"
+        },
+        {
+          "type": "related",
+          "target": "frederikshald",
+          "label": "Frederikshald"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "marriage"
+        }
+      ]
+    },
+    {
+      "id": "ingeborg-winge",
+      "type": "person",
+      "label": "Ingeborg Winge",
+      "description": "Ingeborg Winge is a character in Undsets Jenny — Norwegian sibling",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:ingeborg-winge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "Italy",
+      "description": "Mediterranean country, primary setting for Parts I and III of Sigrid Undset's Jenny",
+      "aliases": [],
+      "tags": [
+        "country",
+        "mediterranean",
+        "part-i",
+        "part-iii"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:italy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "campagna"
+        },
+        {
+          "type": "related",
+          "target": "norway",
+          "label": "norway"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "jenny-meets-helges-parents",
+      "type": "event",
+      "label": "Jenny Meets Helge's Parents",
+      "description": "Jenny Winge's introduction to Helge Gram's parents in Christiania — a strained meeting with Mrs. Gram followed by Gert Gram's unexpected visit to her studio, revealing the class and cultural tensions that foreshadow the relationship's collapse.",
+      "aliases": [
+        "jenny-visits-the-grams",
+        "meeting-the-grams",
+        "gert-gram-visits-jenny"
+      ],
+      "tags": [
+        "family-dynamics",
+        "class-tension",
+        "Part II",
+        "norway"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:jenny-meets-helges-parents",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "jennys-engagement-to-helge",
+          "label": "their engagement"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gram",
+          "label": "Mrs. Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "helge-abandons-jenny",
+          "label": "Helge's eventual abandonment of Jenny"
+        },
+        {
+          "type": "related",
+          "target": "jennys-return-to-norway",
+          "label": "jennys-return-to-norway"
+        }
+      ]
+    },
+    {
+      "id": "jenny-winge",
+      "type": "person",
+      "label": "Jenny Winge",
+      "description": "Jenny Winge is the protagonist of Sigrid Undset's novel Jenny (1911) — a Norwegian painter struggling to reconcile her artistic ambitions with love, motherhood, and societal expectations",
+      "aliases": [
+        "Jenny",
+        "Miss Winge"
+      ],
+      "tags": [
+        "character",
+        "protagonist",
+        "painter",
+        "Norwegian"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:jenny-winge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "Corso"
+        },
+        {
+          "type": "related",
+          "target": "ripetta",
+          "label": "Ripetta"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "female-artist",
+          "label": "female-artist"
+        }
+      ]
+    },
+    {
+      "id": "jennys-engagement-to-helge",
+      "type": "event",
+      "label": "Jenny and Helge's Engagement",
+      "description": "Jenny Winge and Helge Gram's engagement in Part I of Sigrid Undset's Jenny (1911) — the pivotal commitment that binds the novel's central couple at the height of their Roman spring, setting in motion the expectations, obligations, and eventual dissolution that structure the tragedy to come",
+      "aliases": [
+        "Jenny's engagement",
+        "Helge proposes to Jenny",
+        "engagement in Rome"
+      ],
+      "tags": [
+        "event",
+        "engagement",
+        "turning-point",
+        "Part-I",
+        "Rome",
+        "Jenny",
+        "Helge"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:jennys-engagement-to-helge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "trajan-forum",
+          "label": "Trajan Forum"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "helge-abandons-jenny",
+          "label": "Helge's abandonment"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "jennys-relationships-timeline",
+      "type": "list",
+      "label": "Jenny's Relationships Timeline",
+      "description": "Chronological overview of Jenny Winge's central relationships — Helge Gram, Gunnar Heggen, and her family — across the three parts of the novel",
+      "aliases": [
+        "Jenny's Love Life",
+        "Relationship Chronology",
+        "Jenny and Helge"
+      ],
+      "tags": [
+        "list",
+        "timeline",
+        "relationships",
+        "jenny-winge",
+        "Part-I",
+        "Part-II",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:jennys-relationships-timeline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "jenny-winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "helge-gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "gunnar-heggen"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "cesca-jahrman"
+        },
+        {
+          "type": "related",
+          "target": "all-events",
+          "label": "all-events"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        }
+      ]
+    },
+    {
+      "id": "jennys-return-to-norway",
+      "type": "event",
+      "label": "Jennys Return to Norway",
+      "description": "Jennys Return to Norway in Undsets Jenny, Part II",
+      "aliases": [],
+      "tags": [
+        "event",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:jennys-return-to-norway",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "jennys-suicide",
+      "type": "event",
+      "label": "Jennys Suicide",
+      "description": "The culminating event of Sigrid Undset's Jenny (1911) — Jenny Winge's suicide in Part III following the death of her child and the collapse of her artistic and personal identity",
+      "aliases": [
+        "death of Jenny Winge",
+        "Jenny's death"
+      ],
+      "tags": [
+        "event",
+        "tragedy",
+        "suicide",
+        "Part-III",
+        "climax",
+        "featured"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:jennys-suicide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "death-of-jennys-child",
+          "label": "death-of-jennys-child"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        },
+        {
+          "type": "related",
+          "target": "suicide-and-despair",
+          "label": "suicide-and-despair"
+        }
+      ]
+    },
+    {
+      "id": "lennart",
+      "type": "person",
+      "label": "Lennart",
+      "description": "Lennart is a Swedish painter in Sigrid Undset's novel Jenny (1911) — a member of the Scandinavian artist circle in Rome who appears in Parts I and III as a quiet, devoted presence",
+      "aliases": [],
+      "tags": [
+        "character",
+        "painter",
+        "Swedish",
+        "expatriate",
+        "Rome",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:lennart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "hans",
+          "label": "Hans"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "loulou-schulin",
+      "type": "person",
+      "label": "Loulou Schulin",
+      "description": "A young Danish artist in the Rome expatriate circle, briefly married to a Norwegian author, who appears in Part III as a companion in Jenny's late-night escapades.",
+      "aliases": [
+        "Miss Schulin"
+      ],
+      "tags": [
+        "artist",
+        "Danish",
+        "expatriate",
+        "minor-character"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:loulou-schulin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        }
+      ]
+    },
+    {
+      "id": "love-and-independence",
+      "type": "concept",
+      "label": "Love and Independence",
+      "description": "The central thematic conflict in Sigrid Undset's Jenny — the tension between romantic fulfillment and personal autonomy, which drives Jenny Winge's tragedy and shapes every major character's choices",
+      "aliases": [
+        "romantic-love",
+        "personal-autonomy",
+        "love-versus-freedom"
+      ],
+      "tags": [
+        "theme",
+        "love",
+        "independence",
+        "Jenny",
+        "Helge",
+        "Gunnar",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:love-and-independence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "jennys-suicide",
+          "label": "jennys-suicide"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "type": "concept",
+      "label": "Marriage",
+      "description": "Critique of conventional marriage and alternative relationship models in the novel",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "medici-garden",
+      "type": "place",
+      "label": "Medici Garden",
+      "description": "The Medici Garden (gardens of the Villa Medici) in Rome offers a panoramic view of the city and its pines — in Jenny (1911), it appears as a site of aesthetic contemplation and a remembered landmark",
+      "aliases": [
+        "Villa Medici gardens"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "garden",
+        "landscape",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:medici-garden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "piazza-di-spagna",
+          "label": "Spanish Steps"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "borghese-garden",
+          "label": "Borghese Garden"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "melancholy",
+      "type": "concept",
+      "label": "Melancholy",
+      "description": "Scandinavian melancholy as pervasive atmosphere in the novel — the Nordic temperament in southern light",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:melancholy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "miss-palm",
+      "type": "person",
+      "label": "Miss Palm",
+      "description": "Miss Palm is a minor character in Sigrid Undset's novel Jenny (1911) — a Danish nurse in the Scandinavian expatriate circle in Rome who appears at the Campagna dinner party",
+      "aliases": [],
+      "tags": [
+        "character",
+        "nurse",
+        "Danish",
+        "Rome",
+        "expatriate"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:miss-palm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "via-appia-nuova",
+          "label": "Via Appia Nuova"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        }
+      ]
+    },
+    {
+      "id": "monte-mario",
+      "type": "place",
+      "label": "Monte Mario",
+      "description": "Monte Mario is a landmark in Rome, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:monte-mario",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "moss",
+      "type": "place",
+      "label": "Moss",
+      "description": "Moss is a Norwegian town on the Oslofjord — in Jenny (1911), it appears as a train stop, a shopping destination, and a point where the fjord landscape opens into view",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Norway",
+        "coastal-town",
+        "fjord",
+        "Part-II"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:moss",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "holmestrand",
+          "label": "Holmestrand"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "frederikshald",
+          "label": "Frederikshald"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "most-referenced",
+      "type": "list",
+      "label": "Most Referenced",
+      "description": "Statistical ranking of the most frequently referenced pages across all entity types in Jenny",
+      "aliases": [
+        "Top cited",
+        "Popular pages",
+        "Reference ranking"
+      ],
+      "tags": [
+        "list",
+        "ranking",
+        "statistics"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:most-referenced",
+      "relations": []
+    },
+    {
+      "id": "motherhood",
+      "type": "concept",
+      "label": "Motherhood",
+      "description": "The novel's treatment of motherhood — explored through Jenny's experience of pregnancy, maternal love, loss, and the structural impossibility of sustaining both motherhood and artistic identity under early 20th-century conditions",
+      "aliases": [
+        "maternity",
+        "maternal-sacrifice",
+        "motherhood-and-art"
+      ],
+      "tags": [
+        "theme",
+        "motherhood",
+        "Jenny",
+        "Part-II",
+        "Part-III",
+        "tragedy",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:motherhood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "death-of-jennys-child",
+          "label": "death-of-jennys-child"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "suicide-and-despair",
+          "label": "suicide-and-despair"
+        }
+      ]
+    },
+    {
+      "id": "mrs-berner",
+      "type": "person",
+      "label": "Mrs. Berner",
+      "description": "Mrs. Berner is a character in Undsets Jenny — Norwegian homemaker",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:mrs-berner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "mrs-gram",
+      "type": "person",
+      "label": "Mrs. Gram",
+      "description": "Mrs. Gram is a character in Undsets Jenny — Danish homemaker",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:mrs-gram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "nature-imagery",
+      "type": "concept",
+      "label": "Nature and Landscape",
+      "description": "The role of natural landscape — Roman light, Norwegian mountains, and the Campagna — as emotional and symbolic backdrop in Jenny",
+      "aliases": [
+        "Natural Imagery",
+        "Landscape Motif",
+        "Nature Symbolism"
+      ],
+      "tags": [
+        "theme",
+        "nature",
+        "landscape",
+        "symbolism",
+        "Part-I",
+        "Part-II",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:nature-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "campagna"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "monte-mario"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "pincio"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "christiania"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "nils-berner",
+      "type": "person",
+      "label": "Nils Berner",
+      "description": "Jenny Winge's stepfather, a kind and outdoors-loving man who became the formative influence of her adolescence before his death in a mountaineering accident.",
+      "aliases": [
+        "Mr. Berner",
+        "Berner"
+      ],
+      "tags": [
+        "stepfather",
+        "family",
+        "Norwegian"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:nils-berner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny Winge"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "Mrs. Berner"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "nils-kalfatrus",
+      "type": "person",
+      "label": "Nils Kalfatrus",
+      "description": "Nils Kalfatrus is a character in Undsets Jenny — Norwegian sibling",
+      "aliases": [],
+      "tags": [
+        "character",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:nils-kalfatrus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "nordmarken",
+      "type": "place",
+      "label": "Nordmarken",
+      "description": "Nordmarken is the forested wilderness north of Christiania (Oslo) — in Jenny (1911), it serves as a space of childhood memory, family bonds, and the contrast between Norwegian nature and Roman urbanity",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Norway",
+        "nature",
+        "forest",
+        "Part-II",
+        "family"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:nordmarken",
+      "relations": [
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge"
+        },
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber"
+        },
+        {
+          "type": "related",
+          "target": "holmestrand",
+          "label": "Holmestrand"
+        },
+        {
+          "type": "related",
+          "target": "class-and-poverty",
+          "label": "class-and-poverty"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        }
+      ]
+    },
+    {
+      "id": "norway",
+      "type": "place",
+      "label": "Norway",
+      "description": "Scandinavian homeland of Jenny Winge and setting of Part II of the novel",
+      "aliases": [],
+      "tags": [
+        "country",
+        "scandinavia",
+        "part-ii"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:norway",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "christiania"
+        },
+        {
+          "type": "related",
+          "target": "wergelandsveien",
+          "label": "wergelandsveien"
+        },
+        {
+          "type": "related",
+          "target": "jennys-return-to-norway",
+          "label": "jennys-return-to-norway"
+        }
+      ]
+    },
+    {
+      "id": "norwegian-identity",
+      "type": "concept",
+      "label": "Norwegian Identity",
+      "description": "Norwegian national identity as experienced by expatriate artists in Rome",
+      "aliases": [],
+      "tags": [
+        "theme",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:norwegian-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "palatine",
+      "type": "place",
+      "label": "Palatine Hill",
+      "description": "The Palatine Hill is one of the seven hills of Rome — in Jenny (1911), it appears as part of the Roman ruin-scape that frames the expatriate artists' experience of the eternal city",
+      "aliases": [
+        "Palatine"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "ruins",
+        "Part-I",
+        "Part-III",
+        "hill"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:palatine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "colosseum",
+          "label": "Colosseum"
+        },
+        {
+          "type": "related",
+          "target": "trajan-forum",
+          "label": "Forum"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "European art capital, mentioned throughout Jenny as a city of cosmopolitanism and artistic aspiration",
+      "aliases": [],
+      "tags": [
+        "europe",
+        "city",
+        "art-center"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "copenhagen",
+          "label": "copenhagen"
+        }
+      ]
+    },
+    {
+      "id": "part-ii-norway-interlude",
+      "type": "list",
+      "label": "Part II — Norway Interlude",
+      "description": "Aggregated overview of Part II of Jenny — the Norwegian chapters covering Jenny's return home, family life, and the aftermath of Helge's abandonment",
+      "aliases": [
+        "Norway Section",
+        "Part Two",
+        "Norwegian Chapters"
+      ],
+      "tags": [
+        "list",
+        "part-II",
+        "norway",
+        "family",
+        "christiania"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:part-ii-norway-interlude",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "jenny-winge"
+        },
+        {
+          "type": "related",
+          "target": "mrs-berner",
+          "label": "mrs-berner"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "helge-gram"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "christiania"
+        },
+        {
+          "type": "related",
+          "target": "all-persons",
+          "label": "all-persons"
+        },
+        {
+          "type": "related",
+          "target": "all-events",
+          "label": "all-events"
+        },
+        {
+          "type": "related",
+          "target": "all-places",
+          "label": "all-places"
+        }
+      ]
+    },
+    {
+      "id": "piazza-di-spagna",
+      "type": "place",
+      "label": "Piazza di Spagna",
+      "description": "The Piazza di Spagna — the Spanish Steps and their surrounding piazza in Rome — appears in Jenny (1911) as a landmark near the artists' quarter, anchoring the expatriate community's Roman geography",
+      "aliases": [
+        "Spanish Steps",
+        "Piazza Spagna"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "piazza",
+        "artists-quarter",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:piazza-di-spagna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "colosseum",
+          "label": "Colosseum"
+        },
+        {
+          "type": "related",
+          "target": "pincio",
+          "label": "Pincio"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "pincio",
+      "type": "place",
+      "label": "Pincio",
+      "description": "Pincio is a landmark in Rome, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:pincio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "ponte-molle",
+      "type": "place",
+      "label": "Ponte Molle",
+      "description": "Ponte Molle (Ponte Milvio) is a bridge over the Tiber River north of Rome's center — in Jenny (1911), a site of a pivotal walk and emotional conversation between Jenny and Helge",
+      "aliases": [
+        "Ponte Milvio"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "bridge",
+        "Tiber",
+        "Part-I"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:ponte-molle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber River"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "Corso"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "frascati",
+          "label": "Frascati"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "religious-imagery",
+      "type": "concept",
+      "label": "Religious Imagery",
+      "description": "The role of Catholic church imagery and religious symbolism in Jenny's Rome and its contrast with secular Norwegian life",
+      "aliases": [
+        "Church Symbolism",
+        "Religion",
+        "Catholic Imagery"
+      ],
+      "tags": [
+        "theme",
+        "religion",
+        "symbolism",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:religious-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "san-pietro"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "christiania"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "ripetta",
+      "type": "place",
+      "label": "Ripetta",
+      "description": "The Ripetta is a street and area near the Tiber in Rome where Helge Gram took lodgings — in Jenny (1911), it represents his attempt to establish a Roman life alongside the artists' community",
+      "aliases": [
+        "Via di Ripetta"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "street",
+        "lodging",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:ripetta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tiber",
+          "label": "Tiber River"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "type": "place",
+      "label": "Rome",
+      "description": "Rome is the primary setting of Sigrid Undset's novel Jenny (1911) — the eternal city where Jenny Winge and the Scandinavian expatriate artist community live, work, and love across Parts I and III",
+      "aliases": [],
+      "tags": [
+        "location",
+        "city",
+        "Italy",
+        "setting",
+        "expatriate",
+        "featured"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "monte-mario",
+          "label": "Monte Mario"
+        },
+        {
+          "type": "related",
+          "target": "san-pietro",
+          "label": "San Pietro"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Roman countryside"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "lennart",
+          "label": "Lennart"
+        },
+        {
+          "type": "related",
+          "target": "gert-gram",
+          "label": "Gert Gram"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Francesca Cesca Jahrman"
+        }
+      ]
+    },
+    {
+      "id": "san-pietro",
+      "type": "place",
+      "label": "San Pietro",
+      "description": "San Pietro is a landmark in Vatican-City, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:san-pietro",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "spring-symbolism",
+      "type": "concept",
+      "label": "Spring Symbolism",
+      "description": "The recurring motif of spring and seasonal rebirth in Jenny — hope, renewal, and the tension between natural cycles and human tragedy",
+      "aliases": [
+        "seasonal-imagery",
+        "rebirth-motif"
+      ],
+      "tags": [
+        "theme",
+        "symbolism",
+        "spring",
+        "nature",
+        "motif"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:spring-symbolism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "suicide-and-despair",
+      "type": "concept",
+      "label": "Suicide and Despair",
+      "description": "The novel's culminating theme — Jenny's psychological unraveling after her child's death and her final act of suicide as the ultimate expression of despair",
+      "aliases": [
+        "tragic-ending",
+        "psychological-collapse"
+      ],
+      "tags": [
+        "theme",
+        "suicide",
+        "despair",
+        "tragedy",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:suicide-and-despair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "motherhood",
+          "label": "motherhood"
+        },
+        {
+          "type": "related",
+          "target": "artistic-identity",
+          "label": "artistic-identity"
+        }
+      ]
+    },
+    {
+      "id": "termini",
+      "type": "place",
+      "label": "Termini",
+      "description": "Stazione Termini is Rome's central railway station — in Jenny (1911), it appears in the novel's opening chapter as the destination Helge Gram searches for after losing his way in the city on his first night in Rome",
+      "aliases": [
+        "Stazione Termini",
+        "Roma Termini"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "station",
+        "arrival",
+        "Part-I"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:termini",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting-of-jenny-and-helge",
+          "label": "first-meeting-of-jenny-and-helge"
+        },
+        {
+          "type": "related",
+          "target": "expatriate-life",
+          "label": "expatriate-life"
+        }
+      ]
+    },
+    {
+      "id": "tiber",
+      "type": "place",
+      "label": "Tiber",
+      "description": "The Tiber River flows through Rome and serves as a recurring scenic and symbolic element in Sigrid Undset's Jenny (1911) — its waters mirroring the emotional currents of the characters' lives",
+      "aliases": [
+        "Tiber River",
+        "Tevere"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "river",
+        "landscape",
+        "Part-I",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:tiber",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "ponte-molle",
+          "label": "Ponte Molle"
+        },
+        {
+          "type": "related",
+          "target": "spring-symbolism",
+          "label": "spring-symbolism"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "melancholy"
+        }
+      ]
+    },
+    {
+      "id": "trajan-forum",
+      "type": "place",
+      "label": "Trajan Forum",
+      "description": "Trajan's Forum — the ancient Roman imperial forum — appears in Jenny (1911) as the site where Helge Gram first draws Jenny Winge close, a moment of romantic initiation set among ruins",
+      "aliases": [
+        "Forum of Trajan"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "ruins",
+        "Part-I",
+        "romance"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:trajan-forum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "colosseum",
+          "label": "Colosseum"
+        },
+        {
+          "type": "related",
+          "target": "aventine",
+          "label": "Aventine"
+        },
+        {
+          "type": "related",
+          "target": "love-and-independence",
+          "label": "love-and-independence"
+        }
+      ]
+    },
+    {
+      "id": "via-appia-nuova",
+      "type": "place",
+      "label": "Via Appia Nuova",
+      "description": "The Via Appia Nuova is a Roman road leading out toward the Campagna — in Jenny (1911), it is the site of Jenny Winge's birthday dinner, a pivotal gathering of the Scandinavian expatriate circle",
+      "aliases": [
+        "Via Appia",
+        "Appia Nuova"
+      ],
+      "tags": [
+        "location",
+        "Rome",
+        "road",
+        "Part-I",
+        "birthday",
+        "dinner"
+      ],
+      "quality": "featured",
+      "source_ref": "jenny:via-appia-nuova",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "campagna",
+          "label": "Campagna"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "ahlin",
+          "label": "Ahlin"
+        },
+        {
+          "type": "related",
+          "target": "gunnar-heggen",
+          "label": "Gunnar Heggen"
+        },
+        {
+          "type": "related",
+          "target": "helge-gram",
+          "label": "Helge Gram"
+        },
+        {
+          "type": "related",
+          "target": "cesca-jahrman",
+          "label": "Cesca Jahrman"
+        },
+        {
+          "type": "related",
+          "target": "miss-palm",
+          "label": "Miss Palm"
+        }
+      ]
+    },
+    {
+      "id": "via-condotti",
+      "type": "place",
+      "label": "Via Condotti",
+      "description": "Via Condotti is a street in Rome, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:via-condotti",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "via-vantaggio",
+      "type": "place",
+      "label": "Via Vantaggio",
+      "description": "Via Vantaggio is a street in Rome, featured in Undsets Jenny",
+      "aliases": [],
+      "tags": [
+        "location",
+        "pilot"
+      ],
+      "quality": "basic",
+      "source_ref": "jenny:via-vantaggio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "artist-life",
+          "label": "artist-life"
+        }
+      ]
+    },
+    {
+      "id": "wergelandsveien",
+      "type": "place",
+      "label": "Wergelandsveien",
+      "description": "Wergelandsveien is a street in Christiania (Oslo) near the Royal Palace — in Jenny (1911), it is the neighborhood of Jenny Winge's family home and the setting for her melancholy return to Norway in Part II",
+      "aliases": [],
+      "tags": [
+        "location",
+        "Christiania",
+        "Oslo",
+        "street",
+        "Part-II",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "jenny:wergelandsveien",
+      "relations": [
+        {
+          "type": "related",
+          "target": "christiania",
+          "label": "Christiania"
+        },
+        {
+          "type": "related",
+          "target": "jenny-winge",
+          "label": "Jenny"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "corso",
+          "label": "Corso"
+        },
+        {
+          "type": "related",
+          "target": "via-condotti",
+          "label": "Via Condotti"
+        },
+        {
+          "type": "related",
+          "target": "via-vantaggio",
+          "label": "Via Vantaggio"
+        },
+        {
+          "type": "related",
+          "target": "holmestrand",
+          "label": "Holmestrand"
+        },
+        {
+          "type": "related",
+          "target": "nordmarken",
+          "label": "Nordmarken"
+        },
+        {
+          "type": "related",
+          "target": "class-and-poverty",
+          "label": "class-and-poverty"
+        }
+      ]
+    }
+  ]
+}

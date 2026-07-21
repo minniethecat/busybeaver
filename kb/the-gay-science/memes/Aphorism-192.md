@@ -1,0 +1,36 @@
+---
+description: ""
+id: Aphorism-192
+label: "Aphorism 192"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 192.
+
+### 192.
+
+
+*The Good-natured.*—What is it that distinguishes
+
+the good-natured, whose countenances beam kindness,
+
+from other people? They feel quite at ease
+
+in presence of a new person, and are quickly
+
+enamoured of him; they therefore wish him well;
+
+their first opinion is: "He pleases me." With
+
+them there follow in succession the wish to
+
+appropriate (they make little scruple about the
+
+person's worth), rapid appropriation, joy in the
+
+possession, and actions in favour of the person
+
+possessed.

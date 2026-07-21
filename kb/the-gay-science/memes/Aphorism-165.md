@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-165
+label: "Aphorism 165"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 165.
+
+### 165.
+
+
+*The Happiness of Renunciation.*—He who has
+
+absolutely dispensed with something for a long
+
+time will almost imagine, when he accidentally
+
+meets with it again, that he has discovered it,—and
+
+what happiness every discoverer has! Let us be
+
+wiser than the serpents that lie too long in the
+
+same sunshine.

@@ -1,0 +1,269 @@
+---
+description: "A nighttime pursuit through the darkness"
+id: XVI-The-Night-Hunt
+label: "XVI: The Night Hunt"
+tags: ["chapter", "part-3"]
+type: "chapter"
+---
+
+###### XVI
+
+The Night Hunt
+
+[016-001] I caught the 5:25 train south. It put me in Poston, a dusty town twice Quesada’s size, at 7:30; and a rattle-trap stage, in which I was the only passenger, got me to my destination half an hour later. Rain was beginning to fall as I was leaving the stage across the street from the hotel.
+
+[016-002] Jack Santos, a [[san-francisco|San Francisco]] reporter, came out of the telegraph office and said: “Hello. Anything new?”
+
+[016-003] “Maybe, but I’ll have to give it to Vernon first.”
+
+[016-004] “He’s in his room in the hotel, or was ten minutes ago. You mean the ransom letter that somebody got?”
+
+[016-005] “Yeah. He’s already given it out?”
+
+[016-006] “Cotton started to, but Vernon headed him off, told us to let it alone.”
+
+[016-007] “Why?”
+
+[016-008] “No [[rationality-vs-madness|reason]] at all except that it was Cotton giving it to us.” Santos pulled the corners of his thin lips down. “It’s been turned into a contest between Vernon, Feeney, and Cotton to see which can get his name and picture printed most.”
+
+[016-009] “They been doing anything except that?”
+
+[016-010] “How can they?” he asked disgustedly. “They spend ten hours a day trying to make the front page, ten more trying to keep the others from making it, and they’ve got to sleep some time.”
+
+[016-011] In the hotel I gave “nothing new” to some more reporters, registered again, left my bag in my room, and went down the hall to 204. Vernon opened the door when I had knocked. He was alone, and apparently had been reading the newspapers that made a pink, green, and white pile on the bed. The room was blue-gray with cigar smoke.
+
+[016-012] This district attorney was a thirty-year-old dark-eyed man who carried his chin up and out so that it was more prominent than nature had intended, bared all his teeth when he talked, and was very conscious of being a go-getter. He shook my hand briskly and said:
+
+[016-013] “I’m glad you’re back. Come in. Sit down. Are there any new developments?”
+
+[016-014] “Cotton pass you the dope I gave him?”
+
+[016-015] “Yes.” Vernon posed in front of me, hands in pockets, feet far apart. “What importance do you attach to it?”
+
+[016-016] “I advised [[madison-andrews|Andrews]] to get the money ready. He won’t. The Collinsons will.”
+
+[016-017] “They will,” he said, as if confirming a guess I had made. “And?” He held his lips back so that his teeth remained exposed.
+
+[016-018] “Here’s the letter.” I gave it to him. “[[owen-fitzstephan|Fitzstephan]] will be down in the morning.”
+
+[016-019] He nodded emphatically, carried the letter closer to the light, and examined it and its envelope minutely. When he had finished he tossed it contemptuously to the table.
+
+[016-020] “Obviously a fraud,” he said. “Now what, exactly, is this Fitzstephan’s—is that the name?—story?”
+
+[016-021] I told him, word for word. When that was done, he clicked his teeth together, turned to the telephone, and told someone to tell Feeney that he—Mr. Vernon, district attorney—wished to see him immediately. Ten minutes later the sheriff came in wiping rain off his big brown mustache.
+
+[016-022] Vernon jerked a thumb at me and ordered: “Tell him.”
+
+[016-023] I repeated what Fitzstephan had told me. The sheriff listened with an attentiveness that turned his florid face purple and had him panting. As the last word left my mouth, the district attorney snapped his fingers and said:
+
+[016-024] “Very well. He claims there were people in his apartment when the phone call came. Make a note of their names. He claims to have been in Ross over the weekend, with the—who were they? Ralph Coleman? Very well. Sheriff, see that those things are checked up. We’ll learn how much truth there is to it.”
+
+[016-025] I gave the sheriff the names and addresses Fitzstephan had given me. Feeney wrote them on the back of a laundry list and puffed out to get the county’s [[crime-and-punishment|crime]]-detecting machinery going on them.
+
+[016-026] Vernon hadn’t anything to tell me. I left him to his newspapers and went downstairs. The effeminate night clerk beckoned me over to the desk and said:
+
+[016-027] “Mr. Santos asked me to tell you that services are being held in his room tonight.”
+
+[016-028] I thanked the clerk and went up to Santos’ room. He, three other newshounds, and a photographer were there. The game was stud. I was sixteen dollars ahead at twelve-thirty, when I was called to the phone to listen to the district attorney’s aggressive voice:
+
+[016-029] “Will you come to my room immediately?”
+
+[016-030] “Yeah.” I gathered up my hat and coat, telling Santos: “Cash me in. Important call. I always have one when I get a little ahead of the game.”
+
+[016-031] “Vernon?” he asked as he counted my chips.
+
+[016-032] “Yeah.”
+
+[016-033] “It can’t be much,” he sneered, “or he’d’ve sent for Red too,” nodding at the photographer, “so tomorrow’s readers could see him holding it in his hand.”
+
+[016-034] Cotton, Feeney, and Rolly were with the district attorney. Cotton—a medium-sized man with a round dull face dimpled in the chin—was dressed in black rubber boots, slicker, and hat that were wet and muddy. He stood in the middle of the room, his round eyes looking quite proud of their owner. Feeney, straddling a chair, was playing with his mustache; and his florid face was sulky. Rolly, standing beside him, rolling a cigarette, looked vaguely amiable as usual.
+
+[016-035] Vernon closed the door behind me and said irritably:
+
+[016-036] “Cotton thinks he’s discovered something. He thinks—”
+
+[016-037] Cotton came forward, chest first, interrupting:
+
+[016-038] “I don’t think nothing. I know durned well—”
+
+[016-039] Vernon snapped his fingers between the marshal and me, saying, just as snappishly:
+
+[016-040] “Never mind that. We’ll go out there and see.”
+
+[016-041] I stopped at my room for raincoat, gun, and flashlight. We went downstairs and climbed into a muddy car. Cotton drove. Vernon sat beside him. The rest of us sat in back. Rain beat on top and curtains, trickling in through cracks.
+
+[016-042] “A hell of a night to be chasing pipe dreams,” the sheriff grumbled, trying to dodge a leak.
+
+[016-043] “Dick’d do a sight better minding his own business,” Rolly agreed. “What’s he got to do with what don’t happen in Quesada?”
+
+[016-044] “If he’d take more care of what does happen there, he wouldn’t have to worry about what’s down the shore,” Feeney said, and he and his deputy sniggered together.
+
+[016-045] Whatever point there was to this conversation was over my head. I asked:
+
+[016-046] “What’s he up to?”
+
+[016-047] “Nothing,” the sheriff told me. “You’ll see that it’s nothing, and, by God! I’m going to give him a piece of my mind. I don’t know what’s the matter with Vernon, paying any attention to him at all.”
+
+[016-048] That didn’t mean anything to me. I peeped out between curtains. Rain and darkness shut out the scenery, but I had an idea that we were headed for some point on the East road. It was a rotten ride—wet, noisy, and bumpy. It ended in as dark, wet, and muddy a spot as any we had gone through.
+
+[016-049] Cotton switched off the lights and got out, the rest of us following, slipping and slopping in wet clay up to our ankles.
+
+[016-050] “This is too damned much,” the sheriff complained.
+
+[016-051] Vernon started to say something, but the marshal was walking away, down the road. We plodded after him, keeping together more by the sound of our feet squashing in the mud than by sight. It was black.
+
+[016-052] Presently we left the road, struggled over a high wire fence, and went on with less mud under our feet, but slippery grass. We climbed a hill. Wind blew rain down it into our faces. The sheriff was panting. I was sweating. We reached the top of the hill and went down its other side, with the rustle of seawater on rocks ahead of us. Boulders began crowding grass out of our path as the descent got steeper. Once Cotton slipped to his knees, tripping Vernon, who saved himself by grabbing me. The sheriff’s panting sounded like groaning now. We turned to the left, going along in single file, the surf close beside us. We turned to the left again, climbed a slope, and halted under a low shed without walls—a wooden roof propped on a dozen posts. Ahead of us a larger building made a black blot against the almost black sky.
+
+[016-053] Cotton whispered: “Wait till I see if his car’s here.”
+
+[016-054] He went away. The sheriff blew out his breath and grunted: “Damn such a expedition!” Rolly sighed.
+
+[016-055] The marshal returned jubilant.
+
+[016-056] “It ain’t there, so he ain’t here,” he said. “Come on, it’ll get us out of the wet anyways.”
+
+[016-057] We followed him up a muddy path between bushes to the black house, up on its back porch. We stood there while he got a window open, climbed through, and unlocked the door. Our flashlights, used for the first time now, showed us a small neat kitchen. We went in, muddying the floor.
+
+[016-058] Cotton was the only member of the party who showed any enthusiasm. His face, from hat-brim to dimpled chin, was the face of a master of ceremonies who is about to spring what he is sure will be a delightful surprise. Vernon regarded him skeptically, Feeney disgustedly, Rolly indifferently, and I—who didn’t know what we were there for—no doubt curiously.
+
+[016-059] It developed that we were there to search the house. We did it, or at least Cotton did it while the rest of us pretended to help him. It was a small house. There was only one room on the ground-floor besides the kitchen, and only one—an unfinished bedroom—above. A grocer’s bill and a tax-receipt in a table-drawer told me whose house it was—Harvey Whidden’s. He was the big-boned deliberate man who had seen the stranger in the Chrysler with [[gabrielle-leggett|Gabrielle Collinson]].
+
+[016-060] We finished the ground-floor with a blank score, and went upstairs. There, after ten minutes of poking around, we found something. Rolly pulled it out from between bed-slats and mattress. It was a small flat bundle wrapped in a white linen towel.
+
+[016-061] Cotton dropped the mattress, which he had been holding up for the deputy to look under, and joined us as we crowded around Rolly’s package. Vernon took it from the deputy sheriff and unrolled it on the bed. Inside the towel were a package of hairpins, a lace-edged white handkerchief, a silver hairbrush and comb engraved G. D. L., and a pair of black kid gloves, small and feminine.
+
+[016-062] I was more surprised than anyone else could have been.
+
+[016-063] “G. D. L.,” I said, to be saying something, “could be Gabrielle Something [[edgar-leggett|Leggett]]—Mrs. [[eric-collinson|Collinson]]’s name before she was married.”
+
+[016-064] Cotton said triumphantly: “You’re durned right it could.”
+
+[016-065] A heavy voice said from the doorway:
+
+[016-066] “Have you got a search-warrant? What the hell are you doing here if you haven’t? It’s burglary, and you know it.”
+
+[016-067] Harvey Whidden was there. His big body, in a yellow slicker, filled the doorway. His heavy-featured face was dark and angry.
+
+[016-068] Vernon began: “Whidden, I—”
+
+[016-069] The marshal screamed, “It’s him!” and pulled a gun from under his coat.
+
+[016-070] I pushed his arm as he fired at the man in the doorway. The bullet hit the wall.
+
+[016-071] Whidden’s face was now more astonished than angry. He jumped back through the doorway and ran downstairs. Cotton, upset by my push, straightened himself up, cursed me, and ran out after Whidden. Vernon, Feeney, and Rolly stood staring after them.
+
+[016-072] I said: “This is good clean sport, but it makes no sense to me. What’s it all about?”
+
+[016-073] Nobody told me. I said: “This comb and brush were on Mrs. Collinson’s table when we searched the house, Rolly.”
+
+[016-074] The deputy sheriff nodded uncertainly, still staring at the door. No noise came through it now. I asked:
+
+[016-075] “Would there be any special reason for Cotton framing Whidden?”
+
+[016-076] The sheriff said: “They ain’t good friends.” (I had noticed that.) “What do you think, Vern?”
+
+[016-077] The district attorney took his gaze from the door, rolled the things in their towel again, and stuffed the bundle in his pocket. “Come on,” he snapped, and strode downstairs.
+
+[016-078] The front door was open. We saw nothing, heard nothing, of Cotton and Whidden. A Ford—Whidden’s—stood at the front gate soaking up rain. We got into it. Vernon took the wheel, and drove to the house in the cove. We hammered at its door until it was opened by an old man in gray underwear, put there as caretaker by the sheriff.
+
+[016-079] The old man told us that Cotton had been there at eight o’clock that night, just, he said, to look around again. He, the caretaker, didn’t know no reason why the marshal had to be watched, so he hadn’t bothered him, letting him do what he wanted, and, so far as he knew, the marshal hadn’t taken any of the Collinsons’ property, though of course he might of.
+
+[016-080] Vernon and Feeney gave the old man hell, and we went back to Quesada.
+
+[016-081] Rolly was with me on the back seat. I asked him:
+
+[016-082] “Who is this Whidden? Why should Cotton pick on him?”
+
+[016-083] “Well, for one thing, Harve’s got kind of a bad name, from being mixed up in the rum-running that used to go on here, and from being in trouble now and then.”
+
+[016-084] “Yeah? And for another thing?”
+
+[016-085] The deputy sheriff frowned, hesitating, hunting for words; and before he had found them we were stopping in front of a vine-covered cottage on a dark street corner. The district attorney led the way to its front porch and rang the bell.
+
+[016-086] After a little while a woman’s voice sounded overhead:
+
+[016-087] “Who’s there?”
+
+[016-088] We had to retreat to the steps to see her—Mrs. Cotton at a second-story window.
+
+[016-089] “Dick got home yet?” Vernon asked.
+
+[016-090] “No, Mr. Vernon, he hasn’t. I was getting worried. Wait a minute; I’ll come down.”
+
+[016-091] “Don’t bother,” he said. “We won’t wait. I’ll see him in the morning.”
+
+[016-092] “No. Wait,” she said urgently and vanished from the window.
+
+[016-093] A moment later she opened the front door. Her blue eyes were dark and excited. She had on a rose bathrobe.
+
+[016-094] “You needn’t have bothered,” the district attorney said. “There was nothing special. We got separated from him a little while ago, and just wanted to know if he’d got back yet. He’s all right.”
+
+[016-095] “Was—?” Her hands worked folds of her bathrobe over her thin breasts. “Was he after—after Harvey—Harvey Whidden?”
+
+[016-096] Vernon didn’t look at her when he said, “Yes;” and he said it without showing his teeth. Feeney and Rolly looked as uncomfortable as Vernon.
+
+[016-097] Mrs. Cotton’s face turned pink. Her lower lip trembled, blurring her words.
+
+[016-098] “Don’t believe him, Mr. Vernon. Don’t believe a word he tells you. Harve didn’t have anything to do with those Collinsons, with neither one of them. Don’t let Dick tell you he did. He didn’t.”
+
+[016-099] Vernon looked at his feet and didn’t say anything. Rolly and Feeney were looking intently out through the open door—we were standing just inside it—at the rain. Nobody seemed to have any intention of speaking.
+
+[016-100] I asked, “No?” putting more doubt in my voice than I actually felt.
+
+[016-101] “No, he didn’t,” she cried, turning her face to me. “He couldn’t. He couldn’t have had anything to do with it.” The pink went out of her face, leaving it white and desperate. “He—he was here that night—all night—from before seven until daylight.”
+
+[016-102] “Where was your husband?”
+
+[016-103] “Up in the city, at his mother’s.”
+
+[016-104] “What’s her address?”
+
+[016-105] She gave it to me, a Noe Street number.
+
+[016-106] “Did anybody—?”
+
+[016-107] “Aw, come on,” the sheriff protested, still staring at the rain. “Ain’t that enough?”
+
+[016-108] Mrs. Cotton turned from me to the district attorney again, taking hold of one of his arms.
+
+[016-109] “Don’t tell it on me, please, Mr. Vernon,” she begged. “I don’t know what I’d do if it came out. But I had to tell you. I couldn’t let him put it on Harve. Please, you won’t tell anybody else?”
+
+[016-110] The district attorney swore that under no circumstances would he, or any of us, repeat what she had told us to anybody; and the sheriff and his deputy agreed with vigorous red-faced nods.
+
+[016-111] But when we were in the Ford again, away from her, they forgot their embarrassment and became manhunters again. Within ten minutes they had decided that Cotton, instead of going to San Francisco to his mother’s Friday night, had remained in Quesada, had killed Collinson, had gone to the city to phone Fitzstephan and mail the letter, and then had returned to Quesada in time to kidnap Mrs. Collinson; planning from the first to plant the [[evidence-and-proof|evidence]] against Whidden, with whom he had long been on bad terms, having always suspected what everybody else knew—that Whidden was Mrs. Cotton’s lover.
+
+[016-112] The sheriff—he whose chivalry had kept me from more thoroughly questioning the woman a few minutes ago—now laughed his belly up and down.
+
+[016-113] “That’s rich,” he gurgled. “Him out framing Harve, and Harve getting himself an alibi in *his* bed. Dick’s face ought to be a picture for Puck when we spring that on him. Let’s find him tonight.”
+
+[016-114] “Better wait,” I advised. “It won’t hurt to check up his San Francisco trip before we put it to him. All we’ve got on him so far is that he tried to frame Whidden. If he’s the murderer and kidnapper he seems to have gone to a lot of unnecessary foolishness.”
+
+[016-115] Feeney scowled at me and defended their theory:
+
+[016-116] “Maybe he was more interested in framing Harve than anything else.”
+
+[016-117] “Maybe,” I said; “but it won’t hurt to give him a little more rope and see what he does with it.”
+
+[016-118] Feeney was against that. He wanted to grab the marshal pronto; but Vernon reluctantly backed me up. We dropped Rolly at his house and returned to the hotel.
+
+[016-119] In my room, I put in a phone-call for [[continental-detective-agency|the agency]] in San Francisco. While I was waiting for the connection knuckles tapped my door. I opened it and let in Jack Santos, pajamaed, bathrobed, and slippered.
+
+[016-120] “Have a nice ride?” he asked, yawning.
+
+[016-121] “Swell.”
+
+[016-122] “Anything break?”
+
+[016-123] “Not for publication, but—under the hat—the new angle is that our marshal is trying to hang the job on his wife’s boyfriend—with homemade evidence. The other big officials think Cotton turned the trick himself.”
+
+[016-124] “That ought to get them all on the front page.” Santos sat on the foot of my bed and lit a cigarette. “Ever happen to hear that Feeney was Cotton’s rival for the telegraphing hand of the present Mrs. Cotton, until she picked the marshal—the triumph of dimples over mustachios?”
+
+[016-125] “No,” I admitted. “What of it?”
+
+[016-126] “How do I know? I just happened to pick it up. A fellow in the garage told me.”
+
+[016-127] “How long ago?”
+
+[016-128] “That they were rival suitors? Less than a couple of years.”
+
+[016-129] I got my San Francisco call, and told Field—the agency night-man—to have somebody check up the marshal’s Noe Street visit. Santos yawned and went out while I was talking. I went to bed when I had finished.

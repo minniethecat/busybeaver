@@ -1,0 +1,91 @@
+---
+description: "Part IV, Chapter 6 of Victory by Joseph Conrad."
+id: Part-IV-Chapter-6
+label: "Part IV, Chapter 6: VI"
+tags: ["chapter"]
+type: chapter
+---
+
+[031-001] As luck would have it, Ricardo was lounging alone on the verandah of the former countinghouse. He scented some new development at once, and ran down to meet the trotting, bear-like figure. The deep, growling noises it made, though they had only a very remote resemblance to the Spanish language, or indeed to any sort of human speech, were from long practice quite intelligible to Mr. Jones’s secretary. Ricardo was rather surprised. He had imagined that the girl would continue to keep out of sight. That line apparently was given up. He did not mistrust her. How could he? Indeed, he could not think of her existence calmly.
+
+[031-002] He tried to keep her image out of his mind so that he should be able to use its powers with some approach to that coolness which the complex nature of the situation demanded from him, both for his own sake and as the faithful follower of plain Mr. Jones, gentleman.
+
+[031-003] He collected his wits and thought. This was a change of policy, probably on the part of Heyst. If so, what could it mean? A deep fellow! Unless it was her doing; in which case—h’m—all right! Must be. She would know what she was doing. Before him Pedro, lifting his feet alternately, swayed to and fro sideways—his usual attitude of expectation. His little red eyes, lost in the mass of hair, were motionless. Ricardo stared into them with calculated contempt and said in a rough, angry voice:
+
+[031-004] “Woman! Of course there is. We know that without you!” He gave the tame monster a push. “Git! *Vamos!* Waddle! Get back and cook the dinner! Which way did they go, then?”
+
+[031-005] Pedro extended a huge, hairy forearm to show the direction, and went off on his bandy legs. Advancing a few steps, Ricardo was just in time to see, above some bushes, two white helmets moving side by side in the clearing. They disappeared. Now that he had managed to keep Pedro from informing the governor that there was a woman on the island, he could indulge in speculation as to the movements of these people. His attitude towards Mr. Jones had undergone a spiritual change, of which he himself was not yet fully aware.
+
+[031-006] That morning, before tiffin, after his escape from the Heyst bungalow, completed in such an inspiring way by the recovery of the slipper, Ricardo had made his way to their allotted house, reeling as he ran, his head in a whirl. He was wildly excited by visions of inconceivable promise. He waited to compose himself before he dared to meet the governor. On entering the room, he found Mr. Jones sitting on the camp bedstead like a tailor on his board, cross-legged, his long back against the wall.
+
+[031-007] “I say, sir! You aren’t going to tell me you are bored?”
+
+[031-008] “Bored? No! Where the devil have you been all this time?”
+
+[031-009] “Observing—watching—nosing around. What else? I knew you had company. Have you talked freely, sir?”
+
+[031-010] “Yes, I have,” muttered Mr. Jones.
+
+[031-011] “Not downright plain, sir?”
+
+[031-012] “No. I wished you had been here. You loaf all the morning, and now you come in out of breath. What’s the matter?”
+
+[031-013] “I haven’t been wasting my time out there,” said Ricardo. “Nothing’s the matter. I—I—might have hurried a bit.” He was in truth still panting; only it was not with running, but with the tumult of thoughts and sensations long repressed, which had been set free by the adventure of the morning. He was almost distracted by them now. He forgot himself in the maze of possibilities threatening and inspiring. “And so you had a long talk?” he said, to gain time.
+
+[031-014] “Confound you! The sun hasn’t affected your head, has it? Why are you staring at me like a basilisk?”
+
+[031-015] “Beg pardon, sir. Wasn’t aware I stared,” Ricardo apologized good-humouredly. “The sun might well affect a thicker skull than mine. It blazes. Phew! What do you think a fellow is, sir—a salamander?”
+
+[031-016] “You ought to have been here,” observed Mr. Jones.
+
+[031-017] “Did the beast give any signs of wanting to prance?” asked Ricardo quickly, with absolutely genuine anxiety. “It wouldn’t do, sir. You must play him easy for at least a couple of days, sir. I have a plan. I have a notion that I can find out a lot in a couple of days.”
+
+[031-018] “You have? In what way?”
+
+[031-019] “Why, by watching,” Ricardo answered slowly.
+
+[031-020] Mr. Jones grunted.
+
+[031-021] “Nothing new, that. Watch, eh? Why not pray a little, too?”
+
+[031-022] “Ha, ha, ha! That’s a good one,” burst out the secretary, fixing Mr. Jones with mirthless eyes.
+
+[031-023] The latter dropped the subject indolently.
+
+[031-024] “Oh, you may be certain of at least two days,” he said.
+
+[031-025] Ricardo recovered himself. His eyes gleamed voluptuously.
+
+[031-026] “We’ll pull this off yet—clean—whole—right through, if you will only trust me, sir.”
+
+[031-027] “I am trusting you right enough,” said Mr. Jones. “It’s your interest, too.”
+
+[031-028] And, indeed, Ricardo was truthful enough in his statement. He did absolutely believe in success now. But he couldn’t tell his governor that he had intelligences in the enemy’s camp. It wouldn’t do to tell him of the girl. Devil only knew what he would do if he learned there was a woman about. And how could he begin to tell of it? He couldn’t confess his sudden escapade.
+
+[031-029] “We’ll pull it off, sir,” he said, with perfectly acted cheerfulness. He experienced gusts of awful joy expanding in his heart and hot like a fanned flame.
+
+[031-030] “We must,” pronounced Mr. Jones. “This thing, Martin, is not like our other tries. I have a peculiar feeling about this. It’s a different thing. It’s a sort of test.”
+
+[031-031] Ricardo was impressed by the governor’s manner; for the first time a hint of passion could be detected in him. But also a word he used, the word “test,” had struck him as particularly significant somehow. It was the last word uttered during that morning’s conversation. Immediately afterwards Ricardo went out of the room. It was impossible for him to keep still. An elation in which an extraordinary softness mingled with savage triumph would not allow it. It prevented his thinking, also. He walked up and down the verandah far into the afternoon, eyeing the other bungalow at every turn. It gave no sign of being inhabited. Once or twice he stopped dead short and looked down at his left slipper. Each time he chuckled audibly. His restlessness kept on increasing till at last it frightened him. He caught hold of the balustrade of the verandah and stood still, smiling not at his thoughts but at the strong sense of life within him. He abandoned himself to it carelessly, even recklessly. He cared for no one, friend or enemy. At that moment Mr. Jones called him by name from within. A shadow fell on the secretary’s face.
+
+[031-032] “Here, sir,” he answered; but it was a moment before he could make up his mind to go in.
+
+[031-033] He found his governor on his feet. Mr. Jones was tired of lying down when there was no necessity for it. His slender form, gliding about the room, came to a standstill.
+
+[031-034] “I’ve been thinking, Martin, of something you suggested. At the time it did not strike me as practical; but on reflection it seems to me that to propose a game is as good a way as any to let him understand that the time has come to disgorge. It’s less—how should I say?—vulgar. He will know what it means. It’s not a bad form to give to the business—which in itself is crude, Martin, crude.”
+
+[031-035] “Want to spare his feelings?” jeered the secretary in such a bitter tone that Mr. Jones was really surprised.
+
+[031-036] “Why, it was your own notion, confound you!”
+
+[031-037] “Who says it wasn’t?” retorted Ricardo sulkily. “But I am fairly sick of this crawling. No! No! Get the exact bearings of his swag and then a rip up. That’s plenty good enough for him.”
+
+[031-038] His passions being thoroughly aroused, a thirst for blood was allied in him with a thirst for tenderness—yes, tenderness. A sort of anxious, melting sensation pervaded and softened his heart when he thought of that girl—one of his own sort. And at the same time jealousy started gnawing at his breast as the image of Heyst intruded itself on his fierce anticipation of bliss.
+
+[031-039] “The crudeness of your ferocity is positively gross, Martin,” Mr. Jones said disdainfully. “You don’t even understand my purpose. I mean to have some sport out of him. Just try to imagine the atmosphere of the game—the fellow handling the cards—the agonizing mockery of it! Oh, I shall appreciate this greatly. Yes, let him lose his money instead of being forced to hand it over. You, of course, would shoot him at once, but I shall enjoy the refinement and the jest of it. He’s a man of the best society. I’ve been hounded out of my sphere by people very much like that fellow. How enraged and humiliated he will be! I promise myself some exquisite moments while watching his play.”
+
+[031-040] “Ay, and suppose he suddenly starts prancing! He may not appreciate the fun.”
+
+[031-041] “I mean you to be present,” Mr. Jones remarked calmly.
+
+[031-042] “Well, as long as I am free to plug him or rip him up whenever I think the time has come, you are welcome to your bit of sport, sir. I shan’t spoil it.”

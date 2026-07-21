@@ -1,0 +1,15 @@
+---
+description: 'On the hill at Wizerne, not far from the stately old town of St.-Omer (visited from time to time by monstrous night-birds who dropped high-explosive eggs), w...'
+id: Part-II-Ch-17
+label: 'Part II, Chapter XVII'
+tags: ["chapter"]
+type: 'chapter'
+---
+
+[040-001]On the hill at Wizerne, not far from the stately old town of St.-Omer (visited from time to time by monstrous night-birds who dropped high-explosive eggs), was a large convent. There were no nuns there, but generally some hundreds of young officers and men from many different battalions, attending a machine-gun course under the direction of General Baker-Carr, who was the master machine-gunner of the British army (at a time when we were very weak in those weapons compared with the enemy’s strength) and a cheery, vital man.
+
+[040-002]“This war has produced two great dugouts,” said [[lord-kitchener|Lord Kitchener]] on a visit to the convent. “Me and Baker-Carr.”
+
+[040-003]It was the boys who interested me more than the machines. (I was never much interested in the machinery of war.) They came down from the trenches to this school with a sense of escape from prison, and for the ten days of their course they were like “freshers” at Oxford and made the most of their minutes, organizing concerts and other entertainments in the evenings after their initiation into the mysteries of Vickers and Lewis. I was invited to dinner there one night, and sat between two young cavalry officers on long benches crowded with subalterns of many regiments. It was a merry meal and a good one—to this day I remember a potato pie, gloriously baked, and afterward, as it was the last night of the course, all the officers went wild and indulged in a “rag” of the public-school kind. They straddled across the benches and barged at each other in single tourneys and jousts, riding their hobbyhorses with violent rearings and plungings and bruising one another without grievous hurt and with yells of laughter. Glasses broke, crockery crashed upon the polished boards. One boy danced the Highland fling on the tables, others were waltzing down the corridors. There was a Rugby scrum in the refectory, and hunting-men cried the “View halloo!” and shouted “Yoicks! yoicks!” … General Baker-Carr was a human soul, and kept to his own room that night and let discipline go hang. …
+
+[040-004]When the battles of the Somme began it was those young officers who led their machine-gun sections into the woods of death—Belville Wood, Mametz Wood, [[high-wood|High Wood]], and the others. It was they who afterward held the outpost lines in [[flanders|Flanders]]. Some of them were still alive on March 21, 1918, when they were surrounded by a sea of Germans and fought until the last, in isolated redoubts north and south of St.-Quentin. Two of them are still alive, those between whom I sat at dinner that night, and who escaped many close calls of death before the armistice. Of the others who charged one another with wooden benches, their laughter ringing out, some were blown to bits, and some were buried alive, and some were blinded and gassed, and some went “missing” forevermore.

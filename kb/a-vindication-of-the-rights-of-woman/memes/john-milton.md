@@ -1,81 +1,83 @@
 ---
+description: "English poet (1608–1674), author of Paradise Lost — cited by Wollstonecraft in her discussion of Eve, prelapsarian virtue, and the nature of the relationship between the sexes before the Fall."
 id: john-milton
-label: John Milton
+label: "John Milton"
+tags: ["person"]
 type: person
-description: "English poet whose depiction of Eve in Paradise Lost is referenced by Wollstonecraft across multiple chapters as the literary archetype of female subordination that her argument must dismantle"
-tags: ["poet", "paradise-lost", "puritan", "literature", "showcase"]
 ---
 
 # John Milton
 
-[[John Milton]] (1608–1674) is one of the most significant literary authorities [[Mary Wollstonecraft]] engages in _[[A Vindication of the Rights of Woman]]_, appearing across four chapters. His _Paradise Lost_ carried near-scriptural authority in eighteenth-century Britain.
+## Overview
 
-Wollstonecraft's willingness to critique Milton's depiction of [[Eve]] signals that her argument extends beyond contemporary conduct books to the deepest foundations of Western culture.
+John Milton (1608–1674) appears in the *Vindication* as an ambivalent figure — an authority whose depiction of Eve in *Paradise Lost* Wollstonecraft both draws on and contests. Milton's portrait of the prelapsarian Adam and Eve — "He for God only, she for God in him" — represents, for Wollstonecraft, the poetic encoding of the very assumptions about sexual hierarchy that she seeks to dismantle. Yet his invocation of Eve's rational capacity, her ability to choose and to err, also provides material for a more egalitarian reading.
 
-Her engagement with Milton is characteristically nuanced: she indicts his gendered vision of paradise while simultaneously acknowledging moments of philosophical convergence, treating him as an intellectual equal whose errors must be contested rather than dismissed.
+Wollstonecraft's engagement with Milton is characteristically dialectical: she quotes him as an authority while simultaneously undermining the patriarchal framework of his vision. The result is one of the subtler intertextual relationships in the *Vindication*.
 
-## Life
+## In the Text
 
-Milton (1608–1674) was England's greatest epic poet and a prominent political figure during the Commonwealth period, serving as Latin Secretary to Oliver Cromwell. His major works — _Paradise Lost_ (1667), _Paradise Regained_ (1671), and _Samson Agonistes_ (1671) — were all composed after he went blind. His depiction of Adam and Eve, particularly Eve's submission to Adam ("He for God only, she for God in him"), became culturally iconic in eighteenth-century Britain, shaping assumptions about the natural relationship between the sexes that Wollstonecraft would challenge.
+Milton appears primarily in the discussion of marriage and the relationship between the sexes in Chapter II. Wollstonecraft quotes his description of Eve to illustrate the ideal of [[marriage|companionate marriage]] that she herself advocates — while pointedly ignoring its hierarchical framing. Chapter V returns to the Miltonic theme in the discussion of modesty and female virtue.
 
-Milton's own political radicalism — he wrote in defense of regicide, divorce, and press freedom — makes his conservative gender ideology all the more striking and, for Wollstonecraft, instructive. A thinker capable of challenging inherited political authority nevertheless reproduces inherited gender hierarchy, demonstrating the depth of the prejudice she seeks to expose.
+### The Ambivalent Reading
 
-## Role in the Text
+Wollstonecraft's treatment of Milton exemplifies her interpretive strategy throughout the *Vindication*: she reads canonical male authors against their own patriarchal grain, extracting egalitarian implications that the author himself would not have endorsed. Milton's Adam and Eve, in the prelapsarian state, enjoy a relationship of genuine [[friendship|companionship]] — "he for God only, she for God in him" — which Wollstonecraft seizes upon as a vision of what marriage could be, while quietly discarding the hierarchical framing that makes Eve [[tyranny|subordinate]]. This is not naive misreading but deliberate appropriation: she uses Milton's own poetic authority to support an argument that Milton himself would likely have rejected. The result is a reading of *[[paradise-lost|Paradise Lost]]* that is simultaneously faithful to the text and subversive of its patriarchal assumptions.
 
-### Eve as Archetype
+### Eve as Rational Agent
 
-Wollstonecraft opens her argument in Chapter 2 by invoking Milton's description of "our first frail mother" (002-004), immediately challenging the assumption that women were designed merely "to gratify the senses of man." The evocation of Eve is strategic: by beginning with the most culturally authoritative depiction of womanhood in English literature, Wollstonecraft signals that her critique will be comprehensive.
+Wollstonecraft's most significant engagement with Milton concerns Eve's capacity for rational choice. Milton's Eve, unlike Rousseau's Sophie, is depicted as a genuinely rational being who deliberates, chooses, and errs — a being whose moral status is not merely derivative of Adam's. "Our first parents were not made for each other merely to propagate the species; Eve was given to Adam as a helpmate" — Wollstonecraft reads this not as subordination but as companionship, a relationship between moral equals who are differentiated by function but united in rational capacity. By juxtaposing Milton's Eve with Rousseau's Sophie, Wollstonecraft implies that even the patriarchal Milton offered a richer vision of female moral agency than the Enlightenment's most celebrated educational theorist.
 
-> "Thus Milton describes our first frail mother; though when he tells us that women are formed for softness and sweet attractive grace, I cannot comprehend his meaning." (002-004)
+## Key Quotations
 
-She presses the point further: if women were "destined by Providence to acquire human virtues," they must be permitted access to the same intellectual development as men. "Milton, I grant, was of a very different opinion" (002-006) — yet even a poet of Milton's stature cannot make an unjust argument just.
+> "Our first parents were not made for each other merely to propagate the species; Eve was given to Adam as a helpmate, and the tender appellation of 'our father' falls short of the affectionate one of 'our mother.'"
 
-### Moments of Convergence
+> "He for God only, she for God in him." (Paradise Lost, Book IV — the hierarchical vision Wollstonecraft contests)
 
-Wollstonecraft's engagement is not uniformly adversarial. She acknowledges points where "Milton seems to coincide with me" (002-008), recognizing that his understanding of human nature is not wholly incompatible with her own. This intellectual honesty is characteristic of her method: she engages Milton as a thinker worthy of serious engagement, not as a straw man.
+> "It is justice, not charity, that is wanting in the world!" (004-049)
 
-> "Yet, in the following lines, Milton seems to coincide with me, when he says, 'Yet not so strictly hath our Lord imposed / Labour, as to debar us when we need / Refreshment.'" (002-008)
+> "Consequently the perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual." (001-006)
 
-### Genius and the Sexes
+> "Strengthen the female mind by enlarging it, and there will be an end to blind obedience." (002-074)
 
-In Chapter 4, Wollstonecraft invokes Milton as part of her argument about genius and the sexes. She groups him alongside [[Abraham Cowley]] and [[Alexander Pope]] as early proofs of intellectual brilliance (004-073), using these examples to counter the claim that women's earlier intellectual maturity signals inferior capacity. If men produce Miltons despite maturing intellectually later than women, the argument from developmental timing collapses.
+> "I wish to show that elegance is inferior to virtue, that the first object of laudable ambition is to obtain a character as a human being, regardless of the distinction of sex." (P03-009)
 
-> "I have before observed, that men of genius have frequently been remarkable for their sensibility; and it is a proof of the early expansion of their faculties, that Cowley, Milton, and Pope, produced some of their best pieces of composition, before they arrived at manhood." (004-073)
+## Related Works
 
-She also cites Milton's famous line "that with honour he may love" (004-005) to argue that genuine love requires mutual respect — a condition impossible in relationships built on female subordination.
+- [[paradise-lost|Paradise Lost]] (1667) — The primary source; particularly Book IV's depiction of Adam and Eve
+- [[areopagitica|Areopagitica]] (1644) — Milton's defence of free speech, invoked in Wollstonecraft's broader argument for intellectual liberty
 
-### Modesty and True Self-Regard
 
-In Chapter 7, Wollstonecraft returns to Milton in her discussion of [[Modesty]], aligning his conception of proper self-regard with her own. True modesty, she argues, is "equally distant from vanity or presumption, though by no means incompatible with a lofty consciousness of our own nature" (007-002). She finds in Milton an ally for the proposition that genuine humility does not require self-abnegation.
+## Wollstonecraft's Engagement
 
-> "Milton was not arrogant when he suffered a suggestion of judgment to escape him; and the consciousness of powers, which gave him a glimpse of his own grandeur, was not presumption." (007-002)
+| Aspect | Detail |
+|--------|--------|
+| Stance | Cited |
+| Chapters | 002, 004 |
+| Method | Draws on Milton's depiction of Eve while contesting its patriarchal framing |
+| Key concept | Prelapsarian marriage as companionate ideal |
 
-### Works Referenced
+## Related Concepts
 
-- _Paradise Lost_ (1667) — the depiction of Eve as the archetype of female submission; Wollstonecraft's primary literary foil
-- _Areopagitica_ (1644) — Milton's defense of free speech, implicitly invoked by Wollstonecraft's own argumentative freedom
+- [[marriage]] — Milton's depiction of prelapsarian marriage is Wollstonecraft's ideal, minus the hierarchy
+- [[virtue]] — Milton's Eve possesses genuine virtue before the Fall; Wollstonecraft implies that society's Eve has been denied the conditions for it
+- [[nature]] — The Edenic state represents a "state of nature" distinct from Rousseau's
 
-## Key Ideas
 
-| Aspect | Milton's Depiction | Wollstonecraft's Response |
-|--------|-------------------|--------------------------|
-| Eve's nature | Formed for "softness and sweet attractive grace" | Women destined for virtue, not ornament |
-| Female purpose | To gratify "the senses of man" | Rational companionship and moral equality |
-| Subordination | Natural and divinely ordained | Socially constructed, educationally enforced |
-| Modesty | Feminine reserve and submission | Offspring of reason, compatible with self-regard |
-| Genius | Male achievement validates sex hierarchy | Male genius proves nothing about female capacity |
+Wollstonecraft's engagement with Milton demonstrates her broader intellectual strategy: rather than simply rejecting canonical male authorities, she reads them dialectically, extracting resources for feminist argument from texts that are, on their surface, deeply patriarchal. This method — simultaneously respectful and subversive — characterises her treatment of [[rousseau|Rousseau]], [[john-locke|Locke]], and the Bible as well. In each case, she accepts the authority of the source while reinterpreting its implications, forcing her opponents to confront the egalitarian conclusions latent in their own premises. The strategy is rhetorically effective because it denies her critics the easy response of dismissing her as an unlearned woman attacking great men: she reads those men more carefully than her opponents do, and she turns their own principles against their prejudices.
 
-Milton's Eve represents the religious and literary ideal of womanhood that Wollstonecraft must dismantle: beautiful, innocent, subordinate, and content in her subordination. The cultural power of this image — reinforced by _Paradise Lost_'s quasi-scriptural authority — makes Wollstonecraft's rationalist critique all the more radical. She must show not merely that Milton is wrong, but that his errors are symptomatic of a broader cultural failure to recognize women as rational beings.
+> "If women are by nature inferior to men, their virtues must be the same in quality, if not in degree, or virtue is a relative idea; consequently, their conduct should be founded on the same principles, and have the same aim." (002-042)
 
-## See Also
+> "To obviate some of the difficulties that occur in my way, I must observe, that I do not mean to insinuate, that either sex should be so lost in abstract reflections, or distant views, as to forget the affections and duties that lie before them." (002-017)
 
-- [[Mary Wollstonecraft]]
-- [[Jean-Jacques Rousseau]]
-- [[John Gregory]]
-- [[Eve]]
-- [[Virtue]]
-- [[Modesty]]
-- [[Education]]
-- [[Independence]]
-- [[Sensibility]]
-- [[Alexander Pope]]
+> "Let their virtues be the same in kind, though they may vainly struggle for the same degree." (002-088)
+
+## Biographical Summary
+
+John Milton (1608–1674) was an English poet and intellectual, best known for *Paradise Lost* (1667), his epic poem on the Fall of Man. A republican and defender of free speech (*Areopagitica*, 1644), Milton served as a civil servant under Cromwell. His depiction of Eve as a rational being capable of free choice provided Wollstonecraft with a literary precedent for her arguments about female moral capacity.
+
+## Additional Passages
+
+> "Consequently the perfection of our nature and capability of happiness, must be estimated by the degree of reason, virtue, and knowledge, that distinguish the individual." (001-006)
+
+> "Strengthen the female mind by enlarging it, and there will be an end to blind obedience." (002-074)
+
+> "I wish to show that elegance is inferior to virtue, that the first object of laudable ambition is to obtain a character as a human being, regardless of the distinction of sex." (P03-009)

@@ -1,0 +1,41 @@
+---
+description: "Front Matter — from A Yankee in the Trenches by R. Derby Holmes"
+id: Front-Matter
+label: "Front Matter"
+tags: ["chapter"]
+type: chapter
+---
+
+#### A Yankee in the Trenches
+
+[P01-001] 1. CHAPTER I
+
+[P01-002] 2. CHAPTER II
+
+[P01-003] 3. CHAPTER III
+
+[P01-004] 4. CHAPTER IV
+
+[P01-005] 5. CHAPTER V
+
+[P01-006] 6. CHAPTER VI
+
+[P01-007] 7. CHAPTER VII
+
+[P01-008] 8. CHAPTER VIII
+
+[P01-009] 9. CHAPTER IX
+
+[P01-010] 10. CHAPTER X
+
+[P01-011] 11. CHAPTER XI
+
+[P01-012] 12. CHAPTER XII
+
+[P01-013] 13. CHAPTER XIII
+
+[P01-014] 14. CHAPTER XIV
+
+[P01-015] 15. CHAPTER XV
+
+[P01-016] 16. CHAPTER XVI

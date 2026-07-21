@@ -1,0 +1,11 @@
+---
+description: "Of the order of the discussion, which requires that we first speak of the eternal punishment of the lost in company with the devil, and then of the eternal h..."
+id: book-21-ch01
+label: "Book 21 — Ch. 1: I"
+tags: ["chapter"]
+type: chapter
+---
+
+[630-001]Of the order of the discussion, which requires that we first speak of the eternal punishment of the lost in company with the devil, and then of the eternal happiness of the saints.
+
+[630-002]I propose, with such ability as God may grant me, to discuss in this book more thoroughly the nature of the punishment which shall be assigned to the devil and all his retainers, when the two cities, the one of God, the other of the devil, shall have reached their proper ends through Jesus Christ our Lord, the Judge of quick and dead. And I have adopted this order, and preferred to speak, first of the punishment of the devils, and afterwards of the blessedness of the saints, because the *body* partakes of either destiny; and it seems to be more incredible that bodies endure in everlasting torments than that they continue to exist without any pain in everlasting felicity. Consequently, when I shall have demonstrated that that punishment ought not to be incredible, this will materially aid me in proving that which is much more credible, viz. the immortality of the bodies of the saints which are delivered from all pain. Neither is this order out of harmony with the divine writings, in which sometimes, indeed, the blessedness of the good is placed first, as in the words, “They that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation”;1485 but sometimes also last, as, “The Son of man shall send forth His angels, and they shall gather out of His kingdom all things which offend, and shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth. Then shall the righteous shine forth as the sun in the kingdom of His Father”;1486 and that, “These shall go away into everlasting punishment, but the righteous into life eternal.”1487 And though we have not room to cite instances, anyone who examines the prophets will find that they adopt now the one arrangement and now the other. My own reason for following the latter order I have given.

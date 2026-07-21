@@ -1,0 +1,21 @@
+---
+description: VIII — Part III: Autumn
+id: autumn-viii
+label: Part III: Autumn — VIII
+tags: []
+type: chapter
+---
+
+# VIII
+
+?xml version="1.0" encoding="utf-8"?
+
+### VIII
+
+I have been reading Sainte-Beuve’s *Port Royal*, a book I have often thought of reading, but its length, and my slight interest in that period, always held me aloof. Happily, chance and mood came together, and I am richer by a bit of knowledge well worth acquiring. It is the kind of book which, one may reasonably say, tends to edification. One is better for having lived a while with “Messieurs de Port-Royal”; the best of them were, surely, not far from the Kingdom of Heaven.
+
+Theirs is not, indeed, the Christianity of the first age; we are among theologians, and the shadow of dogma has dimmed those divine hues of the early morning, yet ever and anon there comes a cool, sweet air, which seems not to have blown across man’s common world, which bears no taint of mortality.
+
+A gallery of impressive and touching portraits. The great-souled M. de Saint-Cyran, with his vision of Christ restored; M. Le Maître, who, at the summit of a brilliant career, turned from the world to meditation and penitence; Pascal, with his genius and his triumphs, his conflicts of soul and fleshly martyrdom; Lancelot, the good Lancelot, ideal schoolmaster, who wrote grammar and edited classical books; the vigorous Arnauld, doctoral rather than saintly, but long-suffering for the faith that was in him; and all the smaller names﻿—Walon de Beaupuis, Nicole, Hamon﻿—spirits of exquisite humility and sweetness﻿—a perfume rises from the page as one reads about them. But best of all I like M. de Tillemont; I could have wished for myself even such a life as his; wrapped in silence and calm, a life of gentle devotion and zealous study. From the age of fourteen, he said, his intellect had occupied itself with but one subject, that of ecclesiastical history. Rising at four o’clock, he read and wrote until half-past nine in the evening, interrupting his work only to say the Offices of the Church, and for a couple of hours’ breathing at midday. Few were his absences. When he had to make a journey, he set forth on foot, staff in hand, and lightened the way by singing to himself a psalm or canticle. This man of profound erudition had as pure and simple a heart as ever dwelt in mortal. He loved to stop by the road and talk with children, and knew how to hold their attention whilst teaching them a lesson. Seeing boy or girl in charge of a cow, he would ask: “How is it that you, a little child, are able to control that animal, so much bigger and stronger?” And he would show the reason, speaking of the human soul. All this about Tillemont is new to me; well as I knew his name (from the pages of Gibbon), I thought of him merely as the laborious and accurate compiler of historical materials. Admirable as was his work, the spirit in which he performed it is the thing to dwell upon; he studied for study’s sake, and with no aim but truth; to him it was a matter of indifference whether his learning ever became known among men, and at any moment he would have given the fruits of his labour to anyone capable of making use of them.
+
+Think of the world in which the Jansenists were living; the world of the Fronde, of Richelieu and Mazarin, of his refulgent Majesty Louis XIV. Contrast Port-Royal with Versailles, and﻿—whatever one’s judgment of their religious and ecclesiastical aims﻿—one must needs say that these men lived with dignity. The Great Monarch is, in comparison, a poor, sordid creature. One thinks of Molière refused burial﻿—the king’s contemptuous indifference for one who could do no more to amuse him being a true measure of the royal greatness. Face to face with even the least of these grave and pious men, how paltry and unclean are all those courtly figures; not *there* was dignity, in the palace chambers and the stately gardens, but in the poor rooms where the solitaries of Port-Royal prayed and studied and taught. Whether or not the ideal for mankind, their life was worthy of man. And what is rarer than a life to which that praise can be given?

@@ -1,0 +1,15 @@
+---
+description: "The moment the people is legitimately assembled as a sovereign body, the jurisdiction of the government wholly lapses, the executive power is suspended, and the…"
+id: ch-III-14
+label: "XIV: The Same (Continued)"
+tags: ["chapter"]
+type: chapter
+---
+
+[039-001] The Same (Continued)
+
+[039-002] The moment the people is legitimately assembled as a sovereign body, the jurisdiction of the government wholly lapses, the [[government|executive power]] is suspended, and the person of the meanest citizen is as sacred and inviolable as that of the first magistrate; for in the presence of the person represented, representatives no longer exist. Most of the tumults that arose in the [[comitia]] at [[rome|Rome]] were due to ignorance or neglect of this rule. The consuls were in them merely the presidents of the people; the tribunes were mere speakers;30 the senate was nothing at all.
+
+[039-003] These intervals of suspension, during which the prince recognises or ought to recognise an actual superior, have always been viewed by him with alarm; and these assemblies of the people, which are the aegis of the body politic and the curb on the government, have at all times been the horror of rulers: who therefore never spare pains, objections, difficulties, and promises, to stop the citizens from having them. When the citizens are greedy, cowardly, and pusillanimous, and love ease more than liberty, they do not long hold out against the redoubled efforts of the government; and thus, as the resisting force incessantly grows, the [[sovereignty|sovereign authority]] ends by disappearing, and most cities fall and perish before their time.
+
+[039-004] But between the sovereign authority and arbitrary government there sometimes intervenes a mean power of which something must be said.

@@ -1,0 +1,36 @@
+---
+description: ""
+id: Aphorism-138
+label: "Aphorism 138"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 138.
+
+### 138.
+
+
+*The Error of Christ.*—The founder of Christianity
+
+thought there was nothing from which men suffered
+
+so much as from their sins:—it was his error, the
+
+error of him who felt himself without sin, to whom
+
+experience was lacking in this respect! It was
+
+thus that his soul filled with that marvellous,
+
+fantastic pity which had reference to a trouble that
+
+even among his own people, the inventors of sin,
+
+was rarely a great trouble! But Christians understood
+
+subsequently how to do justice to their master,
+
+and to sanctify his error into a "truth."

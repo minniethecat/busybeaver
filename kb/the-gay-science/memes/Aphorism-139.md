@@ -1,0 +1,42 @@
+---
+description: ""
+id: Aphorism-139
+label: "Aphorism 139"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 139.
+
+### 139.
+
+
+*Colour of the Passions.*—Natures such as the
+
+apostle Paul, have an evil eye for the passions;
+
+they learn to know only the filthy, the distorting,
+
+and the heart-breaking in them,—their ideal aim,
+
+therefore, is the annihilation of the passions; in the
+
+divine they see complete purification from passion.
+
+The Greeks, quite otherwise than Paul and the
+
+Jews, directed their ideal aim precisely to the
+
+passions, and loved, elevated, embellished and deified
+
+them: in passion they evidently not only felt themselves
+
+happier, but also purer and diviner than
+
+otherwise.—And now the Christians? Have they
+
+wished to become Jews in this respect? Have
+
+they perhaps become Jews!

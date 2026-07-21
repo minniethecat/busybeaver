@@ -1,0 +1,127 @@
+---
+description: "Next morning, over the breakfast cups at the Norrie Simmses’ and elsewhere, the import of the Cowperwoods’ social efforts was discussed and the pro..."
+id: XI-The-Fruits-of-Daring
+label: "XI: The Fruits of Daring"
+tags: ["chapter"]
+type: chapter
+---
+
+# XI: The Fruits of Daring
+
+[011-001]Next morning, over the breakfast cups at the Norrie Simmses’ and elsewhere, the import of the Cowperwoods’ social efforts was discussed and the problem of their eventual acceptance or nonacceptance carefully weighed.
+
+[011-002]“The trouble with Mrs. [[frank-cowperwood|Cowperwood]],” observed Mrs. Simms, “is that she is too gauche. The whole thing was much too showy. The idea of her portrait at one end of the gallery and that Gerome at the other! And then this item in the *Press* this morning! Why, you’d really think they were in society.” Mrs. Simms was already a little angry at having let herself be used, as she now fancied she had been, by Taylor Lord and [[kent-mckibben|Kent McKibben]], both friends of hers.
+
+[011-003]“What did you think of the crowd?” asked Norrie, buttering a roll.
+
+[011-004]“Why, it wasn’t representative at all, of course. We were the most important people they had there, and I’m sorry now that we went. Who are the Israelses and the Hoecksemas, anyhow? That dreadful woman!” (She was referring to Mrs. Hoecksema.) “I never listened to duller remarks in my life.”
+
+[011-005]“I was talking to Haguenin of the *Press* in the afternoon,” observed Norrie. “He says that Cowperwood failed in [[philadelphia|Philadelphia]] before he came here, and that there were a lot of lawsuits. Did you ever hear that?”
+
+[011-006]“No. But she says she knows the Drakes and the Walkers there. I’ve been intending to ask Nellie about that. I have often wondered why he should leave Philadelphia if he was getting along so well. People don’t usually do that.”
+
+[011-007]Simms was envious already of the [[finance|financial]] showing Cowperwood was making in [[chicago|Chicago]]. Besides, Cowperwood’s manner bespoke supreme intelligence and courage, and that is always resented by all save the suppliants or the triumphant masters of other walks in life. Simms was really interested at last to know something more about Cowperwood, something definite.
+
+---
+
+[011-008]Before this social situation had time to adjust itself one way or the other, however, a matter arose which in its way was far more vital, though Aileen [[power|might]] not have thought so. The feeling between the new and old gas companies was becoming strained; the stockholders of the older organization were getting uneasy. They were eager to find out who was back of these new gas companies which were threatening to poach on their exclusive preserves. Finally one of the lawyers who had been employed by the North Chicago Gas Illuminating Company to fight the machinations of De Soto [[desoto-sippens|Sippens]] and old [[general-van-sickle|General Van Sickle]], finding that the [[lakeview|Lakeview]] Council had finally granted the franchise to the new company and that the Appellate Court was about to sustain it, hit upon the idea of charging conspiracy and wholesale bribery of councilmen. Considerable evidence had accumulated that Duniway, Jacob Gerecht, and others on the North Side had been influenced by cash, and to bring legal action would delay final approval of the franchises and give the old company time to think what else to do. This North Side company lawyer, a man by the name of Parsons, had been following up the movements of Sippens and old General Van Sickle, and had finally concluded that they were mere dummies and pawns, and that the real instigator in all this excitement was Cowperwood, or, if not he, then men whom he represented. Parsons visited Cowperwood’s office one day in order to see him; getting no satisfaction, he proceeded to look up his record and connections. These various investigations and counter-schemings came to a head in a court proceeding filed in the United States Circuit Court late in November, charging Frank Algernon Cowperwood, Henry De Soto Sippens, Judson P. Van Sickle, and others with conspiracy; this again was followed almost immediately by suits begun by the West and [[south-side|South Side]] companies charging the same thing. In each case Cowperwood’s name was mentioned as the secret power behind the new companies, conspiring to force the old companies to buy him out. His Philadelphia history was published, but only in part—a highly modified account he had furnished the newspapers some time before. Though conspiracy and bribery are ugly words, still lawyers’ charges prove nothing. But a penitentiary record, for whatever reason served, coupled with previous failure, divorce, and scandal (though the newspapers made only the most guarded reference to all this), served to whet public interest and to fix Cowperwood and his wife in the public eye.
+
+[011-009]Cowperwood himself was solicited for an interview, but his answer was that he was merely a financial agent for the three new companies, not an investor; and that the charges, in so far as he was concerned, were untrue, mere legal fol-de-rol trumped up to make the situation as annoying as possible. He threatened to sue for libel. Nevertheless, although these suits eventually did come to nothing (for he had fixed it so that he could not be traced save as a financial agent in each case), yet the charges had been made, and he was now revealed as a shrewd, manipulative factor, with a record that was certainly spectacular.
+
+[011-010]“I see,” said [[anson-merrill|Anson Merrill]] to his wife, one morning at breakfast, “that this man Cowperwood is beginning to get his name in the papers.” He had the *Times* on the table before him, and was looking at a headline which, after the old-fashioned pyramids then in vogue, read: “Conspiracy charged against various Chicago citizens. Frank Algernon Cowperwood, Judson P. Van Sickle, Henry De Soto Sippens, and others named in Circuit Court complaint.” It went on to specify other facts. “I supposed he was just a broker.”
+
+[011-011]“I don’t know much about them,” replied his wife, “except what Bella Simms tells me. What does it say?”
+
+[011-012]He handed her the paper.
+
+[011-013]“I have always thought they were merely climbers,” continued Mrs. Merrill. “From what I hear she is impossible. I never saw her.”
+
+[011-014]“He begins well for a Philadelphian,” smiled Merrill. “I’ve seen him at the [[calumet-club|Calumet]]. He looks like a very shrewd man to me. He’s going about his work in a brisk spirit, anyhow.”
+
+[011-015]Similarly Mr. [[norman-schryhart|Norman Schryhart]], a man who up to this time had taken no thought of Cowperwood, although he had noted his appearance about the halls of the Calumet and [[union-club-organization|Union League]] Clubs, began to ask seriously who he was. Schryhart, a man of great physical and mental vigor, six feet tall, hale and stolid as an ox, a very different type of man from Anson Merrill, met [[judah-addison|Addison]] one day at the Calumet Club shortly after the newspaper talk began. Sinking into a great leather divan beside him, he observed:
+
+[011-016]“Who is this man Cowperwood whose name is in the papers these days, Addison? You know all these people. Didn’t you introduce him to me once?”
+
+[011-017]“I surely did,” replied Addison, cheerfully, who, in spite of the attacks on Cowperwood, was rather pleased than otherwise. It was quite plain from the concurrent excitement that attended all this struggle, that Cowperwood must be managing things rather adroitly, and, best of all, he was keeping his backers’ names from view. “He’s a Philadelphian by birth. He came out here several years ago, and went into the grain and commission business. He’s a banker now. A rather shrewd man, I should say. He has a lot of money.”
+
+[011-018]“Is it true, as the papers say, that he failed for a million in Philadelphia in 1871?”
+
+[011-019]“In so far as I know, it is.”
+
+[011-020]“Well, was he in the penitentiary down there?”
+
+[011-021]“I think so—yes. I believe it was for nothing really criminal, though. There appears to have been some [[politics|political]]-financial mix-up, from all I can learn.”
+
+[011-022]“And is he only forty, as the papers say?”
+
+[011-023]“[[About]] that, I should judge. Why?”
+
+[011-024]“Oh, this scheme of his looks rather pretentious to me—holding up the old gas companies here. Do you suppose he’ll manage to do it?”
+
+[011-025]“I don’t know that. All I know is what I have read in the papers,” replied Addison, cautiously. As a matter of fact, he did not care to talk about this business at all. Cowperwood was busy at this very time, through an agent, attempting to effect a compromise and union of all interests concerned. It was not going very well.
+
+[011-026]“Humph!” commented Schryhart. He was wondering why men like himself, Merrill, [[arneel|Arneel]], and others had not worked into this field long ago or bought out the old companies. He went away interested, and a day or two later—even the next morning—had formulated a scheme. Not unlike Cowperwood, he was a shrewd, hard, cold man. He believed in Chicago implicitly and in all that related to its future. This gas situation, now that Cowperwood had seen the point, was very clear to him. Even yet it might not be impossible for a third party to step in and by intricate manipulation secure the much coveted rewards. Perhaps Cowperwood himself could be taken over—who could tell?
+
+[011-027]Mr. Schryhart, being a very dominating type of person, did not believe in minor partnerships or investments. If he went into a thing of this kind it was his preference to rule. He decided to invite Cowperwood to visit the Schryhart office and talk matters over. Accordingly, he had his secretary pen a note, which in rather lofty phrases invited Cowperwood to call “on a matter of importance.”
+
+[011-028]Now just at this time, it so chanced, Cowperwood was feeling rather secure as to his place in the Chicago financial world, although he was still smarting from the bitterness of the aspersions recently cast upon him from various quarters. Under such circumstances it was his temperament to evince a rugged contempt for humanity, rich and poor alike. He was well aware that Schryhart, although introduced, had never previously troubled to notice him.
+
+[011-029]“Mr. Cowperwood begs me to say,” wrote Miss Antoinette Nowak, at his dictation, “that he finds himself very much pressed for time at present, but he would be glad to see Mr. Schryhart at his office at any time.”
+
+[011-030]This irritated the dominating, self-sufficient Schryhart a little, but nevertheless he was satisfied that a conference could do no harm in this instance—was advisable, in fact. So one Wednesday afternoon he journeyed to the office of Cowperwood, and was most hospitably received.
+
+[011-031]“How do you do, Mr. Schryhart,” observed Cowperwood, cordially, extending his hand. “I’m glad to see you again. I believe we met once before several years ago.”
+
+[011-032]“I think so myself,” replied Mr. Schryhart, who was broad-shouldered, square-headed, black-eyed, and with a short black mustache gracing a firm upper lip. He had hard, dark, piercing eyes. “I see by the papers, if they can be trusted,” he said, coming direct to the point, “that you are interesting yourself in local gas. Is that true?”
+
+[011-033]“I’m afraid the papers cannot be generally relied on,” replied Cowperwood, quite blandly. “Would you mind telling me what makes you interested to know whether I am or not?”
+
+[011-034]“Well, to tell the truth,” replied Schryhart, staring at the financier, “I am interested in this local gas situation myself. It offers a rather profitable field for investment, and several members of the old companies have come to me recently to ask me to help them combine.” (This was not true at all.) “I have been wondering what [[fate|chance]] you thought you had of winning along the lines you are now taking.”
+
+[011-035]Cowperwood smiled. “I hardly care to discuss that,” he said, “unless I know much more of your motives and connections than I do at present. Do I understand that you have really been appealed to by stockholders of the old companies to come in and help adjust this matter?”
+
+[011-036]“Exactly,” said Schryhart.
+
+[011-037]“And you think you can get them to combine? On what basis?”
+
+[011-038]“Oh, I should say it would be a simple matter to give each of them two or three shares of a new company for one in each of the old. We could then elect one set of officers, have one set of offices, stop all these suits, and leave everybody happy.”
+
+[011-039]He said this in an easy, patronizing way, as though Cowperwood had not really thought it all out years before. It amazed the latter no little to see his own scheme patronizingly brought back to him, and that, too, by a very powerful man locally—one who thus far had chosen to overlook him utterly.
+
+[011-040]“On what basis,” asked Cowperwood, cautiously, “would you expect these new companies to come in?”
+
+[011-041]“On the same basis as the others, if they are not too heavily capitalized. I haven’t thought out all the details. Two or three for one, according to investment. Of course, the prejudices of these old companies have to be considered.”
+
+[011-042]Cowperwood meditated. Should or should he not entertain this offer? Here was a chance to realize quickly by selling out to the old companies. Only Schryhart, not himself, would be taking the big end in this manipulative deal. Whereas if he waited—even if Schryhart managed to combine the three old companies into one—he might be able to force better terms. He was not sure. Finally he asked, “How much stock of the new company would be left in your hands—or in the hands of the organizing group—after each of the old and new companies had been provided for on this basis?”
+
+[011-043]“Oh, possibly thirty-five or forty percent of the whole,” replied Schryhart, ingratiatingly. “The laborer is worthy of his hire.”
+
+[011-044]“Quite so,” replied Cowperwood, smiling, “but, seeing that I am the man who has been cutting the pole to knock this persimmon it seems to me that a pretty good share of that should come to me; don’t you think so?”
+
+[011-045]“Just what do you mean?”
+
+[011-046]“Just what I have said. I personally have organized the new companies which have made this proposed combination possible. The plan you propose is nothing more than what I have been proposing for some time. The officers and directors of the old companies are angry at me merely because I am supposed to have invaded the fields that belong to them. Now, if on account of that they are willing to operate through you rather than through me, it seems to me that I should have a much larger share in the surplus. My personal interest in these new companies is not very large. I am really more of a fiscal agent than anything else.” (This was not true, but Cowperwood preferred to have his guest think so.)
+
+[011-047]Schryhart smiled. “But, my dear sir,” he explained, “you forget that I will be supplying nearly all the capital to do this.”
+
+[011-048]“You forget,” retorted Cowperwood, “that I am not a novice. I will guarantee to supply all the capital myself, and give you a good bonus for your services, if you want that. The plants and franchises of the old and new companies are worth something. You must remember that Chicago is growing.”
+
+[011-049]“I know that,” replied Schryhart, evasively, “but I also know that you have a long, expensive fight ahead of you. As things are now you cannot, of yourself, expect to bring these old companies to terms. They won’t work with you, as I understand it. It will require an outsider like myself—someone of influence, or perhaps, I had better say, of old standing in Chicago, someone who knows these people—to bring about this combination. Have you anyone, do you think, who can do it better than I?”
+
+[011-050]“It is not at all impossible that I will find someone,” replied Cowperwood, quite easily.
+
+[011-051]“I hardly think so; certainly not as things are now. The old companies are not disposed to work through you, and they are through me. Don’t you think you had better accept my terms and allow me to go ahead and close this matter up?”
+
+[011-052]“Not at all on that basis,” replied Cowperwood, quite simply. “We have invaded the enemies’ country too far and done too much. Three for one or four for one—whatever terms are given the stockholders of the old companies—is the best I will do about the new shares, and I must have one-half of whatever is left for myself. At that I will have to divide with others.” (This was not true either.)
+
+[011-053]“No,” replied Schryhart, evasively and opposingly, shaking his square head. “It can’t be done. The risks are too great. I might allow you one-fourth, possibly—I can’t tell yet.”
+
+[011-054]“One-half or nothing,” said Cowperwood, definitely.
+
+[011-055]Schryhart got up. “That’s the best you will do, is it?” he inquired.
+
+[011-056]“The very best.”
+
+[011-057]“I’m afraid then,” he said, “we can’t come to terms. I’m sorry. You may find this a rather long and expensive fight.”
+
+[011-058]“I have fully anticipated that,” replied the financier.

@@ -1,49 +1,67 @@
 ---
+description: >
 id: heart
 label: Heart
+tags: []
 type: concept
-description: "Wollstonecraft's concept of the heart as the seat of moral sentiment — distinct from both reason and mere passion, the heart properly cultivated is the organ of genuine virtue, but uncultivated it becomes a source of dangerous emotional volatility"
-tags: ["sentiment", "morality", "psychology", "virtue", "emotion"]
 ---
 
-**Heart** in Wollstonecraft's moral psychology is the seat of genuine feeling — distinct from both the cold calculations of reason and the feverish excitements of passion. She uses "heart" to name the faculty by which we feel the force of moral truths that reason alone can only apprehend. "Let the honest heart show itself, and reason teach passion to submit to necessity" (002-060) — heart, reason, and passion form a tripartite psychology in which each has its proper office.
+# Heart
 
 ## Definition
 
-Wollstonecraft's heart is not the sentimental heart of the conduct-book tradition. She explicitly criticizes the cultivation of "susceptibility of heart" (P03-008) as one of the "soft phrases" by which women are flattered into weakness. True cultivation of the heart means forming it to feel rightly, not to feel intensely. "The heart, as well as the understanding, is opened by cultivation" (004-061) — the verb "opened" suggests that the uncultivated heart is closed, not empty; the capacity for right feeling is present but inaccessible without education.
+In the *Vindication*, the **heart** is the faculty of feeling, affection, and
+moral sentiment — the emotional dimension of human nature. Wollstonecraft's
+treatment of the heart is neither sentimentalist (the heart alone is not a
+reliable moral guide) nor rationalist (the heart has a legitimate and necessary
+role in moral life). Her position is that the heart must be *governed by reason*
+— cultivated, directed, and disciplined by rational understanding.
 
-The "honest heart" (002-060) is her ideal: a heart whose feelings correspond to reality rather than to the fantasies encouraged by novels and gallantry. Honesty of heart is produced not by guarding against all feeling — which would be impossible and undesirable — but by ensuring that feeling is informed by understanding. A heart that feels without understanding is dangerous; a heart that feels with understanding is the engine of virtue.
+## Heart and Reason
 
-## Wollstonecraft's Argument
+The relationship between heart and reason is central to Wollstonecraft's moral
+philosophy. She rejects the notion — which she associates with Rousseau and the
+culture of sensibility — that the heart's spontaneous impulses are inherently
+virtuous. An ungoverned heart is as dangerous as an ungoverned mind:
 
-Wollstonecraft's argument about the heart operates through a series of strategic oppositions. She contrasts the heart with the head not to subordinate one to the other but to insist on their integration. Arguments that "never reach the heart" (P03-010) fail not because they are rational but because they are insufficiently connected to lived experience. The task of the moralist is to "address the head" (002-039) in such a way that the heart is moved — not to bypass the head in favour of direct emotional appeal.
+> "the heart is not purified by the understanding" is a claim she challenges:
+> the heart, left to itself, is subject to caprice, passion, and prejudice.
+> Only when informed and directed by reason can the heart be a source of
+> genuine goodness.
 
-The heart is also contrasted with mere manners. Women are taught to cultivate "the graces" while their hearts remain uncultivated; the result is "a cold-hearted, narrow-minded woman" (004-053) behind a facade of politeness. Wollstonecraft's contempt for this arrangement is visceral. A woman whose heart is uncultivated "turns to her children with renewed solicitude" (003-054) not from genuine maternal love but from desperation, her affections having nowhere else to go.
+## The Cultivation of the Heart
 
-The cultivation of the heart, in Wollstonecraft's scheme, is inseparable from the cultivation of the understanding. "I am, indeed, persuaded that the heart, as well as the understanding, is opened by cultivation" (004-061). This is the key claim: the heart is not naturally virtuous any more than the mind is naturally wise. Both require systematic development through education, experience, and the exercise of reason. A "considerate benevolent heart" (004-051) is not one that feels more but one that feels in accordance with judgement — a heart that has learned, through cultivation, to love what is worthy of love.
+Wollstonecraft does not advocate the suppression of feeling but its cultivation.
+The heart, like the mind, requires education. Women are typically educated to
+have *refined* hearts — exquisitely sensitive to social nuance and emotional
+atmosphere — but not *strong* hearts capable of withstanding adversity,
+resisting temptation, and loving wisely rather than impulsively.
 
-### Contrast with Contemporary Views
+A properly cultivated heart is capable of durable, rational affection — the
+love that a wife owes a husband, a mother owes a child, a citizen owes her
+country — as opposed to the transient, passionate attachments of sensibility.
 
-The culture of sensibility, dominant in the later eighteenth century, elevated the heart above the head and made intensity of feeling the measure of virtue. Rousseau's "man of sensibility" is moved to tears by the spectacle of suffering; his morality is located in the heart's spontaneous responses. Wollstonecraft shares the vocabulary of this tradition but inverts its valuation. For her, the heart untutored by reason is not a source of virtue but of error. "I respect his heart; but entirely disapprove of his head" (002-045) she says of one sentimental writer — the formulation captures her view that a good heart without a sound understanding is morally insufficient.
+## The Heart and Virtue
 
-## Key Passages
+Genuine virtue, for Wollstonecraft, engages both the head and the heart.
+Reason supplies the principles; the heart supplies the motivation. Without
+reason, the heart's impulses are blind; without heart, reason's principles
+are inert. The virtuous person is one in whom reason and affection are
+harmoniously integrated — thinking rightly and feeling rightly in concert.
 
-> Let the honest heart show itself, and reason teach passion to submit to necessity. (002-060)
+## Sensibility and the Untutored Heart
 
-> I am, indeed, persuaded that the heart, as well as the understanding, is opened by cultivation. (004-061)
+Wollstonecraft is particularly critical of the culture of sensibility, which
+elevates the untutored heart's promptings into a moral standard. She warns that
+sentiments "which only exercise the sensibility" leave "the heart made to beat"
+for transient objects rather than enduring principles (007-010). Women whose
+hearts are cultivated only for sensibility become, in her analysis, emotional
+consumers — moved by novels, spectacles, and romantic intrigues but incapable
+of the steady affections that sustain marriage, motherhood, and civic life.
 
-> The heart, accustomed to lively emotions, is rendered incapable of the calm emotions produced by reason. (004-050, adapted)
-
-## Related Concepts
-
-- [[Sensibility]] — the refined susceptibility of feeling that Wollstonecraft distinguishes from genuine cultivation of the heart
-- [[Reason]] — the faculty that must govern the heart if its feelings are to be morally reliable
-- [[Passion]] — the category of intense emotion from which the properly cultivated heart is distinguished
-- [[Virtue]] — the moral disposition that requires both a cultivated heart and a disciplined understanding
-- [[Sentiment]] — the language of feeling that Wollstonecraft uses to reach the heart through the head
-
-## See Also
-
-- [[Jean-Jacques Rousseau]] — whose elevation of the heart over the head in moral philosophy Wollstonecraft both draws upon and critiques
-- [[Sensibility]] — the cultural movement that made the heart the central organ of moral life
-- [[Mind]] — the intellectual faculty that must accompany and guide the heart's movements
+The "romantic unnatural delicacy of feeling" (002-073) that sensibility
+encourages is, for Wollstonecraft, a form of moral dissipation. It wastes the
+heart's capacity on imaginary objects while leaving it enfeebled for the real
+demands of duty. A heart trained only to feel exquisitely is a heart that
+cannot love steadfastly — and steadfast love, not the raptures of romance, is
+the affective foundation of a just society.

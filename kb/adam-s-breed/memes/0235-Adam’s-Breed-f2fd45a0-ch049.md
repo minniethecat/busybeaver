@@ -1,0 +1,13 @@
+---
+description: "There was much to learn about the art of selling, as Gian-Luca was soon to discover. There was also much to learn about …"
+id: 0235-Adam’s-Breed-f2fd45a0-ch049
+label: "Adam’s Breed · Book I · IX · IV"
+tags: ["chapter"]
+type: chapter
+---
+
+# IV
+
+[047-001]There was much to learn about the art of selling, as [[gian-luca-boselli|Gian-Luca]] was soon to discover. There was also much to learn about the ways of people who came for the purpose of buying. There were people who spoke with habitual rudeness, who ordered you about your own shop. When you handed them the parcel they never said “Thank you,” they just turned and went out of the door. You longed to make faces at these sort of people or to pinch them like you pinched [[berta|Berta]]; however, you remembered that at least they had to pay, and that consoled you a little. There were people who never knew quite what they wanted, who could never make up their minds. They asked you for tomatoes, but their eyes strayed to funghi; when you showed them the funghi they inquired about biscuits: “I wish to take home a small present,” they told you. In the end, as like as not, they bought cheese. There were people who never fancied anything handy, anything that lived low down: “Let me see that honey up there,” they would say, pointing; “no, not this—that honey up there, if you please, I think it looks fresher than this.” There were people who believed in always being friendly, no matter how busy you were. They usually arrived when the shop was quite full, and engaged you in long conversations about nothing—but they always counted their change. There were people who seemed unable to see you, who looked over your head at [[fabio-boselli|Fabio]] or [[teresa-boselli|Teresa]]. You leant across the counter in your most approved manner: “Are you being served?” you inquired politely, but they answered: “I think I’ll wait, thank you.” But the worst kind of people were those who did see you, and appeared to be amused at what they saw. These people made you nervous as you struggled with their parcels or tried to make out their bills. They would thank you profusely with mock gravity, they might even tweak your ear, and they frequently called you objectionable names like “Kiddie,” “My lad,” or “Infant.” After such people left you began to grow downwards, you began to get smaller and smaller. In the end your head barely reached above the counter—at least, that was the way you felt.
+
+[047-002]On the whole, however, you enjoyed serving people; you could study them while you served. You realized quite soon that you never knew people until you began to serve them.

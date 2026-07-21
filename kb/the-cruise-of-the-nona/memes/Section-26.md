@@ -1,0 +1,25 @@
+---
+description: "On the French and France"
+id: Section-26
+label: "Section 26"
+tags: ["chapter"]
+type: chapter
+---
+
+[026-001]Thence eastward, coasting back home, any man who belongs to my county and to its harbours must face the passage of [[portland-bill|Portland Race]] and the difficult rounding of the Bill. So had I always done, whether coming or going, whether easting or westing, leaving aside all that long coast of Dorset hither of the Isle of Portland, and watching afar off the endless unbroken patch called the Chesil Beach quite empty of men.
+
+[026-002]What a gift of compensation it is that the horror of our great towns and the ease of our new communications has produced deserts between!
+
+[026-003]No one knows those deserts as well as the man who sails along the [[the-sea|sea]], following the coasts of [[england|England]]. The foulness of the great towns is discharged by the trainload upon beaches of sand; but all in between, or nearly all, is left more lonely than ever it was before in our history. Those cliffs of Dorset coming down on to the sea are less known to travelling Englishmen than much of foreign land. That Chesil Beach along which I have so often run is utterly bare and silent except for the noise of the sea.
+
+[026-004]There never was such loneliness! One big house, built there I suppose for the sake of the isolation, inland, under the cliff, where some old landslide has oddly disfigured the face of the earth: then, for miles and miles, nothing. At the eastern end salt waste lagoons forbid human habitation, and between them and the sea comes the strange formation of huge rounded stones, falling very steep down into the water, so that you have many fathom deep within a stone’s throw of the beach; and at last, that forbidding Chesil Cove where a few houses of fishermen, huddled together, look out upon the most inhospitable mass of threatening waters I know.
+
+[026-005]There are few corners of the English seas which give the effect of a curse; but this is one of them. The terrible Race of Portland lies three miles out, at the end of the Bill. The prison with its abominable [[memory|memories]] stands above. The main traffic of the Channel lies far out. The gaunt and bare rocks of the Bill come down stark upon a lonely water, and that water heaves and turns unnaturally, even when there is little wind. For the roaring and the movement of that huge turmoil, the Race, send on their effect to the false shelter of Chesil Cove.
+
+[026-006]And it is a treacherous anchorage. Eastward, well inshore, there is good holding-ground, but it is only a patch, and one must be careful not to disturb the fishermen’s snares. Just outside this, in deep water, there is nothing but the rough and tumble shingle of great stones, and the anchor drags on any burst of wind, even from offshore: with a strong wind on shore you are done: and if such arise there is nothing for it but to up-anchor and beat out into the teeth of it: for that lee shore is deadly.
+
+[026-007]I have never been caught by the rising of the southwest wind in this desolate place of [[danger|peril]], but I have read the sailing directions about it, and I have often talked to men who have been so caught. There is nothing for it, I say, but to beat right out, unless it has come from a quarter far enough round south to enable one to scud down along the coast towards [[devon|Devon]], with enough sea room to spare. Chesil Cove is in the very eye of the great gales, and if a man should have taken up his insecure anchorage too near the shore, he is on it before he has got the first wind into his sails. An abominable spot!
+
+[026-008]The evil is recent. It is the work of the historic centuries. Portland Bill was once an island: and those strange tides which are now baulked and therefore twist and boil round its point, once ran normally through the strait between it and the mainland. But it has been joined to the mainland these hundreds of [[time|years]] by a very narrow belt, high piled, of these great rounded stones, which the sea and the wind shovelled up westward until they closed the entrance.
+
+[026-009]It is a strange feeling to leave one’s little ship at anchor in the dreadful cove, to land as best one can on that steep shore, risking the dinghy under the pounding of the sea, pulling it up over the screeching stones beyond the mark of the tide and then, in a few minutes’ walk, to be on the great placid expanse of the new Portland Harbour on the other side. It is like coming indoors out of evil weather, into firelight out of the dark; for it is only this minute or two on foot from the outer beach to the inner water; but to sail it, you must run down the millrace of the tide along the Bill and risk the buffeting of the Race. If you fail to hit the narrow belt of smooth water at the end of the Bill you are swept into the Race, and even if you just hit that smooth patch, you must calculate exactly, so as to catch the other tide up the eastern face under the old prison, and at last make Portland Harbour after ten long miles—and as many hours, and as much peril as God sees fit to send you.

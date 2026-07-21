@@ -1,0 +1,11 @@
+---
+description: "Chapter: MARRIAGE AS A MAGIC SPELL"
+id: marriage-as-a-magic-spell
+label: "MARRIAGE AS A MAGIC SPELL"
+tags: ["chapter"]
+type: chapter
+---
+
+# MARRIAGE AS A MAGIC SPELL
+
+[025-001]The truth which people seem to overlook in this matter is that the marriage ceremony is quite useless as a magic spell for changing in an instant the nature of the relations of two human beings to one another. If a man marries a woman after three weeks acquaintance, and the day after meets a woman he has known for twenty years, he finds, sometimes to his own irrational surprise and his wife's equally irrational indignation, that his wife is a stranger to him, and the other woman an old friend. Also, there is no hocus pocus that can possibly be devized with rings and veils and vows and benedictions that can fix either a man's or woman's affection for twenty minutes, much less twenty years. Even the most affectionate couples must have moments during which they are far more conscious of one another's faults than of one another's attractions. There are couples who dislike one another furiously for several hours at a time; there are couples who dislike one another permanently; and there are couples who never dislike one another; but these last are people who are incapable of disliking anybody. If they do not quarrel, it is not because they are married, but because they are not quarrelsome. The people who are quarrelsome quarrel with their husbands and wives just as easily as with their servants and relatives and acquaintances: marriage makes no difference. Those who talk and write and legislate as if all this could be prevented by making solemn vows that it shall not happen, are either insincere, insane, or hopelessly stupid. There is some sense in a contract to perform or abstain from actions that are reasonably within voluntary control; but such contracts are only needed to provide against the possibility of either party being no longer desirous of the specified performance or abstention. A person proposing or accepting a contract not only to do something but to like doing it would be certified as mad. Yet popular superstition credits the wedding rite with the power of fixing our fancies or affections for life even under the most unnatural conditions.

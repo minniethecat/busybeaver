@@ -1,0 +1,17 @@
+---
+description: 'In 1915 the War Office at last moved in the matter of war correspondents.'
+id: Part-I-Ch-02
+label: 'Part I, Chapter II'
+tags: ["chapter"]
+type: 'chapter'
+---
+
+[003-001]In 1915 the War Office at last moved in the matter of war correspondents. [[lord-kitchener|Lord Kitchener]], prejudiced against them, was being broken down a little by the pressure of public opinion (mentioned from time to time by members of the government), which demanded more news of their men in the field than was given by bald communiqués from General Headquarters and by an “eyewitness” who, as one paper had the audacity to say, wrote nothing but “eyewash.” Even the enormous, impregnable stupidity of our High Command on all matters of psychology was penetrated by a vague notion that a few “writing fellows” might be sent out with permission to follow the armies in the field, under the strictest censorship, in order to silence the popular clamor for more news. Dimly and nervously they apprehended that in order to stimulate the recruiting of the New Army now being called to the colors by vulgar appeals to sentiment and passion, it might be well to “write up” the glorious side of war as it could be seen at the base and in the organization of transport, without, of course, any allusion to dead or dying men, to the ghastly failures of distinguished generals, or to the filth and horror of the battlefields. They could not understand, nor did they ever understand (these soldiers of the old school) that a nation which was sending all its sons to the field of honor desired with a deep and poignant craving to know how those boys of theirs were living and how they were dying, and what suffering was theirs, and what chances they had against their enemy, and how it was going with the war which was absorbing all the energy and wealth of the people at home.
+
+[003-002]“Why don’t they trust their leaders?” asked the army chiefs. “Why don’t they leave it to us?”
+
+[003-003]“We do trust you—with some misgivings,” thought the people, “and we do leave it to you—though you seem to be making a mess of things—but we want to know what we have a right to know, and that is the life and progress of this war in which our men are engaged. We want to know more about their [[courage|heroism]], so that it shall be remembered by their people and known by the world; about their agony, so that we may share it in our hearts; and about the way of their death, so that our grief may be softened by the thought of their courage. We will not stand for this anonymous war; and you are wasting time by keeping it secret, because the imagination of those who have not joined cannot be fired by cold lines which say, ‘There is nothing to report on the western front.’ ”
+
+[003-004]---
+
+[003-005]In March of 1915 I went out with the first body of accredited war correspondents, and we saw some of the bad places where our men lived and died, and the traffic to the lines, and the mechanism of war in fixed positions as were then established after the battle of the Marne and the first battle of [[ypres|Ypres]]. Even then it was only an experimental visit. It was not until June of that year, after an adventure on the French front in the [[champagne|Champagne]], that I received full credentials as a war correspondent with the British armies on the western front, and joined four other men who had been selected for this service, and began that long innings as an authorized onlooker of war which ended, after long and dreadful years, with the Army of Occupation beyond the Rhine.

@@ -1,0 +1,40 @@
+---
+description: ""
+id: Aphorism-327
+label: "Aphorism 327"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 327.
+
+### 327.
+
+
+*Taking Things Seriously.*—The intellect is with
+
+most people an awkward, obscure and creaking
+
+machine, which is difficult to set in motion: they
+
+call it "*taking a thing seriously*" when they work
+
+with this machine, and want to think well—oh,
+
+how burdensome must good thinking be to them!
+
+That delightful animal, man, seems to lose his good-humour
+
+whenever he thinks well; he becomes
+
+"serious"! And "where there is laughing and
+
+gaiety, thinking cannot be worth anything:"—so
+
+speaks the prejudice of this serious animal against
+
+all "Joyful Wisdom."—Well, then! Let us show
+
+that it is prejudice!

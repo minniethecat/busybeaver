@@ -1,0 +1,113 @@
+---
+description: "That evening, as he was undressing preparatory to going to bed, his hand came in contact, in the pocket of his coat, with the packet which he had picked up on t…"
+id: volume-3-CHAPTER-IIIQUADRIFRONS
+label: "CHAPTER III—QUADRIFRONS"
+tags: ["chapter"]
+type: "chapter"
+---
+
+[203-001]That evening, as he was undressing preparatory to going to bed, his hand came in contact, in the pocket of his coat, with the packet which he had picked up on the boulevard. He had forgotten it. He thought that it would be well to open it, and that this package might possibly contain the address of the young girls, if it really belonged to them, and, in any case, the information necessary to a restitution to the person who had lost it.
+
+[203-002]He opened the envelope.
+
+[203-003]It was not sealed and contained four letters, also unsealed.
+
+[203-004]They bore addresses.
+
+[203-005]All four exhaled a horrible odor of tobacco.
+
+[203-006]The first was addressed: *“To Madame, Madame la Marquise de Grucheray, the place opposite the Chamber of Deputies, No.—”*
+
+[203-007][[marius-pontmercy|Marius]] said to himself, that he should probably find in it the information which he sought, and that, moreover, the letter being open, it was probable that it could be read without impropriety.
+
+[203-008]It was conceived as follows:—
+
+[203-009]Madame la Marquise: The virtue of clemency and piety is that which most closely unites sosiety. Turn your Christian spirit and cast a look of [[mercy|compassion]] on this unfortunate Spanish victim of loyalty and attachment to the sacred cause of legitimacy, who has given with his blood, consecrated his fortune, evverything, to defend that cause, and to-day finds himself in the greatest missery. He doubts not that your honorable person will grant succor to preserve an existence exteremely painful for a military man of education and honor full of wounds, counts in advance on the humanity which animates you and on the interest which Madame la Marquise bears to a nation so unfortunate. Their prayer will not be in vain, and their gratitude will preserve theirs charming souvenir.
+
+[203-010]My respectful sentiments, with which I have the honor to be
+
+[203-011]Madame,
+
+[203-012]DON ALVARÈS, Spanish Captain of Cavalry, a royalist who has take refuge in France, who finds himself on travells for his country, and the resources are lacking him to continue his travells.
+
+[203-013]No address was joined to the signature. Marius hoped to find the address in the second letter, whose superscription read: *À Madame, Madame la Comtesse de Montvernet, Rue Cassette, No. 9*. This is what Marius read in it:—
+
+[203-014]MADAME LA COMTESSE: It is an unhappy mother of a family of six children the last of which is only eight months old. I sick since my last confinement, abandoned by my husband five months ago, haveing no resources in the world the most frightful indigance.
+
+[203-015]In the hope of Madame la Comtesse, she has the honor to be, Madame, with profound respect,
+
+[203-016]MISTRESS BALIZARD.
+
+[203-017]Marius turned to the third letter, which was a petition like the preceding; he read:—
+
+[203-018]Monsieur PABOURGEOT, Elector, wholesale stocking merchant, Rue Saint-Denis on the corner of the Rue aux Fers.
+
+[203-019]I permit myself to address you this letter to beg you to grant me the pretious favor of your simpaties and to interest yourself in a man of letters who has just sent a drama to the Théâtre-Français. The subject is historical, and the action takes place in Auvergne in the time of the Empire; the style, I think, is natural, laconic, and may have some merit. There are couplets to be sung in four places. The comic, the serious, the unexpected, are mingled in a variety of characters, and a tinge of romanticism lightly spread through all the intrigue which proceeds misteriously, and ends, after striking altarations, in the midst of many beautiful strokes of brilliant scenes.
+
+[203-020]My principal object is to satisfi the desire which progressively animates the man of our century, that is to say, the fashion, that capritious and bizarre weathervane which changes at almost every new wind.
+
+[203-021]In spite of these qualities I have [[reason]] to fear that jealousy, the egotism of priviliged authors, may obtaine my exclusion from the theatre, for I am not ignorant of the mortifications with which newcomers are treated.
+
+[203-022]Monsiuer Pabourgeot, your just reputation as an enlightened protector of men of litters emboldens me to send you my daughter who will explain our indigant situation to you, lacking bread and fire in this wynter season. When I say to you that I beg you to accept the dedication of my drama which I desire to make to you and of all those that I shall make, is to prove to you how great is my ambition to have the honor of sheltering myself under your protection, and of adorning my writings with your name. If you deign to honor me with the most modest offering, I shall immediately occupy myself in making a piesse of verse to pay you my tribute of gratitude. Which I shall endeavor to render this piesse as perfect as possible, will be sent to you before it is inserted at the beginning of the drama and delivered on the stage.
+
+[203-023]To Monsieur
+
+[203-024]and Madame Pabourgeot,
+
+[203-025]My most respectful complements,
+
+[203-026]GENFLOT, man of letters.
+
+[203-027]P. S. Even if it is only forty sous.
+
+[203-028]Excuse me for sending my daughter and not presenting myself, but sad motives connected with the toilet do not permit me, alas! to go out.
+
+[203-029]Finally, Marius opened the fourth letter. The address ran: *To the benevolent Gentleman of the church of Saint-Jacques-du-haut-Pas*. It contained the following lines:—
+
+[203-030]BENEVOLENT MAN: If you deign to accompany my daughter, you will behold a misserable calamity, and I will show you my certificates.
+
+[203-031]At the aspect of these writings your generous soul will be moved with a sentiment of obvious benevolence, for true philosophers always feel lively emotions.
+
+[203-032]Admit, compassionate man, that it is necessary to suffer the most cruel need, and that it is very painful, for the sake of obtaining a little relief, to get oneself attested by the authorities as though one were not free to suffer and to die of inanition while waiting to have our [[suffering|misery]] relieved. Destinies are very fatal for several and too prodigal or too protecting for others.
+
+[203-033]I await your presence or your offering, if you deign to make one, and I beseech you to accept the respectful sentiments with which I have the honor to be,
+
+[203-034]truly magnanimous man,
+
+[203-035]your very humble
+
+[203-036]and very obedient servant,
+
+[203-037]P. FABANTOU, dramatic artist.
+
+[203-038]After perusing these four letters, Marius did not find himself much further advanced than before.
+
+[203-039]In the first place, not one of the signers gave his address.
+
+[203-040]Then, they seemed to come from four different individuals, Don Alvarès, Mistress Balizard, the poet Genflot, and dramatic artist [[thenardier|Fabantou]]; but the singular thing about these letters was, that all four were written by the same hand.
+
+[203-041]What conclusion was to be drawn from this, except that they all come from the same person?
+
+[203-042]Moreover, and this rendered the conjecture all the more probable, the coarse and yellow paper was the same in all four, the odor of tobacco was the same, and, although an attempt had been made to vary the style, the same orthographical faults were reproduced with the greatest tranquillity, and the man of letters Genflot was no more exempt from them than the Spanish captain.
+
+[203-043]It was waste of trouble to try to solve this petty mystery. Had it not been a chance find, it would have borne the air of a mystification. Marius was too melancholy to take even a chance pleasantry well, and to lend himself to a game which the pavement of the street seemed desirous of playing with him. It seemed to him that he was playing the part of the blind man in blind man’s buff between the four letters, and that they were making sport of him.
+
+[203-044]Nothing, however, indicated that these letters belonged to the two young girls whom Marius had met on the boulevard. After all, they were evidently papers of no value. Marius replaced them in their envelope, flung the whole into a corner and went to bed. [[About]] seven o’clock in the morning, he had just risen and breakfasted, and was trying to settle down to work, when there came a soft knock at his door.
+
+[203-045]As he owned nothing, he never locked his door, unless occasionally, though very rarely, when he was engaged in some pressing work. Even when absent he left his key in the lock. “You will be robbed,” said Ma’am Bougon. “Of what?” said Marius. The truth is, however, that he had, one day, been robbed of an old pair of boots, to the great triumph of Ma’am Bougon.
+
+[203-046]There came a second knock, as gentle as the first.
+
+[203-047]“Come in,” said Marius.
+
+[203-048]The door opened.
+
+[203-049]“What do you want, Ma’am Bougon?” asked Marius, without raising his eyes from the books and manuscripts on his table.
+
+[203-050]A voice which did not belong to Ma’am Bougon replied:—
+
+[203-051]“Excuse me, sir—”
+
+[203-052]It was a dull, broken, hoarse, strangled voice, the voice of an old man, roughened with brandy and liquor.
+
+[203-053]Marius turned round hastily, and beheld a young girl.

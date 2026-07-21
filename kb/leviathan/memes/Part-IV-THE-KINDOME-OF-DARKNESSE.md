@@ -1,0 +1,9 @@
+---
+description: Leviathan — PART IV. OF THE KINDOME OF DARKNESSE
+id: Part-IV-THE-KINDOME-OF-DARKNESSE
+label: PART IV. OF THE KINDOME OF DARKNESSE
+tags: []
+type: chapter
+---
+
+# PART IV. OF THE KINDOME OF DARKNESSE

@@ -1,0 +1,22 @@
+---
+description: ""
+id: Aphorism-207
+label: "Aphorism 207"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 207.
+
+### 207.
+
+
+*The Envious Man.*—That is an envious man—it
+
+is not desirable that he should have children;
+
+he would be envious of them, because he can no
+
+longer be a child.

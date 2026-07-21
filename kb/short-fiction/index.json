@@ -1,0 +1,6800 @@
+{
+  "book": "short-fiction",
+  "title": "Short Fiction",
+  "description": "Short Fiction — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 157,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Short Fiction\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "story-conditionally-human",
+          "label": "story-conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "story-it-takes-a-thief",
+          "label": "story-it-takes-a-thief"
+        },
+        {
+          "type": "related",
+          "target": "story-check-and-checkmate",
+          "label": "story-check-and-checkmate"
+        },
+        {
+          "type": "related",
+          "target": "story-death-of-a-spaceman",
+          "label": "story-death-of-a-spaceman"
+        },
+        {
+          "type": "related",
+          "target": "story-way-of-a-rebel",
+          "label": "story-way-of-a-rebel"
+        },
+        {
+          "type": "related",
+          "target": "story-the-ties-that-bind",
+          "label": "story-the-ties-that-bind"
+        },
+        {
+          "type": "related",
+          "target": "story-the-hoofer",
+          "label": "story-the-hoofer"
+        },
+        {
+          "type": "related",
+          "target": "colophon",
+          "label": "colophon"
+        },
+        {
+          "type": "related",
+          "target": "uncopyright",
+          "label": "uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "ancient-gods",
+      "type": "concept",
+      "label": "Ancient Gods",
+      "description": "The original Earth colonists of Mars, remembered centuries later as \"gods\" whose scientific knowledge has been transformed into religious ritual.",
+      "aliases": [
+        "Ancient Fathers",
+        "the Fathers",
+        "Fermi",
+        "Einstein",
+        "Elgermann",
+        "Hanser",
+        "Roggins"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "colonists",
+        "mythology",
+        "it-takes-a-thief"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:ancient-gods",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Great Wind"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual-economy"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "asir"
+        }
+      ]
+    },
+    {
+      "id": "anne",
+      "type": "character",
+      "label": "Anne",
+      "description": "Norris's wife in \"Conditionally Human,\" whose moral condemnation of her husband's work destroying mutant animals drives the story's central ethical conflict.",
+      "aliases": [
+        "Anne Norris",
+        "Mrs. Norris"
+      ],
+      "tags": [
+        "character",
+        "supporting",
+        "conditionally-human",
+        "bioethics"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:anne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-C"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutants"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "doctor-georges"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "old-donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        }
+      ]
+    },
+    {
+      "id": "anthropos",
+      "type": "organization",
+      "label": "Anthropos Incorporated",
+      "description": "A biotechnology corporation in the world of Conditionally Human that pioneered mutant-animal production and neutroid manufacturing using evolvotron technology.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:anthropos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human-work",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "Neutroid"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "Evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "Mutant Animals"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "Delmont Negligency Case"
+        }
+      ]
+    },
+    {
+      "id": "anthropos-inc",
+      "type": "organization",
+      "label": "Anthropos, Inc.",
+      "description": "The corporation that manufactures neutroids and other genetically engineered beings in Miller's Federation — the commercial arm of the genetic classification system.",
+      "aliases": [
+        "Anthropos"
+      ],
+      "tags": [
+        "organization",
+        "federation",
+        "corporation",
+        "neutroid",
+        "bioethics"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:anthropos-inc",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "bermuda-factory",
+          "label": "Bermuda Factory"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "egg-multipliers"
+        },
+        {
+          "type": "related",
+          "target": "wylo-city",
+          "label": "Wylo City"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "reproduction-rights",
+          "label": "reproduction rights"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic-classification"
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence",
+      "type": "concept",
+      "label": "Artificial Intelligence",
+      "description": "The representation of machine intelligence and automated reasoning in Miller's short fiction, from rule-governed robots to systems that blur the boundary between programmed behavior and genuine understanding.",
+      "aliases": [
+        "AI",
+        "robot",
+        "machine intelligence",
+        "thinking machine"
+      ],
+      "tags": [
+        "concept",
+        "science-fiction",
+        "technology",
+        "consciousness"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:artificial-intelligence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "asir",
+      "type": "character",
+      "label": "Asir",
+      "description": "A young ritual-thief on a devolved Mars colony, protagonist of \"It Takes a Thief,\" who steals sacred memorized phrases and discovers the planet's dying from lost knowledge.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "protagonist",
+        "thief",
+        "ritual",
+        "mars-colony"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:asir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual formula"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "Council"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "the executioner"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "old-donegal"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        }
+      ]
+    },
+    {
+      "id": "asirs-scar",
+      "type": "event",
+      "label": "Asir's Scarring",
+      "description": "The marking of Asir with the rust-rubbed scar — the physical sign of his banishment, transforming his body into a permanent record of the Council's judgment.",
+      "aliases": [
+        "Asir's banishment",
+        "marking of Asir"
+      ],
+      "tags": [
+        "event",
+        "mars",
+        "it-takes-a-thief",
+        "punishment"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:asirs-scar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bleeding-blade",
+          "label": "bleeding-blade"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "Slubil"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Donegal"
+        },
+        {
+          "type": "related",
+          "target": "body-as-record",
+          "label": "body-as-record"
+        }
+      ]
+    },
+    {
+      "id": "barkley",
+      "type": "character",
+      "label": "barkley",
+      "description": "Barkley was Laskell's superior officer",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:barkley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "laskell"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "way-of-a-rebel"
+        }
+      ]
+    },
+    {
+      "id": "bermuda-factory",
+      "type": "place",
+      "label": "Bermuda Factory",
+      "description": "The [[neutroid|neutroid]] manufacturing facility where Delmont's negligence occurred — an industrial site that produces engineered substitute children at scale.",
+      "aliases": [
+        "Bermuda",
+        "neutroid factory"
+      ],
+      "tags": [
+        "place",
+        "federation",
+        "conditionally-human",
+        "industry",
+        "neutroid"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:bermuda-factory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "delmont",
+          "label": "Delmont"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "big-bottomless",
+      "type": "place",
+      "label": "Big Bottomless",
+      "description": "The vast region of deep space beyond Earth orbit where the space station floats, referenced by the returning spaceman protagonist of The Hoofer.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:big-bottomless",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-hoofer",
+          "label": "The Hoofer"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "Space Travel"
+        }
+      ]
+    },
+    {
+      "id": "big-hogey-parker",
+      "type": "character",
+      "label": "big-hogey-parker",
+      "description": "Hogey was returning home to Marie after years in space",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:big-hogey-parker",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-hoofer",
+          "label": "the-hoofer"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "big-joe",
+      "type": "character",
+      "label": "Big Joe",
+      "description": "A massive metal guardian robot that protects the vaults beneath Mars in \"It Takes a Thief\" — a killing machine controlled by a floor-tile puzzle.",
+      "aliases": [
+        "the Sleeper",
+        "the monster"
+      ],
+      "tags": [
+        "character",
+        "artifact",
+        "robot",
+        "mars",
+        "it-takes-a-thief",
+        "guardian"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:big-joe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "rituals"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        }
+      ]
+    },
+    {
+      "id": "big-silence",
+      "type": "event",
+      "label": "Big Silence",
+      "description": "A forty-year communications blackout between the Western Federation and the Asian Proletarian League — the geopolitical status quo that defines the world of \"Check and Checkmate\" and whose breaching drives the story's central plot.",
+      "aliases": [
+        "the Silence",
+        "forty years of silence"
+      ],
+      "tags": [
+        "event",
+        "geopolitics",
+        "cold-war",
+        "isolation"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:big-silence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan Ivanovitch IX"
+        },
+        {
+          "type": "related",
+          "target": "peace-effort",
+          "label": "last peace-effort"
+        }
+      ]
+    },
+    {
+      "id": "bioethics",
+      "type": "concept",
+      "label": "Bioethics in Miller's Fiction",
+      "description": "The ethical questions raised by genetic engineering and manufactured life in Miller's short fiction — what it means to create beings classified as less than human, and the moral consequences of treating life as product.",
+      "aliases": [
+        "bioethics",
+        "genetic ethics",
+        "engineered life ethics"
+      ],
+      "tags": [
+        "concept",
+        "bioethics",
+        "genetic-engineering",
+        "theme",
+        "cross-story"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:bioethics",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic classification system"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        }
+      ]
+    },
+    {
+      "id": "blaze-of-the-winds",
+      "type": "concept",
+      "label": "Blaze of the Winds",
+      "description": "The ritual-technological concept at the heart of \"It Takes a Thief\" — simultaneously a rocket engine that can be \"kindled\" and the central mystery of a cargo-cult religion that has forgotten what the Blaze actually is, guarding its activation as sacred knowledge in temple vaults.",
+      "aliases": [
+        "Kindle the Blaze of the Winds",
+        "the Blaze"
+      ],
+      "tags": [
+        "concept",
+        "technology",
+        "religion",
+        "martian-society",
+        "space-travel"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:blaze-of-the-winds",
+      "relations": [
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual formula"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        }
+      ]
+    },
+    {
+      "id": "bleeding-blade",
+      "type": "concept",
+      "label": "Bleeding-Blade",
+      "description": "The ritual execution tool of the Mars colony — a knife wielded by the executioner Slubil, whose stroke may deliver death, amputation, or symbolic marking depending on the secret judgment of the Council.",
+      "aliases": [
+        "bleeding blade",
+        "executioner's knife"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "justice",
+        "punishment",
+        "it-takes-a-thief",
+        "ritual"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:bleeding-blade",
+      "relations": [
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "Slubil"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "genetic classification system"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        }
+      ]
+    },
+    {
+      "id": "body-as-record",
+      "type": "concept",
+      "label": "Body as Record",
+      "description": "The recurring motif in Miller's fiction of the body as a physical record of experience — scars, cancers, and markings that tell stories institutions cannot.",
+      "aliases": [
+        "physical record",
+        "scarred body"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "death-of-a-spaceman",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:body-as-record",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "bleeding-blade",
+          "label": "bleeding-blade"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        }
+      ]
+    },
+    {
+      "id": "bureaucracy",
+      "type": "concept",
+      "label": "Bureaucracy in Miller's Fiction",
+      "description": "The recurring theme of bureaucratic dehumanization across Miller's short fiction — how administrative systems transform moral questions into procedural ones.",
+      "aliases": [
+        "bureaucratic dehumanization",
+        "administrative cruelty"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "bureaucracy",
+        "federation",
+        "cross-story"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:bureaucracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "qualifications-amendment",
+          "label": "amendment"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "the Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic-classification"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "capitol",
+      "type": "place",
+      "label": "Capitol",
+      "description": "The shifting seat of government in \"Check and Checkmate,\" a mobile capitol designed to prevent enemy targeting in an era of perpetual Cold War.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:capitol",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan Ivanovitch IX"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "congress-investigation",
+          "label": "congress-investigation"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "cat-q5",
+      "type": "concept",
+      "label": "Cat-Q-5",
+      "description": "A genetically engineered feline companion produced for Class-C couples — emotionally safer than neutroids, designed to satisfy the parental instinct without the grief risk of quasi-human substitutes.",
+      "aliases": [
+        "cat-Q",
+        "feline series"
+      ],
+      "tags": [
+        "concept",
+        "neutroid",
+        "mutant-animals",
+        "federation",
+        "conditionally-human"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:cat-q5",
+      "relations": [
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animals"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "character-roster",
+      "type": "list",
+      "label": "Character Roster",
+      "description": "Complete index of all characters appearing in Walter M. Miller Jr.'s short fiction collection, with quality ratings and story appearances.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:character-roster",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "check-and-checkmate",
+      "type": "work",
+      "label": "Check and Checkmate",
+      "description": "A short story by Walter M. Miller Jr. about political intrigue between the Western Federation and the Asian Proletarian League, where President John Smith XVI uses stand-ins to navigate diplomatic crises, collected in Short Fiction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:check-and-checkmate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "Walter M. Miller Jr."
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "the-peoplesfriend",
+          "label": "The Peoplesfriend"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "fried-pie-week",
+          "label": "Fried Pie Week"
+        }
+      ]
+    },
+    {
+      "id": "chief-commoner",
+      "type": "character",
+      "label": "chief-commoner",
+      "description": "Asir appealed to the Chief Commoner for clemency",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:chief-commoner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "asir"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "slubil"
+        }
+      ]
+    },
+    {
+      "id": "clan-structure",
+      "type": "concept",
+      "label": "Clan Structure",
+      "description": "The clan-based social organization of Mars colony society — kinship groups that structure political power, resource distribution, and social identity.",
+      "aliases": [
+        "kinship",
+        "clan system",
+        "Martian clans"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "social-structure",
+        "the-ties-that-bind"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:clan-structure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual formulas"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "council-of-senior-kinsmen",
+          "label": "council-of-senior-kinsmen"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "the-ties-that-bind"
+        }
+      ]
+    },
+    {
+      "id": "clans",
+      "type": "organization",
+      "label": "Clans",
+      "description": "The clan-based social organization of future Earth in \"The Ties That Bind,\" including the tech clans who maintain ancient mechanisms and the Pedaga teaching clan.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "short-fiction:clans",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "blaze-of-the-winds"
+        }
+      ]
+    },
+    {
+      "id": "class-c-citizen",
+      "type": "concept",
+      "label": "Class-C Citizen",
+      "description": "The Federation's lowest genetic classification — citizens with \"defective heredity\" who are legally barred from reproducing and permitted only engineered pet-substitutes — exposing the eugenic logic at the core of Miller's future society.",
+      "aliases": [
+        "class-C",
+        "class-C couple",
+        "defective heredity"
+      ],
+      "tags": [
+        "concept",
+        "society",
+        "genetics",
+        "eugenics",
+        "caste"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:class-c-citizen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne Norris"
+        }
+      ]
+    },
+    {
+      "id": "colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Colophon page\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:colophon",
+      "relations": []
+    },
+    {
+      "id": "communications-amendment",
+      "type": "concept",
+      "label": "Communications Amendment",
+      "description": "Legislation mentioned in \"Check and Checkmate\" — part of the Federation's incremental legal restructuring, limiting communication as part of broader social control.",
+      "aliases": [],
+      "tags": [
+        "concept",
+        "federation",
+        "law",
+        "check-and-checkmate"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:communications-amendment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "qualifications-amendment",
+          "label": "Qualifications Amendment"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Smith"
+        },
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "check-and-checkmate"
+        }
+      ]
+    },
+    {
+      "id": "complicity",
+      "type": "concept",
+      "label": "Complicity",
+      "description": "The theme of structural complicity in Miller's fiction — the recognition that living within an unjust system makes one, however unwillingly, a participant in its injustice.",
+      "aliases": [
+        "moral complicity",
+        "structural guilt"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "cross-story",
+        "morality"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:complicity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "The Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Lieutenant Laskell"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "service-and-duty",
+          "label": "service-and-duty"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        }
+      ]
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concept Index",
+      "description": "Alphabetical index of all concepts, themes, and ideas explored across Walter M. Miller Jr.'s short fiction, with quality ratings.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:concept-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "conditionally-human",
+      "type": "concept",
+      "label": "Conditionally Human",
+      "description": "The Federation's system of graded humanity in Miller's stories — where genetic fitness determines reproductive rights and legal personhood exists on a spectrum, rendering \"human\" a conditional status rather than an inherent one.",
+      "aliases": [
+        "class-C",
+        "defective heredity",
+        "conditional humanity"
+      ],
+      "tags": [
+        "concept",
+        "bioethics",
+        "social-classification",
+        "human-rights"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:conditionally-human",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "defective heredity"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animal"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "Neutroid"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "john-smith-xvi"
+        }
+      ]
+    },
+    {
+      "id": "conditionally-human-work",
+      "type": "work",
+      "label": "Conditionally Human",
+      "description": "Walter M. Miller Jr.'s short story exploring the boundaries of humanity through artificial life forms, neutroids, and the ethical dilemmas of genetic engineering.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:conditionally-human-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "sheriff-yates",
+          "label": "Sheriff Yates"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "congress-investigation",
+      "type": "event",
+      "label": "Congress Investigation (Security Probe)",
+      "description": "The massive internal security investigation ordered by John Smith XVI after discovering Asian infiltration in his Stand-in ranks — a congressional inquisition that swept up thousands, exposed the regime's paranoia, and revealed the self-devouring logic of authoritarian security apparatuses.",
+      "aliases": [
+        "security-probe",
+        "spy-scare",
+        "Congress inquisition",
+        "Rabble's Parliament investigation"
+      ],
+      "tags": [
+        "event",
+        "politics",
+        "purge",
+        "espionage",
+        "witch-hunt"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:congress-investigation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan IX"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "big-silence"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "hell-wall"
+        }
+      ]
+    },
+    {
+      "id": "council",
+      "type": "organization",
+      "label": "Council",
+      "description": "The governing body of Martian villages and clan assemblies in Miller's short fiction, wielding authority over banishment, law, and communal decisions.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "short-fiction:council",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "clans"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "john-smith-xvi"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "federation"
+        }
+      ]
+    },
+    {
+      "id": "council-of-senior-kinsmen",
+      "type": "organization",
+      "label": "Council of Senior Kinsmen",
+      "description": "The governing body of the Mars colony village in \"It Takes a Thief\" — a council of elders who administer justice through secret judgment and ritual punishment.",
+      "aliases": [
+        "the Council",
+        "Senior Kinsmen"
+      ],
+      "tags": [
+        "organization",
+        "mars",
+        "it-takes-a-thief",
+        "government",
+        "tribal"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:council-of-senior-kinsmen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "welkir",
+          "label": "Welkir"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "bleeding-blade",
+          "label": "bleeding-blade"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "chief-commoner",
+          "label": "chief-commoner"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        }
+      ]
+    },
+    {
+      "id": "deadline-day",
+      "type": "event",
+      "label": "Deadline Day",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:deadline-day",
+      "relations": []
+    },
+    {
+      "id": "death-of-a-spaceman",
+      "type": "work",
+      "label": "Death of a Spaceman",
+      "description": "A short story by Walter M. Miller Jr. about an elderly spaceman on his deathbed, reflecting on his life and family, collected in Short Fiction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:death-of-a-spaceman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "Walter M. Miller Jr."
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "father-paul",
+          "label": "Father Paul"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "Space Travel"
+        }
+      ]
+    },
+    {
+      "id": "death-of-a-spaceman-work",
+      "type": "work",
+      "label": "Death of a Spaceman",
+      "description": "'\"Death of a Spaceman\" (1954) — An aging spacer confronts his mortality in a story that strips space travel of romance and reveals its human cost.'",
+      "aliases": [],
+      "tags": [
+        "work",
+        "short-story",
+        "space-travel",
+        "miller"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:death-of-a-spaceman-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "donny",
+          "label": "Donny"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        }
+      ]
+    },
+    {
+      "id": "delmont",
+      "type": "character",
+      "label": "Delmont",
+      "description": "A laboratory technician at the Bermuda Factory whose faked neutroid ovum led to the creation of a fertile female neutroid — the central scandal in \"Conditionally Human.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "scientist",
+        "federation",
+        "conditionally-human",
+        "bioethics"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:delmont",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "delmont-negligency-case"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animals"
+        }
+      ]
+    },
+    {
+      "id": "delmont-negligency-case",
+      "type": "event",
+      "label": "Delmont Negligency Case",
+      "description": "The administrative scandal at Anthropos, Inc.'s Bermuda plant — an evolvotron operator's falsified production record that produced an illegally female neutroid — triggering a territory-wide seizure order and the moral crisis at the heart of \"Conditionally Human.\"",
+      "aliases": [
+        "Delmont case",
+        "Delmont's fraud",
+        "Delmont investigation"
+      ],
+      "tags": [
+        "event",
+        "legal",
+        "bioethics",
+        "scandal"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:delmont-negligency-case",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron operator"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne Norris"
+        },
+        {
+          "type": "related",
+          "target": "anthropos",
+          "label": "anthropos"
+        }
+      ]
+    },
+    {
+      "id": "doctor-georges",
+      "type": "character",
+      "label": "Doctor Hiram Georges",
+      "description": "A family physician in \"Conditionally Human\" whose murder by a woman convinced her neutroid was her stolen baby catalyzes the story's central conflict over mutant animal personhood.",
+      "aliases": [
+        "Doctor Georges",
+        "Hiram Georges"
+      ],
+      "tags": [
+        "character",
+        "physician",
+        "victim",
+        "conditionally-human"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:doctor-georges",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animal"
+        }
+      ]
+    },
+    {
+      "id": "dog-f",
+      "type": "concept",
+      "label": "Dog-F",
+      "description": "A genetically engineered canine companion — part of the Federation's graded system of substitute pets for Class-C citizens, offering less emotional entanglement than neutroids.",
+      "aliases": [
+        "canine series"
+      ],
+      "tags": [
+        "concept",
+        "mutant-animals",
+        "federation",
+        "conditionally-human",
+        "pet"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:dog-f",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cat-q5",
+          "label": "cat-Q-5"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animals"
+        }
+      ]
+    },
+    {
+      "id": "donny",
+      "type": "character",
+      "label": "Donny",
+      "description": "Son of Old Donegal in \"Death of a Spaceman,\" whose relationship with his dying father anchors the story's meditation on legacy and obsolescence.",
+      "aliases": [],
+      "tags": [
+        "character",
+        "death-of-a-spaceman",
+        "family"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:donny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        },
+        {
+          "type": "related",
+          "target": "death-of-a-spaceman",
+          "label": "death-of-a-spaceman"
+        }
+      ]
+    },
+    {
+      "id": "donnys-death",
+      "type": "event",
+      "label": "Donny's Death",
+      "description": "The death of Old Donegal's son Donny — a pre-story event that shapes Donegal's emotional landscape in \"Death of a Spaceman.\"",
+      "aliases": [
+        "Donny's execution",
+        "execution of Donny"
+      ],
+      "tags": [
+        "event",
+        "death-of-a-spaceman",
+        "family",
+        "loss"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:donnys-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "donny",
+          "label": "Donny"
+        },
+        {
+          "type": "related",
+          "target": "death-of-a-spaceman",
+          "label": "death-of-a-spaceman"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "type": "place",
+      "label": "Earth",
+      "description": "The ancestral homeworld and primary setting for most of Miller's stories, depicted as an overpopulated, bureaucratically managed future society from which characters seek escape through space, memory, or rebellion.",
+      "aliases": [
+        "Terra",
+        "home planet",
+        "Old Earth"
+      ],
+      "tags": [
+        "place",
+        "planet",
+        "setting",
+        "science-fiction"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:earth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-C"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Donegal"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "edward",
+      "type": "character",
+      "label": "Edward",
+      "description": "A central character in \"The Ties That Bind\" — invoked in the story's epigraph from the traditional ballad \"Edward, Edward.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "mars",
+        "the-ties-that-bind",
+        "clan"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:edward",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clan-structure",
+          "label": "clan-structure"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "the-ties-that-bind"
+        }
+      ]
+    },
+    {
+      "id": "egg-multiplier",
+      "type": "concept",
+      "label": "Egg-Multiplier",
+      "description": "The technology that multiplies chimpanzee ova for neutroid production — part of the industrial apparatus that manufactures quasi-human beings at scale.",
+      "aliases": [
+        "ovum multiplier"
+      ],
+      "tags": [
+        "concept",
+        "technology",
+        "neutroid",
+        "evolvotron",
+        "conditionally-human"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:egg-multiplier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "bermuda-factory",
+          "label": "bermuda-factory"
+        },
+        {
+          "type": "related",
+          "target": "bioethics",
+          "label": "bioethics"
+        }
+      ]
+    },
+    {
+      "id": "eighteenth-order-virus",
+      "type": "concept",
+      "label": "Eighteenth-Order Virus",
+      "description": "A viral disease affecting neutroids — treatable in humans but fatal in manufactured substitutes due to the economics of the classification system rather than medical impossibility.",
+      "aliases": [
+        "18th-order virus",
+        "neutroid disease"
+      ],
+      "tags": [
+        "concept",
+        "disease",
+        "neutroid",
+        "conditionally-human",
+        "bioethics"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:eighteenth-order-virus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "doctor-georges"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "eighth-world-war",
+      "type": "event",
+      "label": "Eighth World War",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:eighth-world-war",
+      "relations": []
+    },
+    {
+      "id": "erskine-miler",
+      "type": "character",
+      "label": "Erskine Miler",
+      "description": "Police Chief of Sherman II who reports on the murder of Doctor Georges in \"Conditionally Human,\" representing the civic authority that exists within but cannot transcend the genetic classification system.",
+      "aliases": [
+        "Chief Miler",
+        "Police Chief Miler"
+      ],
+      "tags": [
+        "character",
+        "federation",
+        "conditionally-human",
+        "law-enforcement"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:erskine-miler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "james-duncan",
+          "label": "James Duncan"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "sarah-glubbes"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Index",
+      "description": "Index of all significant events in Walter M. Miller Jr.'s short fiction collection, from political crises to cultural milestones.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:event-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "evolvotron",
+      "type": "concept",
+      "label": "Evolvotron",
+      "description": "The genetic engineering machine used by Anthropos, Inc. to manufacture neutroids — a device that bombards chimpanzee ova with subatomic particles to reshape gene structures into quasi-human forms, embodying Miller's vision of technology as both miracle and moral hazard.",
+      "aliases": [
+        "evolvotron operator",
+        "gene-structure bombardment"
+      ],
+      "tags": [
+        "concept",
+        "technology",
+        "genetic-engineering",
+        "bioethics"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:evolvotron",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "Delmont case"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animal"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-c-citizen"
+        }
+      ]
+    },
+    {
+      "id": "evon",
+      "type": "character",
+      "label": "evon",
+      "description": "Ven Klaeden's forces killed Letha before Evon's eyes",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:evon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letha",
+          "label": "letha"
+        },
+        {
+          "type": "related",
+          "target": "meikl",
+          "label": "meikl"
+        },
+        {
+          "type": "related",
+          "target": "ven-klaeden",
+          "label": "ven-klaeden"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "the-ties-that-bind"
+        }
+      ]
+    },
+    {
+      "id": "father-paul",
+      "type": "character",
+      "label": "father-paul",
+      "description": "Father Paul spoke with Martha about Donegal's condition",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:father-paul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "old-donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "martha"
+        },
+        {
+          "type": "related",
+          "target": "death-of-a-spaceman",
+          "label": "death-of-a-spaceman"
+        }
+      ]
+    },
+    {
+      "id": "federation",
+      "type": "concept",
+      "label": "Federation (Western Federation of Autonomous States)",
+      "description": "The Western Federation of Autonomous States — Miller's future American superstate — is a bureaucratic authoritarian regime where employment is assigned by aptitude test, reproduction is controlled by genetic classification, and presidents are raised from birth to rule behind golden tragedy masks.",
+      "aliases": [
+        "Western Federation of Autonomous States",
+        "Western Federation",
+        "Federation"
+      ],
+      "tags": [
+        "concept",
+        "government",
+        "politics",
+        "dystopia",
+        "bureaucracy"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:federation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-c-citizen"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "hell-wall"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        }
+      ]
+    },
+    {
+      "id": "firebirds-of-the-sun",
+      "type": "concept",
+      "label": "Firebirds of the Sun",
+      "description": "The spacecraft of the Ancient Fathers in Martian mythology — remembered as divine chariots that brought the gods from the heavens.",
+      "aliases": [
+        "Firebirds",
+        "ships of the gods"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "mythology",
+        "ancient-gods",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:firebirds-of-the-sun",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "ancient-gods"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "blaze-of-the-winds"
+        }
+      ]
+    },
+    {
+      "id": "florida-coast",
+      "type": "place",
+      "label": "Florida Coast",
+      "description": "The coastal waters where Lieutenant Laskell surfaces his one-man submarine at the opening of \"Way of a Rebel.\"",
+      "aliases": [
+        "Florida"
+      ],
+      "tags": [
+        "place",
+        "earth",
+        "way-of-a-rebel",
+        "federation"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:florida-coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Lieutenant Laskell"
+        },
+        {
+          "type": "related",
+          "target": "manlin-bill",
+          "label": "Manlin Bill"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "way-of-a-rebel"
+        }
+      ]
+    },
+    {
+      "id": "franklin",
+      "type": "character",
+      "label": "franklin",
+      "description": "Franklin sought to impound and test Peony as a suspected deviant neutroid",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:franklin",
+      "relations": []
+    },
+    {
+      "id": "fried-pie-week",
+      "type": "event",
+      "label": "Fried Pie Week",
+      "description": "A calendar week in the future era of Check and Checkmate, used as a diplomatic deadline between the Western Federation and the Asian Proletarian League.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:fried-pie-week",
+      "relations": [
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "Check and Checkmate"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "Big Silence"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        }
+      ]
+    },
+    {
+      "id": "full-index",
+      "type": "list",
+      "label": "Full Index",
+      "description": "Complete index of all wiki entries across all types — characters, concepts, places, organizations, events, and works — in Walter M. Miller Jr.'s short fiction collection.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:full-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "gardens",
+      "type": "place",
+      "label": "Gardens",
+      "description": "The cultivated garden pathways of future Earth in \"The Ties That Bind,\" where the planet's inhabitants live in quiet harmony with nature in the post-technological era.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "short-fiction:gardens",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "clans"
+        },
+        {
+          "type": "related",
+          "target": "geoark",
+          "label": "geoark"
+        }
+      ]
+    },
+    {
+      "id": "garson",
+      "type": "character",
+      "label": "Secretary Garson",
+      "description": "A Federation cabinet secretary whose wartime ultimatum in \"Way of a Rebel\" signals the government's escalation toward total war.",
+      "aliases": [
+        "Garson"
+      ],
+      "tags": [
+        "character",
+        "federation",
+        "way-of-a-rebel",
+        "government"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:garson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Lieutenant Laskell"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "way-of-a-rebel"
+        }
+      ]
+    },
+    {
+      "id": "genetic-classification",
+      "type": "concept",
+      "label": "Genetic Classification",
+      "description": "The Federation's system of classifying citizens by genetic fitness — A through C — which determines reproductive rights, social status, and the boundaries of legal personhood.",
+      "aliases": [
+        "genetic fitness",
+        "class system",
+        "heredity classification"
+      ],
+      "tags": [
+        "concept",
+        "bioethics",
+        "social-control",
+        "federation",
+        "classification"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:genetic-classification",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "defective heredity"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animal"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "geoark",
+      "type": "organization",
+      "label": "Geoark",
+      "description": "The governing council of future Earth in \"The Ties That Bind,\" composed of elders who deliberate and decide on behalf of all clans in the post-Exodus era.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "short-fiction:geoark",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "tech clans"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        }
+      ]
+    },
+    {
+      "id": "georges-murder",
+      "type": "event",
+      "label": "Murder of Doctor Georges",
+      "description": "The murder of Doctor Hiram Georges by Sarah Glubbes, whose dying neutroid he had refused to treat — the violent eruption of a grief the genetic classification system was designed to produce but not to acknowledge.",
+      "aliases": [
+        "Georges murder",
+        "Doctor Georges murder"
+      ],
+      "tags": [
+        "event",
+        "federation",
+        "conditionally-human",
+        "murder",
+        "neutroid"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:georges-murder",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Hiram Georges"
+        },
+        {
+          "type": "related",
+          "target": "james-duncan",
+          "label": "James Duncan"
+        },
+        {
+          "type": "related",
+          "target": "erskine-miler",
+          "label": "Erskine Miler"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "classification system"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "pound-inspection",
+          "label": "pound-inspection"
+        }
+      ]
+    },
+    {
+      "id": "government",
+      "type": "organization",
+      "label": "Government",
+      "description": "The federal government system depicted in Miller's short fiction, encompassing the executive, legislative, and military branches in stories of Cold War-era political intrigue.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "short-fiction:government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        },
+        {
+          "type": "related",
+          "target": "congress-investigation",
+          "label": "congress-investigation"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "federation"
+        },
+        {
+          "type": "related",
+          "target": "navy",
+          "label": "navy"
+        }
+      ]
+    },
+    {
+      "id": "guilt",
+      "type": "concept",
+      "label": "Guilt in Miller's Fiction",
+      "description": "The pervasive theme of guilt and complicity in Miller's short fiction — characters who recognize their participation in unjust systems but cannot easily extract themselves.",
+      "aliases": [
+        "moral guilt",
+        "complicity"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "guilt",
+        "morality",
+        "cross-story"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:guilt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Donegal"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        }
+      ]
+    },
+    {
+      "id": "hell-wall",
+      "type": "concept",
+      "label": "Hell Wall",
+      "description": "A globe-encircling belt of booby-trapped land and ocean separating the Western Federation from the Asian Proletarian League — simultaneously a military barrier, a political tool, and a symbol of the mutual paranoia that defines Miller's divided world.",
+      "aliases": [
+        "the Wall",
+        "booby-trapped belt"
+      ],
+      "tags": [
+        "concept",
+        "geopolitics",
+        "cold-war",
+        "barrier",
+        "isolation"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:hell-wall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "Big Silence"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "stand-in"
+        }
+      ]
+    },
+    {
+      "id": "hoofers-return",
+      "type": "event",
+      "label": "The Hoofer's Return",
+      "description": "The final journey of the space hoofer in Miller's story — a working-class spacer's last trip home, confronting the human cost of the space lanes.",
+      "aliases": [
+        "final journey",
+        "hoofer's homecoming"
+      ],
+      "tags": [
+        "event",
+        "the-hoofer",
+        "space-travel",
+        "death"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:hoofers-return",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-hogey-parker",
+          "label": "Big Hogey Parker"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        },
+        {
+          "type": "related",
+          "target": "the-hoofer",
+          "label": "the-hoofer"
+        }
+      ]
+    },
+    {
+      "id": "huffen",
+      "type": "concept",
+      "label": "Hüffen",
+      "description": "A wild flying creature native to Mars, used as a mount by the colonists and invoked as a threat in punishment rituals.",
+      "aliases": [
+        "huffen",
+        "wild huffen"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "creature",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:huffen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "mara",
+          "label": "mara"
+        }
+      ]
+    },
+    {
+      "id": "imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Imprint page\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:imprint",
+      "relations": []
+    },
+    {
+      "id": "insight-artificial-life-across-stories",
+      "type": "insight",
+      "label": "Artificial Life Across Miller's Stories",
+      "description": "A cross-story analysis of how engineered life — neutroids, mutant animals, and the evolvotron technology — functions as a unifying thematic concern across Miller's short fiction, connecting bioethics, social control, and the boundaries of personhood.",
+      "aliases": [
+        "artificial-life",
+        "engineered-beings",
+        "mutant-economy"
+      ],
+      "tags": [
+        "insight",
+        "artificial-life",
+        "bioethics",
+        "technology",
+        "cross-story-theme"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:insight-artificial-life-across-stories",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "peony",
+          "label": "Peony"
+        },
+        {
+          "type": "related",
+          "target": "o-reilley",
+          "label": "O'Reilley"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C classification"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animals"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "insight-authority-and-resistance",
+      "type": "insight",
+      "label": "Authority and Resistance in Miller's Fiction",
+      "description": "A cross-story analysis of how Miller portrays the tension between centralized authority and individual resistance — from John Smith XVI's surveillance state to the Martian colonists' ritualized submission — revealing a persistent concern with the moral psychology of obedience.",
+      "aliases": [
+        "authority",
+        "resistance",
+        "government-critique",
+        "power-structures"
+      ],
+      "tags": [
+        "insight",
+        "politics",
+        "authority",
+        "resistance",
+        "cross-story-theme"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:insight-authority-and-resistance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan Ivanovitch IX"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "peony",
+          "label": "Peony"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "barkley",
+          "label": "barkley"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "big-silence"
+        }
+      ]
+    },
+    {
+      "id": "insight-martian-society",
+      "type": "insight",
+      "label": "\"Martian Society: Decay and Adaptation\"",
+      "description": "\"A cross-story analysis of the decaying Martian colony society in Miller's 'It Takes a Thief' — where shipwrecked colonists have lost all technological knowledge, preserved only as ritual, and survive in a pre-industrial culture built on the ruins of their ancestors' spacefaring civilization.\"",
+      "aliases": [
+        "martian-society",
+        "mars-colony",
+        "martian-culture"
+      ],
+      "tags": [
+        "insight",
+        "mars",
+        "society",
+        "culture",
+        "cross-story-theme"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:insight-martian-society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "the Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "slubil"
+        }
+      ]
+    },
+    {
+      "id": "it-takes-a-thief-work",
+      "type": "work",
+      "label": "It Takes a Thief",
+      "description": "'\"It Takes a Thief\" (1952) — Walter M. Miller Jr.''s Mars colony story in which a ritual-thief''s stolen knowledge may be the key to planetary survival.'",
+      "aliases": [],
+      "tags": [
+        "work",
+        "short-story",
+        "mars",
+        "miller"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:it-takes-a-thief-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "dying Mars colony"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "Ancient Gods"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "rituals"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "currency"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "bleeding-blade",
+          "label": "bleeding-blade"
+        },
+        {
+          "type": "related",
+          "target": "mara",
+          "label": "Mara"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "big-joe",
+          "label": "Big Joe"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        }
+      ]
+    },
+    {
+      "id": "ivan-ivanovitch-ix",
+      "type": "character",
+      "label": "Ivan Ivanovitch IX",
+      "description": "The Peoplesfriend and Vicar of the Asian Proletarian League in \"Check and Checkmate,\" John Smith XVI's diplomatic counterpart whose unnerving confidence masks — or reveals — a strategic superiority over the West.",
+      "aliases": [
+        "Ivan IX",
+        "the Peoplesfriend",
+        "Vicar of the Asian Proletarian League",
+        "the Red leader"
+      ],
+      "tags": [
+        "character",
+        "leader",
+        "asian-league",
+        "diplomacy",
+        "cold-war"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:ivan-ivanovitch-ix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "james-duncan",
+      "type": "character",
+      "label": "James Duncan",
+      "description": "Radio reporter for the Sherman II mobile unit who covers the murder of Doctor Georges in \"Conditionally Human.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "federation",
+        "conditionally-human",
+        "reporter",
+        "media"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:james-duncan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Hiram Georges"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "erskine-miler",
+          "label": "Erskine Miler"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic-classification"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "sarah-glubbes"
+        }
+      ]
+    },
+    {
+      "id": "john-smith-xvi",
+      "type": "character",
+      "label": "John Smith XVI",
+      "description": "The sixteenth President of the Western Federation of Autonomous States, protagonist of \"Check and Checkmate,\" who attempts to break forty years of isolation by contacting the Asian Proletarian League.",
+      "aliases": [
+        "John Smith the Sixteenth",
+        "President Smith",
+        "John XVI"
+      ],
+      "tags": [
+        "character",
+        "president",
+        "federation",
+        "diplomacy",
+        "cold-war"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:john-smith-xvi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "Big Silence"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan Ivanovitch IX"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "justice-section",
+      "type": "organization",
+      "label": "Justice Section",
+      "description": "A law enforcement and investigative body operating in the occupied zone on Earth, responsible for tracking down escaped personnel and maintaining order among the returning clans.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:justice-section",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "Clans"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        }
+      ]
+    },
+    {
+      "id": "kinship",
+      "type": "concept",
+      "label": "Kinship",
+      "description": "The role of kinship bonds across Miller's Mars fiction — family as both the deepest human connection and the structure that most tightly constrains individual choice.",
+      "aliases": [
+        "family bonds",
+        "clan ties"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "mars",
+        "the-ties-that-bind",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:kinship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clan-structure",
+          "label": "Clans"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "Mars colony"
+        },
+        {
+          "type": "related",
+          "target": "sanctuary",
+          "label": "sanctuary"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "the-ties-that-bind"
+        }
+      ]
+    },
+    {
+      "id": "laskell",
+      "type": "character",
+      "label": "laskell",
+      "description": "Laskell served under Captain Barkley's command",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:laskell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "barkley",
+          "label": "barkley"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "way-of-a-rebel"
+        }
+      ]
+    },
+    {
+      "id": "letha",
+      "type": "character",
+      "label": "letha",
+      "description": "Letha shared living space and friendship with Evon",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:letha",
+      "relations": []
+    },
+    {
+      "id": "literary-naturalism",
+      "type": "concept",
+      "label": "Literary Naturalism",
+      "description": "Miller's literary naturalism — the refusal to separate moral questions from physical realities, treating bodies, economies, and institutions as material forces that shape human possibility.",
+      "aliases": [
+        "naturalism",
+        "materialist fiction"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "literary-criticism",
+        "cross-story"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:literary-naturalism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Donegal"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic-classification"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual-economy"
+        },
+        {
+          "type": "related",
+          "target": "body-as-record",
+          "label": "body-as-record"
+        },
+        {
+          "type": "related",
+          "target": "occupational-hazard",
+          "label": "occupational-hazard"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        }
+      ]
+    },
+    {
+      "id": "manlin-bill",
+      "type": "concept",
+      "label": "Manlin Bill",
+      "description": "The Manlin Bill (Twenty-Sixth Amendment) in \"Way of a Rebel\" — legislation authorizing military conscription and expanded wartime powers, triggering the story's central moral conflict.",
+      "aliases": [
+        "Twenty-Sixth Amendment"
+      ],
+      "tags": [
+        "concept",
+        "law",
+        "way-of-a-rebel",
+        "federation",
+        "conscription"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:manlin-bill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Lieutenant Laskell"
+        },
+        {
+          "type": "related",
+          "target": "qualifications-amendment",
+          "label": "qualifications-amendment"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "way-of-a-rebel"
+        }
+      ]
+    },
+    {
+      "id": "mara",
+      "type": "character",
+      "label": "Mara",
+      "description": "Daughter of Senior Kinsman Welkir, a tall and arrogant Mars-colony girl whose ambiguous loyalty to Asir drives the plot of \"It Takes a Thief.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "mars",
+        "it-takes-a-thief"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:mara",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "chief-commoner",
+          "label": "Tokra"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "slubil"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        }
+      ]
+    },
+    {
+      "id": "mars",
+      "type": "place",
+      "label": "Mars",
+      "description": "A colonized frontier world in Miller's fiction, depicted both as a dying planet with an ancient indigenous culture (\"It Takes a Thief\") and as an industrial alternative to Earth in later stories.",
+      "aliases": [
+        "Red Planet",
+        "Mars-Culture",
+        "Marsworld"
+      ],
+      "tags": [
+        "place",
+        "planet",
+        "colony",
+        "science-fiction",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:mars",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "old-donegal"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "mars-colony",
+      "type": "concept",
+      "label": "Mars Colony",
+      "description": "The dying human colony on Mars in \"It Takes a Thief\" — a society that has forgotten its own technological origins and now faces extinction as its atmosphere leaks away.",
+      "aliases": [
+        "Mars",
+        "Martian colony",
+        "dying Mars"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "colony",
+        "planetary-survival",
+        "it-takes-a-thief"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:mars-colony",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "chief-commoner",
+          "label": "Chief Commoner"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "big-joe",
+          "label": "Big Joe"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "ancient-gods"
+        }
+      ]
+    },
+    {
+      "id": "marswolf",
+      "type": "concept",
+      "label": "Marswolf",
+      "description": "A predatory creature of Mars, whose form was used in designing [[big-joe|Big Joe]]'s monstrous head — \"with long silver fangs.\"",
+      "aliases": [
+        "Mars-wolf"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "creature",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:marswolf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-joe",
+          "label": "Big Joe"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "huffen",
+          "label": "huffen"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "ancient-gods"
+        }
+      ]
+    },
+    {
+      "id": "martha",
+      "type": "character",
+      "label": "Martha",
+      "description": "Old Donegal's devoted wife in \"Death of a Spaceman,\" who has been deliberately sheltered from the truth of her husband's terminal condition.",
+      "aliases": [
+        "Martha Donegal",
+        "Mrs. Donegal"
+      ],
+      "tags": [
+        "character",
+        "supporting",
+        "death-of-a-spaceman",
+        "spouse"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:martha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "anne"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "meikl",
+      "type": "character",
+      "label": "meikl",
+      "description": "Meikl served as an analyst under Baron ven Klaeden's command",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:meikl",
+      "relations": []
+    },
+    {
+      "id": "memory-and-decay",
+      "type": "concept",
+      "label": "Memory and Decay",
+      "description": "The decay of knowledge across generations in Miller's Mars stories — how technical understanding becomes ritual, then myth, then is lost entirely.",
+      "aliases": [
+        "cultural decay",
+        "knowledge loss"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "mars",
+        "it-takes-a-thief",
+        "the-ties-that-bind"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:memory-and-decay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "Mars colony"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "Ancient Gods"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual chants"
+        },
+        {
+          "type": "related",
+          "target": "body-as-record",
+          "label": "body-as-record"
+        }
+      ]
+    },
+    {
+      "id": "mutant-animals",
+      "type": "concept",
+      "label": "Mutant Animals",
+      "description": "Genetically engineered artificial creatures created by Anthropos Corporation using the evolvotron, sold as pets and companions in Miller's future Earth — occupying a morally ambiguous position between property and personhood.",
+      "aliases": [
+        "mutants",
+        "neutroids",
+        "artificial mutants",
+        "mutant-animal"
+      ],
+      "tags": [
+        "concept",
+        "world-building",
+        "bioethics",
+        "technology"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:mutant-animals",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "chimp-K series"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-C couple"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "navy",
+      "type": "organization",
+      "label": "Navy",
+      "description": "The naval military branch in \"Way of a Rebel,\" the undersea warfare service from which Mitch Laskell deserts after a personal crisis of conscience.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:navy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "clans"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        }
+      ]
+    },
+    {
+      "id": "nectar-cactus",
+      "type": "concept",
+      "label": "Nectar-Cactus",
+      "description": "A Martian plant producing drinkable nectar, referenced in the children's rhyme Asir recalls while awaiting execution.",
+      "aliases": [],
+      "tags": [
+        "concept",
+        "mars",
+        "flora",
+        "it-takes-a-thief"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:nectar-cactus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "Ancient Fathers"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "asir"
+        }
+      ]
+    },
+    {
+      "id": "neutroid",
+      "type": "concept",
+      "label": "Neutroid",
+      "description": "Genetically engineered quasi-human pets in Miller's future — childlike, neuter, and legally disposable — whose existence exposes the Federation's moral contradictions around personhood, commerce, and the human need for something to love.",
+      "aliases": [
+        "chimp-K series",
+        "mutant animals",
+        "K-99"
+      ],
+      "tags": [
+        "concept",
+        "bioethics",
+        "genetic-engineering",
+        "society"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:neutroid",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "defective heredity"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "Delmont case"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "Father Paulson"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne Norris"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "neutroid-recall",
+      "type": "event",
+      "label": "Neutroid Recall",
+      "description": "The emergency recall of K-99 neutroids triggered by the Delmont negligency case — Norris's district-wide operation to locate, test, and destroy defective manufactured beings.",
+      "aliases": [
+        "K-99 recall",
+        "Bermuda recall"
+      ],
+      "tags": [
+        "event",
+        "federation",
+        "conditionally-human",
+        "neutroid",
+        "bioethics"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:neutroid-recall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "delmont",
+          "label": "Delmont negligency case"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "sheriff-yates",
+          "label": "Sheriff Yates"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "pound-inspection",
+          "label": "pound-inspection"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "delmont-negligency-case"
+        }
+      ]
+    },
+    {
+      "id": "nora",
+      "type": "character",
+      "label": "nora",
+      "description": "Nora is Ken's mother; she supported his decision not to attend the space academy",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:nora",
+      "relations": []
+    },
+    {
+      "id": "norris",
+      "type": "character",
+      "label": "Norris",
+      "description": "Bio-Administration district inspector and protagonist of \"Conditionally Human,\" caught between his duties destroying unclaimed mutant animals and his wife's moral condemnation of the work.",
+      "aliases": [
+        "Inspector Norris",
+        "Agent Norris"
+      ],
+      "tags": [
+        "character",
+        "protagonist",
+        "bio-administration",
+        "conditionally-human"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:norris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-C"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutants"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "sheriff-yates",
+          "label": "sheriff-yates"
+        },
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "old-donegal"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "norris-home",
+      "type": "place",
+      "label": "Norris Home",
+      "description": "The home of Norris and Anne — a domestic space that offers temporary refuge from the moral demands of the pound inspection system.",
+      "aliases": [
+        "Norris residence"
+      ],
+      "tags": [
+        "place",
+        "federation",
+        "conditionally-human",
+        "domestic"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:norris-home",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "pound-inspection",
+          "label": "pound-inspection"
+        },
+        {
+          "type": "related",
+          "target": "sanctuary",
+          "label": "sanctuary"
+        }
+      ]
+    },
+    {
+      "id": "o-reilley",
+      "type": "character",
+      "label": "o-reilley",
+      "description": "Norris investigated O'Reilley's shop during the Bermuda-K-99 survey",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:o-reilley",
+      "relations": []
+    },
+    {
+      "id": "occupational-hazard",
+      "type": "concept",
+      "label": "Occupational Hazard",
+      "description": "The physical toll of space work in Miller's fiction — radiation exposure, cancer, and the accumulated damage that writes a working life onto the body.",
+      "aliases": [
+        "radiation sickness",
+        "spacer's disease"
+      ],
+      "tags": [
+        "concept",
+        "space-travel",
+        "occupation",
+        "death-of-a-spaceman",
+        "the-hoofer"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:occupational-hazard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "big-hogey-parker",
+          "label": "Big Hogey Parker"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        },
+        {
+          "type": "related",
+          "target": "body-as-record",
+          "label": "body-as-record"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "old-donegal",
+      "type": "character",
+      "label": "Old Donegal",
+      "description": "Aging former fighter pilot and protagonist of \"Death of a Spaceman,\" facing his final hours in a space hospital with a mix of irreverence, regret, and stubborn dignity.",
+      "aliases": [
+        "Donegal",
+        "Donny",
+        "Old Donegal"
+      ],
+      "tags": [
+        "character",
+        "protagonist",
+        "death-of-a-spaceman",
+        "space",
+        "military"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:old-donegal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "organization-index",
+      "type": "list",
+      "label": "Organization Index",
+      "description": "Index of all organizations, institutions, and groups appearing in Walter M. Miller Jr.'s short fiction collection.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:organization-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "paulson",
+      "type": "character",
+      "label": "paulson",
+      "description": "Paulson observed Peony to verify O'Reilley's sanity",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:paulson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        },
+        {
+          "type": "related",
+          "target": "o-reilley",
+          "label": "o-reilley"
+        },
+        {
+          "type": "related",
+          "target": "peony",
+          "label": "peony"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "peace-effort",
+      "type": "event",
+      "label": "Peace Effort",
+      "description": "The recurring and repeatedly failed diplomatic initiatives between the Western Federation and the Asian Proletarian League — each ending in stalemate and tightening the isolation that defines Miller's divided world, until John Smith XVI's televiewphone breach attempts something different.",
+      "aliases": [
+        "peace-efforts",
+        "last peace-effort",
+        "peace initiative"
+      ],
+      "tags": [
+        "event",
+        "geopolitics",
+        "diplomacy",
+        "cold-war"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:peace-effort",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "Big Silence"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "Ivan IX"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Tertiary Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "hell-wall"
+        }
+      ]
+    },
+    {
+      "id": "peony",
+      "type": "character",
+      "label": "Peony",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:peony",
+      "relations": []
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Person Index",
+      "description": "Index of real people referenced in the wiki — authors, historical figures, and other non-fiction persons.",
+      "aliases": [
+        "people index",
+        "authors"
+      ],
+      "tags": [
+        "list",
+        "navigation",
+        "index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:person-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "Walter M. Miller Jr."
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "Enrico Fermi"
+        },
+        {
+          "type": "related",
+          "target": "character-roster",
+          "label": "character-roster"
+        },
+        {
+          "type": "related",
+          "target": "full-index",
+          "label": "full-index"
+        }
+      ]
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "Place Index",
+      "description": "Index of all locations and settings appearing in Walter M. Miller Jr.'s short fiction collection, from Earth to Mars and beyond.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:place-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "political-theater",
+      "type": "concept",
+      "label": "Political Theater",
+      "description": "The theme of politics as performance in Miller's work — governance reduced to scripted ritual, where the [[presidential-mask|mask]] conceals the absence of genuine authority.",
+      "aliases": [
+        "politics as performance",
+        "staged governance"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "check-and-checkmate",
+        "federation"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:political-theater",
+      "relations": [
+        {
+          "type": "related",
+          "target": "presidential-mask",
+          "label": "golden mask"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "federation"
+        }
+      ]
+    },
+    {
+      "id": "pound",
+      "type": "place",
+      "label": "District Pound",
+      "description": "Norris's district pound — the facility where seized and unclaimed neutroids are held in cages, awaiting inspection or destruction.",
+      "aliases": [
+        "pound kennel",
+        "neutroid pound"
+      ],
+      "tags": [
+        "place",
+        "federation",
+        "conditionally-human",
+        "institution"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:pound",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "pound-inspection",
+          "label": "pound-inspection"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "pound-inspection",
+      "type": "event",
+      "label": "Pound Inspection",
+      "description": "The emergency recall and inspection of K-99 neutroids in \"Conditionally Human\" — Norris's frantic effort to locate and test forty potentially defective manufactured beings before they can reproduce.",
+      "aliases": [
+        "neutroid inspection",
+        "K-99 recall",
+        "pound seizure"
+      ],
+      "tags": [
+        "event",
+        "federation",
+        "conditionally-human",
+        "neutroid",
+        "norris"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:pound-inspection",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "delmont",
+          "label": "Delmont negligency case"
+        },
+        {
+          "type": "related",
+          "target": "sheriff-yates",
+          "label": "Sheriff Yates"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "delmont-negligency-case"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "presidential-mask",
+      "type": "concept",
+      "label": "Presidential Mask",
+      "description": "The golden mask worn by the President of the Federation — hiding the wearer's identity and symbolizing the depersonalization of power in Miller's bureaucratic dystopia.",
+      "aliases": [
+        "golden mask",
+        "mask of tragedy"
+      ],
+      "tags": [
+        "concept",
+        "federation",
+        "check-and-checkmate",
+        "symbolism"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:presidential-mask",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic classification system"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        },
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "check-and-checkmate"
+        }
+      ]
+    },
+    {
+      "id": "primary-stand-ins",
+      "type": "concept",
+      "label": "Primary Stand-ins",
+      "description": "The nine Primary Stand-ins who surround the President — functionaries trained to replace him, each a potential mask-wearer in a system where identity is fungible.",
+      "aliases": [
+        "Stand-in corps"
+      ],
+      "tags": [
+        "concept",
+        "federation",
+        "check-and-checkmate",
+        "government"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:primary-stand-ins",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "presidential-mask",
+          "label": "golden mask"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Smith"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        },
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "check-and-checkmate"
+        }
+      ]
+    },
+    {
+      "id": "qualifications-amendment",
+      "type": "concept",
+      "label": "Qualifications Amendment",
+      "description": "The series of constitutional amendments in \"Check and Checkmate\" that progressively restricted the definition of qualified citizenship — from psychological fitness to education to genetics — creating the Federation's stratified society.",
+      "aliases": [
+        "Education Amendment",
+        "Genetic Amendment",
+        "Selection Amendment"
+      ],
+      "tags": [
+        "concept",
+        "federation",
+        "law",
+        "genetic-classification",
+        "check-and-checkmate"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:qualifications-amendment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic-classification"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "reproduction-rights",
+      "type": "concept",
+      "label": "Reproduction Rights",
+      "description": "The Federation's control of reproduction through genetic classification — who may have children and under what conditions, transforming a biological capacity into a state-regulated privilege.",
+      "aliases": [
+        "reproductive rights",
+        "breeding permits"
+      ],
+      "tags": [
+        "concept",
+        "federation",
+        "bioethics",
+        "genetic-classification",
+        "reproduction"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:reproduction-rights",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic fitness"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "genetically engineered pets"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "ritual",
+      "type": "concept",
+      "label": "Ritual",
+      "description": "Memorized ritual formulas and chants that serve as currency, knowledge preservation, and sacred tradition in the decaying Martian society of \"It Takes a Thief\" — the last remnants of a forgotten technology treated as magic.",
+      "aliases": [
+        "ritual formula",
+        "ritual chant",
+        "ritual phrase"
+      ],
+      "tags": [
+        "concept",
+        "culture",
+        "religion",
+        "martian-society"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:ritual",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "the Blaze"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        }
+      ]
+    },
+    {
+      "id": "ritual-economy",
+      "type": "concept",
+      "label": "Ritual Economy",
+      "description": "The economic system of the Mars colony where memorized ritual chants — fragments of scientific and technical knowledge from the ancient colonists — function as currency and wealth.",
+      "aliases": [
+        "ritual chants",
+        "ritual formulas",
+        "holy phrases",
+        "ritual-thief"
+      ],
+      "tags": [
+        "concept",
+        "mars",
+        "economy",
+        "knowledge",
+        "ritual",
+        "it-takes-a-thief"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:ritual-economy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual"
+        },
+        {
+          "type": "related",
+          "target": "ancient-gods",
+          "label": "ancient-gods"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        }
+      ]
+    },
+    {
+      "id": "sanctuary",
+      "type": "concept",
+      "label": "Sanctuary",
+      "description": "The recurring motif of sanctuary across Miller's fiction — places and relationships that offer temporary protection from systemic cruelty, however fragile and conditional.",
+      "aliases": [
+        "asylum",
+        "protected space"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "cross-story",
+        "refuge"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:sanctuary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "classification"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucratic depersonalization"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "mara",
+          "label": "Mara"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "big-joe",
+          "label": "Big Joe"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "sarah-glubbes",
+      "type": "character",
+      "label": "Sarah Glubbes",
+      "description": "A Class-C woman whose dying neutroid child and subsequent murder of Doctor Georges expose the human cost of the genetic classification system in \"Conditionally Human.\"",
+      "aliases": [
+        "Mrs. Glubbes"
+      ],
+      "tags": [
+        "character",
+        "federation",
+        "conditionally-human",
+        "class-c"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:sarah-glubbes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "neutroid"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "service-and-duty",
+      "type": "concept",
+      "label": "Service and Duty",
+      "description": "The tension between institutional duty and personal conscience in Miller's fiction — what it means to serve a system you have come to recognize as unjust.",
+      "aliases": [
+        "duty",
+        "service",
+        "institutional loyalty"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "way-of-a-rebel",
+        "check-and-checkmate"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:service-and-duty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "the Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Lieutenant Laskell"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "bureaucracy",
+          "label": "bureaucracy"
+        }
+      ]
+    },
+    {
+      "id": "sheriff-yates",
+      "type": "character",
+      "label": "Sheriff Yates",
+      "description": "The local sheriff in \"Conditionally Human\" who assists Norris in enforcing Bio-Administration regulations and seizing unlicensed mutant animals.",
+      "aliases": [
+        "Sheriff Yates",
+        "Yates"
+      ],
+      "tags": [
+        "character",
+        "law-enforcement",
+        "conditionally-human"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:sheriff-yates",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Inspector Norris"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        }
+      ]
+    },
+    {
+      "id": "sherman-ii",
+      "type": "place",
+      "label": "Sherman II",
+      "description": "A city in the Western Federation, home to Doctor Georges and the location of his murder in \"Conditionally Human.\"",
+      "aliases": [],
+      "tags": [
+        "place",
+        "federation",
+        "conditionally-human",
+        "city"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:sherman-ii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Hiram Georges"
+        },
+        {
+          "type": "related",
+          "target": "sarah-glubbes",
+          "label": "Sarah Glubbes"
+        },
+        {
+          "type": "related",
+          "target": "wylo-city",
+          "label": "wylo-city"
+        }
+      ]
+    },
+    {
+      "id": "short-fiction",
+      "type": "concept",
+      "label": "Short Fiction",
+      "description": "Short fiction as a literary form — compact narratives that achieve their effects through compression, suggestion, and the disciplined deployment of limited space. This collection gathers seven of Walter M. Miller Jr.'s finest stories from 1951–1955.",
+      "aliases": [
+        "short story collection",
+        "Miller short fiction",
+        "short stories"
+      ],
+      "tags": [
+        "concept",
+        "genre",
+        "literary-form",
+        "collection"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:short-fiction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual economy"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "The Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human-work",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "Check and Checkmate"
+        },
+        {
+          "type": "related",
+          "target": "death-of-a-spaceman",
+          "label": "Death of a Spaceman"
+        },
+        {
+          "type": "related",
+          "target": "way-of-a-rebel",
+          "label": "Way of a Rebel"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "the-hoofer",
+          "label": "The Hoofer"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "slubil",
+      "type": "character",
+      "label": "Slubil",
+      "description": "The village executioner in \"It Takes a Thief,\" a squat man who wields the bleeding-blade with ritual authority — both menacing and bound by law, ultimately sparing the young thief Asir's life.",
+      "aliases": [
+        "the knifeman",
+        "the executioner"
+      ],
+      "tags": [
+        "character",
+        "executioner",
+        "mars-colony",
+        "ritual"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:slubil",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "Council"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "mutant animals"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        }
+      ]
+    },
+    {
+      "id": "social-classification",
+      "type": "concept",
+      "label": "Social Classification",
+      "description": "The broader theme of social classification across Miller's fiction — how societies sort humans into categories that determine their rights, freedoms, and personhood.",
+      "aliases": [
+        "social stratification",
+        "class society"
+      ],
+      "tags": [
+        "concept",
+        "federation",
+        "social-structure",
+        "theme"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:social-classification",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genetic-classification",
+          "label": "genetic fitness"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual ownership"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "Class-C"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "ritual-thieves"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "space-travel",
+      "type": "concept",
+      "label": "Space Travel",
+      "description": "The technological and cultural context of human spaceflight in Miller's fiction, spanning military combat, commercial transport, and personal aspiration across multiple stories in the collection.",
+      "aliases": [
+        "space",
+        "spaceflight",
+        "spacer",
+        "space-run"
+      ],
+      "tags": [
+        "concept",
+        "science-fiction",
+        "technology",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:space-travel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "norris"
+        }
+      ]
+    },
+    {
+      "id": "spaceman",
+      "type": "concept",
+      "label": "Spaceman",
+      "description": "The figure of the spaceman in Miller's fiction — an aging professional whose body and way of life are being rendered obsolete by the very technology he helped pioneer.",
+      "aliases": [
+        "spaceman",
+        "spacer",
+        "old spaceman"
+      ],
+      "tags": [
+        "concept",
+        "space-travel",
+        "profession",
+        "death-of-a-spaceman"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:spaceman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "death-of-a-spaceman",
+          "label": "death-of-a-spaceman"
+        }
+      ]
+    },
+    {
+      "id": "stand-in",
+      "type": "concept",
+      "label": "Stand-in",
+      "description": "A tiered system of masked body-doubles and political functionaries in the Western Federation — simultaneously bodyguards, council-members, and advisors — whose anonymity and proximity to power make them indispensable and dangerous in equal measure.",
+      "aliases": [
+        "Primary Stand-in",
+        "Secondary Stand-in",
+        "Tertiary Stand-in",
+        "body-double"
+      ],
+      "tags": [
+        "concept",
+        "politics",
+        "government",
+        "hierarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:stand-in",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "hell-wall"
+        }
+      ]
+    },
+    {
+      "id": "star-exodus",
+      "type": "event",
+      "label": "Star Exodus",
+      "description": "The historical diaspora when humanity departed Earth and spread across the galaxy, millennia before the events of The Ties That Bind.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:star-exodus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "Space Travel"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        }
+      ]
+    },
+    {
+      "id": "story-check-and-checkmate",
+      "type": "chapter",
+      "label": "\"Check and Checkmate\"",
+      "description": "\"Check and Checkmate — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-check-and-checkmate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "John Smith XVI"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "ivan-ivanovitch-ix",
+          "label": "the Peoplesfriend"
+        },
+        {
+          "type": "related",
+          "target": "the-peoplesfriend",
+          "label": "Vicar of the Asian Proletarian League"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "big-silence",
+          "label": "Big Silence"
+        },
+        {
+          "type": "related",
+          "target": "peace-effort",
+          "label": "last peace-effort"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "congress-investigation",
+          "label": "security-probe"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "fried-pie-week",
+          "label": "Fried Pie Week"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        }
+      ]
+    },
+    {
+      "id": "story-conditionally-human",
+      "type": "chapter",
+      "label": "\"Conditionally Human\"",
+      "description": "\"Conditionally Human — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-conditionally-human",
+      "relations": [
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Norris"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Federation"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "mutant-animal"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-C couple"
+        },
+        {
+          "type": "related",
+          "target": "neutroid",
+          "label": "chimp-K series"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "class-C"
+        },
+        {
+          "type": "related",
+          "target": "wylo-city",
+          "label": "Wylo City"
+        },
+        {
+          "type": "related",
+          "target": "doctor-georges",
+          "label": "Doctor Georges"
+        },
+        {
+          "type": "related",
+          "target": "sheriff-yates",
+          "label": "Sheriff Yates"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        },
+        {
+          "type": "related",
+          "target": "delmont-negligency-case",
+          "label": "Delmont case"
+        },
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron operator"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "Father Paulson"
+        },
+        {
+          "type": "related",
+          "target": "franklin",
+          "label": "Chief Agent Franklin"
+        }
+      ]
+    },
+    {
+      "id": "story-death-of-a-spaceman",
+      "type": "chapter",
+      "label": "\"Death of a Spaceman\"",
+      "description": "\"Death of a Spaceman — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-death-of-a-spaceman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        }
+      ]
+    },
+    {
+      "id": "story-it-takes-a-thief",
+      "type": "chapter",
+      "label": "\"It Takes a Thief\"",
+      "description": "\"It Takes a Thief — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-it-takes-a-thief",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "the Blaze"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "slubil",
+          "label": "the executioner"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "ritual",
+          "label": "ritual formula"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "Council"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        }
+      ]
+    },
+    {
+      "id": "story-the-hoofer",
+      "type": "chapter",
+      "label": "\"The Hoofer\"",
+      "description": "\"The Hoofer — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-the-hoofer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "spacer"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "big-bottomless",
+          "label": "Big Bottomless"
+        },
+        {
+          "type": "related",
+          "target": "big-hogey-parker",
+          "label": "Hogey"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        }
+      ]
+    },
+    {
+      "id": "story-the-ties-that-bind",
+      "type": "chapter",
+      "label": "\"The Ties That Bind\"",
+      "description": "\"The Ties That Bind — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-the-ties-that-bind",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "gardens",
+          "label": "whispering gardens"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space"
+        },
+        {
+          "type": "related",
+          "target": "star-exodus",
+          "label": "Star Exodus"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "ven-klaeden",
+          "label": "Baron"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "tech clans"
+        },
+        {
+          "type": "related",
+          "target": "geoark",
+          "label": "Geoark"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "ursa",
+          "label": "Ursa"
+        },
+        {
+          "type": "related",
+          "target": "justice-section",
+          "label": "Justice Section"
+        }
+      ]
+    },
+    {
+      "id": "story-way-of-a-rebel",
+      "type": "chapter",
+      "label": "\"Way of a Rebel\"",
+      "description": "\"Way of a Rebel — a short story by Walter M. Miller Jr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:story-way-of-a-rebel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "laskell",
+          "label": "Mitch Laskell"
+        },
+        {
+          "type": "related",
+          "target": "navy",
+          "label": "Navy"
+        }
+      ]
+    },
+    {
+      "id": "technology-index",
+      "type": "list",
+      "label": "Technology Index",
+      "description": "Index of technologies appearing in Miller's fiction — from the evolvotron to the blaze of the winds.",
+      "aliases": [
+        "tech index"
+      ],
+      "tags": [
+        "list",
+        "navigation",
+        "index",
+        "technology"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:technology-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evolvotron",
+          "label": "evolvotron"
+        },
+        {
+          "type": "related",
+          "target": "egg-multiplier",
+          "label": "egg-multiplier"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "Space Travel"
+        },
+        {
+          "type": "related",
+          "target": "firebirds-of-the-sun",
+          "label": "Firebirds of the Sun"
+        },
+        {
+          "type": "related",
+          "target": "blaze-of-the-winds",
+          "label": "Blaze of the Winds"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "Hell Wall"
+        },
+        {
+          "type": "related",
+          "target": "big-joe",
+          "label": "Big Joe"
+        },
+        {
+          "type": "related",
+          "target": "bleeding-blade",
+          "label": "Bleeding Blade"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        },
+        {
+          "type": "related",
+          "target": "full-index",
+          "label": "full-index"
+        }
+      ]
+    },
+    {
+      "id": "testament",
+      "type": "concept",
+      "label": "Testament",
+      "description": "The act of bearing witness at the end of life in Miller's fiction — the dying person's testament as a final assertion of meaning against the systems that would erase it.",
+      "aliases": [
+        "last words",
+        "dying testimony"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "death-of-a-spaceman",
+        "legacy"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:testament",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-donegal",
+          "label": "Old Donegal"
+        },
+        {
+          "type": "related",
+          "target": "stand-in",
+          "label": "Stand-in"
+        },
+        {
+          "type": "related",
+          "target": "body-as-record",
+          "label": "body-as-record"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        }
+      ]
+    },
+    {
+      "id": "the-hoofer",
+      "type": "work",
+      "label": "The Hoofer",
+      "description": "A short story by Walter M. Miller Jr. about a spaceman returning home to Earth after years in deep space, struggling to reconnect with his family, collected in Short Fiction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:the-hoofer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "Walter M. Miller Jr."
+        },
+        {
+          "type": "related",
+          "target": "big-bottomless",
+          "label": "Big Bottomless"
+        },
+        {
+          "type": "related",
+          "target": "big-hogey-parker",
+          "label": "Big Hogey Parker"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "Space Travel"
+        }
+      ]
+    },
+    {
+      "id": "the-hoofer-work",
+      "type": "work",
+      "label": "The Hoofer",
+      "description": "'\"The Hoofer\" (1955) — A space hobo''s final journey home, revealing the human cost behind the romance of space travel.'",
+      "aliases": [],
+      "tags": [
+        "work",
+        "short-story",
+        "space-travel",
+        "working-class",
+        "miller"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:the-hoofer-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-hogey-parker",
+          "label": "Big Hogey Parker"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "spaceman",
+          "label": "spaceman"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        }
+      ]
+    },
+    {
+      "id": "the-peoplesfriend",
+      "type": "character",
+      "label": "the-peoplesfriend",
+      "description": "The Peoplesfriend negotiated with President Smith via televiewphone",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:the-peoplesfriend",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-smith-xvi",
+          "label": "john-smith-xvi"
+        },
+        {
+          "type": "related",
+          "target": "check-and-checkmate",
+          "label": "check-and-checkmate"
+        },
+        {
+          "type": "related",
+          "target": "hell-wall",
+          "label": "hell-wall"
+        }
+      ]
+    },
+    {
+      "id": "the-priest",
+      "type": "character",
+      "label": "Father Paulson",
+      "description": "An elderly Catholic priest in \"Conditionally Human\" who visits Norris's home to investigate a neutroid that can speak, revealing the Church's nuanced position on mutant animals.",
+      "aliases": [
+        "the priest",
+        "Father Paulson",
+        "Padre"
+      ],
+      "tags": [
+        "character",
+        "clergyman",
+        "morality",
+        "conditionally-human"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:the-priest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "norris",
+          "label": "Inspector Norris"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "neutroids"
+        },
+        {
+          "type": "related",
+          "target": "anne",
+          "label": "Anne"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "the-ties-that-bind",
+      "type": "work",
+      "label": "The Ties That Bind",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:the-ties-that-bind",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ven-klaeden",
+          "label": "ven-klaeden"
+        },
+        {
+          "type": "related",
+          "target": "meikl",
+          "label": "meikl"
+        }
+      ]
+    },
+    {
+      "id": "the-ties-that-bind-work",
+      "type": "work",
+      "label": "The Ties That Bind",
+      "description": "Walter M. Miller Jr.'s story of Earth's reunion with its starfaring descendants, exploring the gulf between those who left and those who stayed behind.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:the-ties-that-bind-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "gardens",
+          "label": "whispering gardens"
+        },
+        {
+          "type": "related",
+          "target": "geoark",
+          "label": "Geoark"
+        },
+        {
+          "type": "related",
+          "target": "clans",
+          "label": "The Tech Clans"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "tokra",
+      "type": "character",
+      "label": "Tokra",
+      "description": "The Chief Commoner of the Mars colony village — the highest civil authority, whose villa [[mara|Mara]] visits to plead for [[asir|Asir]]'s life.",
+      "aliases": [
+        "the Chief Commoner"
+      ],
+      "tags": [
+        "character",
+        "mars",
+        "it-takes-a-thief",
+        "authority"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:tokra",
+      "relations": [
+        {
+          "type": "related",
+          "target": "welkir",
+          "label": "Welkir"
+        },
+        {
+          "type": "related",
+          "target": "mara",
+          "label": "Mara"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "chief-commoner",
+          "label": "chief-commoner"
+        },
+        {
+          "type": "related",
+          "target": "council-of-senior-kinsmen",
+          "label": "council-of-senior-kinsmen"
+        }
+      ]
+    },
+    {
+      "id": "uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Uncopyright page\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "short-fiction:uncopyright",
+      "relations": []
+    },
+    {
+      "id": "ursa",
+      "type": "place",
+      "label": "Ursa",
+      "description": "A distant star system mentioned in \"The Ties That Bind,\" destination of emigrating ships and home to an alleged human colony in the post-Exodus era.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:ursa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-ties-that-bind-work",
+          "label": "The Ties That Bind"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "Earth"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        },
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "mars"
+        },
+        {
+          "type": "related",
+          "target": "geoark",
+          "label": "geoark"
+        }
+      ]
+    },
+    {
+      "id": "vaults",
+      "type": "place",
+      "label": "Vaults",
+      "description": "The sacred underground vaults on Mars in \"It Takes a Thief,\" guarded by priests and the robot Big Joe, containing the technological secrets of the ancients.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:vaults",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mars",
+          "label": "Mars"
+        },
+        {
+          "type": "related",
+          "target": "artificial-intelligence",
+          "label": "robot"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the priest"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        },
+        {
+          "type": "related",
+          "target": "earth",
+          "label": "earth"
+        }
+      ]
+    },
+    {
+      "id": "ven-klaeden",
+      "type": "character",
+      "label": "ven-klaeden",
+      "description": "Evon witnessed Letha's death at ven Klaeden's command",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:ven-klaeden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "meikl",
+          "label": "meikl"
+        },
+        {
+          "type": "related",
+          "target": "letha",
+          "label": "letha"
+        },
+        {
+          "type": "related",
+          "target": "evon",
+          "label": "evon"
+        },
+        {
+          "type": "related",
+          "target": "the-ties-that-bind",
+          "label": "the-ties-that-bind"
+        }
+      ]
+    },
+    {
+      "id": "walter-m-miller-jr",
+      "type": "person",
+      "label": "Walter M. Miller Jr.",
+      "description": "Walter M. Miller Jr. (1923–1996), American science fiction author best known for A Canticle for Leibowitz and a body of acclaimed short fiction including the stories in this collection.",
+      "aliases": [
+        "Walter Miller",
+        "Miller",
+        "Walter M. Miller"
+      ],
+      "tags": [
+        "author",
+        "science-fiction",
+        "short-fiction",
+        "american-literature"
+      ],
+      "quality": "featured",
+      "source_ref": "short-fiction:walter-m-miller-jr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        },
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "federation"
+        },
+        {
+          "type": "related",
+          "target": "class-c-citizen",
+          "label": "class-c-citizen"
+        },
+        {
+          "type": "related",
+          "target": "space-travel",
+          "label": "space-travel"
+        }
+      ]
+    },
+    {
+      "id": "way-of-a-rebel",
+      "type": "work",
+      "label": "Way of a Rebel",
+      "description": "A short story by Walter M. Miller Jr. about a naval submarine officer who refuses orders to launch missiles during a military crisis, collected in Short Fiction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:way-of-a-rebel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "Walter M. Miller Jr."
+        },
+        {
+          "type": "related",
+          "target": "short-fiction",
+          "label": "Short Fiction"
+        },
+        {
+          "type": "related",
+          "target": "navy",
+          "label": "Navy"
+        }
+      ]
+    },
+    {
+      "id": "way-of-a-rebel-work",
+      "type": "work",
+      "label": "Way of a Rebel",
+      "description": "'\"Way of a Rebel\" (1954) — A Federation military officer must choose between duty and conscience when ordered to suppress a rebellion he secretly sympathizes with.'",
+      "aliases": [],
+      "tags": [
+        "work",
+        "short-story",
+        "federation",
+        "rebellion"
+      ],
+      "quality": "standard",
+      "source_ref": "short-fiction:way-of-a-rebel-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "federation",
+          "label": "Western Federation of Autonomous States"
+        },
+        {
+          "type": "related",
+          "target": "walter-m-miller-jr",
+          "label": "walter-m-miller-jr"
+        },
+        {
+          "type": "related",
+          "target": "conditionally-human",
+          "label": "conditionally-human"
+        }
+      ]
+    },
+    {
+      "id": "welkir",
+      "type": "character",
+      "label": "Welkir",
+      "description": "A Senior Kinsman of the Mars colony and father of Mara, whose house Asir visits after his banishment in \"It Takes a Thief.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "mars",
+        "it-takes-a-thief",
+        "senior-kinsman"
+      ],
+      "quality": "basic",
+      "source_ref": "short-fiction:welkir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mara",
+          "label": "Mara"
+        },
+        {
+          "type": "related",
+          "target": "asir",
+          "label": "Asir"
+        },
+        {
+          "type": "related",
+          "target": "ritual-economy",
+          "label": "ritual-economy"
+        },
+        {
+          "type": "related",
+          "target": "council-of-senior-kinsmen",
+          "label": "council-of-senior-kinsmen"
+        },
+        {
+          "type": "related",
+          "target": "mars-colony",
+          "label": "mars-colony"
+        }
+      ]
+    },
+    {
+      "id": "work-index",
+      "type": "list",
+      "label": "Work Index",
+      "description": "Index of all literary works and stories in Walter M. Miller Jr.'s short fiction collection, with quality ratings.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "short-fiction:work-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "TOC"
+        }
+      ]
+    },
+    {
+      "id": "wylo-city",
+      "type": "place",
+      "label": "Wylo City",
+      "description": "A city featuring the district wholesale offices of Anthropos, Inc. and multiple pet shops, in the world of Conditionally Human.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "short-fiction:wylo-city",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conditionally-human-work",
+          "label": "Conditionally Human"
+        },
+        {
+          "type": "related",
+          "target": "anthropos",
+          "label": "Anthropos Incorporated"
+        },
+        {
+          "type": "related",
+          "target": "mutant-animals",
+          "label": "Mutant Animals"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+---
+description: "III: The Golden Dustman Sinks Again — Our Mutual Friend by Charles Dickens"
+id: b4-ch03-The-Golden-Dustman-Sinks-Again
+label: "III: The Golden Dustman Sinks Again"
+tags: ["chapter"]
+type: chapter
+---
+
+# III: The Golden Dustman Sinks Again
+
+### III
+
+The Golden Dustman Sinks Again
+
+[053-001]The evening of that day being one of the reading evenings at [[boffins-bower|the Bower]], Mr. Boffin kissed Mrs. Boffin after a five o’clock dinner, and trotted out, nursing his big stick in both arms, so that, as of old, it seemed to be whispering in his ear. He carried so very attentive an expression on his countenance that it appeared as if the confidential discourse of the big stick required to be followed closely. Mr. Boffin’s face was like the face of a thoughtful listener to an intricate communication, and, in trotting along, he occasionally glanced at that companion with the look of a man who was interposing the remark: “You don’t mean it!”
+
+[053-002]Mr. Boffin and his stick went on alone together, until they arrived at certain crossways where they would be likely to fall in with anyone coming, at about the same time, from Clerkenwell to the Bower. Here they stopped, and Mr. Boffin consulted his watch.
+
+[053-003]“It wants five minutes, good, to [[mr-venus|Venus]]’s appointment,” said he. “I’m rather early.”
+
+[053-004]But Venus was a punctual man, and, even as Mr. Boffin replaced his watch in its pocket, was to be descried coming towards him. He quickened his pace on seeing Mr. Boffin already at the place of meeting, and was soon at his side.
+
+[053-005]“Thank’ee, Venus,” said Mr. Boffin. “Thank’ee, thank’ee, thank’ee!”
+
+[053-006]It would not have been very evident why he thanked the anatomist, but for his furnishing the explanation in what he went on to say.
+
+[053-007]“All right, Venus, all right. Now, that you’ve been to see me, and have consented to keep up the appearance before Wegg of remaining in it for a time, I have got a sort of a backer. All right, Venus. Thank’ee, Venus. Thank’ee, thank’ee, thank’ee!”
+
+[053-008]Mr. Venus shook the proffered hand with a modest air, and they pursued the direction of the Bower.
+
+[053-009]“Do you think Wegg is likely to drop down upon me tonight, Venus?” inquired Mr. Boffin, wistfully, as they went along.
+
+[053-010]“I think he is, sir.”
+
+[053-011]“Have you any particular reason for thinking so, Venus?”
+
+[053-012]“Well, sir,” returned that personage, “the fact is, he has given me another look-in, to make sure of what he calls our stock-in-trade being correct, and he has mentioned his intention that he was not to be put off beginning with you the very next time you should come. And this,” hinted Mr. Venus, delicately, “being the very next time, you know, sir—”
+
+[053-013]—“Why, therefore you suppose he’ll turn to at the grindstone, eh, Wegg?” said Mr. Boffin.
+
+[053-014]“Just so, sir.”
+
+[053-015]Mr. Boffin took his nose in his hand, as if it were already excoriated, and the sparks were beginning to fly out of that feature. “He’s a terrible fellow, Venus; he’s an awful fellow. I don’t know how ever I shall go through with it. You must stand by me, Venus like a good man and true. You’ll do all you can to stand by me, Venus; won’t you?”
+
+[053-016]Mr. Venus replied with the assurance that he would; and Mr. Boffin, looking anxious and dispirited, pursued the way in silence until they rang at the Bower gate. The stumping approach of Wegg was soon heard behind it, and as it turned upon its hinges he became visible with his hand on [[brentford-lock|the lock]].
+
+[053-017]“Mr. Boffin, sir?” he remarked. “You’re quite a stranger!”
+
+[053-018]“Yes. I’ve been otherwise occupied, Wegg.”
+
+[053-019]“Have you indeed, sir?” returned the literary gentleman, with a threatening sneer. “Hah! I’ve been looking for you, sir, rather what I may call specially.”
+
+[053-020]“You don’t say so, Wegg?”
+
+[053-021]“Yes, I do say so, sir. And if you hadn’t come round to me tonight, dash my wig if I wouldn’t have come round to you tomorrow. Now! I tell you!”
+
+[053-022]“Nothing wrong, I hope, Wegg?”
+
+[053-023]“Oh no, Mr. Boffin,” was the ironical answer. “Nothing wrong! What should be wrong in Boffinses Bower! Step in, sir.”
+
+[053-024]> “ ‘If you’ll come to the Bower I’ve shaded for you,
+
+[053-025]> Your bed shan’t be roses all spangled with doo:
+
+[053-026]> Will you, will you, will you, will you, come to the Bower?
+
+[053-027]> Oh, won’t you, won’t you, won’t you, won’t you, come to the Bower?’ ”
+
+[053-028]An unholy glare of contradiction and offence shone in the eyes of Mr. Wegg, as he turned the key on his patron, after ushering him into the yard with this vocal quotation. Mr. Boffin’s air was crestfallen and submissive. Whispered Wegg to Venus, as they crossed the yard behind him: “Look at the worm and minion; he’s down in the mouth already.” Whispered Venus to Wegg: “That’s because I’ve told him. I’ve prepared the way for you.”
+
+[053-029]Mr. Boffin, entering the usual chamber, laid his stick upon the settle usually reserved for him, thrust his hands into his pockets, and, with his shoulders raised and his hat drooping back upon them, looking disconsolately at Wegg. “My friend and partner, Mr. Venus, gives me to understand,” remarked that man of might, addressing him, “that you are aware of our power over you. Now, when you have took your hat off, we’ll go into that pint.”
+
+[053-030]Mr. Boffin shook it off with one shake, so that it dropped on the floor behind him, and remained in his former attitude with his former rueful look upon him.
+
+[053-031]“First of all, I’m a-going to call you Boffin, for short,” said Wegg. “If you don’t like it, it’s open to you to lump it.”
+
+[053-032]“I don’t mind it, Wegg,” Mr. Boffin replied.
+
+[053-033]“That’s lucky for you, Boffin. Now, do you want to be read to?”
+
+[053-034]“I don’t particularly care about it tonight, Wegg.”
+
+[053-035]“Because if you did want to,” pursued Mr. Wegg, the brilliancy of whose point was dimmed by his having been unexpectedly answered: “you wouldn’t be. I’ve been your slave long enough. I’m not to be trampled underfoot by a dustman any more. With the single exception of the salary, I renounce the whole and total sitiwation.”
+
+[053-036]“Since you say it is to be so, Wegg,” returned Mr. Boffin, with folded hands, “I suppose it must be.”
+
+[053-037]“*I* suppose it must be,” Wegg retorted. “Next (to clear the ground before coming to business), you’ve placed in this yard a skulking, a sneaking, and a sniffing, menial.”
+
+[053-038]“He hadn’t a cold in his head when I sent him here,” said Mr. Boffin.
+
+[053-039]“Boffin!” retorted Wegg, “I warn you not to attempt a joke with me!”
+
+[053-040]Here Mr. Venus interposed, and remarked that he conceived Mr. Boffin to have taken the description literally; the rather, forasmuch as he, Mr. Venus, had himself supposed the menial to have contracted an affliction or a habit of the nose, involving a serious drawback on the pleasures of social intercourse, until he had discovered that Mr. Wegg’s description of him was to be accepted as merely figurative.
+
+[053-041]“Anyhow, and every how,” said Wegg, “he has been planted here, and he is here. Now, I won’t have him here. So I call upon Boffin, before I say another word, to fetch him in and send him packing to the right-about.”
+
+[053-042]The unsuspecting Sloppy was at that moment airing his many buttons within view of the window. Mr. Boffin, after a short interval of impassive discomfiture, opened the window and beckoned him to come in.
+
+[053-043]“I call upon Boffin,” said Wegg, with one arm akimbo and his head on one side, like a bullying counsel pausing for an answer from a witness, “to inform that menial that I am Master here!”
+
+[053-044]In humble obedience, when the button-gleaming Sloppy entered Mr. Boffin said to him: “Sloppy, my fine fellow, Mr. Wegg is Master here. He doesn’t want you, and you are to go from here.”
+
+[053-045]“For good!” Mr. Wegg severely stipulated.
+
+[053-046]“For good,” said Mr. Boffin.
+
+[053-047]Sloppy stared, with both his eyes and all his buttons, and his mouth wide open; but was without loss of time escorted forth by [[silas-wegg|Silas Wegg]], pushed out at the yard gate by the shoulders, and locked out.
+
+[053-048]“The atomspear,” said Wegg, stumping back into the room again, a little reddened by his late exertion, “is now freer for the purposes of respiration. Mr. Venus, sir, take a chair. Boffin, you may sit down.”
+
+[053-049]Mr. Boffin, still with his hands ruefully stuck in his pockets, sat on the edge of the settle, shrunk into a small compass, and eyed the potent Silas with conciliatory looks.
+
+[053-050]“This gentleman,” said Silas Wegg, pointing out Venus, “this gentleman, Boffin, is more milk and watery with you than I’ll be. But he hasn’t borne the Roman yoke as I have, nor yet he hasn’t been required to pander to your depraved appetite for miserly characters.”
+
+[053-051]“I never meant, my dear Wegg—” Mr. Boffin was beginning, when Silas stopped him.
+
+[053-052]“Hold your tongue, Boffin! Answer when you’re called upon to answer. You’ll find you’ve got quite enough to do. Now, you’re aware—are you—that you’re in possession of property to which you’ve no right at all? Are you aware of that?”
+
+[053-053]“Venus tells me so,” said Mr. Boffin, glancing towards him for any support he could give.
+
+[053-054]“*I* tell you so,” returned Silas. “Now, here’s my hat, Boffin, and here’s my walking-stick. Trifle with me, and instead of making a bargain with you, I’ll put on my hat and take up my walking-stick, and go out, and make a bargain with the rightful owner. Now, what do you say?”
+
+[053-055]“I say,” returned Mr. Boffin, leaning forward in alarmed appeal, with his hands on his knees, “that I am sure I don’t want to trifle, Wegg. I have said so to Venus.”
+
+[053-056]“You certainly have, sir,” said Venus.
+
+[053-057]“You’re too milk and watery with our friend, you are indeed,” remonstrated Silas, with a disapproving shake of his wooden head. “Then at once you confess yourself desirous to come to terms, do you Boffin? Before you answer, keep this hat well in your mind and also this walking-stick.”
+
+[053-058]“I am willing, Wegg, to come to terms.”
+
+[053-059]“Willing won’t do, Boffin. I won’t take willing. Are you desirous to come to terms? Do you ask to be allowed as a favour to come to terms?” Mr. Wegg again planted his arm, and put his head on one side.
+
+[053-060]“Yes.”
+
+[053-061]“Yes what?” said the inexorable Wegg: “I won’t take yes. I’ll have it out of you in full, Boffin.”
+
+[053-062]“Dear me!” cried that unfortunate gentleman. “I am so worrited! I ask to be allowed to come to terms, supposing your document is all correct.”
+
+[053-063]“Don’t you be afraid of that,” said Silas, poking his head at him. “You shall be satisfied by seeing it. Mr. Venus will show it you, and I’ll hold you the while. Then you want to know what the terms are. Is that about the sum and substance of it? Will you or won’t you answer, Boffin?” For he had paused a moment.
+
+[053-064]“Dear me!” cried that unfortunate gentleman again, “I am worrited to that degree that I’m almost off my head. You hurry me so. Be so good as name the terms, Wegg.”
+
+[053-065]“Now, mark, Boffin,” returned Silas: “Mark ’em well, because they’re the lowest terms and the only terms. You’ll throw your Mound (the little Mound as comes to you anyway) into the general estate, and then you’ll divide the whole property into three parts, and you’ll keep one and hand over the others.”
+
+[053-066]Mr. Venus’s mouth screwed itself up, as Mr. Boffin’s face lengthened itself, Mr. Venus not having been prepared for such a rapacious demand.
+
+[053-067]“Now, wait a bit, Boffin,” Wegg proceeded, “there’s something more. You’ve been a squandering this property—laying some of it out on yourself. *that* won’t do. You’ve bought a house. You’ll be charged for it.”
+
+[053-068]“I shall be ruined, Wegg!” Mr. Boffin faintly protested.
+
+[053-069]“Now, wait a bit, Boffin; there’s something more. You’ll leave me in sole custody of these Mounds till they’re all laid low. If any waluables should be found in ’em, I’ll take care of such waluables. You’ll produce your contract for the sale of the Mounds, that we may know to a penny what they’re worth, and you’ll make out likewise an exact list of all the other property. When the Mounds is cleared away to the last shovel-full, the final diwision will come off.”
+
+[053-070]“Dreadful, dreadful, dreadful! I shall die in a workhouse!” cried [[nicodemus-boffin|the Golden Dustman]], with his hands to his head.
+
+[053-071]“Now, wait a bit, Boffin; there’s something more. You’ve been unlawfully ferreting about this yard. You’ve been seen in the act of ferreting about this yard. Two pair of eyes at the present moment brought to bear upon you, have seen you dig up a Dutch bottle.”
+
+[053-072]“It was mine, Wegg,” protested Mr. Boffin. “I put it there myself.”
+
+[053-073]“What was in it, Boffin?” inquired Silas.
+
+[053-074]“Not gold, not silver, not bank notes, not jewels, nothing that you could turn into money, Wegg; upon my soul!”
+
+[053-075]“Prepared, Mr. Venus,” said Wegg, turning to his partner with a knowing and superior air, “for an ewasive answer on the part of our dusty friend here, I have hit out a little idea which I think will meet your views. We charge that bottle against our dusty friend at a thousand pound.”
+
+[053-076]Mr. Boffin drew a deep groan.
+
+[053-077]“Now, wait a bit, Boffin; there’s something more. In your employment is an underhanded sneak, named Rokesmith. It won’t answer to have *him* about, while this business of ours is about. He must be discharged.”
+
+[053-078]“Rokesmith is already discharged,” said Mr. Boffin, speaking in a muffled voice, with his hands before his face, as he rocked himself on the settle.
+
+[053-079]“Already discharged, is he?” returned Wegg, surprised. “Oh! Then, Boffin, I believe there’s nothing more at present.”
+
+[053-080]The unlucky gentleman continuing to rock himself to and fro, and to utter an occasional moan, Mr. Venus besought him to bear up against his reverses, and to take time to accustom himself to the thought of his new position. But, his taking time was exactly the thing of all others that Silas Wegg could not be induced to hear of. “Yes or no, and no half measures!” was the motto which that obdurate person many times repeated; shaking his fist at Mr. Boffin, and pegging his motto into the floor with his wooden leg, in a threatening and alarming manner.
+
+[053-081]At length, Mr. Boffin entreated to be allowed a quarter of an hour’s grace, and a cooling walk of that duration in the yard. With some difficulty Mr. Wegg granted this great favour, but only on condition that he accompanied Mr. Boffin in his walk, as not knowing what he might fraudulently unearth if he were left to himself. A more absurd sight than Mr. Boffin in his mental irritation trotting very nimbly, and Mr. Wegg hopping after him with great exertion, eager to watch the slightest turn of an eyelash, lest it should indicate a spot rich with some secret, assuredly had never been seen in the shadow of the Mounds. Mr. Wegg was much distressed when the quarter of an hour expired, and came hopping in, a very bad second.
+
+[053-082]“I can’t help myself!” cried Mr. Boffin, flouncing on the settle in a forlorn manner, with his hands deep in his pockets, as if his pockets had sunk. “What’s the good of my pretending to stand out, when I can’t help myself? I must give in to the terms. But I should like to see the document.”
+
+[053-083]Wegg, who was all for clinching the nail he had so strongly driven home, announced that Boffin should see it without an hour’s delay. Taking him into custody for that purpose, or overshadowing him as if he really were his Evil Genius in visible form, Mr. Wegg clapped Mr. Boffin’s hat upon the back of his head, and walked him out by the arm, asserting a proprietorship over his soul and body that was at once more grim and more ridiculous than anything in Mr. Venus’s rare collection. That light-haired gentleman followed close upon their heels, at least backing up Mr. Boffin in a literal sense, if he had not had recent opportunities of doing so spiritually; while Mr. Boffin, trotting on as hard as he could trot, involved Silas Wegg in frequent collisions with the public, much as a preoccupied blind man’s dog may be seen to involve his master.
+
+[053-084]Thus they reached Mr. Venus’s establishment, somewhat heated by the nature of their progress thither. Mr. Wegg, especially, was in a flaming glow, and stood in the little shop, panting and mopping his head with his pocket-handkerchief, speechless for several minutes.
+
+[053-085]Meanwhile, Mr. Venus, who had left the duelling frogs to fight it out in his absence by candlelight for the public delectation, put the shutters up. When all was snug, and the shop-door fastened, he said to the perspiring Silas: “I suppose, Mr. Wegg, we may now produce the paper?”
+
+[053-086]“Hold on a minute, sir,” replied that discreet character; “hold on a minute. Will you obligingly shove that box—which you mentioned on a former occasion as containing miscellanies—towards me in the midst of the shop here?”
+
+[053-087]Mr. Venus did as he was asked.
+
+[053-088]“Very good,” said Silas, looking about: “ve—ry good. Will you hand me that chair, sir, to put atop of it?”
+
+[053-089]Venus handed him the chair.
+
+[053-090]“Now, Boffin,” said Wegg, “mount up here and take your seat, will you?”
+
+[053-091]Mr. Boffin, as if he were about to have his portrait painted, or to be electrified, or to be made a Freemason, or to be placed at any other solitary disadvantage, ascended the rostrum prepared for him.
+
+[053-092]“Now, Mr. Venus,” said Silas, taking off his coat, “when I catches our friend here round the arms and body, and pins him tight to the back of the chair, you may show him what he wants to see. If you’ll open it and hold it well up in one hand, sir, and a candle in the other, he can read it charming.”
+
+[053-093]Mr. Boffin seemed rather inclined to object to these precautionary arrangements, but, being immediately embraced by Wegg, resigned himself. Venus then produced the document, and Mr. Boffin slowly spelt it out aloud: so very slowly, that Wegg, who was holding him in the chair with the grip of a wrestler, became again exceedingly the worse for his exertions. “Say when you’ve put it safe back, Mr. Venus,” he uttered with difficulty, “for the strain of this is terrimenjious.”
+
+[053-094]At length the document was restored to its place; and Wegg, whose uncomfortable attitude had been that of a very persevering man unsuccessfully attempting to stand upon his head, took a seat to recover himself. Mr. Boffin, for his part, made no attempt to come down, but remained aloft disconsolate.
+
+[053-095]“Well, Boffin!” said Wegg, as soon as he was in a condition to speak. “Now, you know.”
+
+[053-096]“Yes, Wegg,” said Mr. Boffin, meekly. “Now, I know.”
+
+[053-097]“You have no doubts about it, Boffin.”
+
+[053-098]“No, Wegg. No, Wegg. None,” was the slow and sad reply.
+
+[053-099]“Then, take care, you,” said Wegg, “that you stick to your conditions. Mr. Venus, if on this auspicious occasion, you should happen to have a drop of anything not quite so mild as tea in the ’ouse, I think I’d take the friendly liberty of asking you for a specimen of it.”
+
+[053-100]Mr. Venus, reminded of the duties of hospitality, produced some rum. In answer to the inquiry, “Will you mix it, Mr. Wegg?” that gentleman pleasantly rejoined, “I think not, sir. On so auspicious an occasion, I prefer to take it in the form of a Gum-Tickler.”
+
+[053-101]Mr. Boffin, declining rum, being still elevated on his pedestal, was in a convenient position to be addressed. Wegg having eyed him with an impudent air at leisure, addressed him, therefore, while refreshing himself with his dram.
+
+[053-102]“Bof—fin!”
+
+[053-103]“Yes, Wegg,” he answered, coming out of a fit of abstraction, with a sigh.
+
+[053-104]“I haven’t mentioned one thing, because it’s a detail that comes of course. You must be followed up, you know. You must be kept under inspection.”
+
+[053-105]“I don’t quite understand,” said Mr. Boffin.
+
+[053-106]“Don’t you?” sneered Wegg. “Where’s your wits, Boffin? Till the Mounds is down and this business completed, you’re accountable for all the property, recollect. Consider yourself accountable to me. Mr. Venus here being too milk and watery with you, I am the boy for you.”
+
+[053-107]“I’ve been a-thinking,” said Mr. Boffin, in a tone of despondency, “that I must keep the knowledge from my old lady.”
+
+[053-108]“The knowledge of the diwision, d’ye mean?” inquired Wegg, helping himself to a third Gum-Tickler—for he had already taken a second.
+
+[053-109]“Yes. If she was to die first of us two she might then think all her life, poor thing, that I had got the rest of the fortune still, and was saving it.”
+
+[053-110]“I suspect, Boffin,” returned Wegg, shaking his head sagaciously, and bestowing a wooden wink upon him, “that you’ve found out some account of some old chap, supposed to be a Miser, who got himself the credit of having much more money than he had. However, *I* don’t mind.”
+
+[053-111]“Don’t you see, Wegg?” Mr. Boffin feelingly represented to him: “don’t you see? My old lady has got so used to the property. It would be such a hard surprise.”
+
+[053-112]“I don’t see it at all,” blustered Wegg. “You’ll have as much as I shall. And who are you?”
+
+[053-113]“But then, again,” Mr. Boffin gently represented; “my old lady has very upright principles.”
+
+[053-114]“Who’s your old lady,” returned Wegg, “to set herself up for having uprighter principles than mine?”
+
+[053-115]Mr. Boffin seemed a little less patient at this point than at any other of the negotiations. But he commanded himself, and said tamely enough: “I think it must be kept from my old lady, Wegg.”
+
+[053-116]“Well,” said Wegg, contemptuously, though, perhaps, perceiving some hint of danger otherwise, “keep it from your old lady. *I* ain’t going to tell her. I can have you under close inspection without that. I’m as good a man as you, and better. Ask me to dinner. Give me the run of your ’ouse. I was good enough for you and your old lady once, when I helped you out with your weal and hammers. Was there no Miss Elizabeth, Master George, Aunt Jane, and Uncle Parker, before *you* two?”
+
+[053-117]“Gently, Mr. Wegg, gently,” Venus urged.
+
+[053-118]“Milk and water-erily you mean, sir,” he returned, with some little thickness of speech, in consequence of the Gum-Ticklers having tickled it. “I’ve got him under inspection, and I’ll inspect him.
+
+[053-119]> ‘Along the line the signal ran
+
+[053-120]> England expects as this present man
+
+[053-121]> Will keep Boffin to his duty.’
+
+[053-122]—Boffin, I’ll see you home.”
+
+[053-123]Mr. Boffin descended with an air of resignation, and gave himself up, after taking friendly leave of Mr. Venus. Once more, Inspector and Inspected went through the streets together, and so arrived at Mr. Boffin’s door.
+
+[053-124]But even there, when Mr. Boffin had given his keeper good night, and had let himself in with his key, and had softly closed the door, even there and then, the all-powerful Silas must needs claim another assertion of his newly-asserted power.
+
+[053-125]“Bof—fin!” he called through the keyhole.
+
+[053-126]“Yes, Wegg,” was the reply through the same channel.
+
+[053-127]“Come out. Show yourself again. Let’s have another look at you!” Mr. Boffin—ah, how fallen from the high estate of his honest simplicity!—opened the door and obeyed.
+
+[053-128]“Go in. You may get to bed now,” said Wegg, with a grin.
+
+[053-129]The door was hardly closed, when he again called through the keyhole: “Bof—fin!”
+
+[053-130]“Yes, Wegg.”
+
+[053-131]This time Silas made no reply, but laboured with a will at turning an imaginary grindstone outside the keyhole, while Mr. Boffin stooped at it within; he then laughed silently, and stumped home.

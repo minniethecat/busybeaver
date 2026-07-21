@@ -1,83 +1,84 @@
 ---
+description: "Wollstonecraft's critique of marriage as a social institution that, in its 18th-century form, reduced women to economic dependents and undermined their capacity for virtue and reason."
 id: marriage
-label: Marriage
+label: "Marriage"
+tags: ["concept", "social-institution"]
 type: concept
-description: 'The social institution Wollstonecraft critiques as a form of legalized prostitution when entered without equality, friendship, and rational companionship'
-tags: ["ethics", "institution", "gender", "family", "social-critique"]
 ---
 
 # Marriage
 
-In _[[A Vindication of the Rights of Woman]]_, **marriage** is subjected to one of the most sustained and radical critiques in eighteenth-century literature. [[Mary Wollstonecraft]] argues that marriage as currently constituted reduces women to property, rewards artifice over virtue, and extinguishes the very affection it claims to protect.
-
-Marriage appears in over twenty-five passages across the _Vindication_. Wollstonecraft does not reject marriage itself — she calls it "the foundation of almost every social virtue" (004-081) — but insists that its existing form degrades both sexes by substituting economic transaction for moral companionship.
-
 ## Definition
 
-Wollstonecraft distinguishes between marriage as an institution and marriage as it is actually practiced. Her critique targets the gap between the two: marriage should be a partnership of rational equals, but in practice it is "a LEFT-HANDED marriage" (004-080) in which the man holds all legal power and the woman trades obedience for subsistence.
+In *A Vindication of the [[rights-of-woman|Rights of Woman]]*, marriage is examined not as a private [[passion|emotion]]al bond but as a **social institution** with profound consequences for women's moral and intellectual development. Wollstonecraft treats marriage as the central mechanism through which 18th-century society structures relations between the sexes — and as the primary obstacle to women's emancipation. She consistently frames marriage in economic and legal terms, arguing that the system of "marrying advantageously" reduces women to commodities whose "persons [are] often legally prostituted" [004-035].
 
-She identifies the root problem as the absence of [[Independence]]: women enter marriage without the education or economic capacity to be genuine partners. Marriage becomes "the grand feature of their lives" (004-030) — not because it fulfills their nature, but because society has closed every other avenue.
+Wollstonecraft's critique is distinguished from later feminist analyses by its focus on **[[virtue]]** rather than rights in the abstract. She argues that the prevailing form of marriage — in which women are economically dependent, legally subordinate, and educated only to please — systematically prevents women from developing the rational faculties and moral independence necessary for genuine [[virtue]].
 
-## Wollstonecraft's Argument
+## In Context
 
-### Marriage as Legalized Prostitution
+### Marriage as Women's Sole Career
 
-Wollstonecraft draws an explosive parallel between marriage and prostitution. In both arrangements, women trade sexual access for economic support:
+In Chapter IV, Wollstonecraft identifies a structural asymmetry: "men, in their youth, are prepared for professions, and marriage is not considered as the grand feature in their lives; whilst women, on the contrary, have no other scheme to sharpen their faculties" [004-035]. Because women cannot pursue independent professions, marriage becomes their only viable economic strategy, incentivizing superficial accomplishments over genuine intellectual growth.
 
-> "It may be termed a LEFT-HANDED marriage, and the man should be LEGALLY obliged to maintain the woman" (004-080)
+### The Critique of Companionate Marriage
 
-The comparison is deliberate and shocking: if marriage differs from prostitution only in legal form rather than economic substance, the institution itself is corrupt. Women who "rise in the world — by marriage" (P03-012) are engaged in the same transaction as those who sell themselves on the street — only the price and respectability differ.
+In Chapter II, Wollstonecraft challenges the assumption that marriage reforms [[character]]. Addressing those who believe "that marriage can eradicate the habitude of life," she asks whether a woman educated only to please will find inner resources when "her charms are oblique sunbeams" and "the summer is past and gone" [002-053]. Without [[education]], a wife whose husband's [[love|affection]]s cool will either seek validation from other men or sink into bitterness.
 
-### The Failure of Affection
+### The Paradox of the Unhappy Marriage
 
-Wollstonecraft argues that the economic foundation of marriage poisons the affection it is meant to sustain:
+Wollstonecraft advances the provocative claim "that an unhappy marriage is often very advantageous to a family, and that the neglected wife is, in general, the best mother" [002-067]. The neglected wife, freed from the exhausting work of pleasing a husband, may redirect her energies toward her children's [[education]]. This paradox underscores her argument: the skills required to attract a husband are antithetical to the skills required to raise virtuous children.
 
-> "Do they imagine that marriage can eradicate the habitude of affairs?" (002-043)
+### The "Left-Handed Marriage"
 
-Once marriage becomes a career move — "marrying themselves in the world by marriage" (005-011) — the qualities that attract a husband (beauty, cunning, artificial modesty) are precisely those that cannot sustain a lifelong partnership. Wollstonecraft observes with bitter irony that "an unhappy marriage is often very advantageous to a woman" (002-059), because it leaves her free to pursue her own interests while maintaining social respectability.
+In Chapter IV, Wollstonecraft proposes a "left-handed marriage" — a legal [[duty|obligation]] for seducers to maintain the women they have seduced and their children [004-079]. This proto-feminist legal proposal acknowledges the structural reality of women's economic dependence while proposing a remedy within existing legal constraints. However, Wollstonecraft insists such women "should not in the full meaning of the relationship, be termed wives, or the very purpose of marriage would be subverted" [004-079].
 
-### Toward Rational Companionship
+### Marriage, Theology, and the Double Standard
 
-Wollstonecraft's alternative vision of marriage is grounded in friendship, reason, and shared purpose:
-
-> "Still, highly as I respect marriage, as the foundation of almost every social virtue, I cannot avoid feeling the most lively compassion for those unfortunate females who are sacrificed" (004-081)
-
-Reformed marriage would be a partnership of equals who "calmly let passion subside into friendship" (006-017) — not the fever of romantic love but the steady warmth of mutual respect. This ideal requires that women be educated to reason, economically independent, and legally recognized as persons rather than property.
+Wollstonecraft deploys a theological argument, noting the contradiction in moralists who "have agreed, that the tenor of life seems to prove that *man* is prepared by various circumstances for a future state" while "constantly concur in advising *woman* only to provide for the present" through marriage [002-076]. If men and women share immortal souls, reducing women's life purpose to matrimony is theologically indefensible.
 
 ## Key Passages
 
-> "Still, highly as I respect marriage, as the foundation of almost every social virtue, I cannot avoid feeling the most lively compassion for those unfortunate females who are sacrificed." (004-081)
+> "And, now that more equitable laws are forming your citizens, marriage may become more sacred; your young men may choose wives from motives of affection, and your maidens allow love to root out vanity." [P02-015]
 
-> "It may, I think, be termed a LEFT-HANDED marriage, and the man should be LEGALLY obliged to maintain the woman." (004-080)
+> "The woman who has only been taught to please, will soon find that her charms are oblique sunbeams, and that they cannot have much effect on her husband's heart when they are seen every day, when the summer is past and gone." [002-053]
 
-> "Do they imagine that marriage can eradicate the habitude of affairs?" (002-043)
+> "The security of marriage, allowing the fever of love to subside, a healthy temperature is thought insipid, only by those who have not sufficient intellect to substitute the calm tenderness of friendship, the confidence of respect, instead of blind admiration, and the sensual emotions of fondness." [002-064]
 
-> "The security of marriage, allowing the fever of love to subside, a healthy temperature is thought insipid." (002-056)
+> "An unhappy marriage is often very advantageous to a family, and that the neglected wife is, in general, the best mother." [002-067]
 
-### Marriage: Critique and Reform
+> "To rise in the world, and have the liberty of running from pleasure to pleasure, they must marry advantageously, and to this object their time is sacrificed, and their persons often legally prostituted." [004-035]
 
-| Aspect | Existing Practice | Wollstonecraft's Reform |
-|--------|------------------|------------------------|
-| Economic basis | Women trade obedience for subsistence | Economic independence for both partners |
-| Affection | Passion that fades; replaced by indifference | Friendship that deepens with time |
-| Legal status | Woman legally absorbed into husband | Equal legal personhood |
-| Education | Women trained only to attract husbands | Women educated for companionship |
-| Duration | Permanent regardless of misery | Grounded in ongoing mutual respect |
+> "Still, highly as I respect marriage, as the foundation of almost every social virtue, I cannot avoid feeling the most lively compassion for those unfortunate females who are broken off from society, and by one error torn from all those affections and relationships that improve the heart and mind." [004-080]
 
-## Relationship to Other Concepts
+> "The obedience required of women in the marriage state, comes under this description; the mind, naturally weakened by depending on authority, never exerts its own powers, and the obedient wife is thus rendered a weak indolent mother." [004-083]
 
-Marriage intersects with nearly every major concept in the _Vindication_. It is the institution in which [[Independence]] is most directly extinguished, where [[Virtue]] is most systematically undermined, and where [[Education]] is most urgently needed. The critique of marriage connects directly to Wollstonecraft's arguments for [[Rights]] (women need legal rights within marriage) and [[Equality]] (marriage must be a partnership of equals).
+## Related Concepts
 
-Marriage also relates to [[Sensibility]]: the ideal of romantic love, Wollstonecraft argues, is a trap that leaves women vulnerable when passion inevitably fades. [[Friendship]] — rational, steady, mutual — is the proper foundation for marriage, not the fever of sensibility.
+- [[virtue]] — marriage in its ideal form is "the foundation of almost every social [[virtue]]"
+- [[education]] — women's defective [[education]] is the root cause of mercenary marriage
+- [[love]] — Wollstonecraft distinguishes [[love]] (evanescent [[love|passion]]) from the calm tenderness marriage should rest on
+- [[friendship]] — the proper basis for a lasting marriage, as distinct from blind [[love|passion]]
+- [[reason]] — marriage without [[reason]] reduces women to dependents
+- [[independence]] — economic independence as the alternative to marriage-as-career
 
-## See Also
+## Related Persons
 
-- [[Independence]]
-- [[Friendship]]
-- [[Equality]]
-- [[Rights]]
-- [[Virtue]]
-- [[Sensibility]]
-- [[Education]]
-- [[Duty]]
-- [[Mary Wollstonecraft]]
+- [[rousseau]] — whose [[education]]al philosophy Wollstonecraft critiques for training women solely for marriage
+- [[john-milton]] — cited on the proper relationship between the sexes in marriage
+
+## Supplementary Passages
+
+> "Let me reason with the supporters of this opinion, who have any knowledge of human nature, do they imagine that marriage can eradicate the habitude of life? The woman who has only been taught to please, will soon find that her charms are oblique sunbeams, and that they cannot have much effect on her husband's heart when they are seen every day, when the summer is past and gone." (002-053)
+
+> "Love, the common passion, in which chance and sensation take place of choice and reason, is in some degree felt by the mass of mankind; for it is not necessary to speak, at present, of the emotions that rise above or sink below love." (002-064)
+
+> "To rise in the world, and have the liberty of running from pleasure to pleasure, they must marry advantageously, and to this object their time is sacrificed, and their persons often legally prostituted." (004-035)
+
+> "Still, highly as I respect marriage, as the foundation of almost every social virtue, I cannot avoid feeling the most lively compassion for those unfortunate females who are broken off from society, and by one error torn from all those affections and relationships that improve the heart and mind." (004-080)
+
+> "The obedience required of women in the marriage state, comes under this description; the mind, naturally weakened by depending on authority, never exerts its own powers, and the obedient wife is thus rendered a weak indolent mother." (004-083)
+
+## Further Reading
+
+- Wollstonecraft, Mary. *A Vindication of the [[rights-of-woman|Rights of Woman]]* (1792), Chapters II, IV, V.
+- Taylor, Barbara. *Mary Wollstonecraft and the Feminist Imagination* (2003), Chapter 4 on marriage and sexuality.

@@ -1,0 +1,5820 @@
+{
+  "book": "cup-of-gold",
+  "title": "Cup of Gold",
+  "description": "Cup of Gold — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 117,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Cup of Gold\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'14'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "cup-of-gold:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "Part I"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "Part II"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "Part III"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "Part IV"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "Part V"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        }
+      ]
+    },
+    {
+      "id": "barbados",
+      "type": "place",
+      "label": "Barbados",
+      "description": "\"The English plantation colony where Henry Morgan serves five years of indentured servitude under James Flower — the crucible that transforms the Welsh farm boy into a man who understands the operations of colonial power.\"",
+      "aliases": [
+        "the plantation island",
+        "James Flower's plantation"
+      ],
+      "tags": [
+        "caribbean",
+        "english",
+        "plantation",
+        "indenture"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:barbados",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "Indenture System"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        }
+      ]
+    },
+    {
+      "id": "bras-de-fer",
+      "type": "person",
+      "label": "Bras de Fer",
+      "description": "\"A legendary buccaneer captain known as 'Iron Arm' — famous for superhuman strength, the father of Coeur de Gris, and a figure of the buccaneer golden age who was already old when Henry Morgan first sailed.\"",
+      "aliases": [
+        "Iron Arm"
+      ],
+      "tags": [
+        "buccaneer",
+        "french",
+        "captain",
+        "legendary"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:bras-de-fer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "bristol-girl",
+      "type": "work",
+      "label": "Bristol Girl",
+      "description": "The Bristol Girl was the slave ship that transported the kidnapped Henry Morgan from Wales to Barbados, marking his violent passage from free boy to indentured servant.",
+      "aliases": [],
+      "tags": [
+        "ship",
+        "slave-transport",
+        "middle-passage"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:bristol-girl",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indentured servant"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "power and revenge"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "sea"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "ganymede",
+          "label": "ganymede"
+        }
+      ]
+    },
+    {
+      "id": "brother-death",
+      "type": "concept",
+      "label": "Brother Death",
+      "description": "\"The personification of Death as a brother who receives every deed and thought at the moment of its birth — Morgan's final interlocutor in his deathbed vision.\"",
+      "aliases": [
+        "Death",
+        "the dark brother"
+      ],
+      "tags": [
+        "theme",
+        "death",
+        "personification",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:brother-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "civilization-splits-character",
+          "label": "Civilization Splits Character"
+        },
+        {
+          "type": "related",
+          "target": "the-tone",
+          "label": "The Tone"
+        }
+      ]
+    },
+    {
+      "id": "buccaneering",
+      "type": "concept",
+      "label": "Buccaneering",
+      "description": "\"The culture and practice of Caribbean freebooters in the 17th century — distinct from common piracy, bound by codes, articles, and an unspoken compact with England.\"",
+      "aliases": [
+        "Buccaneer",
+        "Freebooter",
+        "Privateer"
+      ],
+      "tags": [
+        "profession",
+        "maritime",
+        "caribbean",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:buccaneering",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "Sack of Panama"
+        }
+      ]
+    },
+    {
+      "id": "campeche",
+      "type": "place",
+      "label": "Campeche",
+      "description": "\"A Spanish port city on the Yucatán Peninsula, raided by the buccaneer Lewis Scot and referenced in the novel's geography of buccaneer targets.\"",
+      "aliases": [],
+      "tags": [
+        "caribbean",
+        "port",
+        "spanish",
+        "mexico"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:campeche",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maracaibo",
+          "label": "Maracaibo"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "captain-sawkins",
+      "type": "person",
+      "label": "Captain Sawkins",
+      "description": "A short, serious buccaneer captain whose eyes \"burned with the fury of a Puritan prophet,\" serving under Morgan during the Panama campaign.",
+      "aliases": [
+        "Sawkins"
+      ],
+      "tags": [
+        "buccaneer",
+        "english",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:captain-sawkins",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "l-ollonais"
+        }
+      ]
+    },
+    {
+      "id": "caribbean",
+      "type": "place",
+      "label": "The Caribbean",
+      "description": "The Caribbean Sea and its island archipelago — the maritime stage for Henry Morgan's buccaneer career and the contested colonial frontier between Spanish, English, and French empires in the novel.",
+      "aliases": [
+        "the Indies",
+        "West Indies",
+        "Caribbean Sea"
+      ],
+      "tags": [
+        "geography",
+        "maritime",
+        "colonial"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:caribbean",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        }
+      ]
+    },
+    {
+      "id": "catholic-church",
+      "type": "organization",
+      "label": "Catholic Church",
+      "description": "The Catholic Church in Cup of Gold appears as both a political institution intertwined with Spanish imperial power and a spiritual presence that offers genuine solace to characters facing death and suffering.",
+      "aliases": [
+        "The Church",
+        "Roman Catholicism",
+        "Papism"
+      ],
+      "tags": [
+        "religion",
+        "catholic",
+        "spanish",
+        "inquisition",
+        "faith"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:catholic-church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Empire"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "faith, superstition, and the supernatural"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "Ysobel"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "visions and prophecies"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "Welsh mysticism"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "god-is-love",
+          "label": "god-is-love"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Part I, Chapter I\"",
+      "description": "\"All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "corpse-candles"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "dafydd",
+          "label": "Dafydd"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "Pierre le Grand"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Part I, Chapter II\"",
+      "description": "\"Young Henry Morgan goes to sea, leaving the Welsh farm and his family behind.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "dafydd",
+          "label": "Dafydd"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Part I, Chapter III\"",
+      "description": "\"Henry Morgan arrives in the West Indies, sold as an indentured servant in Barbados.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "the-house-of-rhys",
+          "label": "House of Rhys"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Cambria"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "corpse-candles"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "want the moon"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Part I, Chapter IV\"",
+      "description": "\"Morgan rises from servitude, joins the buccaneers, and begins his career of plunder.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Part I, Chapter V\"",
+      "description": "\"Captain Morgan grows in fame and ambition, planning greater exploits.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "prophecy"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Abred"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VI\"",
+      "description": "\"Morgan's fleet sails for Panama, the greatest prize of the Spanish Main.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VII\"",
+      "description": "\"The capture and sack of Panama — Morgan achieves his greatest triumph.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Part II\"",
+      "description": "\"In Panama, Morgan meets La Santa Roja, the Red Saint, and becomes obsessed.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "francis-drake",
+          "label": "Drake"
+        },
+        {
+          "type": "related",
+          "target": "golden-hind",
+          "label": "Golden Hind"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-panama",
+          "label": "the isthmus"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indenture"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "tim-the-bosn",
+          "label": "Tim"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "bristol-girl",
+          "label": "Bristol Girl"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Cambria"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Brethren of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "the-crown",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "Pierre le Grand"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "king-james-i",
+          "label": "King James"
+        },
+        {
+          "type": "related",
+          "target": "julius-caesar",
+          "label": "Caesar"
+        },
+        {
+          "type": "related",
+          "target": "commentaries",
+          "label": "Commentaries"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "sangre-de-cristo",
+          "label": "Sangre de Cristo"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "campeche",
+          "label": "Campeche"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "ganymede",
+          "label": "Ganymede"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Mansveldt"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Part III\"",
+      "description": "\"Morgan returns to Jamaica, knighted and wealthy, but haunted by the woman in Panama.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "darien",
+          "label": "Darien"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "Pierre le Grand"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "the Indies"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "campeche",
+          "label": "Campeche"
+        },
+        {
+          "type": "related",
+          "target": "cuba",
+          "label": "Cuba"
+        },
+        {
+          "type": "related",
+          "target": "maracaibo",
+          "label": "Maracaibo"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-darien",
+          "label": "Darien"
+        },
+        {
+          "type": "related",
+          "target": "bras-de-fer",
+          "label": "Bras de Fer"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "ganymede",
+          "label": "Ganymede"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "puerto-bello",
+          "label": "Puerto Bello"
+        },
+        {
+          "type": "related",
+          "target": "francis-drake",
+          "label": "Drake"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-panama",
+          "label": "the isthmus"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "Red Saint"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "Governor of Panama"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "peru",
+          "label": "Peru"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Cambria"
+        },
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "San Lorenzo"
+        },
+        {
+          "type": "related",
+          "target": "the-crown",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "prophecy"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "want the moon"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Part IV\"",
+      "description": "\"Sir Henry Morgan, Lieutenant-Governor of Jamaica, faces political enemies and his own demons.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "ocean"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "darien",
+          "label": "Darien"
+        },
+        {
+          "type": "related",
+          "target": "the-plate-fleet",
+          "label": "treasure fleet"
+        },
+        {
+          "type": "related",
+          "target": "peru",
+          "label": "Peru"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-darien",
+          "label": "Darien"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-panama",
+          "label": "the isthmus"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "the-crown",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "the conquest of Panama"
+        },
+        {
+          "type": "related",
+          "target": "campeche",
+          "label": "Campeche"
+        },
+        {
+          "type": "related",
+          "target": "puerto-bello",
+          "label": "Puerto Bello"
+        },
+        {
+          "type": "related",
+          "target": "maracaibo",
+          "label": "Maracaibo"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "Don Juan Perez de Guzman"
+        },
+        {
+          "type": "related",
+          "target": "don-guierrmo",
+          "label": "Don Guierrmo"
+        },
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "Chagres"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "captain-sawkins",
+          "label": "Captain Sawkins"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "Red Saint"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "servitude"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "no-prey-no-pay",
+          "label": "division of spoils"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Part V, Chapter I\"",
+      "description": "\"A multifarious population crowds the beach at Port Royal to see the famous Captain Morgan.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Captain Morgan"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "governor-moddyford",
+          "label": "Governor Moddyford"
+        },
+        {
+          "type": "related",
+          "target": "the-crown",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "Red Saint"
+        },
+        {
+          "type": "related",
+          "target": "lady-moddyford",
+          "label": "Lady Moddyford"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "ocean"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Part V, Chapter II\"",
+      "description": "\"Morgan receives visitors and reflects on his past glories and present discontent.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "Charles the Second"
+        },
+        {
+          "type": "related",
+          "target": "john-evelyn",
+          "label": "John Evelyn"
+        },
+        {
+          "type": "related",
+          "target": "the-crown",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Part V, Chapter III\"",
+      "description": "\"Morgan's health declines as he wrestles with memories of conquest and loss.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "morgans-knighthood",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "civilization-splits-character",
+          "label": "duty of appearances"
+        },
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "Chagres"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "ocean"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Lady Morgan"
+        },
+        {
+          "type": "related",
+          "target": "lord-vaughn",
+          "label": "Lord Vaughn"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Part V, Chapter IV\"",
+      "description": "\"The final chapter — Morgan's death and the judgment of history.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cup-of-gold:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Lady Morgan"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        },
+        {
+          "type": "related",
+          "target": "god-is-love",
+          "label": "God is Love"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "chagres",
+      "type": "place",
+      "label": "Chagres",
+      "description": "\"The fortress and river settlement on the Atlantic coast of Panama — the gateway to the isthmus route and the critical first objective of Morgan's Panama campaign.\"",
+      "aliases": [
+        "River Chagres",
+        "San Lorenzo"
+      ],
+      "tags": [
+        "caribbean",
+        "fortress",
+        "river",
+        "spanish",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:chagres",
+      "relations": [
+        {
+          "type": "related",
+          "target": "isthmus-of-panama",
+          "label": "Isthmus of Panama"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama City"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "Don Juan Perez de Guzman"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "civilization-splits-character",
+      "type": "concept",
+      "label": "Civilization Splits Character",
+      "description": "\"Morgan's late-life philosophical insight — that social respectability fractures the unified self, and the man who refuses to be divided is destroyed by the civilization he helped build.\"",
+      "aliases": [
+        "duty of appearances",
+        "splitting of character"
+      ],
+      "tags": [
+        "theme",
+        "psychology",
+        "civilization",
+        "identity"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:civilization-splits-character",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "mediocrity-as-disease",
+          "label": "Mediocrity as Disease"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "The Cup of Gold"
+        }
+      ]
+    },
+    {
+      "id": "coeur-de-gris",
+      "type": "person",
+      "label": "Coeur de Gris",
+      "description": "\"The young French buccaneer — Morgan's lieutenant and friend, who also loves La Santa Roja and is murdered by Morgan in a fit of jealousy; the novel's embodiment of innocence destroyed by ambition.\"",
+      "aliases": [
+        "Grey Heart",
+        "the young Frenchman"
+      ],
+      "tags": [
+        "buccaneer",
+        "french",
+        "lieutenant",
+        "victim"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:coeur-de-gris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "bras-de-fer",
+          "label": "Bras de Fer"
+        }
+      ]
+    },
+    {
+      "id": "colonial-ambition",
+      "type": "concept",
+      "label": "Colonial Ambition",
+      "description": "The drive for wealth, power, and status in the colonial context of the novel; the material and social ambition that propels characters from Europe to the Caribbean and from obscurity to prominence — distinct from the metaphysical yearning represented by [[the-cup-of-gold|The Cup of Gold]].",
+      "aliases": [
+        "colonial drive",
+        "imperial ambition"
+      ],
+      "tags": [
+        "ambition",
+        "colonialism",
+        "wealth",
+        "power"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:colonial-ambition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "Wanting the Moon"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        }
+      ]
+    },
+    {
+      "id": "commentaries",
+      "type": "work",
+      "label": "Commentaries",
+      "description": "Caesar's Commentaries is the classical Roman military text that stood on the shelves of James Flower's Barbados library — a symbol of the learned but ineffectual mind that could not translate knowledge into action.",
+      "aliases": [
+        "Caesar's Commentaries",
+        "Commentarii de Bello Gallico"
+      ],
+      "tags": [
+        "book",
+        "classical",
+        "military",
+        "roman",
+        "education"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:commentaries",
+      "relations": [
+        {
+          "type": "related",
+          "target": "julius-caesar",
+          "label": "Julius Caesar"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indenture"
+        },
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "14"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        }
+      ]
+    },
+    {
+      "id": "cuba",
+      "type": "place",
+      "label": "Cuba",
+      "description": "\"The largest Caribbean island, part of the Spanish colonial network and a reference point in the novel's geography of buccaneer operations and legends.\"",
+      "aliases": [],
+      "tags": [
+        "caribbean",
+        "island",
+        "spanish"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:cuba",
+      "relations": [
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "Pierre le Grand"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        }
+      ]
+    },
+    {
+      "id": "dafydd",
+      "type": "person",
+      "label": "Dafydd",
+      "description": "Old Welsh buccaneer returned from the Indies whose tales of the Caribbean ignite young Henry Morgan's desire for adventure.",
+      "aliases": [],
+      "tags": [
+        "welsh",
+        "buccaneer",
+        "storyteller"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:dafydd",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "old-robert-morgan"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "mother-morgan"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "pierre-le-grand"
+        }
+      ]
+    },
+    {
+      "id": "darien",
+      "type": "place",
+      "label": "Darien",
+      "description": "\"The wild jungle region of eastern Panama — home to fierce indigenous people, a theatre of buccaneer coastal raiding, and the place where L'Ollonais was captured and burned alive.\"",
+      "aliases": [
+        "the Darien",
+        "Coast of Darien"
+      ],
+      "tags": [
+        "central-america",
+        "jungle",
+        "indigenous",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:darien",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-panama",
+          "label": "Isthmus of Panama"
+        },
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "Chagres"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        }
+      ]
+    },
+    {
+      "id": "defense-of-witchcraft",
+      "type": "work",
+      "label": "Defense of Witchcraft (King James)",
+      "description": "King James I's Defense of Witchcraft (Daemonologie) was the book that convinced young James Flower to attempt flight from his roof — an experiment in incantation and hashish that broke both his legs.",
+      "aliases": [
+        "Daemonologie"
+      ],
+      "tags": [
+        "book",
+        "witchcraft",
+        "king-james",
+        "james-flower",
+        "occult"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:defense-of-witchcraft",
+      "relations": [
+        {
+          "type": "related",
+          "target": "king-james-i",
+          "label": "James I of England"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "discoverie-of-witchcraft",
+          "label": "Discoverie of Witchcraft"
+        },
+        {
+          "type": "related",
+          "target": "duty-of-appearances",
+          "label": "respectability"
+        },
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "14"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        }
+      ]
+    },
+    {
+      "id": "discoverie-of-witchcraft",
+      "type": "work",
+      "label": "Discoverie of Witchcraft (Reginald Scot)",
+      "description": "Reginald Scot's Discoverie of Witchcraft was the skeptical book James Flower read while his broken legs healed — the rationalist counter-text he discovered too late, after King James's Defense had already sent him off the roof.",
+      "aliases": [
+        "The Discoverie of Witchcraft"
+      ],
+      "tags": [
+        "book",
+        "witchcraft",
+        "skepticism",
+        "james-flower",
+        "scot"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:discoverie-of-witchcraft",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "defense-of-witchcraft",
+          "label": "King James's *Defense of Witchcraft*"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "commentaries",
+          "label": "Caesar's *Commentaries*"
+        },
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "14"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        }
+      ]
+    },
+    {
+      "id": "don-guierrmo",
+      "type": "person",
+      "label": "Don Guierrmo",
+      "description": "A citizen of Panama whose alarming reports of buccaneer atrocities fuel the city's panic before Morgan's assault.",
+      "aliases": [
+        "Guierrmo"
+      ],
+      "tags": [
+        "spanish",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:don-guierrmo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "don-juan-perez-de-guzman"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        }
+      ]
+    },
+    {
+      "id": "don-juan-perez-de-guzman",
+      "type": "person",
+      "label": "Don Juan Perez de Guzman",
+      "description": "Spanish Governor of Panama and defender of the \"Cup of Gold\" against Henry Morgan's assault.",
+      "aliases": [
+        "Don Juan",
+        "Governor of Panama"
+      ],
+      "tags": [
+        "spanish",
+        "governor",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:don-juan-perez-de-guzman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "ysobel"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "don-juan-perez-de-guzman"
+        }
+      ]
+    },
+    {
+      "id": "dreams-and-visions",
+      "type": "concept",
+      "label": "Dreams and Visions",
+      "description": "Dreams and visions in Cup of Gold serve as windows into the characters' inner lives — prophetic glimpses, psychological revelations, and the mechanism through which the novel's Welsh mysticism enters the narrative.",
+      "aliases": [
+        "Prophecy",
+        "Second Sight",
+        "Nightmares"
+      ],
+      "tags": [
+        "motif",
+        "supernatural",
+        "welsh",
+        "prophecy",
+        "death",
+        "psychology"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:dreams-and-visions",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwenlianas-prophecy",
+          "label": "Gwenliana's prophecy"
+        },
+        {
+          "type": "related",
+          "target": "morgans-death",
+          "label": "Morgan's deathbed vision"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh mysticism"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "second-sight",
+          "label": "the Second Sight"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "father"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneers"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "ambitions"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "brother-death"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the-sea-motif"
+        },
+        {
+          "type": "related",
+          "target": "morgans-governorship",
+          "label": "morgans-governorship"
+        }
+      ]
+    },
+    {
+      "id": "duty-of-appearances",
+      "type": "concept",
+      "label": "Duty of Appearances",
+      "description": "\"Morgan's phrase for the performative self required by civilization — the public face worn in marriage, governance, and knighthood that conceals and ultimately replaces the authentic self.\"",
+      "aliases": [
+        "appearances",
+        "social performance",
+        "respectability"
+      ],
+      "tags": [
+        "theme",
+        "social-identity",
+        "respectability",
+        "performance"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:duty-of-appearances",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "civilization-splits-character",
+          "label": "Civilization Splits Character"
+        },
+        {
+          "type": "related",
+          "target": "mediocrity-as-disease",
+          "label": "Mediocrity as Disease"
+        },
+        {
+          "type": "related",
+          "target": "knighthood",
+          "label": "Morgan's Knighthood"
+        }
+      ]
+    },
+    {
+      "id": "edward-mansveldt",
+      "type": "person",
+      "label": "Edward Mansveldt",
+      "description": "A Dutch buccaneer admiral based in Tortuga; a legendary figure on the Spanish Main whose dream of a buccaneer republic inspired Henry Morgan and whose execution by the Spaniards galvanized the buccaneer brotherhood.",
+      "aliases": [
+        "Mansveldt",
+        "the Dutchman"
+      ],
+      "tags": [
+        "buccaneer",
+        "dutch",
+        "admiral",
+        "tortuga"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:edward-mansveldt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "ganymede",
+          "label": "Ganymede"
+        },
+        {
+          "type": "related",
+          "target": "bras-de-fer",
+          "label": "Bras de Fer"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "type": "person",
+      "label": "Elizabeth",
+      "description": "Elizabeth is the childhood love and eventual wife of Sir Henry Morgan in John Steinbeck's novel Cup of Gold, embodying the idealized feminine principle against which all other women are measured.",
+      "aliases": [
+        "Elizabeth Morgan",
+        "Lady Morgan"
+      ],
+      "tags": [
+        "character",
+        "love-interest",
+        "wales",
+        "jamaica",
+        "london"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:elizabeth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "Ysobel"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "ship Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneering"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indenture"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "the quest for the moon"
+        },
+        {
+          "type": "related",
+          "target": "morgans-death",
+          "label": "Morgan's final moments"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "the Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "morgans-marriage",
+          "label": "morgans-marriage"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-morgan",
+      "type": "person",
+      "label": "Elizabeth Morgan",
+      "description": "Henry Morgan's wife and the daughter of Sir Edward Morgan; a pianist whose musical compositions — including \"The Elves' Concourse\" — represent the world of refinement and peace that Henry's buccaneer life cannot accommodate.",
+      "aliases": [],
+      "tags": [
+        "Morgan",
+        "family",
+        "music",
+        "[[wales|Wales]]"
+      ],
+      "quality": "basic",
+      "source_ref": "cup-of-gold:elizabeth-morgan",
+      "relations": []
+    },
+    {
+      "id": "francis-drake",
+      "type": "person",
+      "label": "Sir Francis Drake",
+      "description": "The Elizabethan privateer who circumnavigated the globe in the [[golden-hind|Golden Hind]]; referenced in the novel as the historical precedent for English challenges to Spanish maritime dominance — the ghost whose example haunts Morgan's ambitions.",
+      "aliases": [
+        "Francis Drake",
+        "Drake"
+      ],
+      "tags": [
+        "privateer",
+        "England",
+        "historical",
+        "[[golden-hind|Golden Hind]]"
+      ],
+      "quality": "basic",
+      "source_ref": "cup-of-gold:francis-drake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "golden-hind",
+          "label": "Golden Hind"
+        }
+      ]
+    },
+    {
+      "id": "free-brotherhood-of-the-coast",
+      "type": "concept",
+      "label": "Free Brotherhood of the Coast",
+      "description": "\"The loose confederation of Caribbean buccaneers in the 17th century — a culture governed by custom rather than law, bound by articles and an unspoken pact with England and France.\"",
+      "aliases": [
+        "Brotherhood of the Coast",
+        "Free Brotherhood",
+        "Brethren of the Coast"
+      ],
+      "tags": [
+        "organization",
+        "buccaneer",
+        "maritime",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:free-brotherhood-of-the-coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Edward Mansveldt"
+        },
+        {
+          "type": "related",
+          "target": "pierre-le-grand",
+          "label": "Pierre le Grand"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "Buccaneering"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "Sack of Panama"
+        }
+      ]
+    },
+    {
+      "id": "ganymede",
+      "type": "work",
+      "label": "Ganymede",
+      "description": "The Ganymede was a Spanish galleon captured by Henry Morgan's buccaneers, whose name evokes the myth of divine abduction — a fitting symbol for a ship seized in conquest.",
+      "aliases": [],
+      "tags": [
+        "ship",
+        "spanish",
+        "galleon",
+        "capture",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:ganymede",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneers"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Empire"
+        },
+        {
+          "type": "related",
+          "target": "peru",
+          "label": "Peru"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "conquest"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "bristol-girl",
+          "label": "Bristol Girl"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the-sea-motif"
+        }
+      ]
+    },
+    {
+      "id": "goaves",
+      "type": "place",
+      "label": "Goaves",
+      "description": "\"A Haitian port town that serves as a buccaneer haven, the home of Coeur de Gris's mother and the 'free women,' and a key French buccaneer settlement in the Caribbean.\"",
+      "aliases": [
+        "Les Goaves"
+      ],
+      "tags": [
+        "caribbean",
+        "port",
+        "french",
+        "buccaneer"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:goaves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "bras-de-fer",
+          "label": "Bras de Fer"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        }
+      ]
+    },
+    {
+      "id": "god-bears-the-weary-soul",
+      "type": "work",
+      "label": "God Bears the Weary Soul to Rest",
+      "description": "\"God Bears the Weary Soul to Rest\" is a funeral piece played by Elizabeth Morgan — a musical work that bridges the novel's Welsh and Caribbean worlds and evokes Merlin's longing for remembrance.",
+      "aliases": [
+        "The Weary Soul"
+      ],
+      "tags": [
+        "music",
+        "hymn",
+        "funeral",
+        "merlin",
+        "elizabeth"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:god-bears-the-weary-soul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Main"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "god-is-love",
+      "type": "concept",
+      "label": "\"God is Love\"",
+      "description": "\"Old Robert Morgan's gentle theology — that 'God is Love' and the divine is best understood through the homely metaphor of 'purple porridge' — the novel's counterpoint to its own darker cosmic vision.\"",
+      "aliases": [
+        "Old Robert's theology",
+        "the purple porridge God",
+        "loving God"
+      ],
+      "tags": [
+        "theme",
+        "theology",
+        "god",
+        "love",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:god-is-love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh Cosmology"
+        }
+      ]
+    },
+    {
+      "id": "golden-hind",
+      "type": "work",
+      "label": "Golden Hind",
+      "description": "The Golden Hind was Sir Francis Drake's ship, the first English vessel to sail the forbidden oceans of the Spanish New World — a precedent that loomed over Henry Morgan's own buccaneering ambitions.",
+      "aliases": [
+        "Golden Hinde"
+      ],
+      "tags": [
+        "ship",
+        "english",
+        "exploration",
+        "drake",
+        "privateering"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:golden-hind",
+      "relations": [
+        {
+          "type": "related",
+          "target": "francis-drake",
+          "label": "Francis Drake"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "ocean"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        }
+      ]
+    },
+    {
+      "id": "governor-moddyford",
+      "type": "person",
+      "label": "Governor Moddyford",
+      "description": "Governor of Jamaica who informs Henry Morgan that both are summoned to England following the sack of Panama.",
+      "aliases": [
+        "Moddyford"
+      ],
+      "tags": [
+        "english",
+        "governor",
+        "jamaica"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:governor-moddyford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "lady-moddyford",
+          "label": "lady-moddyford"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "king-charles-ii"
+        }
+      ]
+    },
+    {
+      "id": "grippo",
+      "type": "person",
+      "label": "Grippo",
+      "description": "\"The old buccaneer captain who mentors Henry Morgan, sells him command of the Ganymede, and later delivers the novel's diagnostic verdict on the hollow conqueror: 'A disease called mediocrity.'\"",
+      "aliases": [
+        "the old pirate",
+        "Captain Grippo"
+      ],
+      "tags": [
+        "buccaneer",
+        "captain",
+        "mentor",
+        "wisdom"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:grippo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        }
+      ]
+    },
+    {
+      "id": "gwenliana",
+      "type": "person",
+      "label": "Gwenliana",
+      "description": "Henry Morgan's aged grandmother, a Welsh seeress whose prophecies and folk magic frame Henry's destiny, though her visions are treated with affectionate skepticism by the family.",
+      "aliases": [
+        "old Gwenliana"
+      ],
+      "tags": [
+        "seeress",
+        "welsh",
+        "grandmother",
+        "prophecy"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:gwenliana",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Robert"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "dreams-and-visions"
+        }
+      ]
+    },
+    {
+      "id": "gwenlianas-prophecy",
+      "type": "event",
+      "label": "\"Gwenliana's Prophecy\"",
+      "description": "\"The prophetic chant delivered by Gwenliana over the infant Henry Morgan in the Cumric tongue — foretelling his passage through the three circles of Abred, Gwynfyd, and escape from Annwn; the novel's supernatural framework for the entire narrative.\"",
+      "aliases": [
+        "the Cumric prophecy",
+        "the three circles prophecy"
+      ],
+      "tags": [
+        "prophecy",
+        "welsh",
+        "supernatural",
+        "foreshadowing"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:gwenlianas-prophecy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "henry-morgan",
+      "type": "person",
+      "label": "Sir Henry Morgan",
+      "description": "\"The protagonist — a Welsh farm boy who becomes the most feared buccaneer in the Caribbean, sacks Panama, and ends his life as knighted Lieutenant-Governor of Jamaica, haunted by his deeds.\"",
+      "aliases": [
+        "Captain Morgan",
+        "Henry Morgan",
+        "The Buccaneer",
+        "Sir Henry"
+      ],
+      "tags": [
+        "protagonist",
+        "buccaneer",
+        "welsh",
+        "governor",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:henry-morgan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "tim-the-bosn",
+          "label": "Tim the Bo's'n"
+        }
+      ]
+    },
+    {
+      "id": "henrys-indenture",
+      "type": "event",
+      "label": "Henry's Indenture",
+      "description": "\"Henry Morgan's period of indentured servitude on James Flower's Barbados plantation — the formative experience of class subjugation that fuels his lifelong hunger for power and escape.\"",
+      "aliases": [
+        "Henry's Servitude",
+        "The Barbados Years"
+      ],
+      "tags": [
+        "indenture",
+        "colonial",
+        "coming-of-age"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:henrys-indenture",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        }
+      ]
+    },
+    {
+      "id": "indenture-system",
+      "type": "concept",
+      "label": "Indenture System",
+      "description": "\"The system of bonded labor in the 17th-century Caribbean — the mechanism by which Henry Morgan is sold into five years of servitude on a Barbados plantation, and the crucible that transforms the Welsh farm boy into a buccaneer.\"",
+      "aliases": [
+        "indenture",
+        "bonded labor",
+        "servitude"
+      ],
+      "tags": [
+        "history",
+        "colonial",
+        "labor",
+        "caribbean"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:indenture-system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "tim-the-bosn",
+          "label": "Tim the Bo's'n"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "Buccaneering"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh Cosmology"
+        }
+      ]
+    },
+    {
+      "id": "isthmus-of-darien",
+      "type": "place",
+      "label": "Isthmus of Darien",
+      "description": "The narrow jungle land bridge connecting North and South America; crossed by Morgan's buccaneers during the Panama campaign — the treacherous overland route from the Caribbean coast to the Pacific.",
+      "aliases": [
+        "Darien",
+        "Isthmus of [[panama-city|Panama]]"
+      ],
+      "tags": [
+        "geography",
+        "Panama",
+        "jungle"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:isthmus-of-darien",
+      "relations": []
+    },
+    {
+      "id": "isthmus-of-panama",
+      "type": "place",
+      "label": "Isthmus of Panama",
+      "description": "\"The narrow land bridge between the Atlantic and Pacific — the strategic corridor of Spanish wealth, the 'nigh impassable' barrier Morgan's buccaneers must cross to reach Panama City, and the artery of Spain's colonial economy.\"",
+      "aliases": [
+        "the isthmus",
+        "the crossing"
+      ],
+      "tags": [
+        "central-america",
+        "trade-route",
+        "geography",
+        "spanish-empire"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:isthmus-of-panama",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "Chagres"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama City"
+        },
+        {
+          "type": "related",
+          "target": "darien",
+          "label": "Darien"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "the-plate-fleet",
+          "label": "The Plate Fleet"
+        }
+      ]
+    },
+    {
+      "id": "jamaica",
+      "type": "place",
+      "label": "Jamaica",
+      "description": "Jamaica in Cup of Gold is the seat of Sir Henry Morgan's governorship — the island where the buccaneer settles into domestic life and administers the colonial order he once defied.",
+      "aliases": [],
+      "tags": [
+        "caribbean",
+        "colony",
+        "governorship",
+        "port-royal",
+        "plantation"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:jamaica",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "lifelong ambition"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indentured"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "morgans-governorship",
+          "label": "morgans-governorship"
+        }
+      ]
+    },
+    {
+      "id": "james-flower",
+      "type": "person",
+      "label": "James Flower",
+      "description": "A Barbadian planter and intellectual who owned Henry Morgan's indenture; became Henry's reluctant mentor and father figure during his years of servitude.",
+      "aliases": [],
+      "tags": [
+        "planter",
+        "mentor",
+        "barbados"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:james-flower",
+      "relations": [
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "paulette",
+          "label": "paulette"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        }
+      ]
+    },
+    {
+      "id": "john-evelyn",
+      "type": "person",
+      "label": "John Evelyn",
+      "description": "Historical English courtier and diarist who appears as a witness to Henry Morgan's audience with King Charles II.",
+      "aliases": [],
+      "tags": [
+        "english",
+        "courtier",
+        "diarist",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:john-evelyn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "king-charles-ii"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        }
+      ]
+    },
+    {
+      "id": "julius-caesar",
+      "type": "person",
+      "label": "Julius Caesar",
+      "description": "Roman general, statesman, and author of the *[[commentaries|Commentaries]]*; his military memoir appears in [[james-flower|James Flower]]'s Barbados library as a symbol of classical martial tradition — a distant mirror in which the novel's buccaneers might see their own ambition reflected.",
+      "aliases": [
+        "Caesar"
+      ],
+      "tags": [
+        "Roman",
+        "historical",
+        "military",
+        "classical"
+      ],
+      "quality": "basic",
+      "source_ref": "cup-of-gold:julius-caesar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "commentaries",
+          "label": "Commentaries"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        }
+      ]
+    },
+    {
+      "id": "king-charles-ii",
+      "type": "person",
+      "label": "King Charles II",
+      "description": "King of England who knights Henry Morgan and appoints him Lieutenant-Governor of Jamaica.",
+      "aliases": [
+        "Charles II",
+        "the King",
+        "Charles the Second"
+      ],
+      "tags": [
+        "english",
+        "king",
+        "monarchy",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:king-charles-ii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "john-evelyn",
+          "label": "john-evelyn"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "ysobel"
+        }
+      ]
+    },
+    {
+      "id": "king-james-i",
+      "type": "person",
+      "label": "King James I",
+      "description": "King of England (1603–1625) and author of *[[defense-of-witchcraft|Defense of Witchcraft]]*; his book on demonology led young [[james-flower|James Flower]] to experiment with incantations and hashish, resulting in two broken legs and eventual exile to Barbados.",
+      "aliases": [
+        "James I",
+        "King James"
+      ],
+      "tags": [
+        "monarch",
+        "England",
+        "historical",
+        "witchcraft"
+      ],
+      "quality": "basic",
+      "source_ref": "cup-of-gold:king-james-i",
+      "relations": [
+        {
+          "type": "related",
+          "target": "defense-of-witchcraft",
+          "label": "Defense of Witchcraft"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "discoverie-of-witchcraft",
+          "label": "Discoverie of Witchcraft"
+        }
+      ]
+    },
+    {
+      "id": "knighthood",
+      "type": "concept",
+      "label": "Knighthood",
+      "description": "The institution of knighthood as a vehicle of social ascent and public legitimization in the novel; Henry Morgan purchases his knighthood after the sack of Panama, trading buccaneer infamy for Crown recognition.",
+      "aliases": [
+        "[[henry-morgan|Sir Henry Morgan]]",
+        "knight bachelor"
+      ],
+      "tags": [
+        "honor",
+        "social mobility",
+        "Morgan"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:knighthood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "l-ollonais",
+      "type": "person",
+      "label": "L'Ollonais",
+      "description": "The most feared buccaneer of the western ocean, whose legendary cruelty made him a benchmark against whom Henry Morgan was measured.",
+      "aliases": [
+        "François L'Olonnais",
+        "Jean-David Nau"
+      ],
+      "tags": [
+        "french",
+        "buccaneer",
+        "tortuga"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:l-ollonais",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "grippo"
+        }
+      ]
+    },
+    {
+      "id": "la-santa-roja",
+      "type": "concept",
+      "label": "La Santa Roja",
+      "description": "\"The legendary 'Red Saint' of Panama — a woman of unearthly beauty around whom a cult of rumor and worship has grown; conflated with the Virgin Mary and the Cup of Gold in Morgan's obsession.\"",
+      "aliases": [
+        "Red Saint",
+        "The Red Saint",
+        "Santa Roja",
+        "Ysobel"
+      ],
+      "tags": [
+        "legend",
+        "symbolism",
+        "desire",
+        "religion"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:la-santa-roja",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "The Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "Ysobel"
+        }
+      ]
+    },
+    {
+      "id": "lady-moddyford",
+      "type": "person",
+      "label": "Lady Moddyford",
+      "description": "Wife of the Governor of Jamaica who orchestrates the marriage between Elizabeth and Henry Morgan.",
+      "aliases": [],
+      "tags": [
+        "english",
+        "jamaica",
+        "matchmaker"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:lady-moddyford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "governor-moddyford",
+          "label": "governor-moddyford"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        }
+      ]
+    },
+    {
+      "id": "letters-of-marque",
+      "type": "concept",
+      "label": "Letters of Marque",
+      "description": "The legal instrument that distinguished privateering from piracy in the seventeenth-century Caribbean; a Crown-issued commission authorizing private ships to attack enemy vessels — the thin parchment line between buccaneer and criminal.",
+      "aliases": [
+        "letter of marque",
+        "privateering commission",
+        "marque"
+      ],
+      "tags": [
+        "law",
+        "privateering",
+        "piracy",
+        "sovereignty"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:letters-of-marque",
+      "relations": []
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "In Cup of Gold, London represents the distant center of empire — a city of thieves and kings, the source of indentured labor and royal commissions, and the axis around which colonial ambition revolves.",
+      "aliases": [],
+      "tags": [
+        "england",
+        "city",
+        "empire",
+        "civilization",
+        "indenture"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indentured labor"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "dreams-and-visions"
+        }
+      ]
+    },
+    {
+      "id": "lord-vaughn",
+      "type": "person",
+      "label": "Lord Vaughn",
+      "description": "\"An English court figure who, during a dinner with the Morgans, voices the establishment fear that buccaneers may turn from fighting Spain to attacking England; his opinion is cited by Lady Morgan to justify the execution of pirates.\"",
+      "aliases": [],
+      "tags": [
+        "court",
+        "english",
+        "noble"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:lord-vaughn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Lady Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "King Charles II"
+        }
+      ]
+    },
+    {
+      "id": "maracaibo",
+      "type": "place",
+      "label": "Maracaibo",
+      "description": "\"The Venezuelan port city and lake region raided by Morgan — a buccaneer conquest that yielded 250,000 pieces of eight and established Morgan's reputation for daring amphibious assault.\"",
+      "aliases": [
+        "New Gibraltar",
+        "Lake Maracaibo"
+      ],
+      "tags": [
+        "caribbean",
+        "city",
+        "spanish",
+        "venezuela"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:maracaibo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama City"
+        },
+        {
+          "type": "related",
+          "target": "l-ollonais",
+          "label": "L'Ollonais"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        }
+      ]
+    },
+    {
+      "id": "mediocrity-as-disease",
+      "type": "concept",
+      "label": "Mediocrity as Disease",
+      "description": "\"Morgan's self-diagnosis after achieving the Cup of Gold — that the extinguishing of desire is a sickness called mediocrity, and ambition is not virtue but health.\"",
+      "aliases": [
+        "Mediocrity",
+        "the disease of mediocrity",
+        "ambition's aftermath"
+      ],
+      "tags": [
+        "theme",
+        "psychology",
+        "ambition",
+        "metaphor"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:mediocrity-as-disease",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "The Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "civilization-splits-character",
+          "label": "Civilization Splits Character"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        }
+      ]
+    },
+    {
+      "id": "merlin",
+      "type": "person",
+      "label": "Merlin",
+      "description": "\"The ancient Welsh seer and harper who lives on Crag-top — advisor to the young Henry Morgan, keeper of Arthurian memory, whose harps speak prophecies and whose wisdom frames the novel's central metaphor of wanting the moon.\"",
+      "aliases": [
+        "the seer",
+        "the harper",
+        "Merlin of Crag-top"
+      ],
+      "tags": [
+        "welsh",
+        "seer",
+        "mythology",
+        "mentor"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:merlin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        }
+      ]
+    },
+    {
+      "id": "morgan-meets-elizabeth",
+      "type": "event",
+      "label": "Morgan Meets Elizabeth",
+      "description": "\"Henry Morgan's first encounter with Elizabeth in Wales — the instant of romantic fixation that will define his emotional life, and the forced separation that plants the seed of his lifelong bitterness.\"",
+      "aliases": [
+        "Henry and Elizabeth",
+        "The First Meeting"
+      ],
+      "tags": [
+        "romance",
+        "coming-of-age",
+        "separation"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:morgan-meets-elizabeth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        }
+      ]
+    },
+    {
+      "id": "morgans-arrest",
+      "type": "event",
+      "label": "Morgan's Arrest",
+      "description": "\"Morgan's summons to England after the Panama raid — arrested alongside Governor Moddyford for violating the 1670 Treaty of Madrid, an event that paradoxically leads to his knighthood and elevation to Lieutenant-Governor of Jamaica.\"",
+      "aliases": [
+        "Morgan Summoned to England",
+        "The Recall"
+      ],
+      "tags": [
+        "legal",
+        "political",
+        "diplomacy"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:morgans-arrest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "governor-moddyford",
+          "label": "Governor Moddyford"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "King Charles II"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Lady Elizabeth Morgan"
+        }
+      ]
+    },
+    {
+      "id": "morgans-death",
+      "type": "event",
+      "label": "\"Morgan's Death\"",
+      "description": "\"The novel's final chapter — Sir Henry Morgan's deathbed vision in Port Royal, where his consciousness descends into a grotto to face Brother Death and the accumulated record of his deeds, culminating in dissolution into the Tone.\"",
+      "aliases": [
+        "deathbed vision",
+        "Morgan's passing",
+        "the grotto vision"
+      ],
+      "tags": [
+        "death",
+        "vision",
+        "metaphysical",
+        "finale"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:morgans-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "the-tone",
+          "label": "The Tone"
+        }
+      ]
+    },
+    {
+      "id": "morgans-governorship",
+      "type": "event",
+      "label": "\"Morgan's Governorship\"",
+      "description": "Sir Henry Morgan's tenure as Lieutenant Governor of Jamaica — the period when the feared buccaneer became the enforcer of colonial law, trying pirates and administering the empire he once plundered.",
+      "aliases": [
+        "Lieutenant Governorship of Jamaica",
+        "Sir Henry Morgan's Administration"
+      ],
+      "tags": [
+        "jamaica",
+        "port-royal",
+        "governance",
+        "administration",
+        "colonial"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:morgans-governorship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneer"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "the Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "wild desire"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "morgans-marriage",
+          "label": "morgans-marriage"
+        },
+        {
+          "type": "related",
+          "target": "morgans-death",
+          "label": "morgans-death"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the-sea-motif"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "dreams-and-visions"
+        }
+      ]
+    },
+    {
+      "id": "morgans-knighthood",
+      "type": "event",
+      "label": "\"Morgan's Knighthood\"",
+      "description": "\"The ceremony at Charles II's court where Henry Morgan, buccaneer and sack of Panama, is pardoned and knighted — the moment ambition is domesticated by the Crown, and the buccaneer becomes the governor.\"",
+      "aliases": [
+        "the knighting of Henry Morgan",
+        "Sir Henry Morgan"
+      ],
+      "tags": [
+        "knighthood",
+        "england",
+        "transformation",
+        "respectability"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:morgans-knighthood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "King Charles II"
+        },
+        {
+          "type": "related",
+          "target": "john-evelyn",
+          "label": "John Evelyn"
+        }
+      ]
+    },
+    {
+      "id": "morgans-marriage",
+      "type": "event",
+      "label": "Morgan's Marriage",
+      "description": "The courtship and marriage of Sir Henry Morgan to his cousin Elizabeth in Port Royal, Jamaica — the event that marks the buccaneer's transition from wild ambition to settled domesticity.",
+      "aliases": [
+        "Marriage to Elizabeth",
+        "Courtship of Elizabeth"
+      ],
+      "tags": [
+        "marriage",
+        "elizabeth",
+        "jamaica",
+        "domesticity",
+        "courtship"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:morgans-marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneer"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "wild ambition"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "the Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "morgans-death",
+          "label": "morgans-death"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "ysobel"
+        },
+        {
+          "type": "related",
+          "target": "morgans-governorship",
+          "label": "morgans-governorship"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "dreams-and-visions"
+        }
+      ]
+    },
+    {
+      "id": "mother-morgan",
+      "type": "person",
+      "label": "Mother Morgan",
+      "description": "Henry Morgan's practical, hard-working Welsh mother; the anchor of domestic reality in a household of dreamers, whose skepticism toward Gwenliana's magic grounds the family in the material world.",
+      "aliases": [],
+      "tags": [
+        "welsh",
+        "mother",
+        "practical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:mother-morgan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "welsh-farm",
+          "label": "welsh-farm"
+        }
+      ]
+    },
+    {
+      "id": "murder-of-coeur-de-gris",
+      "type": "event",
+      "label": "\"Murder of Coeur de Gris\"",
+      "description": "\"The impulsive murder of the young French buccaneer Coeur de Gris by Henry Morgan in conquered Panama — the novel's moral turning point, the irreversible act that haunts Morgan's deathbed vision.\"",
+      "aliases": [
+        "the killing of Coeur de Gris",
+        "Morgan's murder"
+      ],
+      "tags": [
+        "murder",
+        "jealousy",
+        "turning-point",
+        "moral-catastrophe"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:murder-of-coeur-de-gris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        }
+      ]
+    },
+    {
+      "id": "no-prey-no-pay",
+      "type": "concept",
+      "label": "No Prey, No Pay",
+      "description": "\"The fundamental economic principle of the Free Brotherhood — no wages, no salaries, only shares of captured prize; the custom that made buccaneering a collective enterprise rather than a hierarchy.\"",
+      "aliases": [
+        "articles of agreement",
+        "division of spoils",
+        "buccaneer economics"
+      ],
+      "tags": [
+        "buccaneer",
+        "economics",
+        "custom",
+        "law"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:no-prey-no-pay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "Buccaneering"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "knighthood",
+          "label": "Morgan's Knighthood"
+        }
+      ]
+    },
+    {
+      "id": "old-robert-morgan",
+      "type": "person",
+      "label": "Old Robert Morgan",
+      "description": "\"Henry Morgan's father — a Welsh farmer who once 'wanted the moon' and then accepted the firefly of domestic contentment; the novel's embodiment of an alternative to ambition.\"",
+      "aliases": [
+        "Robert Morgan",
+        "Henry's father",
+        "the farmer"
+      ],
+      "tags": [
+        "welsh",
+        "farmer",
+        "father",
+        "contentment"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:old-robert-morgan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        }
+      ]
+    },
+    {
+      "id": "panama-city",
+      "type": "place",
+      "label": "Panama",
+      "description": "\"The richest Spanish city in the New World — the 'Cup of Gold' that Henry Morgan sacks in 1671; the novel's geographical and symbolic center.\"",
+      "aliases": [
+        "the Cup of Gold",
+        "Panama City",
+        "Panamá"
+      ],
+      "tags": [
+        "caribbean",
+        "spanish",
+        "city",
+        "target"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:panama-city",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "The Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "Sack of Panama"
+        },
+        {
+          "type": "related",
+          "target": "chagres",
+          "label": "Chagres"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        }
+      ]
+    },
+    {
+      "id": "paulette",
+      "type": "person",
+      "label": "Paulette",
+      "description": "A slave girl of mixed ancestry on the plantation of James Flower; Henry Morgan's concubine, whose desperate love embodies flesh-love in contrast to the soul-love Henry bore for Elizabeth.",
+      "aliases": [],
+      "tags": [
+        "slave",
+        "lover",
+        "fictional"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:paulette",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "edward-mansveldt",
+          "label": "Mansveldt's"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "peru",
+      "type": "place",
+      "label": "Peru",
+      "description": "The heartland of Spanish colonial wealth in South America; the distant source of the gold and silver that flows through [[the-plate-fleet|The Plate Fleet]] system and fuels buccaneer ambition in the novel.",
+      "aliases": [
+        "the Viceroyalty of Peru"
+      ],
+      "tags": [
+        "geography",
+        "Spain",
+        "wealth",
+        "colonial"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:peru",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Empire"
+        }
+      ]
+    },
+    {
+      "id": "pierre-le-grand",
+      "type": "person",
+      "label": "Pierre le Grand",
+      "description": "Legendary French buccaneer who captured the Vice-Admiral of the Spanish plate fleet from a canoe, founding figure of the Caribbean Free Brotherhood.",
+      "aliases": [
+        "Pierre le Grand"
+      ],
+      "tags": [
+        "french",
+        "buccaneer",
+        "hispaniola",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:pierre-le-grand",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "henry-morgan"
+        },
+        {
+          "type": "related",
+          "target": "dafydd",
+          "label": "dafydd"
+        }
+      ]
+    },
+    {
+      "id": "plymouth",
+      "type": "place",
+      "label": "Plymouth",
+      "description": "\"The English port city — a point of departure for colonial ventures and a source of 'useless ships' sold to buccaneers, representing the metropolitan economy that profits from Caribbean violence.\"",
+      "aliases": [],
+      "tags": [
+        "england",
+        "port",
+        "colonial"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:plymouth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "king-charles-ii",
+          "label": "King Charles II"
+        }
+      ]
+    },
+    {
+      "id": "port-royal",
+      "type": "place",
+      "label": "Port Royal",
+      "description": "\"The principal town and port of Jamaica — where Sir Henry Morgan rules as Lieutenant-Governor, hangs his former buccaneer comrades, and ultimately dies.\"",
+      "aliases": [
+        "Port Royall",
+        "Jamaica's port"
+      ],
+      "tags": [
+        "caribbean",
+        "english",
+        "port",
+        "governor"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:port-royal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        }
+      ]
+    },
+    {
+      "id": "puerto-bello",
+      "type": "place",
+      "label": "Puerto Bello",
+      "description": "The Spanish port city on [[caribbean|The Caribbean]] coast of Panama; a key node in the Spanish treasure network and a target of buccaneer operations in the novel.",
+      "aliases": [
+        "Porto Bello"
+      ],
+      "tags": [
+        "geography",
+        "Spain",
+        "port",
+        "[[panama-city|Panama]]"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:puerto-bello",
+      "relations": []
+    },
+    {
+      "id": "purple-porridge",
+      "type": "concept",
+      "label": "Purple Porridge",
+      "description": "\"Old Robert Morgan's homely metaphor for God and the good life — the purple porridge that 'warms your belly on a cold morning,' representing domestic contentment as a valid alternative to ambition.\"",
+      "aliases": [
+        "the purple broth",
+        "Old Robert's porridge"
+      ],
+      "tags": [
+        "theme",
+        "metaphor",
+        "contentment",
+        "domesticity"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:purple-porridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "Wanting the Moon"
+        },
+        {
+          "type": "related",
+          "target": "god-is-love",
+          "label": "God is Love"
+        }
+      ]
+    },
+    {
+      "id": "sack-of-panama",
+      "type": "event",
+      "label": "Sack of Panama",
+      "description": "\"The climactic military event of the novel — Henry Morgan's 37-ship expedition across the isthmus to sack the richest Spanish city in the New World, and the conquest that transforms him from buccaneer captain to hollow conqueror.\"",
+      "aliases": [
+        "Panama expedition",
+        "the conquest of Panama",
+        "Morgan's Panama campaign"
+      ],
+      "tags": [
+        "battle",
+        "conquest",
+        "buccaneer",
+        "panama"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:sack-of-panama",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "Don Juan Perez de Guzman"
+        }
+      ]
+    },
+    {
+      "id": "sangre-de-cristo",
+      "type": "work",
+      "label": "Sangre de Cristo",
+      "description": "The Sangre de Cristo was a Spanish supply ship captured by Captain Dawes's buccaneers — one of the many prizes of the Caribbean privateering war that fed the buccaneer economy.",
+      "aliases": [
+        "Blood of Christ"
+      ],
+      "tags": [
+        "ship",
+        "spanish",
+        "supply-ship",
+        "buccaneer",
+        "capture"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:sangre-de-cristo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneers"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Empire"
+        }
+      ]
+    },
+    {
+      "id": "second-sight",
+      "type": "concept",
+      "label": "The Second Sight",
+      "description": "\"The Welsh gift of prophetic vision — possessed by Gwenliana and to a lesser degree by Merlin — through which the Cumric tongue speaks truths invisible to ordinary perception; the novel's supernatural mechanism for foreshadowing and mythological depth.\"",
+      "aliases": [
+        "prophecy",
+        "Cumric vision",
+        "corpse-candles",
+        "Tylwyth Teg sight"
+      ],
+      "tags": [
+        "mythology",
+        "welsh",
+        "prophecy",
+        "supernatural"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:second-sight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh Cosmology"
+        }
+      ]
+    },
+    {
+      "id": "spanish-empire",
+      "type": "organization",
+      "label": "Spanish Empire",
+      "description": "The Spanish Empire in Cup of Gold is the great adversary — the source of the treasure that drives Morgan's ambition, the colonial power whose declining grip on the Caribbean creates the conditions for buccaneering.",
+      "aliases": [
+        "Spain",
+        "Spanish Crown",
+        "Spanish Main"
+      ],
+      "tags": [
+        "empire",
+        "colonial",
+        "enemy",
+        "treasure",
+        "catholic"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:spanish-empire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneers"
+        },
+        {
+          "type": "related",
+          "target": "peru",
+          "label": "Peru"
+        },
+        {
+          "type": "related",
+          "target": "isthmus-of-darien",
+          "label": "Isthmus of Panama"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "maracaibo",
+          "label": "Maracaibo"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "Doña Ysobel"
+        },
+        {
+          "type": "related",
+          "target": "catholic-church",
+          "label": "catholic-church"
+        }
+      ]
+    },
+    {
+      "id": "the-brethren-of-the-coast",
+      "type": "organization",
+      "label": "The Brethren of the Coast",
+      "description": "The Brethren of the Coast is the historical name for the buccaneer confederation of the Caribbean — the democratic pirate society that, in Cup of Gold, forms the social world Henry Morgan inhabits and eventually leads.",
+      "aliases": [
+        "Brethren of the Coast"
+      ],
+      "tags": [
+        "buccaneer",
+        "piracy",
+        "caribbean",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-brethren-of-the-coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Brethren of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneers"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "the-free-brotherhood",
+          "label": "Free Brotherhood"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        }
+      ]
+    },
+    {
+      "id": "the-burning-of-panama",
+      "type": "event",
+      "label": "The Burning of Panama",
+      "description": "\"The destruction of Panama City by fire following Morgan's conquest in 1671 — a controversial event in which the Spanish accused Morgan of arson while the buccaneers blamed the Spanish defenders themselves.\"",
+      "aliases": [
+        "The Fire of Panama"
+      ],
+      "tags": [
+        "battle",
+        "destruction",
+        "controversy"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-burning-of-panama",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-perez-de-guzman",
+          "label": "Don Juan Perez de Guzman"
+        },
+        {
+          "type": "related",
+          "target": "governor-moddyford",
+          "label": "Governor Moddyford"
+        }
+      ]
+    },
+    {
+      "id": "the-crown",
+      "type": "concept",
+      "label": "The Crown",
+      "description": "The institution of the English Crown as a remote but decisive force in the novel; the source of commissions, pardons, and knighthoods that shapes Morgan's career from indenture to governorship.",
+      "aliases": [
+        "the monarchy",
+        "royal authority",
+        "the King"
+      ],
+      "tags": [
+        "authority",
+        "politics",
+        "colonialism",
+        "Morgan"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-crown",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "the-cup-of-gold",
+      "type": "concept",
+      "label": "The Cup of Gold",
+      "description": "\"The central metaphor of the novel — Panama as the ultimate prize, and desire itself as an unattainable golden cup.\"",
+      "aliases": [
+        "Cup of Gold",
+        "Golden Cup",
+        "Panama (Symbol)"
+      ],
+      "tags": [
+        "theme",
+        "symbolism",
+        "desire",
+        "ambition"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-cup-of-gold",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "Sack of Panama"
+        },
+        {
+          "type": "related",
+          "target": "mediocrity-as-disease",
+          "label": "Mediocrity as Disease"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "Buccaneering"
+        }
+      ]
+    },
+    {
+      "id": "the-effects-of-alcoholic-spirits",
+      "type": "work",
+      "label": "The Effects of Alcoholic Spirits, Momentary and Perpetual",
+      "description": "\"The Effects of Alcoholic Spirits, Momentary and Perpetual\" is a violent temperance tract whose \"verification\" led James Flower to assault a guardsman with a potted plant — the one spontaneous act of his life and the cause of his exile to Barbados.",
+      "aliases": [
+        "The Effects of Alcoholic Spirits"
+      ],
+      "tags": [
+        "book",
+        "tract",
+        "temperance",
+        "james-flower",
+        "exile"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-effects-of-alcoholic-spirits",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "james-flower",
+          "label": "James Flower"
+        },
+        {
+          "type": "related",
+          "target": "barbados",
+          "label": "Barbados"
+        },
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "14"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indenture"
+        }
+      ]
+    },
+    {
+      "id": "the-elves-concourse",
+      "type": "work",
+      "label": "The Elves' Concourse",
+      "description": "\"The Elves' Concourse\" is a light, sweet piano piece composed and performed by Elizabeth Morgan — a musical work that serves as an instrument of seduction in her courtship of Henry Morgan.",
+      "aliases": [],
+      "tags": [
+        "music",
+        "piano",
+        "elizabeth",
+        "courtship"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-elves-concourse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-morgan",
+          "label": "Elizabeth Morgan"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "god-bears-the-weary-soul",
+          "label": "God Bears the Weary Soul to Rest"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        }
+      ]
+    },
+    {
+      "id": "the-free-brotherhood",
+      "type": "organization",
+      "label": "The Free Brotherhood of the Coast",
+      "description": "The Free Brotherhood of the Coast was the loose confederation of buccaneers operating in the Caribbean — the democratic, violent, and egalitarian social order that Henry Morgan rose to command and that made the conquest of Panama possible.",
+      "aliases": [
+        "The Free Brotherhood",
+        "The Brotherhood",
+        "The Brethren"
+      ],
+      "tags": [
+        "buccaneer",
+        "confederation",
+        "caribbean",
+        "piracy",
+        "democracy"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-free-brotherhood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "indenture-system",
+          "label": "indenture"
+        },
+        {
+          "type": "related",
+          "target": "tortuga",
+          "label": "Tortuga"
+        },
+        {
+          "type": "related",
+          "target": "goaves",
+          "label": "Goaves"
+        },
+        {
+          "type": "related",
+          "target": "puerto-bello",
+          "label": "Puerto Bello"
+        },
+        {
+          "type": "related",
+          "target": "maracaibo",
+          "label": "Maracaibo"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        }
+      ]
+    },
+    {
+      "id": "the-house-of-rhys",
+      "type": "organization",
+      "label": "The House of Rhys",
+      "description": "The House of Rhys was the Welsh noble house whose aspirant defeated Merlin for the position of First Bard at the Eisteddfod — the aristocratic intervention that may have triggered Merlin's withdrawal from poetry.",
+      "aliases": [
+        "House of Rhys"
+      ],
+      "tags": [
+        "welsh",
+        "noble-house",
+        "bardic",
+        "merlin",
+        "eisteddfod"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-house-of-rhys",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "spanish-empire",
+          "label": "Spanish Empire"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "the-landing-at-panama",
+      "type": "event",
+      "label": "The Buccaneer Landing at Panama",
+      "description": "\"The arrival of Morgan's buccaneer fleet on the Caribbean coast of Panama — the amphibious opening of the Panama campaign, in which the buccaneers transition from sea raiders to an invading army.\"",
+      "aliases": [
+        "The Approach to Panama",
+        "Landing on the Isthmus"
+      ],
+      "tags": [
+        "military",
+        "amphibious",
+        "panama-campaign"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-landing-at-panama",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        }
+      ]
+    },
+    {
+      "id": "the-plate-fleet",
+      "type": "concept",
+      "label": "The Plate Fleet",
+      "description": "The Spanish treasure fleet system — the great convoys of plate ships carrying American gold and silver to Spain; the ultimate target of buccaneer ambition and the economic engine of the [[spanish-empire|Spanish Empire]] in the novel.",
+      "aliases": [
+        "treasure fleet",
+        "Spanish treasure fleet",
+        "plate ships"
+      ],
+      "tags": [
+        "wealth",
+        "Spain",
+        "maritime",
+        "colonialism"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-plate-fleet",
+      "relations": []
+    },
+    {
+      "id": "the-sea-motif",
+      "type": "concept",
+      "label": "The Sea (Motif)",
+      "description": "In Cup of Gold, the sea functions as a central motif — simultaneously a route to freedom, a testing ground for ambition, and a feminine force that rivals and ultimately supplants human love.",
+      "aliases": [
+        "the sea",
+        "ocean",
+        "seafaring"
+      ],
+      "tags": [
+        "motif",
+        "nature",
+        "freedom",
+        "danger",
+        "ambition"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:the-sea-motif",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "jamaica",
+          "label": "Jamaica"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "buccaneer"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean Sea"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "Paulette"
+        },
+        {
+          "type": "related",
+          "target": "ysobel",
+          "label": "Ysobel"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "the Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "dreams-and-visions",
+          "label": "dreams-and-visions"
+        },
+        {
+          "type": "related",
+          "target": "morgans-governorship",
+          "label": "morgans-governorship"
+        }
+      ]
+    },
+    {
+      "id": "the-sorrow-of-plaith",
+      "type": "work",
+      "label": "The Sorrow of Plaith",
+      "description": "\"The Sorrow of Plaith\" is one of the bardic songs composed by Merlin in his youth — a work of Welsh poetic tradition that won prizes at the Eisteddfod before its creator withdrew from the world.",
+      "aliases": [],
+      "tags": [
+        "music",
+        "bardic",
+        "welsh",
+        "song",
+        "merlin"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-sorrow-of-plaith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "the-spear-song",
+          "label": "The Spear Song"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        }
+      ]
+    },
+    {
+      "id": "the-spear-song",
+      "type": "work",
+      "label": "The Spear Song",
+      "description": "\"The Spear Song\" is one of Merlin's bardic compositions — a martial piece from the Welsh tradition that, alongside \"The Sorrow of Plaith,\" represents the peak of the old poet's creative life before his long silence.",
+      "aliases": [],
+      "tags": [
+        "music",
+        "bardic",
+        "welsh",
+        "song",
+        "merlin",
+        "martial"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-spear-song",
+      "relations": [
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "the-sorrow-of-plaith",
+          "label": "The Sorrow of Plaith"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Cambria"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "caribbean",
+          "label": "Caribbean"
+        }
+      ]
+    },
+    {
+      "id": "the-tone",
+      "type": "concept",
+      "label": "The Tone",
+      "description": "\"The auditory-metaphysical finale of Morgan's deathbed vision — a sound beyond sound that absorbs all distinction, all identity, all self; the novel's ultimate destination.\"",
+      "aliases": [
+        "the sound",
+        "the final note"
+      ],
+      "tags": [
+        "theme",
+        "metaphysics",
+        "death",
+        "music"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:the-tone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh Cosmology"
+        }
+      ]
+    },
+    {
+      "id": "tim-the-bosn",
+      "type": "person",
+      "label": "Tim the Bos'n",
+      "description": "An Irish sailor from Cork who facilitated Henry Morgan's sale into indentured servitude in [[barbados|Barbados]]; later expresses remorse for the act and receives Henry's forgiveness.",
+      "aliases": [
+        "Tim"
+      ],
+      "tags": [
+        "sailor",
+        "Cork",
+        "indenture"
+      ],
+      "quality": "basic",
+      "source_ref": "cup-of-gold:tim-the-bosn",
+      "relations": []
+    },
+    {
+      "id": "tortuga",
+      "type": "place",
+      "label": "Tortuga",
+      "description": "\"The rocky island off Hispaniola that served as the primary stronghold and rendezvous point of the Free Brotherhood of the Coast — where Morgan assembles his Panama fleet.\"",
+      "aliases": [
+        "Île de la Tortue",
+        "Turtle Island"
+      ],
+      "tags": [
+        "caribbean",
+        "buccaneer",
+        "stronghold",
+        "island"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:tortuga",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "free-brotherhood-of-the-coast",
+          "label": "Free Brotherhood of the Coast"
+        },
+        {
+          "type": "related",
+          "target": "buccaneering",
+          "label": "Buccaneering"
+        },
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "port-royal",
+          "label": "Port Royal"
+        }
+      ]
+    },
+    {
+      "id": "wales",
+      "type": "place",
+      "label": "Wales",
+      "description": "\"Henry Morgan's homeland — the Welsh valleys where he is born and raised, site of the Morgan farmhouse, Crag-top, and Merlin's harps; the novel's mythological and emotional baseline.\"",
+      "aliases": [
+        "Cambria",
+        "Welsh valleys",
+        "Cymru"
+      ],
+      "tags": [
+        "welsh",
+        "homeland",
+        "europe",
+        "mythology"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:wales",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "welsh-cosmology",
+          "label": "Welsh Cosmology"
+        }
+      ]
+    },
+    {
+      "id": "wanting-the-moon",
+      "type": "concept",
+      "label": "Wanting the Moon",
+      "description": "\"Merlin's diagnosis of the young Henry Morgan — 'You want the moon to drink from as a golden cup' — the novel's founding metaphor for the nature of ambition: childish, impossible, and world-creating.\"",
+      "aliases": [
+        "want the moon",
+        "reaching for the moon",
+        "the moon as golden cup"
+      ],
+      "tags": [
+        "theme",
+        "desire",
+        "childhood",
+        "metaphor"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:wanting-the-moon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "grippo",
+          "label": "Grippo"
+        },
+        {
+          "type": "related",
+          "target": "the-cup-of-gold",
+          "label": "The Cup of Gold"
+        },
+        {
+          "type": "related",
+          "target": "mediocrity-as-disease",
+          "label": "Mediocrity as Disease"
+        }
+      ]
+    },
+    {
+      "id": "welsh-cosmology",
+      "type": "concept",
+      "label": "Welsh Cosmology",
+      "description": "\"The three circles of Cumric (Welsh Druidic) cosmology — Abred (struggle), Gwynfyd (purity), Annwn (void) — as invoked in Gwenliana's prophecy over the infant Henry Morgan.\"",
+      "aliases": [
+        "Abred",
+        "Gwynfyd",
+        "Annwn",
+        "Cumric cosmology",
+        "Druidic circles",
+        "three circles"
+      ],
+      "tags": [
+        "mythology",
+        "welsh",
+        "celtic",
+        "cosmology"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:welsh-cosmology",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "merlin",
+          "label": "Merlin"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "old-robert-morgan",
+          "label": "Old Robert Morgan"
+        },
+        {
+          "type": "related",
+          "target": "brother-death",
+          "label": "Brother Death"
+        }
+      ]
+    },
+    {
+      "id": "welsh-farm",
+      "type": "place",
+      "label": "Welsh Farm",
+      "description": "The Morgan family farm in the Welsh valleys — the novel's opening setting and Henry Morgan's childhood home; the place he leaves behind for the Indies and can never truly return to.",
+      "aliases": [
+        "Morgan farm",
+        "the farm in [[wales|Wales]]"
+      ],
+      "tags": [
+        "geography",
+        "Wales",
+        "childhood",
+        "home"
+      ],
+      "quality": "standard",
+      "source_ref": "cup-of-gold:welsh-farm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gwenliana",
+          "label": "Gwenliana"
+        },
+        {
+          "type": "related",
+          "target": "mother-morgan",
+          "label": "Mother Morgan"
+        }
+      ]
+    },
+    {
+      "id": "ysobel",
+      "type": "person",
+      "label": "Ysobel",
+      "description": "Doña Ysobel Espinoza, called La Santa Roja (the Red Saint) by the people of Panama, is the woman who defeats Henry Morgan's romantic advances with a pin and her laughter in Cup of Gold.",
+      "aliases": [
+        "Doña Ysobel Espinoza",
+        "La Santa Roja",
+        "Ysobel Espinoza Valdez y los Gabilanes"
+      ],
+      "tags": [
+        "character",
+        "panama",
+        "la-santa-roja",
+        "ransom"
+      ],
+      "quality": "featured",
+      "source_ref": "cup-of-gold:ysobel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panama-city",
+          "label": "Panama"
+        },
+        {
+          "type": "related",
+          "target": "la-santa-roja",
+          "label": "La Santa Roja"
+        },
+        {
+          "type": "related",
+          "target": "henry-morgan",
+          "label": "Sir Henry Morgan"
+        },
+        {
+          "type": "related",
+          "target": "sack-of-panama",
+          "label": "captures Panama"
+        },
+        {
+          "type": "related",
+          "target": "peru",
+          "label": "Peru"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth",
+          "label": "Elizabeth"
+        },
+        {
+          "type": "related",
+          "target": "wales",
+          "label": "Wales"
+        },
+        {
+          "type": "related",
+          "target": "coeur-de-gris",
+          "label": "Coeur de Gris"
+        },
+        {
+          "type": "related",
+          "target": "wanting-the-moon",
+          "label": "grand ambitions"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-motif",
+          "label": "the-sea-motif"
+        }
+      ]
+    }
+  ]
+}

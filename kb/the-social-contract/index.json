@@ -1,0 +1,4102 @@
+{
+  "book": "the-social-contract",
+  "title": "The Social Contract",
+  "description": "The Social Contract — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 108,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"The Social Contract\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:About",
+      "relations": []
+    },
+    {
+      "id": "Epigraph",
+      "type": "chapter",
+      "label": "\"Epigraph\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:Epigraph",
+      "relations": []
+    },
+    {
+      "id": "Foreword",
+      "type": "chapter",
+      "label": "\"Foreword\"",
+      "description": "\"This little treatise is part of a longer work which I began years ago without realising my limitations, and long since abandoned. Of the various fragments that…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:Foreword",
+      "relations": []
+    },
+    {
+      "id": "Introduction",
+      "type": "chapter",
+      "label": "\"Introduction\"",
+      "description": "\"For the study of the great writers and thinkers of the past, historical imagination is the first necessity. Without mentally referring to the environment in whi…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:Introduction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "property",
+          "label": "possession"
+        },
+        {
+          "type": "related",
+          "target": "venice",
+          "label": "Venice"
+        },
+        {
+          "type": "related",
+          "target": "geneva",
+          "label": "Republic of Geneva"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "General Will"
+        },
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "Montesquieu"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "administration"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        },
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "Hobbes"
+        },
+        {
+          "type": "related",
+          "target": "john-locke",
+          "label": "Locke"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "political liberty"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "will-of-all",
+          "label": "sum of particular wills"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "popular assembly"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "unlimited right"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-social-contract:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "The-Social-Contract",
+          "label": "The Social Contract"
+        },
+        {
+          "type": "related",
+          "target": "book-I",
+          "label": "Book I"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-01",
+          "label": "ch-I-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-02",
+          "label": "ch-I-02"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-03",
+          "label": "ch-I-03"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-04",
+          "label": "ch-I-04"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-05",
+          "label": "ch-I-05"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-06",
+          "label": "ch-I-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-07",
+          "label": "ch-I-07"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-08",
+          "label": "ch-I-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-09",
+          "label": "ch-I-09"
+        },
+        {
+          "type": "related",
+          "target": "book-II",
+          "label": "Book II"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-01",
+          "label": "ch-II-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-02",
+          "label": "ch-II-02"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-03",
+          "label": "ch-II-03"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-04",
+          "label": "ch-II-04"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-05",
+          "label": "ch-II-05"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-06",
+          "label": "ch-II-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-07",
+          "label": "ch-II-07"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-08",
+          "label": "ch-II-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-09",
+          "label": "ch-II-09"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-10",
+          "label": "ch-II-10"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-11",
+          "label": "ch-II-11"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-12",
+          "label": "ch-II-12"
+        },
+        {
+          "type": "related",
+          "target": "book-III",
+          "label": "Book III"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-01",
+          "label": "ch-III-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-02",
+          "label": "ch-III-02"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-03",
+          "label": "ch-III-03"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-04",
+          "label": "ch-III-04"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-05",
+          "label": "ch-III-05"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-06",
+          "label": "ch-III-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-07",
+          "label": "ch-III-07"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-08",
+          "label": "ch-III-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-09",
+          "label": "ch-III-09"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-10",
+          "label": "ch-III-10"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-11",
+          "label": "ch-III-11"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-12",
+          "label": "ch-III-12"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-13",
+          "label": "ch-III-13"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-14",
+          "label": "ch-III-14"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-15",
+          "label": "ch-III-15"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-16",
+          "label": "ch-III-16"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-17",
+          "label": "ch-III-17"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-18",
+          "label": "ch-III-18"
+        },
+        {
+          "type": "related",
+          "target": "book-IV",
+          "label": "Book IV"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-01",
+          "label": "ch-IV-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-02",
+          "label": "ch-IV-02"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-03",
+          "label": "ch-IV-03"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-04",
+          "label": "ch-IV-04"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-05",
+          "label": "ch-IV-05"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-06",
+          "label": "ch-IV-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-07",
+          "label": "ch-IV-07"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-08",
+          "label": "ch-IV-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-09",
+          "label": "ch-IV-09"
+        },
+        {
+          "type": "related",
+          "target": "Endnotes",
+          "label": "Endnotes"
+        }
+      ]
+    },
+    {
+      "id": "The-Social-Contract",
+      "type": "chapter",
+      "label": "\"The Social Contract\"",
+      "description": "\"Structural hub linking to all four Books of Rousseau's The Social Contract\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:The-Social-Contract",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "book-I",
+          "label": "Book I"
+        },
+        {
+          "type": "related",
+          "target": "book-II",
+          "label": "Book II"
+        },
+        {
+          "type": "related",
+          "target": "book-III",
+          "label": "Book III"
+        },
+        {
+          "type": "related",
+          "target": "book-IV",
+          "label": "Book IV"
+        }
+      ]
+    },
+    {
+      "id": "aristocracy",
+      "type": "concept",
+      "label": "Aristocracy",
+      "description": "A form of government in which authority is vested in a small number of citizens, analyzed by Rousseau as the best practicable form when elective.",
+      "aliases": [
+        "aristocratic government",
+        "rule by the few"
+      ],
+      "tags": [
+        "government",
+        "forms of government",
+        "political theory",
+        "Rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:aristocracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democracy"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "monarchy"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        }
+      ]
+    },
+    {
+      "id": "body-politic",
+      "type": "concept",
+      "label": "Body Politic",
+      "description": "Rousseau's concept of the body politic as a moral and collective being created by the social compact — a public person with its own will, life, and unity distinct from the individuals who compose it",
+      "aliases": [
+        "moral person",
+        "collective being",
+        "public person",
+        "Republic"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:body-politic",
+      "relations": []
+    },
+    {
+      "id": "book-I",
+      "type": "chapter",
+      "label": "\"Book I\"",
+      "description": "\"I mean to inquire if, in the civil order, there can be any sure and legitimate rule of administration, men being taken as they are and laws as they might be. In…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:book-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "administration"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        }
+      ]
+    },
+    {
+      "id": "book-II",
+      "type": "chapter",
+      "label": "\"Book II\"",
+      "description": "\"- [[0412-The-Social-Contract-4fb854c1-ch018|I: That Sovereignty Is Inalienable]]\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:book-II",
+      "relations": []
+    },
+    {
+      "id": "book-III",
+      "type": "chapter",
+      "label": "\"Book III\"",
+      "description": "\"Before speaking of the different forms of government, let us try to fix the exact sense of the word, which has not yet been very clearly explained.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:book-III",
+      "relations": []
+    },
+    {
+      "id": "book-IV",
+      "type": "chapter",
+      "label": "\"Book IV\"",
+      "description": "\"- [[0412-The-Social-Contract-4fb854c1-ch050|I: That the General Will Is Indestructible]]\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:book-IV",
+      "relations": []
+    },
+    {
+      "id": "caligula",
+      "type": "person",
+      "label": "Caligula",
+      "description": "Caligula, the Roman emperor whose reign of arbitrary cruelty Rousseau cites in The Social Contract as the archetype of despotic rule — the logical endpoint of political degeneration when sovereignty is usurped by a single will",
+      "aliases": [
+        "Gaius Caesar",
+        "Caligula Caesar"
+      ],
+      "tags": [
+        "roman history",
+        "tyranny",
+        "despotism"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:caligula",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrate"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "decline-of-rome",
+          "label": "decline-of-rome"
+        }
+      ]
+    },
+    {
+      "id": "censorship",
+      "type": "concept",
+      "label": "Censorship",
+      "description": "Rousseau's concept of censorship not as a tribunal over opinion but as the guardian of public morals — an institution that preserves manners and opinion, which Rousseau considered more important than laws themselves",
+      "aliases": [
+        "censor",
+        "moral censorship",
+        "guardian of morals"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:censorship",
+      "relations": []
+    },
+    {
+      "id": "ch-I-01",
+      "type": "chapter",
+      "label": "\"I: Subject of the First Book\"",
+      "description": "\"Subject of the First Book\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-01",
+      "relations": []
+    },
+    {
+      "id": "ch-I-02",
+      "type": "chapter",
+      "label": "\"II: The First Societies\"",
+      "description": "\"The most ancient of all societies, and the only one that is natural, is the family: and even so the children remain attached to the father only so long as they…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "Hobbes"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-03",
+      "type": "chapter",
+      "label": "\"III: The Right of the Strongest\"",
+      "description": "\"The Right of the Strongest\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-03",
+      "relations": []
+    },
+    {
+      "id": "ch-I-04",
+      "type": "chapter",
+      "label": "\"IV: Slavery\"",
+      "description": "\"Since no man has a natural authority over his fellow, and force creates no right, we must conclude that conventions form the basis of all legitimate authority a…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-05",
+      "type": "chapter",
+      "label": "\"V: That We Must Always Go Back to a First Convention\"",
+      "description": "\"That We Must Always Go Back to a First Convention\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-06",
+      "type": "chapter",
+      "label": "\"VI: The Social Compact\"",
+      "description": "\"I suppose men to have reached the point at which the obstacles in the way of their preservation in the state of nature show their power of resistance to be grea…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "Social Compact"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "primitive condition"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "public person"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign power"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-07",
+      "type": "chapter",
+      "label": "\"VII: The Sovereign\"",
+      "description": "\"This formula shows us that the act of association comprises a mutual undertaking between the public and the individuals, and that each individual, in making a c…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "fundamental law"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "moral person"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-08",
+      "type": "chapter",
+      "label": "\"VIII: The Civil State\"",
+      "description": "\"The passage from the state of nature to the civil state produces a very remarkable change in man, by substituting justice for instinct in his conduct, and givin…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "unlimited right"
+        },
+        {
+          "type": "related",
+          "target": "property",
+          "label": "proprietorship"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "moral liberty"
+        }
+      ]
+    },
+    {
+      "id": "ch-I-09",
+      "type": "chapter",
+      "label": "\"IX: Real Property\"",
+      "description": "\"Each member of the community gives himself to it, at the moment of its foundation, just as he is, with all the resources at his command, including the goods he…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-I-09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "property",
+          "label": "Property"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-01",
+      "type": "chapter",
+      "label": "\"I: That Sovereignty Is Inalienable\"",
+      "description": "\"That Sovereignty Is Inalienable\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "collective being"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general wills"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-02",
+      "type": "chapter",
+      "label": "\"II: That Sovereignty Is Indivisible\"",
+      "description": "\"That Sovereignty Is Indivisible\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "magistracy"
+        },
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-03",
+      "type": "chapter",
+      "label": "\"III: Whether the General Will Is Fallible\"",
+      "description": "\"Whether the General Will Is Fallible\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "General Will"
+        },
+        {
+          "type": "related",
+          "target": "will-of-all",
+          "label": "sum of particular wills"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-04",
+      "type": "chapter",
+      "label": "\"IV: The Limits of the Sovereign Power\"",
+      "description": "\"The Limits of the Sovereign Power\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "moral person"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "the compact"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-05",
+      "type": "chapter",
+      "label": "\"V: The Right of Life and Death\"",
+      "description": "\"The Right of Life and Death\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "the compact"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "moral person"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Republic"
+        },
+        {
+          "type": "related",
+          "target": "roman-senate",
+          "label": "the Senate"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-06",
+      "type": "chapter",
+      "label": "\"VI: Law\"",
+      "description": "\"By the social compact we have given the body politic existence and life: we have now by legislation to give it movement and will. For the original act by which…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-07",
+      "type": "chapter",
+      "label": "\"VII: The Legislator\"",
+      "description": "\"In order to discover the rules of society best suited to nations, a superior intelligence beholding all the passions of men without experiencing any of them wou…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "Montesquieu"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        },
+        {
+          "type": "related",
+          "target": "geneva",
+          "label": "Geneva"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-08",
+      "type": "chapter",
+      "label": "\"VIII: The People\"",
+      "description": "\"As, before putting up a large building, the architect surveys and sounds the site to see if it will bear the weight, the wise legislator does not begin by layin…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-09",
+      "type": "chapter",
+      "label": "\"IX: The People (Continued)\"",
+      "description": "\"The People (Continued)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "administration"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-10",
+      "type": "chapter",
+      "label": "\"X: The People (Continued)\"",
+      "description": "\"The People (Continued)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-11",
+      "type": "chapter",
+      "label": "\"XI: The Various Systems of Legislation\"",
+      "description": "\"The Various Systems of Legislation\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        }
+      ]
+    },
+    {
+      "id": "ch-II-12",
+      "type": "chapter",
+      "label": "\"XII: The Division of the Laws\"",
+      "description": "\"The Division of the Laws\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-II-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "property",
+          "label": "possession"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-01",
+      "type": "chapter",
+      "label": "\"I: Government in General\"",
+      "description": "\"Government in General\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "moral person"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-02",
+      "type": "chapter",
+      "label": "\"II: The Constituent Principle in the Various Forms of Government\"",
+      "description": "\"The Constituent Principle in the Various Forms of Government\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-03",
+      "type": "chapter",
+      "label": "\"III: The Division of Governments\"",
+      "description": "\"The Division of Governments\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Empire"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-04",
+      "type": "chapter",
+      "label": "\"IV: Democracy\"",
+      "description": "\"He who makes the law knows better than anyone else how it should be executed and interpreted. It seems then impossible to have a better constitution than that i…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "property",
+          "label": "possession"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-05",
+      "type": "chapter",
+      "label": "\"V: Aristocracy\"",
+      "description": "\"We have here two quite distinct moral persons, the government and the Sovereign, and in consequence two general wills, one general in relation to all the citize…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general wills"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "administration"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-06",
+      "type": "chapter",
+      "label": "\"VI: Monarchy\"",
+      "description": "\"So far, we have considered the prince as a moral and collective person, unified by the force of the laws, and the depositary in the State of the executive power…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "collective being"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-07",
+      "type": "chapter",
+      "label": "\"VII: Mixed Governments\"",
+      "description": "\"Strictly speaking, there is no such thing as a simple government. An isolated ruler must have subordinate magistrates; a popular government must have a head. Th…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "executive power"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-08",
+      "type": "chapter",
+      "label": "\"VIII: That All Forms of Government Do Not Suit All Countries\"",
+      "description": "\"That All Forms of Government Do Not Suit All Countries\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "Montesquieu"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "public person"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-09",
+      "type": "chapter",
+      "label": "\"IX: The Marks of a Good Government\"",
+      "description": "\"The Marks of a Good Government\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-10",
+      "type": "chapter",
+      "label": "\"X: The Abuse of Government and Its Tendency to Degenerate\"",
+      "description": "\"The Abuse of Government and Its Tendency to Degenerate\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-11",
+      "type": "chapter",
+      "label": "\"XI: The Death of the Body Politic\"",
+      "description": "\"The Death of the Body Politic\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Body Politic"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign authority"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "executive power"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-12",
+      "type": "chapter",
+      "label": "\"XII: How the Sovereign Authority Maintains Itself\"",
+      "description": "\"How the Sovereign Authority Maintains Itself\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "acts of the general will"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Republic"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-13",
+      "type": "chapter",
+      "label": "\"XIII: The Same (Continued)\"",
+      "description": "\"It is not enough for the assembled people to have once fixed the constitution of the State by giving its sanction to a body of law; it is not enough for it to h…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-14",
+      "type": "chapter",
+      "label": "\"XIV: The Same (Continued)\"",
+      "description": "\"The moment the people is legitimately assembled as a sovereign body, the jurisdiction of the government wholly lapses, the executive power is suspended, and the…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "executive power"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "comitia"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign authority"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-15",
+      "type": "chapter",
+      "label": "\"XV: Deputies or Representatives\"",
+      "description": "\"Deputies or Representatives\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "executive power"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-16",
+      "type": "chapter",
+      "label": "\"XVI: That the Institution of Government Is Not a Contract\"",
+      "description": "\"That the Institution of Government Is Not a Contract\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-17",
+      "type": "chapter",
+      "label": "\"XVII: The Institution of Government\"",
+      "description": "\"The Institution of Government\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        }
+      ]
+    },
+    {
+      "id": "ch-III-18",
+      "type": "chapter",
+      "label": "\"XVIII: How to Check the Usurpations of Government\"",
+      "description": "\"How to Check the Usurpations of Government\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-III-18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "comitia"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign authority"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "fundamental law"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "the compact"
+        },
+        {
+          "type": "related",
+          "target": "hugo-grotius",
+          "label": "Grotius"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-01",
+      "type": "chapter",
+      "label": "\"I: That the General Will Is Indestructible\"",
+      "description": "\"That the General Will Is Indestructible\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "General Will"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-02",
+      "type": "chapter",
+      "label": "\"II: Voting\"",
+      "description": "\"It may be seen, from the last chapter, that the way in which general business is managed may give a clear enough indication of the actual state of morals and th…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "comitia"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        },
+        {
+          "type": "related",
+          "target": "roman-senate",
+          "label": "the Senate"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-03",
+      "type": "chapter",
+      "label": "\"III: Elections\"",
+      "description": "\"In the elections of the prince and the magistrates, which are, as I have said, complex acts, there are two possible methods of procedure, choice and lot. Both h…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "venice",
+          "label": "Venice"
+        },
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "Montesquieu"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "geneva",
+          "label": "Geneva"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-04",
+      "type": "chapter",
+      "label": "\"IV: The Roman Comitia\"",
+      "description": "\"We are without well-certified records of the first period of Rome’s existence; it even appears very probable that most of the stories told about it are fables;…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "Comitia"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "founding-of-rome",
+          "label": "foundation of Rome"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "magistracy"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "venice",
+          "label": "Republic of Venice"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-05",
+      "type": "chapter",
+      "label": "\"V: The Tribunate\"",
+      "description": "\"When an exact proportion cannot be established between the constituent parts of the State, or when causes that cannot be removed continually alter the relation…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tribunate",
+          "label": "Tribunate"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "magistracy"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "venice",
+          "label": "Venice"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-06",
+      "type": "chapter",
+      "label": "\"VI: The Dictatorship\"",
+      "description": "\"The inflexibility of the laws, which prevents them from adapting themselves to circumstances, may, in certain cases, render them disastrous, and make them bring…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign authority"
+        },
+        {
+          "type": "related",
+          "target": "body-politic",
+          "label": "Republic"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "magistracy"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-07",
+      "type": "chapter",
+      "label": "\"VII: The Censorship\"",
+      "description": "\"As the law is the declaration of the general will, the censorship is the declaration of the public judgment: public opinion is the form of law which the censor…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "censorship",
+          "label": "Censorship"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-08",
+      "type": "chapter",
+      "label": "\"VIII: Civil Religion\"",
+      "description": "\"At first men had no kings save the gods, and no government save theocracy. They reasoned like Caligula, and, at that period, reasoned aright. It takes a long ti…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "civil-religion",
+          "label": "Civil Religion"
+        },
+        {
+          "type": "related",
+          "target": "property",
+          "label": "possession"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "prince"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "the Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "Hobbes"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "natural state"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "Sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Rome"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social contract"
+        }
+      ]
+    },
+    {
+      "id": "ch-IV-09",
+      "type": "chapter",
+      "label": "\"IX: Conclusion\"",
+      "description": "\"Now that I have laid down the true principles of political right, and tried to give the State a basis of its own to rest on, I ought next to strengthen it by it…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-social-contract:ch-IV-09",
+      "relations": []
+    },
+    {
+      "id": "civil-liberty",
+      "type": "concept",
+      "label": "Civil Liberty",
+      "description": "Rousseau's concept of the liberty gained by entering civil society — freedom under self-imposed law, secured by the social compact against personal dependence",
+      "aliases": [
+        "civil freedom",
+        "moral liberty",
+        "political liberty"
+      ],
+      "tags": [
+        "political philosophy",
+        "freedom",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:civil-liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "state-of-nature"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-08",
+          "label": "ch-I-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-04",
+          "label": "ch-II-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-religion",
+      "type": "concept",
+      "label": "Civil Religion",
+      "description": "Rousseau's doctrine that the State requires a civil religion — a set of civic sentiments and duties that bind citizens to the community, distinct from both theological dogma and private conscience",
+      "aliases": [
+        "civic religion",
+        "public religion",
+        "religion civile"
+      ],
+      "tags": [
+        "political philosophy",
+        "religion",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:civil-religion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "ch-IV-08",
+          "label": "ch-IV-08"
+        }
+      ]
+    },
+    {
+      "id": "comitia",
+      "type": "organization",
+      "label": "Comitia",
+      "description": "The Roman Comitia, the popular assemblies of the Roman Republic that Rousseau analyzes as an exemplar of how a sovereign people can exercise its legislative power through institutional forms",
+      "aliases": [
+        "comitia",
+        "Roman assemblies",
+        "popular assembly"
+      ],
+      "tags": [
+        "political institution",
+        "republic",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:comitia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "decline-of-rome",
+      "type": "event",
+      "label": "Decline of Rome",
+      "description": "The decline of the Roman Republic, which Rousseau analyzes as the paradigmatic case of governmental usurpation of sovereignty — the process by which the general will is replaced by particular interests",
+      "aliases": [
+        "Decline of the Roman Republic",
+        "fall of the Roman Republic"
+      ],
+      "tags": [
+        "political history",
+        "founding",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:decline-of-rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "democracy",
+      "type": "concept",
+      "label": "Democracy",
+      "description": "A form of government in which the sovereign entrusts executive power to the whole people or a majority — regarded by Rousseau as an ideal never realized and suited only to small, virtuous states.",
+      "aliases": [
+        "democratic government",
+        "popular government",
+        "rule by the people"
+      ],
+      "tags": [
+        "government",
+        "forms of government",
+        "political theory",
+        "Rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:democracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aristocracy",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "monarchy"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "type": "place",
+      "label": "England",
+      "description": "England, frequently referenced in Rousseau's The Social Contract as a counterexample — a nation whose people mistakenly believe themselves free under a representative system that Rousseau argues is a form of slavery punctuated by electoral moments",
+      "aliases": [
+        "Britain",
+        "English nation"
+      ],
+      "tags": [
+        "modern europe",
+        "constitutional monarchy",
+        "counterexample"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "geneva",
+          "label": "geneva"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "france"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "equality",
+      "type": "concept",
+      "label": "Equality",
+      "description": "Rousseau's conception of equality as a fundamental condition of legitimate political society — not absolute equality of wealth and power, but equality before the law and the absence of personal dependence",
+      "aliases": [
+        "civil equality",
+        "political equality",
+        "natural equality"
+      ],
+      "tags": [
+        "political philosophy",
+        "justice",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:equality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-11",
+          "label": "ch-II-11"
+        }
+      ]
+    },
+    {
+      "id": "executive-power",
+      "type": "concept",
+      "label": "Executive Power",
+      "description": "The physical force of the body politic that executes the general will through particular acts — distinct from the legislative power (the will) and vested in the government or prince.",
+      "aliases": [
+        "executive",
+        "government",
+        "administration",
+        "prince",
+        "magistracy"
+      ],
+      "tags": [
+        "government",
+        "sovereignty",
+        "political theory",
+        "Rousseau",
+        "separation of powers"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:executive-power",
+      "relations": [
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "foundation-roman-republic",
+      "type": "event",
+      "label": "Foundation of the Roman Republic",
+      "description": "The establishment of the Roman Republic following the expulsion of the Tarquin kings — a foundational moment Rousseau analyzes as exemplifying the transition from monarchy to legitimate popular sovereignty through constitutional founding",
+      "aliases": [
+        "establishment of the Republic",
+        "expulsion of the kings",
+        "Roman Revolution"
+      ],
+      "tags": [
+        "roman history",
+        "constitutional founding",
+        "revolution"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:foundation-roman-republic",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereign"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrates"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "popular-assemblies",
+          "label": "popular-assemblies"
+        },
+        {
+          "type": "related",
+          "target": "roman-senate",
+          "label": "Senate"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "founding-of-rome",
+          "label": "founding-of-rome"
+        },
+        {
+          "type": "related",
+          "target": "decline-of-rome",
+          "label": "decline-of-rome"
+        },
+        {
+          "type": "related",
+          "target": "roman-expansion",
+          "label": "roman-expansion"
+        },
+        {
+          "type": "related",
+          "target": "servius-tullius",
+          "label": "servius-tullius"
+        }
+      ]
+    },
+    {
+      "id": "founding-of-rome",
+      "type": "event",
+      "label": "Founding of Rome",
+      "description": "The legendary founding of Rome, which Rousseau discusses as an example of how a new political community is constituted — the act by which a multitude becomes a people with a common identity and purpose",
+      "aliases": [
+        "Founding of Rome",
+        "Rome's founding",
+        "foundation of Rome"
+      ],
+      "tags": [
+        "political history",
+        "founding",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:founding-of-rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "type": "place",
+      "label": "France",
+      "description": "France, the primary political context of Rousseau's critique — the archetype of a corrupt modern state where inequality and absolutism have destroyed legitimate political order",
+      "aliases": [
+        "France",
+        "Kingdom of France",
+        "ancien régime"
+      ],
+      "tags": [
+        "city",
+        "political geography",
+        "modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:france",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "french-absolutism",
+      "type": "event",
+      "label": "French Absolutism",
+      "description": "The consolidation of absolute monarchy in France under Louis XIV, representing for Rousseau the complete corruption of legitimate political order — where the will of one replaces the general will",
+      "aliases": [
+        "Rise of French absolutism",
+        "ancien régime",
+        "absolutist France"
+      ],
+      "tags": [
+        "political history",
+        "founding",
+        "early-modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:french-absolutism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "french-parlement",
+      "type": "organization",
+      "label": "French Parlement",
+      "description": "The French Parlements, the sovereign courts of the ancien régime that Rousseau criticized as usurping legislative authority under the guise of judicial review — an example of the confusion of sovereignty with government",
+      "aliases": [
+        "Parlement of Paris",
+        "French parlements",
+        "the parlements"
+      ],
+      "tags": [
+        "political institution",
+        "republic",
+        "early-modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:french-parlement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "general-will",
+      "type": "concept",
+      "label": "General Will",
+      "description": "Rousseau's concept of the general will (volonté générale) as the collective will of the sovereign people directed toward the common good — the central principle of The Social Contract",
+      "aliases": [
+        "volonté générale",
+        "general wills"
+      ],
+      "tags": [
+        "political philosophy",
+        "sovereignty",
+        "rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:general-will",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "Foreword",
+          "label": "Foreword"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-06",
+          "label": "ch-I-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-07",
+          "label": "ch-I-07"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-01",
+          "label": "ch-II-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-03",
+          "label": "ch-II-03"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-06",
+          "label": "ch-II-06"
+        }
+      ]
+    },
+    {
+      "id": "geneva",
+      "type": "place",
+      "label": "Geneva",
+      "description": "Geneva, Rousseau's birthplace and the model republic whose institutions shaped his political thought. The Social Contract is dedicated 'To the Republic of Geneva.'",
+      "aliases": [
+        "Geneva",
+        "Republic of Geneva",
+        "City of Geneva"
+      ],
+      "tags": [
+        "city",
+        "political geography",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:geneva",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "genevan-general-council",
+      "type": "organization",
+      "label": "Genevan General Council",
+      "description": "The General Council of the Republic of Geneva, the assembly of all citizens that exercised sovereign legislative power — the living model of popular sovereignty that shaped Rousseau's political thought",
+      "aliases": [
+        "General Council of Geneva",
+        "Council of Geneva"
+      ],
+      "tags": [
+        "political institution",
+        "republic",
+        "early-modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:genevan-general-council",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "genevan-reformation",
+      "type": "event",
+      "label": "Genevan Reformation",
+      "description": "The establishment of the Reformed Republic of Geneva in the 16th century, which created the Calvinist city-state that Rousseau would later cite as a model of popular sovereignty",
+      "aliases": [
+        "Reformation of Geneva",
+        "Calvin's Geneva",
+        "Genevan Republic founding"
+      ],
+      "tags": [
+        "political history",
+        "founding",
+        "early-modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:genevan-reformation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "government",
+      "type": "concept",
+      "label": "Government",
+      "description": "Rousseau's distinction between sovereignty (legislative will) and government (executive power) — government as the commissioned agent of the Sovereign, not the Sovereign itself",
+      "aliases": [
+        "executive power",
+        "magistracy",
+        "prince",
+        "administration"
+      ],
+      "tags": [
+        "political philosophy",
+        "governance",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-01",
+          "label": "ch-III-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-III-10",
+          "label": "ch-III-10"
+        }
+      ]
+    },
+    {
+      "id": "hugo-grotius",
+      "type": "person",
+      "label": "Hugo Grotius",
+      "description": "Hugo Grotius (1583–1645), Dutch jurist and philosopher whose De Jure Belli ac Pacis (1625) founded modern natural law theory — a major target of Rousseau's critique in the opening chapters of The Social Contract",
+      "aliases": [
+        "Grotius",
+        "Huig de Groot"
+      ],
+      "tags": [
+        "philosopher",
+        "enlightenment",
+        "social-contract-theory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:hugo-grotius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "type": "person",
+      "label": "Jean-Jacques Rousseau",
+      "description": "Jean-Jacques Rousseau (1712–1778), Genevan philosopher and author of The Social Contract, whose political philosophy profoundly shaped modern democratic and republican thought",
+      "aliases": [
+        "Rousseau",
+        "J.-J. Rousseau",
+        "Citizen of Geneva"
+      ],
+      "tags": [
+        "philosopher",
+        "author",
+        "geneva",
+        "enlightenment"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:jean-jacques-rousseau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "thomas-hobbes",
+          "label": "thomas-hobbes"
+        },
+        {
+          "type": "related",
+          "target": "john-locke",
+          "label": "john-locke"
+        },
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "montesquieu"
+        }
+      ]
+    },
+    {
+      "id": "john-locke",
+      "type": "person",
+      "label": "John Locke",
+      "description": "John Locke (1632–1704), English philosopher whose Two Treatises of Government (1689) articulated a social contract theory based on natural rights — an influence on Rousseau that Rousseau also sharply criticizes",
+      "aliases": [
+        "Locke",
+        "Lockean"
+      ],
+      "tags": [
+        "philosopher",
+        "enlightenment",
+        "social-contract-theory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:john-locke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "type": "concept",
+      "label": "Law",
+      "description": "Rousseau's doctrine that laws are acts of the general will — general in their source and general in their object — forming the legitimate framework of civil society",
+      "aliases": [
+        "fundamental law",
+        "legislation",
+        "acts of the general will"
+      ],
+      "tags": [
+        "political philosophy",
+        "legislation",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:law",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-06",
+          "label": "ch-II-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-07",
+          "label": "ch-II-07"
+        }
+      ]
+    },
+    {
+      "id": "legislator",
+      "type": "concept",
+      "label": "Legislator",
+      "description": "In Rousseau's The Social Contract, the Legislator is the extraordinary figure who gives a people its fundamental constitution — distinct from both the sovereign who makes laws and the magistrate who executes them",
+      "aliases": [
+        "lawgiver",
+        "founder",
+        "Lycurgus"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau",
+        "legislation",
+        "founding"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:legislator",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general will"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrate"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        }
+      ]
+    },
+    {
+      "id": "lycurgus-legislation",
+      "type": "event",
+      "label": "Legislation of Lycurgus",
+      "description": "The legislation of Lycurgus for Sparta — the archetypal act of the great Legislator in Rousseau's political theory, who transformed a people by giving them institutions that shaped their character",
+      "aliases": [
+        "Lycurgus's legislation",
+        "Spartan constitution",
+        "laws of Lycurgus"
+      ],
+      "tags": [
+        "political history",
+        "founding",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:lycurgus-legislation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "magistrate",
+      "type": "concept",
+      "label": "Magistrate",
+      "description": "In Rousseau's The Social Contract, magistrates are the officers or \"kings\" entrusted with the exercise of executive power — distinct from the sovereign people who alone hold legislative authority",
+      "aliases": [
+        "magistracy",
+        "kings",
+        "executive officers",
+        "governors"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau",
+        "government",
+        "executive power"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:magistrate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "Sovereign"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general will"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "legislator",
+          "label": "legislator"
+        }
+      ]
+    },
+    {
+      "id": "monarchy",
+      "type": "concept",
+      "label": "Monarchy",
+      "description": "A form of government in which executive power is concentrated in the hands of a single magistrate — suited to great states but, Rousseau argues, inherently inferior to republican government.",
+      "aliases": [
+        "royal government",
+        "kingship",
+        "monarchical government",
+        "rule by one"
+      ],
+      "tags": [
+        "government",
+        "forms of government",
+        "political theory",
+        "Rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:monarchy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aristocracy",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "democracy",
+          "label": "democracy"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "executive-power",
+          "label": "executive-power"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "montesquieu",
+      "type": "person",
+      "label": "Montesquieu",
+      "description": "Montesquieu (1689–1755), French political philosopher whose The Spirit of the Laws (1748) profoundly influenced Rousseau's theory of law, government, and the relationship between political institutions and social conditions",
+      "aliases": [
+        "Charles de Montesquieu",
+        "Baron de Montesquieu",
+        "Charles-Louis de Secondat"
+      ],
+      "tags": [
+        "philosopher",
+        "enlightenment",
+        "social-contract-theory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:montesquieu",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "natural-liberty",
+      "type": "concept",
+      "label": "Natural Liberty",
+      "description": "Rousseau's concept of the unlimited but precarious freedom of the state of nature — the right to everything one can obtain, which is surrendered in exchange for civil liberty under the social compact",
+      "aliases": [
+        "natural freedom",
+        "primitive liberty",
+        "unlimited right"
+      ],
+      "tags": [
+        "political philosophy",
+        "freedom",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:natural-liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "state-of-nature"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-08",
+          "label": "ch-I-08"
+        }
+      ]
+    },
+    {
+      "id": "persia",
+      "type": "place",
+      "label": "Persia",
+      "description": "Persia, the archetype of Oriental despotism in Rousseau's references — a vast empire whose size, in Rousseau's analysis, made monarchy the only viable form of government but which also demonstrated the corrupting tendency of absolute rule",
+      "aliases": [
+        "Persian Empire",
+        "Persian despotism"
+      ],
+      "tags": [
+        "ancient world",
+        "despotism",
+        "Montesquieu"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:persia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montesquieu",
+          "label": "montesquieu"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "law"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrate"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "geneva",
+          "label": "geneva"
+        },
+        {
+          "type": "related",
+          "target": "sparta",
+          "label": "sparta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "france"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "popular-assemblies",
+      "type": "organization",
+      "label": "Popular Assemblies",
+      "description": "The popular assemblies (comitia) of Rome — the institutional mechanism through which the Roman people exercised sovereignty by electing magistrates, passing laws, and judging cases, serving as Rousseau's primary historical model of legitimate popular government",
+      "aliases": [
+        "comitia",
+        "Roman assemblies",
+        "comitia curiata",
+        "comitia centuriata",
+        "comitia tributa"
+      ],
+      "tags": [
+        "roman republic",
+        "direct democracy",
+        "voting",
+        "political institutions"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:popular-assemblies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "roman-senate",
+          "label": "roman-senate"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrates"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "comitia"
+        },
+        {
+          "type": "related",
+          "target": "roman-curiae",
+          "label": "roman-curiae"
+        },
+        {
+          "type": "related",
+          "target": "servius-tullius",
+          "label": "servius-tullius"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        }
+      ]
+    },
+    {
+      "id": "property",
+      "type": "concept",
+      "label": "Property",
+      "description": "Rousseau's theory that property is established by the social compact, transforming precarious natural possession into a secure civil right grounded in law rather than force",
+      "aliases": [
+        "right of property",
+        "possession",
+        "proprietorship",
+        "domain"
+      ],
+      "tags": [
+        "political philosophy",
+        "economics",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:property",
+      "relations": [
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "equality"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "state-of-nature"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-09",
+          "label": "ch-I-09"
+        }
+      ]
+    },
+    {
+      "id": "roman-curiae",
+      "type": "organization",
+      "label": "Roman Curiae",
+      "description": "The curiae, Rome's oldest political divisions rooted in the original three tribes, which Rousseau discusses in Book IV as the foundational layer of Rome's constitutional architecture — the earliest form through which the Roman people organized for political and religious purposes",
+      "aliases": [
+        "curiae",
+        "curia",
+        "curiate divisions"
+      ],
+      "tags": [
+        "roman history",
+        "early republic",
+        "political institutions",
+        "voting divisions"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:roman-curiae",
+      "relations": [
+        {
+          "type": "related",
+          "target": "popular-assemblies",
+          "label": "centuriate"
+        },
+        {
+          "type": "related",
+          "target": "servius-tullius",
+          "label": "Servian"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "comitia",
+          "label": "comitia"
+        },
+        {
+          "type": "related",
+          "target": "founding-of-rome",
+          "label": "founding-of-rome"
+        }
+      ]
+    },
+    {
+      "id": "roman-expansion",
+      "type": "event",
+      "label": "Roman Expansion",
+      "description": "The territorial expansion of Rome from city-state to Mediterranean empire — a process Rousseau analyzes in The Social Contract as illustrating both the sources of Roman greatness and the structural forces that ultimately destroyed the Republic",
+      "aliases": [
+        "Roman conquest",
+        "Roman imperialism",
+        "growth of Rome"
+      ],
+      "tags": [
+        "roman history",
+        "territorial expansion",
+        "republic"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:roman-expansion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "popular-assemblies",
+          "label": "popular-assemblies"
+        },
+        {
+          "type": "related",
+          "target": "magistrate",
+          "label": "magistrates"
+        },
+        {
+          "type": "related",
+          "target": "persia",
+          "label": "Persia"
+        },
+        {
+          "type": "related",
+          "target": "decline-of-rome",
+          "label": "decline-of-rome"
+        },
+        {
+          "type": "related",
+          "target": "foundation-roman-republic",
+          "label": "foundation-roman-republic"
+        },
+        {
+          "type": "related",
+          "target": "founding-of-rome",
+          "label": "founding-of-rome"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "roman-senate",
+      "type": "organization",
+      "label": "Roman Senate",
+      "description": "The Roman Senate, the aristocratic council of the Roman Republic that Rousseau discusses as an example of government — an intermediate body between the sovereign people and the magistrates",
+      "aliases": [
+        "Roman Senate",
+        "Senate of Rome",
+        "the Senate"
+      ],
+      "tags": [
+        "political institution",
+        "republic",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:roman-senate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "type": "place",
+      "label": "Rome",
+      "description": "Rome, the exemplar par excellence in Rousseau's political theory — both as the model of a well-constituted republic and as a cautionary tale of imperial decline",
+      "aliases": [
+        "Rome",
+        "Roman Republic",
+        "Roman Empire",
+        "ancient Rome"
+      ],
+      "tags": [
+        "city",
+        "political geography",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "servius-tullius",
+      "type": "person",
+      "label": "Servius Tullius",
+      "description": "Servius Tullius, the sixth legendary king of Rome, whom Rousseau cites as the architect of the centuriate organization — a model of constitutional reform that distributed political power by property rather than birth",
+      "aliases": [
+        "Servius"
+      ],
+      "tags": [
+        "roman history",
+        "legendary kings",
+        "political reform"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:servius-tullius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "rome"
+        },
+        {
+          "type": "related",
+          "target": "popular-assemblies",
+          "label": "popular-assemblies"
+        },
+        {
+          "type": "related",
+          "target": "roman-curiae",
+          "label": "roman-curiae"
+        },
+        {
+          "type": "related",
+          "target": "legislator",
+          "label": "legislator"
+        }
+      ]
+    },
+    {
+      "id": "slavery",
+      "type": "concept",
+      "label": "Slavery",
+      "description": "A condition of absolute subjection that Rousseau systematically argues is illegitimate, absurd, and contrary to natural right — the right of slavery is \"null and void\" because the concepts of slave and right are mutually exclusive.",
+      "aliases": [
+        "right of slavery",
+        "servitude",
+        "enslavement"
+      ],
+      "tags": [
+        "liberty",
+        "natural right",
+        "political theory",
+        "Rousseau",
+        "Grotius",
+        "Aristotle"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:slavery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "natural-liberty"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "social-compact",
+      "type": "concept",
+      "label": "Social Compact",
+      "description": "Rousseau's foundational concept of the agreement by which individuals unite to form a political community, creating the legitimate basis for sovereignty and civil society",
+      "aliases": [
+        "social contract",
+        "the compact",
+        "contrat social"
+      ],
+      "tags": [
+        "political philosophy",
+        "sovereignty",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:social-compact",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "state-of-nature",
+          "label": "state-of-nature"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-06",
+          "label": "ch-I-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-08",
+          "label": "ch-I-08"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-04",
+          "label": "ch-II-04"
+        }
+      ]
+    },
+    {
+      "id": "sovereignty",
+      "type": "concept",
+      "label": "Sovereignty",
+      "description": "Rousseau's doctrine that sovereignty is the exercise of the general will, inalienable and indivisible, residing in the people as a collective body",
+      "aliases": [
+        "sovereign power",
+        "sovereign authority",
+        "the Sovereign"
+      ],
+      "tags": [
+        "political philosophy",
+        "law",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:sovereignty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-01",
+          "label": "ch-II-01"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-02",
+          "label": "ch-II-02"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-04",
+          "label": "ch-II-04"
+        }
+      ]
+    },
+    {
+      "id": "sparta",
+      "type": "place",
+      "label": "Sparta",
+      "description": "Sparta, the ancient Greek city-state Rousseau admires as the achievement of a great legislator — Lycurgus — who gave it laws and institutions that shaped its citizens' character",
+      "aliases": [
+        "Sparta",
+        "Lacedaemon",
+        "ancient Sparta"
+      ],
+      "tags": [
+        "city",
+        "political geography",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:sparta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "spartan-gerousia",
+      "type": "organization",
+      "label": "Spartan Gerousia",
+      "description": "The Spartan Gerousia, the council of elders in ancient Sparta that formed part of the mixed constitution Rousseau admired — an aristocratic element balancing the popular assembly and the kings",
+      "aliases": [
+        "Gerousia",
+        "Spartan senate",
+        "Spartan council of elders"
+      ],
+      "tags": [
+        "political institution",
+        "republic",
+        "ancient"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:spartan-gerousia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        }
+      ]
+    },
+    {
+      "id": "state-of-nature",
+      "type": "concept",
+      "label": "State of Nature",
+      "description": "Rousseau's concept of the pre-political condition of humanity — a state without law, government, or moral relations — which the social compact is designed to transcend",
+      "aliases": [
+        "natural state",
+        "primitive condition",
+        "pre-social state"
+      ],
+      "tags": [
+        "political philosophy",
+        "human nature",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:state-of-nature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil-liberty"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-06",
+          "label": "ch-I-06"
+        },
+        {
+          "type": "related",
+          "target": "ch-I-08",
+          "label": "ch-I-08"
+        }
+      ]
+    },
+    {
+      "id": "thomas-hobbes",
+      "type": "person",
+      "label": "Thomas Hobbes",
+      "description": "Thomas Hobbes (1588–1679), English philosopher whose Leviathan (1651) founded modern social contract theory — Rousseau's primary foil in developing his own distinct doctrine of the compact",
+      "aliases": [
+        "Hobbes",
+        "Hobbesian",
+        "Thomas Hobbes of Malmesbury"
+      ],
+      "tags": [
+        "philosopher",
+        "enlightenment",
+        "social-contract-theory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:thomas-hobbes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "tribunate",
+      "type": "concept",
+      "label": "Tribunate",
+      "description": "Rousseau's concept of the tribunate as a special magistracy — a preservative institution that stands between the Sovereign and the government, protecting the laws and the legislative power without sharing in either",
+      "aliases": [
+        "tribune",
+        "tribuneship",
+        "preservative institution"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:tribunate",
+      "relations": []
+    },
+    {
+      "id": "venice",
+      "type": "place",
+      "label": "Venice",
+      "description": "Venice, the maritime republic Rousseau sometimes cites as an example of a well-constituted government — though his admiration is qualified and primarily directed at its institutional structure",
+      "aliases": [
+        "Venice",
+        "Republic of Venice",
+        "Venetian Republic"
+      ],
+      "tags": [
+        "city",
+        "political geography",
+        "modern"
+      ],
+      "quality": "standard",
+      "source_ref": "the-social-contract:venice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "jean-jacques-rousseau"
+        },
+        {
+          "type": "related",
+          "target": "social-compact",
+          "label": "social-compact"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        }
+      ]
+    },
+    {
+      "id": "will-of-all",
+      "type": "concept",
+      "label": "Will of All",
+      "description": "Rousseau's concept of the will of all (volonté de tous) as the mere aggregate of private interests — distinct from the general will, which considers only the common interest",
+      "aliases": [
+        "volonté de tous",
+        "aggregate will",
+        "sum of particular wills"
+      ],
+      "tags": [
+        "political philosophy",
+        "rousseau"
+      ],
+      "quality": "featured",
+      "source_ref": "the-social-contract:will-of-all",
+      "relations": [
+        {
+          "type": "related",
+          "target": "general-will",
+          "label": "general-will"
+        },
+        {
+          "type": "related",
+          "target": "sovereignty",
+          "label": "sovereignty"
+        },
+        {
+          "type": "related",
+          "target": "ch-II-03",
+          "label": "ch-II-03"
+        }
+      ]
+    }
+  ]
+}

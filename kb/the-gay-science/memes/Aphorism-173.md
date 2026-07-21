@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-173
+label: "Aphorism 173"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 173.
+
+### 173.
+
+
+*To be Profound and to Appear Profound.*—He
+
+who knows that he is profound strives for clearness;
+
+he who would like to appear profound to the multitude
+
+strives for obscurity. The multitude thinks
+
+everything profound of which it cannot see the
+
+bottom; it is so timid and goes so unwillingly into
+
+the water.

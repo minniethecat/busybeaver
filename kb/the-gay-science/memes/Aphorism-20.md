@@ -1,0 +1,40 @@
+---
+description: ""
+id: Aphorism-20
+label: "Aphorism 20"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book I
+
+### 20.
+
+### 20.
+
+
+*Dignity of Folly.*—Several millenniums further
+
+on in the path of the last century!—and in everything
+
+that man does the highest prudence will be
+
+exhibited: but just thereby prudence will have
+
+lost all its dignity. It will then, sure enough, be
+
+necessary to be prudent, but it will also be so
+
+usual and common, that a more fastidious taste
+
+will feel this necessity as *vulgarity*. And just as a
+
+tyranny of truth and science would be in a position
+
+to raise the value of falsehood, a tyranny of prudence
+
+could force into prominence a new species of nobleness.
+
+To be noble—that might then mean, perhaps,
+
+to be capable of follies.

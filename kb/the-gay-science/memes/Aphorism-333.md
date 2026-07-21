@@ -1,0 +1,100 @@
+---
+description: ""
+id: Aphorism-333
+label: "Aphorism 333"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 333.
+
+### 333.
+
+
+*What does Knowing Mean?*—*Non ridere, non
+
+lugere, neque detestari, sed intelligere!* says Spinoza,
+
+so simply and sublimely, as is his wont. Nevertheless,
+
+what else is this *intelligere* ultimately, but just
+
+the form in which the three other things become
+
+perceptible to us all at once? A result of the
+
+diverging and opposite impulses of desiring to
+
+deride, lament and execrate? Before knowledge
+
+is possible each of these impulses must first have
+
+brought forward its one-sided view of the object
+
+or event. The struggle of these one-sided views
+
+occurs afterwards, and out of it there occasionally
+
+arises a compromise, a pacification, a recognition
+
+of rights on all three sides, a sort of justice and
+
+agreement: for in virtue of the justice and agreement
+
+all those impulses can maintain themselves
+
+in existence and retain their mutual rights. We, to
+
+whose consciousness only the closing reconciliation
+
+scenes and final settling of accounts of these long
+
+processes manifest themselves, think on that account
+
+that *intelligere* is something conciliating, just and
+
+good, something essentially antithetical to the
+
+impulses; whereas it is only *a certain relation
+
+of the impulses to one another*. For a very
+
+long time conscious thinking was regarded as
+
+thinking proper: it is now only that the truth
+
+dawns upon us that the greater part of our
+
+intellectual activity goes on unconsciously and
+
+unfelt by us; I believe, however, that the impulses
+
+which are here in mutual conflict understand
+
+right well how to make themselves felt by
+
+*one another*, and how to cause pain:—the violent,
+
+sudden exhaustion which overtakes all thinkers,
+
+may have its origin here (it is the exhaustion of
+
+the battle-field). Aye, perhaps in our struggling
+
+interior there is much concealed *heroism*, but
+
+certainly nothing divine, or eternally-reposing-in-itself,
+
+as Spinoza supposed. *Conscious* thinking, and
+
+especially that of the philosopher, is the weakest,
+
+and on that account also the relatively mildest
+
+and quietest mode of thinking: and thus it is
+
+precisely the philosopher who is most easily misled
+
+concerning the nature of knowledge.

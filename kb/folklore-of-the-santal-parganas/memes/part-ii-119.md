@@ -1,0 +1,17 @@
+---
+description: "A Santal folk tale: The Hyaena Outwitted"
+id: part-ii-119
+label: "CXIX. The Hyaena Outwitted"
+tags: ["folklore", "santal", "animal-tale"]
+type: chapter
+---
+
+[119-001]Once upon a time there was a great [[tigers|tiger]] who lived in a forest; and all the other animals that lived in the forest treated him as their Raja, down to the very birds. They all felt safe under his protection, because he was so much feared that no men dared hunt in that forest. One day it happened that this Raja tiger killed a man and made such a enormous meal on the flesh, that he got very bad indigestion. The pain grew worse and worse, till he felt sure that his last hour was come.
+
+[119-002]In his agony he sent for a hyaena and offered to make him his _dewan_, if only he would call all the other animals of the forest to come and pay a farewell visit to their lord. The hyaena readily agreed but thought it would be better to send another messenger, while he stayed by the tiger to see that all the animals duly presented themselves. Just then a crow flew overhead; so they called him and deputed him to summon all the animals.
+
+[119-003]The crow flew off and in a short time all the animals assembled before the tiger and paid their respects to him and expressed wishes for his speedy recovery;--all except the jackals. They had been summoned along with the others; but somehow they paid no attention and only remembered about it in the afternoon. Then they were very frightened as to what would be the consequence of their remissness; but one chief [[the-jackal|jackal]] stood up and told them not to fear, as he would contrive a way of getting the better of the hyaena. There was nothing else to be done, so they had to put what trust they could in their chief and follow him to the Tiger.
+
+[119-004]On his way the chief jackal picked up a few roots, and took them with him. When they reached the place where the suffering monarch lay, the hyaena at once began to abuse them for being late, and the Tiger also angrily asked why they had not come before; then the chief jackal began humbly "O Maharaja, we were duly summoned; your messenger is not to blame; but we reflected that it was useless merely to go and look at you when you were so ill: that could do you no good; so we bestirred ourselves to try and find some medicine that would cure you. We have searched the length and breadth of the jungle and have found all that is necessary, except one thing and that we have failed to find." "Tell me what it is," said the hyaena, "and I will at once despatch all these animals to look for it and it will surely be found." "Yes," echoed the tiger, "what is it?" "Maharaja," said the jackal, "when you take these medicines, you must lie down on the fresh skin of a hyaena, which has been flayed alive; but the only hyaena we can find in the forest is your _dewan_" "The world can well bear the loss of one hyaena," said the Tiger: "take him and skin him." At these words all the animals set upon the hyaena and flayed him alive; and the tiger lay down on the skin and took the medicines brought by the jackal; and as he was not seriously ill, his pain soon began to pass away.
+
+[119-005]"That is a lesson to the hyaena not to scold us and get us into trouble," said the jackal, as he went home.

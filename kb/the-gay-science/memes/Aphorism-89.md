@@ -1,0 +1,34 @@
+---
+description: ""
+id: Aphorism-89
+label: "Aphorism 89"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book II
+
+### 89.
+
+### 89.
+
+
+*Now and Formerly.*—Of what consequence is all
+
+our art in artistic products, if that higher art, the
+
+art of the festival, be lost by us? Formerly all
+
+artistic products were exhibited on the great
+
+festive path of humanity, as tokens of remembrance,
+
+and monuments of high and happy moments.
+
+One now seeks to allure the exhausted and sickly
+
+from the great suffering path of humanity for a
+
+wanton moment by means of works of art; one
+
+furnishes them with a little ecstasy and insanity.

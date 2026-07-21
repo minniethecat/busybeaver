@@ -1,0 +1,64 @@
+---
+description: ""
+id: Aphorism-39
+label: "Aphorism 39"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book I
+
+### 39.
+
+### 39.
+
+
+*Altered Taste.*—The alteration of the general
+
+taste is more important than the alteration of
+
+opinions; opinions, with all their proving, refuting,
+
+and intellectual masquerade, are merely symptoms
+
+of altered taste, and are certainly *not* what they
+
+are still so often claimed to be, the causes of
+
+the altered taste. How does the general taste
+
+alter? By the fact of individuals, the powerful
+
+and influential persons, expressing and tyrannically
+
+enforcing without any feeling of shame, *their* *hoc
+
+est ridiculum, hoc est absurdum*; the decisions, therefore,
+
+of their taste and their disrelish:—they thereby
+
+lay a constraint upon many people, out of which
+
+there gradually grows a habituation for still more,
+
+and finally a *necessity for all*. The fact, however,
+
+that these individuals feel and "taste" differently,
+
+has usually its origin in a peculiarity of their mode
+
+of life, nourishment, or digestion, perhaps in a
+
+surplus or deficiency of the inorganic salts in their
+
+blood and brain, in short in their *physis*; they
+
+have, however, the courage to avow their physical
+
+constitution, and to lend an ear even to the most
+
+delicate tones of its requirements: their æsthetic
+
+and moral judgments are those "most delicate
+
+tones" of their *physis*.

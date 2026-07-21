@@ -1,0 +1,37 @@
+---
+description: "Part II, Chapter I"
+id: part-2-ch01
+label: "Part II, Chapter I"
+tags: ["chapter"]
+type: chapter
+---
+
+### I
+
+[023-001] Almost all his life long [[kuzma-krasoff|Kuzma]] had dreamed of writing, of obtaining an [[education-and-literacy|education]]. Verses did not count. He had dallied with verses as a mere child. He longed to narrate how he had come to naught; to depict, with unprecedented ruthlessness, his [[rural-poverty|poverty]] and that dreadful factor in his commonplace life which had crippled him, made of him a barren fig-tree.
+
+[023-002] When he reviewed his life in his own mind he both condemned and acquitted himself. Yes, he was an indigent petty townsman who, almost up to the age of fifteen, had been able to read only by spelling out every word. But his history was the history of all self-taught Russians. He had been born in a country which had more than a hundred million illiterate inhabitants. He had grown up in the [[the-black-suburb|Black Suburb]], where down to the present day men fight to the [[death-and-mortality|death]] with their fists. In his childhood he had seen dirt and [[alcohol-and-violence|drunkenness]], laziness and boredom. His childhood had furnished only one poetical impression: there had been the dark [[the-cemetery|cemetery]] grove, and the [[the-steppe|pasture]] on the hill behind the Suburb, and beyond that—space, the hot mirage of the [[nature-and-landscape|steppe]], a white cottage beneath a poplar-tree in the far distance. But he had been taught to look upon even this cottage with scorn: Little Russians dwelt there, and, of course, they were so stupid that in reply to the question, “Little Russians, where are your kettles?”14 they said: “Do you need to be told that they are under the wagons?” He and [[tikhon-krasoff|Tikhon]] had been taught the alphabet and figures by a neighbour named Byelkin, whose [[commerce-and-trade|trade]] was to make rubber overshoes in moulds; but he had taught them because he never had any work—for what demand was there in the Suburb for overshoes?—and because it was always agreeable to pull someone’s hair, and because a man cannot sit forever on the earth wall alongside his hut absolutely idle, with his frowsy head bent and exposed to the sun, doing nothing but spit in the dust between his bare feet.
+
+[023-003] In [[matorin|Matorin]]’s shop the brothers had speedily attained to writing and reading, and Kuzma had begun to be attracted by the little books which the accordion-player, old [[balashkin|Balashkin]], the eccentric freethinker of the bazaar, gave him. But what chance for reading was there in the shop? Matorin very often shouted: “I’ll box your ears for those books of yours, you abominable little devil!”
+
+[023-004] That was an old story; but Kuzma wished to recall, also, the morals of the bazaar. In the bazaar he had picked up much that was opprobrious. There he and his brother had been taught to sneer at the poverty of their mother, at her having taken to drink, abandoned as she was by her adolescent sons. There they once played the following prank: Every day, on his way from the library, the son of the tailor Vitebsky passed the door of the shop—a Jew aged sixteen, with a pallid greyish face; a terribly lean, big-eared fellow who wore spectacles and industriously read as he walked, his book held close up to his eyes. So they threw some bricks and rubbish on the sidewalk—and the Jew (“that learned man!”) stumbled so successfully that he bruised his knees, elbows, and teeth to the point of bleeding. Then Kuzma started to write. He began a story about a merchant who, driving by night in a fearful thunderstorm through the Murom forests, came upon an encampment of bandits and got his throat cut. Kuzma fervently set forth his remarks and thoughts on the brink of death, his grief over his iniquitous life, “so prematurely cut short.” But the bazaar mercilessly threw cold water on it.
+
+[023-005] “Well, you are a queer one, Lord forgive us!” it pronounced, merrily and insolently, through Tikhon’s mouth. “ ‘Prematurely’! That potbellied devil ought to have been done for long before! Well, and how did you know what he was thinking about? They cut his throat, didn’t they?”
+
+[023-006] Then Kuzma wrote, in the style of Koltzoff, a ballad about an extremely ancient knight who bequeathed to his son a faithful steed. “He carried me in my youth!” exclaimed the hero in the ballad. But Tikhon merely shook his head over that.
+
+[023-007] “Really!” said he, “how old was that horse? Akh, Kuzma! Kuzma! You’d better compose something practical—well, about the war, for example.”
+
+[023-008] And Kuzma, catering to the taste of the marketplace, began with great zeal to write about what the bazaar was discussing at the moment—the Russo-Turkish war: about how—
+
+[023-009] > “In the year of seventy-seven The Turk set out to fight; He advanced with his hordes And tried to capture Russia”
+
+[023-010] and how those hordes
+
+[023-011] > In uncouth nightcaps Crept stealthily to the Tsar-Cannon.15
+
+[023-012] Later on it pained him to realize how much stupidity and ignorance this doggerel contained, the servile quality of its language, and its Russian scorn for foreign headgear. With pain he recalled much else. For example, Zadonsk. One day there he was overcome by a passionate longing for repentance, a terror lest his mother, who had died, practically, of [[famine-and-hunger|starvation]], had bitterly reported in heaven her sorrowful life; and he set forth on foot to the abode of a holy man. Once there, he did nothing whatever except to read to assembled admirers, with malicious joy, a “sheet” which had made a special impression on him: how a certain village scribe had taken it into his head to reject the authorities and the Church, and God had waxed so wroth that “this aristocrat was laid low on his bed of death,” his malady such that “he devoured more than a pig, and shrieked that that was not enough, and withered away until he was unrecognizable.” And Kuzma’s entire youth was spent in just such affairs! He thought and professed one thing—and said and did something entirely different. Aspiring to write and reckoning up the sum-total of his life, Kuzma shook his head mournfully: “A genuine Russian trait, sir! The sowing was half peas, half thistles.”
+
+[023-013] It seemed as if he had been merry in his youth, kind, tender, quick to understand, eager to learn. But was it really so? He was not Tikhon, of course. But why had he, equally with Tikhon, assimilated so promptly the savagery of those who surrounded him? Why had he, kind and tender as he was, so mercilessly neglected his mother? Why had the bazaar so long reigned supreme over his heart, which was toiling so ardently over books? Why, why was he—a barren fig-tree?
+
+[023-014] Tikhon had been in the habit of keeping most of his earnings in one common money-box: they had decided to set up in business for themselves. Kuzma surrendered his money with a full, hearty confidence which Tikhon never possessed. But his mother, his mother! He groaned as he recalled how, poverty-stricken as she was, she had bestowed her blessing on him, had given him her sole treasure, a relic of her better days, which had been preserved at the bottom of her chest—a small silver-mounted holy picture. And the fact that he had groaned was good, also; but all the same his money had gone to Tikhon.

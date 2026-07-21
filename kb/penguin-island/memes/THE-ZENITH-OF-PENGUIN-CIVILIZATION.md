@@ -1,0 +1,35 @@
+---
+description: "THE ZENITH OF PENGUIN CIVILIZATION"
+id: THE-ZENITH-OF-PENGUIN-CIVILIZATION
+label: "THE ZENITH OF PENGUIN CIVILIZATION"
+tags: ["chapter"]
+type: chapter
+---
+
+# THE ZENITH OF PENGUIN CIVILIZATION
+
+[067-001]Half a century after the events we have just related, Madame Cérès died surrounded with respect and veneration, in the eighty-ninth year of her age. She had long been the widow of a statesman whose name she bore with dignity. Her modest and quiet funeral was followed by the orphans of the parish and the sisters of the Sacred Compassion.
+
+[067-002]The deceased left all her property to the Charity of St. Orberosia.
+
+[067-003]“Alas!” sighed M. Monnoyer, a canon of [[saint-mael|St. Maël]], as he received the pious legacy, “it was high time for a generous benefactor to come to the relief of our necessities. Rich and poor, learned and ignorant are turning away from us. And when we try to lead back these misguided souls, neither threats nor promises, neither gentleness nor violence, nor anything else is now successful. The Penguin [[church|clergy]] pine in desolation; our country priests, reduced to following the humblest of trades, are shoeless, and compelled to live upon such scraps as they can pick up. In our ruined churches the rain of heaven falls upon the faithful, and during the holy offices they can hear the noise of stones falling from the arches. The tower of the cathedral is tottering and will soon fall. St. Orberosia is forgotten by the Penguins, her devotion abandoned, and her sanctuary deserted. On her shrine, bereft of its gold and precious stones, the spider silently weaves her web.”
+
+[067-004]Hearing these lamentations, Pierre Mille, who at the age of ninety-eight years had lost nothing of his intellectual and moral power, asked, the canon if he did not think that St. Orberosia would one day rise out of this wrongful oblivion.
+
+[067-005]“I hardly dare to hope so,” sighed M. Monnoyer.
+
+[067-006]“It is a pity!” answered Pierre Mille. “Orberosia is a charming figure and her legend is a beautiful one. I discovered the other day by the merest chance, one of her most delightful miracles, the miracle of Jean Violle. Would you like to hear it, M. Monnoyer?”
+
+[067-007]“I should be very pleased, M. Mille.”
+
+[067-008]“Here it is, then, just as I found it in a fifteenth-century manuscript
+
+[067-009]“Cécile, the wife of Nicolas Gaubert, a jeweller on the Pont-au-Change, after having led an honest and chaste life for many years, and being now past her prime, became infatuated with Jean Violle, the Countess de Maubec’s page, who lived at the Hôtel du Paon on the Place de Grève. He was not yet eighteen years old, and his face and figure were attractive. Not being able to conquer her passion, Cécile resolved to satisfy it. She attracted the page to her house, loaded him with caresses, supplied him with sweetmeats and finally did as she wished with him.
+
+[067-010]“Now one day, as they were together in the jeweller’s bed, Master Nicholas came home sooner than he was expected. He found the bolt drawn, and heard his wife on the other side of the door exclaiming, ‘My heart! my angel! my love!’ Then suspecting that she was shut up with a gallant, he struck great blows upon the door and began to shout ‘Slut! hussy! wanton! open so that I may cut off your nose and ears!’ In this peril, the jeweller’s wife besought St. Orberosia, and vowed her a large candle if she helped her and the little page, who was dying of fear beside the bed, out of their difficulty.
+
+[067-011]“The saint heard the prayer. She immediately changed Jean Violle into a girl. Seeing this, Cécile was completely reassured, and began to call out to her husband: ‘Oh! you brutal villain, you jealous wretch! Speak gently if you want the door to be opened.’ And scolding in this way, she ran to the wardrobe and took out of it an old hood, a pair of stays, and a long grey petticoat, in which she hastily wrapped the transformed page. Then when this was done, ‘Catherine, dear Catherine,’ said she, loudly, ‘open the door for your uncle; he is more fool than knave, and won’t do you any harm.’ The boy who had become a girl, obeyed. Master Nicholas entered the room and found in it a young maid whom he did not know, and his wife in bed. ‘Big booby,’ said the latter to him, ‘don’t stand gaping at what you see, just as I had come to bed because had a stomach ache, I received a visit from Catherine, the daughter of my sister Jeanne de Palaiseau, with whom we quarrelled fifteen years ago. Kiss your niece. She is well worth the trouble.’ The jeweller gave Violle a hug, and from that moment wanted nothing so much as to be alone with her a moment, so that he might embrace her as much as he liked. For this reason he led her without any delay down to the kitchen, under the pretext of giving her some walnuts and wine, and he was no sooner there with her than he began to caress her very affectionately. He would not have stopped at that if St. Orberosia had not inspired his good wife with the idea of seeing what he was about. She found him with the pretended niece sitting on his knee. She called him a debauched creature, boxed his ears, and forced him to beg her pardon. The next day Violle resumed his previous form.”
+
+[067-012]Having heard this story the venerable Canon Monnoyer thanked Pierre Mille for having told it, and, taking up his pen, began to write out a list of horses that would win at the next race meeting. For he was a book-maker’s clerk.
+
+[067-013]In the mean time Penguinia gloried in its [[property|wealth]]. Those who produced the things necessary for life, wanted them; those who did not produce them had more than enough. “But these,” as a member of the Institute said, “are necessary economic fatalities.” The great Penguin people had no longer either traditions, intellectual [[civilization|culture]], or arts. The progress of civilisation manifested itself among them by murderous industry, infamous speculation, and hideous luxury. Its [[alca|capital]] assumed, as did all the great cities of the time, a cosmopolitan and financial character. An immense and regular ugliness reigned within it. The country enjoyed perfect tranquillity. It had reached its zenith.

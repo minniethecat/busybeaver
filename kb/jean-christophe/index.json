@@ -1,0 +1,4705 @@
+{
+  "book": "jean-christophe",
+  "title": "Jean-Christophe",
+  "description": "Jean-Christophe — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 105,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Jean-Christophe\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "jean-christophe:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "volume-1-dawn",
+          "label": "Part I: Dawn"
+        },
+        {
+          "type": "related",
+          "target": "vol1-ch01",
+          "label": "vol1-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol1-ch02",
+          "label": "vol1-ch02"
+        },
+        {
+          "type": "related",
+          "target": "vol1-ch03",
+          "label": "vol1-ch03"
+        },
+        {
+          "type": "related",
+          "target": "volume-2-morning",
+          "label": "Part II: Morning"
+        },
+        {
+          "type": "related",
+          "target": "vol2-ch01-the-death-of-jean-michel",
+          "label": "vol2-ch01-the-death-of-jean-michel"
+        },
+        {
+          "type": "related",
+          "target": "vol2-ch02-otto",
+          "label": "vol2-ch02-otto"
+        },
+        {
+          "type": "related",
+          "target": "vol2-ch03-minna",
+          "label": "vol2-ch03-minna"
+        },
+        {
+          "type": "related",
+          "target": "volume-3-youth",
+          "label": "Part III: Youth"
+        },
+        {
+          "type": "related",
+          "target": "vol3-epigraph",
+          "label": "vol3-epigraph"
+        },
+        {
+          "type": "related",
+          "target": "vol3-ch01-the-house-of-euler",
+          "label": "vol3-ch01-the-house-of-euler"
+        },
+        {
+          "type": "related",
+          "target": "vol3-ch02-sabine",
+          "label": "vol3-ch02-sabine"
+        },
+        {
+          "type": "related",
+          "target": "vol3-ch03-ada",
+          "label": "vol3-ch03-ada"
+        },
+        {
+          "type": "related",
+          "target": "volume-4-revolt",
+          "label": "Part IV: Revolt"
+        },
+        {
+          "type": "related",
+          "target": "vol4-ch01-shifting-sands",
+          "label": "vol4-ch01-shifting-sands"
+        },
+        {
+          "type": "related",
+          "target": "vol4-ch02-engulfed",
+          "label": "vol4-ch02-engulfed"
+        },
+        {
+          "type": "related",
+          "target": "vol4-ch03-deliverance",
+          "label": "vol4-ch03-deliverance"
+        },
+        {
+          "type": "related",
+          "target": "volume-5-the-marketplace",
+          "label": "Part V: The Marketplace"
+        },
+        {
+          "type": "related",
+          "target": "vol5-ch01",
+          "label": "vol5-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol5-ch02",
+          "label": "vol5-ch02"
+        },
+        {
+          "type": "related",
+          "target": "vol5-ch03",
+          "label": "vol5-ch03"
+        },
+        {
+          "type": "related",
+          "target": "volume-6-antoinette",
+          "label": "Part VI: Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "vol6-ch01",
+          "label": "vol6-ch01"
+        },
+        {
+          "type": "related",
+          "target": "volume-7-the-house",
+          "label": "Part VII: The House"
+        },
+        {
+          "type": "related",
+          "target": "vol7-ch01",
+          "label": "vol7-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol7-ch02",
+          "label": "vol7-ch02"
+        },
+        {
+          "type": "related",
+          "target": "vol7-ch03",
+          "label": "vol7-ch03"
+        },
+        {
+          "type": "related",
+          "target": "volume-8-love-and-friendship",
+          "label": "Part VIII: Love and Friendship"
+        },
+        {
+          "type": "related",
+          "target": "vol8-ch01",
+          "label": "vol8-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol8-epilogue",
+          "label": "vol8-epilogue"
+        },
+        {
+          "type": "related",
+          "target": "volume-9-the-burning-bush",
+          "label": "Part IX: The Burning Bush"
+        },
+        {
+          "type": "related",
+          "target": "vol9-ch01",
+          "label": "vol9-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol9-ch02",
+          "label": "vol9-ch02"
+        },
+        {
+          "type": "related",
+          "target": "vol9-epilogue",
+          "label": "vol9-epilogue"
+        },
+        {
+          "type": "related",
+          "target": "volume-10-the-new-dawn",
+          "label": "Part X: The New Dawn"
+        },
+        {
+          "type": "related",
+          "target": "vol10-dedication",
+          "label": "vol10-dedication"
+        },
+        {
+          "type": "related",
+          "target": "vol10-preface-to-the-last-volume",
+          "label": "vol10-preface-to-the-last-volume"
+        },
+        {
+          "type": "related",
+          "target": "vol10-prologue",
+          "label": "vol10-prologue"
+        },
+        {
+          "type": "related",
+          "target": "vol10-ch01",
+          "label": "vol10-ch01"
+        },
+        {
+          "type": "related",
+          "target": "vol10-ch02",
+          "label": "vol10-ch02"
+        },
+        {
+          "type": "related",
+          "target": "vol10-ch03",
+          "label": "vol10-ch03"
+        },
+        {
+          "type": "related",
+          "target": "vol10-ch04",
+          "label": "vol10-ch04"
+        },
+        {
+          "type": "related",
+          "target": "colophon",
+          "label": "colophon"
+        },
+        {
+          "type": "related",
+          "target": "uncopyright",
+          "label": "uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "ambition",
+      "type": "concept",
+      "label": "'Ambition'",
+      "description": "\"The force that drives the Krafft family toward greatness and destruction — Rolland examines ambition as both the noblest and most dangerous of human passions.\"",
+      "aliases": [
+        "aspiration",
+        "drive",
+        "striving"
+      ],
+      "tags": [
+        "theme",
+        "moral",
+        "psychological",
+        "artistic"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:ambition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "illusion"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        }
+      ]
+    },
+    {
+      "id": "anna",
+      "type": "person",
+      "label": "'Anna Braun'",
+      "description": "\"The young Swiss wife of Dr. Braun — her forbidden encounter with Jean-Christophe creates a moral crisis that nearly destroys them both, marking the novel's most harrowing depiction of guilt, repressed desire, and the impossibility of escape from oneself.\"",
+      "aliases": [
+        "Anna Maria Senfl"
+      ],
+      "tags": [
+        "Swiss",
+        "wife",
+        "tragic",
+        "religious-crisis"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:anna",
+      "relations": []
+    },
+    {
+      "id": "antoinette-jeannin",
+      "type": "person",
+      "label": "'Antoinette Jeannin'",
+      "description": "\"Olivier's devoted sister — a woman whose life of self-sacrifice, inner strength, and quiet endurance makes her one of the novel's most moving figures.\"",
+      "aliases": [
+        "Antoinette"
+      ],
+      "tags": [
+        "sister",
+        "self-sacrifice",
+        "moral-center",
+        "French"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:antoinette-jeannin",
+      "relations": []
+    },
+    {
+      "id": "beethoven-music",
+      "type": "work",
+      "label": "'Beethoven in the Novel'",
+      "description": "\"The music of Ludwig van Beethoven as it appears referenced, performed, and internalized throughout Jean-Christophe novel — the supreme artistic model against which all other music is measured.\"",
+      "aliases": [
+        "Beethoven",
+        "Beethoven's music"
+      ],
+      "tags": [
+        "music",
+        "Beethoven",
+        "classical",
+        "German",
+        "influence"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:beethoven-music",
+      "relations": []
+    },
+    {
+      "id": "braun",
+      "type": "person",
+      "label": "'Dr. Braun'",
+      "description": "\"A decent, unremarkable Swiss doctor who shelters Jean-Christophe in his home after Olivier's death — his kindness is rewarded with the worst possible betrayal when Christophe and Anna have an affair.\"",
+      "aliases": [
+        "Erich Braun"
+      ],
+      "tags": [
+        "Swiss",
+        "doctor",
+        "husband"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:braun",
+      "relations": []
+    },
+    {
+      "id": "cecile",
+      "type": "person",
+      "label": "'Cécile'",
+      "description": "\"A French pianist of instinctive musical gift and serene disposition — a figure of quiet strength whose hidden love for Olivier Jeannin and borrowed motherhood of his son reveal the novel's deepest insight into female selflessness.\"",
+      "aliases": [
+        "Cécile Fleury",
+        "Philomela"
+      ],
+      "tags": [
+        "musician",
+        "pianist",
+        "French",
+        "Paris",
+        "motherhood"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:cecile",
+      "relations": []
+    },
+    {
+      "id": "colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Colophon ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:colophon",
+      "relations": []
+    },
+    {
+      "id": "concert",
+      "type": "event",
+      "label": "Concert",
+      "description": "The concert as a central recurring event-type in Jean-Christophe — the public ritual of musical performance that serves as the arena of the hero's ambition, humiliation, and eventual triumph.",
+      "aliases": [
+        "musical performance",
+        "public concert",
+        "recital"
+      ],
+      "tags": [
+        "music",
+        "performance",
+        "public-life",
+        "career",
+        "ritual",
+        "recurring-event"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:concert",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Parisian"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "theater",
+          "label": "Theatre"
+        },
+        {
+          "type": "related",
+          "target": "press",
+          "label": "Press"
+        },
+        {
+          "type": "related",
+          "target": "lied",
+          "label": "Lied"
+        },
+        {
+          "type": "related",
+          "target": "song",
+          "label": "Song"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion"
+        }
+      ]
+    },
+    {
+      "id": "conservatoire",
+      "type": "organization",
+      "label": "'Paris Conservatoire'",
+      "description": "\"The Paris Conservatoire — the prestigious French musical academy that represents both the heights of technical training and the dead weight of academic tradition in the novel's portrayal of the Parisian music world.\"",
+      "aliases": [
+        "Conservatoire de Paris"
+      ],
+      "tags": [
+        "music",
+        "education",
+        "Paris",
+        "France",
+        "academy"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:conservatoire",
+      "relations": []
+    },
+    {
+      "id": "convention",
+      "type": "concept",
+      "label": "'Convention'",
+      "description": "\"The invisible force that shapes behavior and limits expression — convention as the enemy of art and the necessary grammar of social life, examined by Rolland with more sympathy than Jean-Christophe can muster.\"",
+      "aliases": [
+        "conformity",
+        "custom",
+        "social-norm"
+      ],
+      "tags": [
+        "theme",
+        "social",
+        "artistic",
+        "critique"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:convention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "revolt"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "illusion"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        }
+      ]
+    },
+    {
+      "id": "court-orchestra",
+      "type": "organization",
+      "label": "'Court Orchestra'",
+      "description": "\"The musical establishment of the Grand Duke's court — where three generations of the Krafft family served as musicians, and the institution that both sustained and constrained Jean-Christophe's early career.\"",
+      "aliases": [
+        "Grand Ducal orchestra",
+        "Palace orchestra"
+      ],
+      "tags": [
+        "music",
+        "court",
+        "Germany",
+        "orchestra",
+        "patronage"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:court-orchestra",
+      "relations": []
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "'Death'",
+      "description": "\"A pervasive presence in Jean-Christophe's early consciousness — the fear and fascination with mortality that shapes his emotional and spiritual development.\"",
+      "aliases": [
+        "mortality",
+        "dying"
+      ],
+      "tags": [
+        "theme",
+        "existential",
+        "childhood-trauma",
+        "darkness"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        }
+      ]
+    },
+    {
+      "id": "death-of-jean-michel",
+      "type": "event",
+      "label": "'Death of Jean Michel Krafft'",
+      "description": "\"The death of Jean Michel Krafft — Jean-Christophe's grandfather, the court musician who first taught him music — marks the end of childhood and the beginning of adult responsibility for the eleven-year-old protagonist.\"",
+      "aliases": [
+        "death of the grandfather",
+        "Jean Michel death"
+      ],
+      "tags": [
+        "death",
+        "childhood",
+        "trauma",
+        "grandfather",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:death-of-jean-michel",
+      "relations": []
+    },
+    {
+      "id": "ducal-court-concert",
+      "type": "event",
+      "label": "'Court Concert for the Grand Duke'",
+      "description": "\"The disastrous court concert and subsequent confrontation with the Grand Duke that precipitates Jean-Christophe's break with German provincial society — a crystallizing moment of artistic defiance and catastrophic consequences.\"",
+      "aliases": [
+        "Palace concert",
+        "Grand Duke confrontation",
+        "Court concert disaster"
+      ],
+      "tags": [
+        "concert",
+        "Grand-Duke",
+        "humiliation",
+        "defiance",
+        "Palace"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:ducal-court-concert",
+      "relations": []
+    },
+    {
+      "id": "epigraph",
+      "type": "chapter",
+      "label": "\"Epigraph\"",
+      "description": "\"Epigraph ?xml version='1.0' encoding='utf-8'? Dianzi, nell’alba che precede al giorno, Quando l’anima tua dentro dormìa. … Purgatorio , ix\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:epigraph",
+      "relations": []
+    },
+    {
+      "id": "faith",
+      "type": "concept",
+      "label": "Faith",
+      "description": "Faith as the spiritual foundation of Christophe's artistic and moral life — the trust in art, love, and truth that sustains him through suffering and which, when lost and regained, traces the novel's deepest spiritual arc.",
+      "aliases": [
+        "belief",
+        "conviction",
+        "spiritual trust",
+        "religious faith"
+      ],
+      "tags": [
+        "theme",
+        "spirituality",
+        "religion",
+        "art",
+        "moral-philosophy",
+        "German-Protestantism",
+        "Catholicism"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:faith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Suffering"
+        }
+      ]
+    },
+    {
+      "id": "fate",
+      "type": "concept",
+      "label": "'Fate'",
+      "description": "\"The sense of inevitability that runs through the novel — neither religious predestination nor simple determinism, but a recognition that character and circumstance conspire to produce inescapable outcomes.\"",
+      "aliases": [
+        "destiny",
+        "predestination",
+        "providence"
+      ],
+      "tags": [
+        "theme",
+        "existential",
+        "philosophy",
+        "determinism"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:fate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        }
+      ]
+    },
+    {
+      "id": "first-concert",
+      "type": "event",
+      "label": "'First Concert'",
+      "description": "\"Jean-Christophe's first public concert at age seven — a triumph for the audience, a trauma for the child, and the beginning of his life as a performing musician in service to the Grand Duke's court.\"",
+      "aliases": [
+        "debut concert",
+        "first public performance",
+        "The Pleasures of Childhood concert"
+      ],
+      "tags": [
+        "concert",
+        "childhood",
+        "performance",
+        "humiliation",
+        "prodigy"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:first-concert",
+      "relations": []
+    },
+    {
+      "id": "france",
+      "type": "place",
+      "label": "France",
+      "description": "France as the primary setting for the second half of Jean-Christophe, encompassing Parisian intellectual and artistic life, political turmoil, and Christophe's long exile from Germany.",
+      "aliases": [
+        "République française"
+      ],
+      "tags": [
+        "nation",
+        "setting",
+        "Latin-culture",
+        "Paris",
+        "intellectual-life",
+        "Volume-7",
+        "Volume-8",
+        "Volume-9"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:france",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "grazia",
+          "label": "Grazia"
+        },
+        {
+          "type": "related",
+          "target": "sylvain-kohn",
+          "label": "Sylvain Kohn"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "revolution",
+          "label": "Revolution"
+        },
+        {
+          "type": "related",
+          "target": "press",
+          "label": "Press"
+        },
+        {
+          "type": "related",
+          "target": "theater",
+          "label": "Theatre"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion"
+        }
+      ]
+    },
+    {
+      "id": "genius",
+      "type": "concept",
+      "label": "'Genius'",
+      "description": "'The creative gift that sets certain individuals apart — explored in Jean-Christophe through the tension between innate talent, discipline, and the burden of unrealized artistic potential.'",
+      "aliases": [
+        "creative-gift",
+        "artistic-talent"
+      ],
+      "tags": [
+        "theme",
+        "art",
+        "creativity",
+        "identity"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:genius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "german-exile",
+      "type": "event",
+      "label": "\"Jean-Christophe's Flight from Germany\"",
+      "description": "\"Jean-Christophe's forced flight from his German homeland after a violent confrontation — the event that transforms him from a provincial musician into a European artist in exile.\"",
+      "aliases": [
+        "flight from Germany",
+        "exile to France",
+        "German exile"
+      ],
+      "tags": [
+        "exile",
+        "flight",
+        "Germany",
+        "France",
+        "escape"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:german-exile",
+      "relations": []
+    },
+    {
+      "id": "gottfried",
+      "type": "person",
+      "label": "'Gottfried'",
+      "description": "\"Jean-Christophe's paternal uncle — a traveling merchant whose simplicity, kindness, and quiet acceptance of life offer an alternative to the striving of the Krafft musical lineage.\"",
+      "aliases": [
+        "Uncle Gottfried",
+        "the little peddler"
+      ],
+      "tags": [
+        "merchant",
+        "German",
+        "uncle",
+        "mentor"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:gottfried",
+      "relations": []
+    },
+    {
+      "id": "grand-journal",
+      "type": "organization",
+      "label": "'Grand Journal'",
+      "description": "\"A powerful Paris newspaper that manufactures and undermines Christophe's celebrity, embodying the commercialization of art criticism in Rolland's novel.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "jean-christophe:grand-journal",
+      "relations": []
+    },
+    {
+      "id": "grazia",
+      "type": "person",
+      "label": "Grazia",
+      "description": "Grazia Buontempi, Colette Stevens's Italian cousin, who becomes Christophe's deepest love and spiritual muse in the later volumes of the novel.",
+      "aliases": [
+        "Grazia Buontempi",
+        "Grazia Colette"
+      ],
+      "tags": [
+        "Italian",
+        "love-interest",
+        "Countess",
+        "muse",
+        "Volume-7",
+        "Volume-8",
+        "Volume-9",
+        "Volume-10"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:grazia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "Faith"
+        },
+        {
+          "type": "related",
+          "target": "lied",
+          "label": "Lied"
+        }
+      ]
+    },
+    {
+      "id": "hassler",
+      "type": "person",
+      "label": "\"Hassler\"",
+      "description": "\"A famous German composer whom Jean-Christophe idolizes from childhood and later meets, only to be deeply disillusioned by his complacency and artistic compromise.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:hassler",
+      "relations": []
+    },
+    {
+      "id": "illusion",
+      "type": "concept",
+      "label": "'Illusion'",
+      "description": "\"The necessary falsehood that makes life bearable and the awakening that makes art possible — Rolland traces the life-giving and corrosive power of illusion through Jean-Christophe's development.\"",
+      "aliases": [
+        "delusion",
+        "self-deception",
+        "fantasy"
+      ],
+      "tags": [
+        "theme",
+        "aesthetic",
+        "psychological",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:illusion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "revolt"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        }
+      ]
+    },
+    {
+      "id": "injustice",
+      "type": "concept",
+      "label": "'Injustice'",
+      "description": "\"The child's first encounter with the world's unfairness and the lifelong struggle to respond to it — neither passive acceptance nor destructive rage, but a creative tension that fuels moral growth.\"",
+      "aliases": [
+        "unfairness",
+        "wrong",
+        "inequity"
+      ],
+      "tags": [
+        "theme",
+        "social",
+        "moral",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:injustice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "'Italy'",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "jean-christophe:italy",
+      "relations": []
+    },
+    {
+      "id": "jacqueline",
+      "type": "person",
+      "label": "'Jacqueline Jeannin'",
+      "description": "\"Olivier Jeannin's wife — a wealthy French bourgeois woman whose marriage to the idealistic intellectual ends in desertion and ruin.\"",
+      "aliases": [
+        "Jacqueline Langeais",
+        "Jacqueline"
+      ],
+      "tags": [
+        "French",
+        "bourgeois",
+        "wife",
+        "tragic"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:jacqueline",
+      "relations": []
+    },
+    {
+      "id": "jean-christophe",
+      "type": "chapter",
+      "label": "\"Jean-Christophe\"",
+      "description": "\"Jean-Christophe 本结构包含以下章节： - [[0445-Jean-Christophe-7e321649-ch006|Part I: Dawn]] - [[0445-Jean-Christophe-7e321649-ch010|Part II: Morning]] -…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:jean-christophe",
+      "relations": []
+    },
+    {
+      "id": "jean-christophe-krafft",
+      "type": "person",
+      "label": "'Jean-Christophe Krafft'",
+      "description": "\"The protagonist of Romain Rolland's novel — a German musician whose life from birth to death traces a spiritual and artistic journey through late 19th and early 20th century Europe.\"",
+      "aliases": [
+        "Christophe",
+        "Krafft"
+      ],
+      "tags": [
+        "protagonist",
+        "musician",
+        "composer",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:jean-christophe-krafft",
+      "relations": []
+    },
+    {
+      "id": "jean-christophe-novel",
+      "type": "work",
+      "label": "'Jean-Christophe (novel)'",
+      "description": "\"Romain Rolland's ten-volume novel (1904–1912) — the history of the development of a musician of genius, tracing Jean-Christophe Krafft's life from birth to death across Germany, France, Switzerland, and Italy.\"",
+      "aliases": [
+        "Jean-Christophe",
+        "Romain Rolland's Jean-Christophe"
+      ],
+      "tags": [
+        "novel",
+        "roman-fleuve",
+        "Bildungsroman",
+        "French-literature",
+        "20th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:jean-christophe-novel",
+      "relations": []
+    },
+    {
+      "id": "jean-michel-krafft",
+      "type": "person",
+      "label": "'Jean Michel Krafft'",
+      "description": "\"Jean-Christophe's maternal grandfather — a court musician whose unfulfilled ambitions, heroic stories, and fierce love become the foundation of his grandson's artistic identity.\"",
+      "aliases": [
+        "Jean Michel",
+        "the grandfather"
+      ],
+      "tags": [
+        "musician",
+        "mentor",
+        "grandfather",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:jean-michel-krafft",
+      "relations": []
+    },
+    {
+      "id": "lied",
+      "type": "work",
+      "label": "Lied",
+      "description": "The Lied (German art song) as Christophe's primary compositional form — the intimate fusion of poetry and music that embodies the novel's ideal of authentic artistic expression and serves as the vehicle for Christophe's deepest emotional communication.",
+      "aliases": [
+        "Lieder",
+        "German art song",
+        "Kunstlied",
+        "Liedchen",
+        "Liedlein"
+      ],
+      "tags": [
+        "music",
+        "German",
+        "art-song",
+        "vocal-music",
+        "Schubert",
+        "Schumann",
+        "Brahms",
+        "composition",
+        "Romanticism"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:lied",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "theater",
+          "label": "Theatre"
+        },
+        {
+          "type": "related",
+          "target": "schulz",
+          "label": "Schulz"
+        },
+        {
+          "type": "related",
+          "target": "grazia",
+          "label": "Grazia"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "song",
+          "label": "Song"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion"
+        }
+      ]
+    },
+    {
+      "id": "louisa-krafft",
+      "type": "person",
+      "label": "'Louisa Krafft'",
+      "description": "\"Jean-Christophe's mother — a former servant whose quiet endurance, unconditional love, and hidden suffering form the emotional foundation of her son's life.\"",
+      "aliases": [
+        "Louisa",
+        "Jean-Christophe's mother"
+      ],
+      "tags": [
+        "mother",
+        "servant",
+        "endurance",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:louisa-krafft",
+      "relations": []
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "'Love'",
+      "description": "'The fundamental emotional force that connects Jean-Christophe to others — examined through familial devotion, friendship, romantic passion, and the broader love of humanity that defines his mature vision.'",
+      "aliases": [
+        "affection",
+        "passion",
+        "romantic-love",
+        "familial-love"
+      ],
+      "tags": [
+        "theme",
+        "emotion",
+        "relationships",
+        "human-bond"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "melchior-krafft",
+      "type": "person",
+      "label": "'Melchior Krafft'",
+      "description": "\"Jean-Christophe's father — a talented violinist destroyed by alcoholism, whose weakness becomes the warning that shapes his son's determination.\"",
+      "aliases": [
+        "Melchior",
+        "Jean-Christophe's father"
+      ],
+      "tags": [
+        "musician",
+        "father",
+        "alcoholic",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:melchior-krafft",
+      "relations": []
+    },
+    {
+      "id": "music",
+      "type": "concept",
+      "label": "'Music'",
+      "description": "'The central artistic and spiritual force in Jean-Christophe — music is his lifeblood, his mode of perception, and his path to transcendence.'",
+      "aliases": [
+        "musical-art",
+        "melody"
+      ],
+      "tags": [
+        "theme",
+        "art",
+        "creativity",
+        "central-motif"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:music",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "olivier-jeannin",
+      "type": "person",
+      "label": "'Olivier Jeannin'",
+      "description": "\"Jean-Christophe's closest friend — a French intellectual whose refinement, sensitivity, and idealism complement the German composer's force and passion.\"",
+      "aliases": [
+        "Olivier"
+      ],
+      "tags": [
+        "poet",
+        "intellectual",
+        "French",
+        "friend"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:olivier-jeannin",
+      "relations": []
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "\"Paris as the primary urban setting of Volumes VII–X of Jean-Christophe — a city of artistic corruption and hidden solidarity, where Christophe's mature identity is forged through exile, friendship, and creative struggle.\"",
+      "aliases": [
+        "City of Light",
+        "French capital"
+      ],
+      "tags": [
+        "city",
+        "capital",
+        "exile",
+        "artistic-center",
+        "Volume-7",
+        "Volume-8",
+        "Volume-9",
+        "Volume-10"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "the hero"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "press",
+          "label": "press"
+        },
+        {
+          "type": "related",
+          "target": "theater",
+          "label": "theatre"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "grazia",
+          "label": "Grazia"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        }
+      ]
+    },
+    {
+      "id": "paris-apartment",
+      "type": "place",
+      "label": "'The Paris Apartment'",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "jean-christophe:paris-apartment",
+      "relations": []
+    },
+    {
+      "id": "paris-riots",
+      "type": "event",
+      "label": "'Paris Riots (May Day)'",
+      "description": "\"The May Day street demonstration in Paris that escalates into an insurrection, during which Olivier Jeannin is fatally wounded saving a child and Jean-Christophe is forced to flee France.\"",
+      "aliases": [
+        "May Day demonstration",
+        "First of May riot"
+      ],
+      "tags": [
+        "riot",
+        "death",
+        "May-Day",
+        "Paris",
+        "revolution"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:paris-riots",
+      "relations": []
+    },
+    {
+      "id": "passion",
+      "type": "concept",
+      "label": "Passion",
+      "description": "Passion as the fundamental emotional force in Jean-Christophe — the creative-destructive intensity that defines the hero's character, drives his artistic creation, shapes his relationships, and constitutes both his greatest strength and deepest vulnerability.",
+      "aliases": [
+        "emotional intensity",
+        "ardor",
+        "fervor"
+      ],
+      "tags": [
+        "theme",
+        "emotion",
+        "creativity",
+        "love",
+        "suffering",
+        "temperament",
+        "German-romanticism"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:passion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "grazia",
+          "label": "Grazia"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "musical"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "lied",
+          "label": "Lied"
+        }
+      ]
+    },
+    {
+      "id": "preface",
+      "type": "chapter",
+      "label": "\"Preface\"",
+      "description": "\"Preface ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:preface",
+      "relations": []
+    },
+    {
+      "id": "press",
+      "type": "organization",
+      "label": "Press",
+      "description": "The press — newspapers, journals, and publishing houses — as a powerful institutional force in Jean-Christophe, shaping musical reputation, mediating between artists and public, and embodying the commercialization of cultural life in modern France.",
+      "aliases": [
+        "newspapers",
+        "journalism",
+        "publishing",
+        "the media",
+        "critical press"
+      ],
+      "tags": [
+        "institution",
+        "media",
+        "criticism",
+        "publishing",
+        "Paris",
+        "journalism",
+        "public-opinion"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:press",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sylvain-kohn",
+          "label": "Sylvain Kohn"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "theater",
+          "label": "Theatre"
+        },
+        {
+          "type": "related",
+          "target": "concert",
+          "label": "Concert"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "revolution",
+          "label": "Revolution"
+        }
+      ]
+    },
+    {
+      "id": "pride",
+      "type": "concept",
+      "label": "'Pride'",
+      "description": "\"A central moral category in Jean-Christophe — pride that sustains the self against humiliation, pride that blinds, pride that becomes the foundation of artistic integrity and the source of isolation.\"",
+      "aliases": [
+        "dignity",
+        "self-respect",
+        "arrogance",
+        "vanity"
+      ],
+      "tags": [
+        "theme",
+        "moral",
+        "psychology",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:pride",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "injustice"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "solitude"
+        }
+      ]
+    },
+    {
+      "id": "religion",
+      "type": "concept",
+      "label": "'Religion'",
+      "description": "\"The institutional and personal systems of belief that Jean-Christophe encounters — examined by Rolland not as a source of comfort but as a contested terrain where genuine spirituality wars against social convention.\"",
+      "aliases": [
+        "faith",
+        "belief",
+        "spirituality"
+      ],
+      "tags": [
+        "theme",
+        "spiritual",
+        "philosophy",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:religion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "revolt",
+      "type": "concept",
+      "label": "'Revolt'",
+      "description": "\"The defining gesture of Jean-Christophe's youth — revolt against family, against Germany, against the false gods of art and society. But Rolland asks: what comes after revolt?\"",
+      "aliases": [
+        "rebellion",
+        "insurrection",
+        "defiance"
+      ],
+      "tags": [
+        "theme",
+        "social",
+        "psychological",
+        "artistic"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:revolt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "injustice"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "illusion"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "convention"
+        }
+      ]
+    },
+    {
+      "id": "revolution",
+      "type": "event",
+      "label": "Revolution",
+      "description": "The revolutionary political currents — particularly the legacy of 1848 and the rise of syndicalism — that form the political backdrop of the later volumes of Jean-Christophe, testing the hero's apolitical artistic idealism.",
+      "aliases": [
+        "1848 Revolution",
+        "political upheaval",
+        "revolutionary movement",
+        "social revolution"
+      ],
+      "tags": [
+        "politics",
+        "history",
+        "social-change",
+        "France",
+        "workers-movement",
+        "syndicalism",
+        "Volume-9"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Christophe's"
+        },
+        {
+          "type": "related",
+          "target": "paris-riots",
+          "label": "Paris Riots (May Day)"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "press",
+          "label": "Press"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "Faith"
+        }
+      ]
+    },
+    {
+      "id": "rhine-town",
+      "type": "place",
+      "label": "'Rhine Town'",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "jean-christophe:rhine-town",
+      "relations": []
+    },
+    {
+      "id": "rodolphe",
+      "type": "person",
+      "label": "'Rodolphe'",
+      "description": "\"Jean-Christophe's younger brother — the favorite of Uncle Theodore, who becomes a Hamburg businessman and embodies the respectable, cold, self-satisfied mediocrity that stands in stark contrast to his elder brother's artistic life.\"",
+      "aliases": [],
+      "tags": [
+        "Krafft-family",
+        "brother",
+        "businessman",
+        "German",
+        "jealousy"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:rodolphe",
+      "relations": []
+    },
+    {
+      "id": "sabine",
+      "type": "person",
+      "label": "'Sabine'",
+      "description": "\"A young woman whose brief presence in Jean-Christophe's life awakens his first intimation of romantic love — and whose sudden death teaches him the fragility of happiness.\"",
+      "aliases": [],
+      "tags": [
+        "character",
+        "love-interest",
+        "early-death",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:sabine",
+      "relations": []
+    },
+    {
+      "id": "schulz",
+      "type": "person",
+      "label": "Schulz",
+      "description": "Peter Schulz, an elderly German Musikdirektor and organist in a small Rhenish town, who becomes one of Christophe's earliest and most devoted admirers, embodying pure-hearted musical enthusiasm.",
+      "aliases": [
+        "Peter Schulz",
+        "Professor Dr. Peter Schulz",
+        "Musikdirektor Schulz"
+      ],
+      "tags": [
+        "German",
+        "musician",
+        "organist",
+        "admirer",
+        "elderly",
+        "Volume-4",
+        "Volume-5"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:schulz",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Jean-Christophe Krafft's"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "lied",
+          "label": "Lieder"
+        },
+        {
+          "type": "related",
+          "target": "beethoven-music",
+          "label": "Beethoven"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "Faith"
+        }
+      ]
+    },
+    {
+      "id": "solitude",
+      "type": "concept",
+      "label": "'Solitude'",
+      "description": "\"The condition of being alone that pervades Jean-Christophe's experience — at once a burden and a necessity, the price of creative vision and the wound that never heals.\"",
+      "aliases": [
+        "loneliness",
+        "isolation",
+        "aloneness"
+      ],
+      "tags": [
+        "theme",
+        "existential",
+        "social",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:solitude",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        }
+      ]
+    },
+    {
+      "id": "song",
+      "type": "work",
+      "label": "Song",
+      "description": "The song as the most fundamental form of musical expression in Jean-Christophe — the primal union of voice and melody that spans folk tradition, art music, and popular culture, and that serves as the novel's metaphor for authentic artistic utterance.",
+      "aliases": [
+        "vocal music",
+        "chanson",
+        "aria",
+        "melody",
+        "singing"
+      ],
+      "tags": [
+        "music",
+        "vocal",
+        "folk-song",
+        "popular-music",
+        "expression",
+        "German-Romanticism",
+        "universal-form"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:song",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lied",
+          "label": "Lied"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "Faith"
+        },
+        {
+          "type": "related",
+          "target": "concert",
+          "label": "Concert"
+        }
+      ]
+    },
+    {
+      "id": "suffering",
+      "type": "concept",
+      "label": "'Suffering'",
+      "description": "\"The crucible through which Jean-Christophe's character is formed — suffering is presented not as mere misfortune but as the necessary condition of artistic and spiritual development.\"",
+      "aliases": [
+        "pain",
+        "sorrow",
+        "anguish",
+        "torment"
+      ],
+      "tags": [
+        "theme",
+        "emotion",
+        "growth",
+        "existential"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:suffering",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        }
+      ]
+    },
+    {
+      "id": "swiss-village",
+      "type": "place",
+      "label": "'Swiss Village'",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "jean-christophe:swiss-village",
+      "relations": []
+    },
+    {
+      "id": "sylvain-kohn",
+      "type": "person",
+      "label": "'Sylvain Kohn'",
+      "description": "\"A musical agent and publisher in Paris — a sharp, cynical operator who represents the commercialization of art, and whose encounters with Jean-Christophe crystallize the novel's critique of the music industry.\"",
+      "aliases": [
+        "Hamilton",
+        "Sylvain Hamilton"
+      ],
+      "tags": [
+        "French",
+        "agent",
+        "publisher",
+        "music-industry",
+        "Jewish",
+        "German"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:sylvain-kohn",
+      "relations": []
+    },
+    {
+      "id": "theater",
+      "type": "organization",
+      "label": "Theatre",
+      "description": "The theatre as a central institution in Jean-Christophe — the performance venue that shapes Christophe's early career, embodies the tensions between art and patronage, and serves as a recurring setting for artistic conflict and aspiration.",
+      "aliases": [
+        "theater",
+        "opera house",
+        "Court Theatre",
+        "Grand Ducal Theatre"
+      ],
+      "tags": [
+        "institution",
+        "performance",
+        "opera",
+        "German-court",
+        "Parisian-stage",
+        "career"
+      ],
+      "quality": "featured",
+      "source_ref": "jean-christophe:theater",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "concert",
+          "label": "Concert"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "press",
+          "label": "Press"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe",
+          "label": "Jean-Christophe"
+        }
+      ]
+    },
+    {
+      "id": "tradition",
+      "type": "concept",
+      "label": "'Tradition'",
+      "description": "\"The accumulated weight of the past that Jean-Christophe must both absorb and resist — tradition as the material of art and the obstacle to its renewal.\"",
+      "aliases": [
+        "heritage",
+        "custom",
+        "the-old-order"
+      ],
+      "tags": [
+        "theme",
+        "social",
+        "cultural",
+        "artistic"
+      ],
+      "quality": "standard",
+      "source_ref": "jean-christophe:tradition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "revolt"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "convention"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "ambition"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "illusion"
+        }
+      ]
+    },
+    {
+      "id": "uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Uncopyright ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:uncopyright",
+      "relations": []
+    },
+    {
+      "id": "vol1-ch01",
+      "type": "chapter",
+      "label": "\"Part I, I — The Dawn\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I Come, quando i vapori umidi e spessi A diradar cominciansi, la spera Del sol debilemente entra per essi. … Purgatorio…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol1-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "the grandfather"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Krafft"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior Krafft"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "self-respect"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        }
+      ]
+    },
+    {
+      "id": "vol1-ch02",
+      "type": "chapter",
+      "label": "\"Part I, II — The Dawn\"",
+      "description": "\"II ?xml version='1.0' encoding='utf-8'? II L’alba vinceva l’ora, mattutina. Che fuggia ’nnanzi, si che di lontano Conobbi il tremolar della marina. ……\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol1-ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "Jean Michel"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Krafft"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        }
+      ]
+    },
+    {
+      "id": "vol1-ch03",
+      "type": "chapter",
+      "label": "\"Part I, III — The Dawn\"",
+      "description": "\"III ?xml version='1.0' encoding='utf-8'? III E la faccia del sol nascere ombrata. Purgatorio , xxx He had to surrender. In spite of an obstinate and heroic…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol1-ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "Jean Michel"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "the little peddler"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        }
+      ]
+    },
+    {
+      "id": "vol10-ch01",
+      "type": "chapter",
+      "label": "\"Part X, I — The New Dawn\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I Christophe loses count of the fleeting years. Drop by drop life ebbs away. But his life is elsewhere. It has no…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        }
+      ]
+    },
+    {
+      "id": "vol10-ch02",
+      "type": "chapter",
+      "label": "\"Part X, II — The New Dawn\"",
+      "description": "\"II ?xml version='1.0' encoding='utf-8'? II He was sick at heart as he reached Paris. It was the first time he had been there since the death of Olivier. He had…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "jacqueline",
+          "label": "Jacqueline"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "heritage"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        }
+      ]
+    },
+    {
+      "id": "vol10-ch03",
+      "type": "chapter",
+      "label": "\"Part X, III — The New Dawn\"",
+      "description": "\"III ?xml version='1.0' encoding='utf-8'? III Absence adds to the power of those we love. The heart retains only what is dear to us in them. The echo of each…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "jacqueline",
+          "label": "Jacqueline"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "arrogance"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        }
+      ]
+    },
+    {
+      "id": "vol10-ch04",
+      "type": "chapter",
+      "label": "\"Part X, IV — The New Dawn\"",
+      "description": "\"IV ?xml version='1.0' encoding='utf-8'? IV The fire smoldering in the forest of Europe was beginning to burst into flames. In vain did they try to put it out…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "Convention"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "aspiration"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "Solitude"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        }
+      ]
+    },
+    {
+      "id": "vol10-dedication",
+      "type": "chapter",
+      "label": "\"Part X, Dedication — The New Dawn\"",
+      "description": "\"Dedication ?xml version='1.0' encoding='utf-8'? Here, at the end of this book, I dedicate it: to the free spirits—of all nations— who suffer, fight, and will…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-dedication",
+      "relations": []
+    },
+    {
+      "id": "vol10-preface-to-the-last-volume",
+      "type": "chapter",
+      "label": "\"Part X, Preface to the Last Volume of Jean-Christophe\"",
+      "description": "\"Preface to the Last Volume of Jean-Christophe ?xml version='1.0' encoding='utf-8'? Preface to the Last Volume of Jean-Christophe I have written the tragedy of…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-preface-to-the-last-volume",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        }
+      ]
+    },
+    {
+      "id": "vol10-prologue",
+      "type": "chapter",
+      "label": "\"Part X, Prologue — The New Dawn\"",
+      "description": "\"Prologue ?xml version='1.0' encoding='utf-8'? Prologue !Handwritten musical notation of the opening notes of Schubert’s “An die Musik,” with “Du holde Kunst,…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol10-prologue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        }
+      ]
+    },
+    {
+      "id": "vol2-ch01-the-death-of-jean-michel",
+      "type": "chapter",
+      "label": "\"Part II, I: The Death of Jean Michel\"",
+      "description": "\"I: The Death of Jean Michel ?xml version='1.0' encoding='utf-8'? I The Death of Jean Michel Years have passed. Jean-Christophe is nearly eleven. His musical…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol2-ch01-the-death-of-jean-michel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "Jean Michel"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Uncle Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        }
+      ]
+    },
+    {
+      "id": "vol2-ch02-otto",
+      "type": "chapter",
+      "label": "\"Part II, II: Otto\"",
+      "description": "\"II: Otto ?xml version='1.0' encoding='utf-8'? II Otto One Sunday when Jean-Christophe had been invited by his Musik Direktor to dine at the little country…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol2-ch02-otto",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        }
+      ]
+    },
+    {
+      "id": "vol2-ch03-minna",
+      "type": "chapter",
+      "label": "\"Part II, III: Minna\"",
+      "description": "\"III: Minna ?xml version='1.0' encoding='utf-8'? III Minna Four or five months before these events Frau Josephs von Kerich, widow of Councilor Stephan von…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol2-ch03-minna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "fantasy"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "loneliness"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        }
+      ]
+    },
+    {
+      "id": "vol3-ch01-the-house-of-euler",
+      "type": "chapter",
+      "label": "\"Part III, I: The House of Euler\"",
+      "description": "\"I: The House of Euler ?xml version='1.0' encoding='utf-8'? I The House of Euler The house was plunged in silence. Since Melchior’s death everything seemed…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol3-ch01-the-house-of-euler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "loneliness"
+        },
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "Jean Michel"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        }
+      ]
+    },
+    {
+      "id": "vol3-ch02-sabine",
+      "type": "chapter",
+      "label": "\"Part III, II: Sabine\"",
+      "description": "\"II: Sabine ?xml version='1.0' encoding='utf-8'? II Sabine He went home. He shut himself up in his room and never stirred for several days. He only went out…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol3-ch02-sabine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "self-deception"
+        }
+      ]
+    },
+    {
+      "id": "vol3-ch03-ada",
+      "type": "chapter",
+      "label": "\"Part III, III: Ada\"",
+      "description": "\"III: Ada ?xml version='1.0' encoding='utf-8'? III Ada After the wet summer the autumn was radiant. In the orchards the trees were weighed down with fruit. The…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol3-ch03-ada",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "Jean Michel"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "vol3-epigraph",
+      "type": "chapter",
+      "label": "\"Part III, Epigraph — Youth\"",
+      "description": "\"Epigraph ?xml version='1.0' encoding='utf-8'? Christofori faciem die quacunque tueris, Illa nempe die non morte mala morieris.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol3-epigraph",
+      "relations": []
+    },
+    {
+      "id": "vol4-ch01-shifting-sands",
+      "type": "chapter",
+      "label": "\"Part IV, I: Shifting Sands\"",
+      "description": "\"I: Shifting Sands ?xml version='1.0' encoding='utf-8'? I Shifting Sands Free! He felt that he was free! … Free of others and of himself! The network of passion…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol4-ch01-shifting-sands",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "torment"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "fantasy"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "heritage"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "rebellion"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        }
+      ]
+    },
+    {
+      "id": "vol4-ch02-engulfed",
+      "type": "chapter",
+      "label": "\"Part IV, II: Engulfed\"",
+      "description": "\"II: Engulfed ?xml version='1.0' encoding='utf-8'? II Engulfed Christophe had got so far with his clumsy efforts towards the reform of German art when there…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol4-ch02-engulfed",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "fantasy"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Suffering"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "loneliness"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        }
+      ]
+    },
+    {
+      "id": "vol4-ch03-deliverance",
+      "type": "chapter",
+      "label": "\"Part IV, III: Deliverance\"",
+      "description": "\"III: Deliverance ?xml version='1.0' encoding='utf-8'? III Deliverance He had no one. All his friends had disappeared. His dear Gottfried, who had come to his…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol4-ch03-deliverance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        }
+      ]
+    },
+    {
+      "id": "vol5-ch01",
+      "type": "chapter",
+      "label": "\"Part V, I — The Marketplace\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I Disorder in order. Untidy officials offhanded in manner. Travelers protesting against the rules and regulations, to…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol5-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "loneliness"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "fantasy"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "rebellion"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        }
+      ]
+    },
+    {
+      "id": "vol5-ch02",
+      "type": "chapter",
+      "label": "\"Part V, II — The Marketplace\"",
+      "description": "\"II ?xml version='1.0' encoding='utf-8'? II The more clearly Christophe saw into the vat of ideas in which Parisian art was fermenting, the more strongly he was…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol5-ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        }
+      ]
+    },
+    {
+      "id": "vol5-ch03",
+      "type": "chapter",
+      "label": "\"Part V, III — The Marketplace\"",
+      "description": "\"III ?xml version='1.0' encoding='utf-8'? III Without any deliberate effort on his part, Christophe had gained a certain celebrity in the Parisian circles to…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol5-ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier Jeannin"
+        }
+      ]
+    },
+    {
+      "id": "vol6-ch01",
+      "type": "chapter",
+      "label": "\"Part VI, I — Antoinette\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I The Jeannins were one of those old French families who have remained stationary for centuries in the same little…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol6-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        }
+      ]
+    },
+    {
+      "id": "vol7-ch01",
+      "type": "chapter",
+      "label": "\"Part VII, I — The House\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I I have a friend! … Oh! The delight of having found a kindred soul to which to cling in the midst of torment, a tender…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol7-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "torment"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier Jeannin"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "arrogance"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "Convention"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "self-deception"
+        },
+        {
+          "type": "related",
+          "target": "tradition",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        }
+      ]
+    },
+    {
+      "id": "vol7-ch02",
+      "type": "chapter",
+      "label": "\"Part VII, II — The House\"",
+      "description": "\"II ?xml version='1.0' encoding='utf-8'? II Defeat new-forges the chosen among men: it sorts out the people: it winnows out those who are purest and strongest,…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol7-ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "melchior-krafft",
+          "label": "Melchior"
+        }
+      ]
+    },
+    {
+      "id": "vol7-ch03",
+      "type": "chapter",
+      "label": "\"Part VII, III — The House\"",
+      "description": "\"III ?xml version='1.0' encoding='utf-8'? III In the evening of the same day Olivier arrived. He had been unable to bear the thought of leaving Christophe alone…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol7-ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "sabine",
+          "label": "Sabine"
+        }
+      ]
+    },
+    {
+      "id": "vol8-ch01",
+      "type": "chapter",
+      "label": "\"Part VIII, I — Love and Friendship\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I In spite of the success which was beginning to materialize outside France, the two friends found their financial…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol8-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "dignity"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        },
+        {
+          "type": "related",
+          "target": "jacqueline",
+          "label": "Jacqueline Langeais"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "aspiration"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "louisa-krafft",
+          "label": "Louisa"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        }
+      ]
+    },
+    {
+      "id": "vol8-epilogue",
+      "type": "chapter",
+      "label": "\"Part VIII, Epilogue — Love and Friendship\"",
+      "description": "\"Epilogue ?xml version='1.0' encoding='utf-8'? … E chi allora m’avesse domandalo di cosa alcuna, la mia risponsione sarebbe stata solamente amore, con viso…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol8-epilogue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        }
+      ]
+    },
+    {
+      "id": "vol9-ch01",
+      "type": "chapter",
+      "label": "\"Part IX, I — The Burning Bush\"",
+      "description": "\"I ?xml version='1.0' encoding='utf-8'? I Came calmness to his heart. No wind stirred. The air was still. … Christophe was at rest: peace was his. He was in a…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol9-ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "jacqueline",
+          "label": "Jacqueline"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "striving"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "gottfried",
+          "label": "Gottfried"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "revolt",
+          "label": "defiance"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "Fate"
+        }
+      ]
+    },
+    {
+      "id": "vol9-ch02",
+      "type": "chapter",
+      "label": "\"Part IX, II — The Burning Bush\"",
+      "description": "\"II ?xml version='1.0' encoding='utf-8'? II They drove out of Paris. They crossed the vast plains of France shrouded in mist. It was an evening like that on…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol9-ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "injustice",
+          "label": "wrong"
+        },
+        {
+          "type": "related",
+          "target": "braun",
+          "label": "Erich Braun"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "antoinette-jeannin",
+          "label": "Antoinette"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        },
+        {
+          "type": "related",
+          "target": "solitude",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "anna",
+          "label": "Anna Maria Senfl"
+        },
+        {
+          "type": "related",
+          "target": "illusion",
+          "label": "self-deception"
+        },
+        {
+          "type": "related",
+          "target": "convention",
+          "label": "custom"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        }
+      ]
+    },
+    {
+      "id": "vol9-epilogue",
+      "type": "chapter",
+      "label": "\"Part IX, Epilogue — The Burning Bush\"",
+      "description": "\"Epilogue ?xml version='1.0' encoding='utf-8'? —“Éperò leva su, vinci l’ambascia Con l’animo che vinca ogni battaglia, Se col suo grave corpo non s’accascia.…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:vol9-epilogue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "jean-christophe-krafft",
+          "label": "Christophe"
+        },
+        {
+          "type": "related",
+          "target": "olivier-jeannin",
+          "label": "Olivier"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "drive"
+        },
+        {
+          "type": "related",
+          "target": "jacqueline",
+          "label": "Jacqueline"
+        },
+        {
+          "type": "related",
+          "target": "jean-michel-krafft",
+          "label": "the grandfather"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "vanity"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "melody"
+        }
+      ]
+    },
+    {
+      "id": "volume-1-dawn",
+      "type": "chapter",
+      "label": "\"Part I: Dawn\"",
+      "description": "\"Part I: Dawn 本结构包含以下章节： - [[0445-Jean-Christophe-7e321649-ch007|I]] - [[0445-Jean-Christophe-7e321649-ch008|II]] - [[0445-Jean-Christophe-7e321649-ch009|III]]…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-1-dawn",
+      "relations": []
+    },
+    {
+      "id": "volume-10-the-new-dawn",
+      "type": "chapter",
+      "label": "\"Part X: The New Dawn\"",
+      "description": "\"Part X: The New Dawn ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-10-the-new-dawn",
+      "relations": []
+    },
+    {
+      "id": "volume-2-morning",
+      "type": "chapter",
+      "label": "\"Part II: Morning\"",
+      "description": "\"Part II: Morning 本结构包含以下章节： - [[0445-Jean-Christophe-7e321649-ch011|I: The Death of Jean Michel]] - [[0445-Jean-Christophe-7e321649-ch012|II: Otto]] -…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-2-morning",
+      "relations": []
+    },
+    {
+      "id": "volume-3-youth",
+      "type": "chapter",
+      "label": "\"Part III: Youth\"",
+      "description": "\"Part III: Youth 本结构包含以下章节： - [[0445-Jean-Christophe-7e321649-ch015|Epigraph]] - [[0445-Jean-Christophe-7e321649-ch016|I: The House of Euler]] -…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-3-youth",
+      "relations": []
+    },
+    {
+      "id": "volume-4-revolt",
+      "type": "chapter",
+      "label": "\"Part IV: Revolt\"",
+      "description": "\"Part IV: Revolt 本结构包含以下章节： - [[0445-Jean-Christophe-7e321649-ch020|I: Shifting Sands]] - [[0445-Jean-Christophe-7e321649-ch021|II: Engulfed]] -…\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-4-revolt",
+      "relations": []
+    },
+    {
+      "id": "volume-5-the-marketplace",
+      "type": "chapter",
+      "label": "\"Part V: The Marketplace\"",
+      "description": "\"Part V: The Marketplace ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-5-the-marketplace",
+      "relations": []
+    },
+    {
+      "id": "volume-6-antoinette",
+      "type": "chapter",
+      "label": "\"Part VI: Antoinette\"",
+      "description": "\"Part VI: Antoinette ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-6-antoinette",
+      "relations": []
+    },
+    {
+      "id": "volume-7-the-house",
+      "type": "chapter",
+      "label": "\"Part VII: The House\"",
+      "description": "\"Part VII: The House ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-7-the-house",
+      "relations": []
+    },
+    {
+      "id": "volume-8-love-and-friendship",
+      "type": "chapter",
+      "label": "\"Part VIII: Love and Friendship\"",
+      "description": "\"Part VIII: Love and Friendship ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-8-love-and-friendship",
+      "relations": []
+    },
+    {
+      "id": "volume-9-the-burning-bush",
+      "type": "chapter",
+      "label": "\"Part IX: The Burning Bush\"",
+      "description": "\"Part IX: The Burning Bush ?xml version='1.0' encoding='utf-8'?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jean-christophe:volume-9-the-burning-bush",
+      "relations": []
+    }
+  ]
+}

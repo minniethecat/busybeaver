@@ -1,0 +1,4837 @@
+{
+  "book": "the-provincial-letters",
+  "title": "The Provincial Letters",
+  "description": "The Provincial Letters — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 109,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"致外省人信札\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:About",
+      "relations": []
+    },
+    {
+      "id": "Arnauld",
+      "type": "person",
+      "label": "\"Antoine Arnauld\"",
+      "description": "\"Antoine Arnauld (1612–1694), Jansenist theologian, philosopher, and the central figure whose censure by the Sorbonne opens the Provincial Letters.\"",
+      "aliases": [
+        "M. Arnauld",
+        "Arnauld",
+        "Antoine Arnauld"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "jansenism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:Arnauld",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        }
+      ]
+    },
+    {
+      "id": "Blaise-Pascal",
+      "type": "person",
+      "label": "Blaise Pascal",
+      "description": "French mathematician, physicist, and theologian; author of the Lettres provinciales under the pseudonym Louis de Montalte.",
+      "aliases": [
+        "Louis de Montalte",
+        "Pascal"
+      ],
+      "tags": [
+        "person",
+        "author",
+        "17th-century",
+        "jansenism"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:Blaise-Pascal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probability"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        }
+      ]
+    },
+    {
+      "id": "Escobar",
+      "type": "person",
+      "label": "\"Antonio Escobar y Mendoza\"",
+      "description": "\"Antonio Escobar y Mendoza (1589–1669), Spanish Jesuit casuist and moral theologian whose writings are extensively satirized by Pascal in the Provincial Letters as the embodiment of laxist probabilist casuistry.\"",
+      "aliases": [
+        "Escobar",
+        "Antonio Escobar",
+        "Antonio Escobar y Mendoza"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century",
+        "probabilism"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:Escobar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        },
+        {
+          "type": "related",
+          "target": "layman",
+          "label": "Layman"
+        }
+      ]
+    },
+    {
+      "id": "Jansenius",
+      "type": "person",
+      "label": "\"Cornelius Jansen\"",
+      "description": "\"Cornelius Jansen (1585–1638), Bishop of Ypres, author of Augustinus, and founder of the Jansenist movement whose theology of efficacious grace became the central doctrinal dispute in Pascal's Provincial Letters.\"",
+      "aliases": [
+        "Jansen",
+        "Cornelius Jansenius",
+        "Jansenius"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "jansenism",
+        "17th-century",
+        "grace"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:Jansenius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Antoine Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "annat",
+          "label": "Père Annat"
+        },
+        {
+          "type": "related",
+          "target": "meynier",
+          "label": "Père Meynier"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-provincial-letters:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letter-1",
+          "label": "letter-1"
+        },
+        {
+          "type": "related",
+          "target": "letter-2",
+          "label": "letter-2"
+        },
+        {
+          "type": "related",
+          "target": "letter-3",
+          "label": "letter-3"
+        },
+        {
+          "type": "related",
+          "target": "letter-4",
+          "label": "letter-4"
+        },
+        {
+          "type": "related",
+          "target": "letter-5",
+          "label": "letter-5"
+        },
+        {
+          "type": "related",
+          "target": "letter-6",
+          "label": "letter-6"
+        },
+        {
+          "type": "related",
+          "target": "letter-7",
+          "label": "letter-7"
+        },
+        {
+          "type": "related",
+          "target": "letter-8",
+          "label": "letter-8"
+        },
+        {
+          "type": "related",
+          "target": "letter-9",
+          "label": "letter-9"
+        },
+        {
+          "type": "related",
+          "target": "letter-10",
+          "label": "letter-10"
+        },
+        {
+          "type": "related",
+          "target": "letter-11",
+          "label": "letter-11"
+        },
+        {
+          "type": "related",
+          "target": "letter-12",
+          "label": "letter-12"
+        },
+        {
+          "type": "related",
+          "target": "letter-13",
+          "label": "letter-13"
+        },
+        {
+          "type": "related",
+          "target": "letter-14",
+          "label": "letter-14"
+        },
+        {
+          "type": "related",
+          "target": "letter-15",
+          "label": "letter-15"
+        },
+        {
+          "type": "related",
+          "target": "letter-16",
+          "label": "letter-16"
+        },
+        {
+          "type": "related",
+          "target": "letter-17",
+          "label": "letter-17"
+        },
+        {
+          "type": "related",
+          "target": "letter-18",
+          "label": "letter-18"
+        },
+        {
+          "type": "related",
+          "target": "letter-19",
+          "label": "letter-19"
+        }
+      ]
+    },
+    {
+      "id": "absolution",
+      "type": "concept",
+      "label": "\"Absolution\"",
+      "description": "\"The formal act by which a priest, acting in the person of Christ, forgives the sins of a penitent in the sacrament of penance — the scope and conditions of which became a major point of contention in the Jansenist controversy.\"",
+      "aliases": [
+        "absolutio",
+        "sacramental absolution"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:absolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "excommunication",
+          "label": "excommunication"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "actual-grace",
+      "type": "concept",
+      "label": "\"Actual Grace\"",
+      "description": "\"Transient divine assistance given by God for the performance of specific good acts, distinguished from habitual or sanctifying grace.\"",
+      "aliases": [
+        "gratia actualis",
+        "grâce actuelle"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:actual-grace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        }
+      ]
+    },
+    {
+      "id": "annat",
+      "type": "person",
+      "label": "\"François Annat\"",
+      "description": "\"François Annat (1590–1670), French Jesuit theologian and confessor to Louis XIV, a principal adversary of Pascal and the Jansenists whose writings are repeatedly cited and contested throughout the Provincial Letters.\"",
+      "aliases": [
+        "Annat",
+        "François Annat",
+        "Father Annat",
+        "Père Annat"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "jesuit",
+        "polemics",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:annat",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "le-moine",
+          "label": "Le Moine"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "meynier",
+          "label": "Meynier"
+        }
+      ]
+    },
+    {
+      "id": "attrition",
+      "type": "concept",
+      "label": "\"Attrition\"",
+      "description": "\"Imperfect sorrow for sin arising from fear of punishment rather than love of God — distinguished from perfect contrition and central to the Jesuit–Jansenist debate over the sacrament of penance.\"",
+      "aliases": [
+        "attritio",
+        "imperfect contrition"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:attrition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "bauny",
+      "type": "person",
+      "label": "\"Étienne Bauny\"",
+      "description": "\"Étienne Bauny (1564–1649), French Jesuit casuist and moral theologian, author of the widely-circulated 'Summary of Sins,' whose maxims on ignorance, proximate occasions of sin, and confessional practice became emblematic of the laxist casuistry satirized by Pascal in the Provincial Letters.\"",
+      "aliases": [
+        "Bauny",
+        "Father Bauny",
+        "Étienne Bauny"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:bauny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuists"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinion"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "hallier",
+          "label": "M. Hallier"
+        },
+        {
+          "type": "related",
+          "target": "caussin",
+          "label": "Caussin"
+        },
+        {
+          "type": "related",
+          "target": "brisacier",
+          "label": "Brisacier"
+        }
+      ]
+    },
+    {
+      "id": "benefice",
+      "type": "concept",
+      "label": "Benefice",
+      "description": "An ecclesiastical office with attached income, central to the simony debates in Pascal's Provincial Letters.",
+      "aliases": [
+        "ecclesiastical benefice",
+        "church benefice"
+      ],
+      "tags": [
+        "ecclesiology",
+        "simony",
+        "casuistry",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:benefice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "brisacier",
+      "type": "person",
+      "label": "\"Father Brisacier\"",
+      "description": "\"Father Brisacier (1592–1668), French Jesuit polemicist whose calumnious writings against the Jansenists, particularly his attacks on the nuns of Port-Royal and his defense of laxist casuistry, are extensively refuted in the final letters of Pascal's Provincial Letters.\"",
+      "aliases": [
+        "Brisacier",
+        "Father Brisacier",
+        "Père Brisacier",
+        "Jean de Brisacier"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "polemics",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:brisacier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "bauny",
+          "label": "Bauny"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        }
+      ]
+    },
+    {
+      "id": "calumny",
+      "type": "concept",
+      "label": "Calumny",
+      "description": "'The act of making false and defamatory statements about another, which Jesuit casuists treated as a merely venial sin when employed against a calumniator, and which Pascal identifies as the characteristic crime of the Jesuit campaign against Jansenism.'",
+      "aliases": [
+        "slander",
+        "false accusation",
+        "defamation"
+      ],
+      "tags": [
+        "moral-theology",
+        "casuistry",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:calumny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "homicide",
+          "label": "homicide"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "caramuel",
+      "type": "person",
+      "label": "\"Juan Caramuel y Lobkowitz\"",
+      "description": "\"Juan Caramuel y Lobkowitz (1606–1682), Spanish Cistercian theologian and polymath, author of Fundamental Theology, cited by Pascal as a champion of Jesuit probabilism whose conclusions on calumny and homicide exemplified the moral dangers of the casuistic method.\"",
+      "aliases": [
+        "Caramuel",
+        "Juan Caramuel",
+        "John Caramuel",
+        "Caramuel Lobkowitz"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "cistercian",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:caramuel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "diana",
+          "label": "Antonino Diana"
+        },
+        {
+          "type": "related",
+          "target": "lamy",
+          "label": "Father Lamy"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        }
+      ]
+    },
+    {
+      "id": "casuistry",
+      "type": "concept",
+      "label": "\"Casuistry\"",
+      "description": "\"The method of resolving moral problems by applying general principles to particular cases — associated with Jesuit confessional practice and the primary structural target of Pascal's critique in the Provincial Letters.\"",
+      "aliases": [
+        "case-based moral reasoning",
+        "casuist",
+        "casuistic method"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "ethics",
+        "jesuit",
+        "moral-theology",
+        "17th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:casuistry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinion"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Antonio Escobar"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Tomás Sánchez"
+        },
+        {
+          "type": "related",
+          "target": "diana",
+          "label": "Antonino Diana"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "innocent-x",
+          "label": "Pope Innocent X"
+        }
+      ]
+    },
+    {
+      "id": "caussin",
+      "type": "person",
+      "label": "\"Nicolas Caussin\"",
+      "description": "\"Nicolas Caussin (1583–1651), French Jesuit theologian and briefly confessor to Louis XIII, cited by Pascal in the Provincial Letters as a defender of controversial casuistic propositions on absolution and the occasion of sin.\"",
+      "aliases": [
+        "Caussin",
+        "Nicolas Caussin",
+        "Father Caussin"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:caussin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "bauny",
+          "label": "Bauny"
+        }
+      ]
+    },
+    {
+      "id": "cellot",
+      "type": "person",
+      "label": "\"Louis Cellot\"",
+      "description": "\"Louis Cellot (1588–1658), French Jesuit theologian and casuist whose writings on moral theology, particularly on homicide and dueling, are cited and satirized in the Provincial Letters alongside those of Reginald, Escobar, and other prominent Jesuit authorities.\"",
+      "aliases": [
+        "Cellot",
+        "Louis Cellot",
+        "Father Cellot",
+        "Louis Cellot"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:cellot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        }
+      ]
+    },
+    {
+      "id": "censure",
+      "type": "concept",
+      "label": "\"Censure\"",
+      "description": "\"A formal ecclesiastical judgment that a proposition or writing contains doctrinal error — the juridical instrument by which the Sorbonne condemned Antoine Arnauld in 1656, triggering the Provincial Letters.\"",
+      "aliases": [
+        "ecclesiastical censure",
+        "theological censure",
+        "Sorbonne censure",
+        "censure of Arnauld"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "Sorbonne",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:censure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "condemnation",
+          "label": "condemnation"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        }
+      ]
+    },
+    {
+      "id": "charity",
+      "type": "concept",
+      "label": "Charity",
+      "description": "The theological virtue of supernatural love for God and neighbor, central to the penitential debates in Pascal's Provincial Letters.",
+      "aliases": [
+        "Christian charity",
+        "theological charity",
+        "caritas"
+      ],
+      "tags": [
+        "moral-theology",
+        "virtue",
+        "penitence",
+        "casuistry",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:charity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        }
+      ]
+    },
+    {
+      "id": "commandment",
+      "type": "concept",
+      "label": "Commandment",
+      "description": "The divine moral law given by God, central to the Jansenist-Jesuit debate on whether the righteous have the power to obey God's commandments.",
+      "aliases": [
+        "divine commandment",
+        "commandments of God",
+        "Decalogue"
+      ],
+      "tags": [
+        "moral-theology",
+        "grace",
+        "Jansenism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:commandment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "proximate-power",
+          "label": "proximate-power"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "condemnation",
+      "type": "concept",
+      "label": "\"Condemnation\"",
+      "description": "\"A formal papal or conciliar act declaring a proposition, doctrine, or person to be erroneous or heretical — the juridical mechanism by which the Five Propositions were suppressed and the Jansenist movement was targeted.\"",
+      "aliases": [
+        "papal condemnation",
+        "doctrinal condemnation",
+        "damnatio"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "canon-law",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:condemnation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "infallibility",
+          "label": "infallibility"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "confession",
+      "type": "concept",
+      "label": "\"Confession\"",
+      "description": "\"The sacrament of penance, in which sins are confessed to a priest for absolution; a central target of Pascal's critique of Jesuit casuistry.\"",
+      "aliases": [
+        "sacrament of penance",
+        "confessional"
+      ],
+      "tags": [
+        "theology",
+        "sacraments",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:confession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "confessor",
+          "label": "confessor"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "confessor",
+      "type": "concept",
+      "label": "\"Confessor\"",
+      "description": "\"The priest who hears confessions and administers the sacrament of penance — a key figure in Pascal's critique of Jesuit casuistry, where the confessor's obligation to follow probable opinions becomes a mechanism for moral laxity.\"",
+      "aliases": [
+        "confessor priest",
+        "spiritual director",
+        "confessarius"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "sacraments",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:confessor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "conscience",
+      "type": "concept",
+      "label": "\"Conscience\"",
+      "description": "\"The internal faculty of moral judgment by which a person discerns right from wrong — central to the probabilist system, in which following any probable opinion satisfies the demands of conscience.\"",
+      "aliases": [
+        "conscientia",
+        "moral conscience",
+        "internal forum"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:conscience",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "confessor",
+          "label": "confessor"
+        },
+        {
+          "type": "related",
+          "target": "equivocation",
+          "label": "equivocation"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        }
+      ]
+    },
+    {
+      "id": "contents",
+      "type": "chapter",
+      "label": "\"Contents\"",
+      "description": "\"Table of contents for the Provincial Letters\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:contents",
+      "relations": []
+    },
+    {
+      "id": "contrition",
+      "type": "concept",
+      "label": "\"Contrition\"",
+      "description": "\"Perfect sorrow for sin arising from love of God, as distinguished from attrition (imperfect sorrow arising from fear of punishment) — a key distinction in the Jesuit–Jansenist debates over the sacrament of penance.\"",
+      "aliases": [
+        "contritio",
+        "perfect contrition"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:contrition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "actual-grace",
+          "label": "actual-grace"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "council-of-trent",
+      "type": "event",
+      "label": "\"Council of Trent\"",
+      "description": "\"The 19th ecumenical council of the Catholic Church (1545–1563), which defined doctrine on grace, justification, and the sacraments in response to the Protestant Reformation — a key doctrinal reference point in Pascal's Provincial Letters.\"",
+      "aliases": [
+        "Tridentine Council",
+        "Council of Trent (1545–1563)"
+      ],
+      "tags": [
+        "event",
+        "theology",
+        "church-history",
+        "16th-century",
+        "counter-reformation"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:council-of-trent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Antoine Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        }
+      ]
+    },
+    {
+      "id": "decree",
+      "type": "concept",
+      "label": "\"Decree\"",
+      "description": "\"An authoritative judicial or legislative determination issued by an ecclesiastical authority — pope, council, or Roman congregation. The decrees of the Holy Office condemning Jansenist propositions, and the Sorbonne decree censuring Arnauld, are among the central contested texts of the *Provincial Letters*.\"",
+      "aliases": [
+        "decretum",
+        "papal decree",
+        "conciliar decree",
+        "congregational decree"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "canon-law",
+        "authority",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:decree",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "papal-constitution",
+          "label": "papal-constitution"
+        },
+        {
+          "type": "related",
+          "target": "obedience",
+          "label": "obedience"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "council-of-trent"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "sorbonne-censure",
+          "label": "sorbonne-censure"
+        }
+      ]
+    },
+    {
+      "id": "diana",
+      "type": "person",
+      "label": "\"Antonino Diana\"",
+      "description": "\"Antonino Diana (1586–1663), Sicilian Theatine casuist and moral theologian, the most frequently cited authority in the Provincial Letters, whose voluminous Resolutiones Morales exemplified for Pascal the machinery of probabilistic moral permission.\"",
+      "aliases": [
+        "Diana",
+        "Antonino Diana",
+        "Antoninus Diana"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "theatine",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:diana",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "caramuel",
+          "label": "Caramuel"
+        },
+        {
+          "type": "related",
+          "target": "bauny",
+          "label": "Bauny"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Antonio Escobar"
+        }
+      ]
+    },
+    {
+      "id": "direction-of-intention",
+      "type": "concept",
+      "label": "\"Direction of Intention\"",
+      "description": "\"A Jesuit casuistic doctrine permitting an otherwise sinful act to become licit by redirecting the agent's intention to a lawful end — one of the principal targets of Pascal's satire in the Provincial Letters.\"",
+      "aliases": [
+        "directio intentionis",
+        "directing the intention",
+        "purity of intention"
+      ],
+      "tags": [
+        "theology",
+        "casuistry",
+        "moral-theology",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:direction-of-intention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "mental-reservation",
+          "label": "mental-reservation"
+        },
+        {
+          "type": "related",
+          "target": "equivocation",
+          "label": "equivocation"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "duel",
+          "label": "duel"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "dispensation",
+      "type": "concept",
+      "label": "\"Dispensation\"",
+      "description": "\"In canon law, the relaxation of a law in a particular case; in the Provincial Letters, a target of Pascal's critique of Jesuit laxism.\"",
+      "aliases": [
+        "dispense"
+      ],
+      "tags": [
+        "theology",
+        "canon-law",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:dispensation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "fasting",
+          "label": "fasting"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "duel",
+      "type": "concept",
+      "label": "\"Duel\"",
+      "description": "\"A prearranged combat between two persons; in the Provincial Letters, a key example of Jesuit casuistry permitting morally prohibited acts.\"",
+      "aliases": [
+        "duelling",
+        "single combat"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:duel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "homicide",
+          "label": "homicide"
+        },
+        {
+          "type": "related",
+          "target": "equivocation",
+          "label": "equivocation"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "ecclesiastical",
+      "type": "concept",
+      "label": "\"Ecclesiastical Authority\"",
+      "description": "\"The authority of the Church and its laws as invoked and debated in the Provincial Letters, central to the Jansenist-Jesuit controversy over doctrinal judgment.\"",
+      "aliases": [
+        "Church authority",
+        "ecclesiastical law",
+        "ecclesiastical power"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "polemics"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:ecclesiastical",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "condemnation",
+          "label": "condemnation"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "sorbonne-censure",
+          "label": "sorbonne-censure"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "council-of-trent"
+        },
+        {
+          "type": "related",
+          "target": "infallibility",
+          "label": "infallibility"
+        }
+      ]
+    },
+    {
+      "id": "efficacious-grace",
+      "type": "concept",
+      "label": "\"Efficacious Grace\"",
+      "description": "\"The divine grace that infallibly produces its intended effect in the human will, as distinguished from merely sufficient grace which requires human cooperation to become effective.\"",
+      "aliases": [
+        "gratia efficax",
+        "grâce efficace"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:efficacious-grace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "actual-grace",
+          "label": "actual-grace"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "equivocation",
+      "type": "concept",
+      "label": "\"Equivocation\"",
+      "description": "\"The Jesuit doctrine that allows a speaker to use ambiguous language or mental reservation to avoid telling the truth while technically not lying — a key target of Pascal's satire in the Provincial Letters.\"",
+      "aliases": [
+        "mental reservation",
+        "doctrine of equivocations",
+        "amphibology",
+        "restrictio mentalis"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:equivocation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mental-reservation",
+          "label": "mental-reservation"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "excommunication",
+      "type": "concept",
+      "label": "\"Excommunication\"",
+      "description": "\"The formal ecclesiastical penalty excluding a person from the communion of the faithful — discussed in the Provincial Letters in the context of Jesuit casuistry on its effects and discharge.\"",
+      "aliases": [
+        "excommunicatio",
+        "ecclesiastical censure"
+      ],
+      "tags": [
+        "theology",
+        "canon-law",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:excommunication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "confessor",
+          "label": "confessor"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "fasting",
+      "type": "concept",
+      "label": "Fasting",
+      "description": "'The practice of abstaining from food as a religious obligation, subjected to casuistic analysis by Jesuit moral theologians who developed extensive grounds for dispensation.'",
+      "aliases": [
+        "ecclesiastical fasting",
+        "Lenten fast"
+      ],
+      "tags": [
+        "moral-theology",
+        "casuistry",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:fasting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "dispensation",
+          "label": "dispensation"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        }
+      ]
+    },
+    {
+      "id": "filiutius",
+      "type": "person",
+      "label": "\"Vincenzo Filliucci\"",
+      "description": "\"Vincenzo Filliucci (1566–1622), Italian Jesuit moral theologian, one of the 'four-and-twenty Jesuits' whose casuistic writings are extensively cited by Pascal in the Provincial Letters on questions of homicide, restitution, slander, and confessional obligations.\"",
+      "aliases": [
+        "Filiutius",
+        "Filliucci",
+        "Vincenzo Filliucci",
+        "Father Filiutius"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:filiutius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        },
+        {
+          "type": "related",
+          "target": "layman",
+          "label": "Layman"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinion"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Sanchez"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        }
+      ]
+    },
+    {
+      "id": "five-propositions",
+      "type": "concept",
+      "label": "\"Five Propositions\"",
+      "description": "\"Five doctrinal statements on grace and free will, extracted from Jansenius's Augustinus and condemned by Pope Innocent X in the bull Cum occasione (1653) — the central theological object of the Jansenist controversy.\"",
+      "aliases": [
+        "the five propositions of Jansenius",
+        "quinque propositiones"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "Jansenism",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:five-propositions",
+      "relations": [
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "condemnation",
+          "label": "condemnation"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "footnotes",
+      "type": "chapter",
+      "label": "\"Footnotes\"",
+      "description": "\"Editorial footnotes to the Provincial Letters\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:footnotes",
+      "relations": []
+    },
+    {
+      "id": "free-will",
+      "type": "concept",
+      "label": "\"Free Will\"",
+      "description": "\"The human capacity to choose freely between alternatives — a concept central to the de auxiliis controversy and the Jansenist–Jesuit debate over the relationship between divine grace and human freedom.\"",
+      "aliases": [
+        "liberum arbitrium",
+        "free choice",
+        "voluntary agency"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "philosophy",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:free-will",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "actual-grace",
+          "label": "actual-grace"
+        },
+        {
+          "type": "related",
+          "target": "molinism",
+          "label": "molinism"
+        },
+        {
+          "type": "related",
+          "target": "proximate-power",
+          "label": "proximate-power"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "hallier",
+      "type": "person",
+      "label": "\"M. Hallier\"",
+      "description": "\"M. Hallier (fl. mid-17th century), syndic of the Sorbonne, former critic turned Jesuit ally, cited by Pascal in the Provincial Letters as a figure whose shifting allegiances illustrate the polemical character of the Jansenist controversy.\"",
+      "aliases": [
+        "Hallier",
+        "M. Hallier",
+        "Monsieur Hallier"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "sorbonne",
+        "controversy",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:hallier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "bauny",
+          "label": "Father Bauny"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "sorbonne-censure",
+          "label": "sorbonne-censure"
+        }
+      ]
+    },
+    {
+      "id": "henriquez",
+      "type": "person",
+      "label": "\"Henrique Henriquez\"",
+      "description": "\"Henrique Henriquez (1536–1608), Portuguese Jesuit moral theologian, cited in Pascal's Provincial Letters as an authority on probabilism, homicide, and the frequency of confession.\"",
+      "aliases": [
+        "Henriquez",
+        "Henrique Henriquez",
+        "Father Henriquez"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:henriquez",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinion"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        }
+      ]
+    },
+    {
+      "id": "heresy",
+      "type": "concept",
+      "label": "\"Heresy\"",
+      "description": "\"The obstinate denial or doubt, by a baptized person, of a truth of the Catholic faith — the charge leveled against the Jansenists by their Jesuit opponents and the central juridical category of the Sorbonne's censure of Antoine Arnauld.\"",
+      "aliases": [
+        "haeresis",
+        "heretical doctrine",
+        "formal heresy"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:heresy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "condemnation",
+          "label": "condemnation"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        }
+      ]
+    },
+    {
+      "id": "historical-introduction",
+      "type": "chapter",
+      "label": "\"Historical Introduction\"",
+      "description": "\"Historical introduction to the Provincial Letters by the translator\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:historical-introduction",
+      "relations": []
+    },
+    {
+      "id": "homicide",
+      "type": "concept",
+      "label": "Homicide",
+      "description": "'The act of killing a human being, which Jesuit casuistry subjected to extensive probabilistic analysis, permitting it in a wide range of circumstances through the doctrine of directing the intention and the distinction between speculation and practice.'",
+      "aliases": [
+        "murder",
+        "manslaughter",
+        "killing"
+      ],
+      "tags": [
+        "moral-theology",
+        "casuistry",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:homicide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "duel",
+          "label": "duel"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "impiety",
+      "type": "concept",
+      "label": "Impiety",
+      "description": "The vice of irreverence toward sacred things, used by both Jesuits and Jansenists as an accusation against each other in the Provincial Letters controversy.",
+      "aliases": [
+        "impiété",
+        "irreverence"
+      ],
+      "tags": [
+        "moral-theology",
+        "polemics",
+        "heresy",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:impiety",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "piety",
+          "label": "piety"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        }
+      ]
+    },
+    {
+      "id": "indulgence",
+      "type": "concept",
+      "label": "\"Indulgence\"",
+      "description": "\"Pascal's term for the excessive leniency of Jesuit moral teaching, encompassing both general permissiveness and the relaxation of specific obligations.\"",
+      "aliases": [
+        "indulgences",
+        "permissiveness"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:indulgence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "dispensation",
+          "label": "dispensation"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "fasting",
+          "label": "fasting"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "infallibility",
+      "type": "concept",
+      "label": "\"Infallibility\"",
+      "description": "\"The quality of being incapable of error; in the Provincial Letters, debated in relation to both the efficacy of divine grace and the authority of papal and conciliar judgments.\"",
+      "aliases": [
+        "infallible",
+        "certainty of grace"
+      ],
+      "tags": [
+        "theology",
+        "grace-theology",
+        "ecclesiology"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:infallibility",
+      "relations": [
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "proximate-power",
+          "label": "proximate-power"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "council-of-trent"
+        },
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        }
+      ]
+    },
+    {
+      "id": "innocent-x",
+      "type": "person",
+      "label": "\"Pope Innocent X\"",
+      "description": "\"Pope Innocent X (1574–1655), pope from 1644 to 1655, whose condemnation of the Five Propositions of Jansenius in the bull Cum Occasione (1653) became the central juridical fact of the Jansenist controversy debated in Pascal's Provincial Letters.\"",
+      "aliases": [
+        "Innocent X",
+        "Pope Innocent X",
+        "Innocent X",
+        "Giovanni Battista Pamphili"
+      ],
+      "tags": [
+        "person",
+        "papacy",
+        "theology",
+        "jansenism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:innocent-x",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        }
+      ]
+    },
+    {
+      "id": "lamy",
+      "type": "person",
+      "label": "\"François Lamy\"",
+      "description": "\"François Lamy (fl. mid-17th century), French Benedictine theologian and anti-Jesuit controversialist, cited by Pascal in the Provincial Letters as an authority on moral theology whose doctrine on homicide was censured by the University of Louvain in 1649.\"",
+      "aliases": [
+        "Lamy",
+        "Father Lamy",
+        "François Lamy"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:lamy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "caramuel",
+          "label": "Caramuel"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        }
+      ]
+    },
+    {
+      "id": "layman",
+      "type": "person",
+      "label": "\"Paul Laymann\"",
+      "description": "\"Paul Laymann (1574–1635), German Jesuit canonist and moral theologian, frequently cited in Pascal's Provincial Letters as an authority on probabilism, confessional practice, duelling, and the moral permissions granted to ecclesiastics.\"",
+      "aliases": [
+        "Layman",
+        "Paul Laymann",
+        "Father Layman"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:layman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "diana",
+          "label": "Diana"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinion"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Sanchez"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        }
+      ]
+    },
+    {
+      "id": "le-moine",
+      "type": "person",
+      "label": "\"Pierre Le Moyne\"",
+      "description": "\"Pierre Le Moyne (1602–1671), French Jesuit theologian and doctor of the Sorbonne, a leading Molinist who played a central role in the censure of Antoine Arnauld and was extensively critiqued by Pascal in the Provincial Letters for his doctrine of sufficient grace, devotional writings, and casuistical moral theology.\"",
+      "aliases": [
+        "Le Moine",
+        "Pierre le Moine",
+        "Father Le Moine"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "jesuit",
+        "17th-century",
+        "molinism"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:le-moine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Antoine Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "annat",
+          "label": "Annat"
+        },
+        {
+          "type": "related",
+          "target": "sirmond",
+          "label": "Sirmond"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "nicolai",
+          "label": "Father Nicolai"
+        },
+        {
+          "type": "related",
+          "target": "bauny",
+          "label": "Bauny"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        }
+      ]
+    },
+    {
+      "id": "lessius",
+      "type": "person",
+      "label": "\"Leonardus Lessius\"",
+      "description": "\"Leonardus Lessius (1554–1623), Flemish Jesuit theologian and casuist, a central authority in the Provincial Letters whose expansive doctrines on justifiable homicide, equivocation, and economic morality made him a primary target of Pascal's critique of Jesuit probabilism.\"",
+      "aliases": [
+        "Lessius",
+        "Lenaert Leys",
+        "Leonard Lessius"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century",
+        "probabilism"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:lessius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probable opinions"
+        },
+        {
+          "type": "related",
+          "target": "letter-13",
+          "label": "Letter XIII"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Sanchez"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Cornelius Jansen"
+        }
+      ]
+    },
+    {
+      "id": "letter-1",
+      "type": "chapter",
+      "label": "\"Letter I\"",
+      "description": "\"Disputes in the Sorbonne, and the invention of proximate power\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-1",
+      "relations": []
+    },
+    {
+      "id": "letter-10",
+      "type": "chapter",
+      "label": "\"Letter X\"",
+      "description": "\"On the Sacrament of Penance according to the Jesuits\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-10",
+      "relations": []
+    },
+    {
+      "id": "letter-11",
+      "type": "chapter",
+      "label": "\"Letter XI\"",
+      "description": "\"On the system of the casuists regarding various moral questions\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-11",
+      "relations": []
+    },
+    {
+      "id": "letter-12",
+      "type": "chapter",
+      "label": "\"Letter XII\"",
+      "description": "\"On the authority of the Church fathers\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-12",
+      "relations": []
+    },
+    {
+      "id": "letter-13",
+      "type": "chapter",
+      "label": "\"Letter XIII\"",
+      "description": "\"On the love of God continued\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-13",
+      "relations": []
+    },
+    {
+      "id": "letter-14",
+      "type": "chapter",
+      "label": "\"Letter XIV\"",
+      "description": "\"On homicide and duelling according to the casuists\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-14",
+      "relations": []
+    },
+    {
+      "id": "letter-15",
+      "type": "chapter",
+      "label": "\"Letter XV\"",
+      "description": "\"On simony according to the casuists\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-15",
+      "relations": []
+    },
+    {
+      "id": "letter-16",
+      "type": "chapter",
+      "label": "\"Letter XVI\"",
+      "description": "\"On calumny according to the casuists\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-16",
+      "relations": []
+    },
+    {
+      "id": "letter-17",
+      "type": "chapter",
+      "label": "\"Letter XVII\"",
+      "description": "\"On the maxims of the Jesuits regarding various moral questions\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-17",
+      "relations": []
+    },
+    {
+      "id": "letter-18",
+      "type": "chapter",
+      "label": "\"Letter XVIII\"",
+      "description": "\"Continuation of the discussion of the Jesuit maxims\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-18",
+      "relations": []
+    },
+    {
+      "id": "letter-19",
+      "type": "chapter",
+      "label": "\"Letter XIX\"",
+      "description": "\"Fragment of a nineteenth Provincial Letter, addressed to Père Annat\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-19",
+      "relations": []
+    },
+    {
+      "id": "letter-2",
+      "type": "chapter",
+      "label": "\"Letter II\"",
+      "description": "\"Of sufficient grace, which turns out to be not sufficient\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-2",
+      "relations": []
+    },
+    {
+      "id": "letter-3",
+      "type": "chapter",
+      "label": "\"Letter III\"",
+      "description": "\"Injustice, absurdity, and nullity of the censure on M. Arnauld\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-3",
+      "relations": []
+    },
+    {
+      "id": "letter-4",
+      "type": "chapter",
+      "label": "\"Letter IV\"",
+      "description": "\"Actual grace and sins of ignorance — Father Bauny's Summary of sins\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-4",
+      "relations": []
+    },
+    {
+      "id": "letter-5",
+      "type": "chapter",
+      "label": "\"Letter V\"",
+      "description": "\"Design of the Jesuits in establishing a new system of morals\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-5",
+      "relations": []
+    },
+    {
+      "id": "letter-6",
+      "type": "chapter",
+      "label": "\"Letter VI\"",
+      "description": "\"Various artifices of the Jesuits to elude the authority of the Gospel\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-6",
+      "relations": []
+    },
+    {
+      "id": "letter-7",
+      "type": "chapter",
+      "label": "\"Letter VII\"",
+      "description": "\"Method of directing the intention according to the casuists\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-7",
+      "relations": []
+    },
+    {
+      "id": "letter-8",
+      "type": "chapter",
+      "label": "\"Letter VIII\"",
+      "description": "\"Maxims of the Jesuits on various topics\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-8",
+      "relations": []
+    },
+    {
+      "id": "letter-9",
+      "type": "chapter",
+      "label": "\"Letter IX\"",
+      "description": "\"The Jesuits' doctrine of the love of God\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:letter-9",
+      "relations": []
+    },
+    {
+      "id": "mental-reservation",
+      "type": "concept",
+      "label": "\"Mental Reservation\"",
+      "description": "\"A Jesuit casuistical doctrine permitting a speaker to make a false statement by internally qualifying its meaning; condemned by Pascal in the Provincial Letters as sanctioning perjury and deceit.\"",
+      "aliases": [
+        "mental restriction",
+        "restrictio mentalis",
+        "doctrine of equivocations"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:mental-reservation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "equivocation",
+          "label": "equivocation"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "merit",
+      "type": "concept",
+      "label": "Merit",
+      "description": "The theological concept that human acts performed in a state of grace deserve a supernatural reward from God, disputed between Jesuits and Jansenists in the Provincial Letters.",
+      "aliases": [
+        "theological merit",
+        "meritorious acts",
+        "meritum"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "soteriology",
+        "Jansenism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:merit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        }
+      ]
+    },
+    {
+      "id": "meynier",
+      "type": "person",
+      "label": "\"Father Meynier\"",
+      "description": "\"Father Meynier (fl. mid-17th century), French Jesuit polemicist and author of an anti-Jansenist pamphlet cited by Pascal in the Provincial Letters as an example of Jesuit calumny and rhetorical excess against Port-Royal.\"",
+      "aliases": [
+        "Meynier",
+        "Father Meynier",
+        "Père Meynier"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "controversy",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:meynier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "Council of Trent"
+        },
+        {
+          "type": "related",
+          "target": "annat",
+          "label": "Annat"
+        }
+      ]
+    },
+    {
+      "id": "molina",
+      "type": "person",
+      "label": "\"Luis de Molina\"",
+      "description": "\"Luis de Molina (1535–1600), Spanish Jesuit theologian and originator of Molinism, the doctrine of 'middle knowledge' (scientia media) reconciling divine grace with human free will — the central theological target of Pascal's Jansenist polemic in the Provincial Letters.\"",
+      "aliases": [
+        "Molina",
+        "Luis de Molina",
+        "Luis Molina"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "grace",
+        "molinism",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:molina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "Council of Trent"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        },
+        {
+          "type": "related",
+          "target": "valencia",
+          "label": "Valencia"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Sanchez"
+        }
+      ]
+    },
+    {
+      "id": "molinism",
+      "type": "concept",
+      "label": "\"Molinism\"",
+      "description": "\"The theological system of Luis de Molina (1535–1600), based on divine middle knowledge (*scientia media*), which reconciles human free will with divine foreknowledge and grace.\"",
+      "aliases": [
+        "Molinism"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:molinism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "actual-grace",
+          "label": "actual-grace"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        }
+      ]
+    },
+    {
+      "id": "mortal-sin",
+      "type": "concept",
+      "label": "Mortal Sin",
+      "description": "A grave violation of divine law that destroys charity in the soul and merits eternal damnation, a key distinction in the casuistry debates of Pascal's Provincial Letters.",
+      "aliases": [
+        "grave sin",
+        "deadly sin",
+        "péché mortel"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "sin",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:mortal-sin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "venial-sin",
+          "label": "venial-sin"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "nicolai",
+      "type": "person",
+      "label": "\"Father Nicolai\"",
+      "description": "\"Father Nicolai (fl. mid-17th century), Dominican theologian of the 'New Thomist' school, cited by Pascal in Letter I of the Provincial Letters on the doctrine of proximate power.\"",
+      "aliases": [
+        "Nicolai",
+        "Father Nicolai"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "dominican",
+        "thomism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:nicolai",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        }
+      ]
+    },
+    {
+      "id": "obedience",
+      "type": "concept",
+      "label": "\"Obedience\"",
+      "description": "\"The moral virtue by which a subject submits his will to the lawful command of a superior. In the *Provincial Letters*, Pascal exposes the tension between the Jesuit doctrine of obedience — which demands submission to superiors even against private conscience — and the traditional Christian understanding that obedience is limited by the higher law of God.\"",
+      "aliases": [
+        "oboedientia",
+        "religious obedience",
+        "ecclesiastical obedience",
+        "blind obedience"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "ecclesiology",
+        "virtue",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:obedience",
+      "relations": [
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "decree",
+          "label": "decree"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "mortal-sin",
+          "label": "mortal-sin"
+        },
+        {
+          "type": "related",
+          "target": "vow",
+          "label": "vow"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "papal-bull",
+      "type": "concept",
+      "label": "Papal Bull",
+      "description": "'A solemn papal decree employed in the Jansenist controversy to condemn theological propositions, whose authority and susceptibility to procedural manipulation became a central issue in the Provincial Letters.'",
+      "aliases": [
+        "bull",
+        "papal decree",
+        "apostolic constitution"
+      ],
+      "tags": [
+        "ecclesiology",
+        "canon-law",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:papal-bull",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papal-constitution",
+          "label": "papal-constitution"
+        },
+        {
+          "type": "related",
+          "target": "infallibility",
+          "label": "infallibility"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "papal-constitution",
+      "type": "concept",
+      "label": "Papal Constitution",
+      "description": "'A form of solemn papal decree, distinguished from a bull, cited in the Provincial Letters as part of the papal response to Jansenism and the contested authority of such documents over factual questions.'",
+      "aliases": [
+        "apostolic constitution",
+        "papal decree"
+      ],
+      "tags": [
+        "ecclesiology",
+        "canon-law",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:papal-constitution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "infallibility",
+          "label": "infallibility"
+        }
+      ]
+    },
+    {
+      "id": "penance",
+      "type": "concept",
+      "label": "\"Penance\"",
+      "description": "\"The sacrament by which sins committed after baptism are forgiven through contrition, confession, and satisfaction — a central institution in the Jesuit–Jansenist debates over confessional practice and the conditions for valid absolution.\"",
+      "aliases": [
+        "paenitentia",
+        "sacrament of penance",
+        "confession"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:penance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "petau",
+      "type": "person",
+      "label": "\"Denis Pétau\"",
+      "description": "\"Denis Pétau (1583–1652), French Jesuit theologian and patristic scholar, cited by Pascal in the Provincial Letters as a respected authority whose concessions on penance and grace undermine the Jesuit polemical position.\"",
+      "aliases": [
+        "Petau",
+        "Denis Pétau",
+        "Father Petau",
+        "Dionysius Petavius"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "patristics",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:petau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "piety",
+      "type": "concept",
+      "label": "Piety",
+      "description": "Religious devotion and reverence toward God, a central theme in Pascal's critique of Jesuit moral theology in the Provincial Letters.",
+      "aliases": [
+        "devotion",
+        "Christian piety",
+        "false piety"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:piety",
+      "relations": [
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "impiety",
+          "label": "impiety"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "presumption",
+      "type": "concept",
+      "label": "\"Presumption\"",
+      "description": "\"In the Jansenist controversy, the sin of presuming upon God's grace or one's own righteousness without warrant — central to Pascal's defense of Arnauld against the charge of temerity in the Sorbonne censure.\"",
+      "aliases": [
+        "praesumptio",
+        "theological presumption",
+        "rash judgment"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "sin",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:presumption",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "excommunication",
+          "label": "excommunication"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "five-propositions",
+          "label": "five-propositions"
+        },
+        {
+          "type": "related",
+          "target": "commandment",
+          "label": "commandment"
+        }
+      ]
+    },
+    {
+      "id": "probabilism",
+      "type": "concept",
+      "label": "\"Probabilism\"",
+      "description": "\"The Jesuit moral doctrine holding that when there are conflicting opinions on a moral question, one may follow any probable opinion even if the opposing opinion is more probable — the central target of Pascal's satire in the Provincial Letters.\"",
+      "aliases": [
+        "probability",
+        "probable opinion",
+        "probabilist"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "ethics",
+        "casuistry",
+        "jesuit",
+        "moral-theology"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:probabilism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        },
+        {
+          "type": "related",
+          "target": "innocent-x",
+          "label": "Pope Innocent X"
+        }
+      ]
+    },
+    {
+      "id": "proximate-power",
+      "type": "concept",
+      "label": "\"Proximate Power\"",
+      "description": "\"A theological term coined in the de auxiliis controversy to describe the power necessary to perform a good act; Pascal satirizes it as a meaningless compromise between Jansenists and Jesuits in the opening of the Provincial Letters.\"",
+      "aliases": [
+        "pouvoir prochain",
+        "proxima potestas"
+      ],
+      "tags": [
+        "theology",
+        "grace-theology",
+        "polemics"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:proximate-power",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        },
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "free-will",
+          "label": "free-will"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "sorbonne-censure",
+          "label": "sorbonne-censure"
+        }
+      ]
+    },
+    {
+      "id": "reginald",
+      "type": "person",
+      "label": "\"Valerius Reginaldus\"",
+      "description": "\"Valerius Reginaldus (1545–1623), French Jesuit casuist, author of Praxis Fori Poenitentialis, cited extensively by Pascal on homicide, calumny, sorcery, and the probabilistic method in moral theology.\"",
+      "aliases": [
+        "Reginald",
+        "Reginaldus",
+        "Valerius Reginaldus",
+        "Valère Regnauld"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:reginald",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "cellot",
+          "label": "Cellot"
+        },
+        {
+          "type": "related",
+          "target": "tanner",
+          "label": "Tanner"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "layman",
+          "label": "Layman"
+        }
+      ]
+    },
+    {
+      "id": "reply-of-the-provincial",
+      "type": "chapter",
+      "label": "'Reply of the \"Provincial\"'",
+      "description": "\"Reply of the Provincial to the first two letters\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:reply-of-the-provincial",
+      "relations": []
+    },
+    {
+      "id": "restitution",
+      "type": "concept",
+      "label": "Restitution",
+      "description": "The moral obligation to restore ill-gotten goods or their equivalent to the rightful owner, a requirement that Pascal accuses Jesuit casuists of systematically undermining in the Provincial Letters.",
+      "aliases": [
+        "restoration",
+        "reparation",
+        "making restitution"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "justice",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:restitution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "benefice",
+          "label": "benefice"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "usury",
+          "label": "usury"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "sacrament",
+      "type": "concept",
+      "label": "\"Sacrament\"",
+      "description": "\"An outward sign instituted by Christ to confer inward grace — the theological category within which the debates over penance, eucharist, and orders in the Provincial Letters are situated.\"",
+      "aliases": [
+        "sacramentum"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:sacrament",
+      "relations": [
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "sanchez",
+      "type": "person",
+      "label": "\"Thomas Sanchez\"",
+      "description": "\"Thomas Sanchez (1550–1610), Spanish Jesuit casuist and moral theologian, one of the most frequently cited authorities in Pascal's Provincial Letters, known for his expansive doctrines on probabilism, mental reservation, duelling, and the direction of intention.\"",
+      "aliases": [
+        "Sanchez",
+        "Tomás Sánchez",
+        "Thomas Sánchez"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century",
+        "probabilism"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:sanchez",
+      "relations": [
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuists"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "type": "concept",
+      "label": "Satisfaction",
+      "description": "The third act of the penitent in the sacrament of penance—the performance of works assigned by the confessor to make amends for the temporal punishment due to sin—which Pascal accuses Jesuit casuists of reducing to a mere formality.",
+      "aliases": [
+        "sacramental satisfaction",
+        "penance",
+        "works of satisfaction"
+      ],
+      "tags": [
+        "theology",
+        "sacrament",
+        "penance",
+        "casuistry",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:satisfaction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "contrition",
+          "label": "contrition"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "penance",
+          "label": "penance"
+        },
+        {
+          "type": "related",
+          "target": "absolution",
+          "label": "absolution"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        }
+      ]
+    },
+    {
+      "id": "scandal",
+      "type": "concept",
+      "label": "\"Scandal\"",
+      "description": "\"In Catholic moral theology, scandal is conduct that leads another to sin; a central point of Pascal's critique of Jesuit casuistry.\"",
+      "aliases": [
+        "scandale"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:scandal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "equivocation",
+          "label": "equivocation"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "confessor",
+          "label": "confessor"
+        },
+        {
+          "type": "related",
+          "target": "censure",
+          "label": "censure"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "simony",
+      "type": "concept",
+      "label": "\"Simony\"",
+      "description": "\"The buying or selling of spiritual goods or ecclesiastical offices, named after Simon Magus (Acts 8:18–24) — a canonical crime that the Jesuit casuists, according to Pascal, had effectively legalized through subtle distinctions.\"",
+      "aliases": [
+        "simonia"
+      ],
+      "tags": [
+        "theology",
+        "canon-law",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:simony",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "mental-reservation",
+          "label": "mental-reservation"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        }
+      ]
+    },
+    {
+      "id": "sirmond",
+      "type": "person",
+      "label": "\"Antony Sirmond\"",
+      "description": "\"Antony Sirmond (1591–1643), French Jesuit theologian, author of 'The Defence of Virtue', cited by Pascal in the Provincial Letters as a principal defender of the doctrine dispensing with the obligation to love God.\"",
+      "aliases": [
+        "Sirmond",
+        "Antony Sirmond",
+        "Father Sirmond",
+        "Antoine Sirmond"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:sirmond",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "annat",
+          "label": "Annat"
+        },
+        {
+          "type": "related",
+          "target": "le-moine",
+          "label": "Le Moine"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        }
+      ]
+    },
+    {
+      "id": "sorbonne-censure",
+      "type": "event",
+      "label": "\"Sorbonne Censure of Arnauld\"",
+      "description": "\"The 1656 theological proceedings at the Faculty of Theology of Paris that condemned Antoine Arnauld and triggered Pascal's writing of the Provincial Letters — the central event around which the entire controversy revolves.\"",
+      "aliases": [
+        "Censure of Antoine Arnauld",
+        "Sorbonne Disputes (1656)"
+      ],
+      "tags": [
+        "event",
+        "theology",
+        "jansenism",
+        "17th-century",
+        "sorbonne"
+      ],
+      "quality": "featured",
+      "source_ref": "the-provincial-letters:sorbonne-censure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Cornelius Jansen"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        }
+      ]
+    },
+    {
+      "id": "suarez",
+      "type": "person",
+      "label": "\"Francisco Suárez\"",
+      "description": "\"Francisco Suárez (1548–1617), Spanish Jesuit theologian and philosopher, one of Escobar's 'four living creatures,' cited by Pascal on probabilism, attrition, simony, and the moral obligations of confessors.\"",
+      "aliases": [
+        "Suarez",
+        "Francisco Suárez",
+        "Franciscus Suarez",
+        "Suárez"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:suarez",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        },
+        {
+          "type": "related",
+          "target": "valencia",
+          "label": "Valencia"
+        },
+        {
+          "type": "related",
+          "target": "filiutius",
+          "label": "Filiutius"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "henriquez",
+          "label": "Henriquez"
+        },
+        {
+          "type": "related",
+          "target": "sanchez",
+          "label": "Sanchez"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        }
+      ]
+    },
+    {
+      "id": "sufficient-grace",
+      "type": "concept",
+      "label": "\"Sufficient Grace\"",
+      "description": "\"The theological doctrine that God grants all human beings sufficient grace to fulfill divine commandments, a central point of contention in the Jansenist controversy.\"",
+      "aliases": [
+        "gratia sufficiens",
+        "grâce suffisante"
+      ],
+      "tags": [
+        "theology",
+        "grace",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:sufficient-grace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "efficacious-grace",
+          "label": "efficacious-grace"
+        },
+        {
+          "type": "related",
+          "target": "actual-grace",
+          "label": "actual-grace"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansenius"
+        }
+      ]
+    },
+    {
+      "id": "tanner",
+      "type": "person",
+      "label": "\"Adam Tanner\"",
+      "description": "\"Adam Tanner (1572–1632), German Jesuit theologian, author of Universa Theologia Scholastica, cited by Pascal on simony, homicide by churchmen, and the direction of intention in moral theology.\"",
+      "aliases": [
+        "Tanner",
+        "Adam Tanner",
+        "Adamus Tanner"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:tanner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "diana",
+          "label": "Diana"
+        },
+        {
+          "type": "related",
+          "target": "reginald",
+          "label": "Reginald"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilist"
+        },
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        },
+        {
+          "type": "related",
+          "target": "lessius",
+          "label": "Lessius"
+        }
+      ]
+    },
+    {
+      "id": "tradition",
+      "type": "concept",
+      "label": "\"Tradition\"",
+      "description": "\"In Catholic theology, the body of revealed truth transmitted orally from the apostles and preserved in the Church — distinct from and complementary to Scripture. In the Jansenist controversy, the appeal to tradition was weaponized by both sides: the Jansenists claimed tradition supported Augustinian rigorism, while their opponents invoked tradition to justify the papal condemnation.\"",
+      "aliases": [
+        "sacred tradition",
+        "apostolic tradition",
+        "ecclesiastical tradition",
+        "traditio"
+      ],
+      "tags": [
+        "theology",
+        "ecclesiology",
+        "authority",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:tradition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "commandment",
+          "label": "commandment"
+        },
+        {
+          "type": "related",
+          "target": "impiety",
+          "label": "impiety"
+        },
+        {
+          "type": "related",
+          "target": "heresy",
+          "label": "heresy"
+        },
+        {
+          "type": "related",
+          "target": "papal-bull",
+          "label": "papal-bull"
+        },
+        {
+          "type": "related",
+          "target": "Arnauld",
+          "label": "Arnauld"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "council-of-trent",
+          "label": "council-of-trent"
+        },
+        {
+          "type": "related",
+          "target": "sufficient-grace",
+          "label": "sufficient-grace"
+        }
+      ]
+    },
+    {
+      "id": "translators-preface",
+      "type": "chapter",
+      "label": "\"Translator's Preface\"",
+      "description": "\"Preface by the translator, Rev. Thomas M'Crie\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-provincial-letters:translators-preface",
+      "relations": []
+    },
+    {
+      "id": "usury",
+      "type": "concept",
+      "label": "\"Usury\"",
+      "description": "\"The sin of charging excessive interest on loans, which Pascal argues the Jesuit casuists effectively permit through subtle reinterpretations of moral obligation.\"",
+      "aliases": [
+        "lending at interest",
+        "loan interest"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:usury",
+      "relations": [
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "direction-of-intention",
+          "label": "direction-of-intention"
+        },
+        {
+          "type": "related",
+          "target": "homicide",
+          "label": "homicide"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "simony",
+          "label": "simony"
+        }
+      ]
+    },
+    {
+      "id": "valencia",
+      "type": "person",
+      "label": "\"Gregorio de Valencia\"",
+      "description": "\"Gregorio de Valencia (1549–1603), Spanish Jesuit theologian, one of Escobar's 'four-and-twenty' authorities, cited by Pascal in the Provincial Letters on simony, attrition, and moral theology.\"",
+      "aliases": [
+        "Valencia",
+        "Gregorio de Valencia",
+        "Father Valencia"
+      ],
+      "tags": [
+        "person",
+        "theology",
+        "casuistry",
+        "jesuit",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:valencia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Jansenius",
+          "label": "Jansen"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuist"
+        },
+        {
+          "type": "related",
+          "target": "Blaise-Pascal",
+          "label": "Pascal"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "suarez",
+          "label": "Suarez"
+        },
+        {
+          "type": "related",
+          "target": "molina",
+          "label": "Molina"
+        }
+      ]
+    },
+    {
+      "id": "venial-sin",
+      "type": "concept",
+      "label": "\"Venial Sin\"",
+      "description": "\"In Catholic moral theology, a sin that does not destroy sanctifying grace and does not merit eternal punishment — as distinguished from mortal sin. Pascal critiques the Jesuit casuists for their expansive classification of grave offenses as merely venial.\"",
+      "aliases": [
+        "peccatum veniale",
+        "venial",
+        "light sin",
+        "small sin"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "sin",
+        "casuistry",
+        "1650s"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:venial-sin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mortal-sin",
+          "label": "mortal-sin"
+        },
+        {
+          "type": "related",
+          "target": "calumny",
+          "label": "calumny"
+        },
+        {
+          "type": "related",
+          "target": "attrition",
+          "label": "attrition"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        }
+      ]
+    },
+    {
+      "id": "vow",
+      "type": "concept",
+      "label": "Vow",
+      "description": "A solemn promise made to God to perform some spiritual or temporal good, discussed in Pascal's Provincial Letters in the context of casuistic relaxations of religious obligations.",
+      "aliases": [
+        "religious vow",
+        "monastic vow",
+        "vow of obedience"
+      ],
+      "tags": [
+        "theology",
+        "moral-theology",
+        "casuistry",
+        "monasticism",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-provincial-letters:vow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "obedience",
+          "label": "obedience"
+        },
+        {
+          "type": "related",
+          "target": "fasting",
+          "label": "fasting"
+        },
+        {
+          "type": "related",
+          "target": "probabilism",
+          "label": "probabilism"
+        },
+        {
+          "type": "related",
+          "target": "mortal-sin",
+          "label": "mortal-sin"
+        },
+        {
+          "type": "related",
+          "target": "casuistry",
+          "label": "casuistry"
+        },
+        {
+          "type": "related",
+          "target": "Escobar",
+          "label": "Escobar"
+        },
+        {
+          "type": "related",
+          "target": "dispensation",
+          "label": "dispensation"
+        }
+      ]
+    }
+  ]
+}

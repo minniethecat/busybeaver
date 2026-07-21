@@ -1,0 +1,4693 @@
+{
+  "book": "on-liberty",
+  "title": "On Liberty",
+  "description": "On Liberty — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 113,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"论自由\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "on-liberty:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "on-liberty:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-introduzione",
+          "label": "ch01-introduzione"
+        },
+        {
+          "type": "related",
+          "target": "ch02-liberta-di-pensiero",
+          "label": "ch02-liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "ch03-individualita",
+          "label": "ch03-individualita"
+        },
+        {
+          "type": "related",
+          "target": "ch04-limiti-potere-sociale",
+          "label": "ch04-limiti-potere-sociale"
+        },
+        {
+          "type": "related",
+          "target": "ch05-applicazioni",
+          "label": "ch05-applicazioni"
+        },
+        {
+          "type": "related",
+          "target": "note",
+          "label": "note"
+        }
+      ]
+    },
+    {
+      "id": "adam-smith",
+      "type": "person",
+      "label": "Adam Smith",
+      "description": "Filosofo ed economista scozzese, fondatore dell'economia politica classica, autore de La Ricchezza delle Nazioni, citato nella prefazione di Sulla Libertà.",
+      "aliases": [
+        "Adam Smith",
+        "Adamo Smith"
+      ],
+      "tags": [
+        "economista",
+        "filosofo",
+        "scuola-classica",
+        "illuminismo-scozzese"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:adam-smith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "david-ricardo",
+          "label": "David Ricardo"
+        },
+        {
+          "type": "related",
+          "target": "thomas-malthus",
+          "label": "Thomas Malthus"
+        }
+      ]
+    },
+    {
+      "id": "akbar",
+      "type": "person",
+      "label": "\"Akbar\"",
+      "description": "\"Mughal emperor — Mill pairs Akbar with Charlemagne as a legitimate despot for peoples not yet capable of improvement through free discussion, illustrating the historical conditions under which liberty becomes applicable\"",
+      "aliases": [
+        "Akbar the Great"
+      ],
+      "tags": [
+        "imperatore",
+        "impero-moghul"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:akbar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "alcibiade",
+      "type": "person",
+      "label": "\"Alcibiade\"",
+      "description": "\"Athenian statesman and general — Mill uses Alcibiades as the paradigmatic example of pagan self-indulgence without self-mastery, contrasted with Knox and Pericles\"",
+      "aliases": [
+        "Alcibiades"
+      ],
+      "tags": [
+        "ateniese",
+        "statista",
+        "generale"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:alcibiade",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pericle",
+          "label": "pericle"
+        },
+        {
+          "type": "related",
+          "target": "john-knox",
+          "label": "john-knox"
+        },
+        {
+          "type": "related",
+          "target": "spontaneita",
+          "label": "spontaneita"
+        }
+      ]
+    },
+    {
+      "id": "alexis-de-tocqueville",
+      "type": "person",
+      "label": "\"Alexis de Tocqueville\"",
+      "description": "\"French political philosopher — Mill's contemporary and intellectual ally whose analysis of the tyranny of the majority in Democracy in America directly informs Mill's own treatment of the same theme\"",
+      "aliases": [
+        "Tocqueville",
+        "Alexis de Tocqueville"
+      ],
+      "tags": [
+        "filosofo-politico",
+        "democrazia"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:alexis-de-tocqueville",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "aristotele",
+      "type": "person",
+      "label": "\"Aristotele\"",
+      "description": "\"Filosofo greco, citato da Mill come co-creatore dell'etica filosofica — 'maestro di color che sanno' accanto a Platone\"",
+      "aliases": [
+        "Aristotle"
+      ],
+      "tags": [
+        "filosofo",
+        "greco",
+        "etica",
+        "utilitarismo"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:aristotele",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "Socrate"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "Platone"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "utile",
+          "label": "utile"
+        },
+        {
+          "type": "related",
+          "target": "dialogo-socratico",
+          "label": "dialogo-socratico"
+        }
+      ]
+    },
+    {
+      "id": "arnaldo-da-brescia",
+      "type": "person",
+      "label": "Arnaldo da Brescia",
+      "description": "Riformatore religioso italiano del XII secolo, citato da Mill come precursore della Riforma protestante represso dalla persecuzione.",
+      "aliases": [],
+      "tags": [
+        "riformatore-religioso",
+        "medioevo",
+        "martire"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:arnaldo-da-brescia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "savonarola",
+          "label": "savonarola"
+        },
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        }
+      ]
+    },
+    {
+      "id": "auguste-comte",
+      "type": "person",
+      "label": "\"Auguste Comte\"",
+      "description": "\"French philosopher and founder of positivism — Mill uses Comte as an example of how even progressive thinkers can advocate a despotism of society over the individual\"",
+      "aliases": [
+        "Comte",
+        "Auguste Comte",
+        "Augusto Comte"
+      ],
+      "tags": [
+        "filosofo",
+        "positivismo",
+        "sociologia"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:auguste-comte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        }
+      ]
+    },
+    {
+      "id": "augusto-comte",
+      "type": "person",
+      "label": "Auguste Comte",
+      "description": "Filosofo francese del XIX secolo, fondatore del positivismo, citato da Mill sia come influenza intellettuale sia come esempio di dispotismo spirituale.",
+      "aliases": [
+        "Augusto Comte"
+      ],
+      "tags": [
+        "filosofo",
+        "positivismo",
+        "sociologia"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:augusto-comte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "jeremy-bentham"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        }
+      ]
+    },
+    {
+      "id": "autorita",
+      "type": "concept",
+      "label": "\"Autorità\"",
+      "description": "\"The counter-concept to liberty in Mill's framework — the power, both political and social, against which individual freedom must be defended\"",
+      "aliases": [
+        "authority",
+        "potere",
+        "political power",
+        "social authority"
+      ],
+      "tags": [
+        "framework-concept",
+        "political-philosophy",
+        "potere"
+      ],
+      "quality": "featured",
+      "source_ref": "on-liberty:autorita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        }
+      ]
+    },
+    {
+      "id": "burocrazia",
+      "type": "organization",
+      "label": "Burocrazia",
+      "description": "L'apparato amministrativo statale composto da funzionari di carriera; in *Sulla Libertà*, Mill la critica come un sistema che concentra i migliori ingegni nel governo a scapito della società civile e tende a soffocare l'iniziativa individuale.",
+      "aliases": [
+        "Bureaucracy",
+        "Amministrazione statale",
+        "Servizio civile"
+      ],
+      "tags": [
+        "istituzione",
+        "governo",
+        "amministrazione",
+        "stato"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:burocrazia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "esercito",
+          "label": "esercito"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "calunnia",
+      "type": "concept",
+      "label": "\"Calunnia\"",
+      "description": "\"In Mill's ethics of public discussion, calumny is the worst form of polemical offense — stigmatizing holders of unpopular opinions as dangerous or immoral persons, thereby reinforcing social tyranny without legal penalty\"",
+      "aliases": [
+        "calumny",
+        "slander",
+        "defamation",
+        "stigmatization"
+      ],
+      "tags": [
+        "framework-concept",
+        "freedom-of-discussion",
+        "social-coercion"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:calunnia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        }
+      ]
+    },
+    {
+      "id": "calvinismo",
+      "type": "organization",
+      "label": "\"Calvinismo\"",
+      "description": "\"Calvinism as the theological tradition Mill critiques most sharply — its doctrine of human depravity and total obedience represents the antithesis of individual self-development\"",
+      "aliases": [
+        "Calvinism",
+        "Reformed tradition",
+        "calvinista"
+      ],
+      "tags": [
+        "religione",
+        "calvinismo",
+        "protestantesimo",
+        "teologia"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:calvinismo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        },
+        {
+          "type": "related",
+          "target": "john-knox",
+          "label": "john-knox"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "spontaneita",
+          "label": "spontaneita"
+        }
+      ]
+    },
+    {
+      "id": "carattere",
+      "type": "concept",
+      "label": "\"Carattere\"",
+      "description": "\"In Mill's philosophy of human development, 'carattere' denotes the formed moral and intellectual disposition of an individual — the product of free choice and self-cultivation, which social conformity systematically erodes by replacing inner-directed conviction with external compliance\"",
+      "aliases": [
+        "character",
+        "moral character",
+        "personality",
+        "disposition"
+      ],
+      "tags": [
+        "framework-concept",
+        "individuality",
+        "development",
+        "social-conformity"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:carattere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "sviluppo",
+          "label": "sviluppo"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "spontaneita",
+          "label": "spontaneita"
+        }
+      ]
+    },
+    {
+      "id": "carlomagno",
+      "type": "person",
+      "label": "\"Carlomagno\"",
+      "description": "\"Frankish emperor — Mill mentions Charlemagne alongside Akbar as an example of a benevolent despot who could legitimately govern 'barbarians' before they reached the stage of development where liberty becomes both possible and necessary\"",
+      "aliases": [
+        "Charlemagne",
+        "Charles the Great"
+      ],
+      "tags": [
+        "imperatore",
+        "medioevo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:carlomagno",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "caso-pooley",
+      "type": "event",
+      "label": "Caso Pooley",
+      "description": "Mill cita il caso Pooley (1857) come prova contemporanea che l'intolleranza religiosa persiste nell'Inghilterra vittoriana non attraverso esecuzioni ma attraverso sanzioni legali e stigma sociale contro i non credenti.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "on-liberty:caso-pooley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "condanna-di-socrate",
+          "label": "condanna-di-socrate"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        }
+      ]
+    },
+    {
+      "id": "certezza",
+      "type": "concept",
+      "label": "\"Certezza\"",
+      "description": "\"The false certainty that justifies censorship — Mill's critique of how the feeling of certainty masks fallibility and enables the suppression of dissent\"",
+      "aliases": [
+        "certainty",
+        "certitude",
+        "conviction",
+        "dogmatic certainty"
+      ],
+      "tags": [
+        "framework-concept",
+        "epistemology",
+        "certainty",
+        "fallibilism"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:certezza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        }
+      ]
+    },
+    {
+      "id": "ch01-introduzione",
+      "type": "chapter",
+      "label": "\"Capitolo Primo. Introduzione\"",
+      "description": "\"Introduction: the subject of civil liberty and the struggle between liberty and authority\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:ch01-introduzione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "Stato"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia sociale"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "libertà individuale"
+        },
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "odium theologicum"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "libertà di coscienza"
+        },
+        {
+          "type": "related",
+          "target": "akbar",
+          "label": "Akbar"
+        },
+        {
+          "type": "related",
+          "target": "carlomagno",
+          "label": "Carlomagno"
+        },
+        {
+          "type": "related",
+          "target": "auguste-comte",
+          "label": "Augusto Comte"
+        }
+      ]
+    },
+    {
+      "id": "ch02-liberta-di-pensiero",
+      "type": "chapter",
+      "label": "\"Capitolo Secondo. La Libertà di Pensiero e di Discussione\"",
+      "description": "\"On the liberty of thought and discussion — the classic defense of free speech\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:ch02-liberta-di-pensiero",
+      "relations": [
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "dovere",
+          "label": "Dovere"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "libertà di opinione"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "Socrate"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "Platone"
+        },
+        {
+          "type": "related",
+          "target": "aristotele",
+          "label": "Aristotele"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "Stato"
+        },
+        {
+          "type": "related",
+          "target": "crocifissione-di-gesu",
+          "label": "Calvario"
+        },
+        {
+          "type": "related",
+          "target": "marco-aurelio",
+          "label": "Marco Aurelio"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "Cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "costantino",
+          "label": "Costantino"
+        },
+        {
+          "type": "related",
+          "target": "persecuzione-dei-cristiani",
+          "label": "persecuzioni"
+        },
+        {
+          "type": "related",
+          "target": "johnson",
+          "label": "dottor Johnson"
+        },
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "Lutero"
+        },
+        {
+          "type": "related",
+          "target": "arnaldo-da-brescia",
+          "label": "Arnaldo da Brescia"
+        },
+        {
+          "type": "related",
+          "target": "savonarola",
+          "label": "Girolamo Savonarola"
+        },
+        {
+          "type": "related",
+          "target": "maria",
+          "label": "regina Maria"
+        },
+        {
+          "type": "related",
+          "target": "riforma-protestante",
+          "label": "Riforma"
+        },
+        {
+          "type": "related",
+          "target": "goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "cicerone",
+          "label": "Cicerone"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "Calvino"
+        },
+        {
+          "type": "related",
+          "target": "jean-jacques-rousseau",
+          "label": "Rousseau"
+        },
+        {
+          "type": "related",
+          "target": "san-paolo",
+          "label": "San Paolo"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "libertà individuale"
+        }
+      ]
+    },
+    {
+      "id": "ch03-individualita",
+      "type": "chapter",
+      "label": "\"Capitolo Terzo. L'Individualità come Elemento di Benessere\"",
+      "description": "\"Individuality as one of the elements of well-being\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:ch03-individualita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "Guglielmo Humboldt"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinista"
+        },
+        {
+          "type": "related",
+          "target": "john-knox",
+          "label": "Giovanni Knox"
+        },
+        {
+          "type": "related",
+          "target": "alcibiade",
+          "label": "Alcibiade"
+        },
+        {
+          "type": "related",
+          "target": "pericle",
+          "label": "Pericle"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "Stato"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia dell'opinione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "Individualità"
+        },
+        {
+          "type": "related",
+          "target": "alexis-de-tocqueville",
+          "label": "Tocqueville"
+        }
+      ]
+    },
+    {
+      "id": "ch04-limiti-potere-sociale",
+      "type": "chapter",
+      "label": "\"Capitolo Quarto. Dei Limiti al Potere della Società sull'Individuo\"",
+      "description": "\"On the limits to the authority of society over the individual\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:ch04-limiti-potere-sociale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "puritanesimo",
+          "label": "puritano"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "Stato"
+        },
+        {
+          "type": "related",
+          "target": "persecuzione-dei-cristiani",
+          "label": "persecuzioni"
+        }
+      ]
+    },
+    {
+      "id": "ch05-applicazioni",
+      "type": "chapter",
+      "label": "\"Capitolo Quinto. Applicazioni\"",
+      "description": "\"Applications: practical principles for the application of Mill's liberty doctrine\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:ch05-applicazioni",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "libertà individuale"
+        },
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "Bentham"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "Stato"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "Humboldt"
+        },
+        {
+          "type": "related",
+          "target": "kant",
+          "label": "Kant"
+        }
+      ]
+    },
+    {
+      "id": "chiesa-cattolica",
+      "type": "organization",
+      "label": "\"Chiesa Cattolica\"",
+      "description": "\"The Roman Catholic Church as the paradigmatic institutional authority against which the Reformation rebelled — and which Mill uses to illustrate the dynamics of centralized religious power\"",
+      "aliases": [
+        "Catholic Church",
+        "Chiesa di Roma"
+      ],
+      "tags": [
+        "chiesa-cattolica",
+        "religione"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:chiesa-cattolica",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "cicerone",
+      "type": "person",
+      "label": "\"Cicerone\"",
+      "description": "\"Oratore romano citato da Mill come modello di esame imparziale degli argomenti avversari — requisito per avvicinarsi alla verità\"",
+      "aliases": [
+        "Cicero",
+        "Marco Tullio Cicerone"
+      ],
+      "tags": [
+        "romano",
+        "oratore",
+        "filosofo",
+        "retorica"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:cicerone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "Socrate"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "Platone"
+        },
+        {
+          "type": "related",
+          "target": "san-paolo",
+          "label": "San Paolo"
+        },
+        {
+          "type": "related",
+          "target": "dialogo-socratico",
+          "label": "dialogo-socratico"
+        }
+      ]
+    },
+    {
+      "id": "clero",
+      "type": "organization",
+      "label": "Clero",
+      "description": "Il corpo dei ministri ordinati di una religione, con funzioni di guida spirituale e insegnamento dottrinale; in *Sulla Libertà*, Mill ne discute il ruolo di guardiani dell'ortodossia e il loro controllo sull'accesso alla conoscenza.",
+      "aliases": [
+        "Clergy",
+        "Sacerdoti",
+        "Ministri di culto"
+      ],
+      "tags": [
+        "religione",
+        "istituzione",
+        "cristianesimo",
+        "autorità"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:clero",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chiesa-cattolica",
+          "label": "chiesa-cattolica"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "setta",
+          "label": "setta"
+        }
+      ]
+    },
+    {
+      "id": "concetti",
+      "type": "list",
+      "label": "Concetti",
+      "description": "Indice completo di tutti i concetti filosofici, sociali e politici analizzati in Sulla Libertà di John Stuart Mill.",
+      "aliases": [
+        "Concept Index",
+        "Key Concepts"
+      ],
+      "tags": [
+        "index",
+        "concepts",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:concetti",
+      "relations": []
+    },
+    {
+      "id": "condanna-di-socrate",
+      "type": "event",
+      "label": "Condanna di Socrate",
+      "description": "La condanna a morte di Socrate (399 a.C.) è per Mill l'esempio paradigmatico dell'ingiustizia commessa dalla maggioranza contro l'individuo che osa dissentire, e il fondamento storico della sua difesa della libertà di pensiero.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "on-liberty:condanna-di-socrate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "crocifissione-di-gesu",
+          "label": "crocifissione-di-gesu"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        }
+      ]
+    },
+    {
+      "id": "coscienza",
+      "type": "concept",
+      "label": "Coscienza",
+      "description": "La coscienza individuale come sede inviolabile del giudizio morale e fondamento della libertà di pensiero nella filosofia di John Stuart Mill.",
+      "aliases": [
+        "Coscienza individuale",
+        "Libertà di coscienza",
+        "Conscience"
+      ],
+      "tags": [
+        "filosofia morale",
+        "diritti individuali",
+        "libertà interiore"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:coscienza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        }
+      ]
+    },
+    {
+      "id": "costantino",
+      "type": "person",
+      "label": "Costantino",
+      "description": "Imperatore romano del IV secolo che adottò il cristianesimo come religione dell'Impero, citato da Mill in contrapposizione a Marco Aurelio.",
+      "aliases": [
+        "Costantino I",
+        "Costantino il Grande"
+      ],
+      "tags": [
+        "imperatore-romano",
+        "cristianesimo",
+        "storia-antica"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:costantino",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marco-aurelio",
+          "label": "marco-aurelio"
+        },
+        {
+          "type": "related",
+          "target": "gesu-cristo",
+          "label": "gesu-cristo"
+        }
+      ]
+    },
+    {
+      "id": "costume",
+      "type": "concept",
+      "label": "\"Costume\"",
+      "description": "\"Custom as the primary vehicle of social tyranny — the unreflective conformity that Mill identifies as the greatest threat to individuality and progress\"",
+      "aliases": [
+        "custom",
+        "tradition",
+        "social convention",
+        "conformity"
+      ],
+      "tags": [
+        "social-concept",
+        "conformity",
+        "social-pressure"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:costume",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        }
+      ]
+    },
+    {
+      "id": "cristianesimo",
+      "type": "organization",
+      "label": "\"Cristianesimo\"",
+      "description": "\"Christianity as a historical institution — Mill's analysis of how the Christian church evolved from a persecuted minority to a persecuting authority, exemplifying the dynamics of institutional power\"",
+      "aliases": [
+        "Christianity",
+        "Christian Church",
+        "cristianità"
+      ],
+      "tags": [
+        "religione",
+        "cristianesimo",
+        "autorità-morale",
+        "persecuzione"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:cristianesimo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gesu-cristo",
+          "label": "gesu-cristo"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "intolleranza"
+        }
+      ]
+    },
+    {
+      "id": "crocifissione-di-gesu",
+      "type": "event",
+      "label": "Crocifissione di Gesù",
+      "description": "Mill accosta la crocifissione di Gesù alla condanna di Socrate come secondo esempio paradigmatico di iniquità giudiziaria commessa contro un benefattore dell'umanità in nome dell'ortodossia dominante.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "on-liberty:crocifissione-di-gesu",
+      "relations": [
+        {
+          "type": "related",
+          "target": "condanna-di-socrate",
+          "label": "condanna-di-socrate"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        }
+      ]
+    },
+    {
+      "id": "david-ricardo",
+      "type": "person",
+      "label": "David Ricardo",
+      "description": "Economista inglese, fondatore della scuola classica di economia politica con Smith e Malthus, citato nella prefazione della biografia di Mill.",
+      "aliases": [
+        "David Ricardo",
+        "Ricardo"
+      ],
+      "tags": [
+        "economista",
+        "scuola-classica",
+        "libero-scambio"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:david-ricardo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "adam-smith",
+          "label": "Adam Smith"
+        },
+        {
+          "type": "related",
+          "target": "thomas-malthus",
+          "label": "Thomas Malthus"
+        },
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "Jeremy Bentham"
+        }
+      ]
+    },
+    {
+      "id": "democrazia",
+      "type": "organization",
+      "label": "Democrazia",
+      "description": "Forma di governo in cui il potere risiede nel popolo e viene esercitato attraverso rappresentanti eletti; in *Sulla Libertà*, Mill ne analizza i pregi ma anche il rischio del \"governo della mediocrità\" e della tirannia della maggioranza.",
+      "aliases": [
+        "Democracy",
+        "Governo democratico",
+        "Governo popolare"
+      ],
+      "tags": [
+        "istituzione",
+        "governo",
+        "politica",
+        "sistema politico"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:democrazia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "repubblica",
+          "label": "repubblica"
+        }
+      ]
+    },
+    {
+      "id": "dialogo-socratico",
+      "type": "concept",
+      "label": "\"Dialogo socratico\"",
+      "description": "\"In Mill's argument for liberty of thought, the Socratic dialectic is the lost art of genuine inquiry — a method of negative discussion that exposes the shallowness of unexamined beliefs and compels the search for grounded understanding\"",
+      "aliases": [
+        "Socratic dialogue",
+        "Socratic method",
+        "dialettica socratica",
+        "Socratic dialectic",
+        "elenchus"
+      ],
+      "tags": [
+        "framework-concept",
+        "freedom-of-discussion",
+        "epistemology",
+        "method"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:dialogo-socratico",
+      "relations": [
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        }
+      ]
+    },
+    {
+      "id": "discussione",
+      "type": "concept",
+      "label": "Discussione",
+      "description": "For Mill, free discussion is the indispensable mechanism for testing opinions, keeping living truth from degenerating into dead dogma, and enabling intellectual progress through the collision of ideas.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:discussione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "libertà di pensiero"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verità"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "comprensione"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "platone"
+        }
+      ]
+    },
+    {
+      "id": "dispotismo",
+      "type": "concept",
+      "label": "\"Dispotismo\"",
+      "description": "\"Despotism as the antithesis of liberty — Mill's analysis of how despotism takes both political and social forms, and the conditions under which it can be legitimate\"",
+      "aliases": [
+        "despotism",
+        "tyranny",
+        "arbitrary rule",
+        "oppression"
+      ],
+      "tags": [
+        "framework-concept",
+        "political-philosophy",
+        "tyranny"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:dispotismo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "dottrina",
+      "type": "concept",
+      "label": "\"Dottrina\"",
+      "description": "\"In Mill's epistemology of public discourse, 'dottrina' denotes any systematic body of beliefs — religious, philosophical, or moral — whose claims to certainty and completeness must be subjected to open challenge if they are to remain living truths rather than dead dogmas\"",
+      "aliases": [
+        "doctrine",
+        "teaching",
+        "body of doctrine",
+        "creed"
+      ],
+      "tags": [
+        "framework-concept",
+        "religion",
+        "freedom-of-discussion",
+        "knowledge"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:dottrina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "fede",
+          "label": "fede"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "certezza",
+          "label": "certezza"
+        }
+      ]
+    },
+    {
+      "id": "dovere",
+      "type": "concept",
+      "label": "Dovere",
+      "description": "Il concetto di dovere come obbligazione morale e fondamento della responsabilità sociale nel pensiero di John Stuart Mill, distinto dall'obbedienza cieca e dalla sottomissione della volontà.",
+      "aliases": [
+        "Duty",
+        "Obbligazione morale",
+        "Responsabilità"
+      ],
+      "tags": [
+        "filosofia morale",
+        "etica",
+        "diritti e doveri"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:dovere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        },
+        {
+          "type": "related",
+          "target": "coscienza",
+          "label": "coscienza"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        }
+      ]
+    },
+    {
+      "id": "dubbio",
+      "type": "concept",
+      "label": "\"Dubbio\"",
+      "description": "\"In Mill's epistemology, doubt is not the enemy of knowledge but its necessary condition — the active questioning that keeps belief alive, prevents dogma from hardening into dead formula, and is the only stable foundation for genuine confidence in one's opinions\"",
+      "aliases": [
+        "doubt",
+        "skepticism",
+        "uncertainty",
+        "questioning",
+        "scetticismo metodologico"
+      ],
+      "tags": [
+        "framework-concept",
+        "epistemology",
+        "freedom-of-discussion"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:dubbio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "certezza",
+          "label": "certezza"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        }
+      ]
+    },
+    {
+      "id": "eccentricita",
+      "type": "concept",
+      "label": "Eccentricità",
+      "description": "La difesa dell'eccentricità come antidoto alla tirannia dell'opinione e indicatore della vitalità intellettuale di una società nel pensiero di John Stuart Mill.",
+      "aliases": [
+        "Eccentricity",
+        "Eccentrico"
+      ],
+      "tags": [
+        "filosofia sociale",
+        "individualità",
+        "conformismo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:eccentricita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "genio",
+          "label": "genio"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        }
+      ]
+    },
+    {
+      "id": "educazione",
+      "type": "concept",
+      "label": "Educazione",
+      "description": "L'educazione come strumento di sviluppo dell'individualità e condizione del progresso sociale nella filosofia di John Stuart Mill, distinta dall'indottrinamento conformista.",
+      "aliases": [
+        "Education",
+        "Istruzione",
+        "Formazione"
+      ],
+      "tags": [
+        "filosofia sociale",
+        "sviluppo",
+        "progresso",
+        "individualità"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:educazione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-stuart-mill",
+          "label": "giovanni-stuart-mill"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "esercito",
+      "type": "organization",
+      "label": "Esercito",
+      "description": "La forza militare organizzata di uno Stato; in *Sulla Libertà*, Mill lo cita come esempio di istituzione che, paradossalmente, può formare cittadini capaci di iniziativa e comando.",
+      "aliases": [
+        "Army",
+        "Forze armate",
+        "Milizia"
+      ],
+      "tags": [
+        "istituzione",
+        "stato",
+        "organizzazione",
+        "disciplina"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:esercito",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "burocrazia",
+          "label": "burocrazia"
+        }
+      ]
+    },
+    {
+      "id": "esperienza",
+      "type": "concept",
+      "label": "Esperienza",
+      "description": "In Mill, l'esperienza è la fonte della conoscenza pratica e il correttivo dell'errore, inseparabile dalla discussione libera.",
+      "aliases": [
+        "Experience"
+      ],
+      "tags": [
+        "epistemologia",
+        "metodo",
+        "conoscenza",
+        "progresso"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:esperienza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        }
+      ]
+    },
+    {
+      "id": "eventi",
+      "type": "list",
+      "label": "Eventi",
+      "description": "Indice completo di tutti gli eventi storici citati in Sulla Libertà di John Stuart Mill come esempi argomentativi.",
+      "aliases": [
+        "Event Index",
+        "Historical Events"
+      ],
+      "tags": [
+        "index",
+        "events",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:eventi",
+      "relations": []
+    },
+    {
+      "id": "fallibilita",
+      "type": "concept",
+      "label": "\"Fallibilità\"",
+      "description": "\"Human fallibility as the epistemic foundation of Mill's argument for liberty — because no one is infallible, no one has the right to silence opposing views\"",
+      "aliases": [
+        "fallibility",
+        "human fallibility",
+        "infallibility",
+        "epistemic humility"
+      ],
+      "tags": [
+        "framework-concept",
+        "epistemology",
+        "free-speech",
+        "argumentation"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:fallibilita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "certezza",
+          "label": "certezza"
+        }
+      ]
+    },
+    {
+      "id": "fazione",
+      "type": "organization",
+      "label": "Fazione",
+      "description": "Gruppo coeso che persegue i propri interessi particolari, spesso in opposizione ad altri gruppi e al bene comune; in *Sulla Libertà*, Mill vede le fazioni come un ostacolo alla libertà di pensiero e al progresso sociale.",
+      "aliases": [
+        "Faction",
+        "Setta politica",
+        "Gruppo fazioso"
+      ],
+      "tags": [
+        "istituzione",
+        "politica",
+        "gruppo sociale",
+        "conformismo"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:fazione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partito",
+          "label": "partito"
+        },
+        {
+          "type": "related",
+          "target": "setta",
+          "label": "setta"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        }
+      ]
+    },
+    {
+      "id": "fede",
+      "type": "concept",
+      "label": "\"Fede\"",
+      "description": "\"In Mill's analysis of belief, 'fede' (faith) is the mode of holding convictions — which can be either a 'living faith' actively engaged with contrary arguments, or a 'dead belief' inherited passively, and the quality of this mode determines whether faith enriches or impoverishes human understanding\"",
+      "aliases": [
+        "faith",
+        "belief",
+        "religious faith",
+        "living faith",
+        "conviction"
+      ],
+      "tags": [
+        "framework-concept",
+        "religion",
+        "knowledge",
+        "freedom-of-discussion"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:fede",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dottrina",
+          "label": "dottrina"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "certezza",
+          "label": "certezza"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        }
+      ]
+    },
+    {
+      "id": "fichte",
+      "type": "person",
+      "label": "Johann Gottlieb Fichte",
+      "description": "Filosofo idealista tedesco del XVIII-XIX secolo, citato da Mill come figura rappresentativa del fermento intellettuale tedesco post-illuminista.",
+      "aliases": [],
+      "tags": [
+        "filosofo",
+        "idealismo-tedesco",
+        "illuminismo"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:fichte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "goethe",
+          "label": "goethe"
+        },
+        {
+          "type": "related",
+          "target": "kant",
+          "label": "kant"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "wilhelm-von-humboldt"
+        }
+      ]
+    },
+    {
+      "id": "front-matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Bibliographic information, title page, and publication details for La libertà\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:front-matter",
+      "relations": []
+    },
+    {
+      "id": "genio",
+      "type": "concept",
+      "label": "Genio",
+      "description": "La figura del genio come forza innovatrice e guida intellettuale nella filosofia di Mill, distinta dal culto dell'eroe e vincolata al principio di libertà.",
+      "aliases": [
+        "Genius",
+        "Uomo di genio",
+        "Ingegno"
+      ],
+      "tags": [
+        "filosofia sociale",
+        "individualità",
+        "progresso"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:genio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "eccentricita",
+          "label": "eccentricita"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        }
+      ]
+    },
+    {
+      "id": "gesu-cristo",
+      "type": "person",
+      "label": "\"Gesù Cristo\"",
+      "description": "\"Jesus Christ as an ethical exemplar in Mill's argument — invoked as a figure whose moral teachings were radical in their time yet incomplete as a complete ethical system\"",
+      "aliases": [
+        "Jesus Christ",
+        "Christ",
+        "Jesus of Nazareth"
+      ],
+      "tags": [
+        "religious-figure",
+        "christianity",
+        "ethics",
+        "example"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:gesu-cristo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "intolleranza"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        }
+      ]
+    },
+    {
+      "id": "gesuita",
+      "type": "organization",
+      "label": "Gesuita",
+      "description": "Membro della Compagnia di Gesù, ordine religioso cattolico noto per la rigida disciplina interna; in *Sulla Libertà*, Mill lo cita come esempio estremo di come un'organizzazione possa assorbire completamente l'individuo.",
+      "aliases": [
+        "Jesuit",
+        "Compagnia di Gesù",
+        "Society of Jesus"
+      ],
+      "tags": [
+        "religione",
+        "ordine religioso",
+        "cattolicesimo",
+        "disciplina"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:gesuita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clero",
+          "label": "clero"
+        },
+        {
+          "type": "related",
+          "target": "chiesa-cattolica",
+          "label": "chiesa-cattolica"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "giovanni-calvino",
+      "type": "person",
+      "label": "\"Giovanni Calvino\"",
+      "description": "\"French theologian and founder of Calvinism — Mill critiques Calvinism as the theological doctrine most hostile to individual spontaneity and self-development\"",
+      "aliases": [
+        "John Calvin",
+        "Calvino"
+      ],
+      "tags": [
+        "riformatore-religioso",
+        "calvinismo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:giovanni-calvino",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "giovanni-stuart-mill",
+      "type": "chapter",
+      "label": "\"Giovanni Stuart Mill\"",
+      "description": "\"Biographical introduction to John Stuart Mill and translator's preface by Arnaldo Agnelli\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:giovanni-stuart-mill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jeremy-bentham",
+          "label": "Bentham"
+        },
+        {
+          "type": "related",
+          "target": "david-ricardo",
+          "label": "Ricardo"
+        },
+        {
+          "type": "related",
+          "target": "parlamento",
+          "label": "Camera"
+        },
+        {
+          "type": "related",
+          "target": "auguste-comte",
+          "label": "Augusto Comte"
+        },
+        {
+          "type": "related",
+          "target": "adam-smith",
+          "label": "Adamo Smith"
+        },
+        {
+          "type": "related",
+          "target": "thomas-malthus",
+          "label": "Malthus"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "Governo"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "Libertà"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "potere"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "Guglielmo di Humboldt"
+        }
+      ]
+    },
+    {
+      "id": "goethe",
+      "type": "person",
+      "label": "\"Goethe\"",
+      "description": "\"Poeta e scrittore tedesco, citato da Mill come simbolo del fermento intellettuale tedesco — la terza grande epoca di liberazione intellettuale europea\"",
+      "aliases": [
+        "Johann Wolfgang von Goethe",
+        "Goethe"
+      ],
+      "tags": [
+        "tedesco",
+        "poeta",
+        "scrittore",
+        "illuminismo",
+        "Sturm und Drang"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:goethe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "Wilhelm von Humboldt"
+        },
+        {
+          "type": "related",
+          "target": "riforma-protestante",
+          "label": "riforma-protestante"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "illuminismo",
+          "label": "illuminismo"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        }
+      ]
+    },
+    {
+      "id": "governo",
+      "type": "organization",
+      "label": "Governo",
+      "description": "Mill traces the evolution of \"government\" from an external enemy to be constrained, to a popular institution whose very representativeness creates new dangers for individual liberty.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:governo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "libertà"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "sviluppare le proprie capacità di scelta"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "conformismo"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "eccellenza individuale"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "democrazia",
+          "label": "democrazia"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "wilhelm-von-humboldt"
+        },
+        {
+          "type": "related",
+          "target": "rivoluzione-francese",
+          "label": "rivoluzione-francese"
+        },
+        {
+          "type": "related",
+          "target": "alexis-de-tocqueville",
+          "label": "alexis-de-tocqueville"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "illuminismo",
+      "type": "event",
+      "label": "Illuminismo",
+      "description": "Mill cita l'Illuminismo (il movimento speculativo della seconda metà del Settecento) come una delle tre epoche brillanti della storia europea in cui il giogo dell'autorità intellettuale fu temporaneamente spezzato.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "on-liberty:illuminismo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "riforma-protestante",
+          "label": "riforma-protestante"
+        },
+        {
+          "type": "related",
+          "target": "rivoluzione-francese",
+          "label": "rivoluzione-francese"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        }
+      ]
+    },
+    {
+      "id": "impero-romano",
+      "type": "organization",
+      "label": "\"Impero Romano\"",
+      "description": "\"The Roman Empire as the political context for early Christian persecution — Mill references the Empire to illustrate the relationship between political and religious authority\"",
+      "aliases": [
+        "Roman Empire",
+        "Roma antica"
+      ],
+      "tags": [
+        "impero-romano",
+        "antichità"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:impero-romano",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "individualita",
+      "type": "concept",
+      "label": "\"Individualità\"",
+      "description": "\"Individuality as an essential element of well-being — the free development of one's own character, faculties, and life plan\"",
+      "aliases": [
+        "individuality",
+        "individual development",
+        "self-development"
+      ],
+      "tags": [
+        "core-concept",
+        "liberty",
+        "self-development",
+        "progress"
+      ],
+      "quality": "featured",
+      "source_ref": "on-liberty:individualita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        }
+      ]
+    },
+    {
+      "id": "intolleranza",
+      "type": "concept",
+      "label": "\"Intolleranza\"",
+      "description": "\"Intolerance as the natural human disposition that liberty must combat — Mill's psychological analysis of why people seek to impose their views on others\"",
+      "aliases": [
+        "intolerance",
+        "persecution",
+        "odium theologicum",
+        "bigotry"
+      ],
+      "tags": [
+        "social-concept",
+        "intolerance",
+        "persecution",
+        "religion"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:intolleranza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        }
+      ]
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "type": "person",
+      "label": "\"Jean-Jacques Rousseau\"",
+      "description": "\"Genevan philosopher — a foundational figure in the tradition of political thought about liberty, the general will, and the relationship between individual and society that Mill both inherits and critiques\"",
+      "aliases": [
+        "Rousseau",
+        "Jean-Jacques Rousseau"
+      ],
+      "tags": [
+        "illuminismo",
+        "contratto-sociale"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:jean-jacques-rousseau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "jeremy-bentham",
+      "type": "person",
+      "label": "\"Jeremy Bentham\"",
+      "description": "\"English philosopher and founder of utilitarianism — Mill inherits Bentham's utilitarian framework but recasts it to emphasize qualitative distinctions and permanent human interests\"",
+      "aliases": [
+        "Bentham",
+        "Jeremy Bentham"
+      ],
+      "tags": [
+        "filosofo",
+        "utilitarista",
+        "riformatore",
+        "giurisprudenza"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:jeremy-bentham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "utile",
+          "label": "utile"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "john-knox",
+      "type": "person",
+      "label": "\"John Knox\"",
+      "description": "\"Scottish reformer and founder of Presbyterianism — Mill uses Knox as the paradigmatic Calvinist, contrasting his virtues with the narrowness of the Calvinist ideal of human life\"",
+      "aliases": [
+        "Giovanni Knox",
+        "John Knox"
+      ],
+      "tags": [
+        "riformatore-religioso",
+        "calvinismo",
+        "scozia"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:john-knox",
+      "relations": [
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "spontaneita",
+          "label": "spontaneita"
+        },
+        {
+          "type": "related",
+          "target": "pericle",
+          "label": "pericle"
+        }
+      ]
+    },
+    {
+      "id": "johnson",
+      "type": "person",
+      "label": "Samuel Johnson",
+      "description": "Scrittore e critico letterario inglese del XVIII secolo, citato da Mill per la sua opinione sulla persecuzione religiosa come prova della verità.",
+      "aliases": [
+        "dottor Johnson"
+      ],
+      "tags": [
+        "scrittore",
+        "critico-letterario",
+        "moralista"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:johnson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        },
+        {
+          "type": "related",
+          "target": "gesu-cristo",
+          "label": "gesu-cristo"
+        }
+      ]
+    },
+    {
+      "id": "kant",
+      "type": "person",
+      "label": "\"Immanuel Kant\"",
+      "description": "\"Filosofo tedesco, citato da Mill come esempio di esame filosofico obbligatorio nelle applicazioni del principio di libertà\"",
+      "aliases": [
+        "Kant",
+        "Immanuel Kant"
+      ],
+      "tags": [
+        "filosofo",
+        "tedesco",
+        "illuminismo"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:kant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "locke",
+          "label": "John Locke"
+        },
+        {
+          "type": "related",
+          "target": "educazione",
+          "label": "educazione"
+        },
+        {
+          "type": "related",
+          "target": "goethe",
+          "label": "Goethe"
+        },
+        {
+          "type": "related",
+          "target": "dialogo-socratico",
+          "label": "dialogo-socratico"
+        }
+      ]
+    },
+    {
+      "id": "liberta",
+      "type": "concept",
+      "label": "\"Libertà\"",
+      "description": "\"Central concept in Mill's Sulla Libertà — the nature and limits of the power that society can legitimately exercise over the individual\"",
+      "aliases": [
+        "liberty",
+        "freedom",
+        "civil liberty",
+        "social liberty",
+        "libertà individuale"
+      ],
+      "tags": [
+        "core-concept",
+        "political-philosophy",
+        "liberalismo"
+      ],
+      "quality": "featured",
+      "source_ref": "on-liberty:liberta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "utile",
+          "label": "utile"
+        },
+        {
+          "type": "related",
+          "target": "schiavitu-intellettuale",
+          "label": "schiavitu-intellettuale"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "platone"
+        }
+      ]
+    },
+    {
+      "id": "liberta-di-pensiero",
+      "type": "concept",
+      "label": "\"Libertà di pensiero\"",
+      "description": "\"The first and most fundamental branch of human liberty in Mill's framework — encompassing freedom of thought, opinion, sentiment, and their inseparable expression in speech and press\"",
+      "aliases": [
+        "freedom of thought",
+        "liberty of thought",
+        "libertà di opinione",
+        "freedom of opinion",
+        "libertà di coscienza"
+      ],
+      "tags": [
+        "core-concept",
+        "freedom-of-discussion",
+        "intellectual-liberty"
+      ],
+      "quality": "featured",
+      "source_ref": "on-liberty:liberta-di-pensiero",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        }
+      ]
+    },
+    {
+      "id": "locke",
+      "type": "person",
+      "label": "John Locke",
+      "description": "Filosofo inglese del XVII secolo, fondatore dell'empirismo e del liberalismo classico, citato da Mill come figura di riferimento filosofico.",
+      "aliases": [],
+      "tags": [
+        "filosofo",
+        "empirismo",
+        "liberalismo"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:locke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "kant",
+          "label": "kant"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "wilhelm-von-humboldt"
+        }
+      ]
+    },
+    {
+      "id": "maggioranza",
+      "type": "concept",
+      "label": "\"Maggioranza\"",
+      "description": "\"The majority as the new sovereign in democratic ages — Mill's analysis of how majority rule becomes majority tyranny when unchecked by the harm principle\"",
+      "aliases": [
+        "majority",
+        "tyranny of the majority",
+        "majority rule",
+        "public opinion"
+      ],
+      "tags": [
+        "social-concept",
+        "democracy",
+        "tyranny",
+        "public-opinion"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:maggioranza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "marco-aurelio",
+      "type": "person",
+      "label": "\"Marco Aurelio\"",
+      "description": "\"Roman emperor and Stoic philosopher — Mill's example of how a wise and virtuous ruler nevertheless persecuted Christianity, illustrating the limits of individual virtue against institutional prejudice\"",
+      "aliases": [
+        "Marcus Aurelius",
+        "Marcus Aurelius Antoninus"
+      ],
+      "tags": [
+        "imperatore-romano",
+        "filosofo",
+        "stoicismo",
+        "persecuzione"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:marco-aurelio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "intolleranza"
+        },
+        {
+          "type": "related",
+          "target": "certezza",
+          "label": "certezza"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "maria",
+      "type": "person",
+      "label": "Maria Tudor",
+      "description": "Regina d'Inghilterra del XVI secolo, citata da Mill come esempio di come la persecuzione cattolica avrebbe potuto estirpare il protestantesimo inglese.",
+      "aliases": [
+        "Maria I d'Inghilterra",
+        "Bloody Mary",
+        "regina Maria"
+      ],
+      "tags": [
+        "monarca-inglese",
+        "controriforma",
+        "persecuzione-religiosa"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:maria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "regina-elisabetta",
+          "label": "regina-elisabetta"
+        },
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        }
+      ]
+    },
+    {
+      "id": "martin-lutero",
+      "type": "person",
+      "label": "\"Martin Lutero\"",
+      "description": "\"German theologian and initiator of the Protestant Reformation — Mill references Luther in the context of religious authority and the history of toleration\"",
+      "aliases": [
+        "Martin Luther",
+        "Lutero"
+      ],
+      "tags": [
+        "riformatore-religioso",
+        "protestantesimo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:martin-lutero",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "morale",
+      "type": "concept",
+      "label": "\"Morale\"",
+      "description": "\"In Mill's analysis, the domain of rules and sentiments governing human conduct — a sphere where public opinion exerts coercive pressure often more powerful than law, and where the boundaries between individual liberty and social control are most contested\"",
+      "aliases": [
+        "morality",
+        "moral",
+        "moral philosophy",
+        "ethics"
+      ],
+      "tags": [
+        "framework-concept",
+        "social-coercion",
+        "religion"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:morale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        }
+      ]
+    },
+    {
+      "id": "newton",
+      "type": "person",
+      "label": "Isaac Newton",
+      "description": "Fisico e matematico inglese del XVII secolo, citato da Mill come esempio di verità scientifica consolidata ma sempre aperta alla verifica critica.",
+      "aliases": [],
+      "tags": [
+        "scienziato",
+        "fisica",
+        "rivoluzione-scientifica"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:newton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        }
+      ]
+    },
+    {
+      "id": "note",
+      "type": "chapter",
+      "label": "\"Note\"",
+      "description": "\"Endnotes and references for La libertà\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "on-liberty:note",
+      "relations": [
+        {
+          "type": "related",
+          "target": "persecuzione-dei-cristiani",
+          "label": "persecuzioni"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "Governo"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "Guglielmo Humboldt"
+        }
+      ]
+    },
+    {
+      "id": "opinione",
+      "type": "concept",
+      "label": "Opinione",
+      "description": "In Mill, the concept of opinion — both individual conviction and collective public opinion — is central to the argument for liberty of thought and discussion, as the mechanism by which truth is tested and society exerts its moral pressure.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:opinione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verità"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "tirannia sociale"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "libertà di pensiero"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "potere dell'opinione collettiva"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "dogma morto"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "schiavitu-intellettuale",
+          "label": "schiavitu-intellettuale"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "platone"
+        }
+      ]
+    },
+    {
+      "id": "opinione-pubblica",
+      "type": "concept",
+      "label": "\"Opinione pubblica\"",
+      "description": "\"Public opinion as the modern instrument of social tyranny — Mill's analysis of how collective opinion enforces conformity without legal coercion\"",
+      "aliases": [
+        "public opinion",
+        "social opinion",
+        "collective opinion"
+      ],
+      "tags": [
+        "social-concept",
+        "public-opinion",
+        "conformity",
+        "majority"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:opinione-pubblica",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "organizzazioni",
+      "type": "list",
+      "label": "Organizzazioni",
+      "description": "Indice completo di tutte le organizzazioni, istituzioni e gruppi sociali citati in Sulla Libertà di John Stuart Mill.",
+      "aliases": [
+        "Organization Index",
+        "Institutions"
+      ],
+      "tags": [
+        "index",
+        "organizations",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:organizzazioni",
+      "relations": []
+    },
+    {
+      "id": "originalita",
+      "type": "concept",
+      "label": "\"Originalità\"",
+      "description": "\"Originality as the expression of individuality in thought and action — Mill's defense of eccentricity and genius against the tyranny of conformity\"",
+      "aliases": [
+        "originality",
+        "genius",
+        "creativity",
+        "eccentricity"
+      ],
+      "tags": [
+        "social-concept",
+        "genius",
+        "creativity",
+        "individuality"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:originalita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "genio",
+          "label": "genio"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "eccentricita",
+          "label": "eccentricita"
+        }
+      ]
+    },
+    {
+      "id": "pagine-in-evidenza",
+      "type": "list",
+      "label": "Pagine in Evidenza",
+      "description": "Raccolta delle pagine di qualità più elevata (featured e premium) nella wiki di Sulla Libertà.",
+      "aliases": [
+        "Featured Pages",
+        "In Evidence"
+      ],
+      "tags": [
+        "index",
+        "featured",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:pagine-in-evidenza",
+      "relations": []
+    },
+    {
+      "id": "parlamento",
+      "type": "organization",
+      "label": "Parlamento",
+      "description": "L'assemblea legislativa rappresentativa che emana le leggi e controlla l'esecutivo; in *Sulla Libertà*, Mill lo cita nel contesto del rapporto tra governo centrale e autonomie locali.",
+      "aliases": [
+        "Parliament",
+        "Assemblea legislativa",
+        "Camera"
+      ],
+      "tags": [
+        "istituzione",
+        "governo",
+        "politica",
+        "legislazione"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:parlamento",
+      "relations": [
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "democrazia",
+          "label": "democrazia"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        }
+      ]
+    },
+    {
+      "id": "partito",
+      "type": "organization",
+      "label": "Partito",
+      "description": "Gruppo organizzato che compete per il potere politico e rappresenta interessi e opinioni specifiche nella società; in *Sulla Libertà*, Mill osserva come i partiti e le sette tendano a imporre conformità ai propri membri.",
+      "aliases": [
+        "Partito politico",
+        "Party",
+        "Fazione politica"
+      ],
+      "tags": [
+        "istituzione",
+        "politica",
+        "governo",
+        "movimento"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:partito",
+      "relations": [
+        {
+          "type": "related",
+          "target": "democrazia",
+          "label": "democrazia"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "setta",
+          "label": "setta"
+        },
+        {
+          "type": "related",
+          "target": "fazione",
+          "label": "fazione"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        }
+      ]
+    },
+    {
+      "id": "pericle",
+      "type": "person",
+      "label": "\"Pericle\"",
+      "description": "\"Athenian statesman — Mill holds Pericles as the ideal balanced character, combining pagan self-development with self-mastery, superior to both Knox and Alcibiades\"",
+      "aliases": [
+        "Pericles"
+      ],
+      "tags": [
+        "statista",
+        "atene",
+        "democrazia"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:pericle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "persecuzione",
+      "type": "concept",
+      "label": "Persecuzione",
+      "description": "In Mill, la persecuzione è lo strumento storico di soppressione delle opinioni; la sua efficacia pratica smentisce il mito che la verità trionfi sempre da sola.",
+      "aliases": [
+        "Persecution"
+      ],
+      "tags": [
+        "liberta-di-pensiero",
+        "tolleranza",
+        "storia",
+        "verita"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:persecuzione",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "protestantesimo",
+          "label": "protestantesimo"
+        }
+      ]
+    },
+    {
+      "id": "persecuzione-dei-cristiani",
+      "type": "event",
+      "label": "\"Persecuzione dei cristiani\"",
+      "description": "\"The persecution of early Christians in the Roman Empire — Mill's primary historical example of how sincere moral conviction enables the suppression of dissenting beliefs\"",
+      "aliases": [
+        "persecution of Christians",
+        "Christian persecution",
+        "persecuzioni"
+      ],
+      "tags": [
+        "persecuzione",
+        "cristianesimo",
+        "impero-romano",
+        "intoleranza"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:persecuzione-dei-cristiani",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marco-aurelio",
+          "label": "marco-aurelio"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "condanna-di-socrate",
+          "label": "condanna-di-socrate"
+        },
+        {
+          "type": "related",
+          "target": "caso-pooley",
+          "label": "caso-pooley"
+        }
+      ]
+    },
+    {
+      "id": "personaggi",
+      "type": "list",
+      "label": "Personaggi",
+      "description": "Indice completo di tutte le figure storiche citate in Sulla Libertà di John Stuart Mill.",
+      "aliases": [
+        "Person Index",
+        "Historical Figures"
+      ],
+      "tags": [
+        "index",
+        "people",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:personaggi",
+      "relations": []
+    },
+    {
+      "id": "platone",
+      "type": "person",
+      "label": "Platone",
+      "description": "Plato is invoked by Mill as the literary source of the Socratic dialectic — the method of adversarial questioning that exemplifies the spirit of free discussion Mill champions throughout On Liberty.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:platone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "Socrate"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "aristotele",
+          "label": "aristotele"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "principio-del-danno",
+      "type": "concept",
+      "label": "\"Principio del danno\"",
+      "description": "\"Mill's harm principle — the sole legitimate reason for society to interfere with individual liberty is self-protection\"",
+      "aliases": [
+        "harm principle",
+        "principio del danno",
+        "self-protection principle"
+      ],
+      "tags": [
+        "framework-concept",
+        "liberty",
+        "legal-philosophy",
+        "harm"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:principio-del-danno",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        }
+      ]
+    },
+    {
+      "id": "progresso",
+      "type": "concept",
+      "label": "\"Progresso\"",
+      "description": "\"Progress as the ultimate utilitarian justification for liberty — human beings as progressive beings whose improvement depends on freedom\"",
+      "aliases": [
+        "progress",
+        "human development",
+        "improvement",
+        "social progress"
+      ],
+      "tags": [
+        "framework-concept",
+        "utilitarianism",
+        "development",
+        "meliorism"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:progresso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "utile",
+          "label": "utile"
+        }
+      ]
+    },
+    {
+      "id": "protestantesimo",
+      "type": "organization",
+      "label": "Protestantesimo",
+      "description": "Il protestantesimo come movimento religioso che, nella lettura di Mill, contribuì storicamente alla libertà di pensiero pur ricadendo spesso nello spirito settario che aveva combattuto.",
+      "aliases": [
+        "Protestantism",
+        "Chiese protestanti",
+        "Riforma protestante"
+      ],
+      "tags": [
+        "religione",
+        "cristianesimo",
+        "riforma",
+        "libertà di coscienza"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:protestantesimo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "riforma-protestante",
+          "label": "riforma-protestante"
+        },
+        {
+          "type": "related",
+          "target": "chiesa-cattolica",
+          "label": "chiesa-cattolica"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "setta",
+          "label": "setta"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        }
+      ]
+    },
+    {
+      "id": "puritanesimo",
+      "type": "organization",
+      "label": "\"Puritanesimo\"",
+      "description": "\"English Puritanism as the cultural force Mill identifies with the 'narrow theory of life' — the Calvinist impulse to regulate conduct that persists even when theological foundations wane\"",
+      "aliases": [
+        "Puritanism",
+        "puritano"
+      ],
+      "tags": [
+        "puritanesimo",
+        "calvinismo",
+        "inghilterra"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:puritanesimo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "regina-elisabetta",
+      "type": "person",
+      "label": "Regina Elisabetta I",
+      "description": "Regina d'Inghilterra del XVI secolo, citata da Mill come fattore storico che impedì l'estirpazione del protestantesimo in Inghilterra.",
+      "aliases": [
+        "Elisabetta I",
+        "Elisabetta Tudor"
+      ],
+      "tags": [
+        "monarca-inglese",
+        "riforma-protestante",
+        "storia-moderna"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:regina-elisabetta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        }
+      ]
+    },
+    {
+      "id": "repubblica",
+      "type": "organization",
+      "label": "Repubblica",
+      "description": "Forma di governo in cui il capo dello Stato non è un monarca e il potere deriva dal popolo; in *Sulla Libertà*, Mill cita la repubblica puritana di Cromwell come esempio di governo che soppresse i divertimenti popolari in nome della virtù.",
+      "aliases": [
+        "Republic",
+        "Governo repubblicano",
+        "Commonwealth"
+      ],
+      "tags": [
+        "istituzione",
+        "governo",
+        "politica",
+        "stato"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:repubblica",
+      "relations": [
+        {
+          "type": "related",
+          "target": "democrazia",
+          "label": "democrazia"
+        },
+        {
+          "type": "related",
+          "target": "puritanesimo",
+          "label": "puritanesimo"
+        },
+        {
+          "type": "related",
+          "target": "tirannia-della-maggioranza",
+          "label": "tirannia-della-maggioranza"
+        }
+      ]
+    },
+    {
+      "id": "riforma-protestante",
+      "type": "event",
+      "label": "\"Riforma protestante\"",
+      "description": "\"The Protestant Reformation as a pivotal moment in the history of religious liberty — Mill's analysis of how the Reformation transformed the struggle between authority and individual conscience\"",
+      "aliases": [
+        "Protestant Reformation",
+        "Reformation",
+        "Riforma"
+      ],
+      "tags": [
+        "riforma-religiosa",
+        "protestantesimo",
+        "cristianesimo",
+        "libertà-religiosa"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:riforma-protestante",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        },
+        {
+          "type": "related",
+          "target": "giovanni-calvino",
+          "label": "giovanni-calvino"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        }
+      ]
+    },
+    {
+      "id": "rivoluzione-francese",
+      "type": "event",
+      "label": "Rivoluzione francese",
+      "description": "Mill cites the French Revolution as a cautionary example of how popular sovereignty, unchecked by the principle of individual liberty, can produce new forms of tyranny rather than genuine freedom.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:rivoluzione-francese",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "democrazia",
+          "label": "democrazia"
+        },
+        {
+          "type": "related",
+          "target": "alexis-de-tocqueville",
+          "label": "alexis-de-tocqueville"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        }
+      ]
+    },
+    {
+      "id": "san-paolo",
+      "type": "person",
+      "label": "\"San Paolo\"",
+      "description": "\"Apostolo cristiano citato due volte da Mill — come ex persecutore e come teologo che cercò un accomodamento tra morale cristiana e pagana\"",
+      "aliases": [
+        "Paolo di Tarso",
+        "San Paolo",
+        "Apostolo Paolo",
+        "Saul"
+      ],
+      "tags": [
+        "cristiano",
+        "apostolo",
+        "teologo",
+        "morale"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:san-paolo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gesu-cristo",
+          "label": "Gesù Cristo"
+        },
+        {
+          "type": "related",
+          "target": "marco-aurelio",
+          "label": "Marco Aurelio"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "Socrate"
+        }
+      ]
+    },
+    {
+      "id": "savonarola",
+      "type": "person",
+      "label": "Girolamo Savonarola",
+      "description": "Frate domenicano e riformatore religioso fiorentino del XV secolo, citato da Mill come esempio di verità repressa dalla persecuzione prima della Riforma luterana.",
+      "aliases": [],
+      "tags": [
+        "riformatore-religioso",
+        "domenicano",
+        "martire"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:savonarola",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martin-lutero",
+          "label": "martin-lutero"
+        },
+        {
+          "type": "related",
+          "target": "arnaldo-da-brescia",
+          "label": "arnaldo-da-brescia"
+        },
+        {
+          "type": "related",
+          "target": "john-knox",
+          "label": "john-knox"
+        }
+      ]
+    },
+    {
+      "id": "schiavitu-intellettuale",
+      "type": "event",
+      "label": "Schiavitù intellettuale",
+      "description": "Mill uses the metaphor of intellectual slavery to describe epochs of enforced conformity — notably under Christian orthodoxy — where free inquiry is suppressed and minds are shaped to a single pattern.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:schiavitu-intellettuale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "libertà di pensiero"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "scelta autonoma del proprio piano di vita"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "tirannia politica"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "rivoluzione-francese",
+          "label": "rivoluzione-francese"
+        },
+        {
+          "type": "related",
+          "target": "platone",
+          "label": "platone"
+        }
+      ]
+    },
+    {
+      "id": "setta",
+      "type": "concept",
+      "label": "Setta",
+      "description": "La setta come forma di chiusura intellettuale e lo spirito settario come ostacolo alla libertà di pensiero nel pensiero di John Stuart Mill.",
+      "aliases": [
+        "Sect",
+        "Spirito settario",
+        "Settarismo"
+      ],
+      "tags": [
+        "filosofia sociale",
+        "religione",
+        "conformismo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:setta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "chiesa-cattolica",
+          "label": "chiesa-cattolica"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "socrate",
+      "type": "person",
+      "label": "\"Socrate\"",
+      "description": "\"Socrates as the paradigmatic martyr for free thought — Mill uses his execution as the primary historical example of the suppression of truth by intolerant authority\"",
+      "aliases": [
+        "Socrates",
+        "Sokrates"
+      ],
+      "tags": [
+        "filosofo",
+        "greco-antico",
+        "liberta-di-pensiero",
+        "martire-intellettuale"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:socrate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "gesu-cristo",
+          "label": "gesu-cristo"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "intolleranza"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        }
+      ]
+    },
+    {
+      "id": "spontaneita",
+      "type": "concept",
+      "label": "\"Spontaneità\"",
+      "description": "\"Spontaneity as the natural human impulse toward self-expression — Mill's defense of spontaneous development against the Calvinist ideal of obedience and self-suppression\"",
+      "aliases": [
+        "spontaneity",
+        "natural impulse",
+        "spontaneous development"
+      ],
+      "tags": [
+        "social-concept",
+        "human-nature",
+        "self-development",
+        "impulse"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:spontaneita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "calvinismo",
+          "label": "calvinismo"
+        }
+      ]
+    },
+    {
+      "id": "stato",
+      "type": "organization",
+      "label": "Stato",
+      "description": "For Mill, the State is the primary institutional actor whose legitimate sphere of action must be strictly delimited to protect individual liberty — a theme that dominates the final chapter of On Liberty.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:stato",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "libertà"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "controllo sociale"
+        },
+        {
+          "type": "related",
+          "target": "discussione",
+          "label": "discussione pubblica"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "educazione",
+          "label": "educazione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "wilhelm-von-humboldt",
+          "label": "wilhelm-von-humboldt"
+        },
+        {
+          "type": "related",
+          "target": "rivoluzione-francese",
+          "label": "rivoluzione-francese"
+        },
+        {
+          "type": "related",
+          "target": "cristianesimo",
+          "label": "cristianesimo"
+        }
+      ]
+    },
+    {
+      "id": "sviluppo",
+      "type": "concept",
+      "label": "\"Sviluppo\"",
+      "description": "\"In Mill's philosophy, 'sviluppo' (development) is the essential human project — the unfolding of individual capacities through free choice and self-directed action, which constitutes both the highest personal good and the engine of collective progress\"",
+      "aliases": [
+        "development",
+        "human development",
+        "growth",
+        "self-development",
+        "self-cultivation"
+      ],
+      "tags": [
+        "core-concept",
+        "individuality",
+        "progress",
+        "human-flourishing"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:sviluppo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "carattere",
+          "label": "carattere"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "spontaneita",
+          "label": "spontaneita"
+        }
+      ]
+    },
+    {
+      "id": "thomas-malthus",
+      "type": "person",
+      "label": "Thomas Malthus",
+      "description": "Economista e demografo inglese, autore del Saggio sul principio di popolazione, citato nella prefazione di Sulla Libertà come fondatore della scuola classica.",
+      "aliases": [
+        "Thomas Malthus",
+        "Thomas Robert Malthus",
+        "Malthus"
+      ],
+      "tags": [
+        "economista",
+        "demografo",
+        "scuola-classica"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:thomas-malthus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "david-ricardo",
+          "label": "David Ricardo"
+        },
+        {
+          "type": "related",
+          "target": "adam-smith",
+          "label": "Adam Smith"
+        }
+      ]
+    },
+    {
+      "id": "tirannia-della-maggioranza",
+      "type": "concept",
+      "label": "\"Tirannia della maggioranza\"",
+      "description": "\"The central problem Mill's harm principle is designed to solve — the tendency of democratic societies to enforce the will of the majority not only through law but through the more insidious mechanisms of social opinion and custom\"",
+      "aliases": [
+        "tyranny of the majority",
+        "social tyranny",
+        "majority tyranny",
+        "tirannia sociale",
+        "tirannia dell'opinione"
+      ],
+      "tags": [
+        "core-concept",
+        "social-coercion",
+        "political-philosophy"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:tirannia-della-maggioranza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        },
+        {
+          "type": "related",
+          "target": "maggioranza",
+          "label": "maggioranza"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "eccentricita",
+          "label": "eccentricita"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "autorita",
+          "label": "autorita"
+        }
+      ]
+    },
+    {
+      "id": "tolleranza",
+      "type": "concept",
+      "label": "\"Tolleranza\"",
+      "description": "\"Toleration as the historically contingent but philosophically grounded acceptance of divergent opinions — Mill's analysis of its limits and foundations\"",
+      "aliases": [
+        "toleration",
+        "tolerance",
+        "religious tolerance"
+      ],
+      "tags": [
+        "social-concept",
+        "free-speech",
+        "religion",
+        "liberalismo"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:tolleranza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "verita",
+          "label": "verita"
+        },
+        {
+          "type": "related",
+          "target": "intolleranza",
+          "label": "intolleranza"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        }
+      ]
+    },
+    {
+      "id": "tribunale",
+      "type": "organization",
+      "label": "Tribunale",
+      "description": "Istituzione giudiziaria incaricata di giudicare e punire i trasgressori delle leggi; in *Sulla Libertà*, simbolo dell'autorità legale che può sia proteggere sia opprimere la libertà individuale.",
+      "aliases": [
+        "Court",
+        "Corte"
+      ],
+      "tags": [
+        "istituzione",
+        "giustizia",
+        "autorità legale"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:tribunale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "socrate",
+          "label": "socrate"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "opinione-pubblica",
+          "label": "opinione-pubblica"
+        },
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        }
+      ]
+    },
+    {
+      "id": "universita",
+      "type": "organization",
+      "label": "Università",
+      "description": "Istituzione di istruzione superiore e ricerca; in *Sulla Libertà*, Mill la cita come esempio di servizio che può e dovrebbe essere fornito dall'iniziativa privata, non monopolizzato dallo Stato.",
+      "aliases": [
+        "University",
+        "Istituzione accademica"
+      ],
+      "tags": [
+        "istituzione",
+        "educazione",
+        "stato",
+        "cultura"
+      ],
+      "quality": "basic",
+      "source_ref": "on-liberty:universita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "educazione",
+          "label": "educazione"
+        },
+        {
+          "type": "related",
+          "target": "burocrazia",
+          "label": "burocrazia"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        }
+      ]
+    },
+    {
+      "id": "utile",
+      "type": "concept",
+      "label": "Utile",
+      "description": "Il principio di utilità come soluzione suprema di ogni questione morale nel pensiero di John Stuart Mill, inteso nella sua accezione più vasta e progressiva.",
+      "aliases": [
+        "Utility",
+        "Utilità",
+        "Principio di utilità"
+      ],
+      "tags": [
+        "filosofia morale",
+        "etica",
+        "principi"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:utile",
+      "relations": [
+        {
+          "type": "related",
+          "target": "principio-del-danno",
+          "label": "principio-del-danno"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "opinione",
+          "label": "opinione"
+        }
+      ]
+    },
+    {
+      "id": "verita",
+      "type": "concept",
+      "label": "\"Verità\"",
+      "description": "\"Truth as the epistemic goal that justifies freedom of thought and discussion — Mill's argument that even certain truth benefits from challenge\"",
+      "aliases": [
+        "truth",
+        "verity",
+        "correctness"
+      ],
+      "tags": [
+        "framework-concept",
+        "epistemology",
+        "free-speech",
+        "fallibilism"
+      ],
+      "quality": "standard",
+      "source_ref": "on-liberty:verita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "fallibilita",
+          "label": "fallibilita"
+        },
+        {
+          "type": "related",
+          "target": "tolleranza",
+          "label": "tolleranza"
+        },
+        {
+          "type": "related",
+          "target": "progresso",
+          "label": "progresso"
+        },
+        {
+          "type": "related",
+          "target": "dispotismo",
+          "label": "dispotismo"
+        }
+      ]
+    },
+    {
+      "id": "wilhelm-von-humboldt",
+      "type": "person",
+      "label": "Wilhelm von Humboldt",
+      "description": "Prussian philosopher and statesman whose doctrine of individual development (\"Bildung\") as the end of man is cited by Mill as a foundational authority for the principle of liberty.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "on-liberty:wilhelm-von-humboldt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "individualita",
+          "label": "individualita"
+        },
+        {
+          "type": "related",
+          "target": "originalita",
+          "label": "originalita"
+        },
+        {
+          "type": "related",
+          "target": "costume",
+          "label": "costume"
+        },
+        {
+          "type": "related",
+          "target": "genio",
+          "label": "genio"
+        },
+        {
+          "type": "related",
+          "target": "governo",
+          "label": "governo"
+        },
+        {
+          "type": "related",
+          "target": "liberta",
+          "label": "liberta"
+        },
+        {
+          "type": "related",
+          "target": "alexis-de-tocqueville",
+          "label": "alexis-de-tocqueville"
+        },
+        {
+          "type": "related",
+          "target": "liberta-di-pensiero",
+          "label": "liberta-di-pensiero"
+        },
+        {
+          "type": "related",
+          "target": "stato",
+          "label": "stato"
+        }
+      ]
+    }
+  ]
+}

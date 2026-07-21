@@ -1,0 +1,428 @@
+---
+description: "Chapter 13 of Point Counter Point by Aldous Huxley"
+id: chapter-13
+label: "Chapter 13"
+tags: ["chapter"]
+type: chapter
+---
+
+# XIII
+
+
+## XIII
+
+[013-001] [[walter-bidlake|Walter]] travelled down to Fleet Street feeling not exactly happy, but at least calm—calm with the knowledge that everything was now settled. Yes, everything had been settled; everything—for in the course of last night’s emotional upheaval, everything had come to the surface. To begin with, he was never going to see Lucy again; that was definitely decided and promised, for his own good as well as for Marjorie’s. Next, he was going to spend all his evenings with Marjorie. And finally, he was going to ask Burlap for more money. Everything was settled. The very weather seemed to know it. It was a day of white insistent mist, so intrinsically calm that all the noises of [[london|London]] seemed an irrelevance. The traffic roared and hurried, but somehow without touching the essential stillness and silence of the day. Everything was settled; the world was starting afresh—not very exultantly, perhaps, not at all brilliantly, but with resignation, with a determined calm that nothing could disturb.
+
+[013-002] Remembering the incident of the previous evening, Walter had expected to be coldly received at the office. But on the contrary, Burlap was in one of his most genial moods. He, too, remembered last night and was anxious that Walter should forget it. He called Walter “old man” and squeezed his arm affectionately, looking up at him from his chair with those eyes that expressed nothing, but were just holes into the darkness inside his skull. His mouth, meanwhile, charmingly and subtly smiled. Walter returned the “old man” and the smile, but with a painful consciousness of insincerity. Burlap always had that effect on him; in his presence, Walter never felt quite honest or genuine. It was a most uncomfortable sensation. With Burlap he was always, in some obscure fashion, a liar and a comedian. And at the same time, all that he said, even when he was speaking his innermost convictions, became a sort of falsehood.
+
+[013-003] “I like your article on Rimbaud,” Burlap declared, still pressing Walter’s arm, still smiling up at him from his tilted swivel chair.
+
+[013-004] “I’m glad,” said Walter, feeling uncomfortably that the remark wasn’t really addressed to him, but to some part of Burlap’s own mind, which had whispered, “You ought to say something nice about his article,” and was having its demands duly satisfied by another part of Burlap’s mind.
+
+[013-005] “What a man!” exclaimed Burlap. “That was someone who believed in Life, if you like!”
+
+[013-006] Ever since Burlap had taken over the editorship, the leaders of the *Literary World* had almost weekly proclaimed the necessity of believing in Life. Burlap’s belief in Life was one of the things Walter found most disturbing. What did the words mean? Even now he hadn’t the faintest idea. Burlap had never explained. You had to understand intuitively; if you didn’t you were as good as damned. Walter supposed that he was among the damned. He was never likely to forget his first interview with his future chief. “I hear you’re in want of an assistant editor,” he had shyly begun. Burlap nodded. “Yes, I am.” And after an enormous and horrible silence, he suddenly looked up with his blank eyes and asked: “Do you believe in Life?” Walter blushed to the roots of his hair and said, “Yes.” It was the only possible answer. There was another desert of speechlessness and then Burlap looked up again. “Are you a virgin?” he enquired. Walter blushed yet more violently, hesitated, and at last shook his head. It was only later that he discovered, from one of Burlap’s own articles, that the man had been modelling his behaviour on that of Tolstoy—“going straight to the great, simple, fundamental things,” as Burlap himself described the old Salvationist’s soulful impertinences.
+
+[013-007] “Yes, Rimbaud certainly believed in Life,” Walter acquiesced feebly, feeling while he spoke the words as he felt when he had to write a formal letter of condolence. Talking about believing in Life was as bad as talking about grieving with you in your great bereavement.
+
+[013-008] “He believed in it so much,” Burlap went on, dropping his eyes (to Walter’s great relief) and nodding as he ruminatively pronounced the words, “so profoundly that he was prepared to give it up. That’s how I interpret his abandonment of literature—as a deliberate sacrifice.” (“He uses the big words too easily,” thought Walter.) “He that would save his life must lose it.” (Oh, Oh!) “To be the finest poet of your generation and, knowing it, to give up poetry—that’s losing your life to save it. That’s really believing in life. His [[religion|faith]] was so strong that he was prepared to lose his life, in the certainty of gaining a new and better one.” (Much too easily! Walter was filled with embarrassment.) “A life of mystical contemplation and intuition. Ah, if only one knew what he did and thought in Africa! If only one knew!”
+
+[013-009] “He smuggled guns for the Emperor Menelik,” Walter had the courage to reply. “And to judge from his letters, he seems to have thought chiefly about making enough money to settle down. He carried forty thousand francs in his belt. A stone and a half of gold round his loins.” (“Talking of gold,” he was thinking, “I really ought to speak to him about my screw.”)
+
+[013-010] But at the mention of Menelik’s rifles and the forty thousand francs, Burlap smiled with an expression of Christian forgiveness. “But do you *really* imagine,” he asked, “that gunrunning and money were what occupied his mind in the desert? The author of *Les Illuminations*?”
+
+[013-011] Walter blushed, as though he had been guilty of some nasty solecism. “Those are the only facts we know,” he said self-excusingly.
+
+[013-012] “But there is an insight that sees deeper than the mere facts.” “Deeper insight” was Burlap’s pet name for his own opinion. “He was realizing the new life, he was gaining the Kingdom of Heaven.”
+
+[013-013] “It’s a hypothesis,” said Walter, wishing uncomfortably that Burlap had never read the New Testament.
+
+[013-014] “For me,” retorted Burlap, “it’s a certainty. An absolute certainty.” He spoke very emphatically, he wagged his head with violence. “A complete and absolute certainty,” he repeated, hypnotizing himself by the reiteration of the phrase into a fictitious [[love|passion]] of conviction. “Complete and absolute.” He was silent; but within, he continued to lash himself into mystical fury. He thought of Rimbaud until he himself was Rimbaud. And then suddenly his devil popped out its grinning face and whispered, “A stone and a half of gold round his loins.” Burlap exorcised the creature by changing the subject. “Have you seen the new books for review?” he said, pointing to a double pile of volumes on the corner of the table. “Yards of contemporary literature.” He became humorously exasperated. “Why can’t authors stop? It’s a disease. It’s a bloody flux, like what the poor lady suffered from in the Bible, if you remember.”
+
+[013-015] What Walter chiefly remembered was the fact that the joke was [[philip-quarles|Philip Quarles]]’s.
+
+[013-016] Burlap got up and began to look through the books. “Pity the poor reviewer!” he said with a sigh.
+
+[013-017] The poor reviewer—wasn’t that the cue for his little speech about salary? Walter nerved himself, focused his will. “I was wondering …” he began.
+
+[013-018] But Burlap had almost simultaneously begun on his own account. “I’ll get Beatrice to come in,” he said, and pressed the bell push three times. “Sorry. What were you saying?”
+
+[013-019] “Nothing.” The demand would have to be postponed. It couldn’t be made in public, particularly when the public was Beatrice. Damn Beatrice! he thought unjustly. What business had she to do subediting and Shorter Notices for nothing? Just because she had a private income and adored Burlap.
+
+[013-020] Walter had once complained to her, jokingly, of his miserable six pounds a week.
+
+[013-021] “But the *World*’s worth making sacrifices for,” she rapped out. “After all, one has a responsibility toward people; one *ought* to do something for them.” Echoed in her clear rapping voice, Burlap’s Christian sentiments sounded, Walter thought, particularly odd. “The *World* does do something; one ought to help.”
+
+[013-022] The obvious retort was that his own private income was very small and that he wasn’t in love with Burlap. He didn’t make it, however, but suffered himself to be pecked. Damn her, all the same!
+
+[013-023] Beatrice entered, a neat, plumply well-made little figure, very erect and businesslike. “Morning, Walter,” she said, and every word she uttered was like a sharp little rap with an ivory mallet over the knuckles. She examined him with her bright, rather protuberant brown eyes. “You look tired,” she went on. “Worn out. As though you’d been on the tiles last night.” Peck after peck. “Were you?”
+
+[013-024] Walter blushed. “I slept badly,” he mumbled, and engrossed himself in a book.
+
+[013-025] They sorted out the volumes for the various reviewers. A little heap for the scientific expert, another for the accredited metaphysician, a whole mass for the fiction specialist. The largest pile was of Tripe. Tripe wasn’t reviewed, or only got a Shorter Notice.
+
+[013-026] “Here’s a book about Polynesia for you, Walter,” said Burlap generously. “And a new anthology of French verse. No, on second thoughts, I think *I’ll* do that.” On second thoughts he generally did keep the most interesting books for himself.
+
+[013-027] “*The Life of St. Francis Retold for the Children by Bella Jukes*. Theology or tripe?” asked Beatrice.
+
+[013-028] “Tripe,” said Walter, looking over her shoulder.
+
+[013-029] “But I’d rather like an excuse to do a little article on St. Francis,” said Burlap. In the intervals of editing, he was engaged on a full-length study of the Saint. *St. Francis and the Modern Psyche*, it was to be called. He took the little book from Beatrice and let the pages flick past under his thumb. “Tripe-ish,” he admitted. “But what an extraordinary man! Extraordinary!” He began to hypnotize himself, to lash himself up into the Franciscan mood.
+
+[013-030] “Extraordinary!” Beatrice rapped out, her eyes fixed on Burlap.
+
+[013-031] Walter looked at her curiously. Her ideas and her pecking, goose-billed manner seemed to belong to two different people, between whom the only perceptible link was Burlap. Was there any inward, organic connection?
+
+[013-032] “What a devastating integrity!” Burlap went on, self-intoxicated. He shook his head and, sighing, sobered himself sufficiently to proceed with the morning’s business.
+
+[013-033] When the opportunity came for Walter to talk (with what diffidence, what a squeamish reluctance!) about his salary, Burlap was wonderfully sympathetic.
+
+[013-034] “I know, old man,” he said, laying his hand on the other’s shoulder with a gesture that disturbingly reminded Walter of the time when, as a schoolboy, he had played Antonio in *The Merchant of Venice* and the detestable Porter Major, disguised as Bassanio, had been coached to register friendship. “I know what being hard up is.” His little laugh gave it to be understood that he was a Franciscan specialist in poverty, but was too modest to insist upon the fact. “I know, old man.” And he really almost believed that he wasn’t half owner and salaried editor of the *World*, that he hadn’t a penny invested, that he had been living on two pounds a week for years. “I wish we could afford to pay you three times as much as we do. You’re worth it, old man.” He gave Walter’s shoulder a little pat.
+
+[013-035] Walter made a vague mumbling sound of deprecation. That little pat, he was thinking, was the signal for him to begin:
+
+[013-036] > I am a tainted wether of the flock,
+
+[013-037] > Meetest for slaughter.
+
+[013-038] “I wish for your sake,” Burlap continued—“for mine too,” he added, putting himself with a rueful little laugh in the same financial boat as Walter—“that the paper did make more money. If you wrote worse, it might.” The compliment was graceful. Burlap emphasized it with another friendly pat and a smile. But the eyes expressed nothing. Meeting them for an instant, Walter had the strange impression that they were not looking at him at all, that they were not looking at anything. “The paper’s too good. It’s largely your fault. One cannot serve God and mammon.”
+
+[013-039] “Of course not,” Walter agreed; but he felt again that the big words had come too easily.
+
+[013-040] “I wish one could.” Burlap spoke like a jocular St. Francis pretending to make fun of his own principles.
+
+[013-041] Walter joined mirthlessly in the laughter. He was wishing that he had never mentioned the word “salary.”
+
+[013-042] “I’ll go and talk to Mr. Chivers,” said Burlap. Mr. Chivers was the business manager. Burlap made use of him, as the Roman statesman made use of oracles and augurs, to promote his own policy. His unpopular decisions could always be attributed to Mr. Chivers; and when he made a popular one, it was invariably made in the teeth of the business manager’s soulless tyranny. Mr. Chivers was a most convenient fiction. “I’ll go this morning.”
+
+[013-043] “Don’t bother,” said Walter.
+
+[013-044] “If it’s humanly possible to scrape up anything more for you …”
+
+[013-045] “No, please.” Walter was positively begging not to be given more. “I know the difficulties. Don’t think I want …”
+
+[013-046] “But we’re sweating you, Walter, positively sweating you.” The more Walter protested, the more generous Burlap became. “Don’t think I’m not aware of it. I’ve been worrying about it for a long time.”
+
+[013-047] His magnanimity was infectious. Walter was determined not to take any more money, quite determined, even though he was sure the paper could afford to give it. “Really, Burlap,” he almost begged, “I’d much rather you left things as they are.” And then suddenly he thought of Marjorie. How unfairly he was treating her! Sacrificing her comfort to his. Because he found haggling distasteful, because he hated fighting on the one hand and accepting favours on the other, poor Marjorie would have to go without new clothes and a second maid.
+
+[013-048] But Burlap waved his objections aside. He insisted on being generous. “I’ll go and talk to Chivers at once. I think I can persuade him to let you have another twenty-five a year.”
+
+[013-049] Twenty-five. That was ten shillings a week. Nothing. Marjorie had said that he ought to stand out for at least another hundred. “Thank you,” he said, and despised himself for saying it.
+
+[013-050] “It’s ridiculously little, I’m afraid. Quite ridiculously.”
+
+[013-051] “That’s what I ought to have said,” thought Walter.
+
+[013-052] “One feels quite ashamed of offering it. But what can one do?” “One” could obviously do nothing, for the good [[science-and-art|reason]] that “one” was impersonal and didn’t exist.
+
+[013-053] Walter mumbled something about being grateful. He felt humiliated and blamed Marjorie for it.
+
+[013-054] When Walter worked at the office, which was only three days a week, he sat with Beatrice. Burlap, in editorial isolation, sat alone. It was the day of Shorter Notices. Between them, on the table, stood the stacks of Tripe. They helped themselves. It was a Literary Feast—a feast of offal. Bad novels and worthless verses, imbecile systems of philosophy and platitudinous moralizings, insignificant biographies and boring books of travel, pietism so nauseating and children’s books so vulgar and so silly that to read them was to feel ashamed for the whole human race—the pile was high, and every week it grew higher. The ant-like industry of Beatrice, Walter’s quick discernment and facility were utterly inadequate to stem the rising flood. They settled down to their work “like vultures,” said Walter, “in the Towers of Silence.” What he wrote this morning was peculiarly pungent.
+
+[013-055] On paper Walter was all he failed to be in life. His reviews were epigrammatically ruthless. Poor earnest spinsters, when they read what he had written of their heartfelt poems about God and [[passion|Passion]] and the Beauties of [[nature|Nature]], were cut to the quick by his brutal contempt. The big game shooters who had so much enjoyed their African trip would wonder how the account of anything so interesting could be called tedious. The young novelists who had modelled their styles and their epical conceptions on those of the best authors, who had daringly uncovered the secrets of their most intimate and sexual life were hurt, were amazed, were indignant to learn that their writing was stilted, their construction nonexistent, their psychology unreal, their drama stagey and melodramatic. A bad book is as much of a labour to write as a good one; it comes as sincerely from the author’s soul. But the bad author’s soul being, artistically at any rate, of inferior quality, its sincerities will be, if not always intrinsically uninteresting, at any rate uninterestingly expressed, and the labour expended on the expression will be wasted. Nature is monstrously unjust. There is no substitute for talent. Industry and all the virtues are of no avail. Immersed in his Tripe, Walter ferociously commenced on lack of talent. Conscious of their industry, sincerity, and good artistic intentions, the authors of the Tripe felt themselves outrageously and unfairly treated.
+
+[013-056] Beatrice’s methods of criticism were simple; she tried in every case to say what she imagined Burlap would say. In practice, what happened was that she praised all books in which Life and its problems were taken, as she thought, seriously, and condemned all those in which they were not. She would have ranked Bailey’s *Festus* higher than *Candide*, unless of course Burlap or some other authoritative person had previously told her that it was her duty to prefer *Candide*. As she was never permitted to criticize anything but Tripe, her lack of all critical insight was of little importance.
+
+[013-057] They worked, they went out to lunch, they returned and set to work again. Eleven new books had arrived in the interval.
+
+[013-058] “I feel,” said Walter, “as the Bombay vultures must feel when there’s been an epidemic among the Parsees.”
+
+[013-059] Bombay and the Parsees reminded him of his sister Elinor. She and Philip would be sailing today. He was glad they were coming home. They were almost the only people he could talk to intimately about his affairs. He would be able to discuss his problems with them. It would be a comfort, an alleviation of his responsibility. And then suddenly he remembered that everything was settled, that there were no more problems. No more. And then the telephone bell rang. He lifted the receiver, he hallooed into the mouthpiece.
+
+[013-060] “Is that you, Walter darling?” The voice was Lucy’s.
+
+[013-061] His heart sank; he knew what was going to happen.
+
+[013-062] “I’ve just woken up,” she explained. “I’m all alone.”
+
+[013-063] She wanted him to come to tea. He refused. After tea, then.
+
+[013-064] “I can’t,” he persisted.
+
+[013-065] “Nonsense! Of course you can.”
+
+[013-066] “Impossible.”
+
+[013-067] “But why?”
+
+[013-068] “Work.”
+
+[013-069] “But not after six. I insist.”
+
+[013-070] After all, he thought, perhaps it would be better to see her and explain what he had decided.
+
+[013-071] “I’ll never forgive you if you don’t come.”
+
+[013-072] “All right,” he said, “I’ll make an effort. I’ll come if I possibly can.”
+
+[013-073] “What a flirt you are!” Beatrice mocked, as he hung up the receiver. “Saying no for the fun of being persuaded!”
+
+[013-074] And when, at a few minutes after five, he left the office on the pretext that he must get to the London Library before closing time, she sent ironical good wishes after him. “*Bon amusement!*” were her last words.
+
+---
+
+[013-075] In the editorial room Burlap was dictating letters to his secretary. “Yours etcetera,” he concluded, and picked up another batch of papers. “Dear Miss Saville,” he began, after glancing at them for a moment. “No,” he corrected himself. “Dear Miss Romola Saville. Thank you for your note and for the enclosed manuscripts.” He paused and, leaning back in his chair, closed his eyes in brief reflection. “It is not my custom,” he went on at last in a soft remote voice, “it is not my custom to write personal letters to unknown contributors.” He reopened his eyes, to meet the dark bright glance of his secretary from across the table. The expression in Miss Cobbett’s eyes was sarcastic; the faintest little smile almost imperceptibly twitched the corners of her mouth. Burlap was annoyed; but he concealed his feelings and continued to stare straight in front of him as though Miss Cobbett were not there at all and he were looking absentmindedly at a piece of furniture. Miss Cobbett looked back at her notebook.
+
+[013-076] “How contemptible!” she said to herself. “How unspeakably vulgar!”
+
+[013-077] Miss Cobbett was a small woman, black-haired, darkly downy at the corners of her upper lip, with brown eyes disproportionately large for her thin, rather sickly little face. Sombre and passionate eyes in which there was, almost permanently, an expression of reproach that could flash up into sudden anger or, as at this moment, derision. She had a right to look reproachfully on the world. Fate had treated her badly. Very badly indeed. Born and brought up in the midst of a reasonable prosperity, her father’s death had left her, from one day to another, desperately poor. She got engaged to Harry Markham. Life promised to begin again. Then came the war. Harry joined up and was killed. His death condemned her to shorthand and typing for the rest of her natural existence. Harry was the only man who had ever loved her, who had been prepared to take the risk of loving her. Other men found her too disquietingly violent and impassioned and serious. She took things terribly seriously. Young men felt uncomfortable and silly in her company. They revenged themselves by laughing at her for having no “sense of humour,” for being a pedant and, as time went on, for being an old maid who was longing for a man. They said she looked like a witch. She had often been in love, passionately, with a hopeless violence. The men had either not noticed, or, if they noticed, had fled precipitately, or had mocked, or, what was almost worse, had been patronizingly kind as though to a poor misguided creature who might be a nuisance but who ought none the less, to be treated with charity. Ethel Cobbett had every right to look reproachful.
+
+[013-078] She had met Burlap because, as a girl, in the prosperous days, she had been at school with Susan Paley, who had afterward become Burlap’s wife. When Susan died and Burlap exploited the grief he felt, or at any rate loudly said he felt, in a more than usually painful series of these always painfully personal articles which were the secret of his success as a journalist (for the great public has a chronic and cannibalistic appetite for personalities), Ethel wrote him a letter of condolence, accompanying it with a long account of Susan as a girl. A moved and moving answer came back by return of post: “Thank you, thank you for your memories of what I have always felt to be the *realest* Susan, the little girl who survived so beautifully and purely in the woman, to the very end; the lovely child that in spite of chronology she always was, underneath and parallel with the physical Susan living in time. In her heart of hearts, I am sure, she never quite believed in her chronological adult self; she could never quite get it out of her head that she was a little girl playing at being grown up.”
+
+[013-079] And so it went on—pages of a rather hysterical lyricism about the dead child-woman. He incorporated a good deal of the substance of the letter in his next week’s article. “Of Such is the Kingdom of Heaven” was its title. A day or two later he travelled down to Birmingham to have a personal interview with this woman who had known the realest Susan when she was chronologically as well as spiritually a child. The impression each made upon the other was favourable. For Ethel, living bitterly and reproachfully between her dismal lodgings and the hateful insurance office where she was a clerk, the arrival first of his letter and now of Burlap himself had been great and wonderful events. A real writer, a man with a mind and a soul. In the state into which he had then worked himself, Burlap would have liked any woman who could talk to him about Susan’s childhood and into whose warm maternal compassion, a child himself, he could luxuriously sink as into a featherbed. Ethel Cobbett was not only sympathetic and a friend of Susan’s; she had intelligence, was earnestly cultured and an admirer. The first impressions were good.
+
+[013-080] Burlap wept and was abject. He agonized himself with the thought that he could never, never ask Susan’s forgiveness for all the unkindnesses he had ever done her, for all the cruel words he had spoken. He confessed in an agony of contrition that he had once been unfaithful to her. He recounted their quarrels. And now she was dead; he would never be able to ask her pardon. Never, never. Ethel was moved. Nobody, she reflected, would care like that when she was dead. But being cared for when one is dead is less satisfactory than being cared for when one is alive. These agonies which Burlap, by a process of intense concentration on the idea of his loss and grief, had succeeded in churning up within himself were in no way proportionate or even related to his feelings for the living Susan. For every Jesuit novice Loyola prescribed a curse of solitary meditation on the passion of Christ; a few days of this exercise, accompanied by fasting, were generally enough to produce in the novice’s mind a vivid, mystical, and personal realization of the Saviour’s real existence and sufferings. Burlap employed the same process; but instead of thinking about Jesus, or even about Susan, he thought of himself, his own agonies, his own loneliness, his own remorses. And duly, at the end of some few days of incessant spiritual masturbation, he had been rewarded by a mystical realization of his own unique and incomparable piteousness. He saw himself in an apocalyptic vision as a man of sorrows. (The language of the New Testament was constantly on Burlap’s lips and under his pen. “To each of us,” he wrote, “is given a Calvary proportionate to his or her powers of endurance and capabilities of self-perfection.” He spoke familiarly of agonies in the garden and cups.) The vision rent his heart; he was overwhelmed with self-pity.
+
+[013-081] But with the sorrows of this Christ-like Burlap poor Susan had really very little to do. His love for the living Susan had been as much self-induced and self-intensified as his grief at her death. He had loved, not Susan, but the mental image of Susan and the idea of love, fixedly concentrated on, in the best Jesuitical manner, until they became hallucinatingly real. His ardours for this phantom, and the love of love, the passion for passion which he had managed to squeeze out of his inner consciousness, conquered Susan, who imagined that they had some connection with herself. What pleased her most about his feelings was their “pure” unmasculine quality. His ardours were those of a child for its mother (a rather incestuous child, it is true, but how tactfully and delicately the little Oedipus!); his love was at once babyish and maternal; his passion was a kind of passive snuggling. Frail, squeamish, less than fully alive and therefore less than adult, permanently under-aged, she adored him as a superior and almost holy lover. Burlap in return adored his private phantom, adored his beautifully Christian conception of matrimony, adored his own adorable husbandliness. His periodical articles in praise of marriage were lyrical. He was, however, frequently unfaithful; but he had such a pure, childlike, and platonic way of going to bed with women that neither they nor he ever considered that the process really counted as going to bed. His life with Susan was a succession of scenes in every variety of emotional key. He would chew and chew on some grievance until he had poisoned himself into a passion of anger or jealousy. Or else he would pore over his own shortcomings and grow abjectly repentant, or roll at her feet in an ecstasy of incestuous adoration for the imaginary mother-baby of a wife with whom he had chosen to identify the corporeal Susan. And then sometimes, very disquietingly for poor Susan, he would suddenly interrupt his emotions with an oddly cynical little laugh and would become for a while somebody entirely different, somebody like the Jolly Miller in the song. “I care for nobody, no, not I, and nobody cares for me.” “One’s devil” was how he described those moods, when he had worked himself back again into emotional spirituality; and he would quote the Ancient Mariner’s words about the wicked whisper that had turned his heart as dry as dust. “One’s devil”—or was it, perhaps, the genuine, fundamental Burlap, grown tired of trying to be somebody else and of churning up emotions he did not spontaneously feel, taking a brief holiday?
+
+[013-082] Susan died; but the prolonged and passionate grief which he felt on that occasion could have been worked up, if Burlap had chosen to imagine her dead and himself desolate and lonely, almost equally well during her lifetime. Ethel was touched by the intensity of his feelings, or rather by the loudness and insistence of their expression. Burlap seemed to be quite broken down, physically and spiritually, by his grief. Her heart bled for him. Encouraged by her sympathy, he plunged into an orgy of regrets, whose vanity made them exasperatingly poignant, of repentances, excruciating for being too late, of unnecessary confessions and self-abasements. Feelings are not separate entities that can be stimulated in isolation from the rest of the mind. When a man is emotionally exalted in one direction, he is liable to become emotionally exalted in others. Burlap’s grief made him noble and generous; his self-pity made it easy to feel Christian about other people. “You’re unhappy, too,” he said to Ethel. “I can see it.” She admitted it; told him how much she hated her work, hated the place, hated the people; told him her wretched history. Burlap churned up his sympathy. “But what do my little miseries matter in comparison with yours?” she protested, remembering the violence of his outcry. Burlap talked about the freemasonry of suffering and then, dazzled by the vision of his own generous self, proceeded to offer Miss Cobbett a secretarial job on the staff of the *Literary World*. Infinitely preferable as London and the *Literary World* seemed to the insurance office and Birmingham, Ethel hesitated. The insurance job was dull, but it was safe, permanent, pensioned. In another and yet more explosive burst of generous feeling, Burlap guaranteed her all the permanence she wanted. He felt warm with goodness.
+
+[013-083] Miss Cobbett allowed herself to be persuaded. She came. If Burlap had hoped to slide by gradual stages and almost imperceptibly into Ethel’s bed, he was disappointed. A brokenhearted child in need of consolation, he would have liked to lure his consoler, ever so spiritually and platonically, into a gentle and delicious incest. But to Ethel Cobbett the idea was unthinkable; it never entered her head. She was a woman of principles, as passionate and violent in her moral loyalties as in her love. She had taken Burlap’s grief seriously and literally. When they had agreed, with tears, to found a kind of private cult for poor Susan, to raise and keep perpetually illumined and adorned an inward altar to her memory, Ethel had imagined that they were meaning what they were saying. She meant it in any case. It never occurred to her that Burlap did not. His subsequent behaviour had astonished and shocked her. Was this the man, she asked herself as she watched him living his life of disguised and platonic and slimily spiritual promiscuities—was this the man who had vowed to keep the candles forever burning in front of poor little Susan’s altar? She looked, she spoke her disapproval. Burlap cursed himself for his foolishness in having lured her away from the insurance office, his double-dyed idiocy in promising her permanence of tenure. If only she’d go of her own accord! He tried to make her life a misery for her by treating her with a cold, superior impersonality, as though she were just a machine for taking down letters and copying articles. But Ethel Cobbett grimly stuck to her job, had stuck to it for eighteen months now, and showed no signs of giving notice. It was intolerable; it couldn’t go on. But how should he put an end to it? Of course, he wasn’t *legally* bound to keep her forever. He had never put down anything in black and white. If the worst came to the worst …
+
+[013-084] Stonily ignoring the look in Ethel Cobbett’s eyes, the almost imperceptible smile of irony, Burlap went on with his dictation. One doesn’t deign to notice machines; one uses them. But still, this sort of thing simply could not go on.
+
+[013-085] “It is not my custom to write personal letters to unknown contributors,” he repeated in a firm, determined tone. “But I cannot refrain from telling you—no, no—from thanking you for the great pleasure your poems have given me. The lyrical freshness of your work, its passionate sincerity, its untamed and almost savage brilliance have come as a surprise and a refreshment to me. An editor must read through such quantities of bad literature that he is almost pathetically grateful to those who—no, say: to the rare and precious spirits who offer him gold instead of the customary dross. Thank you for the gift of …” he looked again at the papers, “of ‘Love in the Greenwood’ and ‘Passion Flowers.’ Thank you for their bright and turbulent verbal surface. Thank you also for the sensitiveness—no—the quivering sensibility, the experience of suffering, the ardent spirituality which a deeper insight detects beneath that surface. I am having both poems set up at once and hope to print them early next month.
+
+[013-086] “Meanwhile, if you ever happen to be passing in the neighbourhood of Fleet Street, I should esteem it a great honour to hear from you personally some account of your poetical projects. The literary aspirant, even of talent, is often balked by material difficulties which the professional man of letters knows how to circumvent. I have always regarded it as one of my greatest privileges and duties as a critic and editor to make smooth the way for literary talent. This must be my excuse for writing to you at such length. Believe me, yours very truly.”
+
+[013-087] He looked again at the typewritten poems and read a line or two. “Real talent,” he said to himself several times, “real talent.” But “one’s devil” was thinking that the girl was remarkably outspoken, must have a temperament, seemed to know a thing or two. He dropped the papers into the basket on his right hand and picked up another letter from the basket on his left.
+
+[013-088] “To the Reverend James Hitchcock,” he dictated. “The Vicarage, Tuttleford, Wilts. Dear Sir: I regret very much that I am unable to use your long and very interesting article on the relation between agglutinative languages and agglutinative chimeraforms in symbolic art. Exigencies of space …”
+
+---
+
+[013-089] Pink in her dressing gown like the tulips in the vases, Lucy lay propped on her elbow, reading. The couch was gay, the walls were hung with grey silk, the carpet was rose-coloured. In its gilded cage even the parrot was pink and grey. The door opened.
+
+[013-090] “Walter, darling! At last!” She threw down her book.
+
+[013-091] “Already. If you knew all the things I ought to be doing instead of being here.” (“Do you promise?” Marjorie had asked. And he had answered, “I promise.” But this last visit of explanation didn’t count.)
+
+[013-092] The divan was wide. Lucy moved her feet toward the wall, making place for him to sit down. One of her red Turkish slippers fell.
+
+[013-093] “That tiresome manicure woman,” she said, raising the bare foot a few inches so that it came into her line of sight. “She will put that horrible red stuff on my toe nails. They look like wounds.”
+
+[013-094] Walter did not speak. His heart was violently beating. Like the warmth of a body transposed into another sensuous key, the scent of her gardenias enveloped him. There are hot perfumes and cold, stifling and fresh. Lucy’s gardenias seemed to fill his throat and lungs with a tropical and sultry sweetness. On the grey silk of the couch, her foot was flower-like and pale, like the pale fleshy buds of lotus flowers. The feet of Indian goddesses walking among their lotuses are themselves flowers. Time flowed in silence, but not to waste, as at ordinary moments. It was as though it flowed, pumped beat after beat by Walter’s anxious heart, into some enclosed reservoir of experience to mount and mount behind the dam until at last, suddenly … Walter suddenly reached out and took her bare foot in his hand. Under the pressure of those silently accumulated seconds, the dam had broken. It was a long foot, long and narrow. His fingers closed round it. He bent down and kissed the instep.
+
+[013-095] “But my dear Walter!” She laughed. “You’re becoming quite oriental.”
+
+[013-096] Walter said nothing, but kneeling on the ground beside the couch, he leaned over her. The face that bent to kiss her was set in a kind of desperate madness. The hands that touched her trembled. She shook her head, she shielded her face with her hand.
+
+[013-097] “No, no.”
+
+[013-098] “But why not?”
+
+[013-099] “It wouldn’t do,” she said.
+
+[013-100] “Why not?”
+
+[013-101] “It would complicate things too much for you, to begin with.”
+
+[013-102] “No, it wouldn’t,” said Walter. There were no complications. Marjorie had ceased to exist.
+
+[013-103] “Besides,” Lucy went on, “you seem to forget me. I don’t want to.”
+
+[013-104] But his lips were soft, his hands touched lightly. The moth-winged premonitions of pleasure came flutteringly to life under his kisses and caresses. She shut her eyes. His caresses were like a drug, at once intoxicant and opiate. She had only to relax her will; the drug would possess her utterly. She would cease to be herself. She would become nothing but a skin of fluttering pleasure enclosing a void, a warm, abysmal darkness.
+
+[013-105] “Lucy!” Her eyelids fluttered and shuddered under his lips. His hand was on her breast. “My sweetheart.” She lay quite still, her eyes still closed.
+
+[013-106] A sudden and piercing shriek made both of them start, broad awake, out of their timelessness. It was as though a [[death|murder]] had been committed within a few feet of them, but on someone who found the process of being slaughtered rather a joke, as well as painful.
+
+[013-107] Lucy burst out laughing. “It’s Polly.”
+
+[013-108] Both turned toward the cage. His head cocked a little on one side, the bird was examining them out of one black and circular eye. And while they looked, a shutter of parchment skin passed like a temporary cataract across the bright, expressionless regard and was withdrawn. The jocular martyr’s dying shriek was once again repeated.
+
+[013-109] “You’ll have to cover his cage with the cloth,” said Lucy.
+
+[013-110] Walter turned back toward her and angrily began to kiss her. The parrot yelled again. Lucy’s laughter redoubled.
+
+[013-111] “It’s no good,” she gasped. “He won’t stop till you cover him.”
+
+[013-112] The bird confirmed what she had said with another scream of mirthful agony. Feeling furious, outraged and a fool, Walter got up from his knees and crossed the room. At his approach the bird began to dance excitedly on its perch; its crest rose, the feathers of its head and neck stood apart from one another like the scales of a ripened fir-cone. “Good morning,” it said in a guttural ventriloquial voice, “good morning, Auntie, good morning, Auntie, good morning, Auntie …” Walter unfolded the pink brocade that lay on the table near the cage and extinguished the creature. At last “Good morning, Auntie,” came out from under the cloth. Then there was silence.
+
+[013-113] “He likes his little joke,” said Lucy, as the parrot disappeared. She had lighted a cigarette.
+
+[013-114] Walter strode back across the room and without saying anything took the cigarette from between her fingers and threw it into the fireplace. Lucy raised her eyebrows, but he gave her no time to speak. Kneeling down again beside her, he began to kiss her, angrily.
+
+[013-115] “Walter,” she protested. “No! What’s come over you?” She tried to disengage herself, but he was surprisingly strong. “You’re like a wild beast.” His desire was dumb and savage. “Walter! I insist.” Struck by an absurd idea, she suddenly laughed. “If you knew how like the movies you were! A great, huge, grinning closeup.”
+
+[013-116] But ridicule was as unavailing as protest. And did she really desire it to be anything but unavailing? Why shouldn’t she abandon herself? It was only rather humiliating to be carried away, to be compelled instead of to choose. Her pride, her will resisted him, resisted her own desire. But after all, why not? The drug was potent and delicious. Why not? She shut her eyes. But as she was hesitating, circumstances suddenly decided for her. There was a knock at the door. Lucy opened her eyes again. “I’m going to say come in,” she whispered.
+
+[013-117] He scrambled to his feet and, as he did so, heard the knock repeated.
+
+[013-118] “Come in!”
+
+[013-119] The door opened. “Mr. [[illidge|Illidge]] to see you, madam,” said the maid.
+
+[013-120] Walter was standing by the window, as though profoundly interested in the delivery van drawn up in front of the opposite house.
+
+[013-121] “Show him up,” said Lucy.
+
+[013-122] He turned round as the door closed behind the maid. His face was very pale, his lips were trembling.
+
+[013-123] “I quite forgot,” she explained. “I asked him last night; this morning rather.”
+
+[013-124] He averted his face, and without saying a word, crossed the room, opened the door, and was gone.
+
+[013-125] “Walter!” she called after him. “Walter!” But he did not return.
+
+[013-126] On the stairs he met Illidge ascending behind the maid.
+
+[013-127] Walter responded to his greetings with a vague salute and hurried past. He could not trust himself to speak.
+
+[013-128] “Our friend Bidlake seemed to be in a great hurry,” said Illidge, when the preliminary greetings were over. He felt exultantly certain that he had driven the other fellow away.
+
+[013-129] She observed the triumph on his face. Like a little ginger cock, she was thinking. “He’d forgotten something,” she vaguely explained.
+
+[013-130] “Not himself, I hope,” he questioned waggishly. And when she laughed, more at the fatuous masculinity of his expression than at his joke, he swelled with self-confidence and satisfaction. This social business was as easy as playing skittles. Feeling entirely at his ease, he stretched his legs, he looked round the room. Its richly sober elegance impressed him at once as the right thing. He sniffed the perfumed air appreciatively.
+
+[013-131] “What’s under that mysterious red cloth there?” he asked, pointing at the mobled cage.
+
+[013-132] “That’s a cockatoo,” Lucy answered. “A cock-a-doodle-doo,” she amended, breaking out into a sudden disquieting and inexplicable laughter.
+
+[013-133] There are confessable agonies, sufferings of which one can positively be proud. Of bereavement, of parting, of the sense of sin and the fear of death the poets have eloquently spoken. They command the world’s sympathy. But there are also discreditable anguishes, no less excruciating than the others, but of which the sufferer dare not, cannot speak. The anguish of thwarted desire, for example. That was the anguish which Walter carried with him into the street. It was pain, anger, disappointment, shame, misery, all in one. He felt as though his soul were dying in torture. And yet the cause was unavowable, low, even ludicrous. Suppose a friend were now to meet him and to ask why he looked so unhappy.
+
+[013-134] “I was making love to a woman when I was interrupted, first by the screaming of a cockatoo, then by the arrival of a visitor.”
+
+[013-135] The comment would be enormous and derisive laughter. His confession would have been a smoking-room joke. And yet he could not be suffering more if he had lost his mother.
+
+[013-136] He wandered for an hour through the streets, in Regent’s Park. The light gradually faded out of the white and misty afternoon; he became calmer. It was a lesson, he thought, a punishment; he had broken his promise. For his own good as well as for Marjorie’s, never again. He looked at his watch, and seeing that it was after seven, turned homeward. He arrived at the house tired and determinedly repentant. Marjorie was sewing; the lamplight was bright on her thin, fatigued face. She too was wearing a dressing gown. It was mauve and hideous; he had always thought her taste bad. The flat was pervaded with a smell of cooking. He hated kitchen smells, but that was yet another reason why he should be faithful. It was a question of honour and duty. It was not because he preferred gardenia to cabbage that he had a right to make Marjorie suffer.
+
+[013-137] “You’re late,” she said.
+
+[013-138] “There was a lot to do,” Walter explained. “And I walked home.” That at least was true. “How are you feeling?” He laid his hand on her shoulder and bent down. Dropping her sewing, Marjorie threw her hands round his neck. What a happiness, she was thinking, to have him again! Hers once more. What a comfort! But even as she pressed herself against him, she realized that she was once more betrayed. She broke away from him.
+
+[013-139] “Walter, how could you?”
+
+[013-140] The blood rushed to his face; but he tried to keep up the pretence. “How could I what?” he asked.
+
+[013-141] “You’ve been to see that woman again.”
+
+[013-142] “But what *are* you talking about?” He knew it was useless, but he went on pretending all the same.
+
+[013-143] “It’s no use lying.” She got up so suddenly that her work basket overturned and scattered its contents on the floor. Unheeding, she walked across the room. “Go away!” she cried, when he tried to follow her. Walter shrugged his shoulders and obeyed. “How could you?” she went on. “Coming home reeking of her perfume.” So it was the gardenias. What a fool he was not to have foreseen … “After all you said last night. How could you?”
+
+[013-144] “But if you’d let me explain,” he protested in the tone of a victim—an exasperated victim.
+
+[013-145] “Explain why you lied,” she said bitterly. “Explain why you broke your promise.”
+
+[013-146] Her contemptuous anger evoked an answering anger in Walter. “Merely explain,” he said with hard and dangerous politeness. What a bore she was with her scenes and jealousies! What an intolerable, infuriating *bore*!
+
+[013-147] “Merely go on lying,” she mocked.
+
+[013-148] Again he shrugged his shoulders. “If you like to put it like that,” he said politely.
+
+[013-149] “Just a despicable liar—that’s what you are.” And turning away from him, she covered her face with her hands and began to cry.
+
+[013-150] Walter was not touched. The sight of her heaving shoulders just exasperated and bored him. He looked at her with a cold and weary anger.
+
+[013-151] “Go away,” she cried through her tears, “go away.” She did not want him to be there, triumphing over her, while she cried. “Go away.”
+
+[013-152] “Do you really want me to go?” he asked with the same cool, aggravating politeness.
+
+[013-153] “Yes, go, go.”
+
+[013-154] “Very well,” he said, and opening the door, he went.
+
+[013-155] At Camden Town he took a cab and was at Bruton Street just in time to find Lucy on the point of going out to dinner.
+
+[013-156] “You’re coming out with me,” he announced very calmly.
+
+[013-157] “Alas!”
+
+[013-158] “Yes, you are.”
+
+[013-159] She looked at him curiously and he looked back at her, with steady eyes, smiling, with a queer look of amused triumph and invincible, obstinate power, which she had never seen on his face before. “All right,” she said at last, and, ringing for the maid, “Telephone to Lady Sturlett, will you,” she ordered, “and say I’m sorry, but I’ve got a very bad headache and can’t come tonight.” The maid retired. “Well, are you grateful now?”
+
+[013-160] “I’m beginning to be,” he answered.
+
+[013-161] “Beginning?” She assumed indignation. “I like your damned impertinence.”
+
+[013-162] “I know you do,” said Walter, laughing. And she did. That night Lucy became his mistress.
+
+---
+
+[013-163] It was between three and four in the afternoon. Spandrell had only just got out of bed. He was still unshaved; over his pyjamas he wore a dressing gown of rough brown cloth, like a monk’s cassock. (The monastic note was studied; he liked to remind himself of the ascetics. He liked, rather childishly, to play the part of the anchorite of diabolism.) He had filled the kettle and was waiting for it to boil on the gas ring. It seemed to be taking an unconscionably long time about it. His mouth was dry and haunted by a taste like the fumes of heated brass. The brandy was having its usual effects.
+
+[013-164] “Like as the hart desireth the water brooks,” he said to himself, “so longeth my soul … with a morning-after thirst. If only Grace could be bottled like Perrier water.”
+
+[013-165] He walked to the window. Outside a radius of fifty yards everything in the universe had been abolished by the white mist. But how insistently that lamp post thrust itself up in front of the next house on the right, how significantly! The world had been destroyed and only the lamp post, like Noah, preserved from the universal cataclysm. And he had never even noticed there was a lamp post there; it simply hadn’t existed until this moment. And now it was the only thing that existed. Spandrell looked at it with a fixed and breathless attention. This lamp post alone in the mist—hadn’t he seen something like it before? This queer sensation of being with the sole survivor of the Deluge was somehow familiar. Staring at the lamp post, he tried to remember. Or rather, he breathlessly didn’t try; he held back his will and his conscious thoughts, as a policeman might hold back the crowd round a woman who had fainted in the street; he held back his consciousness to give the stunned memory a place to stretch itself, to breathe, to come to life. Staring at the lamp post, Spandrell waited, agonized and patient, like a man who feels he is just going to sneeze, tremulously awaiting the anticipated paroxysm; waited for the long-dead memory to revive. And suddenly it sprang up, broad awake, out of its catalepsy, and, with a sense of enormous relief, Spandrell saw himself walking up the steep hard-trodden snow of the road leading from Cortina toward the pass of Falzarego. A cold white cloud had descended on to the valley. There were no more mountains. The fantastic coral pinnacles of the Dolomites had been abolished. There were no more heights and depths. The world was only fifty paces wide, white snow on the ground, white cloud around and above. And every now and then, against the whiteness, appeared some dark shape of house or telegraph pole, of tree or man or sledge, portentous in its isolation and uniqueness, each one a solitary survivor from the general wreck. It was uncanny, but how thrillingly new and how beautiful in a strange way! The walk was an adventure; he felt excited and a kind of anxiety intensified his happiness till he could hardly bear it.
+
+[013-166] “But look at that little chalet on the left,” he cried to his mother. “That wasn’t here when I came up last. I swear it wasn’t here.”
+
+[013-167] He knew the road perfectly; he had been up and down it a hundred times and never seen that little chalet. And now it loomed up almost appallingly, the only dark and definite thing in a vague world of whiteness.
+
+[013-168] “Yes, I’ve never noticed it either,” said his mother. “Which only shows,” she added with that note of tenderness which always came into her voice when she mentioned her dead husband, “how right your father was. Mistrust all evidence, he used to say, even your own.”
+
+[013-169] He took her hand and they walked on together in silence, pulling their sledges after them.
+
+[013-170] Spandrell turned away from the window. The kettle was boiling. He filled the teapot, poured himself out a cup, and drank. Symbolically enough, his thirst remained unassuaged. He went on sipping, meditatively, remembering and analyzing those quite incredible felicities of his boyhood. Winters among the Dolomites, springs in Tuscany or Provence or Bavaria, summers by the Mediterranean or in Savoy. After his father’s death and before he went to school, they lived almost continuously abroad—it was cheaper. And almost all his holidays from school were spent out of England. From seven to fifteen, he had moved from one European beauty spot to another, appreciating their beauty, what was more—genuinely, a precocious Childe Harold. England seemed a little tame afterward. He thought of another day in winter. Not misty, this time, but brilliant; the sun hot in a cloudless sky; the coral precipices of the Dolomites shining pink and orange and white above the woods and the snow slopes. They were sliding down on skis through the bare larchwoods. Streaked with tree shadows, the snow was like an immense white and blue tiger skin beneath their feet. The sunlight was orange among the leafless twigs, sea-green in the hanging beards of moss. The powdery snow sizzled under their skis, the air was at once warm and eager. And when he emerged from the woods the great rolling slopes lay before him, like the contours of a wonderful body, and the virgin snow was a smooth skin, delicately grained in the low afternoon sunlight and twinkling with diamonds and spangles. He had gone ahead. At the outskirts of the wood he halted to wait for his mother. Looking back, he watched her coming through the trees. A strong, tall figure, still young and agile, the young face puckered into a smile. Down she came toward him, and she was the most beautiful and at the same time the most homely and comforting and familiar of beings.
+
+[013-171] “Well!” she said, laughing, as she drew up beside him.
+
+[013-172] “Well!” He looked at her and then at the snow and the tree shadows and the great bare rocks and the blue sky, then back again at his mother. And all at once he was filled with an intense, inexplicable happiness.
+
+[013-173] “I shall never be so happy as this again,” he said to himself, when they set off once more. “Never again, even though I live to be a hundred.” He was only fifteen at the time, but that was how he felt and thought.
+
+[013-174] And his words had been prophetic. That was the last of his happiness. Afterward … No, no. He preferred not to think of afterward. Not at the moment. He poured himself out another cup of tea.
+
+[013-175] A bell rang startlingly. He went to the door of the flat and opened it. It was his mother.
+
+[013-176] “You?” Then he suddenly remembered that Lucy had said something.
+
+[013-177] “Didn’t you get my message?” Mrs. Knoyle asked anxiously.
+
+[013-178] “Yes. But I’d clean forgotten.”
+
+[013-179] “But I thought you needed …” she began. She was afraid she might have intruded, his face was so unwelcoming.
+
+[013-180] The corners of his mouth ironically twitched. “I do need,” he said. He was chronically penniless.
+
+[013-181] They passed into the other room. The windows, Mrs. Knoyle observed at a glance, were foggy with grime. On shelf and mantel the dust lay thick. Sooty cobwebs dangled from the ceiling. She had tried to get Maurice’s permission to send a woman to clean up two or three times a week. But, “None of your slumming,” he had said. “I prefer to wallow. Filth’s my natural element. Besides, I haven’t a distinguished military position to keep up.” He laughed, noiselessly, showing his big strong teeth. That was for her. She never dared to repeat her offer. But the room really did need cleaning.
+
+[013-182] “Would you like some tea?” he asked. “It’s ready. I’m just having breakfast,” he added, purposely drawing attention to the irregularities of his way of life.
+
+[013-183] She refused, without venturing any comment on the unusual breakfast hour. Spandrell was rather disappointed that he had not succeeded in drawing her. There was a long silence.
+
+[013-184] From time to time Mrs. Knoyle glanced almost surreptitiously at her son. He was staring fixedly into the empty fireplace. He looked old, she thought, and rather ill and dreadfully uncared for. She tried to recognize the child, the big schoolboy he had been in those far-off times when they were happy, just the two of them together. She remembered how distressed he used to be when she didn’t wear what he thought were the right clothes, when she wasn’t smart or failed to look her best. He was as jealously proud of her as she was of him. But the responsibility of his upbringing weighed on her heavily. The future had always frightened her; she had always been afraid of taking decisions; she had no trust in her own powers. Besides, after her husband’s death, there wasn’t much money; and she had no head for affairs, no talent for management. How to afford to send him to the university, how to get him started in life? The questions tormented her. She lay awake at night, wondering what she ought to do. Life terrified her. She had a child’s capacity for happiness, but also a child’s fears, a child’s inefficiency. When existence was a holiday, none could be more rapturously happy; but when there was business to be done, plans to be made, decisions taken, she was simply lost and terrified. And to make matters worse, after Maurice went to school she was very lonely. He was with her only in the holidays. For nine months out of the twelve she was alone, with nobody to love but her old dachshund. And at last even he failed her—fell ill, poor old beast, and had to be put out of his misery. It was shortly after poor old Fritz’s death that she first met Major Knoyle, as he then was.
+
+[013-185] “You say you brought that money?” Spandrell asked, breaking the long silence.
+
+[013-186] Mrs. Knoyle flushed. “Yes, it’s here,” she said, and opened her bag. The moment to speak had come. It was her duty to admonish, and the wad of bank notes gave her the right, the power. But the duty was odious and she had no wish to use her power. She raised her eyes and looked at him imploringly. “Maurice,” she begged, “why can’t you be reasonable? It’s such a madness, such a folly.”
+
+[013-187] Spandrell raised his eyebrows. “What’s a madness?” he asked, pretending not to know what she was talking about.
+
+[013-188] Embarrassed at being thus compelled to specify her vague reproaches, Mrs. Knoyle blushed. “You know what I mean,” she said. “This way of living. It’s bad and stupid. And such a waste, such a suicide. Besides, you’re not happy; I can see that.”
+
+[013-189] “Mayn’t I even be unhappy, if I want to?” he asked ironically.
+
+[013-190] “But do you want to make me unhappy, too?” she asked. “Because if you do, you succeed, Maurice, you succeed. You make me terribly unhappy.” The tears came into her eyes. She felt in her bag for a handkerchief.
+
+[013-191] Spandrell got up from his chair and began to walk up and down the room. “You didn’t think much of my happiness in the past,” he said.
+
+[013-192] His mother did not answer, but went on noiselessly crying.
+
+[013-193] “When you married that man,” he went on, “did you think of my happiness?”
+
+[013-194] “You know I thought it would be for the best,” she answered brokenly. She had explained it so often; she couldn’t begin again. “You know it,” she repeated.
+
+[013-195] “I only know what I felt and said at the time,” he answered. “You didn’t listen to me, and now you tell me you wanted to make me happy.”
+
+[013-196] “But you were so unreasonable,” she protested. “If you had given me any reasons …”
+
+[013-197] “Reasons,” he repeated slowly. “Did you honestly expect a boy of fifteen to tell his mother the reasons why he didn’t want her to share her bed with a stranger?”
+
+[013-198] He was thinking of that book which had circulated surreptitiously among the boys of his house at school. Disgusted and ashamed, but irresistibly fascinated, he had read it at night, by the light of an electric torch, under the bedclothes. *A Girls’ School in Paris* it was called, innocuously enough; but the contents were pure pornography. The sexual exploits of the military were pindarically exalted. A little later his mother wrote to him that she was going to marry Major Knoyle.
+
+[013-199] “It’s no good, Mother,” he said aloud. “Hadn’t we better talk about something else?”
+
+[013-200] Mrs. Knoyle drew her breath sharply and with determination, gave her eyes a final wipe, and put away the handkerchief. “I’m sorry,” she said. “It was stupid of me. Perhaps I’d better go.”
+
+[013-201] Secretly she hoped that he would protest, would beg her to stay. But he said nothing.
+
+[013-202] “Here’s the money,” she added.
+
+[013-203] He took the folded bank notes and stuffed them into the pocket of his dressing gown. “I’m sorry I had to ask you for it,” he said. “I was in a hole. I’ll try not to get into it again.”
+
+[013-204] He looked at her for a moment, smiling, and suddenly, through the worn mask, she seemed to see him as he was in boyhood. Tenderness like a soft warmth expanded within her, soft but irresistible. It would not be contained. She laid her hands on his shoulders.
+
+[013-205] “Goodbye, my darling boy,” she said, and Spandrell recognized in her voice that note which used to come into it when she talked to him of his dead father. She leaned forward to kiss him. Averting his face, he passively suffered her lips to touch his cheek.

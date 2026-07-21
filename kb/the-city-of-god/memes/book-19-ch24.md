@@ -1,0 +1,11 @@
+---
+description: "The definition which must be given of a people and a republic, in order to vindicate the assumption of these titles by the Romans and by other kingdoms."
+id: book-19-ch24
+label: "Book 19 — Ch. 24: XXIV"
+tags: ["chapter"]
+type: chapter
+---
+
+[593-001]The definition which must be given of a people and a republic, in order to vindicate the assumption of these titles by the Romans and by other kingdoms.
+
+[593-002]But if we discard this definition of a people, and, assuming another, say that a people is an assemblage of reasonable beings bound together by a common agreement as to the objects of their love, then, in order to discover the character of any people, we have only to observe what they love. Yet whatever it loves, if only it is an assemblage of reasonable beings and not of beasts, and is bound together by an agreement as to the objects of love, it is reasonably called a people; and it will be a superior people in proportion as it is bound together by higher interests, inferior in proportion as it is bound together by lower. According to this definition of ours, the Roman people is a people, and its weal is without doubt a commonwealth or republic. But what its tastes were in its early and subsequent days, and how it declined into sanguinary seditions and then to social and civil wars, and so burst asunder or rotted off the bond of concord in which the health of a people consists, history shows, and in the preceding books I have related at large. And yet I would not on this account say either that it was not a people, or that its administration was not a republic, so long as there remains an assemblage of reasonable beings bound together by a common agreement as to the objects of love. But what I say of this people and of this republic I must be understood to think and say of the Athenians or any Greek state, of the Egyptians, of the early Assyrian Babylon, and of every other nation, great or small, which had a public government. For, in general, the city of the ungodly, which did not obey the command of God that it should offer no sacrifice save to Him alone, and which, therefore, could not give to the soul its proper command over the body, nor to the reason its just authority over the vices, is void of true justice.

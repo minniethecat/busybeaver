@@ -1,0 +1,42 @@
+---
+description: "Note to Chapter II"
+id: Note-02
+label: "Note to Chapter II"
+tags: ["chapter"]
+type: chapter
+---
+
+## NOTE TO CHAPTER II.
+
+### Note B.—Negro Slaves.
+
+[046-001]The severe accuracy of some critics has objected to the complexion of the
+slaves of Brian de Bois-Guilbert, as being totally out of costume and
+propriety. I remember the same objection being made to a set of sable
+functionaries, whom my friend, Mat Lewis, introduced as the guards and
+mischief-doing satellites of the wicked Baron, in his Castle Spectre. Mat
+treated the objection with great contempt, and averred in reply, that he made
+the slaves black in order to obtain a striking effect of contrast, and that,
+could he have derived a similar advantage from making his heroine blue, blue
+she should have been.
+
+[046-002]I do not pretend to plead the immunities of my order so highly as this; but
+neither will I allow that the author of a modern antique romance is obliged to
+confine himself to the introduction of those manners only which can be proved
+to have absolutely existed in the times he is depicting, so that he restrain
+himself to such as are plausible and natural, and contain no obvious
+anachronism. In this point of view, what can be more natural, than that the
+Templars, who, we know, copied closely the luxuries of the Asiatic warriors
+with whom they fought, should use the service of the enslaved Africans, whom
+the fate of war transferred to new masters? I am sure, if there are no precise
+proofs of their having done so, there is nothing, on the other hand, that can
+entitle us positively to conclude that they never did. Besides, there is an
+instance in romance.
+
+[046-003]John of Rampayne, an excellent juggler and minstrel, undertook to effect the
+escape of one Audulf de Bracy, by presenting himself in disguise at the court
+of the king, where he was confined. For this purpose, “he stained his
+hair and his whole body entirely as black as jet, so that nothing was white but
+his teeth,” and succeeded in imposing himself on the king, as an
+Ethiopian minstrel. He effected, by stratagem, the escape of the prisoner.
+Negroes, therefore, must have been known in England in the dark ages. [60](3192617847664551881_82-h-57.htm.html#linknote-60)

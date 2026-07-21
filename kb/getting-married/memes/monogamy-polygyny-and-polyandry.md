@@ -1,0 +1,11 @@
+---
+description: "Chapter: MONOGAMY, POLYGYNY AND POLYANDRY"
+id: monogamy-polygyny-and-polyandry
+label: "MONOGAMY, POLYGYNY AND POLYANDRY"
+tags: ["chapter"]
+type: chapter
+---
+
+# MONOGAMY, POLYGYNY AND POLYANDRY
+
+[018-001]The number of wives permitted to a single husband or of husbands to a single wife under a marriage system, is not an ethical problem: it depends solely on the proportion of the sexes in the population. If in consequence of a great war three-quarters of the men in this country were killed, it would be absolutely necessary to adopt the Mohammedan allowance of four wives to each man in order to recruit the population. The fundamental reason for not allowing women to risk their lives in battle and for giving them the first chance of escape in all dangerous emergencies: in short, for treating their lives as more valuable than male lives, is not in the least a chivalrous reason, though men may consent to it under the illusion of chivalry. It is a simple matter of necessity; for if a large proportion of women were killed or disabled, no possible readjustment of our marriage law could avert the depopulation and consequent political ruin of the country, because a woman with several husbands bears fewer children than a woman with one, whereas a man can produce as many families as he has wives. The natural foundation of the institution of monogamy is not any inherent viciousness in polygyny or polyandry, but the hard fact that men and women are born in about equal numbers. Unfortunately, we kill so many of our male children in infancy that we are left with a surplus of adult women which is sufficiently large to claim attention, and yet not large enough to enable every man to have two wives. Even if it were, we should be met by an economic difficulty. A Kaffir is rich in proportion to the number of his wives, because the women are the breadwinners. But in our civilization women are not paid for their social work in the bearing and rearing of children and the ordering of households; they are quartered on the wages of their husbands. At least four out of five of our men could not afford two wives unless their wages were nearly doubled. Would it not then be well to try unlimited polygyny; so that the remaining fifth could have as many wives apiece as they could afford? Let us see how this would work.

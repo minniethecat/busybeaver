@@ -1,0 +1,5289 @@
+{
+  "book": "partners-in-crime",
+  "title": "Partners in Crime",
+  "description": "Partners in Crime — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 116,
+  "memes": [
+    {
+      "id": "118-haleham-street",
+      "type": "place",
+      "label": "\"118 Haleham Street\"",
+      "description": "\"The Bloomsbury office of the International Detective Agency, a somewhat dilapidated building where Tommy and Tuppence run their detective business under the alias of Theodore Blunt.\"",
+      "aliases": [
+        "International Detective Agency offices"
+      ],
+      "tags": [
+        "office",
+        "detective-agency",
+        "bloomsbury",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:118-haleham-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Partners in Crime\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"was published in 1929 by",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:Colophon",
+      "relations": []
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"This particular ebook is based on a transcription from [Project Gutenberg and on digital scans from the [Internet Archive.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "partners-in-crime:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-a-fairy-in-the-flat",
+          "label": "ch01-a-fairy-in-the-flat"
+        },
+        {
+          "type": "related",
+          "target": "ch02-a-pot-of-tea",
+          "label": "ch02-a-pot-of-tea"
+        },
+        {
+          "type": "related",
+          "target": "ch03-the-affair-of-the-pink-pearl",
+          "label": "ch03-the-affair-of-the-pink-pearl"
+        },
+        {
+          "type": "related",
+          "target": "ch04-the-adventure-of-the-sinister-stranger",
+          "label": "ch04-the-adventure-of-the-sinister-stranger"
+        },
+        {
+          "type": "related",
+          "target": "ch05-finessing-the-king",
+          "label": "ch05-finessing-the-king"
+        },
+        {
+          "type": "related",
+          "target": "ch06-the-gentleman-dressed-in-newspaper",
+          "label": "ch06-the-gentleman-dressed-in-newspaper"
+        },
+        {
+          "type": "related",
+          "target": "ch07-the-case-of-the-missing-lady",
+          "label": "ch07-the-case-of-the-missing-lady"
+        },
+        {
+          "type": "related",
+          "target": "ch08-blindmans-buff",
+          "label": "ch08-blindmans-buff"
+        },
+        {
+          "type": "related",
+          "target": "ch09-the-man-in-the-mist",
+          "label": "ch09-the-man-in-the-mist"
+        },
+        {
+          "type": "related",
+          "target": "ch10-the-crackler",
+          "label": "ch10-the-crackler"
+        },
+        {
+          "type": "related",
+          "target": "ch11-the-sunningdale-mystery",
+          "label": "ch11-the-sunningdale-mystery"
+        },
+        {
+          "type": "related",
+          "target": "ch12-the-house-of-lurking-death",
+          "label": "ch12-the-house-of-lurking-death"
+        },
+        {
+          "type": "related",
+          "target": "ch13-the-unbreakable-alibi",
+          "label": "ch13-the-unbreakable-alibi"
+        },
+        {
+          "type": "related",
+          "target": "ch14-the-clergymans-daughter",
+          "label": "ch14-the-clergymans-daughter"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-red-house",
+          "label": "ch15-the-red-house"
+        },
+        {
+          "type": "related",
+          "target": "ch16-the-ambassadors-boots",
+          "label": "ch16-the-ambassadors-boots"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "ch17-the-man-who-was-no-16"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"May you do good and not evil.",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "adlington-hall",
+      "type": "place",
+      "label": "\"Adlington Hall\"",
+      "description": "\"A country house where the Beresfords are hired to investigate a stolen pearl necklace — and are embarrassingly upstaged by the local police.\"",
+      "aliases": [],
+      "tags": [
+        "country-house",
+        "theft",
+        "failure"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:adlington-hall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "gilda-glen",
+          "label": "Gilda Glen"
+        }
+      ]
+    },
+    {
+      "id": "adventure-of-the-sinister-stranger",
+      "type": "event",
+      "label": "\"The Adventure of the Sinister Stranger\"",
+      "description": "\"A coded blue letter from Russia arrives at the Agency, triggering a confrontation with foreign agents who attempt to kidnap Tommy and retrieve the message.\"",
+      "aliases": [],
+      "tags": [
+        "espionage",
+        "coded-letter",
+        "kidnapping",
+        "counter-intelligence",
+        "secret-service"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:adventure-of-the-sinister-stranger",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "inspector-dymchurch",
+          "label": "Inspector Dymchurch"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "affair-of-the-pink-pearl",
+      "type": "event",
+      "label": "\"The Affair of the Pink Pearl\"",
+      "description": "\"The first case handled by the International Detective Agency — the theft of a valuable pink pearl at The Laurels, Wimbledon, investigated by Tommy as Dr. Thorndyke and Tuppence as his assistant.\"",
+      "aliases": [],
+      "tags": [
+        "case",
+        "theft",
+        "investigation",
+        "pink-pearl"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:affair-of-the-pink-pearl",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "the-laurels"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "partners-in-crime-novel"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "lady-laura",
+          "label": "Lady Laura Barton"
+        },
+        {
+          "type": "related",
+          "target": "mr-rennie",
+          "label": "Mr. Rennie"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective-method-acting"
+        }
+      ]
+    },
+    {
+      "id": "albert",
+      "type": "character",
+      "label": "\"Albert\"",
+      "description": "\"The Beresfords' loyal servant who becomes office boy at the International Detective Agency, known for his impersonations and enthusiastic assistance.\"",
+      "aliases": [],
+      "tags": [
+        "servant",
+        "office-boy",
+        "comic-relief"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:albert",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        }
+      ]
+    },
+    {
+      "id": "amateur-detective-tradition",
+      "type": "concept",
+      "label": "\"Amateur Detective Tradition\"",
+      "description": "\"The literary and cultural tradition of amateur sleuthing that Tommy and Tuppence consciously emulate and subvert throughout their Agency career.\"",
+      "aliases": [],
+      "tags": [
+        "detective-fiction",
+        "literary-tradition",
+        "amateur-sleuth",
+        "role-play"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:amateur-detective-tradition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        }
+      ]
+    },
+    {
+      "id": "ambassadors-boots",
+      "type": "event",
+      "label": "\"The Ambassador's Boots\"",
+      "description": "\"The American Ambassador hires the Agency to investigate a mysterious kitbag switch — leading Tommy to uncover a cocaine smuggling ring operating through a Bond Street beauty salon.\"",
+      "aliases": [],
+      "tags": [
+        "smuggling",
+        "drugs",
+        "diplomatic-bag",
+        "beauty-salon",
+        "american-ambassador"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:ambassadors-boots",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-wilmott",
+          "label": "Randolph Wilmott"
+        },
+        {
+          "type": "related",
+          "target": "senator-westerham",
+          "label": "Senator Westerham"
+        },
+        {
+          "type": "related",
+          "target": "cicely-march",
+          "label": "Cicely March"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "beresford-flat",
+      "type": "place",
+      "label": "\"Beresford Flat\"",
+      "description": "\"The London flat of Tommy and Tuppence Beresford, where the novel opens with Tuppence's declaration of boredom and Mr. Carter arrives to set the detective agency enterprise in motion.\"",
+      "aliases": [
+        "Beresfords' flat",
+        "the flat"
+      ],
+      "tags": [
+        "residence",
+        "london",
+        "novel-origin"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:beresford-flat",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "mr-carter"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "fairy-in-the-flat",
+          "label": "A Fairy in the Flat"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118-haleham-street"
+        }
+      ]
+    },
+    {
+      "id": "blindmans-buff",
+      "type": "event",
+      "label": "\"Blindman's Buff\"",
+      "description": "\"Mr. Carter warns the Beresfords that their cover is blown; Tommy is abducted by the espionage ring and must survive a lethal game of 'Blindman's Buff with death' on an electrified floor.\"",
+      "aliases": [],
+      "tags": [
+        "espionage",
+        "abduction",
+        "death-trap",
+        "counter-intelligence",
+        "blind-detective"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:blindmans-buff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        }
+      ]
+    },
+    {
+      "id": "blitz-hotel",
+      "type": "place",
+      "label": "\"The Blitz Hotel\"",
+      "description": "\"A London hotel featured in multiple Agency cases, most notably as the scene of Tuppence's kidnapping in the final confrontation with superspy No. 16.\"",
+      "aliases": [],
+      "tags": [
+        "hotel",
+        "kidnapping",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:blitz-hotel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "mrs-van-snyder",
+          "label": "Mrs. Van Snyder"
+        }
+      ]
+    },
+    {
+      "id": "bloomsbury-office",
+      "type": "place",
+      "label": "\"Bloomsbury Office\"",
+      "description": "\"The second-floor offices of the International Detective Agency at 118 Haleham Street, Bloomsbury — the operational headquarters of Blunt's Brilliant Detectives.\"",
+      "aliases": [],
+      "tags": [
+        "office",
+        "agency-headquarters",
+        "bloomsbury",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:bloomsbury-office",
+      "relations": [
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118 Haleham Street"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-dressed-in-newspaper",
+          "label": "The Gentleman Dressed in Newspaper"
+        },
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        }
+      ]
+    },
+    {
+      "id": "blunts-brilliant-detectives",
+      "type": "concept",
+      "label": "\"Blunt's Brilliant Detectives\"",
+      "description": "\"The theatrical advertising slogan and operational philosophy of the International Detective Agency, coined by Tommy and Tuppence Beresford, embodying the deliberate performance of professional competence that defines their approach to detective work.\"",
+      "aliases": [
+        "Blunt's Brilliant Detectives slogan"
+      ],
+      "tags": [
+        "advertising",
+        "branding",
+        "theatricality",
+        "detective-persona"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:blunts-brilliant-detectives",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "beresford-flat"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective-method-acting"
+        }
+      ]
+    },
+    {
+      "id": "blunts-brilliant-detectives-firm",
+      "type": "organization",
+      "label": "\"Blunt's Brilliant Detectives (Firm)\"",
+      "description": "\"The commercial identity of the International Detective Agency as advertised in the Daily Leader — a private inquiry firm staffed by 'a large staff of confidential and highly skilled Inquiry Agents.'\"",
+      "aliases": [],
+      "tags": [
+        "detective-agency",
+        "advertising",
+        "business",
+        "commercial-identity"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:blunts-brilliant-detectives-firm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "pot-of-tea",
+          "label": "A Pot of Tea"
+        },
+        {
+          "type": "related",
+          "target": "red-house",
+          "label": "The Red House"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        }
+      ]
+    },
+    {
+      "id": "british-secret-service",
+      "type": "organization",
+      "label": "\"British Secret Service\"",
+      "description": "\"The intelligence organization for which Tommy Beresford works, directed by Mr. Carter, which uses the International Detective Agency as a cover for monitoring foreign espionage activities.\"",
+      "aliases": [
+        "Secret Service"
+      ],
+      "tags": [
+        "intelligence",
+        "espionage",
+        "government"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:british-secret-service",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        }
+      ]
+    },
+    {
+      "id": "captain-hale",
+      "type": "character",
+      "label": "\"Captain Bingo Hale\"",
+      "description": "\"Friend of the Merivales and suspect in the theft of the pink pearl at Chapter 6's fancy dress ball\"",
+      "aliases": [
+        "Bingo Hale",
+        "Captain Hale"
+      ],
+      "tags": [
+        "suspect",
+        "jewel-theft",
+        "chapter-6"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:captain-hale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "affair-of-the-pink-pearl"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "inspector-marriot"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "sir-arthur-merivale"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "captain-sessle",
+      "type": "character",
+      "label": "\"Captain Anthony Sessle\"",
+      "description": "\"Ex-soldier and golf enthusiast murdered at Sunningdale, central to the case investigated by Tommy and Tuppence in Chapter 11\"",
+      "aliases": [
+        "Anthony Sessle",
+        "Captain Sessle"
+      ],
+      "tags": [
+        "victim",
+        "murder-case",
+        "golf",
+        "chapter-11"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:captain-sessle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sessle",
+          "label": "Mrs. Sessle"
+        },
+        {
+          "type": "related",
+          "target": "mr-hollaby",
+          "label": "Mr. Hollaby"
+        },
+        {
+          "type": "related",
+          "target": "doris-evans",
+          "label": "doris-evans"
+        }
+      ]
+    },
+    {
+      "id": "case-of-the-missing-lady",
+      "type": "event",
+      "label": "\"The Case of the Missing Lady\"",
+      "description": "\"A missing person investigation that draws Tommy and Tuppence into a case of deception involving the disappearance of a woman and the secret of the number sixteen.\"",
+      "aliases": [],
+      "tags": [
+        "case",
+        "missing-person",
+        "investigation",
+        "deception",
+        "intelligence"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:case-of-the-missing-lady",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "number-sixteen-code",
+          "label": "number sixteen"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        }
+      ]
+    },
+    {
+      "id": "ch01-a-fairy-in-the-flat",
+      "type": "chapter",
+      "label": "\"I — A Fairy in the Flat\"",
+      "description": "\"Mrs. Thomas Beresford shifted her position on the divan and looked gloomily out of the window of the flat.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch01-a-fairy-in-the-flat",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Thomas Beresford"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "the flat"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "ch02-a-pot-of-tea",
+      "type": "chapter",
+      "label": "\"II — A Pot of Tea\"",
+      "description": "\"Mr. and Mrs. Beresford took possession of the offices of the International Detective Agency a few days later.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch02-a-pot-of-tea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "lawrence-st-vincent",
+          "label": "Lawrence St. Vincent"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        }
+      ]
+    },
+    {
+      "id": "ch03-the-affair-of-the-pink-pearl",
+      "type": "chapter",
+      "label": "\"III — The Affair of the Pink Pearl\"",
+      "description": "\"“What on earth are you doing?” demanded Tuppence, as she entered the inner sanctum of the International Detective Agency﻿—(Slogan﻿—Blunt’s Brilliant Detectives).\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch03-the-affair-of-the-pink-pearl",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "lady-laura",
+          "label": "Lady Laura Barton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-betts",
+          "label": "Mrs. Betts"
+        },
+        {
+          "type": "related",
+          "target": "mr-rennie",
+          "label": "Mr. Rennie"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Detective Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "ch04-the-adventure-of-the-sinister-stranger",
+      "type": "chapter",
+      "label": "\"IV — The Adventure of the Sinister Stranger\"",
+      "description": "\"“It’s been a darned dull day,” said Tommy, and yawned widely.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch04-the-adventure-of-the-sinister-stranger",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "dr-bower",
+          "label": "Dr. Charles Bower"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "The Chief"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-dymchurch",
+          "label": "Detective Inspector Dymchurch"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch05-finessing-the-king",
+      "type": "chapter",
+      "label": "\"V — Finessing the King\"",
+      "description": "\"It was a wet Wednesday in the offices of the International Detective Agency. Tuppence let the Daily Leader fall idly from her hand.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch05-finessing-the-king",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "the flat"
+        }
+      ]
+    },
+    {
+      "id": "ch06-the-gentleman-dressed-in-newspaper",
+      "type": "chapter",
+      "label": "\"VI — The Gentleman Dressed in Newspaper\"",
+      "description": "\"It was after three o’clock when, weary and sick at heart, the husband and wife reached home. Several hours passed before Tuppence could sleep.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch06-the-gentleman-dressed-in-newspaper",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Bingo Hale"
+        },
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "the Yard"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "the flat"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        }
+      ]
+    },
+    {
+      "id": "ch07-the-case-of-the-missing-lady",
+      "type": "chapter",
+      "label": "\"VII — The Case of the Missing Lady\"",
+      "description": "\"The buzzer on Mr. Blunt’s desk﻿—(International Detective Agency, Manager, Theodore Blunt)﻿—uttered its warning call.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch07-the-case-of-the-missing-lady",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "leigh-gordon",
+          "label": "Mrs. Maurice Leigh Gordon"
+        },
+        {
+          "type": "related",
+          "target": "lady-susan",
+          "label": "Lady Susan Clonray"
+        },
+        {
+          "type": "related",
+          "target": "mr-stavansson",
+          "label": "Mr. Stavansson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-horriston",
+          "label": "Dr. Horriston"
+        }
+      ]
+    },
+    {
+      "id": "ch08-blindmans-buff",
+      "type": "chapter",
+      "label": "\"VIII — Blindman's Buff\"",
+      "description": "\"“Right,” said Tommy, and replaced the receiver on its hook.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch08-blindmans-buff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "The Chief"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "miss-ganges",
+          "label": "Miss Ganges"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        }
+      ]
+    },
+    {
+      "id": "ch09-the-man-in-the-mist",
+      "type": "chapter",
+      "label": "\"IX — The Man in the Mist\"",
+      "description": "\"Tommy was not pleased with life. Blunt’s Brilliant Detectives had met with a reverse, distressing to their pride if not to their pockets.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch09-the-man-in-the-mist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "adlington-hall",
+          "label": "Adlington Hall"
+        },
+        {
+          "type": "related",
+          "target": "gilda-glen",
+          "label": "Miss Gilda Glen"
+        },
+        {
+          "type": "related",
+          "target": "james-reilly",
+          "label": "James Reilly"
+        },
+        {
+          "type": "related",
+          "target": "mrs-honeycott",
+          "label": "Mrs. Honeycott"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch10-the-crackler",
+      "type": "chapter",
+      "label": "\"X — The Crackler\"",
+      "description": "\"“Tuppence,” said Tommy, “we shall have to move into a much larger office.”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch10-the-crackler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        },
+        {
+          "type": "related",
+          "target": "major-laidlaw",
+          "label": "Major Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "marguerite-laidlaw",
+          "label": "Marguerite Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "mrs-laidlaw",
+          "label": "Mrs. Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "mr-ryder",
+          "label": "Hank Ryder"
+        }
+      ]
+    },
+    {
+      "id": "ch11-the-sunningdale-mystery",
+      "type": "chapter",
+      "label": "\"XI — The Sunningdale Mystery\"",
+      "description": "\"“Do you know where we are going to lunch today, Tuppence?”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch11-the-sunningdale-mystery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "The Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "captain-sessle",
+          "label": "Captain Sessle"
+        },
+        {
+          "type": "related",
+          "target": "mr-hollaby",
+          "label": "Mr. Hollaby"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sessle",
+          "label": "Mrs. Sessle"
+        },
+        {
+          "type": "related",
+          "target": "doris-evans",
+          "label": "Doris Evans"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "the Yard"
+        }
+      ]
+    },
+    {
+      "id": "ch12-the-house-of-lurking-death",
+      "type": "chapter",
+      "label": "\"XII — The House of Lurking Death\"",
+      "description": "\"“What﻿—” began Tuppence, and then stopped.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch12-the-house-of-lurking-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "lois-hargreaves",
+          "label": "Lois Hargreaves"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "dr-burton",
+          "label": "Dr. Burton"
+        },
+        {
+          "type": "related",
+          "target": "lady-radclyffe",
+          "label": "Lady Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "dennis-radclyffe",
+          "label": "Dennis Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "miss-logan",
+          "label": "Miss Logan"
+        },
+        {
+          "type": "related",
+          "target": "mary-chilcott",
+          "label": "Mary Chilcott"
+        }
+      ]
+    },
+    {
+      "id": "ch13-the-unbreakable-alibi",
+      "type": "chapter",
+      "label": "\"XIII — The Unbreakable Alibi\"",
+      "description": "\"Tommy and Tuppence were busy sorting correspondence. Tuppence gave an exclamation and handed a letter across to Tommy.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch13-the-unbreakable-alibi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-jones",
+          "label": "Mr. Montgomery Jones"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "una-drake",
+          "label": "Una Drake"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "the flat"
+        }
+      ]
+    },
+    {
+      "id": "ch14-the-clergymans-daughter",
+      "type": "chapter",
+      "label": "\"XIV — The Clergyman's Daughter\"",
+      "description": "\"“I wish,” said Tuppence, roaming moodily round the office, “that we could befriend a clergyman’s daughter.”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch14-the-clergymans-daughter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "monica-deane",
+          "label": "Monica Deane"
+        },
+        {
+          "type": "related",
+          "target": "miss-sheringham",
+          "label": "Miss Sheringham"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "red-house",
+          "label": "The Red House"
+        }
+      ]
+    },
+    {
+      "id": "ch15-the-red-house",
+      "type": "chapter",
+      "label": "\"XV — The Red House\"",
+      "description": "\"“Well,” said Tommy, looking out of the window of the Crown and Anchor, “here we are at Toad in the Hole﻿—or whatever this blasted village is called.”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch15-the-red-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monica-deane",
+          "label": "Monica Deane"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Mrs. Beresford"
+        }
+      ]
+    },
+    {
+      "id": "ch16-the-ambassadors-boots",
+      "type": "chapter",
+      "label": "\"XVI — The Ambassador's Boots\"",
+      "description": "\"“My dear fellow, my dear fellow,” said Tuppence and waved a heavily buttered muffin.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch16-the-ambassadors-boots",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-wilmott",
+          "label": "Randolph Wilmott"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "senator-westerham",
+          "label": "Senator Westerham"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "cicely-march",
+          "label": "Miss Cicely March"
+        }
+      ]
+    },
+    {
+      "id": "ch17-the-man-who-was-no-16",
+      "type": "chapter",
+      "label": "\"XVII — The Man Who Was No. 16\"",
+      "description": "\"Tommy and Tuppence were closeted with the Chief in his private room. His commendation had been warm and sincere.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "partners-in-crime:ch17-the-man-who-was-no-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "mrs-van-snyder",
+          "label": "Mrs. Cortlandt Van Snyder"
+        }
+      ]
+    },
+    {
+      "id": "chapter-1-a-fairy-in-the-flat-work",
+      "type": "work",
+      "label": "\"A Fairy in the Flat (Chapter I)\"",
+      "description": "\"Chapter I of Partners in Crime, in which Tuppence's boredom with domestic life is interrupted by Mr. Carter's proposal to run the International Detective Agency as an intelligence cover.\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "setup",
+        "novel-opening"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:chapter-1-a-fairy-in-the-flat-work",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "Beresford flat"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "number-sixteen-code",
+          "label": "number 16 signal"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective method acting"
+        }
+      ]
+    },
+    {
+      "id": "character-index",
+      "type": "list",
+      "label": "character-index",
+      "description": "Complete index of all characters appearing in the Partners in Crime stories, sorted alphabetically by label.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "character",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "partners-in-crime:character-index",
+      "relations": []
+    },
+    {
+      "id": "cicely-march",
+      "type": "character",
+      "label": "Cicely March",
+      "description": "A young lady who calls upon Tommy Beresford in Chapter 16, \"The Ambassador's Boots,\" becoming entangled in a physical confrontation during the investigation.",
+      "aliases": [
+        "Miss Cicely March"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:cicely-march",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "detective agency"
+        },
+        {
+          "type": "related",
+          "target": "ambassadors-boots",
+          "label": "The Ambassador's Boots"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "theodore-blunt"
+        }
+      ]
+    },
+    {
+      "id": "class-and-society-1920s-england",
+      "type": "insight",
+      "label": "\"Class and Society in 1920s England\"",
+      "description": "\"An analysis of how the Partners in Crime stories reflect and critique the class structures, social conventions, and gender dynamics of post-World War I England.\"",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "literary-analysis",
+        "social-history",
+        "class",
+        "gender",
+        "1920s"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:class-and-society-1920s-england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "Beresford flat"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective-method-acting"
+        }
+      ]
+    },
+    {
+      "id": "clergymans-daughter",
+      "type": "event",
+      "label": "\"The Clergyman's Daughter\"",
+      "description": "\"Monica Deane seeks the Agency's help with supernatural disturbances at the Red House — a poltergeist case that masks a treasure hunt.\"",
+      "aliases": [],
+      "tags": [
+        "poltergeist",
+        "haunted-house",
+        "treasure",
+        "inheritance",
+        "hoax"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:clergymans-daughter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monica-deane",
+          "label": "Monica Deane"
+        }
+      ]
+    },
+    {
+      "id": "daily-leader-newspaper",
+      "type": "work",
+      "label": "\"The Daily Leader\"",
+      "description": "\"The newspaper in which the Beresfords place advertisements for Blunt's Brilliant Detectives and through which coded messages are transmitted.\"",
+      "aliases": [],
+      "tags": [
+        "newspaper",
+        "advertising",
+        "coded-messages",
+        "media"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:daily-leader-newspaper",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "The Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        }
+      ]
+    },
+    {
+      "id": "dennis-radclyffe",
+      "type": "character",
+      "label": "\"Dennis Radclyffe\"",
+      "description": "\"Nephew of Lady Radclyffe and prime suspect in her poisoning at the House of Lurking Death\"",
+      "aliases": [],
+      "tags": [
+        "suspect",
+        "heir",
+        "poisoning"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:dennis-radclyffe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-radclyffe",
+          "label": "Lady Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "house-of-lurking-death"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "lois-hargreaves",
+          "label": "lois-hargreaves"
+        }
+      ]
+    },
+    {
+      "id": "detective-fiction-influences",
+      "type": "insight",
+      "label": "\"Detective Fiction Influences in Partners in Crime\"",
+      "description": "\"An analysis of how Agatha Christie's Partners in Crime engages with the detective fiction tradition through homage, pastiche, and gentle satire.\"",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "literary-analysis",
+        "detective-fiction",
+        "metafiction"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:detective-fiction-influences",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective method acting"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "amateur-detective-tradition",
+          "label": "amateur-detective-tradition"
+        }
+      ]
+    },
+    {
+      "id": "detective-method-acting",
+      "type": "concept",
+      "label": "\"Detective Method Acting\"",
+      "description": "\"Tommy's distinctive approach to investigation, in which he adopts the persona and methods of famous fictional detectives — such as Sherlock Holmes or Hercule Poirot — to solve each new case.\"",
+      "aliases": [
+        "detective persona technique"
+      ],
+      "tags": [
+        "detection-method",
+        "role-playing",
+        "literary-reference"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:detective-method-acting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "number-sixteen-code",
+          "label": "Number Sixteen code"
+        },
+        {
+          "type": "related",
+          "target": "amateur-detective-tradition",
+          "label": "amateur detective tradition"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        }
+      ]
+    },
+    {
+      "id": "disguise-and-identity",
+      "type": "concept",
+      "label": "\"Disguise and Identity\"",
+      "description": "\"The recurrent theme of disguise, impersonation, and mistaken identity that pervades the Beresfords' cases.\"",
+      "aliases": [],
+      "tags": [
+        "disguise",
+        "identity",
+        "impersonation",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:disguise-and-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "mrs-van-snyder",
+          "label": "Mrs. Van Snyder"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "adlington-hall",
+          "label": "Adlington Hall"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        }
+      ]
+    },
+    {
+      "id": "doctor-horriston",
+      "type": "character",
+      "label": "Dr. Horriston",
+      "description": "A doctor practising a questionable new treatment involving injections, mentioned in Chapter 7, \"The Case of the Missing Lady.\"",
+      "aliases": [
+        "Dr Horriston"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:doctor-horriston",
+      "relations": [
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "mr-stavansson",
+          "label": "Mr. Stavansson"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        }
+      ]
+    },
+    {
+      "id": "doris-evans",
+      "type": "character",
+      "label": "\"Doris Evans\"",
+      "description": "\"Young woman falsely accused of murdering Captain Sessle, defended by the Beresfords' investigation in Chapter 11\"",
+      "aliases": [],
+      "tags": [
+        "accused",
+        "murder-case",
+        "chapter-11"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:doris-evans",
+      "relations": [
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "captain-sessle",
+          "label": "captain-sessle"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-hollaby",
+          "label": "Hollaby"
+        }
+      ]
+    },
+    {
+      "id": "dr-bower",
+      "type": "character",
+      "label": "Dr. Charles Bower",
+      "description": "A massive, limping client whose consultation at the International Detective Agency conceals the identity of a notorious criminal mastermind known as \"Clubfoot\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:dr-bower",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "finessing-the-king"
+        }
+      ]
+    },
+    {
+      "id": "dr-burton",
+      "type": "character",
+      "label": "\"Dr. Burton\"",
+      "description": "\"Physician involved in the investigation of Miss Logan's ricin poisoning in Chapter 12\"",
+      "aliases": [],
+      "tags": [
+        "doctor",
+        "poisoning",
+        "chapter-12"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:dr-burton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-logan",
+          "label": "miss-logan"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        }
+      ]
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "event-index",
+      "description": "Complete index of all events in the Partners in Crime stories, sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "event",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "partners-in-crime:event-index",
+      "relations": []
+    },
+    {
+      "id": "fairy-in-the-flat",
+      "type": "event",
+      "label": "\"A Fairy in the Flat\"",
+      "description": "\"The founding event of the International Detective Agency, in which Mr. Carter recruits Tommy and Tuppence Beresford to run a detective agency as cover for Secret Service work.\"",
+      "aliases": [],
+      "tags": [
+        "agency-founding",
+        "secret-service",
+        "cover-operation"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:fairy-in-the-flat",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118 Haleham Street"
+        }
+      ]
+    },
+    {
+      "id": "finessing-the-king",
+      "type": "event",
+      "label": "\"Finessing the King\"",
+      "description": "\"Tuppence and Tommy investigate a cryptic personal advertisement that leads them to a masked ball and a murder at the Three Arts Club.\"",
+      "aliases": [],
+      "tags": [
+        "masked-ball",
+        "murder",
+        "personal-advertisement",
+        "bridge-metaphor"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:finessing-the-king",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Captain Hale"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "gentleman-dressed-in-newspaper",
+      "type": "event",
+      "label": "\"The Gentleman Dressed in Newspaper\"",
+      "description": "\"The aftermath of the masked ball murder, in which Inspector Marriot brings Sir Arthur Merivale to the Agency to hear Tuppence's testimony — leading to the killer's exposure and spectacular demise.\"",
+      "aliases": [],
+      "tags": [
+        "confrontation",
+        "suicide",
+        "testimony",
+        "murder-investigation"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:gentleman-dressed-in-newspaper",
+      "relations": [
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "the flat"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Captain Hale"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "gilda-glen",
+      "type": "character",
+      "label": "Gilda Glen",
+      "description": "Famous British actress and central victim in \"The Crackler\" case, widely regarded as the most beautiful woman in England",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:gilda-glen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "the-crackler"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "james-reilly",
+          "label": "james-reilly"
+        },
+        {
+          "type": "related",
+          "target": "mrs-honeycott",
+          "label": "Mrs. Honeycott"
+        }
+      ]
+    },
+    {
+      "id": "house-of-lurking-death",
+      "type": "event",
+      "label": "\"The House of Lurking Death\"",
+      "description": "\"An investigation at a country house where Tommy and Tuppence face a poisoning threat, requiring them to identify the would-be killer among the household before another attempt succeeds.\"",
+      "aliases": [],
+      "tags": [
+        "case",
+        "poisoning",
+        "investigation",
+        "country-house"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:house-of-lurking-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lois-hargreaves",
+          "label": "Lois Hargreaves"
+        },
+        {
+          "type": "related",
+          "target": "mary-chilcott",
+          "label": "Mary Chilcott"
+        },
+        {
+          "type": "related",
+          "target": "dennis-radclyffe",
+          "label": "Dennis Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "lady-radclyffe",
+          "label": "Lady Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        }
+      ]
+    },
+    {
+      "id": "inspector-dymchurch",
+      "type": "character",
+      "label": "\"Detective Inspector Dymchurch\"",
+      "description": "\"A man impersonating a Scotland Yard detective who becomes entangled in Tommy Beresford's investigation of a criminal scheme in Chapter 4\"",
+      "aliases": [
+        "Inspector Dymchurch",
+        "Dymchurch"
+      ],
+      "tags": [
+        "impostor",
+        "criminal",
+        "police",
+        "chapter-4"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:inspector-dymchurch",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "clergymans-daughter",
+          "label": "The Clergyman's Daughter"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "inspector-french",
+      "type": "character",
+      "label": "Inspector French",
+      "description": "A detective referenced by Tuppence Beresford in Chapter 13, \"The Unbreakable Alibi,\" as a benchmark of methodical police investigation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:inspector-french",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "unbreakable-alibi",
+          "label": "The Unbreakable Alibi"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "inspector-marriot"
+        }
+      ]
+    },
+    {
+      "id": "inspector-marriot",
+      "type": "character",
+      "label": "\"Inspector Marriot\"",
+      "description": "\"A Scotland Yard detective who acts as liaison between the police and the International Detective Agency, providing cases and backup for Tommy and Tuppence.\"",
+      "aliases": [
+        "Detective Inspector Marriot"
+      ],
+      "tags": [
+        "detective",
+        "police",
+        "scotland-yard"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:inspector-marriot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "The Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        }
+      ]
+    },
+    {
+      "id": "international-detective-agency",
+      "type": "organization",
+      "label": "\"International Detective Agency\"",
+      "description": "\"The detective firm at 118 Haleham Street, Bloomsbury, operated by Tommy Beresford under the alias Theodore Blunt, functioning as both a legitimate private investigation business and a Secret Service intelligence cover.\"",
+      "aliases": [
+        "Blunt's International Detective Agency",
+        "Blunt's Brilliant Detectives",
+        "The Agency"
+      ],
+      "tags": [
+        "detective-agency",
+        "intelligence-cover",
+        "secret-service"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:international-detective-agency",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118-haleham-street"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "albert"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "british-secret-service"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "affair-of-the-pink-pearl"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "case-of-the-missing-lady"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "sunningdale-mystery"
+        },
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "house-of-lurking-death"
+        },
+        {
+          "type": "related",
+          "target": "lois-hargreaves",
+          "label": "Lois Hargreaves"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "ch11-the-sunningdale-mystery",
+          "label": "The Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "ch12-the-house-of-lurking-death",
+          "label": "The House of Lurking Death"
+        },
+        {
+          "type": "related",
+          "target": "ch13-the-unbreakable-alibi",
+          "label": "The Unbreakable Alibi"
+        },
+        {
+          "type": "related",
+          "target": "ch14-the-clergymans-daughter",
+          "label": "The Clergyman's Daughter"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-red-house",
+          "label": "The Red House"
+        },
+        {
+          "type": "related",
+          "target": "ch16-the-ambassadors-boots",
+          "label": "The Ambassador's Boots"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "blunts-brilliant-detectives"
+        }
+      ]
+    },
+    {
+      "id": "james-reilly",
+      "type": "character",
+      "label": "\"James Reilly\"",
+      "description": "\"Red-haired Irish poet and suspect in a forgery case investigated at the International Detective Agency\"",
+      "aliases": [],
+      "tags": [
+        "suspect",
+        "poet",
+        "forger"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:james-reilly",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "kingston-bruce",
+      "type": "character",
+      "label": "\"Colonel Kingston Bruce\"",
+      "description": "\"Retired military officer who hires the Beresfords to investigate the theft of a valuable pearl from his home in Chapter 3\"",
+      "aliases": [
+        "Colonel Kingston Bruce",
+        "Charles Kingston Bruce"
+      ],
+      "tags": [
+        "client",
+        "jewel-theft",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:kingston-bruce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-betts",
+          "label": "Mrs. Betts"
+        }
+      ]
+    },
+    {
+      "id": "lady-laura",
+      "type": "character",
+      "label": "\"Lady Laura Barton\"",
+      "description": "\"Aristocratic woman present at the Kingston Bruce household when a pearl is stolen; central to the investigation in Chapter 3\"",
+      "aliases": [],
+      "tags": [
+        "witness",
+        "jewel-theft",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lady-laura",
+      "relations": [
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "kingston-bruce"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-rennie",
+          "label": "Mr. Rennie"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        }
+      ]
+    },
+    {
+      "id": "lady-merivale",
+      "type": "character",
+      "label": "Lady Merivale",
+      "description": "Wife of Sir Arthur Merivale and a key figure in the pink pearl case of Chapter 6, \"The Gentleman Dressed in Newspaper.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lady-merivale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "gentleman-dressed-in-newspaper",
+          "label": "The Gentleman Dressed in Newspaper"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        }
+      ]
+    },
+    {
+      "id": "lady-radclyffe",
+      "type": "character",
+      "label": "Lady Radclyffe",
+      "description": "The wealthy aunt and guardian mentioned in Chapter 12, \"The House of Lurking Death,\" whose will figures significantly in the case.",
+      "aliases": [
+        "Lucy Radclyffe"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lady-radclyffe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dennis-radclyffe",
+          "label": "Dennis Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "The House of Lurking Death"
+        },
+        {
+          "type": "related",
+          "target": "mary-chilcott",
+          "label": "mary-chilcott"
+        }
+      ]
+    },
+    {
+      "id": "lady-susan",
+      "type": "character",
+      "label": "\"Lady Susan Clonray\"",
+      "description": "\"Aunt of a missing young woman who becomes a key figure in the investigation conducted by Tommy Beresford in Chapter 7\"",
+      "aliases": [
+        "Lady Susan Clonray",
+        "Lady Clonray"
+      ],
+      "tags": [
+        "aristocrat",
+        "guardian",
+        "chapter-7"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lady-susan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "adventure-of-the-sinister-stranger",
+          "label": "The Adventure of the Sinister Stranger"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        }
+      ]
+    },
+    {
+      "id": "lawrence-st-vincent",
+      "type": "character",
+      "label": "\"Lawrence St. Vincent\"",
+      "description": "\"Young heir and client who seeks the Beresfords' help after his fiancée disappears in Chapter 2, the Sunningdale Mystery\"",
+      "aliases": [],
+      "tags": [
+        "client",
+        "missing-person",
+        "chapter-2"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lawrence-st-vincent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "sunningdale-mystery"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        },
+        {
+          "type": "related",
+          "target": "captain-sessle",
+          "label": "Captain Sessle"
+        }
+      ]
+    },
+    {
+      "id": "leigh-gordon",
+      "type": "character",
+      "label": "Mrs. Maurice Leigh Gordon",
+      "description": "Formerly the Honorable Hermione Crane, a widow engaged to explorer Gabriel Stavansson who becomes the subject of a suspicious disappearance in \"The Ambassador's Boots\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:leigh-gordon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ambassadors-boots",
+          "label": "ambassadors-boots"
+        },
+        {
+          "type": "related",
+          "target": "mr-stavansson",
+          "label": "Gabriel Stavansson"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        }
+      ]
+    },
+    {
+      "id": "lois-hargreaves",
+      "type": "character",
+      "label": "Lois Hargreaves",
+      "description": "Young heiress of Thurnly Grange and client of the International Detective Agency, targeted by a poisoner within her own household in \"The House of Lurking Death\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:lois-hargreaves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "house-of-lurking-death"
+        },
+        {
+          "type": "related",
+          "target": "lady-radclyffe",
+          "label": "Lady Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "dennis-radclyffe",
+          "label": "Dennis Radclyffe"
+        },
+        {
+          "type": "related",
+          "target": "dr-burton",
+          "label": "Dr. Burton"
+        },
+        {
+          "type": "related",
+          "target": "mary-chilcott",
+          "label": "mary-chilcott"
+        },
+        {
+          "type": "related",
+          "target": "miss-logan",
+          "label": "Miss Logan"
+        }
+      ]
+    },
+    {
+      "id": "major-laidlaw",
+      "type": "character",
+      "label": "Major Laidlaw",
+      "description": "A military man known in connection with financial schemes, central to the \"Crackler\" case in Chapter 10.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:major-laidlaw",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-laidlaw",
+          "label": "Mrs. Laidlaw"
+        }
+      ]
+    },
+    {
+      "id": "man-in-the-mist",
+      "type": "event",
+      "label": "\"The Man in the Mist\"",
+      "description": "\"After a failed case at Adlington Hall, the Beresfords encounter the famous actress Gilda Glen — and Tommy, still in clerical disguise, becomes entangled in her murder investigation.\"",
+      "aliases": [],
+      "tags": [
+        "murder",
+        "actress",
+        "clerical-disguise",
+        "policeman-killer"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:man-in-the-mist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "adlington-hall",
+          "label": "Adlington Hall"
+        },
+        {
+          "type": "related",
+          "target": "gilda-glen",
+          "label": "Gilda Glen"
+        },
+        {
+          "type": "related",
+          "target": "james-reilly",
+          "label": "James Reilly"
+        },
+        {
+          "type": "related",
+          "target": "mrs-honeycott",
+          "label": "Mrs. Honeycott"
+        }
+      ]
+    },
+    {
+      "id": "man-who-was-no-16",
+      "type": "event",
+      "label": "\"The Man Who Was No. 16\"",
+      "description": "\"The final case: a Russian superspy arrives in London to investigate the compromised intelligence network, and Tommy must rescue Tuppence from a kidnapping at the Blitz Hotel.\"",
+      "aliases": [],
+      "tags": [
+        "superspy",
+        "kidnapping",
+        "finale",
+        "secret-service",
+        "disguise",
+        "rescue"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:man-who-was-no-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Bureau"
+        },
+        {
+          "type": "related",
+          "target": "mrs-van-snyder",
+          "label": "Mrs. Van Snyder"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        }
+      ]
+    },
+    {
+      "id": "marguerite-laidlaw",
+      "type": "character",
+      "label": "Marguerite Laidlaw",
+      "description": "Enchanting French wife of Major Laidlaw and a key distributor in a sophisticated counterfeit currency ring uncovered in \"The Crackler\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:marguerite-laidlaw",
+      "relations": [
+        {
+          "type": "related",
+          "target": "major-laidlaw",
+          "label": "Major Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "the-crackler"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "mr-ryder",
+          "label": "Hank Ryder"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mary-chilcott",
+      "type": "character",
+      "label": "Mary Chilcott",
+      "description": "An old school friend and house guest present during the poisoning at Thurnly Grange in Chapter 12, \"The House of Lurking Death.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mary-chilcott",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "The House of Lurking Death"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "dennis-radclyffe",
+          "label": "dennis-radclyffe"
+        }
+      ]
+    },
+    {
+      "id": "miss-ganges",
+      "type": "character",
+      "label": "Miss Ganges",
+      "description": "A confidential secretary \"found on the banks of the Indus\" who assists Tommy Beresford during the Blindman's Buff investigation in Chapter 8.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:miss-ganges",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        }
+      ]
+    },
+    {
+      "id": "miss-logan",
+      "type": "character",
+      "label": "\"Miss Logan\"",
+      "description": "\"Companion to Aunt Lucy and victim of a ricin poisoning attempt investigated by the Beresfords in Chapter 12\"",
+      "aliases": [],
+      "tags": [
+        "victim",
+        "poisoning",
+        "chapter-12"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:miss-logan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "unbreakable-alibi",
+          "label": "The Unbreakable Alibi"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "dr-burton",
+          "label": "Dr. Burton"
+        }
+      ]
+    },
+    {
+      "id": "miss-robinson",
+      "type": "character",
+      "label": "\"Miss Robinson\"",
+      "description": "\"Tuppence Beresford's alias and cover identity as confidential secretary at the International Detective Agency\"",
+      "aliases": [
+        "Miss Robinson"
+      ],
+      "tags": [
+        "alias",
+        "agency-staff",
+        "cover-identity"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:miss-robinson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "The Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "miss-sheringham",
+      "type": "character",
+      "label": "Miss Sheringham",
+      "description": "Confidential secretary at the detective agency who assists Tommy Beresford during the investigation in Chapter 14, \"The Clergyman's Daughter.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:miss-sheringham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "detective agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "clergymans-daughter",
+          "label": "The Clergyman's Daughter"
+        },
+        {
+          "type": "related",
+          "target": "miss-ganges",
+          "label": "Miss Ganges"
+        },
+        {
+          "type": "related",
+          "target": "monica-deane",
+          "label": "monica-deane"
+        }
+      ]
+    },
+    {
+      "id": "monica-deane",
+      "type": "character",
+      "label": "\"Monica Deane\"",
+      "description": "\"Rector's daughter and client of the Beresfords whose inheritance is threatened in Chapters 14–15\"",
+      "aliases": [],
+      "tags": [
+        "client",
+        "inheritance",
+        "chapter-14",
+        "chapter-15"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:monica-deane",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "house-of-lurking-death",
+          "label": "The House of Lurking Death"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        }
+      ]
+    },
+    {
+      "id": "montgomery-jones",
+      "type": "character",
+      "label": "\"Mr. Montgomery Jones\"",
+      "description": "\"Wealthy but dim-witted client who hires the Beresfords' agency to investigate his fiancée Una Drake's alibi in Chapter 13\"",
+      "aliases": [],
+      "tags": [
+        "client",
+        "chapter-13"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:montgomery-jones",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "unbreakable-alibi",
+          "label": "The Unbreakable Alibi"
+        },
+        {
+          "type": "related",
+          "target": "una-drake",
+          "label": "una-drake"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mr-carter",
+      "type": "character",
+      "label": "\"Mr. Carter\"",
+      "description": "\"The grey-haired chief of the Secret Service who recruits Tommy and Tuppence to run the International Detective Agency as an intelligence cover operation.\"",
+      "aliases": [
+        "The Chief"
+      ],
+      "tags": [
+        "secret-service",
+        "authority-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-carter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        }
+      ]
+    },
+    {
+      "id": "mr-hollaby",
+      "type": "character",
+      "label": "\"Mr. Hollaby\"",
+      "description": "\"Business partner of Captain Sessle at the Porcupine Assurance Company and key witness in the Sunningdale golf course murder\"",
+      "aliases": [
+        "Hollaby",
+        "old Hollaby"
+      ],
+      "tags": [
+        "witness",
+        "businessman",
+        "insurance"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-hollaby",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-sessle",
+          "label": "Captain Sessle"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "sunningdale-mystery"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "doris-evans",
+          "label": "doris-evans"
+        }
+      ]
+    },
+    {
+      "id": "mr-rennie",
+      "type": "character",
+      "label": "\"Mr. Rennie\"",
+      "description": "\"Suspicious guest at the Kingston Bruce household who becomes entangled in the investigation of a stolen pearl in Chapter 3\"",
+      "aliases": [],
+      "tags": [
+        "suspect",
+        "jewel-theft",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-rennie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "kingston-bruce"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mr-ryder",
+      "type": "character",
+      "label": "\"Mr. Hank P. Ryder\"",
+      "description": "\"Wealthy American from Alabama involved in a counterfeiting case investigated by Tommy Beresford in Chapter 10\"",
+      "aliases": [
+        "Hank Ryder",
+        "Hank P. Ryder",
+        "Mr. Hank Ryder"
+      ],
+      "tags": [
+        "criminal",
+        "counterfeiting",
+        "american",
+        "chapter-10"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-ryder",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "marguerite-laidlaw",
+          "label": "Marguerite Laidlaw"
+        }
+      ]
+    },
+    {
+      "id": "mr-stavansson",
+      "type": "character",
+      "label": "Mr. Stavansson",
+      "description": "An explorer and client who seeks Tommy and Tuppence's help in locating his missing fiancée in Chapter 7, \"The Case of the Missing Lady.\"",
+      "aliases": [
+        "Mr Stavansson"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-stavansson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "detective agency"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "doctor-horriston",
+          "label": "Dr. Horriston"
+        }
+      ]
+    },
+    {
+      "id": "mr-wilmott",
+      "type": "character",
+      "label": "\"Mr. Randolph Wilmott\"",
+      "description": "\"United States Ambassador to the Court of St. James who consults the Beresfords about a peculiar matter involving his boots in Chapter 16\"",
+      "aliases": [
+        "Randolph Wilmott",
+        "the American Ambassador"
+      ],
+      "tags": [
+        "client",
+        "diplomat",
+        "american",
+        "chapter-16"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mr-wilmott",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "ambassadors-boots",
+          "label": "The Ambassador's Boots"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mrs-betts",
+      "type": "character",
+      "label": "\"Mrs. Betts\"",
+      "description": "\"Household member in the Kingston Bruce residence, entangled in the pearl theft investigation of Chapter 3\"",
+      "aliases": [],
+      "tags": [
+        "suspect",
+        "jewel-theft",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mrs-betts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "kingston-bruce"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mrs-honeycott",
+      "type": "character",
+      "label": "\"Mrs. Honeycott\"",
+      "description": "\"Owner of the boarding house where Gilda Glen is murdered, key witness in Chapter 9\"",
+      "aliases": [],
+      "tags": [
+        "witness",
+        "murder-case",
+        "chapter-9"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mrs-honeycott",
+      "relations": [
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "gilda-glen",
+          "label": "Gilda Glen"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        }
+      ]
+    },
+    {
+      "id": "mrs-laidlaw",
+      "type": "character",
+      "label": "Mrs. Laidlaw",
+      "description": "Wife of Major Laidlaw, whose social circle and car trips play a key role in the \"Crackler\" counterfeit case in Chapter 10.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mrs-laidlaw",
+      "relations": [
+        {
+          "type": "related",
+          "target": "major-laidlaw",
+          "label": "Major Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        }
+      ]
+    },
+    {
+      "id": "mrs-sessle",
+      "type": "character",
+      "label": "Mrs. Sessle",
+      "description": "Wife of Captain Anthony Sessle, whose husband is murdered in Chapter 11, \"The Sunningdale Mystery,\" where she becomes a person of interest.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mrs-sessle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-sessle",
+          "label": "Captain Anthony Sessle"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "The Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        }
+      ]
+    },
+    {
+      "id": "mrs-van-snyder",
+      "type": "character",
+      "label": "Mrs. Van Snyder",
+      "description": "Mrs. Cortlandt Van Snyder of Detroit, a wealthy American widow and key figure in the climax of the \"Man Who Was No. 16\" case in Chapter 17.",
+      "aliases": [
+        "Mrs. Cortlandt Van Snyder"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:mrs-van-snyder",
+      "relations": [
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "the-man-who-was-no-16-chapter",
+          "label": "the-man-who-was-no-16-chapter"
+        }
+      ]
+    },
+    {
+      "id": "number-sixteen-code",
+      "type": "concept",
+      "label": "\"Number Sixteen Code\"",
+      "description": "\"The intelligence signal used in the Beresfords' cover operation — the number 16 written under the stamp of letters with Russian markings, indicating secret communications requiring forwarding to Mr. Carter.\"",
+      "aliases": [
+        "the number 16 signal"
+      ],
+      "tags": [
+        "espionage",
+        "code",
+        "secret-signal",
+        "intelligence"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:number-sixteen-code",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        }
+      ]
+    },
+    {
+      "id": "organization-index",
+      "type": "list",
+      "label": "organization-index",
+      "description": "Complete index of all organizations in the Partners in Crime stories, sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "organization",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "partners-in-crime:organization-index",
+      "relations": []
+    },
+    {
+      "id": "partners-in-crime-novel",
+      "type": "work",
+      "label": "\"Partners in Crime\"",
+      "description": "\"A 1929 detective novel by Agatha Christie, the second Tommy and Tuppence Beresford novel, structured as a series of episodic cases linked by an overarching espionage plot involving the mysterious number sixteen.\"",
+      "aliases": [
+        "Partners in Crime (1929)",
+        "Partners in Crime novel"
+      ],
+      "tags": [
+        "novel",
+        "detective-fiction",
+        "agatha-christie",
+        "tommy-and-tuppence"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:partners-in-crime-novel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "fairy-in-the-flat",
+          "label": "A Fairy in the Flat"
+        },
+        {
+          "type": "related",
+          "target": "pot-of-tea",
+          "label": "A Pot of Tea"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "The Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "case-of-the-missing-lady"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        },
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective-method-acting"
+        },
+        {
+          "type": "related",
+          "target": "beresford-flat",
+          "label": "beresford-flat"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "inspector-marriot"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "scotland-yard"
+        },
+        {
+          "type": "related",
+          "target": "lady-laura",
+          "label": "Lady Laura Barton"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "blunts-brilliant-detectives"
+        }
+      ]
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "place-index",
+      "description": "Complete index of all places in the Partners in Crime stories, sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "place",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "partners-in-crime:place-index",
+      "relations": []
+    },
+    {
+      "id": "pot-of-tea",
+      "type": "event",
+      "label": "\"A Pot of Tea\"",
+      "description": "\"The Beresfords launch the International Detective Agency and handle their first client, Lawrence St. Vincent, who is searching for a missing woman — a case Tuppence solves in twenty-four hours.\"",
+      "aliases": [],
+      "tags": [
+        "first-case",
+        "missing-person",
+        "matchmaking",
+        "agency-launch"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:pot-of-tea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "lawrence-st-vincent",
+          "label": "Lawrence St. Vincent"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        }
+      ]
+    },
+    {
+      "id": "red-house",
+      "type": "event",
+      "label": "\"The Red House\"",
+      "description": "\"The Beresfords solve the mystery of Monica Deane's haunted inheritance by discovering her late aunt's hidden fortune buried in the garden.\"",
+      "aliases": [],
+      "tags": [
+        "treasure-hunt",
+        "poltergeist",
+        "inheritance",
+        "hidden-fortune",
+        "christmas"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:red-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clergymans-daughter",
+          "label": "The Clergyman's Daughter"
+        },
+        {
+          "type": "related",
+          "target": "monica-deane",
+          "label": "Monica Deane"
+        }
+      ]
+    },
+    {
+      "id": "role-playing-as-investigative-method",
+      "type": "insight",
+      "label": "\"Role-Playing as Investigative Method\"",
+      "description": "\"An analysis of how Tommy and Tuppence Beresford use role-playing, impersonation, and theatrical performance as systematic investigative techniques rather than mere comic relief.\"",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "literary-analysis",
+        "detection-methods",
+        "role-playing",
+        "performance"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:role-playing-as-investigative-method",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "detective-method-acting",
+          "label": "detective method acting"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118 Haleham Street"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "disguise-and-identity",
+          "label": "disguise-and-identity"
+        }
+      ]
+    },
+    {
+      "id": "scotland-yard",
+      "type": "organization",
+      "label": "\"Scotland Yard\"",
+      "description": "\"The headquarters of London's Metropolitan Police, whose detectives — particularly Inspector Marriot — serve as allies and occasional collaborators with the International Detective Agency.\"",
+      "aliases": [
+        "the Yard"
+      ],
+      "tags": [
+        "police",
+        "law-enforcement",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:scotland-yard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "inspector-dymchurch",
+          "label": "Inspector Dymchurch"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        }
+      ]
+    },
+    {
+      "id": "senator-westerham",
+      "type": "character",
+      "label": "\"Senator Westerham\"",
+      "description": "\"American senator whose name becomes entangled in a case of mistaken identity involving the Ambassador's boots\"",
+      "aliases": [],
+      "tags": [
+        "politician",
+        "american",
+        "senator"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:senator-westerham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "mr-wilmott",
+          "label": "the American Ambassador"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy's"
+        }
+      ]
+    },
+    {
+      "id": "sir-arthur-merivale",
+      "type": "character",
+      "label": "\"Sir Arthur Merivale\"",
+      "description": "\"Husband of Lady Laura Merivale, revealed as the true villain who attempted to frame Captain Hale for the pink pearl theft in Chapter 6\"",
+      "aliases": [],
+      "tags": [
+        "villain",
+        "jewel-theft",
+        "embezzlement",
+        "chapter-6"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:sir-arthur-merivale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "affair-of-the-pink-pearl"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "tuppence-beresford"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "captain-hale"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "inspector-marriot"
+        }
+      ]
+    },
+    {
+      "id": "sunningdale",
+      "type": "place",
+      "label": "\"Sunningdale\"",
+      "description": "\"The location of a complex murder case in which all evidence pointed to Captain Hale, but Tuppence's intuition uncovered the real killer.\"",
+      "aliases": [],
+      "tags": [
+        "murder-site",
+        "investigation",
+        "golf-course"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:sunningdale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Captain Hale"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        }
+      ]
+    },
+    {
+      "id": "sunningdale-mystery",
+      "type": "event",
+      "label": "\"The Sunningdale Mystery\"",
+      "description": "\"A murder case brought to the International Detective Agency by Inspector Marriot, involving the death of a woman and the apparent guilt of Captain Hale, which Tuppence's intuition suspects is too neatly framed.\"",
+      "aliases": [],
+      "tags": [
+        "case",
+        "murder",
+        "investigation"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:sunningdale-mystery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale",
+          "label": "Sunningdale"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Captain Hale"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        },
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        }
+      ]
+    },
+    {
+      "id": "the-crackler",
+      "type": "event",
+      "label": "\"The Crackler\"",
+      "description": "\"Inspector Marriot recruits Tommy to infiltrate a sophisticated counterfeiting ring, leading to a confrontation with the American gangster Hank Ryder in a Soho den.\"",
+      "aliases": [],
+      "tags": [
+        "counterfeiting",
+        "undercover",
+        "gang",
+        "american-gangster",
+        "scotland-yard"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:the-crackler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "marguerite-laidlaw",
+          "label": "Marguerite Laidlaw"
+        },
+        {
+          "type": "related",
+          "target": "mr-ryder",
+          "label": "Hank Ryder"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Mr. Blunt"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        }
+      ]
+    },
+    {
+      "id": "the-laurels",
+      "type": "place",
+      "label": "\"The Laurels\"",
+      "description": "\"The country house of Colonel Kingston Bruce, where the theft of Lady Laura Barton's pink pearl is investigated by Tommy and Tuppence in their first major case.\"",
+      "aliases": [],
+      "tags": [
+        "country-house",
+        "crime-scene"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:the-laurels",
+      "relations": [
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "lady-laura",
+          "label": "Lady Laura Barton"
+        }
+      ]
+    },
+    {
+      "id": "the-man-who-was-no-16-chapter",
+      "type": "work",
+      "label": "\"The Man Who Was No. 16 (Chapter XVII)\"",
+      "description": "\"The climactic final chapter of Partners in Crime, in which the identity of the mastermind behind the spy network — designated by the number sixteen — is revealed and the intelligence operation reaches its conclusion.\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "climax",
+        "finale",
+        "espionage"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:the-man-who-was-no-16-chapter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        }
+      ]
+    },
+    {
+      "id": "theodore-blunt",
+      "type": "character",
+      "label": "\"Theodore Blunt\"",
+      "description": "\"Fictional detective identity created by Tommy Beresford to serve as the public face of the International Detective Agency\"",
+      "aliases": [
+        "Mr. Blunt",
+        "Mr. Theodore Blunt"
+      ],
+      "tags": [
+        "alias",
+        "detective",
+        "agency",
+        "persona"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:theodore-blunt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "Tommy Beresford"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118 Haleham Street"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "sunningdale-mystery",
+          "label": "The Sunningdale Mystery"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Colonel Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "clergymans-daughter",
+          "label": "The Clergyman's Daughter"
+        },
+        {
+          "type": "related",
+          "target": "ambassadors-boots",
+          "label": "The Ambassador's Boots"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "The Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "the-crackler",
+          "label": "The Crackler"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        }
+      ]
+    },
+    {
+      "id": "three-arts-club",
+      "type": "place",
+      "label": "\"The Three Arts Club\"",
+      "description": "\"A London venue that hosted the masked ball where Lady Merivale was murdered — the setting for the 'Finessing the King' case.\"",
+      "aliases": [],
+      "tags": [
+        "club",
+        "masked-ball",
+        "murder-scene",
+        "london"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:three-arts-club",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-merivale",
+          "label": "Lady Merivale"
+        },
+        {
+          "type": "related",
+          "target": "captain-hale",
+          "label": "Captain Hale"
+        },
+        {
+          "type": "related",
+          "target": "sir-arthur-merivale",
+          "label": "Sir Arthur Merivale"
+        }
+      ]
+    },
+    {
+      "id": "tommy-beresford",
+      "type": "character",
+      "label": "\"Tommy Beresford\"",
+      "description": "\"Thomas Beresford, husband of Tuppence, former Secret Service agent who poses as Theodore Blunt to run the International Detective Agency.\"",
+      "aliases": [
+        "Thomas Beresford",
+        "Theodore Blunt",
+        "Mr. Blunt"
+      ],
+      "tags": [
+        "protagonist",
+        "detective",
+        "secret-service"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:tommy-beresford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "Partners in Crime"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "Mr. Carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "International Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "theodore-blunt",
+          "label": "Theodore Blunt"
+        },
+        {
+          "type": "related",
+          "target": "118-haleham-street",
+          "label": "118 Haleham Street"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "The Affair of the Pink Pearl"
+        },
+        {
+          "type": "related",
+          "target": "kingston-bruce",
+          "label": "Kingston Bruce"
+        },
+        {
+          "type": "related",
+          "target": "finessing-the-king",
+          "label": "Finessing the King"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "The Case of the Missing Lady"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-man-who-was-no-16",
+          "label": "The Man Who Was No. 16"
+        },
+        {
+          "type": "related",
+          "target": "tuppence-beresford",
+          "label": "Tuppence Beresford"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "Albert"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "Inspector Marriot"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "tuppence-beresford",
+      "type": "character",
+      "label": "\"Tuppence Beresford\"",
+      "description": "\"Prudence 'Tuppence' Beresford, wife of Tommy, co-proprietor of the International Detective Agency with a thirst for adventure and sharp deductive instincts that prove decisive in solving the agency's most challenging cases.\"",
+      "aliases": [
+        "Prudence Beresford",
+        "Mrs. Beresford",
+        "Mrs. Thomas Beresford"
+      ],
+      "tags": [
+        "protagonist",
+        "detective"
+      ],
+      "quality": "featured",
+      "source_ref": "partners-in-crime:tuppence-beresford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "partners-in-crime-novel",
+          "label": "partners-in-crime-novel"
+        },
+        {
+          "type": "related",
+          "target": "tommy-beresford",
+          "label": "tommy-beresford"
+        },
+        {
+          "type": "related",
+          "target": "mr-carter",
+          "label": "mr-carter"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        },
+        {
+          "type": "related",
+          "target": "miss-robinson",
+          "label": "Miss Robinson"
+        },
+        {
+          "type": "related",
+          "target": "affair-of-the-pink-pearl",
+          "label": "affair-of-the-pink-pearl"
+        },
+        {
+          "type": "related",
+          "target": "the-laurels",
+          "label": "The Laurels"
+        },
+        {
+          "type": "related",
+          "target": "albert",
+          "label": "albert"
+        },
+        {
+          "type": "related",
+          "target": "british-secret-service",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "inspector-marriot",
+          "label": "inspector-marriot"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "blunts-brilliant-detectives"
+        },
+        {
+          "type": "related",
+          "target": "case-of-the-missing-lady",
+          "label": "case-of-the-missing-lady"
+        },
+        {
+          "type": "related",
+          "target": "blindmans-buff",
+          "label": "Blindman's Buff"
+        }
+      ]
+    },
+    {
+      "id": "una-drake",
+      "type": "character",
+      "label": "\"Una Drake\"",
+      "description": "\"Australian woman who tests Montgomery Jones's devotion with an elaborate 'unbreakable alibi' scheme in Chapter 13\"",
+      "aliases": [],
+      "tags": [
+        "client",
+        "chapter-13",
+        "twin"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:una-drake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "unbreakable-alibi",
+          "label": "The Unbreakable Alibi"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-jones",
+          "label": "montgomery-jones"
+        },
+        {
+          "type": "related",
+          "target": "international-detective-agency",
+          "label": "international-detective-agency"
+        }
+      ]
+    },
+    {
+      "id": "unbreakable-alibi",
+      "type": "event",
+      "label": "\"The Unbreakable Alibi\"",
+      "description": "\"Montgomery Jones hires the Agency to verify whether his fiancée Una Drake could be in two places at once — leading Tuppence to a solution involving twins.\"",
+      "aliases": [],
+      "tags": [
+        "alibi",
+        "twins",
+        "bet",
+        "romance",
+        "puzzle"
+      ],
+      "quality": "standard",
+      "source_ref": "partners-in-crime:unbreakable-alibi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-jones",
+          "label": "Montgomery Jones"
+        },
+        {
+          "type": "related",
+          "target": "una-drake",
+          "label": "Una Drake"
+        },
+        {
+          "type": "related",
+          "target": "blunts-brilliant-detectives",
+          "label": "Blunt's Brilliant Detectives"
+        }
+      ]
+    },
+    {
+      "id": "work-index",
+      "type": "list",
+      "label": "work-index",
+      "description": "Complete index of all literary works referenced in the Partners in Crime stories.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "work",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "partners-in-crime:work-index",
+      "relations": []
+    }
+  ]
+}

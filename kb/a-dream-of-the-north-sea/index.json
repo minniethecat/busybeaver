@@ -1,0 +1,4045 @@
+{
+  "book": "a-dream-of-the-north-sea",
+  "title": "A Dream of the North Sea",
+  "description": "A Dream of the North Sea — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 103,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"A Dream of the North Sea\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:About",
+      "relations": []
+    },
+    {
+      "id": "Front-Matter",
+      "type": "chapter",
+      "label": "Front Matter",
+      "description": "Title page, table of contents, and prefatory material",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "front-matter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:Front-Matter",
+      "relations": []
+    },
+    {
+      "id": "bay-of-biscay",
+      "type": "place",
+      "label": "Bay of Biscay",
+      "description": "The notorious stormy bay off western France — invoked in Runciman's novel as the ultimate benchmark of a vessel's seaworthiness and a sailor's competence.",
+      "aliases": [
+        "Biscay",
+        "Biscay gale"
+      ],
+      "tags": [
+        "bay-of-biscay",
+        "maritime",
+        "north-sea",
+        "seamanship",
+        "benchmark"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:bay-of-biscay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "seaworthiness"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "cowes",
+          "label": "Cowes"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "peril-at-sea",
+          "label": "peril-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "departure-of-the-fleet",
+          "label": "departure-of-the-fleet"
+        }
+      ]
+    },
+    {
+      "id": "berners-street",
+      "type": "place",
+      "label": "Berners Street",
+      "description": "A street in central London, home to James Nisbet and Co., publishers of A Dream of the North Sea.",
+      "aliases": [],
+      "tags": [
+        "publishing",
+        "london",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:berners-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "james-runciman",
+          "label": "james-runciman"
+        }
+      ]
+    },
+    {
+      "id": "bill-larmor",
+      "type": "person",
+      "label": "Bill Larmor",
+      "description": "The skilled and composed skipper of the fishing smack in Runciman's novel — a representative figure of the capable North Sea fisherman.",
+      "aliases": [
+        "Larmor",
+        "Skipper Larmor"
+      ],
+      "tags": [
+        "skipper",
+        "mariner",
+        "north-sea",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:bill-larmor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        }
+      ]
+    },
+    {
+      "id": "bridge-house",
+      "type": "place",
+      "label": "Bridge House",
+      "description": "A location in London mentioned in the novel.",
+      "aliases": [],
+      "tags": [
+        "building",
+        "london",
+        "institution"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:bridge-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "cambridge",
+      "type": "place",
+      "label": "Cambridge",
+      "description": "The university city where Lewis Ferrier completed his medical education — representing the world of learning and privilege from which the novel's protagonist is recruited to the Mission.",
+      "aliases": [],
+      "tags": [
+        "university",
+        "education",
+        "england",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:cambridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "edinburgh",
+          "label": "edinburgh"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "cassalls-transformation",
+      "type": "event",
+      "label": "Cassall's Transformation",
+      "description": "The conversion of millionaire Robert Cassall from Mission skeptic to its most generous benefactor — the pivotal event that transforms the novel's philanthropic arc from aspiration to reality.",
+      "aliases": [
+        "The Conversion of Robert Cassall",
+        "Cassall's Philanthropic Turn",
+        "The Enslavement of Robert Cassall"
+      ],
+      "tags": [
+        "robert-cassall",
+        "transformation",
+        "philanthropy",
+        "mission",
+        "hospital-cruiser",
+        "marion-dearsley",
+        "lewis-ferrier"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:cassalls-transformation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "robert-cassall",
+          "label": "Robert Cassall"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission to Deep Sea Fishermen"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital cruiser"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Lewis Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "sir-james-roche",
+          "label": "Sir James Roche"
+        },
+        {
+          "type": "related",
+          "target": "departure-of-the-fleet",
+          "label": "departure-of-the-fleet"
+        }
+      ]
+    },
+    {
+      "id": "cowes",
+      "type": "place",
+      "label": "Cowes",
+      "description": "The Isle of Wight yachting town — used by Runciman as a satirical foil to contrast leisurely \"Seadogs\" with the real dangers faced by North Sea fishermen.",
+      "aliases": [
+        "The Cowes Seadog",
+        "Cowes Rover"
+      ],
+      "tags": [
+        "isle-of-wight",
+        "yachting",
+        "contrast",
+        "satirical",
+        "north-sea"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:cowes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "trawling"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Lewis Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "peril-at-sea",
+          "label": "perils of the deep"
+        },
+        {
+          "type": "related",
+          "target": "bay-of-biscay",
+          "label": "bay-of-biscay"
+        }
+      ]
+    },
+    {
+      "id": "deep-sea-trawling",
+      "type": "concept",
+      "label": "Deep Sea Trawling",
+      "description": "The brutal and dangerous method of commercial fishing practiced by North Sea fleets in the late nineteenth century, central to the novel's depiction of working-class life at sea.",
+      "aliases": [
+        "trawling",
+        "trawl fishing",
+        "beam trawling"
+      ],
+      "tags": [
+        "maritime",
+        "industry",
+        "fishing",
+        "labor"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:deep-sea-trawling",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        }
+      ]
+    },
+    {
+      "id": "departure-of-the-fleet",
+      "type": "event",
+      "label": "Departure of the Fleet",
+      "description": "The ritual assembly and departure of the North Sea trawling fleet — a recurring event in Runciman's novel that marks the transition from shore safety to the mortal dangers of the fishing grounds.",
+      "aliases": [
+        "The Fleet Assembles",
+        "Fleet Sailing",
+        "The Fleet Departs"
+      ],
+      "tags": [
+        "fleet",
+        "departure",
+        "north-sea",
+        "trawling",
+        "ritual",
+        "mission"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:departure-of-the-fleet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "peril-at-sea",
+          "label": "dangers of the deep"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Lewis Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "maritime-courage"
+        },
+        {
+          "type": "related",
+          "target": "cassalls-transformation",
+          "label": "cassalls-transformation"
+        }
+      ]
+    },
+    {
+      "id": "duty-at-sea",
+      "type": "concept",
+      "label": "Duty at Sea",
+      "description": "The ethic of duty that governs conduct aboard North Sea vessels — from the skipper's obligation to his crew to the rich man's responsibility toward the fisherman, a central moral theme in Runciman's novel.",
+      "aliases": [
+        "Maritime Duty",
+        "Duty and Responsibility",
+        "The Sailor's Duty"
+      ],
+      "tags": [
+        "duty",
+        "north-sea",
+        "fishing",
+        "morality",
+        "mission"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:duty-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "smacksman"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "Londoner"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "robert-cassall",
+          "label": "Robert Cassall"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital ships"
+        },
+        {
+          "type": "related",
+          "target": "peril-at-sea",
+          "label": "peril-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "maritime-courage"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        }
+      ]
+    },
+    {
+      "id": "e-j-mather",
+      "type": "person",
+      "label": "E.J. Mather",
+      "description": "The founder of the Mission to Deep Sea Fishermen — the real-life figure whose work among North Sea fishermen inspired and enabled the events of Runciman's novel.",
+      "aliases": [
+        "Mr. Mather",
+        "The Founder",
+        "Ebenezer Joseph Mather"
+      ],
+      "tags": [
+        "founder",
+        "mission",
+        "philanthropist",
+        "maritime",
+        "reform"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:e-j-mather",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission to Deep Sea Fishermen"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "temperance-at-sea",
+          "label": "temperance-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "edinburgh",
+      "type": "place",
+      "label": "Edinburgh",
+      "description": "The Scottish university city where Lewis Ferrier \"did well\" before coming south to Cambridge — the starting point of his medical career.",
+      "aliases": [],
+      "tags": [
+        "university",
+        "education",
+        "scotland",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:edinburgh",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "cambridge"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "type": "place",
+      "label": "England",
+      "description": "The nation whose maritime industry, philanthropic culture, and imperial self-confidence form the broader context of Runciman's novel.",
+      "aliases": [
+        "Britain"
+      ],
+      "tags": [
+        "country",
+        "maritime",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "queen-victoria"
+        }
+      ]
+    },
+    {
+      "id": "ferriers-first-voyage",
+      "type": "event",
+      "label": "Ferrier's First Voyage",
+      "description": "Lewis Ferrier's initiation into the world of the North Sea — his first voyage aboard a fishing smack, which transforms his understanding of medicine, faith, and humanity.",
+      "aliases": [],
+      "tags": [
+        "initiation",
+        "voyage",
+        "transformation",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:ferriers-first-voyage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "ferriers-transformation",
+      "type": "event",
+      "label": "Ferrier's Transformation",
+      "description": "The culminating moment of Lewis Ferrier's personal journey — his realization that the North Sea has changed him, and that his calling now lies with the fishermen he came to serve.",
+      "aliases": [],
+      "tags": [
+        "transformation",
+        "character",
+        "awakening",
+        "mission"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:ferriers-transformation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "ferriers-first-voyage",
+          "label": "ferriers-first-voyage"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "fishermen-faith",
+      "type": "concept",
+      "label": "Fishermen's Faith",
+      "description": "The distinctive form of Christianity practiced by North Sea fishermen — experiential, personal, and shaped by the constant presence of danger and death.",
+      "aliases": [
+        "fishermen faith",
+        "sailors' religion",
+        "maritime Christianity"
+      ],
+      "tags": [
+        "religion",
+        "maritime",
+        "fishermen",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:fishermen-faith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-songs",
+          "label": "fishermen-songs"
+        },
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "fishermen-songs",
+      "type": "concept",
+      "label": "Fishermen's Songs",
+      "description": "The hymns and spiritual songs sung by North Sea fishermen during Mission services — characterized by lively, joyful tunes that contrasted with the somber hymns of shore-bound congregations.",
+      "aliases": [
+        "fishermen songs",
+        "hymns at sea",
+        "sailors' hymns"
+      ],
+      "tags": [
+        "music",
+        "religion",
+        "maritime",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:fishermen-songs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "freeman",
+      "type": "person",
+      "label": "Freeman",
+      "description": "The skipper of the Mission schooner yacht — a former fisherman who sailed the vessel through the North Sea fishing fleet, coordinating with the admiral and the carrier.",
+      "aliases": [
+        "Skipper Freeman",
+        "The Skipper"
+      ],
+      "tags": [
+        "skipper",
+        "schooner",
+        "mission",
+        "maritime",
+        "crew"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:freeman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-admiral-system",
+          "label": "the-admiral-system"
+        },
+        {
+          "type": "related",
+          "target": "the-carrier-system",
+          "label": "the-carrier-system"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the-cruiser-yacht"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "mr-blair"
+        }
+      ]
+    },
+    {
+      "id": "george-fox",
+      "type": "person",
+      "label": "George Fox",
+      "description": "Founder of the Quakers (Society of Friends), referenced in the novel's religious discourse.",
+      "aliases": [
+        "Fox"
+      ],
+      "tags": [
+        "religious-figure",
+        "quaker",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:george-fox",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        }
+      ]
+    },
+    {
+      "id": "grimsby",
+      "type": "place",
+      "label": "Grimsby",
+      "description": "A Lincolnshire fishing port — one of the three great east-coast bases for the North Sea trawling fleets.",
+      "aliases": [
+        "Great Grimsby"
+      ],
+      "tags": [
+        "port",
+        "fishing",
+        "lincolnshire",
+        "england"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:grimsby",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "hull",
+          "label": "hull"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        }
+      ]
+    },
+    {
+      "id": "henry-fullerton",
+      "type": "person",
+      "label": "Henry Fullerton",
+      "description": "The founder and driving force behind the Mission to Deep Sea Fishermen — an organizer of genius who recruits the novel's key characters to the cause.",
+      "aliases": [
+        "Harry Fullerton"
+      ],
+      "tags": [
+        "mission-founder",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:henry-fullerton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        }
+      ]
+    },
+    {
+      "id": "hospital-cruisers",
+      "type": "concept",
+      "label": "Hospital Cruisers",
+      "description": "Medical vessels deployed by the Mission to Deep Sea Fishermen to treat injured and sick fishermen at sea.",
+      "aliases": [
+        "hospital ships",
+        "hospital cruiser",
+        "medical ships"
+      ],
+      "tags": [
+        "maritime",
+        "medicine",
+        "humanitarian",
+        "mission"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:hospital-cruisers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        }
+      ]
+    },
+    {
+      "id": "hull",
+      "type": "place",
+      "label": "Hull",
+      "description": "A major Yorkshire fishing port and one of the bases for the North Sea trawling fleets referenced in Runciman's novel.",
+      "aliases": [
+        "Kingston upon Hull"
+      ],
+      "tags": [
+        "port",
+        "fishing",
+        "yorkshire",
+        "england"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:hull",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "grimsby",
+          "label": "grimsby"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "Italy",
+      "description": "A European country referenced in the novel as a point of religious contrast — Catholic Italy versus Protestant England.",
+      "aliases": [],
+      "tags": [
+        "country",
+        "europe",
+        "religious-contrast"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:italy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "james-runciman",
+      "type": "person",
+      "label": "James Runciman",
+      "description": "The author of A Dream of the North Sea (1876) — a British journalist and writer who knew the North Sea fishing communities intimately.",
+      "aliases": [
+        "Runciman",
+        "the Author"
+      ],
+      "tags": [
+        "author",
+        "journalist",
+        "victorian",
+        "meta"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:james-runciman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "queen-victoria"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        }
+      ]
+    },
+    {
+      "id": "joseph-naylor",
+      "type": "person",
+      "label": "Joseph Naylor",
+      "description": "A serious-minded philanthropist and ally of the Mission — memorable in the novel for his comic encounter with Tom Lennard's crushing handshake.",
+      "aliases": [
+        "Mr. Naylor",
+        "The Prim Philanthropist"
+      ],
+      "tags": [
+        "philanthropist",
+        "reformer",
+        "comic-relief",
+        "mission",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:joseph-naylor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission to Deep Sea Fishermen"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        }
+      ]
+    },
+    {
+      "id": "kingston-upon-thames",
+      "type": "place",
+      "label": "Kingston upon Thames",
+      "description": "The Surrey town where James Runciman lived and from which he dated his preface to A Dream of the North Sea.",
+      "aliases": [
+        "Kingston"
+      ],
+      "tags": [
+        "town",
+        "surrey",
+        "england",
+        "author"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:kingston-upon-thames",
+      "relations": [
+        {
+          "type": "related",
+          "target": "james-runciman",
+          "label": "james-runciman"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "lady-glendower",
+      "type": "person",
+      "label": "Lady Glendower",
+      "description": "A minor aristocratic character mentioned in Runciman's novel.",
+      "aliases": [
+        "Glendower"
+      ],
+      "tags": [
+        "aristocrat",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:lady-glendower",
+      "relations": [
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "queen-victoria"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "lewis-ferrier",
+      "type": "person",
+      "label": "Lewis Ferrier",
+      "description": "A young Cambridge-educated doctor who joins the Mission to Deep Sea Fishermen — the novel's central protagonist, through whose eyes the reader discovers the world of the North Sea.",
+      "aliases": [
+        "Ferrier",
+        "Dr. Ferrier"
+      ],
+      "tags": [
+        "doctor",
+        "protagonist",
+        "mission",
+        "cambridge"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:lewis-ferrier",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "marion-dearsley"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "life-at-sea",
+      "type": "concept",
+      "label": "Life at Sea",
+      "description": "The daily reality of existence aboard a North Sea fishing smack — a world of unremitting labor, constant danger, communal bonds, and a code of conduct forged by isolation.",
+      "aliases": [
+        "life at sea",
+        "maritime life",
+        "fishermen's life"
+      ],
+      "tags": [
+        "maritime",
+        "culture",
+        "labor",
+        "daily-life"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:life-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "The capital of England — where the novel was published, where the Mission's supporters lived, and the distant metropolitan center whose conscience Runciman sought to awaken regarding the fishermen's plight.",
+      "aliases": [],
+      "tags": [
+        "capital",
+        "publishing",
+        "england",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        },
+        {
+          "type": "related",
+          "target": "berners-street",
+          "label": "berners-street"
+        },
+        {
+          "type": "related",
+          "target": "kingston-upon-thames",
+          "label": "kingston-upon-thames"
+        }
+      ]
+    },
+    {
+      "id": "marion-dearsley",
+      "type": "person",
+      "label": "Marion Dearsley",
+      "description": "A central female character in Runciman's novel — courageous, compassionate, and unfazed by the dangers of the North Sea.",
+      "aliases": [
+        "Marion",
+        "Miss Dearsley"
+      ],
+      "tags": [
+        "character",
+        "female-lead",
+        "philanthropist",
+        "mission"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:marion-dearsley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "mrs-walton"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        }
+      ]
+    },
+    {
+      "id": "maritime-courage",
+      "type": "concept",
+      "label": "Maritime Courage",
+      "description": "The defining virtue of the North Sea fishermen — a stoic, un-theatrical bravery forged by constant exposure to danger and death.",
+      "aliases": [
+        "courage at sea",
+        "bravery",
+        "dauntlessness"
+      ],
+      "tags": [
+        "virtue",
+        "maritime",
+        "character",
+        "courage"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:maritime-courage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        }
+      ]
+    },
+    {
+      "id": "miss-ranken",
+      "type": "person",
+      "label": "Miss Ranken",
+      "description": "Mr. Blair's niece and a member of the Mission expedition — a sharp-witted young woman whose pert observations add social texture to the voyage.",
+      "aliases": [
+        "Lena Ranken"
+      ],
+      "tags": [
+        "niece",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:miss-ranken",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "marion-dearsley"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "mrs-walton"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "mr-blair"
+        }
+      ]
+    },
+    {
+      "id": "mission-to-deep-sea-fishermen",
+      "type": "concept",
+      "label": "Mission to Deep Sea Fishermen",
+      "description": "A charitable organization providing medical and spiritual care to North Sea fishermen, central to the novel's social reform message.",
+      "aliases": [
+        "the Mission",
+        "Deep Sea Mission"
+      ],
+      "tags": [
+        "humanitarian",
+        "maritime",
+        "religion",
+        "charity"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:mission-to-deep-sea-fishermen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "mother-baubo",
+      "type": "person",
+      "label": "Mother Baubo",
+      "description": "A mythological figure referenced in Runciman's novel — Baubo from Greek mythology, known for her role in the Eleusinian Mysteries.",
+      "aliases": [
+        "Baubo"
+      ],
+      "tags": [
+        "mythological",
+        "literary-reference"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:mother-baubo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-fox",
+          "label": "george-fox"
+        }
+      ]
+    },
+    {
+      "id": "mr-blair",
+      "type": "person",
+      "label": "Mr. Blair",
+      "description": "A wealthy yacht owner and supporter of the Mission — a quiet, gentle man whose sad eyes and steady generosity provide material support for the North Sea expedition.",
+      "aliases": [
+        "John Blair"
+      ],
+      "tags": [
+        "yacht-owner",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:mr-blair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "mrs-walton",
+      "type": "person",
+      "label": "Mrs. Walton",
+      "description": "Marion Dearsley's aunt and traveling companion — a woman of quiet courage and steady presence who accompanies the Mission expedition to the North Sea.",
+      "aliases": [
+        "Mrs. Walton",
+        "Marion's aunt"
+      ],
+      "tags": [
+        "character",
+        "philanthropist",
+        "mission",
+        "guardian"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:mrs-walton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "marion-dearsley"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        }
+      ]
+    },
+    {
+      "id": "north-sea-gales",
+      "type": "concept",
+      "label": "North Sea Gales",
+      "description": "The violent storms that sweep the North Sea — a central antagonistic force in Runciman's novel, claiming lives and shaping the character of the fishermen who endure them.",
+      "aliases": [
+        "gales",
+        "storms",
+        "hurricanes",
+        "autumn gales"
+      ],
+      "tags": [
+        "weather",
+        "maritime",
+        "danger",
+        "nature"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:north-sea-gales",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "peril-at-sea",
+      "type": "concept",
+      "label": "Peril at Sea",
+      "description": "The constant mortal danger faced by North Sea fishermen — a central theme in Runciman's novel, where \"daily survival of danger\" defines the smacksman's existence.",
+      "aliases": [
+        "Danger at Sea",
+        "Maritime Peril",
+        "Perils of the Deep"
+      ],
+      "tags": [
+        "danger",
+        "north-sea",
+        "fishing",
+        "mortality",
+        "survival"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:peril-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "treacherous weather"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "the-great-gale",
+          "label": "great gale"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital cruisers"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "maritime-courage"
+        },
+        {
+          "type": "related",
+          "target": "duty-at-sea",
+          "label": "duty-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "cowes",
+          "label": "cowes"
+        },
+        {
+          "type": "related",
+          "target": "bay-of-biscay",
+          "label": "bay-of-biscay"
+        }
+      ]
+    },
+    {
+      "id": "queen-victoria",
+      "type": "person",
+      "label": "Queen Victoria",
+      "description": "The Queen of the United Kingdom and patron of the Mission to Deep Sea Fishermen — to whom Runciman dedicates the novel.",
+      "aliases": [
+        "Her Majesty"
+      ],
+      "tags": [
+        "patron",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:queen-victoria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        }
+      ]
+    },
+    {
+      "id": "rescue-at-sea",
+      "type": "concept",
+      "label": "Rescue at Sea",
+      "description": "The perilous work of saving fishermen from sinking vessels during North Sea gales — a recurring and defining act of heroism in Runciman's novel.",
+      "aliases": [
+        "sea rescue",
+        "saving lives"
+      ],
+      "tags": [
+        "maritime",
+        "rescue",
+        "danger",
+        "courage"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:rescue-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "maritime-courage"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        }
+      ]
+    },
+    {
+      "id": "robert-cassall",
+      "type": "person",
+      "label": "Robert Cassall",
+      "description": "Marion Dearsley's uncle — a self-made millionaire whose conversion from skeptical businessman to Mission benefactor forms a pivotal arc in Runciman's novel.",
+      "aliases": [
+        "Mr. Cassall",
+        "Bob Cassall"
+      ],
+      "tags": [
+        "character",
+        "shipowner",
+        "philanthropist",
+        "millionaire"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:robert-cassall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital cruiser"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "sir-james-roche",
+          "label": "Sir James Roche"
+        },
+        {
+          "type": "related",
+          "target": "ferriers-transformation",
+          "label": "Ferrier's Transformation"
+        },
+        {
+          "type": "related",
+          "target": "cassalls-transformation",
+          "label": "cassalls-transformation"
+        },
+        {
+          "type": "related",
+          "target": "duty-at-sea",
+          "label": "duty-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "type": "chapter",
+      "label": "Section 1",
+      "description": "Note: Project Gutenberg also has an HTML version of this",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-1",
+      "relations": []
+    },
+    {
+      "id": "section-10",
+      "type": "chapter",
+      "label": "Section 10",
+      "description": "Every variety of story was told, and, in the exaltation of the hour, the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom Lennard"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Great Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "Mr. Blair"
+        },
+        {
+          "type": "related",
+          "target": "grimsby",
+          "label": "Great Grimsby"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "type": "chapter",
+      "label": "Section 11",
+      "description": "November opened finely, and the weather, except for sharp breezes in the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Miss Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "tom-betts",
+          "label": "Tom Betts"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        }
+      ]
+    },
+    {
+      "id": "section-12",
+      "type": "chapter",
+      "label": "Section 12",
+      "description": "'You were trawling when that breeze started?'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "trawling"
+        },
+        {
+          "type": "related",
+          "target": "mother-baubo",
+          "label": "Mother Baubo"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "dauntlessness"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        }
+      ]
+    },
+    {
+      "id": "section-13",
+      "type": "chapter",
+      "label": "Section 13",
+      "description": "Tom had been reading to the paralyzed fisherman, and, although his",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "the Mission"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Miss Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "james-runciman",
+          "label": "Runciman"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        }
+      ]
+    },
+    {
+      "id": "section-14",
+      "type": "chapter",
+      "label": "Section 14",
+      "description": "A hollow sound filled the whole arch of the sky; it was a great,",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Lennard"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "smacksman"
+        }
+      ]
+    },
+    {
+      "id": "section-15",
+      "type": "chapter",
+      "label": "Section 15",
+      "description": "'If it goes on like this, sir, there won't be many of us left by the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-15",
+      "relations": []
+    },
+    {
+      "id": "section-16",
+      "type": "chapter",
+      "label": "Section 16",
+      "description": "'Better chance it, Frank, my boy. I dursn't face your old woman if I go",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-16",
+      "relations": []
+    },
+    {
+      "id": "section-17",
+      "type": "chapter",
+      "label": "Section 17",
+      "description": "In that wretched, reeking hole Ferrier improvised a Russian bath with a",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Lennard"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "section-18",
+      "type": "chapter",
+      "label": "Section 18",
+      "description": "This man, according to his lights, spread his benefactions lavishly and",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Dr. Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "gales"
+        },
+        {
+          "type": "related",
+          "target": "tom-betts",
+          "label": "Tom Betts"
+        }
+      ]
+    },
+    {
+      "id": "section-19",
+      "type": "chapter",
+      "label": "Section 19",
+      "description": "'Oh, one vessel could be kept up for £30,000.'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        },
+        {
+          "type": "related",
+          "target": "miss-ranken",
+          "label": "Miss Ranken"
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "type": "chapter",
+      "label": "Section 2",
+      "description": "'I quite follow you, and I sympathize with you so far as I am concerned",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-2",
+      "relations": []
+    },
+    {
+      "id": "section-20",
+      "type": "chapter",
+      "label": "Section 20",
+      "description": "'From five to seven, according to the mode of trawling.'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "trawling"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "Henry Fullerton"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        }
+      ]
+    },
+    {
+      "id": "section-21",
+      "type": "chapter",
+      "label": "Section 21",
+      "description": "'The spring is on us now, Roche. We must use that youngster to get at",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-21",
+      "relations": []
+    },
+    {
+      "id": "section-22",
+      "type": "chapter",
+      "label": "Section 22",
+      "description": "'You go to Yarmouth after the meeting, Mr. Ferrier?'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "lady-glendower",
+          "label": "Lady Glendower"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "gales"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        }
+      ]
+    },
+    {
+      "id": "section-23",
+      "type": "chapter",
+      "label": "Section 23",
+      "description": "Before Ferrier went to Yarmouth he heard that Fullerton was astounded at",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "Her Majesty"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "storms"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom Lennard"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Miss Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        }
+      ]
+    },
+    {
+      "id": "section-24",
+      "type": "chapter",
+      "label": "Section 24",
+      "description": "In the next fleet the same scenes made things in general lively. The",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "the Mission"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom Lennard"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "Queen Victoria"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        }
+      ]
+    },
+    {
+      "id": "section-25",
+      "type": "chapter",
+      "label": "Section 25",
+      "description": "This seems to me a very pretty and significant story. Any one who knows",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "the Mission"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital cruiser"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "trawling"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "Queen Victoria"
+        },
+        {
+          "type": "related",
+          "target": "bridge-house",
+          "label": "Bridge House"
+        },
+        {
+          "type": "related",
+          "target": "victoria-street",
+          "label": "Victoria Street"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "section-26",
+      "type": "chapter",
+      "label": "Section 26",
+      "description": "LLOYDS BANK, Limited, 72, Lombard Street, E.C.",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "Great Yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "bridge-house",
+          "label": "Bridge House"
+        },
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "Queen Victoria"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "the Mission"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "grimsby",
+          "label": "Great Grimsby"
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "type": "chapter",
+      "label": "Section 3",
+      "description": "Still the series of moving accidents went on. A smack hove up under the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-3",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "Mr. Blair"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "type": "chapter",
+      "label": "Section 4",
+      "description": "'Could you edge us towards the cutter, skipper?' said Fullerton.",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-4",
+      "relations": []
+    },
+    {
+      "id": "section-5",
+      "type": "chapter",
+      "label": "Section 5",
+      "description": "'Does the rolling hurt you badly, my man?'",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-5",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Lewis Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "Bill Larmor"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "type": "chapter",
+      "label": "Section 6",
+      "description": "I once knew a sailor who was washed through a port in a Biscay gale; the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-6",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "Larmor"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom Lennard"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "Mr. Blair"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Miss Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "Henry Fullerton"
+        },
+        {
+          "type": "related",
+          "target": "george-fox",
+          "label": "George Fox"
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "type": "chapter",
+      "label": "Section 7",
+      "description": "It was very pleasant on the third day that followed the gale; the sky",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-7",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Miss Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "miss-ranken",
+          "label": "Miss Ranken"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "Mr. Blair"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "mrs-walton",
+          "label": "Mrs. Walton"
+        },
+        {
+          "type": "related",
+          "target": "cambridge",
+          "label": "Cambridge"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "dauntlessness"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "type": "chapter",
+      "label": "Section 8",
+      "description": "The boats began to flit round on the quiet sea, and the lines of them",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-8",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom Lennard"
+        },
+        {
+          "type": "related",
+          "target": "mr-blair",
+          "label": "Mr. Blair"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "Larmor"
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "type": "chapter",
+      "label": "Section 9",
+      "description": "The weather held up nicely, and on the morning after Ferrier saved the",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "a-dream-of-the-north-sea:section-9",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Ferrier"
+        },
+        {
+          "type": "related",
+          "target": "tom-betts",
+          "label": "Tom Betts"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the fleet"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "mission hall"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "experience meeting"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "Italy"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "the Mission"
+        },
+        {
+          "type": "related",
+          "target": "tom-barling",
+          "label": "Tom Barling"
+        },
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "Tom"
+        }
+      ]
+    },
+    {
+      "id": "sir-james-roche",
+      "type": "person",
+      "label": "Sir James Roche",
+      "description": "Robert Cassall's physician and friend — a worldly-wise doctor whose practical counsel and financial support help establish the Mission's hospital cruiser program.",
+      "aliases": [
+        "Sir James",
+        "Dr. Roche"
+      ],
+      "tags": [
+        "character",
+        "physician",
+        "philanthropist",
+        "advisor"
+      ],
+      "quality": "featured",
+      "source_ref": "a-dream-of-the-north-sea:sir-james-roche",
+      "relations": [
+        {
+          "type": "related",
+          "target": "robert-cassall",
+          "label": "Robert Cassall"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital ship"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "Henry Fullerton"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "Marion Dearsley"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "Lewis Ferrier"
+        }
+      ]
+    },
+    {
+      "id": "temperance-at-sea",
+      "type": "concept",
+      "label": "Temperance at Sea",
+      "description": "The temperance movement among North Sea fishermen — the Mission's campaign against alcohol that transformed the culture of the fishing fleet, a central moral achievement in Runciman's novel.",
+      "aliases": [
+        "Fishermen's Temperance",
+        "Drink Reform at Sea",
+        "The Drop of Drink"
+      ],
+      "tags": [
+        "maritime",
+        "temperance",
+        "reform",
+        "religion",
+        "social-change"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:temperance-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission to Deep Sea Fishermen"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        },
+        {
+          "type": "related",
+          "target": "life-at-sea",
+          "label": "life-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "duty-at-sea",
+          "label": "duty-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "the-admiral-system",
+      "type": "concept",
+      "label": "The Admiral System",
+      "description": "The fleet organization system of the North Sea fishing smacks, where one vessel serves as \"admiral\" to direct fleet movements and coordinate with carriers.",
+      "aliases": [
+        "Fleet Admiral",
+        "Admiral of the Fleet",
+        "Fishing Fleet Command"
+      ],
+      "tags": [
+        "maritime",
+        "fishing",
+        "fleet",
+        "organization",
+        "north-sea"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-admiral-system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        },
+        {
+          "type": "related",
+          "target": "the-carrier-system",
+          "label": "the-carrier-system"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "life-at-sea",
+          "label": "life-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "the-carrier-system",
+      "type": "concept",
+      "label": "The Carrier System",
+      "description": "The steam-carrier transport system that ferried fish from the North Sea fishing fleet to market — the fleet's lifeline to shore and a central element in the fishing economy of the era.",
+      "aliases": [
+        "Steam-Carrier",
+        "Fish Carrier",
+        "Carrier Transport System"
+      ],
+      "tags": [
+        "maritime",
+        "fishing",
+        "transport",
+        "economy",
+        "north-sea"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-carrier-system",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "Mission"
+        },
+        {
+          "type": "related",
+          "target": "the-admiral-system",
+          "label": "admiral system"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "life-at-sea",
+          "label": "life-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "the-collision",
+      "type": "event",
+      "label": "The Collision at Sea",
+      "description": "A dangerous collision between vessels during storm conditions — a near-fatal incident that demonstrates the perils of navigating crowded fishing grounds in heavy weather.",
+      "aliases": [],
+      "tags": [
+        "collision",
+        "storm",
+        "danger",
+        "survival"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-collision",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-great-gale",
+          "label": "the-great-gale"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        }
+      ]
+    },
+    {
+      "id": "the-cruiser-yacht",
+      "type": "concept",
+      "label": "The Cruiser Yacht",
+      "description": "The steam yacht operated by the Mission to Deep Sea Fishermen — a dual-purpose vessel serving as both a floating base of operations and a symbol of the Mission's presence among the North Sea fleets.",
+      "aliases": [
+        "cruiser yacht",
+        "Mission yacht",
+        "the yacht"
+      ],
+      "tags": [
+        "maritime",
+        "mission",
+        "vessel",
+        "hospital"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-cruiser-yacht",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        }
+      ]
+    },
+    {
+      "id": "the-english-coast",
+      "type": "place",
+      "label": "The English Coast",
+      "description": "The coastline of eastern England — the boundary between land and sea that the fishermen crossed on every voyage.",
+      "aliases": [
+        "east coast",
+        "English coastline"
+      ],
+      "tags": [
+        "coast",
+        "england",
+        "maritime",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-english-coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fishing-ports",
+          "label": "the-fishing-ports"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "england"
+        }
+      ]
+    },
+    {
+      "id": "the-experience-meeting",
+      "type": "concept",
+      "label": "The Experience Meeting",
+      "description": "A distinctive religious gathering format among North Sea fishermen in which personal testimony replaced formal confession — a maritime adaptation of evangelical practice.",
+      "aliases": [
+        "experience meeting",
+        "fishermen's testimony"
+      ],
+      "tags": [
+        "religion",
+        "maritime",
+        "worship",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-experience-meeting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "the-experience-meeting-gathering",
+      "type": "event",
+      "label": "The Experience Meeting Gathering",
+      "description": "A specific gathering of fishermen for an experience meeting — the distinctive form of worship in which smacksmen shared personal testimonies of faith.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "meeting",
+        "testimony",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-experience-meeting-gathering",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-experience-meeting",
+          "label": "the-experience-meeting"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        }
+      ]
+    },
+    {
+      "id": "the-fishing-ports",
+      "type": "place",
+      "label": "The Fishing Ports",
+      "description": "The east-coast English ports — Yarmouth, Hull, Grimsby — that served as bases for the North Sea trawling fleets.",
+      "aliases": [
+        "east coast ports",
+        "trawling ports"
+      ],
+      "tags": [
+        "port",
+        "fishing",
+        "england",
+        "coast"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-fishing-ports",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "hull",
+          "label": "hull"
+        },
+        {
+          "type": "related",
+          "target": "grimsby",
+          "label": "grimsby"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        }
+      ]
+    },
+    {
+      "id": "the-german-ocean",
+      "type": "concept",
+      "label": "The German Ocean",
+      "description": "The historical name for the North Sea used throughout Runciman's novel, reflecting nineteenth-century British maritime usage.",
+      "aliases": [
+        "German Ocean"
+      ],
+      "tags": [
+        "geography",
+        "maritime",
+        "terminology",
+        "history"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-german-ocean",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "North Sea"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        }
+      ]
+    },
+    {
+      "id": "the-great-gale",
+      "type": "event",
+      "label": "The Great Gale",
+      "description": "The central storm episode of the novel — a violent North Sea gale that tests every character and reveals the courage of the fishermen.",
+      "aliases": [],
+      "tags": [
+        "storm",
+        "weather",
+        "crisis",
+        "survival"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-great-gale",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        }
+      ]
+    },
+    {
+      "id": "the-hurricane-of-section-16",
+      "type": "event",
+      "label": "The Hurricane of Section 16",
+      "description": "A devastating hurricane that claims a hundred fishermen's lives — one of the novel's most powerful passages on the scale of maritime tragedy.",
+      "aliases": [],
+      "tags": [
+        "hurricane",
+        "tragedy",
+        "mortality",
+        "storm"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-hurricane-of-section-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        }
+      ]
+    },
+    {
+      "id": "the-launch-of-the-hospital-cruiser",
+      "type": "event",
+      "label": "The Launch of the Hospital Cruiser",
+      "description": "The commissioning and dispatch of the Mission's hospital ship — a milestone in the campaign to bring medical care to the North Sea fishermen.",
+      "aliases": [],
+      "tags": [
+        "launch",
+        "hospital",
+        "mission",
+        "medical"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-launch-of-the-hospital-cruiser",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the-cruiser-yacht"
+        }
+      ]
+    },
+    {
+      "id": "the-man-overboard",
+      "type": "event",
+      "label": "The Man Overboard",
+      "description": "A near-tragic incident during the gale in which a crew member is swept overboard, requiring an immediate and perilous rescue.",
+      "aliases": [],
+      "tags": [
+        "rescue",
+        "storm",
+        "danger",
+        "courage"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-man-overboard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "marion-dearsley"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        }
+      ]
+    },
+    {
+      "id": "the-mission-expedition",
+      "type": "event",
+      "label": "The Mission Expedition",
+      "description": "Henry Fullerton's organized expedition to the North Sea trawling grounds — the framing journey that brings together Ferrier, the Dearsleys, and Tom Lennard aboard the Mission yacht.",
+      "aliases": [],
+      "tags": [
+        "expedition",
+        "mission",
+        "voyage",
+        "initiation"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-mission-expedition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "the-cruiser-yacht",
+          "label": "the-cruiser-yacht"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "the-mission-hall",
+      "type": "concept",
+      "label": "The Mission Hall",
+      "description": "The meeting space aboard the Mission yacht where fishermen gathered for religious services, transforming from a workroom into a chapel at sea.",
+      "aliases": [
+        "mission hall",
+        "floating chapel"
+      ],
+      "tags": [
+        "religion",
+        "maritime",
+        "mission",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-mission-hall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-songs",
+          "label": "fishermen-songs"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "the-north-sea",
+      "type": "concept",
+      "label": "The North Sea",
+      "description": "The central setting of James Runciman's 1876 novel — a vast, dangerous, and sublime maritime world where fishermen battle the elements.",
+      "aliases": [
+        "North Sea",
+        "German Ocean"
+      ],
+      "tags": [
+        "setting",
+        "maritime",
+        "geography",
+        "nature"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-north-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tom-lennard",
+          "label": "tom-lennard"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        }
+      ]
+    },
+    {
+      "id": "the-north-sea-coast",
+      "type": "place",
+      "label": "The North Sea Coast",
+      "description": "The coastline bordering the North Sea — the margin between land and the fishermen's working world.",
+      "aliases": [
+        "North Sea coastline"
+      ],
+      "tags": [
+        "coast",
+        "north-sea",
+        "maritime"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-north-sea-coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-english-coast",
+          "label": "the-english-coast"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "the-fishing-ports",
+          "label": "the-fishing-ports"
+        }
+      ]
+    },
+    {
+      "id": "the-prayer-in-the-storm",
+      "type": "event",
+      "label": "The Prayer in the Storm",
+      "description": "A remarkable episode during the gale in which the crew and passengers gather for prayer while the storm rages around them.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "storm",
+        "courage",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-prayer-in-the-storm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        },
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        }
+      ]
+    },
+    {
+      "id": "the-rescue-of-the-crew",
+      "type": "event",
+      "label": "The Rescue of the Crew",
+      "description": "The successful rescue of a distressed vessel's crew during the gale — a moment of triumph and solidarity amid the storm's destruction.",
+      "aliases": [],
+      "tags": [
+        "rescue",
+        "storm",
+        "courage",
+        "survival"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-rescue-of-the-crew",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "the-great-gale",
+          "label": "the-great-gale"
+        },
+        {
+          "type": "related",
+          "target": "maritime-courage",
+          "label": "maritime-courage"
+        }
+      ]
+    },
+    {
+      "id": "the-return-to-port",
+      "type": "event",
+      "label": "The Return to Port",
+      "description": "The aftermath of the gale — the fleet's battered return to harbor, the accounting of the lost, and the quiet resumption of life ashore.",
+      "aliases": [],
+      "tags": [
+        "aftermath",
+        "survival",
+        "community",
+        "mortality"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-return-to-port",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-great-gale",
+          "label": "the-great-gale"
+        },
+        {
+          "type": "related",
+          "target": "yarmouth",
+          "label": "yarmouth"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        }
+      ]
+    },
+    {
+      "id": "the-royal-dedication",
+      "type": "event",
+      "label": "The Royal Dedication",
+      "description": "James Runciman's formal dedication of A Dream of the North Sea to Queen Victoria — an act that placed the fishermen's cause before the highest authority in the land.",
+      "aliases": [],
+      "tags": [
+        "dedication",
+        "royal",
+        "patronage",
+        "publication"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-royal-dedication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "queen-victoria",
+          "label": "queen-victoria"
+        },
+        {
+          "type": "related",
+          "target": "james-runciman",
+          "label": "james-runciman"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "the-smacksmen",
+      "type": "concept",
+      "label": "The Smacksmen",
+      "description": "The deep-sea fishermen of the North Sea trawling fleets — hardened, courageous workers whose lives of danger and endurance form the human core of Runciman's novel.",
+      "aliases": [
+        "smacksmen",
+        "smacksman",
+        "fishermen",
+        "trawlermen"
+      ],
+      "tags": [
+        "labor",
+        "maritime",
+        "working-class",
+        "fishermen"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-smacksmen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "the-sunday-service",
+      "type": "event",
+      "label": "The Sunday Service",
+      "description": "A religious service held aboard the Mission yacht — the transformation of an ordinary vessel into a floating chapel for the fishermen of the North Sea.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "worship",
+        "mission",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-sunday-service",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mission-hall",
+          "label": "the-mission-hall"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-songs",
+          "label": "fishermen-songs"
+        },
+        {
+          "type": "related",
+          "target": "fishermen-faith",
+          "label": "fishermen-faith"
+        },
+        {
+          "type": "related",
+          "target": "mission-to-deep-sea-fishermen",
+          "label": "mission-to-deep-sea-fishermen"
+        }
+      ]
+    },
+    {
+      "id": "the-trawling-fleet",
+      "type": "concept",
+      "label": "The Trawling Fleet",
+      "description": "The collective body of fishing smacks that worked the North Sea grounds — a floating community of vessels bound by shared labor, risk, and the rhythms of the fishing season.",
+      "aliases": [
+        "trawling fleet",
+        "fishing fleet",
+        "the fleet"
+      ],
+      "tags": [
+        "maritime",
+        "industry",
+        "fishing",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-trawling-fleet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "the-north-sea",
+          "label": "the-north-sea"
+        },
+        {
+          "type": "related",
+          "target": "hospital-cruisers",
+          "label": "hospital-cruisers"
+        }
+      ]
+    },
+    {
+      "id": "the-wreck-of-the-smack",
+      "type": "event",
+      "label": "The Wreck of the Smack",
+      "description": "The foundering of a fishing smack during the great gale — a tragedy that brings home the human cost of the North Sea fishing industry.",
+      "aliases": [],
+      "tags": [
+        "wreck",
+        "storm",
+        "tragedy",
+        "mortality"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:the-wreck-of-the-smack",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-sea-gales",
+          "label": "north-sea-gales"
+        },
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "rescue-at-sea",
+          "label": "rescue-at-sea"
+        }
+      ]
+    },
+    {
+      "id": "tom-barling",
+      "type": "person",
+      "label": "Tom Barling",
+      "description": "A North Sea fisherman mentioned in the novel.",
+      "aliases": [
+        "Barling"
+      ],
+      "tags": [
+        "fisherman",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:tom-barling",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "tom-betts",
+          "label": "tom-betts"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        }
+      ]
+    },
+    {
+      "id": "tom-betts",
+      "type": "person",
+      "label": "Tom Betts",
+      "description": "A North Sea fisherman — one of the smacksmen whose courage and rough eloquence represent the working men the Mission aims to serve.",
+      "aliases": [],
+      "tags": [
+        "fisherman",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:tom-betts",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-smacksmen",
+          "label": "the-smacksmen"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        },
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        }
+      ]
+    },
+    {
+      "id": "tom-lennard",
+      "type": "person",
+      "label": "Tom Lennard",
+      "description": "A merchant by inheritance and philanthropist by choice — a rough-hewn, warm-hearted man whose enthusiasm and physical courage make him indispensable to the Mission's work.",
+      "aliases": [
+        "Tom",
+        "Lennard"
+      ],
+      "tags": [
+        "philanthropist",
+        "merchant",
+        "character",
+        "mission"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:tom-lennard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lewis-ferrier",
+          "label": "lewis-ferrier"
+        },
+        {
+          "type": "related",
+          "target": "marion-dearsley",
+          "label": "marion-dearsley"
+        },
+        {
+          "type": "related",
+          "target": "henry-fullerton",
+          "label": "henry-fullerton"
+        },
+        {
+          "type": "related",
+          "target": "bill-larmor",
+          "label": "bill-larmor"
+        }
+      ]
+    },
+    {
+      "id": "victoria-street",
+      "type": "place",
+      "label": "Victoria Street",
+      "description": "A street in Westminster, London, mentioned in the novel.",
+      "aliases": [],
+      "tags": [
+        "london",
+        "street",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:victoria-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "berners-street",
+          "label": "berners-street"
+        }
+      ]
+    },
+    {
+      "id": "yarmouth",
+      "type": "place",
+      "label": "Yarmouth",
+      "description": "A major fishing port on the Norfolk coast and home base for many of the North Sea trawling fleets depicted in Runciman's novel.",
+      "aliases": [
+        "Great Yarmouth"
+      ],
+      "tags": [
+        "port",
+        "fishing",
+        "norfolk",
+        "england"
+      ],
+      "quality": "standard",
+      "source_ref": "a-dream-of-the-north-sea:yarmouth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "deep-sea-trawling",
+          "label": "deep-sea-trawling"
+        },
+        {
+          "type": "related",
+          "target": "the-trawling-fleet",
+          "label": "the-trawling-fleet"
+        },
+        {
+          "type": "related",
+          "target": "hull",
+          "label": "hull"
+        },
+        {
+          "type": "related",
+          "target": "grimsby",
+          "label": "grimsby"
+        }
+      ]
+    }
+  ]
+}

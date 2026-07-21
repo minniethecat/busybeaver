@@ -1,0 +1,205 @@
+---
+description: "When the White Rabbit inAliceasked where he should begin to read the verses at the Knave’s trial the King replied: “Begin at the beginning; go on till you co..."
+id: ch01-the-episode-in-the-plymouth-hotel
+label: "Chapter I: The Episode in the Plymouth Hotel"
+tags: ["chapter"]
+type: chapter
+---
+
+# Chapter I: The Episode in the Plymouth Hotel
+
+[001-001] When the White Rabbit inAliceasked where he should begin to read the verses at the Knave’s trial the King replied: “Begin at the beginning; go on till you come to the end; then stop.”
+
+[001-002] This would seem to be the last word on the subject of narration in general. For the novelist no dictum more entirely complete and satisfactory can be imagined﻿—in theory. But in practice it is hard to live up to.
+
+[001-003] Where is the beginning of a story? Where is the beginning of anything? No one knows.
+
+[001-004] When I set myself to consider the actual beginning of [[maxwell-cheyne|Maxwell Cheyne]]’s adventure, I saw at once I should have to go back to Noah. Indeed I was not at all sure whether the thing could be adequately explained unless I carried back the narrative to Adam, or even further. For Cheyne’s adventure hinged not only on his own character and environment, brought about by goodness knows how many thousands of generations of ancestors, but also upon the contemporaneous history of the world, crystallized in the happening of the Great War and all that appertained thereto.
+
+[001-005] So then, in default of the true beginning, let us commence with the character and environment of Maxwell Cheyne, following on with the strange episode which took place in the [[edgecombe-hotel|Edgecombe Hotel]] in [[plymouth|Plymouth]], and from which started that extraordinary series of events which I have called The Cheyne Mystery.
+
+[001-006] Maxwell Cheyne was born in1891, so that when his adventure began in the month ofMarch, 1920, he was just twenty-nine. His father was a navy man, commander of one of His Majesty’s smaller cruisers, and from him the boy presumably inherited his intense love of the sea and of adventure. [[captain-cheyne|Captain Cheyne]] had Irish blood in his veins and exhibited some of the characteristics of that irritating though lovable race. He was a man of brilliant attainments, resourceful, dashing, spirited and, moreover, a fine seaman, but a certain impetuosity, amounting at times to recklessness, just prevented his attaining the highest rank in his profession. In character he was as straight as a die, and kindly, generous, and openhanded to a fault, but he was improvident and inclined to live too much in the present. And these characteristics were destined to affect his son’s life, not only directly through heredity, but indirectly through environment also.
+
+[001-007] When Maxwell was nine his father died suddenly, and then it was found that the commander had been living up to his income and had made but scant provision for his widow and son and daughter. Dreams of Harrow and Cambridge had to be abandoned and, instead, the boy was educated at the local grammar school, and then entered the office of a [[fenchurch-street|Fenchurch Street]] shipping firm as junior clerk.
+
+[001-008] In his twentieth year the family fortunes were again reversed. His mother came in for a legacy from an uncle, a sheep farmer in Australia. It was not a fortune, but it meant a fairly substantial competence. Mr. Cheyne bought back [[warren-lodge|Warren Lodge]], their old home, a small Georgian house standing in pleasant grounds on the estuary of the Dart. Maxwell thereupon threw up his job at the shipping office, followed his mother to Devonshire, and settled down to the leisurely life of a country gentleman. Among other hobbies he dabbled spasmodically in literature, producing a couple of novels, one of which was published and sold with fair success.
+
+[001-009] But the sea was in his blood. He bought a yacht, and with the help of the gardener’s son, Dan, sailed her in fair weather and foul, thereby gaining skill and judgment in things nautical, as well as a firsthand knowledge of the shores and tides and currents of the western portion of the English Channel.
+
+[001-010] Thus it came to pass that when, three years after the return to Devon, the war broke out, he volunteered for the navy and was at once accepted. There he served with enthusiasm if not with distinction, gaining very much the reputation which his father had held before him. During the intensive submarine campaign he was wounded in an action with a U-boat, which resulted in his being invalided out of the service. On demobilization he returned home and took up his former pursuits of yachting, literature, and generally having as slack and easy a time as his energetic nature would allow. Some eighteen months passed, and then occurred the incident which might be said definitely to begin his Adventure.
+
+[001-011] One damp and bleakMarchday Cheyne set out for Plymouth from Warren Lodge, his home on the estuary of the Dart. He wished to make a number of small purchases, and his mother and sister had entrusted him with commissions. Also he desired to consult his banker as to some question of investments. With a full program before him he pulled on his oilskins, and having assured his mother he would be back in time for dinner, he mounted his motor bicycle and rode off.
+
+[001-012] In due course he reached Plymouth, left his machine at a garage, and set about his business. Aboutone o’clockhe gravitated towards the Edgecombe Hotel, where after a cocktail he sat down in the lounge to rest for a few minutes before lunch.
+
+[001-013] He was looking idly overThe Timeswhen the voice of a page broke in on his thoughts.
+
+[001-014] “Gentleman to see you, sir.”
+
+[001-015] The card which the boy held out bore in fine script the legend: “Mr. [[blessington|Hubert Parkes]], Oakleigh, Cleeve Hill, Cheltenham.” Cheyne pondered, but he could not recall anyone of the name, and it passed through his mind that the page had probably made a mistake.
+
+[001-016] “Where is he?” he asked.
+
+[001-017] “Here sir,” the boy answered, and a short, stoutly built man of middle age with fair hair and a toothbrush mustache stepped forward. A glance assured Cheyne that he was a stranger.
+
+[001-018] “Mr. Maxwell Cheyne?” the newcomer inquired politely.
+
+[001-019] “My name, sir. Won’t you sit down?” Cheyne pulled an easy chair over towards his own.
+
+[001-020] “I’ve not had the pleasure of meeting you before,Mr. Cheyne,” the other went on as he seated himself, “though I knew your father fairly intimately. I lived for many years at Valetta, running the Maltese end of a produce company with which I was then connected, and I met him when his ship was stationed there. A great favorite, Captain Cheyne was! The dull old club used to brighten up when he came in, and it seemed a national loss when his ship was withdrawn to another station.”
+
+[001-021] “I remember his being in Malta,” Cheyne returned, “though I was quite a small boy at the time. My mother has a photograph of Valetta, showing his ship lying in the Grand Harbor.”
+
+[001-022] They chatted about Malta and produce company work therein for some minutes, and then Mr. [[hubert-parkes|Parkes]] said:
+
+[001-023] “Now,Mr. Cheyne, though it is a pleasure to make the acquaintance of the son of my old friend, it was not merely with that object that I introduced myself. I have, as a matter of fact, a definite piece of business which I should like to discuss with you. It takes the form of a certain proposition of which I would invite your acceptance, I hope, to our mutual advantage.”
+
+[001-024] Cheyne, somewhat surprised, murmured polite expressions of anxiety to hear details and the other went on:
+
+[001-025] “I think before I explain the thing fully another small matter wants to be attended to. What about a little lunch? I’m just going to have mine and I shall take it as a favor if you will join me. After that we could talk business.”
+
+[001-026] Cheyne readily agreed and the other called over a waiter and gave him an order. “Let us have a cocktail,” he went on, “and by that time lunch will be ready.”
+
+[001-027] They strolled to the bar and there partook of a wonderful American concoction recommended by the young lady in charge. Presently the waiter reappeared and led the way, somewhat to Cheyne’s surprise, to a private room. There an excellent repast was served, to which both men did full justice. Parkes proved an agreeable and well informed companion and Cheyne enjoyed his conversation. The newcomer had, it appeared, seen a good deal of war service, having held the rank of major in the department of supply, serving first at Gallipoli and then at Salonica. Cheyne knew the latter port, his ship having called there on three or four occasions, and the two men found they had various experiences in common. Time passed pleasantly until at last Parkes drew a couple of arm chairs up to the fire, ordered coffee, and held out his cigar case.
+
+[001-028] “With your permission I’ll put my little proposition now. It is in connection with your literary work and I’m afraid it’s bound to sound a trifle impertinent. But I can assure you it’s not meant to be so.”
+
+[001-029] Cheyne smiled.
+
+[001-030] “You needn’t be afraid of hurting my feelings,” he declared. “I have a notion of the real value of my work. Get along anyway and let’s hear.”
+
+[001-031] Parkes resumed with some hesitation.
+
+[001-032] “I have to say first that I have read everything that you have published and I am immensely impressed by your style. I think you do your descriptions extraordinarily well. Your scenes are vivid and one feels that one is living through them. There’s money in that,Mr. Cheyne, in that gift of vivid and interest-compelling presentation. You should make a good thing out of short stories. I’ve worked at them for years and I know.”
+
+[001-033] “Huh. I haven’t found much money in it.”
+
+[001-034] Parkes nodded.
+
+[001-035] “I know you haven’t, or rather I guessed so. And if you don’t mind, I’ll tell you why.” He sat up and a keener interest crept into his manner. “There’s a fault in those stories of yours, a bad fault, and it’s in the construction. But let’s leave that for the moment and you’ll see where all this is leading.”
+
+[001-036] He broke off as a waiter arrived with the coffee, resuming:
+
+[001-037] “Now I have a strong dramatic sense and a good working knowledge of literary construction. As I said I’ve also tried short stories, and though they’ve not been an absolute failure, I couldn’t say they’ve been really successful. On the whole, I should think, yours have done better. And I know why. It’s my style. I try to produce a tale, say, of a shipwreck. It is intended to be full of human feeling, to grip the reader’s emotion. But it doesn’t. It reads like a Board of Trade report. Dry, you understand; not interesting. Now,Mr. Cheyne,” he sat up in his chair once more, this time almost in excitement, “you see what I’m coming to. Why should we not collaborate? Let me do the plots and you clothe them. Between us we have all the essentials for success.”
+
+[001-038] He sat back and then saw the coffee.
+
+[001-039] “I say,” he exclaimed, “I’m sorry, but I didn’t notice this had come. I hope it’s not cold.” He felt the coffee pot. “What about a liquor? I’ll ring for one. Or rather,” he paused suddenly. “I think I’ve got something perhaps even better here.” He put his hand in his pocket and drew out a small flask. “Old Cognac,” he said. “You’ll try a little?”
+
+[001-040] He poured some of the golden brown liquid into Cheyne’s cup and was about to do the same into his own when he was seized with a sudden fit of choking coughing. He had to put down the flask while he quivered and shook with the paroxysm. Presently he recovered, breathless.
+
+[001-041] “Since I was wounded,” he gasped apologetically, “I’ve been taken like that. The doctors say it’s purely nervous﻿—that my throat and lungs and so on are perfectly sound. Strange the different ways this war leaves its mark!”
+
+[001-042] He picked up the flask, poured a liberal measure of its contents into his own cup, drank off the contents with evident relish and continued:
+
+[001-043] “What I had in my mind, if you’ll consider it, was a series of short stories﻿—say a dozen﻿—on the merchant marine in the war. This is the spring of1920. Soon no one will read anything connected with the war, but I think that time has scarcely come yet. I have fair knowledge of the subject and yours of course is first hand. What do you say? I will supply twelve plots or incidents and you will clothe them with, say, five thousand words each. We shall sell them toThe Strandor some of those monthlies, and afterwards publish them as a collection in book form.”
+
+[001-044] “By Jove!” Cheyne said as he slowly sipped his coffee. “The idea’s rather tempting. But I wish I could feel as sure as you seem to do about my own style. I’m afraid I don’t believe that it is as good as you pretend.”
+
+[001-045] “Mr. Cheyne,” Parkes answered deliberately, “you may take my word for it that I know what I am talking about. I shouldn’t have come to you if I weren’t sure. Very few people are satisfied with their own work. No matter how good it is it falls short of the standard they have set in their minds. It is another case in which the outsider sees most of the game.”
+
+[001-046] Cheyne felt attracted by the proposal. He had written in all seventeen short stories, and of these only three had been accepted, and those by inferior magazines. If it would lead to success he would be only too delighted to collaborate with this pleasant stranger. It wasn’t so much the money﻿—though he was not such a fool as to make light of that part of it. It was success he wanted, acceptance of his stuff by good periodicals, a name and a standing among his fellow craftsmen.
+
+[001-047] “Let’s see what it would mean,” he heard Parkes’s voice, and it seemed strangely faint and distant. “I suppose, given the synopses, you could finish a couple of tales per week﻿—say, six weeks for the lot. And with luck we should sell for £50 to £100 each﻿—say £500 for your six week’s work, or nearly £100 per week. And there might be any amount more for the book rights, filming and so on. Does the idea appeal to you,Mr. Cheyne?”
+
+[001-048] Cheyne did not reply. He was feeling sleepy. Did the idea appeal to him? Yes. No. Did it? Did the idea﻿ ﻿… the idea﻿ ﻿… Drat this sleepiness! What was he thinking of? Did the idea﻿ ﻿… What idea?﻿ ﻿… He gave up the struggle and, leaning back in his chair, sank into a profound and dreamless slumber.
+
+[001-049] Ages of time passed and Cheyne slowly struggled back into consciousness. As soon as he was sufficiently awake to analyze his sensations he realized that his brain was dull and clouded and his limbs heavy as lead. He was, however, physically comfortable, and he was content to allow his body to remain relaxed and motionless and his mind to dream idly on without conscious thought. But his energy gradually returned and at last he opened his eyes.
+
+[001-050] He was lying, dressed, on a bed in a strange room. Apparently it was night, for the room was dark save for the light on the window blind which seemed to come from a street lamp without. Vaguely interested, he closed his eyes again, and when he reopened them the room was lighted up and a man was standing beside the bed.
+
+[001-051] “Ah,” the man said, “you’re awake. Better, I hope?”
+
+[001-052] “I don’t know,” Cheyne answered, and it seemed to him as if someone else was speaking. “Have I been ill?”
+
+[001-053] “No,” the man returned, “Not that I know of. But you’ve slept like a log for nearly six hours.”
+
+[001-054] This was confusing. Cheyne paused to take in the idea, but it eluded him, then giving up the effort, he asked another question.
+
+[001-055] “Where am I?”
+
+[001-056] “In the Edgecombe: the Edgecombe Hotel, you know, in Plymouth. I am [[mr-jesse|the manager]].”
+
+[001-057] Ah, yes! It was coming back to him. He had gone there for lunch﻿—was it today or a century ago?﻿—and he had met that literary man﻿—what was his name? He couldn’t remember. And they had had lunch and the man had made some suggestion about his writing. Yes, of course! It was all coming back now. The man had wanted to collaborate with him. And during the conversation he had suddenly felt sleepy. He supposed he must have fallen asleep then, for he remembered nothing more. But why had he felt sleepy like that? Suddenly his brain cleared and he sat up sharply.
+
+[001-058] “What’s happened,Mr. Jesse? I never did anything like this before!”
+
+[001-059] “No?” the manager answered. “I dare say not. I’ll tell you what has happened to you,Mr. Cheyne, though I’m sorry to have to admit it could have taken place in my hotel. You’ve been drugged. That’s what has happened.”
+
+[001-060] Cheyne stared incredulously.
+
+[001-061] “Good Lord!” he ejaculated. “Drugged! By﻿—not by that literary man, surely?” He paused in amazed consternation and then his hand flew to his pocket. “My money,” he gasped. “I had over £100 in my pocket. Just got it at the bank.” He drew out a pocketbook and examined it hurriedly. “No,” he went on more quietly. “It’s all right.” He took from it a bundle of notes and with care counted them. “A hundred and eight pounds. That’s quite correct. My watch? No, it’s here.” He got up unsteadily, and rapidly went through his pockets. “Nothing missing anyway. Are you sure I was drugged? I don’t understand the thing a little bit.”
+
+[001-062] “I am afraid there is no doubt about it. You seemed so ill that I sent for a doctor. He said you were suffering from the effects of a drug, but were in no danger and would be all right in a few hours. He advised that you be left quietly to sleep it off.”
+
+[001-063] Cheyne rubbed his hand over his eyes.
+
+[001-064] “I can’t understand it,” he repeated. “Tell me exactly what happened.”
+
+[001-065] “Aboutthree o’clockor shortly before it,Mr. Parkes appeared at the office and asked for his bill. He paid it, complimented the clerk on the excellent lunch he had had, and left the hotel. He was perfectly calm and collected and quite unhurried. Shortly after the waiter went up to clear away the things and he found you lying back in your chair, apparently asleep, but breathing so heavily that he was uneasy and he came and told me. I went up at once and was also rather alarmed at your condition, so I sent at once for the doctor.”
+
+[001-066] “But,” Cheyne objected, “that’s all right, only Iwasn’tdrugged. I know exactly what I ate and drank, and Parkes had precisely the same. If I was drugged, he must have been also, and you say he wasn’t.”
+
+[001-067] “He certainly was not. But think again,Mr. Cheyne. Are you really quite certain that he had no opportunity of putting powder over your food or liquid into your drink? Did he divert your attention at any time from the table?”
+
+[001-068] Cheyne was silent. He had remembered the flask of old brandy.
+
+[001-069] “He put cognac in my coffee from his own flask,” he admitted at length, “but it couldn’t have been that.”
+
+[001-070] “Ah,” the manager answered in a satisfied tone, “itwasthat, I should swear. Why don’t you think so?”
+
+[001-071] “I’ll tell you why I don’t think so; why, in fact, I know it wasn’t. He put an even larger dose out of the same flask into his own cup and he drank his coffee before I drank mine. So that if there was anything in the flask he would have got knocked over first.”
+
+[001-072] The manager looked puzzled.
+
+[001-073] “Don’t think me discourteous,Mr. Cheyne, but I confess I have my doubts about that. That episode of the flask looks too suspicious. Are you sure it was the same flask in each case? Did he pour straight into one cup after the other or was there an interval in between? You realize of course that a clever conjurer could substitute a second flask for the first without attracting your notice?”
+
+[001-074] “I realize that right enough, but I am positive he didn’t do so in this case. Though,” he paused for a moment, “that reminds me that there was an interval between pouring into each cup. He got a fit of coughing after giving me mine and had to put down the flask. But when the paroxysm was over he lifted it again and helped himself.”
+
+[001-075] “There you are,” the manager declared. “During his fit of coughing he substituted a different flask.”
+
+[001-076] “I’ll swear he didn’t. But can’t we settle the thing beyond doubt? Have the cups been washed? If not, can’t we get the dregs analyzed?”
+
+[001-077] “I have already asked the doctor to have it done. He said he would get [[mr-pringle|Mr. Pringle]] to do it at once: that’s the city analyst. They’re close friends, and Mr. Pringle would do it to oblige him. We should have his report quite soon. I am also having him analyze the remains on the plates which were used. Fortunately, owing to lunch being served in a private room, these had been stacked together and none had been washed. So we should be able to settle the matter quite definitely.”
+
+[001-078] Cheyne nodded as he glanced at his watch. “Good Lord!” he cried, “it’seight o’clockand I said I should be home byseven! I must ring up my mother or she’ll think something is wrong.”
+
+[001-079] The Cheynes had not themselves a telephone, but their nearest neighbors, people called [[mrs-hazelton|Hazelton]], were good-natured about receiving an occasional message through theirs and transmitting it to Warren Lodge. Cheyne went down to the lounge and put through his call, explaining to Mrs. Hazelton that unforeseen circumstances had necessitated his remaining overnight in Plymouth. The lady promised to have the message conveyed to [[mrs-cheyne|Mrs. Cheyne]] and Maxwell rang off. Then as he turned to the dining room, a page told him that the manager would like to see him in his office.
+
+[001-080] “I’ve just got a report from the doctor about that coffee,Mr. Cheyne,” the other greeted him, “and I must say it confirms what you say, though it by no means clears up the mystery. There was brandy in those cups, but no drug: no trace of a drug in either.”
+
+[001-081] “I knew that,” Cheyne rejoined. “Everything that I had for lunch Parkes had also. I was there and I ought to know. But it’s a bit unsettling, isn’t it? Looks as if my heart or something had gone wrong.”
+
+[001-082] The manager looked at him more seriously. “Oh, I don’t think so,” he dissented. “I don’t think you can assume that. The doctor seemed quite satisfied. But if it would ease your mind, why not slip across now and see him? He lives just round the corner.”
+
+[001-083] Cheyne reflected.
+
+[001-084] “I’ll do so,” he answered presently. “If there’s nothing wrong it will prevent me fancying things, and if there is I should know of it. I’ll have some dinner and then go across. By the way, have you said anything to the police?”
+
+[001-085] The manager hesitated.
+
+[001-086] “No, I have not. I don’t know that we’ve evidence enough. But in any case,Mr. Cheyne, I trust you do not wish to call in the police.” The manager seemed quite upset by the idea and spoke earnestly. “It would not do the hotel any good if it became known that a visitor had been drugged. I sincerely trust, sir, that you can see your way to keep the matter quiet.”
+
+[001-087] Cheyne stared.
+
+[001-088] “But you surely don’t suggest that I should take the thing lying down? If I have been drugged, as you say, I must know who has done it, and why. That would seem to me obvious.”
+
+[001-089] “I agree,” the manager admitted, “and I should feel precisely the same in your place. But it is not necessary to apply to the police. A private detective would get you the information quite as well. See here,Mr. Cheyne, I will make you an offer. If you will agree to the affair being hushed up, I will employ the detective on behalf of the hotel. He will work under your direction and keep you advised of every step he takes. Come now, sir, is it a bargain?”
+
+[001-090] Cheyne did not hesitate.
+
+[001-091] “Why, yes,” he said promptly, “that will suit me all right. I don’t specially want to advertise the fact that I have been made a fool of. But I’d like to know what has really happened.”
+
+[001-092] “You shall,Mr. Cheyne. No stone shall be left unturned to get at the truth. I’ll see about a detective at once. You’ll have some dinner, sir?”
+
+[001-093] Cheyne was not hungry, but he was very thirsty, and he had a light meal with a number of long drinks. Then he went round to see the doctor, to whom the manager had telephoned, making an appointment.
+
+[001-094] After a thorough examination he received the verdict. It was a relief to his mind, but it did not tend to clear up the mystery. He was physically perfectly sound, and his sleep of the afternoon was not the result of disease or weakness. He had been drugged. That was the beginning and the end of the affair. The doctor was quite emphatic and ridiculed the idea of any other explanation.
+
+[001-095] Cheyne returned to the Edgecombe, and sitting down in a deserted corner of the lounge, tried to puzzle the thing out. But the more he thought of it, the more mysterious it became. His mind up till then had been concentrated on the actual administration of the drug, and this point alone still seemed to constitute an insoluble problem. But now he saw that it was but a small part of the mystery. Whyhad he been drugged? It was not robbery. Though he had over £100 in his pocket, the money was intact. He had no other valuables about him, and in any case nothing had been removed from his pockets. It was not to prevent his going to any place. He had not intended to do anything that afternoon that could possibly interest a stranger. No, he could form no conception of the motive.
+
+[001-096] But even more puzzling than this was the question: How did Parkes, if that was really his name, know that he, Cheyne, was coming to Plymouth that day? It was true that he had mentioned it to his mother and sister a couple of days previously, but he had told no one else and he felt sure that neither had they. But the man had almost certainly been expecting him. At least it was hard to believe that the whole episode had been merely the fruits of a chance encounter. On the other hand there was the difficulty that any other suggestion seemed even more unlikely. Parkes simplycouldn’thave known that he, Cheyne, was coming. It was just inconceivable.
+
+[001-097] He lay back in his deep armchair, the smoke of his pipe curling lazily up, as he racked his brains for some theory which would at least partially meet the facts. But without success. He could think of nothing which threw a gleam of light on the situation.
+
+[001-098] And then he made a discovery which still further befogged him and made him swear with exasperation. He had taken out his pocketbook and was once more going through its contents to make absolutely sure nothing was missing, when he came to a piece of folded paper bearing memoranda about the money matters which he had discussed with his banker. He had not opened this when he had looked through the book after regaining consciousness, but now half absentmindedly he unfolded it. As he did so he stared. Near the crease was a slight tear, unquestionably made by someone unfolding it hurriedly or carelessly. But that tear had not been there when he had folded it up. He could swear to it. Someone therefore had been through his pockets while he was asleep.

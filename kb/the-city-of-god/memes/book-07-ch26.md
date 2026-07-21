@@ -1,0 +1,11 @@
+---
+description: "The interpretation of the mutilation of Atys which the doctrine of the Greek sages set forth."
+id: book-07-ch26
+label: "Book 7 — Ch. 25: XXV"
+tags: ["chapter"]
+type: chapter
+---
+
+[204-001]The interpretation of the mutilation of Atys which the doctrine of the Greek sages set forth.
+
+[204-002]Varro has not spoken of that Atys, nor sought out any interpretation for him, in memory of whose being loved by Ceres the Gallus is mutilated. But the learned and wise Greeks have by no means been silent about an interpretation so holy and so illustrious. The celebrated philosopher Porphyry has said that Atys signifies the flowers of spring, which is the most beautiful season, and therefore was mutilated because the flower falls before the fruit appears.281 They have not, then, compared the man himself, or rather that semblance of a man they called Atys, to the flower, but his male organs—these, indeed, fell whilst he was living. Did I say fell? nay, truly they did not fall, nor were they plucked off, but torn away. Nor when that flower was lost did any fruit follow, but rather sterility. What, then, do they say is signified by the castrated Atys himself, and whatever remained to him after his castration? To what do they refer that? What interpretation does that give rise to? Do they, after vain endeavours to discover an interpretation, seek to persuade men that that is rather to be believed which report has made public, and which has also been written concerning his having been a mutilated man? Our Varro has very properly opposed this, and has been unwilling to state it; for it certainly was not unknown to that most learned man.

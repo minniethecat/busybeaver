@@ -1,59 +1,66 @@
 ---
+description: "Scottish physician and moralist (1724–1773), author of A Father's Legacy to His Daughters — one of the conduct-book writers Wollstonecraft critiques for training women in dissimulation rather than virtue."
 id: john-gregory
-label: John Gregory
+label: "Dr. John Gregory"
+tags: ["person"]
 type: person
-description: "Scottish physician whose conduct book A Father's Legacy to His Daughters (1774) Wollstonecraft critiques for its sentimental degradation of women"
-tags: ["physician", "writer", "conduct-literature", "scottish-enlightenment", "showcase"]
 ---
 
-# John Gregory
+# Dr. John Gregory
 
-[[John Gregory]] (1724–1773) was a Scottish physician and professor of medicine at the [[University of Edinburgh]]. His posthumously published _A Father's Legacy to His Daughters_ (1774) became one of the most popular conduct books of the late eighteenth century, and a key target of [[Mary Wollstonecraft]]'s critique in _[[A Vindication of the Rights of Woman]]_.
+## Overview
 
-Wollstonecraft groups Gregory with [[Jean-Jacques Rousseau]] as writers who, "from Rousseau to Dr. Gregory, have contributed to render women more artificial, weak characters, than they would otherwise have been" (002-015). His influence makes him, after Rousseau, the second most cited author in the _Vindication_.
+Dr. John Gregory (1724–1773) was a Scottish physician and professor of medicine at the University of Edinburgh. His posthumously published *A Father's Legacy to His Daughters* (1774) became one of the most popular conduct books of the late eighteenth century — and, for Wollstonecraft, a prime example of the literature that trains women in artifice rather than virtue. Gregory's advice, delivered in the affectionate tone of a father to his daughters, is in Wollstonecraft's analysis more pernicious than overt misogyny precisely because it comes wrapped in benevolence.
 
-## Life
+Wollstonecraft's critique centres on Gregory's infamous advice that women should conceal their learning from men — "if you happen to have any learning, keep it a profound secret." This, she argues, is not protection but corruption: it teaches women that their intellectual life must be hidden, managed, performed for male approval rather than cultivated for its own sake.
 
-Gregory was born in Aberdeen, Scotland, and rose to prominence as a physician and medical educator. He served as physician to the king in Scotland and was a member of the intellectual circles of the [[Scottish Enlightenment]], alongside figures such as [[David Hume]] and [[Adam Smith]].
+### Affectionate Respect, Devastating Critique
 
-His _Legacy_ was written for his daughters after the death of their mother, intended as practical moral guidance. Its sentimental framing — a dying father's advice — gave it enormous cultural authority, precisely the authority Wollstonecraft challenges.
+Gregory appears in the Introduction alongside [[rousseau|Rousseau]] as a key exponent of the view that women's [[education]] should aim at making them pleasing. Chapter V contains the most sustained engagement, where Wollstonecraft quotes Gregory at length and analyses the moral damage his advice inflicts. She introduces her critique with a characteristic blend of respect and dissent: "Such paternal solicitude pervades Dr. Gregory's Legacy to his daughters, that I enter on the task of criticism with affectionate respect" (005-088).
 
-## Role in the Text
+The core of her objection is not Gregory's affection but its consequences. His easy, familiar style and the "melancholy tenderness which his respect for the memory of a beloved wife diffuses through the whole work" (005-089) make his advice seductive. But Wollstonecraft identifies a fundamental inconsistency: "having two objects in view, he seldom adhered steadily to either; for, wishing to make his daughters amiable, and fearing lest unhappiness should only be the consequence, of instilling sentiments, that might draw them out of the track of common life, without enabling them to act with consonant independence and dignity, he checks the natural flow of his thoughts, and neither advises one thing nor the other" (005-090).
 
-### The Amiable Error
+Wollstonecraft's treatment of Gregory is notable for its tone: she does not dismiss him as a fool but engages him seriously, acknowledging his genuine affection for his daughters while exposing the destructive logic of his advice. The paternal love that motivates Gregory's conduct book makes its effects, in her analysis, all the more tragic. She quotes his stark warning — "that they will hear, at least once in their lives, the genuine sentiments of a man, who has no interest in deceiving them" (005-091) — and turns it against him: "Hapless woman! what can be expected from thee, when the beings on whom thou art said naturally to depend for reason and support, have all an interest in deceiving thee!" (005-092).
 
-Wollstonecraft's treatment of Gregory is notably gentler than her treatment of Rousseau. She calls him "the amiable Dr. Gregory" (002-045) and acknowledges his good intentions. But this very amiability makes his errors more insidious: "The amiable Dr. Gregory fell into a similar error" — that of advising women to conceal their intelligence.
+### The System of Dissimulation
 
-> "Dr. Gregory goes much further; he actually recommends dissimulation to women." (002-047)
+Wollstonecraft's deepest objection is that Gregory's advice constitutes a "system of dissimulation" (005-100). She targets his most famous counsel directly: "Why, for instance, should the following caution be given, when art of every kind must contaminate the mind; and why entangle the grand motives of action, which reason and religion equally combine to enforce, with pitiful worldly shifts and slight of hand tricks to gain the applause of gaping tasteless fools? 'Be even cautious in displaying your good sense. It will be thought you assume a superiority over the rest of the company — But if you happen to have any learning keep it a profound secret, especially from the men, who generally look with a jealous and malignant eye on a woman of great parts and a cultivated understanding'" (005-096).
 
-The charge is severe: Gregory advises women to hide their wit and learning to avoid making men feel inferior. Wollstonecraft sees this as a direct assault on female intellectual integrity.
+The advice is self-defeating because it teaches women to perform ignorance rather than acquire [[knowledge]]. Wollstonecraft counters: "Surely it would have been wiser to have advised women to improve themselves till they rose above the fumes of vanity; and then to let the public opinion come round — for where are rules of accommodation to stop?" (005-098). The alternative she offers is not merely different advice but a different principle: "Make the heart clean, and give the head employment" (005-098).
 
-### Delicacy of Sentiment
+Gregory also advises women to cultivate an appearance of delicacy and reserve, even when those qualities are not genuine. Wollstonecraft responds with an appeal to [[shakespeare|Shakespeare]]: "Women are always to *seem* to be this and that — yet virtue might apostrophize them, in the words of Hamlet — Seems! I know not seems! — Have that within that passeth show!" (005-100). The reference to [[hamlet|Hamlet]] elevates the critique from mere disagreement to a moral indictment: Gregory's system values appearance over substance, performance over [[virtue]].
 
-Gregory's advice about female modesty draws particular fire. Wollstonecraft notes:
+## Key Quotations
 
-> "The same strain runs [through] Rousseau's and Dr. Gregory's advice respecting modesty" (007-016)
+> "Such paternal solicitude pervades Dr. Gregory's Legacy to his daughters, that I enter on the task of criticism with affectionate respect; but as this little volume has many attractions to recommend it to the notice of the most respectable part of my sex, I cannot silently pass over arguments that so speciously support opinions which, I think, have had the most baneful effect on the morals and manners of the female world." (005-088)
 
-Both reduce modesty from a rational virtue to a form of sexual concealment.
+> "It is this system of dissimulation, throughout the volume, that I despise. Women are always to *seem* to be this and that — yet virtue might apostrophize them, in the words of Hamlet — Seems! I know not seems! — Have that within that passeth show!" (005-100)
 
-She cites Gregory's recommendation that women should never let their husbands know the full extent of their feelings: "I shall only observe, that [his advice] renders women more artificial" (002-029). Authenticity, in Gregory's system, is sacrificed to the appearance of propriety.
+> "Hapless woman! what can be expected from thee, when the beings on whom thou art said naturally to depend for reason and support, have all an interest in deceiving thee! This is the root of the evil that has shed a corroding mildew on all thy virtues." (005-092)
 
-## Key Ideas
+## Blockquote Gallery
 
-| Aspect | Gregory's View | Wollstonecraft's Response |
-|--------|---------------|--------------------------|
-| Female wit | Conceal it to avoid intimidating men | Intellectual honesty over social performance |
-| Modesty | Sexual reserve and concealment | Rational virtue, not performance |
-| Parental affection | Sentimentalized as a father's legacy | Sentiment cannot substitute for rational principle |
-| Women's conduct | Governed by male approval | Governed by reason and self-respect |
+> "Such paternal solicitude pervades Dr. Gregory's Legacy to his daughters, that I enter on the task of criticism with affectionate respect; but as this little volume has many attractions to recommend it to the notice of the most respectable part of my sex, I cannot silently pass over arguments that so speciously support opinions which, I think, have had the most baneful effect on the morals and manners of the female world." (005-088)
 
-## See Also
+> "Hapless woman! what can be expected from thee, when the beings on whom thou art said naturally to depend for reason and support, have all an interest in deceiving thee! This is the root of the evil that has shed a corroding mildew on all thy virtues; and blighting in the bud thy opening faculties, has rendered thee the weak thing thou art!" (005-092)
 
-- [[Jean-Jacques Rousseau]]
-- [[Mary Wollstonecraft]]
-- [[Sensibility]]
-- [[Modesty]]
-- [[James Fordyce]]
-- [[Catharine Macaulay]]
-- [[France]]
-- [[Europe]]
+> "Why, for instance, should the following caution be given, when art of every kind must contaminate the mind; and why entangle the grand motives of action, which reason and religion equally combine to enforce, with pitiful worldly shifts and slight of hand tricks to gain the applause of gaping tasteless fools? 'Be even cautious in displaying your good sense... But if you happen to have any learning keep it a profound secret, especially from the men.'" (005-096)
+
+## Related Works
+
+- [[a-fathers-legacy|A Father's Legacy to His Daughters]] (1774)
+
+## Related Concepts
+
+- [[education]] — Gregory represents the conduct-book tradition of female education that Wollstonecraft opposes
+- [[modesty]] — Gregory advises women to affect modesty; Wollstonecraft argues for genuine modesty
+- [[virtue]] — Wollstonecraft's central charge: Gregory's advice prevents women from developing genuine virtue
+- [[prejudice]] — Gregory's advice encodes and perpetuates prejudices about female [[nature]]
+- [[sensibility]] — The cultivated weakness that Gregory's advice, despite his good intentions, reinforces
+- [[knowledge]] — What Gregory tells women to conceal; what Wollstonecraft insists they must pursue
+- [[character]] — The artificial character Gregory's system produces versus the genuine character Wollstonecraft advocates
+- [[duty]] — The duties Gregory's advice prevents women from fulfilling
+
+## Biographical Summary
+
+John Gregory (1724–1773) was a Scottish physician, writer, and professor of medicine at Edinburgh. He published *A Comparative View of the State and Faculties of Man with Those of the Animal World* (1765) and *A Father's Legacy to His Daughters* (1774, posthumous). The latter, written after his wife's death as guidance for his daughters, became a widely read conduct book and a key target in Wollstonecraft's critique of female education.

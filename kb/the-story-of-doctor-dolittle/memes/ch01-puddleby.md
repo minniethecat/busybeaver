@@ -1,0 +1,41 @@
+---
+description: "Chapter 1 of The Story of Doctor Dolittle — Puddleby"
+id: ch01-puddleby
+label: "Chapter 1: Puddleby"
+tags: ["chapter"]
+type: chapter
+---
+
+# Chapter 1. Puddleby
+
+[001-001]Once upon a time, many years ago﻿—when our grandfathers were little children﻿—there was a doctor; and his name was Dolittle﻿—John Dolittle,M.D.“M.D.” means that he was a proper doctor and knew a whole lot.
+
+[001-002]He lived in a little town called, Puddleby-on-the-Marsh. All the folks, young and old, knew him well by sight. And whenever he walked down the street in his high hat everyone would say, “There goes the Doctor!﻿—He’s a clever man.” And the dogs and the children would all run up and follow behind him; and even the crows that lived in the church-tower would caw and nod their heads.
+
+[001-003]The house he lived in, on the edge of the town, was quite small; but his garden was very large and had a wide lawn and stone seats and weeping-willows hanging over. His sister, Sarah Dolittle, was housekeeper for him; but the Doctor looked after the garden himself.
+
+[001-004]He was very fond of animals and kept many kinds of pets. Besides the goldfish in the pond at the bottom of his garden, he had rabbits in the pantry, white mice in his piano, a squirrel in the linen closet and a hedgehog in the cellar. He had a cow with a calf too, and an old lame horse﻿—twenty-five years of age﻿—and chickens, and pigeons, and two lambs, and many other animals. But his favorite pets were Dab-Dab the duck, Jip the dog, Gub-Gub the baby pig, Polynesia the parrot, and the owl Too-Too.
+
+[001-005]His sister used to grumble about all these animals and said they made the house untidy. And one day when an old lady with rheumatism came to see the Doctor, she sat on the hedgehog who was sleeping on the sofa and never came to see him any more, but drove every Saturday all the way to Oxenthorpe, another town ten miles off, to see a different doctor.
+
+[001-006]Then his sister, Sarah Dolittle, came to him and said,
+
+[001-007]“John, how can you expect sick people to come and see you when you keep all these animals in the house? It’s a fine doctor would have his parlor full of hedgehogs and mice! That’s the fourth personage these animals have driven away. Squire Jenkins and the Parson say they wouldn’t come near your house again﻿—no matter how sick they are. We are getting poorer every day. If you go on like this, none of the best people will have you for a doctor.”
+
+[001-008]“But I like the animals better than the ‘best people,’ ” said the Doctor.
+
+[001-009]“You are ridiculous,” said his sister, and walked out of the room.
+
+[001-010]So, as time went on, the Doctor got more and more animals; and the people who came to see him got less and less. Till at last he had no one left﻿—except the Cat’s-meatman, who didn’t mind any kind of animals. But the Cat’s-meatman wasn’t very rich and he only got sick once a year﻿—at Christmas-time, when he used to give the Doctor sixpence for a bottle of medicine.
+
+[001-011]Sixpence a year wasn’t enough to live on﻿—even in those days, long ago; and if the Doctor hadn’t had some money saved up in his money-box, no one knows what would have happened.
+
+[001-012]And he kept on getting still more pets; and of course it cost a lot to feed them. And the money he had saved up grew littler and littler.
+
+[001-013]Then he sold his piano, and let the mice live in a bureau-drawer. But the money he got for that too began to go, so he sold the brown suit he wore on Sundays and went on becoming poorer and poorer.
+
+[001-014]And now, when he walked down the street in his high hat, people would say to one another, “There goes John Dolittle,M.D.! There was a time when he was the best known doctor in the West Country﻿—Look at him now﻿—He hasn’t any money and his stockings are full of holes!”
+
+[001-015]But the dogs and the cats and the children still ran up and followed him through the town﻿—the same as they had done when he was rich.
+
+[001-016]<!-- source: text/chapter-2.xhtml -->

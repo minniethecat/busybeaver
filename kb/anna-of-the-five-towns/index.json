@@ -1,0 +1,5477 @@
+{
+  "book": "anna-of-the-five-towns",
+  "title": "Anna of the Five Towns",
+  "description": "Anna of the Five Towns — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 116,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Anna of the Five Towns\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Colophon and production notes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:Colophon",
+      "relations": []
+    },
+    {
+      "id": "Endnotes",
+      "type": "chapter",
+      "label": "\"Endnotes\"",
+      "description": "\"Explanatory endnotes for the text\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:Endnotes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "potteries-industry",
+          "label": "manufacturing"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Edition imprint, dedication, and epigraph\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "anna-of-the-five-towns:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "Endnotes",
+          "label": "Endnotes"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Public domain dedication and copyright information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "agnes-tellwright",
+      "type": "person",
+      "label": "Agnes Tellwright",
+      "description": "Anna Tellwright's younger half-sister, a twelve-year-old schoolgirl at the novel's opening whose spirited innocence and affection provide one of the few sources of warmth in the Tellwright household.",
+      "aliases": [
+        "Agnes"
+      ],
+      "tags": [
+        "female",
+        "student",
+        "sister",
+        "child",
+        "tellwright-family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:agnes-tellwright",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "manor-terrace"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "isle-of-man"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        }
+      ]
+    },
+    {
+      "id": "alderman-sutton",
+      "type": "person",
+      "label": "Alderman Sutton",
+      "description": "Beatrice Sutton's father, a potter's valuer and commission agent who rises to become alderman and prospective mayor of Bursley. A genial, easy-going man of substantial wealth and refined tastes.",
+      "aliases": [
+        "Mr. Sutton",
+        "Councillor Sutton"
+      ],
+      "tags": [
+        "male",
+        "civic-leader",
+        "alderman",
+        "mayor",
+        "businessman",
+        "sutton-family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:alderman-sutton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "sutton-family",
+          "label": "sutton-family"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "isle-of-man"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "five-towns-field-club",
+          "label": "five-towns-field-club"
+        }
+      ]
+    },
+    {
+      "id": "anna-inheritance-revelation",
+      "type": "event",
+      "label": "Anna's Inheritance Revelation",
+      "description": "Ephraim Tellwright's revelation to Anna on her twenty-first birthday that she has inherited fifty thousand pounds.",
+      "aliases": [],
+      "tags": [
+        "inheritance",
+        "wealth",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:anna-inheritance-revelation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        },
+        {
+          "type": "related",
+          "target": "annas-21st-birthday",
+          "label": "annas-21st-birthday"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        }
+      ]
+    },
+    {
+      "id": "anna-mynors-wedding",
+      "type": "event",
+      "label": "Anna & Mynors' Wedding",
+      "description": "The culminating event of the novel — the marriage of Anna Tellwright to Henry Mynors, which concludes the narrative and resolves the central plotline of courtship, inheritance, and domestic transfer that has driven the story since Chapter 1.",
+      "aliases": [
+        "Anna and Henry's wedding"
+      ],
+      "tags": [
+        "chapter-13",
+        "marriage",
+        "conclusion",
+        "Tellwright-family",
+        "Sutton-family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:anna-mynors-wedding",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "the-priory",
+          "label": "the-priory"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "autumn-bazaar",
+          "label": "autumn-bazaar"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        }
+      ]
+    },
+    {
+      "id": "anna-tellwright",
+      "type": "person",
+      "label": "Anna Tellwright",
+      "description": "Protagonist of _Anna of the Five Towns_, the ascetic daughter of miser Ephraim Tellwright, whose inheritance and love for Henry Mynors drive her from parental servitude to moral independence.",
+      "aliases": [],
+      "tags": [
+        "protagonist",
+        "female",
+        "heiress"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:anna-tellwright",
+      "relations": []
+    },
+    {
+      "id": "annas-21st-birthday",
+      "type": "event",
+      "label": "Anna's 21st Birthday",
+      "description": "Anna Tellwright's twenty-first birthday, marking her legal coming of age and triggering the revelation of her inheritance from her grandfather. The birthday is a narrative threshold that transforms Anna's financial status while leaving her personal autonomy unchanged.",
+      "aliases": [
+        "Anna's coming of age"
+      ],
+      "tags": [
+        "chapter-1",
+        "chapter-3",
+        "chapter-6",
+        "milestone",
+        "inheritance",
+        "Tellwright-family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:annas-21st-birthday",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "tellwright-estate",
+          "label": "tellwright-estate"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        },
+        {
+          "type": "related",
+          "target": "mr-lovatt",
+          "label": "mr-lovatt"
+        }
+      ]
+    },
+    {
+      "id": "autumn-bazaar",
+      "type": "event",
+      "label": "The Autumn Bazaar",
+      "description": "A triumphant fundraising bazaar organised to support the Wesleyan chapel building fund, held in the autumn following the Revival. The bazaar occupies the foreground of Chapter 13 and serves as the social backdrop to the final stage of Anna and Henry's engagement.",
+      "aliases": [
+        "Wesleyan Bazaar",
+        "the bazaar"
+      ],
+      "tags": [
+        "chapter-13",
+        "Wesleyan-Methodism",
+        "fundraising",
+        "Mrs-Sutton",
+        "wedding"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:autumn-bazaar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        }
+      ]
+    },
+    {
+      "id": "axe",
+      "type": "place",
+      "label": "Axe",
+      "description": "Agricultural town near the Five Towns, where Ephraim Tellwright attends a property sale.",
+      "aliases": [],
+      "tags": [
+        "town",
+        "agricultural"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:axe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        }
+      ]
+    },
+    {
+      "id": "beatrice-sutton",
+      "type": "person",
+      "label": "Beatrice Sutton",
+      "description": ">-",
+      "aliases": [],
+      "tags": [
+        "female",
+        "methodist",
+        "teacher",
+        "friend"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:beatrice-sutton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society",
+          "label": "wesleyan-methodist-society"
+        }
+      ]
+    },
+    {
+      "id": "bethesda-chapel",
+      "type": "organization",
+      "label": "Bethesda Chapel",
+      "description": "Large Wesleyan Methodist chapel in Hanbridge where Ephraim Tellwright served as a preacher and circuit treasurer.",
+      "aliases": [
+        "Hanbridge chapel",
+        "big Bethesda chapel"
+      ],
+      "tags": [
+        "religion",
+        "methodism",
+        "wesleyan",
+        "hanbridge"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:bethesda-chapel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "wesleyan-methodist-society-bursley"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "primitive-methodist-connexion",
+          "label": "primitive-methodist-connexion"
+        }
+      ]
+    },
+    {
+      "id": "birmingham-sheffield-bank",
+      "type": "organization",
+      "label": "Birmingham, Sheffield & District Bank",
+      "description": "The regional bank where Anna Tellwright opens an account to manage her inheritance in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Birmingham and Sheffield Bank",
+        "the bank"
+      ],
+      "tags": [
+        "banking",
+        "finance",
+        "institution"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:birmingham-sheffield-bank",
+      "relations": []
+    },
+    {
+      "id": "bleakridge",
+      "type": "place",
+      "label": "Bleakridge",
+      "description": "The pleasantest residential quarter of Bursley, situated at the top of Trafalgar Road where the Tellwright family lives. Once an exclusive district, Bleakridge has been democratised by the town's growth but retains its aspirational character.",
+      "aliases": [],
+      "tags": [
+        "Bursley",
+        "residential",
+        "Tellwright-family",
+        "suburb",
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:bleakridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "trafalgar-road"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "duck-bank"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "manor-terrace"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "hillport"
+        },
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "toft-end"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        }
+      ]
+    },
+    {
+      "id": "bursley",
+      "type": "place",
+      "label": "Bursley",
+      "description": "The main town of the novel, \"the ancient home of the potter\" (PN 001-049) and the principal setting where the Tellwright family resides and the Wesleyan Methodist community gathers.",
+      "aliases": [
+        "Burslem"
+      ],
+      "tags": [
+        "town",
+        "setting",
+        "five-towns",
+        "pottery"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:bursley",
+      "relations": []
+    },
+    {
+      "id": "bursley-park",
+      "type": "place",
+      "label": "Bursley Park",
+      "description": "The new municipal park in Bursley, a recently completed civic amenity opened to much local pride. The setting for Anna Tellwright's first significant walk with Henry Mynors in Chapter 1, where the town gathers on summer afternoons to hear the band play.",
+      "aliases": [
+        "the Park",
+        "the new Park"
+      ],
+      "tags": [
+        "Bursley",
+        "park",
+        "recreation",
+        "leisure",
+        "chapter-1"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:bursley-park",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "bursley-sunday-school-org",
+      "type": "organization",
+      "label": "Bursley Sunday-School",
+      "description": "The educational and social institution at the heart of Wesleyan community life, where children and adults gather for instruction, worship, and community building.",
+      "aliases": [],
+      "tags": [
+        "education",
+        "religion",
+        "methodist"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:bursley-sunday-school-org",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "bursley-wesleyan-chapel"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "sunday-school-education"
+        }
+      ]
+    },
+    {
+      "id": "bursley-wesleyan-chapel",
+      "type": "place",
+      "label": "Bursley Wesleyan Chapel",
+      "description": "Central Wesleyan Methodist place of worship in Bursley, situated on the hill leading to the churchyard.",
+      "aliases": [
+        "Wesleyan Chapel",
+        "Bursley Chapel"
+      ],
+      "tags": [
+        "chapel",
+        "methodist",
+        "worship"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:bursley-wesleyan-chapel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"I: The Kindling of Love\"",
+      "description": "\"The Kindling of Love — Anna meets Henry Mynors\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "mens-bible-class",
+          "label": "Bible-class"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "Agnes Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "mrs-clayton-vernon",
+          "label": "the Clayton Vernons"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "five-towns-field-club",
+          "label": "Five Towns Field Club"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "bursley-park",
+          "label": "the Park"
+        },
+        {
+          "type": "related",
+          "target": "individual-and-community",
+          "label": "community"
+        },
+        {
+          "type": "related",
+          "target": "turnhill",
+          "label": "Turnhill"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "knype",
+          "label": "Knype"
+        },
+        {
+          "type": "related",
+          "target": "longshaw",
+          "label": "Longshaw"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "Beatrice Sutton"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"II: The Miser's Daughter\"",
+      "description": "\"The Miser's Daughter\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "Bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Methodist"
+        },
+        {
+          "type": "related",
+          "target": "oldcastle",
+          "label": "Oldcastle"
+        },
+        {
+          "type": "related",
+          "target": "marriage-and-courtship",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "pireford",
+          "label": "Pireford"
+        },
+        {
+          "type": "related",
+          "target": "bethesda-chapel",
+          "label": "Hanbridge chapel"
+        },
+        {
+          "type": "related",
+          "target": "primitive-methodist-secession",
+          "label": "Primitive Methodist Secession of 1808"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "self-sacrifice-and-renunciation",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"III: The Birthday\"",
+      "description": "\"The Birthday\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "Toft End"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "mr-lovatt",
+          "label": "Mester Lovatt"
+        },
+        {
+          "type": "related",
+          "target": "self-sacrifice-and-renunciation",
+          "label": "renunciation"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "Bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"IV: A Visit\"",
+      "description": "\"A Visit\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Methodist"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "propriety"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "miss-dickinson",
+          "label": "Miss Dickinson"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "Bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"V: The Revival\"",
+      "description": "\"The Revival\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "The Revival"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Society"
+        },
+        {
+          "type": "related",
+          "target": "turnhill",
+          "label": "Turnhill"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "sin"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"VI: Willie\"",
+      "description": "\"Willie\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "Bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "sin"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "sarah-vodrey",
+          "label": "Sarah Vodrey"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"VII: The Sewing Meeting\"",
+      "description": "\"The Sewing Meeting\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sewing-meeting",
+          "label": "The Sewing Meeting"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "Beatrice Sutton"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "Alderman Sutton"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "miss-dickinson",
+          "label": "Miss Dickinson"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "gossip"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "five-towns-field-club",
+          "label": "Five Towns Field Club"
+        },
+        {
+          "type": "related",
+          "target": "individual-and-community",
+          "label": "community"
+        },
+        {
+          "type": "related",
+          "target": "potteries-industry",
+          "label": "pottery"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"VIII: On the Bank\"",
+      "description": "\"On the Bank\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        },
+        {
+          "type": "related",
+          "target": "axe",
+          "label": "Axe"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "gossip"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "miss-dickinson",
+          "label": "Miss Dickinson"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "potteries-industry",
+          "label": "pottery"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"IX: The Treat\"",
+      "description": "\"The Treat\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "propriety"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "Beatrice Sutton"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"X: The Isle\"",
+      "description": "\"The Isle\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "marriage-and-courtship",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        },
+        {
+          "type": "related",
+          "target": "port-erin",
+          "label": "Port Erin"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "Duck Bank"
+        },
+        {
+          "type": "related",
+          "target": "oldcastle",
+          "label": "Oldcastle"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "tom-kelly",
+          "label": "Tom Kelly"
+        },
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "Wesleyan Chapel"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"XI: The Downfall\"",
+      "description": "\"The Downfall\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "port-erin",
+          "label": "Port Erin"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "marriage-and-courtship",
+          "label": "engagement"
+        },
+        {
+          "type": "related",
+          "target": "self-sacrifice-and-renunciation",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "propriety"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Methodist"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "sarah-vodrey",
+          "label": "Sarah Vodrey"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"XII: At the Priory\"",
+      "description": "\"At the Priory\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "marriage-and-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "Alderman Sutton"
+        },
+        {
+          "type": "related",
+          "target": "longshaw",
+          "label": "Longshaw"
+        },
+        {
+          "type": "related",
+          "target": "port-erin",
+          "label": "Port Erin"
+        },
+        {
+          "type": "related",
+          "target": "tom-kelly",
+          "label": "Tom Kelly"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "gossip"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "Toft End"
+        },
+        {
+          "type": "related",
+          "target": "sarah-vodrey",
+          "label": "Sarah Vodrey"
+        },
+        {
+          "type": "related",
+          "target": "the-priory",
+          "label": "Priory House"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "Hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "turnhill",
+          "label": "Turnhill"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"XIII: The Bazaar\"",
+      "description": "\"The Bazaar\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "autumn-bazaar",
+          "label": "Wesleyan Bazaar"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "sarah-vodrey",
+          "label": "Sarah Vodrey"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "money"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "Toft End"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "scandal"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "miss-dickinson",
+          "label": "Miss Dickinson"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"XIV: End of a Simple Soul\"",
+      "description": "\"End of a Simple Soul\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "anna-of-the-five-towns:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Mynors"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "self-sacrifice-and-renunciation",
+          "label": "renunciation"
+        }
+      ]
+    },
+    {
+      "id": "characters",
+      "type": "list",
+      "label": "Characters",
+      "description": "Index of all characters in Anna of the Five Towns, dynamically generated from wiki entries.",
+      "aliases": [
+        "character-index",
+        "person-index"
+      ],
+      "tags": [
+        "index",
+        "character"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:characters",
+      "relations": []
+    },
+    {
+      "id": "concepts",
+      "type": "list",
+      "label": "Themes & Concepts",
+      "description": "Index of all themes and concepts explored in Anna of the Five Towns, dynamically generated from wiki entries.",
+      "aliases": [
+        "concept-index",
+        "theme-index"
+      ],
+      "tags": [
+        "index",
+        "concept",
+        "theme"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:concepts",
+      "relations": []
+    },
+    {
+      "id": "conscience-and-duty",
+      "type": "concept",
+      "label": "Conscience and Duty",
+      "description": "The internal moral framework that governs characters' decisions in the Five Towns, rooted in Wesleyan Methodism and manifested through self-sacrifice, guilt, and the tension between desire and obligation.",
+      "aliases": [
+        "duty",
+        "conscience",
+        "moral-obligation",
+        "sin",
+        "moral-framework"
+      ],
+      "tags": [
+        "morality",
+        "religion",
+        "methodism",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:conscience-and-duty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Methodism"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-school"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "Wesleyan Methodist Society of Bursley"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "Mrs. Sutton"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "paternal-authority",
+          "label": "paternal authority"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "embezzlement scandal"
+        },
+        {
+          "type": "related",
+          "target": "price-suicide",
+          "label": "Price's subsequent suicide"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price-emigration",
+          "label": "emigration to Australia"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "Revival"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "Wealth and Property"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "Social Respectability"
+        },
+        {
+          "type": "related",
+          "target": "religious-hypocrisy",
+          "label": "Religious Hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "self-sacrifice-and-renunciation",
+          "label": "Self-Sacrifice and Renunciation"
+        }
+      ]
+    },
+    {
+      "id": "duck-bank",
+      "type": "place",
+      "label": "Duck Bank",
+      "description": "A steep and prominent street in Bursley, climbed repeatedly by the novel's characters as they move between the lower commercial district and the higher residential areas. Duck Bank functions as a topographical constant marking transitions between different social and emotional zones of the town.",
+      "aliases": [],
+      "tags": [
+        "Bursley",
+        "street",
+        "geography",
+        "procession",
+        "chapter-1",
+        "chapter-4",
+        "chapter-6",
+        "chapter-8",
+        "chapter-9"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:duck-bank",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "trafalgar-road"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "isle-of-man"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        }
+      ]
+    },
+    {
+      "id": "edward-street",
+      "type": "place",
+      "label": "Edward Street",
+      "description": "A short steep thoroughfare in Bursley's industrial quarter, location of Titus Price's earthenware manufactory and site of the novel's central financial and moral crisis (PN 003-099).",
+      "aliases": [],
+      "tags": [
+        "street",
+        "industrial",
+        "manufactory"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:edward-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "price-manufactory",
+          "label": "Price manufactory"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "price-suicide",
+          "label": "suicide"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "Price Embezzlement Scandal"
+        }
+      ]
+    },
+    {
+      "id": "ephraim-tellwright",
+      "type": "person",
+      "label": "Ephraim Tellwright",
+      "description": "The wealthy miser of Bursley, father of Anna and Agnes Tellwright, whose pathological thrift, domestic tyranny, and ruthless business practices make him the central antagonist of _Anna of the Five Towns_.",
+      "aliases": [],
+      "tags": [
+        "male",
+        "miser",
+        "father",
+        "patriarch"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:ephraim-tellwright",
+      "relations": []
+    },
+    {
+      "id": "events",
+      "type": "list",
+      "label": "Events",
+      "description": "Index of all plot events in Anna of the Five Towns, dynamically generated from wiki entries.",
+      "aliases": [
+        "event-index"
+      ],
+      "tags": [
+        "index",
+        "event"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:events",
+      "relations": []
+    },
+    {
+      "id": "five-towns",
+      "type": "place",
+      "label": "The Five Towns",
+      "description": "The fictionalised Potteries region comprising the contiguous towns of Turnhill, Bursley, Hanbridge, Knype, and Longshaw (PN 001-050), the industrial heartland where the novel's drama unfolds and the crucible that forms its characters.",
+      "aliases": [
+        "The Potteries"
+      ],
+      "tags": [
+        "region",
+        "setting",
+        "potteries",
+        "industrial"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:five-towns",
+      "relations": []
+    },
+    {
+      "id": "five-towns-field-club",
+      "type": "organization",
+      "label": "Five Towns Field Club",
+      "description": "A social and sporting club serving the Five Towns, whose membership signals a degree of social ambition and affluence. Alderman Sutton is a member and has acquired some of the habits of a sportsman through his affiliation.",
+      "aliases": [
+        "the Field Club"
+      ],
+      "tags": [
+        "social-club",
+        "Alderman-Sutton",
+        "Bursley",
+        "chapter-1",
+        "chapter-7"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:five-towns-field-club",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        },
+        {
+          "type": "related",
+          "target": "social-class-in-the-five-towns",
+          "label": "social-class-in-the-five-towns"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "hillport"
+        }
+      ]
+    },
+    {
+      "id": "five-towns-waterworks",
+      "type": "organization",
+      "label": "Five Towns Waterworks",
+      "description": "The utility company providing water to the Five Towns, in which Anna Tellwright inherits shares in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Waterworks Company"
+      ],
+      "tags": [
+        "utility",
+        "water",
+        "infrastructure",
+        "investment"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:five-towns-waterworks",
+      "relations": []
+    },
+    {
+      "id": "generational-conflict",
+      "type": "concept",
+      "label": "Generational Conflict",
+      "description": "The tension between the old generation of the Five Towns — represented by Ephraim Tellwright's miserly ways — and the rising generation of Mynors, Anna, and the new commercial class.",
+      "aliases": [
+        "generation-gap",
+        "old-and-new",
+        "tradition-vs-change",
+        "fathers-and-children"
+      ],
+      "tags": [
+        "family",
+        "psychology",
+        "social-change"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:generational-conflict",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "paternal-authority",
+          "label": "paternal-authority"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-duty"
+        }
+      ]
+    },
+    {
+      "id": "hanbridge",
+      "type": "place",
+      "label": "Hanbridge",
+      "description": "The largest of the Five Towns, an industrial centre and the original home of the Tellwright family, notable for its Methodist circuit and the Sutton family residence.",
+      "aliases": [],
+      "tags": [
+        "town",
+        "five-towns",
+        "industrial"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:hanbridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "knype",
+          "label": "knype"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "hillport"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "oldcastle",
+          "label": "oldcastle"
+        },
+        {
+          "type": "related",
+          "target": "pireford",
+          "label": "pireford"
+        }
+      ]
+    },
+    {
+      "id": "henry-mynors",
+      "type": "person",
+      "label": "Henry Mynors",
+      "description": "A handsome, accomplished Wesleyan businessman and Sunday-school superintendent in Bursley, whose courtship of Anna Tellwright and need for her capital drive the central romantic and commercial plot of the novel.",
+      "aliases": [
+        "Mynors"
+      ],
+      "tags": [
+        "male",
+        "businessman",
+        "methodist",
+        "suitor",
+        "entrepreneur"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:henry-mynors",
+      "relations": []
+    },
+    {
+      "id": "hillport",
+      "type": "place",
+      "label": "Hillport",
+      "description": "The aristocratic suburb of Bursley, abode of the highest fashion, with its own government and authority. Home to the Clayton Vernons, the former Wilbraham estate, and the site of the mayor's residence.",
+      "aliases": [],
+      "tags": [
+        "residential",
+        "wealthy",
+        "bursley",
+        "suburb",
+        "wilbraham"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:hillport",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-clayton-vernon",
+          "label": "mrs-clayton-vernon"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "william-wilbraham",
+          "label": "william-wilbraham"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "sutton-family",
+          "label": "sutton-family"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "toft-end"
+        },
+        {
+          "type": "related",
+          "target": "the-priory",
+          "label": "the-priory"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "manor-terrace"
+        }
+      ]
+    },
+    {
+      "id": "hillport-house",
+      "type": "place",
+      "label": "Hillport House",
+      "description": "The great mansion on the hill at Hillport, home of the late pottery magnate William Wilbraham, symbolizing the pinnacle of industrial wealth in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Wilbraham's house",
+        "Wilbraham mansion"
+      ],
+      "tags": [
+        "mansion",
+        "hillport",
+        "wealth",
+        "architecture"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:hillport-house",
+      "relations": []
+    },
+    {
+      "id": "individual-and-community",
+      "type": "concept",
+      "label": "The Individual and Community",
+      "description": "The tension between individual desire and communal expectation in the Five Towns, where the Wesleyan community exerts powerful conformist pressure on characters like Anna Tellwright.",
+      "aliases": [
+        "individualism",
+        "community",
+        "isolation",
+        "belonging",
+        "social-pressure"
+      ],
+      "tags": [
+        "psychology",
+        "society",
+        "identity"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:individual-and-community",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "reputation-and-scandal"
+        }
+      ]
+    },
+    {
+      "id": "industrial-ambition",
+      "type": "concept",
+      "label": "Industrial Ambition",
+      "description": "The restless drive to expand, mechanise, and profit that powered the Five Towns' pottery and iron industries — a force that could build dynasties or destroy those who overreached.",
+      "aliases": [
+        "commercial ambition",
+        "industrial progress",
+        "manufacturing ambition",
+        "business ambition"
+      ],
+      "tags": [
+        "industry",
+        "economics",
+        "social-mobility"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:industrial-ambition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        },
+        {
+          "type": "related",
+          "target": "the-pottery-industry",
+          "label": "the-pottery-industry"
+        }
+      ]
+    },
+    {
+      "id": "isle-of-man",
+      "type": "place",
+      "label": "Isle of Man",
+      "description": "Holiday excursion destination planned by the Sutton family, representing escape and future possibility for Anna Tellwright. The journey to Port Erin marks the turning point of the novel, where Anna's engagement to Henry Mynors takes place.",
+      "aliases": [
+        "Port Erin"
+      ],
+      "tags": [
+        "island",
+        "excursion",
+        "holiday",
+        "sutton-family",
+        "port-erin"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:isle-of-man",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        },
+        {
+          "type": "related",
+          "target": "tom-kelly",
+          "label": "tom-kelly"
+        },
+        {
+          "type": "related",
+          "target": "port-erin",
+          "label": "port-erin"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "sutton-family",
+          "label": "sutton-family"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "manor-terrace"
+        }
+      ]
+    },
+    {
+      "id": "knype",
+      "type": "place",
+      "label": "Knype",
+      "description": "One of the Five Towns of the Potteries, situated between Hanbridge and Longshaw along the valley thoroughfare.",
+      "aliases": [],
+      "tags": [
+        "five-towns",
+        "pottery-district"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:knype",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "longshaw",
+          "label": "longshaw"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        }
+      ]
+    },
+    {
+      "id": "locations",
+      "type": "list",
+      "label": "Locations",
+      "description": "Index of all locations and places in Anna of the Five Towns, dynamically generated from wiki entries.",
+      "aliases": [
+        "location-index",
+        "place-index"
+      ],
+      "tags": [
+        "index",
+        "location"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:locations",
+      "relations": []
+    },
+    {
+      "id": "longshaw",
+      "type": "place",
+      "label": "Longshaw",
+      "description": "One of the Five Towns of the Potteries, noted for its china manufacture and situated at the eastern end of the valley thoroughfare.",
+      "aliases": [],
+      "tags": [
+        "five-towns",
+        "pottery-district"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:longshaw",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "knype",
+          "label": "knype"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        }
+      ]
+    },
+    {
+      "id": "manor-terrace",
+      "type": "place",
+      "label": "Manor Terrace",
+      "description": "The Tellwright family home in Bursley, \"a last reminder of the rural past\" (PN 002-002), representing the miserly domestic existence that defines Anna Tellwright's daily life.",
+      "aliases": [],
+      "tags": [
+        "residence",
+        "tellwright",
+        "home"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:manor-terrace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "Agnes"
+        },
+        {
+          "type": "related",
+          "target": "trafalgar-road",
+          "label": "Trafalgar Road"
+        },
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "Wesleyan chapel"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Mynors"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "Wealth and Property"
+        }
+      ]
+    },
+    {
+      "id": "marriage-and-courtship",
+      "type": "concept",
+      "label": "Marriage and Courtship",
+      "description": "The social institution through which property, status, and family alliances are negotiated in the Five Towns, embodied in Anna's engagement to Henry Mynors.",
+      "aliases": [
+        "marriage",
+        "courtship",
+        "engagement",
+        "matrimony",
+        "love-and-marriage"
+      ],
+      "tags": [
+        "marriage",
+        "gender",
+        "social-institution",
+        "love"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:marriage-and-courtship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "Wesleyan Methodist Society"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Manor Terrace"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "Revival"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "Beatrice Sutton"
+        },
+        {
+          "type": "related",
+          "target": "sutton-family",
+          "label": "Suttons"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "Isle of Man"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "embezzlement scandal"
+        },
+        {
+          "type": "related",
+          "target": "price-suicide",
+          "label": "Titus Price's suicide"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "Wealth and Property"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "Social Respectability"
+        }
+      ]
+    },
+    {
+      "id": "materialism-and-spiritual-poverty",
+      "type": "concept",
+      "label": "Materialism and Spiritual Poverty",
+      "description": "The spiritual cost of industrial wealth; how the accumulation of money in the Five Towns is accompanied by moral and spiritual impoverishment.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "economics",
+        "materialism"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:materialism-and-spiritual-poverty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "religious-hypocrisy",
+          "label": "religious-hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-duty"
+        }
+      ]
+    },
+    {
+      "id": "mens-bible-class",
+      "type": "organization",
+      "label": "Men's Bible Class",
+      "description": "A Bible-study class for men held in the Wesleyan lecture-hall on Sunday afternoons, conducted by Henry Mynors. The Bible-class is one of Mynors's principal roles in the Bursley Methodist community and a marker of his standing as a lay leader.",
+      "aliases": [
+        "Bible-class",
+        "the men's Bible-class"
+      ],
+      "tags": [
+        "Wesleyan-Methodism",
+        "Sunday-school",
+        "Bursley",
+        "Henry-Mynors",
+        "chapter-1"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mens-bible-class",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "bursley-sunday-school-org",
+          "label": "bursley-sunday-school-org"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "wesleyan-methodist-society-bursley"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        }
+      ]
+    },
+    {
+      "id": "methodism-in-the-five-towns",
+      "type": "concept",
+      "label": "Methodism in the Five Towns",
+      "description": "The role and influence of Wesleyan Methodism in the industrial society of the Potteries in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "five-towns"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:methodism-in-the-five-towns",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society",
+          "label": "wesleyan-methodist-society"
+        },
+        {
+          "type": "related",
+          "target": "providence-works",
+          "label": "providence-works"
+        },
+        {
+          "type": "related",
+          "target": "five-towns-waterworks",
+          "label": "five-towns-waterworks"
+        }
+      ]
+    },
+    {
+      "id": "miss-dickinson",
+      "type": "person",
+      "label": "Miss Dickinson",
+      "description": "A minor character in Anna's social circle and the Wesleyan Sunday-school community.",
+      "aliases": [],
+      "tags": [
+        "female",
+        "friend",
+        "teacher",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:miss-dickinson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        }
+      ]
+    },
+    {
+      "id": "mr-lovatt",
+      "type": "person",
+      "label": "Mr. Lovatt",
+      "description": "Manager of the Bursley bank and \"probably the most influential man in Bursley,\" who oversees Anna Tellwright's inheritance and financial accounts.",
+      "aliases": [
+        "Richard Lovatt",
+        "Mester Lovatt"
+      ],
+      "tags": [
+        "minor-character",
+        "bank-manager",
+        "finance",
+        "Bursley",
+        "chapter-3"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mr-lovatt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        },
+        {
+          "type": "related",
+          "target": "tellwright-estate",
+          "label": "tellwright-estate"
+        }
+      ]
+    },
+    {
+      "id": "mrs-banks",
+      "type": "person",
+      "label": "Mrs. Banks",
+      "description": "The wife of Reverend Banks, a lady of independent fortune with violet eyes, who occupies a prominent position in Bursley Wesleyan society in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [],
+      "tags": [
+        "methodism",
+        "wesleyan",
+        "bursley",
+        "social-status"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:mrs-banks",
+      "relations": []
+    },
+    {
+      "id": "mrs-clayton-vernon",
+      "type": "person",
+      "label": "Mrs. Clayton Vernon",
+      "description": "A prominent and socially superior member of the Bursley Wesleyan community, co-hosting the sewing meeting with Mrs. Banks in Chapter 7. The Clayton Vernons are one of only two carriage-keeping Wesleyan families in Bursley.",
+      "aliases": [
+        "Mrs. Vernon",
+        "the Clayton Vernons"
+      ],
+      "tags": [
+        "minor-character",
+        "Hillport",
+        "Wesleyan-Methodism",
+        "sewing-meeting",
+        "social-class",
+        "chapter-7"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mrs-clayton-vernon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "reverend-banks",
+          "label": "reverend-banks"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "hillport"
+        }
+      ]
+    },
+    {
+      "id": "mrs-sutton",
+      "type": "person",
+      "label": "Mrs. Sutton",
+      "description": "A pillar of the Wesleyan community in Bursley, known for her indefatigable charity, plain simplicity, and maternal warmth. Wife of Alderman Sutton and mother of Beatrice Sutton.",
+      "aliases": [],
+      "tags": [
+        "female",
+        "methodist",
+        "matriarch",
+        "charity",
+        "sutton-family"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mrs-sutton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "alderman-sutton"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "sutton-family",
+          "label": "sutton-family"
+        },
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "isle-of-man"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "sewing-meeting",
+          "label": "sewing-meeting"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        }
+      ]
+    },
+    {
+      "id": "mrs-tellwright-deceased",
+      "type": "person",
+      "label": "Mrs. Tellwright (Deceased)",
+      "description": "Anna's mother, who died when Anna was young, leaving her a fortune of eighteen thousand pounds. Never appears directly but haunts the novel through her legacy and her social reputation.",
+      "aliases": [],
+      "tags": [
+        "female",
+        "mother",
+        "deceased"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mrs-tellwright-deceased",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "mynors-commission-agency",
+      "type": "organization",
+      "label": "Mynors Commission Agency",
+      "description": "Henry Mynors's commission agency, through which he made money with facility in the lucrative pottery trade.",
+      "aliases": [],
+      "tags": [
+        "business",
+        "trade",
+        "commission"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:mynors-commission-agency",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "price-manufactory",
+          "label": "price-manufactory"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        }
+      ]
+    },
+    {
+      "id": "norriss-brewery",
+      "type": "organization",
+      "label": "Norris's Brewery",
+      "description": "A brewery in the Five Towns in which Anna Tellwright inherits shares in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Norris's",
+        "the brewery"
+      ],
+      "tags": [
+        "brewery",
+        "business",
+        "investment",
+        "bursley"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:norriss-brewery",
+      "relations": []
+    },
+    {
+      "id": "north-staffordshire-railway",
+      "type": "organization",
+      "label": "North Staffordshire Railway",
+      "description": "The railway company serving the Potteries district, in which Anna Tellwright inherits stock in Arnold Bennett's Anna of the Five Towns. Based on the historical North Staffordshire Railway (1845–1923).",
+      "aliases": [
+        "NSR",
+        "the railway company"
+      ],
+      "tags": [
+        "railway",
+        "transport",
+        "investment",
+        "infrastructure"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:north-staffordshire-railway",
+      "relations": []
+    },
+    {
+      "id": "oldcastle",
+      "type": "place",
+      "label": "Oldcastle",
+      "description": "A town near the Five Towns, home to Anna Tellwright's maternal grandfather, a wood merchant, and origin of her mother's family.",
+      "aliases": [],
+      "tags": [
+        "neighbouring-town",
+        "family-origin"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:oldcastle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pireford",
+          "label": "pireford"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        }
+      ]
+    },
+    {
+      "id": "organizations",
+      "type": "list",
+      "label": "Organizations",
+      "description": "Index of all organizations and institutions in Anna of the Five Towns, dynamically generated from wiki entries.",
+      "aliases": [
+        "organization-index",
+        "org-index"
+      ],
+      "tags": [
+        "index",
+        "organization"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:organizations",
+      "relations": []
+    },
+    {
+      "id": "paternal-authority",
+      "type": "concept",
+      "label": "Paternal Authority",
+      "description": "The absolute domestic and financial authority exercised by fathers in the Five Towns, embodied by Ephraim Tellwright's control over Anna's life, money, and decisions.",
+      "aliases": [
+        "paternal-power",
+        "father-figure",
+        "parental-control",
+        "patriarchy",
+        "miser-father"
+      ],
+      "tags": [
+        "family",
+        "power",
+        "gender",
+        "psychology",
+        "wealth"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:paternal-authority",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "generational-conflict",
+          "label": "generational-conflict"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-duty"
+        }
+      ]
+    },
+    {
+      "id": "pireford",
+      "type": "place",
+      "label": "Pireford",
+      "description": "A small village between Hanbridge and Oldcastle where Ephraim Tellwright and his wife lived in the early years of their marriage.",
+      "aliases": [],
+      "tags": [
+        "village",
+        "tellwright-residence"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:pireford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "oldcastle",
+          "label": "oldcastle"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "port-erin",
+      "type": "place",
+      "label": "Port Erin",
+      "description": "A quiet fishing village and modest resort on the Isle of Man where the Sutton family take their annual holiday, and where Anna, Henry Mynors, and Willie Price join them for the mackerel-fishing excursion in Chapter 10.",
+      "aliases": [],
+      "tags": [
+        "Isle-of-Man",
+        "resort",
+        "fishing",
+        "seaside",
+        "chapter-10"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:port-erin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "isle-of-man",
+          "label": "isle-of-man"
+        },
+        {
+          "type": "related",
+          "target": "tom-kelly",
+          "label": "tom-kelly"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        }
+      ]
+    },
+    {
+      "id": "potteries-industry",
+      "type": "concept",
+      "label": "The Potteries Industry",
+      "description": "The ceramic manufacturing industry that defines the Five Towns economy and shapes the physical landscape, class structure, and daily life of the region.",
+      "aliases": [
+        "pottery",
+        "pottery-manufacturing",
+        "industrial-potteries",
+        "manufacturing"
+      ],
+      "tags": [
+        "industry",
+        "economics",
+        "setting",
+        "labor"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:potteries-industry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "price-manufactory",
+          "label": "price-manufactory"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        }
+      ]
+    },
+    {
+      "id": "price-embezzlement-scandal",
+      "type": "event",
+      "label": "The Price Embezzlement Scandal",
+      "description": "Titus Price's embezzlement of Sunday-school building funds and his systematic financial ruin at the hands of Ephraim Tellwright, culminating in forged bills of exchange and Price's suicide -- the novel's central moral and financial catastrophe.",
+      "aliases": [
+        "Titus Price Embezzlement",
+        "Sunday-School Fund Scandal",
+        "Price Financial Crisis"
+      ],
+      "tags": [
+        "scandal",
+        "crime",
+        "embezzlement",
+        "financial-crisis",
+        "suicide",
+        "methodist"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:price-embezzlement-scandal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "religious profession"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "revival"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        }
+      ]
+    },
+    {
+      "id": "price-manufactory",
+      "type": "organization",
+      "label": "Price's Earthenware Manufactory",
+      "description": "The decaying earthenware manufactory in Edward Street, Bursley, operated by Titus Price and owned by the Tellwright estate -- a site where industrial failure, moral compromise, and financial exploitation converge in *Anna of the Five Towns*.",
+      "aliases": [
+        "Price's Works",
+        "Price's",
+        "Edward Street Works"
+      ],
+      "tags": [
+        "manufacturing",
+        "pottery",
+        "industry",
+        "earthenware",
+        "business",
+        "debt"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:price-manufactory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth and property"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "Wesleyan Methodist Society"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Methodism"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "Conscience and Duty"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "Social Respectability"
+        }
+      ]
+    },
+    {
+      "id": "price-suicide",
+      "type": "event",
+      "label": "Titus Price's Suicide",
+      "description": "The suicide of Titus Price following the exposure of his embezzlement, the novel's darkest and most theatrical event.",
+      "aliases": [],
+      "tags": [
+        "suicide",
+        "tragedy",
+        "scandal"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:price-suicide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "price-embezzlement-scandal"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "primitive-methodist-connexion",
+      "type": "organization",
+      "label": "Primitive Methodist Connexion",
+      "description": "Methodist denomination that seceded from Wesleyan Methodism in 1808 at Bursley, emphasising revivalist primitivism and lay ministry.",
+      "aliases": [
+        "Primitive Methodist movement",
+        "Primitive Methodism"
+      ],
+      "tags": [
+        "religion",
+        "methodism",
+        "primitivism",
+        "secession",
+        "1808"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:primitive-methodist-connexion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "primitive-methodist-secession",
+          "label": "primitive-methodist-secession"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        },
+        {
+          "type": "related",
+          "target": "bethesda-chapel",
+          "label": "bethesda-chapel"
+        }
+      ]
+    },
+    {
+      "id": "primitive-methodist-secession",
+      "type": "event",
+      "label": "Primitive Methodist Secession of 1808",
+      "description": "The 1808 split in which Primitive Methodists seceded from Wesleyan Methodism at Bursley, preceded by factional conflict in which Ephraim Tellwright's father took part.",
+      "aliases": [
+        "Bursley secession",
+        "1808 secession"
+      ],
+      "tags": [
+        "religion",
+        "methodism",
+        "primitivism",
+        "secession",
+        "1808",
+        "bursley"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:primitive-methodist-secession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "primitive-methodist-connexion",
+          "label": "primitive-methodist-connexion"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "bethesda-chapel",
+          "label": "bethesda-chapel"
+        }
+      ]
+    },
+    {
+      "id": "providence-works",
+      "type": "place",
+      "label": "Providence Works",
+      "description": "The pottery manufactory owned and operated by Henry Mynors in Bursley, extensively described in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Mynors's manufactory",
+        "Mynors's works"
+      ],
+      "tags": [
+        "pottery",
+        "manufacturing",
+        "industry",
+        "bursley",
+        "mynors"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:providence-works",
+      "relations": []
+    },
+    {
+      "id": "religious-hypocrisy",
+      "type": "concept",
+      "label": "Religious Hypocrisy",
+      "description": "The gap between Wesleyan piety and actual conduct, embodied in characters whose public religiosity masks private transgression.",
+      "aliases": [],
+      "tags": [
+        "religion",
+        "hypocrisy",
+        "morality"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:religious-hypocrisy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        }
+      ]
+    },
+    {
+      "id": "reputation-and-scandal",
+      "type": "concept",
+      "label": "Reputation and Scandal",
+      "description": "The fragility of public reputation in the Five Towns and the devastating social consequences when scandal exposes the hidden moral failings of respected community figures.",
+      "aliases": [
+        "scandal",
+        "reputation",
+        "gossip",
+        "social-disgrace",
+        "public-shame"
+      ],
+      "tags": [
+        "reputation",
+        "morality",
+        "scandal",
+        "social-order"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:reputation-and-scandal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-duty"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        }
+      ]
+    },
+    {
+      "id": "reverend-banks",
+      "type": "person",
+      "label": "Reverend Banks",
+      "description": "The Wesleyan minister serving the Bursley circuit.",
+      "aliases": [],
+      "tags": [
+        "male",
+        "clergyman",
+        "methodist",
+        "minister"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:reverend-banks",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "sarah-vodrey",
+      "type": "person",
+      "label": "Sarah Vodrey",
+      "description": "A supporting character in Anna's social circle.",
+      "aliases": [],
+      "tags": [
+        "female",
+        "friend",
+        "supporting-character"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:sarah-vodrey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "the-priory",
+          "label": "the-priory"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        }
+      ]
+    },
+    {
+      "id": "self-sacrifice-and-renunciation",
+      "type": "concept",
+      "label": "Self-Sacrifice and Renunciation",
+      "description": "The deeply internalised ethic of self-denial and submission to duty that shaped the lives of women and the faithful in the Five Towns, rooted in Methodism and patriarchal family structure.",
+      "aliases": [
+        "sacrifice",
+        "renunciation",
+        "duty",
+        "self-denial"
+      ],
+      "tags": [
+        "psychology",
+        "morality",
+        "duty"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:self-sacrifice-and-renunciation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        }
+      ]
+    },
+    {
+      "id": "sewing-meeting",
+      "type": "event",
+      "label": "The Sewing Meeting",
+      "description": "The sewing meeting at the Suttons' home in Chapter 7, a key social gathering that advances multiple character relationships.",
+      "aliases": [],
+      "tags": [
+        "sewing",
+        "social",
+        "charity"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:sewing-meeting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        }
+      ]
+    },
+    {
+      "id": "shawport",
+      "type": "place",
+      "label": "Shawport",
+      "description": "The railway station district from which special excursion trains depart in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Shawport station",
+        "Shawport railway station"
+      ],
+      "tags": [
+        "railway",
+        "station",
+        "transport",
+        "five-towns"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:shawport",
+      "relations": []
+    },
+    {
+      "id": "social-class-in-the-five-towns",
+      "type": "concept",
+      "label": "Social Class in the Five Towns",
+      "description": "The stratified social hierarchy of the Potteries, from factory owners to operatives, and how class position determines characters' life chances.",
+      "aliases": [],
+      "tags": [
+        "social-class",
+        "hierarchy",
+        "class-structure"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:social-class-in-the-five-towns",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "hillport"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        }
+      ]
+    },
+    {
+      "id": "social-respectability",
+      "type": "concept",
+      "label": "Social Respectability",
+      "description": "The fierce communal code of moral and financial uprightness that governed reputations in the Five Towns, where a single failure could destroy a man's standing.",
+      "aliases": [
+        "respectability",
+        "social standing",
+        "propriety"
+      ],
+      "tags": [
+        "social-class",
+        "morality",
+        "reputation"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:social-respectability",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-guilt"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Methodism-in-the-five-towns"
+        },
+        {
+          "type": "related",
+          "target": "potteries-industry",
+          "label": "the-potteries-industrial-society"
+        },
+        {
+          "type": "related",
+          "target": "religious-hypocrisy",
+          "label": "Religious Hypocrisy"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "Reputation and Scandal"
+        }
+      ]
+    },
+    {
+      "id": "st-lukes-square",
+      "type": "place",
+      "label": "St. Luke's Square",
+      "description": "The central marketplace and public square of Bursley, a hub of commerce and community life in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "St. Luke's Market",
+        "the Square"
+      ],
+      "tags": [
+        "marketplace",
+        "bursley",
+        "commerce",
+        "urban"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:st-lukes-square",
+      "relations": []
+    },
+    {
+      "id": "staffordshire-signal",
+      "type": "organization",
+      "label": "The Staffordshire Signal",
+      "description": "Local newspaper of the Five Towns, serving as a key source of economic intelligence and community information in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "The Signal",
+        "Signal newspaper"
+      ],
+      "tags": [
+        "newspaper",
+        "media",
+        "bursley",
+        "five-towns"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:staffordshire-signal",
+      "relations": []
+    },
+    {
+      "id": "sunday-school-education",
+      "type": "concept",
+      "label": "The Sunday-School",
+      "description": "The Sunday-school as the central educational and social institution of Bursley's Wesleyan community, shaping the moral and religious formation of the Five Towns' children and serving as the nexus of adult lay activity.",
+      "aliases": [
+        "Sunday-school",
+        "Sunday school",
+        "Wesleyan Sunday-school",
+        "Methodist Sunday-school"
+      ],
+      "tags": [
+        "education",
+        "religion",
+        "methodism",
+        "community",
+        "children"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:sunday-school-education",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "social-respectability"
+        },
+        {
+          "type": "related",
+          "target": "reputation-and-scandal",
+          "label": "reputation-and-scandal"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "conscience-and-duty"
+        }
+      ]
+    },
+    {
+      "id": "sunday-school-prize-day",
+      "type": "event",
+      "label": "Sunday-school Prize Day",
+      "description": "The annual prize-giving day of the Bursley Wesleyan Sunday-school, a major event in the chapel calendar featuring a procession of scholars through the town streets and the distribution of prize-books.",
+      "aliases": [
+        "Prize Day",
+        "Sunday-school anniversary"
+      ],
+      "tags": [
+        "chapter-1",
+        "chapter-9",
+        "Wesleyan-Methodism",
+        "Sunday-school",
+        "procession",
+        "Bursley"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:sunday-school-prize-day",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "duck-bank",
+          "label": "duck-bank"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        }
+      ]
+    },
+    {
+      "id": "sutton-family",
+      "type": "concept",
+      "label": "The Sutton Family",
+      "description": "The Sutton family of Bursley — Alderman Sutton, a potter's agent, and his wife — friends and neighbors of the Tellwrights in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Sutton family",
+        "the Suttons",
+        "Mr. and Mrs. Sutton"
+      ],
+      "tags": [
+        "family",
+        "bursley",
+        "social-status"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:sutton-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "Alderman Sutton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "Mrs. Sutton"
+        }
+      ]
+    },
+    {
+      "id": "tellwright-estate",
+      "type": "organization",
+      "label": "The Tellwright Estate",
+      "description": "The extensive property holdings accumulated by Ephraim Tellwright, including houses, cottages, and manufactories across Bursley and beyond.",
+      "aliases": [],
+      "tags": [
+        "property",
+        "family",
+        "wealth"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:tellwright-estate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "wealth-and-property"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "manor-terrace"
+        },
+        {
+          "type": "related",
+          "target": "agnes-tellwright",
+          "label": "agnes-tellwright"
+        }
+      ]
+    },
+    {
+      "id": "the-pottery-industry",
+      "type": "concept",
+      "label": "The Pottery Industry",
+      "description": "The ceramic manufacturing industry that forms the economic foundation of the Five Towns in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [],
+      "tags": [
+        "industrialism",
+        "five-towns"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:the-pottery-industry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society",
+          "label": "wesleyan-methodist-society"
+        },
+        {
+          "type": "related",
+          "target": "providence-works",
+          "label": "providence-works"
+        },
+        {
+          "type": "related",
+          "target": "five-towns-waterworks",
+          "label": "five-towns-waterworks"
+        }
+      ]
+    },
+    {
+      "id": "the-priory",
+      "type": "place",
+      "label": "The Priory",
+      "description": "A double-fronted red-brick house in Toft End, Bursley, originally occupied by Titus Price and later taken by Henry Mynors as his and Anna's future home. Also known as Priory House, on a site once occupied by a medieval priory.",
+      "aliases": [
+        "Priory House"
+      ],
+      "tags": [
+        "Toft-End",
+        "Bursley",
+        "house",
+        "Price-family",
+        "Mynors",
+        "chapter-12",
+        "chapter-13"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:the-priory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "toft-end",
+          "label": "toft-end"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "price-embezzlement-scandal"
+        }
+      ]
+    },
+    {
+      "id": "the-revival",
+      "type": "event",
+      "label": "The Revival",
+      "description": "A week-long Wesleyan revival campaign that sweeps through Bursley Chapel, forcing Anna Tellwright to confront her spiritual pride and catalyzing her engagement to Henry Mynors.",
+      "aliases": [
+        "Bursley Revival",
+        "Wesleyan Revival",
+        "Revival Meetings"
+      ],
+      "tags": [
+        "religion",
+        "revival",
+        "methodist",
+        "conversion",
+        "spiritual-crisis"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:the-revival",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "financial catastrophe"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sutton",
+          "label": "mrs-sutton"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society-bursley",
+          "label": "wesleyan-methodist-society-bursley"
+        },
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "bursley-wesleyan-chapel"
+        }
+      ]
+    },
+    {
+      "id": "the-revivalist",
+      "type": "person",
+      "label": "The Revivalist",
+      "description": "The unnamed revival preacher whose silver cornet and impassioned sermons catalyze a spiritual crisis in Anna Tellwright in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "the silver-cornet preacher",
+        "the revival preacher"
+      ],
+      "tags": [
+        "religion",
+        "methodism",
+        "revival",
+        "preacher"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:the-revivalist",
+      "relations": []
+    },
+    {
+      "id": "the-sunday-school-treat",
+      "type": "event",
+      "label": "The Sunday-School Treat",
+      "description": "The annual Sunday-School outing and excursion, a major community event occupying most of Chapter 9 in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "school treat",
+        "annual treat"
+      ],
+      "tags": [
+        "methodism",
+        "sunday-school",
+        "community",
+        "annual-event"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:the-sunday-school-treat",
+      "relations": []
+    },
+    {
+      "id": "titus-price",
+      "type": "person",
+      "label": "Titus Price",
+      "description": ">-",
+      "aliases": [],
+      "tags": [
+        "male",
+        "methodist",
+        "embezzler",
+        "tragic-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:titus-price",
+      "relations": [
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "ephraim-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodist-society",
+          "label": "wesleyan-methodist-society"
+        }
+      ]
+    },
+    {
+      "id": "toft-end",
+      "type": "place",
+      "label": "Toft End",
+      "description": "A mean, struggling working-class suburb of Bursley, situated above the coalpits about half a mile east of Bleakridge. Titus Price's house is located here and it becomes the site of Anna's fateful visit after the embezzlement scandal.",
+      "aliases": [],
+      "tags": [
+        "Bursley",
+        "suburb",
+        "working-class",
+        "colliery",
+        "Price-family",
+        "chapter-3",
+        "chapter-12"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:toft-end",
+      "relations": [
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "bleakridge",
+          "label": "bleakridge"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "price-embezzlement-scandal"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        }
+      ]
+    },
+    {
+      "id": "toft-end-colliery-and-brickworks",
+      "type": "organization",
+      "label": "Toft End Colliery and Brickworks",
+      "description": "A colliery and brickworks company in which Anna Tellwright inherits shares in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Toft End Colliery",
+        "Toft End Brickworks",
+        "Toft End Colliery and Brickworks Limited"
+      ],
+      "tags": [
+        "mining",
+        "brickmaking",
+        "investment",
+        "toft-end",
+        "industry"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:toft-end-colliery-and-brickworks",
+      "relations": []
+    },
+    {
+      "id": "tom-kelly",
+      "type": "person",
+      "label": "Tom Kelly",
+      "description": "A Manx sailor and fisherman who guides Mynors and the Suttons on their mackerel-fishing excursion to the Isle of Man in Chapter 10.",
+      "aliases": [
+        "Thomas Kelly"
+      ],
+      "tags": [
+        "minor-character",
+        "sailor",
+        "fisherman",
+        "Isle of Man",
+        "chapter-10"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:tom-kelly",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "beatrice-sutton"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        }
+      ]
+    },
+    {
+      "id": "trafalgar-road",
+      "type": "place",
+      "label": "Trafalgar Road",
+      "description": "The main thoroughfare of Bursley, running \"through the Five Towns from end to end\" (PN 002-002), where the Wesleyan chapel stands and the town's social and commercial life flows.",
+      "aliases": [],
+      "tags": [
+        "street",
+        "bursley",
+        "commercial"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:trafalgar-road",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "Wesleyan Methodist chapel"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna"
+        },
+        {
+          "type": "related",
+          "target": "hillport",
+          "label": "Hillport"
+        },
+        {
+          "type": "related",
+          "target": "manor-terrace",
+          "label": "Tellwrights"
+        },
+        {
+          "type": "related",
+          "target": "alderman-sutton",
+          "label": "Suttons"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "beatrice-sutton",
+          "label": "Beatrice Sutton"
+        },
+        {
+          "type": "related",
+          "target": "edward-street",
+          "label": "Edward Street"
+        }
+      ]
+    },
+    {
+      "id": "turnhill",
+      "type": "place",
+      "label": "Turnhill",
+      "description": "One of the Five Towns of the Potteries, at the north-western end of the conurbation. Henry Mynors worked for a large firm in Turnhill for ten years before establishing himself in Bursley.",
+      "aliases": [],
+      "tags": [
+        "Five-Towns",
+        "Potteries",
+        "town",
+        "chapter-1",
+        "chapter-5",
+        "chapter-12"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:turnhill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "five-towns"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "bursley"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        },
+        {
+          "type": "related",
+          "target": "hanbridge",
+          "label": "hanbridge"
+        },
+        {
+          "type": "related",
+          "target": "price-manufactory",
+          "label": "price-manufactory"
+        }
+      ]
+    },
+    {
+      "id": "wealth-and-property",
+      "type": "concept",
+      "label": "Wealth and Property",
+      "description": "The accumulation, concealment, and transmission of wealth as the driving force in the Five Towns — shaping family relations, social status, moral choices, and the novel's central crisis of embezzlement and redemption.",
+      "aliases": [
+        "money",
+        "property",
+        "fortune",
+        "inheritance",
+        "material-wealth",
+        "capital"
+      ],
+      "tags": [
+        "wealth",
+        "economics",
+        "social-class",
+        "industrialism",
+        "morality"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:wealth-and-property",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "Price Embezzlement Scandal"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Wesleyan Methodism"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        }
+      ]
+    },
+    {
+      "id": "wesleyan-methodism",
+      "type": "concept",
+      "label": "Wesleyan Methodism",
+      "description": "The dominant Nonconformist religious denomination in the Five Towns, whose chapels, Sunday-schools, and circuit system structure the social hierarchy, moral codes, and community life of Bursley while exposing the fragility of institutional respectability.",
+      "aliases": [
+        "Methodism",
+        "Wesleyan Methodist",
+        "Wesleyan Society",
+        "Methodist",
+        "the Connection"
+      ],
+      "tags": [
+        "religion",
+        "methodism",
+        "social-structure",
+        "nonconformity",
+        "denomination"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:wesleyan-methodism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "Revival"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "Price Embezzlement Scandal"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "Wealth and Property"
+        }
+      ]
+    },
+    {
+      "id": "wesleyan-methodist-society",
+      "type": "organization",
+      "label": "Wesleyan Methodist Society",
+      "description": "The Wesleyan Methodist congregation and society in Bursley, forming the central religious community in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Wesleyan Methodist Society",
+        "the Wesleyan Society",
+        "the Bursley Wesleyan Society"
+      ],
+      "tags": [
+        "methodism",
+        "wesleyan",
+        "religion",
+        "bursley",
+        "organization"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:wesleyan-methodist-society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley-wesleyan-chapel",
+          "label": "bursley-wesleyan-chapel"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "sunday-school-education"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "wesleyan-methodism"
+        },
+        {
+          "type": "related",
+          "target": "the-revival",
+          "label": "the-revival"
+        }
+      ]
+    },
+    {
+      "id": "wesleyan-methodist-society-bursley",
+      "type": "organization",
+      "label": "Wesleyan Methodist Society of Bursley",
+      "description": "The central religious institution of Bursley, governing the chapel circuit, Sunday-school, class-meetings, and the moral and social lives of its members in Arnold Bennett's *Anna of the Five Towns*.",
+      "aliases": [
+        "Bursley Wesleyan Society"
+      ],
+      "tags": [
+        "religion",
+        "methodist",
+        "wesleyan",
+        "chapel",
+        "sunday-school",
+        "revival"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:wesleyan-methodist-society-bursley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bursley",
+          "label": "Bursley"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "Henry Mynors"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "Titus Price"
+        },
+        {
+          "type": "related",
+          "target": "ephraim-tellwright",
+          "label": "Ephraim Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "Anna Tellwright"
+        },
+        {
+          "type": "related",
+          "target": "wesleyan-methodism",
+          "label": "Methodism"
+        },
+        {
+          "type": "related",
+          "target": "five-towns",
+          "label": "Five Towns"
+        },
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "Willie Price"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-property",
+          "label": "Wealth and Property"
+        },
+        {
+          "type": "related",
+          "target": "sunday-school-education",
+          "label": "Sunday-School Education"
+        },
+        {
+          "type": "related",
+          "target": "conscience-and-duty",
+          "label": "Conscience and Duty"
+        },
+        {
+          "type": "related",
+          "target": "marriage-and-courtship",
+          "label": "Marriage and Courtship"
+        },
+        {
+          "type": "related",
+          "target": "social-respectability",
+          "label": "Social Respectability"
+        }
+      ]
+    },
+    {
+      "id": "william-wilbraham",
+      "type": "person",
+      "label": "William Wilbraham",
+      "description": "Wealthy pottery magnate of Hillport whose disclosed fortune makes Anna Tellwright realize her own wealth in Arnold Bennett's Anna of the Five Towns.",
+      "aliases": [
+        "Mr. Wilbraham",
+        "old William Wilbraham"
+      ],
+      "tags": [
+        "magnate",
+        "wealth",
+        "hillport",
+        "pottery-industry"
+      ],
+      "quality": "basic",
+      "source_ref": "anna-of-the-five-towns:william-wilbraham",
+      "relations": []
+    },
+    {
+      "id": "willie-price",
+      "type": "person",
+      "label": "Willie Price",
+      "description": "The timid and vulnerable son of Titus Price, whose silent renunciation and ultimate exile to Australia embody the novel's most poignant meditation on undeserved suffering and the limits of charitable rescue.",
+      "aliases": [
+        "William Price"
+      ],
+      "tags": [
+        "male",
+        "tragic-figure",
+        "son",
+        "victim"
+      ],
+      "quality": "featured",
+      "source_ref": "anna-of-the-five-towns:willie-price",
+      "relations": []
+    },
+    {
+      "id": "willie-price-emigration",
+      "type": "event",
+      "label": "Willie Price's Emigration",
+      "description": "Following his father's suicide and the collapse of the family business, Willie Price emigrates to Melbourne, Australia — a departure that closes the Price family's chapter in Bursley and marks one of the novel's most poignant secondary resolutions.",
+      "aliases": [
+        "Willie Price's departure",
+        "Willie sails for Melbourne"
+      ],
+      "tags": [
+        "chapter-12",
+        "emigration",
+        "Price-family",
+        "Melbourne",
+        "departure",
+        "closure"
+      ],
+      "quality": "standard",
+      "source_ref": "anna-of-the-five-towns:willie-price-emigration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "willie-price",
+          "label": "willie-price"
+        },
+        {
+          "type": "related",
+          "target": "titus-price",
+          "label": "titus-price"
+        },
+        {
+          "type": "related",
+          "target": "price-embezzlement-scandal",
+          "label": "price-embezzlement-scandal"
+        },
+        {
+          "type": "related",
+          "target": "anna-tellwright",
+          "label": "anna-tellwright"
+        },
+        {
+          "type": "related",
+          "target": "the-priory",
+          "label": "the-priory"
+        },
+        {
+          "type": "related",
+          "target": "henry-mynors",
+          "label": "henry-mynors"
+        }
+      ]
+    }
+  ]
+}

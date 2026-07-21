@@ -1,0 +1,116 @@
+---
+description: 'Part I: Achtes Kapitel'
+id: Chapter-8
+label: "Chapter 8"
+tags: ["chapter"]
+type: chapter
+---
+
+# Chapter 8
+
+*Achtes Kapitel*
+Der Hauptmann untersuchte gleich am frühsten Morgen den Platz, entwarf erst
+einen flüchtigen und, als die [[society|Gesellschaft]] an Ort und Stelle sich nochmals
+entschieden hatte, einen genauen Riß nebst Anschlag und allem Erforderlichen.
+
+[008-001]Es fehlte nicht an der nötigen Vorbereitung. Jenes Geschäft wegen Verkauf des
+Vorwerks ward auch sogleich wieder angegriffen. Die Männer fanden zusammen
+neuen Anlaß zur Tätigkeit.
+
+[008-002]Der Hauptmann machte Eduarden bemerklich, daß es eine Artigkeit, ja wohl gar
+eine Schuldigkeit sei, Charlottens Geburtstag durch Legung des Grundsteins zu
+feiern. Es bedurfte nicht viel, die alte Abneigung Eduards gegen solche Feste
+zu überwinden; denn es kam ihm schnell in den Sinn, Ottiliens Geburtstag, der
+später fiel, gleichfalls recht feierlich zu begehen.
+
+[008-003]Charlotte, der die neuen Anlagen, und was deshalb geschehen sollte, bedeutend,
+ernstlich, ja fast bedenklich vorkamen, beschäftigte sich damit, die Anschläge,
+Zeit- und Geldeinteilungen nochmals für sich durchzugehen. Man sah sich des
+Tages weniger, und mit desto mehr Verlangen suchte man sich des Abends auf.
+
+[008-004]Ottilie war indessen schon völlig Herrin des Haushaltes, und wie konnte es
+anders sein bei ihrem stillen und sichern Betragen. Auch war ihre ganze
+Sinnesweise dem Hause und dem Häuslichen mehr als der Welt, mehr als dem Leben
+im Freien zugewendet. Eduard bemerkte bald, daß sie eigentlich nur aus
+Gefälligkeit in die Gegend mitging, daß sie nur aus geselliger Pflicht abends
+länger draußen verweilte, auch wohl manchmal einen Vorwand häuslicher Tätigkeit
+suchte, um wieder hineinzugehen. Sehr bald wußte er daher die
+gemeinschaftlichen Wanderungen so einzurichten, daß man vor Sonnenuntergang
+wieder zu Hause war, und fing an, was er lange unterlassen hatte, Gedichte
+vorzulesen, solche besonders, in deren Vortrag der Ausdruck einer reinen, doch
+leidenschaftlichen Liebe zu legen war.
+
+[008-005]Gewöhnlich saßen sie abends um einen kleinen Tisch auf hergebrachten Plätzen:
+Charlotte auf dem Sofa, Ottilie auf einem Sessel gegen ihr über, und die Männer
+nahmen die beiden andern Seiten ein. Ottilie saß zu Eduarden zur Rechten, wohin
+er auch das Licht schob, wenn er las. Alsdann auch sie traute ihren eigenen
+Augen mehr als fremden Lippen; und Eduard gleichfalls rückte zu, um es ihr auf
+alle Weise bequem zu machen, ja er hielt oft längere Pausen als nötig, damit er
+nur nicht eher umwendete, bis auch sie zu Ende der Seite gekommen.
+
+[008-006]Charlotte und der Hauptmann bemerkten es wohl und sahen manchmal einander
+lächelnd an; doch wurden beide von einem andern Zeichen überrascht, in welchem
+sich Ottiliens stille Neigung gelegentlich offenbarte.
+
+[008-007]An einem Abende, welcher der kleinen Gesellschaft durch einen lästigen Besuch
+zum Teil verloren gegangen, tat Eduard den Vorschlag, noch beisammen zu
+bleiben. Er fühlte sich aufgelegt, seine Flöte vorzunehmen, welche lange nicht
+an die Tagesordnung gekommen war. Charlotte suchte nach den Sonaten, die sie
+zusammen gewöhnlich auszuführen pflegten, und da sie nicht zu finden waren,
+gestand Ottilie nach einigem Zaudern, daß sie solche mit auf ihr Zimmer
+genommen.
+
+[008-008]„Und Sie können, Sie wollen mich auf dem Flügel begleiten?“ rief
+Eduard, dem die Augen vor Freude glänzten. „Ich glaube wohl“,
+versetzte Ottilie, „daß es gehen wird“. Sie brachte die Noten
+herbei und setzte sich ans Klavier. Die Zuhörenden waren aufmerksam und
+überrascht, wie vollkommen Ottilie das Musikstück für sich selbst eingelernt
+hatte, aber noch mehr überrascht, wie sie es der Spielart Eduards anzupassen
+wußte. ‘Anzupassen wußte’ ist nicht der rechte Ausdruck; denn wenn
+es von Charlottens Geschicklichkeit und freiem Willen abhing, ihrem bald
+zögernden, bald voreilenden Gatten zuliebe hier anzuhalten, dort mitzugehen, so
+schien Ottilie, welche die Sonate von jenen enigemal spielen sie gehört, nur in
+dem Sinne eingelernt zu haben, wie jener sie begleitete. Sie hatte seine Mängel
+so zu den ihrigen gemacht, daß daraus wieder eine [[art|Art]] von lebendigem Ganzen
+entsprang, das sich zwar nicht taktgemäß bewegte, aber doch höchst angenehm und
+gefällig lautete. Der Komponist selbst hätte seine Freude daran gehabt, sein
+Werk auf eine so liebevolle Weise entstellt zu sehen.
+
+[008-009]Auch diesem wundersamen, unerwarteten Begegnis sahen der Hauptmann und
+Charlotte stillschweigend mit einer Empfindung zu, wie man oft kindische
+Handlungen betrachtet, die man wegen ihrer besorglichen Folgen gerade nicht
+billigt und doch nicht schelten kann, ja vielleicht beneiden muß. Denn
+eigentlich war die Neigung dieser beiden ebensogut im Wachsen als jene, und
+vielleicht nur noch gefährlicher dadurch, daß beide ernster, sicherer von sich
+selbst, sich zu halten fähiger waren.
+
+[008-010]Schon fing der Hauptmann an zu fühlen, daß eine unwiderstehliche Gewohnheit ihn
+an Charlotten zu fesseln drohte. Er gewann es über sich, den Stunden
+auszuweichen, in denen Charlotte nach der Anlagen zu kommen pflegte, indem er
+schon am frühsten Morgen aufstand, alles anordnete und sich dann zur Arbeit auf
+seinen Flügel ins Schloß zurückzog. Die ersten Tage hielt es Charlotte für
+zufällig; sie suchte ihn an allen wahrscheinlichen Stellen; dann glaubte sie
+ihn zu verstehen und achtete ihn nur um desto mehr.
+
+[008-011]Vermied nun der Hauptmann, mit Charlotten allein zu sein, so war er desto
+emsiger, zur glänzenden Feier des herannahenden Geburtsfestes die Anlagen zu
+betreiben und zu beschleunigen; denn indem er von unten hinauf, hinter dem
+Dorfe her, den bequemen Weg führte, so ließ er, vorgeblich um Steine zu
+brechen, auch von oben herunter arbeiten und hatte alles so eingerichtet und
+berechnet, daß erst in der letzten Nacht die beiden Teile des Weges sich
+begegnen sollten. Zum neuen Hause oben war auch schon der Keller mehr gebrochen
+als gegraben und ein schöner Grundstein mit Fächern und Deckplatten zugehauen.
+
+[008-012]Die äußere Tätigkeit, diese kleinen, freundlichen, geheimnisvollen Absichten
+bei innern, mehr oder weniger zurückgedrängten Empfindungen ließen die
+Unterhaltung der Gesellschaft, wenn sie beisammen war, nicht lebhaft werden,
+dergestalt daß Eduard, der etwas Lückenhaftes empfand, den Hauptmann eines
+Abends aufrief, seine Violine hervorzunehmen und Charlotten bei dem Klavier zu
+begleiten. Der Hauptmann konnte dem allgemeinen Verlangen nicht widerstehen,
+und so führten beide mit Empfindung, Behagen und Freiheit eins der schwersten
+Musikstücke zusammen auf, daß es ihnen und dem zuhörenden Paar zum größten
+Vergnügen gereichte. Man versprach sich öftere Wiederholung und mehrere
+Zusammenübung.
+
+[008-013]„Sie machen es besser als wir, Ottilie!“ sagte Eduard. „Wir
+wollen sie bewundern, aber uns doch zusammen freuen“.

@@ -1,0 +1,5793 @@
+{
+  "book": "the-giant-raft",
+  "title": "The Giant Raft",
+  "description": "The Giant Raft — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 132,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"The Giant Raft\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:About",
+      "relations": []
+    },
+    {
+      "id": "Part-I",
+      "type": "chapter",
+      "label": "\"Part I: Eight Hundred Leagues on the Amazon\"",
+      "description": "\"Part I: Eight Hundred Leagues on the Amazon\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:Part-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        }
+      ]
+    },
+    {
+      "id": "Part-II",
+      "type": "chapter",
+      "label": "\"Part II: The Cryptogram\"",
+      "description": "\"Part II: The Cryptogram\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:Part-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "Cryptogram"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-giant-raft:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "Part I: Eight Hundred Leagues on the Amazon"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "Part II: The Cryptogram"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "ch32"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "ch34",
+          "label": "ch34"
+        },
+        {
+          "type": "related",
+          "target": "ch35",
+          "label": "ch35"
+        },
+        {
+          "type": "related",
+          "target": "ch36",
+          "label": "ch36"
+        },
+        {
+          "type": "related",
+          "target": "ch37",
+          "label": "ch37"
+        },
+        {
+          "type": "related",
+          "target": "ch38",
+          "label": "ch38"
+        },
+        {
+          "type": "related",
+          "target": "ch39",
+          "label": "ch39"
+        },
+        {
+          "type": "related",
+          "target": "ch40",
+          "label": "ch40"
+        }
+      ]
+    },
+    {
+      "id": "alligator",
+      "type": "concept",
+      "label": "Alligator",
+      "description": "The alligator is referenced alongside the cayman in Jules Verne's \"The Giant Raft\" as one of the formidable predators of the Amazon River, most notably in the dramatic beach attack scene of Chapter 17 where Benito and Minha face mortal danger from these reptiles.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:alligator",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        },
+        {
+          "type": "related",
+          "target": "guariba",
+          "label": "guariba"
+        },
+        {
+          "type": "related",
+          "target": "cayman",
+          "label": "cayman"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        }
+      ]
+    },
+    {
+      "id": "amazon-flood",
+      "type": "concept",
+      "label": "Amazon Flood",
+      "description": "The dramatic seasonal rise of the Amazon River that Jules Verne's characters exploit to launch their giant raft — a natural phenomenon essential to navigation and life along the world's greatest river",
+      "aliases": [
+        "Seasonal Flood",
+        "Amazon Rise",
+        "River Flood"
+      ],
+      "tags": [
+        "concept",
+        "hydrology",
+        "amazon"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:amazon-flood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "jangada-construction",
+          "label": "jangada-construction"
+        },
+        {
+          "type": "related",
+          "target": "garral-fazenda",
+          "label": "garral-fazenda"
+        }
+      ]
+    },
+    {
+      "id": "amazon-river",
+      "type": "concept",
+      "label": "Amazon River",
+      "description": "The world's largest river by discharge volume, forming the setting and journey route of Jules Verne's \"The Giant Raft\" from Iquitos, Peru to Belém, Brazil",
+      "aliases": [
+        "Amazon",
+        "Upper Amazon",
+        "Lower Amazon",
+        "Amazon Basin"
+      ],
+      "tags": [
+        "concept",
+        "geography",
+        "waterway"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:amazon-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        },
+        {
+          "type": "related",
+          "target": "pororoca",
+          "label": "pororoca"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "manaus"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "maranon"
+        }
+      ]
+    },
+    {
+      "id": "amazon-river-place",
+      "type": "place",
+      "label": "Amazon River",
+      "description": "Not to be confused with concept page — this is the geographical entity page describing the river as a physical location",
+      "aliases": [],
+      "tags": [
+        "place",
+        "amazon",
+        "river"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:amazon-river-place",
+      "relations": []
+    },
+    {
+      "id": "araujo",
+      "type": "person",
+      "label": "Araújo",
+      "description": "The skilled Amazon river pilot who navigated the giant raft (jangada) from Iquitos down the Amazon River, serving the Garral family.",
+      "aliases": [],
+      "tags": [
+        "amazon",
+        "pilot",
+        "jangada",
+        "navigation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:araujo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        }
+      ]
+    },
+    {
+      "id": "arrest-of-joam-dacosta",
+      "type": "event",
+      "label": "Arrest of Joam Dacosta",
+      "description": "The arrest of Joam Dacosta at Manaus is the climactic crisis of The Giant Raft—the moment when Joam's hidden past as a fugitive from the Tijuco diamond robbery conviction catches up with him, shattering the Garral family's voyage and setting in motion a desperate race to prove his innocence.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:arrest-of-joam-dacosta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco-robbery",
+          "label": "Tijuco diamond robbery"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "fazenda"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "Cryptogram"
+        },
+        {
+          "type": "related",
+          "target": "wedding-of-minha-and-manoel",
+          "label": "Wedding of Minha and Manoel"
+        }
+      ]
+    },
+    {
+      "id": "arrival-dinner",
+      "type": "event",
+      "label": "The Arrival Dinner",
+      "description": "A key social event during the jangada's journey — a festive occasion that brings together the characters and advances relationships",
+      "aliases": [],
+      "tags": [
+        "event",
+        "plot",
+        "plot-point"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:arrival-dinner",
+      "relations": []
+    },
+    {
+      "id": "benito",
+      "type": "person",
+      "label": "Benito",
+      "description": "Son of Joam Garral in \"The Giant Raft\" — the energetic young man who oversees the jangada's construction and navigation, dives beneath the raft to retrieve Torres's body, and plays a key role in the deciphering of the cryptogram that saves his father",
+      "aliases": [
+        "Benito Garral",
+        "Benito Dacosta"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "navigator",
+        "decipherer"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:benito",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "yaquita"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        }
+      ]
+    },
+    {
+      "id": "cabello-cocha",
+      "type": "place",
+      "label": "Cabello-Cocha",
+      "description": "A lake on the right bank of the Amazon that communicates with the main river, passed by the jangada near the islands of Tarapote and Cacao.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:cabello-cocha",
+      "relations": []
+    },
+    {
+      "id": "caoutchouc",
+      "type": "concept",
+      "label": "caoutchouc",
+      "description": "",
+      "aliases": [
+        "rubber",
+        "seringa",
+        "india-rubber"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:caoutchouc",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "manaus"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "garral-fazenda",
+          "label": "garral-fazenda"
+        }
+      ]
+    },
+    {
+      "id": "capitao-do-mato",
+      "type": "concept",
+      "label": "Capitão do Mato",
+      "description": "A historical profession in colonial and imperial Brazil — armed men who hunted escaped slaves in the wilderness; in \"The Giant Raft,\" Torres is identified as having been a capitão do mato",
+      "aliases": [
+        "Bush-Captain",
+        "Bush Captain",
+        "Capitães do Mato",
+        "Slave Hunter"
+      ],
+      "tags": [
+        "concept",
+        "social-history",
+        "brazil"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:capitao-do-mato",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco-robbery",
+          "label": "tijuco-robbery"
+        }
+      ]
+    },
+    {
+      "id": "cayman",
+      "type": "concept",
+      "label": "Cayman",
+      "description": "A large Amazonian reptile of the alligator family, the cayman (caiman) is a prominent predator of the Amazon River, appearing in several episodes of \"The Giant Raft,\" most notably in Benito's near-fatal encounter during the manatee hunt.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:cayman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "guariba",
+          "label": "guariba"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"I: A Captain of the Woods\"",
+      "description": "\"A Captain of the Woods\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "capitao-do-mato",
+          "label": "Capitães do Mato"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Upper Amazon"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"II: Robber and Robbed\"",
+      "description": "\"Robber and Robbed\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "guariba",
+          "label": "guariba"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Upper Amazon"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"III: The Garral Family\"",
+      "description": "\"The Garral Family\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "Marañón"
+        },
+        {
+          "type": "related",
+          "target": "omaguas",
+          "label": "Omaguas"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"IV: Hesitation\"",
+      "description": "\"Hesitation\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"V: The Amazon\"",
+      "description": "\"The Amazon\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "lauricocha",
+          "label": "Lauricocha"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "Marañón"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "orellana",
+          "label": "Orellana"
+        },
+        {
+          "type": "related",
+          "target": "nhamunda",
+          "label": "Rio Nhamunda"
+        },
+        {
+          "type": "related",
+          "target": "omaguas",
+          "label": "Omaguas"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "Napo"
+        },
+        {
+          "type": "related",
+          "target": "japura",
+          "label": "Japura"
+        },
+        {
+          "type": "related",
+          "target": "coary",
+          "label": "Coari"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"VI: A Forest on the Ground\"",
+      "description": "\"A Forest on the Ground\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"VII: Following a Liana\"",
+      "description": "\"Following a Liana\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "parianta",
+          "label": "Parianta"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"VIII: The Jangada\"",
+      "description": "\"The Jangada\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "Jangada"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"IX: The Evening of the Fifth of June\"",
+      "description": "\"The Evening of the Fifth of June\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Lower Amazon"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "vila-bela",
+          "label": "Vila Bela da Imperatriz"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"X: From Iquitos to Pevas\"",
+      "description": "\"From Iquitos to Pevas\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "pevas",
+          "label": "Pevas"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "parianta",
+          "label": "Parianta"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "Napo"
+        },
+        {
+          "type": "related",
+          "target": "omaguas",
+          "label": "Omaguas"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"XI: From Pevas to the Frontier\"",
+      "description": "\"From Pevas to the Frontier\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pevas",
+          "label": "Pevas"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "san-pablo",
+          "label": "San Pablo"
+        },
+        {
+          "type": "related",
+          "target": "cabello-cocha",
+          "label": "Cabello-Cocha"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "loreto",
+          "label": "Loreto"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "jahuma",
+          "label": "Jahuma"
+        },
+        {
+          "type": "related",
+          "target": "orellana",
+          "label": "Orellana"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"XII: Fragoso at Work\"",
+      "description": "\"Fragoso at Work\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "Rio Napo"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "Marañón"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"XIII: Torres\"",
+      "description": "\"Torres\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "guariba",
+          "label": "guariba"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"XIV: Still Descending\"",
+      "description": "\"Still Descending\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "san-pablo",
+          "label": "San Pablo"
+        },
+        {
+          "type": "related",
+          "target": "omaguas",
+          "label": "Omaguas"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"XV: The Continued Descent\"",
+      "description": "\"The Continued Descent\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "japura",
+          "label": "Japura"
+        },
+        {
+          "type": "related",
+          "target": "fonteboa",
+          "label": "Fonteboa"
+        },
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        },
+        {
+          "type": "related",
+          "target": "orellana",
+          "label": "Orellana"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"XVI: Ega\"",
+      "description": "\"Ega\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Upper Amazon"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "japura",
+          "label": "Japura"
+        },
+        {
+          "type": "related",
+          "target": "coary",
+          "label": "Coary"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"XVII: An Attack\"",
+      "description": "\"An Attack\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"XVIII: The Arrival Dinner\"",
+      "description": "\"The Arrival Dinner\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arrival-dinner",
+          "label": "The Arrival Dinner"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"XIX: Ancient History\"",
+      "description": "\"Ancient History\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"XX: Between the Two Men\"",
+      "description": "\"Between the Two Men\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"I: Manaus\"",
+      "description": "\"Manaus\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"II: The First Moments\"",
+      "description": "\"The First Moments\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"III: Retrospective\"",
+      "description": "\"Retrospective\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"IV: Moral Proofs\"",
+      "description": "\"Moral Proofs\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Vicente Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"V: Material Proofs\"",
+      "description": "\"Material Proofs\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"VI: The Last Blow\"",
+      "description": "\"The Last Blow\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"VII: Resolutions\"",
+      "description": "\"Resolutions\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"VIII: The First Search\"",
+      "description": "\"The First Search\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "frias",
+          "label": "Frias"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"IX: The Second Attempt\"",
+      "description": "\"The Second Attempt\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "frias",
+          "label": "Frias"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "rubber"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"X: A Cannon Shot\"",
+      "description": "\"A Cannon Shot\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "frias",
+          "label": "Frias"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        }
+      ]
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"XI: The Contents of the Case\"",
+      "description": "\"The Contents of the Case\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "Contents"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "frias",
+          "label": "Frias"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        }
+      ]
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"XII: The Document\"",
+      "description": "\"The Document\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        }
+      ]
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"XIII: Is It a Matter of Figures?\"",
+      "description": "\"Is It a Matter of Figures?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        }
+      ]
+    },
+    {
+      "id": "ch34",
+      "type": "chapter",
+      "label": "\"XIV: Chance!\"",
+      "description": "\"Chance!\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch34",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        }
+      ]
+    },
+    {
+      "id": "ch35",
+      "type": "chapter",
+      "label": "\"XV: The Last Efforts\"",
+      "description": "\"The Last Efforts\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch35",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        }
+      ]
+    },
+    {
+      "id": "ch36",
+      "type": "chapter",
+      "label": "\"XVI: Preparations\"",
+      "description": "\"Preparations\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch36",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        }
+      ]
+    },
+    {
+      "id": "ch37",
+      "type": "chapter",
+      "label": "\"XVII: The Last Night\"",
+      "description": "\"The Last Night\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch37",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "judge-ribeiro",
+          "label": "Judge Ribeiro"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        }
+      ]
+    },
+    {
+      "id": "ch38",
+      "type": "chapter",
+      "label": "\"XVIII: Fragoso\"",
+      "description": "\"Fragoso\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch38",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        }
+      ]
+    },
+    {
+      "id": "ch39",
+      "type": "chapter",
+      "label": "\"XIX: The Crime of Tijuco\"",
+      "description": "\"The Crime of Tijuco\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch39",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "Judge Jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "vila-rica",
+          "label": "Vila Rica"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Upper Amazon"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        }
+      ]
+    },
+    {
+      "id": "ch40",
+      "type": "chapter",
+      "label": "\"XX: The Lower Amazon\"",
+      "description": "\"The Lower Amazon\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-giant-raft:ch40",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Lower Amazon"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "serpa",
+          "label": "Serpa"
+        },
+        {
+          "type": "related",
+          "target": "silves",
+          "label": "Silves"
+        },
+        {
+          "type": "related",
+          "target": "vila-bela",
+          "label": "Vila Bela"
+        },
+        {
+          "type": "related",
+          "target": "nhamunda",
+          "label": "Nhamundas"
+        },
+        {
+          "type": "related",
+          "target": "orellana",
+          "label": "Orellana"
+        },
+        {
+          "type": "related",
+          "target": "rio-negro",
+          "label": "Rio Negro"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "monte-alegre",
+          "label": "Monte Alegre"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "Cybele"
+        },
+        {
+          "type": "related",
+          "target": "araujo",
+          "label": "Araújo"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        }
+      ]
+    },
+    {
+      "id": "church",
+      "type": "concept",
+      "label": "Church",
+      "description": "Catholic churches established along the Amazon River, from the humble chapel at Iquitos to the cathedrals of Belém, serving as centers of religious life, civil record-keeping, and community identity throughout the Amazon basin.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mission",
+          "label": "mission"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "padre-passanha"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "fazenda"
+        },
+        {
+          "type": "related",
+          "target": "wedding-of-minha-and-manoel",
+          "label": "wedding-of-minha-and-manoel"
+        },
+        {
+          "type": "related",
+          "target": "fonteboa",
+          "label": "fonteboa"
+        },
+        {
+          "type": "related",
+          "target": "para-belem",
+          "label": "para-belem"
+        }
+      ]
+    },
+    {
+      "id": "coary",
+      "type": "place",
+      "label": "Coary",
+      "description": "A small Brazilian settlement on the Amazon River at the entrance to Lake Coary (modern Coari).",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:coary",
+      "relations": []
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concept Glossary",
+      "description": "Glossary of all concepts and themes in The Giant Raft — raft construction, cryptograms, Amazon ecology, and Verne's thematic elements",
+      "aliases": [
+        "Concept Glossary",
+        "All Concepts",
+        "Terms"
+      ],
+      "tags": [
+        "index",
+        "concept",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:concept-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        },
+        {
+          "type": "related",
+          "target": "place-index",
+          "label": "place-index"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "event-index"
+        }
+      ]
+    },
+    {
+      "id": "cryptogram",
+      "type": "concept",
+      "label": "Cryptogram",
+      "description": "The encrypted document at the heart of Jules Verne's \"The Giant Raft\" — a coded confession that proves Joam Dacosta's innocence in the Tijuco diamond robbery",
+      "aliases": [
+        "Encoded Document",
+        "Cipher",
+        "Coded Message"
+      ],
+      "tags": [
+        "concept",
+        "cryptography",
+        "plot-device"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:cryptogram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "tijuco-robbery",
+          "label": "tijuco-robbery"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "ortega"
+        },
+        {
+          "type": "related",
+          "target": "deciphering-cryptogram",
+          "label": "deciphering-cryptogram"
+        }
+      ]
+    },
+    {
+      "id": "cybele",
+      "type": "person",
+      "label": "Cybele",
+      "description": "An elderly black servant and former slave at the Garral fazenda who served as Yaquita's nurse and accompanied the family on their Amazon journey aboard the giant raft.",
+      "aliases": [],
+      "tags": [
+        "jangada",
+        "servant",
+        "fazenda",
+        "nurse"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:cybele",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "yaquita"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "lina"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        }
+      ]
+    },
+    {
+      "id": "deciphering-cryptogram",
+      "type": "event",
+      "label": "Deciphering the Cryptogram",
+      "description": "The intellectual climax of the novel — the process of breaking the substitution cipher to reveal the confession proving Joam's innocence",
+      "aliases": [],
+      "tags": [
+        "event",
+        "plot",
+        "revelation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:deciphering-cryptogram",
+      "relations": []
+    },
+    {
+      "id": "diamond",
+      "type": "concept",
+      "label": "Diamond",
+      "description": "Diamonds are the precious stones at the center of the Tijuco robbery plot—the crime for which Joam Dacosta was wrongfully convicted—making them a narrative catalyst in The Giant Raft rather than merely a mineralogical topic.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:diamond",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "Cryptogram"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "Jangada"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "Fazenda"
+        },
+        {
+          "type": "related",
+          "target": "tijuco",
+          "label": "Tijuco"
+        },
+        {
+          "type": "related",
+          "target": "tijuco-robbery",
+          "label": "Tijuco Robbery"
+        }
+      ]
+    },
+    {
+      "id": "ega",
+      "type": "place",
+      "label": "Ega",
+      "description": "The Amazon settlement of Ega (modern Tefé), a Carmelite mission turned town on Lake Teffé, visited by the Garral family during the jangada's voyage down the Amazon.",
+      "aliases": [
+        "Tefé"
+      ],
+      "tags": [
+        "amazon",
+        "settlement",
+        "tefe",
+        "jangada-stop"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:ega",
+      "relations": []
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Chronicle",
+      "description": "Chronicle of all key events in The Giant Raft — the diamond conspiracy, the Amazon journey, and climactic moments",
+      "aliases": [
+        "Event Chronicle",
+        "All Events",
+        "Plot Events"
+      ],
+      "tags": [
+        "index",
+        "event",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:event-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        },
+        {
+          "type": "related",
+          "target": "place-index",
+          "label": "place-index"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        }
+      ]
+    },
+    {
+      "id": "execution-rescue",
+      "type": "event",
+      "label": "Near-Execution and Rescue of Joam Dacosta",
+      "description": "The climactic scene in which Joam Dacosta, moments from execution in Manaus, was saved by a cannon shot signaling that the cryptogram had been deciphered and his innocence proven.",
+      "aliases": [
+        "Cannon-shot rescue",
+        "Execution rescue"
+      ],
+      "tags": [
+        "climax",
+        "rescue",
+        "execution",
+        "exoneration",
+        "manaus"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:execution-rescue",
+      "relations": []
+    },
+    {
+      "id": "fazenda",
+      "type": "concept",
+      "label": "Fazenda",
+      "description": "The fazenda is the large plantation estate owned by Joam Garral near Iquitos, Peru—the starting point of the jangada's voyage and a symbol of the Amazonian agricultural economy in Jules Verne's 1881 novel.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:fazenda",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "caoutchouc"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "Jangada"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "diamond",
+          "label": "Diamond"
+        },
+        {
+          "type": "related",
+          "target": "capitao-do-mato",
+          "label": "Capitão-do-Mato"
+        },
+        {
+          "type": "related",
+          "target": "garral-fazenda",
+          "label": "Garral Fazenda (place)"
+        }
+      ]
+    },
+    {
+      "id": "featured-pages",
+      "type": "list",
+      "label": "Featured Pages",
+      "description": "Curated selection of featured and premium-quality wiki articles about The Giant Raft — the best starting points for exploration",
+      "aliases": [
+        "Featured Pages",
+        "Premium Content",
+        "Best Articles"
+      ],
+      "tags": [
+        "index",
+        "featured",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:featured-pages",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        },
+        {
+          "type": "related",
+          "target": "place-index",
+          "label": "place-index"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "event-index"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        }
+      ]
+    },
+    {
+      "id": "fonteboa",
+      "type": "place",
+      "label": "Fonteboa",
+      "description": "A Brazilian Amazon mission village with about 1,000 inhabitants, known for the Church of Notre Dame de Guadaloupe and manatee hunting.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:fonteboa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        }
+      ]
+    },
+    {
+      "id": "fragoso",
+      "type": "person",
+      "label": "Fragoso",
+      "description": "Fragoso is a wandering barber rescued from a suicide attempt by the Garral party, who becomes a loyal companion aboard the jangada and plays a crucial role in identifying the true culprit of the Tijuco diamond robbery.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:fragoso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "arrest-of-joam-dacosta",
+          "label": "Arrest of Joam Dacosta"
+        }
+      ]
+    },
+    {
+      "id": "frias",
+      "type": "place",
+      "label": "Frias",
+      "description": "A location on the Amazon River characterized by the dangerous Bar of Frias — a natural barrier of shallow, constricted passage where the river's bed rises and creates treacherous currents.",
+      "aliases": [
+        "Bar of Frias"
+      ],
+      "tags": [
+        "amazon",
+        "narrows",
+        "navigation",
+        "danger"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:frias",
+      "relations": []
+    },
+    {
+      "id": "frontier-crossing",
+      "type": "event",
+      "label": "Crossing the Brazilian Frontier",
+      "description": "The crossing of the Peruvian-Brazilian frontier by the jangada, marking the transition from the upper Amazon to Brazilian territory — a significant milestone in the Garral family's journey.",
+      "aliases": [],
+      "tags": [
+        "frontier",
+        "peru",
+        "brazil",
+        "border",
+        "journey"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:frontier-crossing",
+      "relations": []
+    },
+    {
+      "id": "garral-fazenda",
+      "type": "place",
+      "label": "The Garral Fazenda",
+      "description": "Joam Garral's plantation near Iquitos — the family home and starting point of the 800-league Amazon journey aboard the jangada",
+      "aliases": [
+        "Iquitos Fazenda",
+        "Joam Garral Plantation"
+      ],
+      "tags": [
+        "place",
+        "amazon",
+        "fazenda"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:garral-fazenda",
+      "relations": []
+    },
+    {
+      "id": "guariba",
+      "type": "concept",
+      "label": "guariba",
+      "description": "",
+      "aliases": [
+        "barbado",
+        "howling monkey"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:guariba",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        },
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "cryptogram"
+        }
+      ]
+    },
+    {
+      "id": "iquitos",
+      "type": "place",
+      "label": "Iquitos",
+      "description": "Peruvian village on the Upper Amazon where the Garral fazenda is located, the starting point of the jangada's 800-league journey to Belém",
+      "aliases": [],
+      "tags": [
+        "place",
+        "amazon",
+        "peruvian",
+        "starting-point",
+        "fazenda"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:iquitos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "garral-fazenda",
+          "label": "garral-fazenda"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "para-belem",
+          "label": "para-belem"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "manaus"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        }
+      ]
+    },
+    {
+      "id": "jahuma",
+      "type": "place",
+      "label": "Jahuma Island",
+      "description": "A large island in the Amazon River passed by the jangada during its descent, with distinctive black silhouettes of vegetation standing out against the sky.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:jahuma",
+      "relations": []
+    },
+    {
+      "id": "jangada",
+      "type": "concept",
+      "label": "Jangada",
+      "description": "A massive river raft constructed from giant tree trunks, serving as the primary vessel for Joam Garral's family journey down the Amazon in Jules Verne's \"The Giant Raft\"",
+      "aliases": [
+        "Giant Raft",
+        "Amazon Raft",
+        "River Raft"
+      ],
+      "tags": [
+        "concept",
+        "technology",
+        "navigation",
+        "amazon"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:jangada",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "cryptogram"
+        },
+        {
+          "type": "related",
+          "target": "jangada-construction",
+          "label": "jangada-construction"
+        }
+      ]
+    },
+    {
+      "id": "jangada-construction",
+      "type": "event",
+      "label": "Jangada Construction",
+      "description": "The planning and construction of the giant jangada (river raft) at Iquitos, a floating village that would carry Joam Dacosta's family down the Amazon to Belém.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:jangada-construction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        }
+      ]
+    },
+    {
+      "id": "jangada-launch",
+      "type": "event",
+      "label": "Launching the Jangada",
+      "description": "The calculated engineering feat of launching the giant raft using the Amazon's seasonal flood — marking the beginning of the Garral family's journey",
+      "aliases": [],
+      "tags": [
+        "event",
+        "plot",
+        "journey-milestone"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:jangada-launch",
+      "relations": []
+    },
+    {
+      "id": "japura",
+      "type": "place",
+      "label": "Japurá River",
+      "description": "A major left-bank tributary of the Amazon River with a mouth nearly as wide as the Amazon itself, entering the main stream in the middle Amazon region.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:japura",
+      "relations": []
+    },
+    {
+      "id": "joam-garral",
+      "type": "person",
+      "label": "Joam Garral",
+      "description": "The protagonist of Jules Verne's \"The Giant Raft\" — a wealthy Brazilian fazendero (plantation owner) who is secretly Joam Dacosta, a man wrongly condemned for the Tijuco diamond robbery",
+      "aliases": [
+        "Joam Dacosta",
+        "Joam Garral",
+        "The Fazendero"
+      ],
+      "tags": [
+        "person",
+        "protagonist",
+        "fazendero"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:joam-garral",
+      "relations": [
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "yaquita"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "judge-jarriquez"
+        }
+      ]
+    },
+    {
+      "id": "judge-jarriquez",
+      "type": "person",
+      "label": "Judge Jarriquez",
+      "description": "The magistrate in Manaus who interrogated Joam Dacosta upon his arrest and presided over the preliminary investigation of the Tijuco diamond robbery case.",
+      "aliases": [
+        "Vicente Jarriquez"
+      ],
+      "tags": [
+        "justice",
+        "manaus",
+        "trial",
+        "cryptogram"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:judge-jarriquez",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        }
+      ]
+    },
+    {
+      "id": "judge-ribeiro",
+      "type": "person",
+      "label": "Judge Ribeiro",
+      "description": "The magistrate of Tijuco who was the only official to believe in Joam Dacosta's innocence, and upon whose protection Joam relied before his sudden death by apoplexy.",
+      "aliases": [],
+      "tags": [
+        "tijuco",
+        "justice",
+        "magistrate",
+        "innocence"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:judge-ribeiro",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "judge-jarriquez"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        }
+      ]
+    },
+    {
+      "id": "lauricocha",
+      "type": "place",
+      "label": "Lake Lauricocha",
+      "description": "The source lake of the Amazon River, situated between the eleventh and twelfth degree of south latitude in the Peruvian Andes.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:lauricocha",
+      "relations": []
+    },
+    {
+      "id": "liana",
+      "type": "concept",
+      "label": "Liana",
+      "description": "Amazon climbing plants (cipó) featured in a jungle exploration scene in Chapter 7 of The Giant Raft",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:liana",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "Iquitos Fazenda"
+        }
+      ]
+    },
+    {
+      "id": "lina",
+      "type": "person",
+      "label": "Lina",
+      "description": "Minha's devoted young maid and companion aboard the giant raft, known for her infectious laughter and playful spirit.",
+      "aliases": [],
+      "tags": [
+        "jangada",
+        "servant",
+        "companion"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:lina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        }
+      ]
+    },
+    {
+      "id": "loreto",
+      "type": "place",
+      "label": "Loreto",
+      "description": "Loreto is the last Peruvian town on the Upper Amazon before the Brazilian frontier, notable as a stop on the jangada's voyage and infamous for its aggressive mosquitoes.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:loreto",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        }
+      ]
+    },
+    {
+      "id": "madeira-river",
+      "type": "place",
+      "label": "Madeira River",
+      "description": "One of the largest southern tributaries of the Amazon, whose confluence marked a significant milestone on the jangada's voyage and whose banks were the site of key events in the novel's backstory.",
+      "aliases": [
+        "Rio Madeira"
+      ],
+      "tags": [
+        "amazon",
+        "tributary",
+        "madeira",
+        "river"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:madeira-river",
+      "relations": []
+    },
+    {
+      "id": "magalhaes",
+      "type": "person",
+      "label": "magalhaes",
+      "description": "",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:magalhaes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "yaquita"
+        },
+        {
+          "type": "related",
+          "target": "garral-fazenda",
+          "label": "garral-fazenda"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        }
+      ]
+    },
+    {
+      "id": "manatee",
+      "type": "concept",
+      "label": "manatee",
+      "description": "",
+      "aliases": [
+        "sea cow",
+        "peixe-boi"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:manatee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "fonteboa",
+          "label": "fonteboa"
+        },
+        {
+          "type": "related",
+          "target": "coary",
+          "label": "coary"
+        },
+        {
+          "type": "related",
+          "target": "amazon-flood",
+          "label": "amazon-flood"
+        }
+      ]
+    },
+    {
+      "id": "manaus",
+      "type": "place",
+      "label": "Manaus",
+      "description": "Capital city of Amazonas province where Judge Jarriquez presides — the destination where Joam's fate will be decided",
+      "aliases": [],
+      "tags": [
+        "place",
+        "amazon",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:manaus",
+      "relations": []
+    },
+    {
+      "id": "manioc",
+      "type": "concept",
+      "label": "Manioc",
+      "description": "Amazon staple food crop (cassava), a dietary foundation along the river as described in The Giant Raft",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:manioc",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "Iquitos Fazenda"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "The Jangada"
+        },
+        {
+          "type": "related",
+          "target": "caoutchouc",
+          "label": "Caoutchouc"
+        }
+      ]
+    },
+    {
+      "id": "manoel",
+      "type": "person",
+      "label": "Manoel Valdez",
+      "description": "Manoel Valdez is a Brazilian assistant surgeon, the best friend of Benito Garral and the betrothed of Minha Garral, who accompanies the Garral family on their journey down the Amazon aboard the giant raft.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:manoel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito Garral"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha Garral"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita Garral"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "The Jangada"
+        },
+        {
+          "type": "related",
+          "target": "wedding-of-minha-and-manoel",
+          "label": "Wedding of Minha and Manoel"
+        },
+        {
+          "type": "related",
+          "target": "arrest-of-joam-dacosta",
+          "label": "Arrest of Joam Dacosta"
+        }
+      ]
+    },
+    {
+      "id": "maranon",
+      "type": "place",
+      "label": "Marañón River",
+      "description": "The name given to the Upper Amazon in Peru, where the river flows from its source before becoming the Solimões and later the Amazon proper.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:maranon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "iquitos"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "napo"
+        }
+      ]
+    },
+    {
+      "id": "minha",
+      "type": "person",
+      "label": "Minha",
+      "description": "Daughter of Joam Garral in \"The Giant Raft\" — a young woman whose impending marriage to Manoel Valdez provides the catalyst for the family's Amazon journey, and whose quiet courage sustains her through her father's arrest and trial",
+      "aliases": [
+        "Minha Garral",
+        "Minha Dacosta"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "betrothed"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:minha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "yaquita"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "lina"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        }
+      ]
+    },
+    {
+      "id": "mission",
+      "type": "concept",
+      "label": "Mission",
+      "description": "Religious mission stations established along the Amazon River by Catholic orders, primarily the Jesuits, serving as centers of evangelization, education, and commerce in the Amazon basin during the colonial period and into the 19th century.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:mission",
+      "relations": [
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "padre-passanha"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "iquitos"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "ega"
+        },
+        {
+          "type": "related",
+          "target": "fonteboa",
+          "label": "fonteboa"
+        },
+        {
+          "type": "related",
+          "target": "tribe",
+          "label": "tribe"
+        }
+      ]
+    },
+    {
+      "id": "monte-alegre",
+      "type": "place",
+      "label": "Monte Alegre",
+      "description": "Brazilian town on the lower Amazon, situated between Óbidos and the mouth of the Xingu River. A settlement noted for its cocoa plantations during the jangada's passage.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:monte-alegre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "obidos",
+          "label": "obidos"
+        },
+        {
+          "type": "related",
+          "target": "silves",
+          "label": "silves"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        }
+      ]
+    },
+    {
+      "id": "napo",
+      "type": "place",
+      "label": "Napo River",
+      "description": "Major northern tributary of the upper Amazon River, flowing from the eastern slopes of Cotopaxi in Ecuador to join the Amazon near the Peruvian frontier.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:napo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "putumayo",
+          "label": "putumayo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "maranon"
+        }
+      ]
+    },
+    {
+      "id": "nhamunda",
+      "type": "place",
+      "label": "Nhamundá",
+      "description": "River in the lower Amazon region, historically celebrated as the site where Orellana claimed to have encountered female warriors, giving rise to the name \"Amazon River.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:nhamunda",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "orellana",
+          "label": "orellana"
+        },
+        {
+          "type": "related",
+          "target": "silves",
+          "label": "silves"
+        }
+      ]
+    },
+    {
+      "id": "obidos",
+      "type": "place",
+      "label": "Óbidos",
+      "description": "Óbidos is a Brazilian town on the Lower Amazon, situated at the narrowest point of the river approximately one hundred miles from the Atlantic, notable as the point where ocean tides first become perceptible on the Amazon.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:obidos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "monte-alegre",
+          "label": "Monte Alegre"
+        }
+      ]
+    },
+    {
+      "id": "omaguas",
+      "type": "place",
+      "label": "Omaguas",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:omaguas",
+      "relations": []
+    },
+    {
+      "id": "orellana",
+      "type": "person",
+      "label": "Orellana",
+      "description": "Francisco de Orellana, the 16th-century Spanish lieutenant and explorer who was the first European to navigate the entire length of the Amazon River, frequently referenced in the novel as a historical parallel to the Garral expedition.",
+      "aliases": [],
+      "tags": [
+        "amazon",
+        "exploration",
+        "history",
+        "conquistador"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:orellana",
+      "relations": []
+    },
+    {
+      "id": "ortega",
+      "type": "person",
+      "label": "Ortega",
+      "description": "A member of the band that committed the Tijuco diamond robbery in 1826; the true author of the coded document whose name proved to be the key to deciphering the cryptogram and exonerating Joam Dacosta.",
+      "aliases": [],
+      "tags": [
+        "tijuco",
+        "diamond-robbery",
+        "cryptogram",
+        "crime"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:ortega",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        },
+        {
+          "type": "related",
+          "target": "judge-jarriquez",
+          "label": "judge-jarriquez"
+        }
+      ]
+    },
+    {
+      "id": "padre-passanha",
+      "type": "person",
+      "label": "Padre Passanha",
+      "description": "The seventy-year-old priest and spiritual director of the mission at Iquitos who accompanied the Garral family aboard the giant raft, providing spiritual guidance and blessing the voyage.",
+      "aliases": [],
+      "tags": [
+        "priest",
+        "jangada",
+        "iquitos",
+        "mission"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:padre-passanha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        }
+      ]
+    },
+    {
+      "id": "palm",
+      "type": "concept",
+      "label": "Palm",
+      "description": "Palm trees of the Amazon rainforest, including wax-palms, wine palms, and baccabas, as depicted in The Giant Raft",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:palm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "liana",
+          "label": "Liana"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "Iquitos Fazenda"
+        }
+      ]
+    },
+    {
+      "id": "para-belem",
+      "type": "place",
+      "label": "Belém (Pará)",
+      "description": "The coastal city at the mouth of the Amazon — the final destination of the jangada's 800-league journey",
+      "aliases": [],
+      "tags": [
+        "place",
+        "amazon",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:para-belem",
+      "relations": []
+    },
+    {
+      "id": "parianta",
+      "type": "place",
+      "label": "Parianta Island",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:parianta",
+      "relations": []
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Character Index",
+      "description": "Complete index of all characters in The Giant Raft — protagonists, supporting cast, and minor characters",
+      "aliases": [
+        "Character Index",
+        "All Characters",
+        "Personages"
+      ],
+      "tags": [
+        "index",
+        "person",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:person-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "place-index",
+          "label": "place-index"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "event-index"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        }
+      ]
+    },
+    {
+      "id": "pevas",
+      "type": "place",
+      "label": "Pevas",
+      "description": "A small Peruvian Amazon village on the journey route, population 260, established as a mission settlement.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:pevas",
+      "relations": []
+    },
+    {
+      "id": "pirogue",
+      "type": "concept",
+      "label": "Pirogue",
+      "description": "A traditional Amazonian watercraft, the pirogue is a shallow-draft canoe used extensively throughout \"The Giant Raft\" for shore excursions, hunting parties, and rescue operations during the Garral family's voyage down the Amazon.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:pirogue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "cayman",
+          "label": "cayman"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "manaus"
+        },
+        {
+          "type": "related",
+          "target": "torres-death",
+          "label": "torres-death"
+        }
+      ]
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "Place Gazetteer",
+      "description": "Complete gazetteer of all locations in The Giant Raft — Amazon River, tributaries, towns, and landmarks along the journey",
+      "aliases": [
+        "Place Gazetteer",
+        "All Places",
+        "Locations"
+      ],
+      "tags": [
+        "index",
+        "place",
+        "list"
+      ],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:place-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "event-index"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        }
+      ]
+    },
+    {
+      "id": "pororoca",
+      "type": "concept",
+      "label": "Pororoca",
+      "description": "A dramatic tidal bore phenomenon at the mouth of the Amazon River where Atlantic tides create a surging wall of water that travels upstream — a feared navigation hazard in Jules Verne's \"The Giant Raft\"",
+      "aliases": [
+        "Tidal Bore",
+        "Amazon Tidal Wave",
+        "River Bore"
+      ],
+      "tags": [
+        "concept",
+        "hydrology",
+        "natural-phenomenon"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:pororoca",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "amazon-flood",
+          "label": "amazon-flood"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        }
+      ]
+    },
+    {
+      "id": "purus-river",
+      "type": "place",
+      "label": "Purus River",
+      "description": "A major southern tributary of the Amazon River, whose confluence the jangada passed during its voyage through the central Amazon basin.",
+      "aliases": [
+        "Rio Purus"
+      ],
+      "tags": [
+        "amazon",
+        "tributary",
+        "purus",
+        "river"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:purus-river",
+      "relations": []
+    },
+    {
+      "id": "putumayo",
+      "type": "place",
+      "label": "Putumayo River",
+      "description": "Major southern tributary of the upper Amazon, known in Brazil as the Içá, joining the Amazon near the village of San Antonio. One of the most important affluents of the Amazon River.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:putumayo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "napo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "japura",
+          "label": "japura"
+        }
+      ]
+    },
+    {
+      "id": "rio-negro",
+      "type": "place",
+      "label": "Rio Negro",
+      "description": "The great northern tributary of the Amazon River, whose dark waters meet the pale Solimoes at the famous confluence near Manaus — a major geographical landmark on the jangada's voyage.",
+      "aliases": [
+        "Black River"
+      ],
+      "tags": [
+        "amazon",
+        "tributary",
+        "manaus",
+        "confluence"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:rio-negro",
+      "relations": []
+    },
+    {
+      "id": "san-pablo",
+      "type": "place",
+      "label": "San Pablo",
+      "description": "San Pablo d'Olivença is a Brazilian town on the Upper Amazon, situated on an island of the same name, notable for its commandant's hospitality and as an early Brazilian stop on the jangada's voyage.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:san-pablo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tabatinga",
+          "label": "Tabatinga"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        }
+      ]
+    },
+    {
+      "id": "serpa",
+      "type": "place",
+      "label": "Serpa",
+      "description": "A Portuguese settlement on the Amazon River (modern-day Itacoatiara), successively transported from its original location.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:serpa",
+      "relations": []
+    },
+    {
+      "id": "silves",
+      "type": "place",
+      "label": "Silves",
+      "description": "A village on the left bank of the Amazon River in Brazil.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:silves",
+      "relations": []
+    },
+    {
+      "id": "storm",
+      "type": "concept",
+      "label": "Storm",
+      "description": "Amazon river storms, a recurring natural phenomenon in The Giant Raft, concentrated in Chapter 15",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:storm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "pororoca",
+          "label": "Pororoca"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "The Jangada"
+        }
+      ]
+    },
+    {
+      "id": "tabatinga",
+      "type": "place",
+      "label": "Tabatinga",
+      "description": "Tabatinga is a Brazilian frontier town on the Upper Amazon, the first Brazilian settlement reached by the jangada after leaving Peruvian territory, notable for its garrison and as the site of Fragoso's barbering exploits.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:tabatinga",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "ega",
+          "label": "Ega"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "Amazon River"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "Iquitos"
+        }
+      ]
+    },
+    {
+      "id": "tijuco",
+      "type": "place",
+      "label": "Tijuco",
+      "description": "Tijuco (modern Diamantina) is the capital of the Brazilian diamond district in Minas Gerais, the site of the notorious diamond robbery for which Joam Dacosta was wrongfully convicted—a crime that haunts the narrative of The Giant Raft.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:tijuco",
+      "relations": [
+        {
+          "type": "related",
+          "target": "diamond",
+          "label": "Diamond"
+        },
+        {
+          "type": "related",
+          "target": "cryptogram",
+          "label": "Cryptogram"
+        },
+        {
+          "type": "related",
+          "target": "tijuco-robbery",
+          "label": "Tijuco Robbery"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "Torres"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "Manaus"
+        }
+      ]
+    },
+    {
+      "id": "tijuco-robbery",
+      "type": "event",
+      "label": "The Tijuco Robbery",
+      "description": "The infamous diamond robbery in Tijuco, Brazil for which Joam Dacosta was wrongly condemned to death — the crime at the heart of the novel's mystery",
+      "aliases": [],
+      "tags": [
+        "event",
+        "plot",
+        "backstory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:tijuco-robbery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "torres",
+          "label": "torres"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "ortega"
+        }
+      ]
+    },
+    {
+      "id": "torres",
+      "type": "person",
+      "label": "Torres",
+      "description": "The antagonist of Jules Verne's \"The Giant Raft\" — a former capitão do mato (bush-captain) who possesses the cryptogram that can prove Joam Dacosta's innocence and attempts to use it for blackmail, only to be killed before he can reveal the secret",
+      "aliases": [
+        "The Bush-Captain"
+      ],
+      "tags": [
+        "person",
+        "antagonist",
+        "capitão-do-mato",
+        "blackmailer"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:torres",
+      "relations": [
+        {
+          "type": "related",
+          "target": "guariba",
+          "label": "guariba"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "fragoso"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        }
+      ]
+    },
+    {
+      "id": "torres-blackmail",
+      "type": "event",
+      "label": "Torres's Blackmail Attempt",
+      "description": "The antagonist's effort to extort payment from Joam Garral in exchange for the cryptogram that can prove his innocence",
+      "aliases": [],
+      "tags": [
+        "event",
+        "plot",
+        "plot-point"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:torres-blackmail",
+      "relations": []
+    },
+    {
+      "id": "torres-death",
+      "type": "event",
+      "label": "Death of Torres",
+      "description": "The mysterious death of Torres, the blackmailer, whose body was discovered in the Amazon waters — an event that recovered the cryptogram and altered the course of Joam Dacosta's case.",
+      "aliases": [
+        "Discovery of Torres's body",
+        "Torres killed"
+      ],
+      "tags": [
+        "torres",
+        "death",
+        "murder",
+        "cryptogram",
+        "justice"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:torres-death",
+      "relations": []
+    },
+    {
+      "id": "tribe",
+      "type": "concept",
+      "label": "Tribe",
+      "description": "Indigenous tribes of the Amazon River basin, depicted in Jules Verne's \"The Giant Raft\" as both a fading presence and an essential component of the river's human geography, from the nomadic Mayoruna and Orejone to the settled Ticuna.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:tribe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manatee",
+          "label": "manatee"
+        },
+        {
+          "type": "related",
+          "target": "mission",
+          "label": "mission"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "fazenda",
+          "label": "fazenda"
+        },
+        {
+          "type": "related",
+          "target": "iquitos",
+          "label": "iquitos"
+        },
+        {
+          "type": "related",
+          "target": "manaus",
+          "label": "manaus"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "jangada"
+        }
+      ]
+    },
+    {
+      "id": "ucayali",
+      "type": "place",
+      "label": "Ucayali River",
+      "description": "Major southern tributary of the upper Amazon in Peru, formed by the junction of the Paro and Apurimac rivers. Historically considered by some as the true source of the Amazon.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:ucayali",
+      "relations": [
+        {
+          "type": "related",
+          "target": "napo",
+          "label": "napo"
+        },
+        {
+          "type": "related",
+          "target": "putumayo",
+          "label": "putumayo"
+        },
+        {
+          "type": "related",
+          "target": "amazon-river",
+          "label": "amazon-river"
+        },
+        {
+          "type": "related",
+          "target": "maranon",
+          "label": "maranon"
+        }
+      ]
+    },
+    {
+      "id": "underwater-dive",
+      "type": "event",
+      "label": "Benito's Underwater Dive",
+      "description": "Benito Garral's perilous underwater dive to free the jangada from an obstruction, demonstrating his courage and skill as a swimmer.",
+      "aliases": [
+        "Underwater rescue of the jangada"
+      ],
+      "tags": [
+        "benito",
+        "dive",
+        "rescue",
+        "jangada",
+        "danger",
+        "underwater"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:underwater-dive",
+      "relations": []
+    },
+    {
+      "id": "vila-bela",
+      "type": "place",
+      "label": "Vila Bela",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:vila-bela",
+      "relations": []
+    },
+    {
+      "id": "vila-rica",
+      "type": "place",
+      "label": "Vila Rica",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-giant-raft:vila-rica",
+      "relations": []
+    },
+    {
+      "id": "wedding-of-minha-and-manoel",
+      "type": "event",
+      "label": "Wedding of Minha and Manoel",
+      "description": "The wedding of Minha Garral and Manoel Valdez is the emotional anchor of The Giant Raft—a union proposed at the fazenda, deferred through the Amazon voyage, nearly accelerated on the jangada itself before Joam's arrest, and finally celebrated in Belém after his vindication.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-giant-raft:wedding-of-minha-and-manoel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "Minha Garral"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "Manoel Valdez"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "Benito Garral"
+        },
+        {
+          "type": "related",
+          "target": "ortega",
+          "label": "Ortega"
+        },
+        {
+          "type": "related",
+          "target": "fragoso",
+          "label": "Fragoso"
+        },
+        {
+          "type": "related",
+          "target": "lina",
+          "label": "Lina"
+        },
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "Joam Garral"
+        },
+        {
+          "type": "related",
+          "target": "yaquita",
+          "label": "Yaquita Garral"
+        },
+        {
+          "type": "related",
+          "target": "padre-passanha",
+          "label": "Padre Passanha"
+        },
+        {
+          "type": "related",
+          "target": "arrest-of-joam-dacosta",
+          "label": "Arrest of Joam Dacosta"
+        },
+        {
+          "type": "related",
+          "target": "para-belem",
+          "label": "Pará (Belém)"
+        },
+        {
+          "type": "related",
+          "target": "jangada",
+          "label": "The Jangada"
+        }
+      ]
+    },
+    {
+      "id": "yaquita",
+      "type": "person",
+      "label": "Yaquita",
+      "description": "Wife of Joam Garral in \"The Giant Raft\" — the matriarch of the Garral family whose quiet strength anchors the family through the crisis of her husband's secret past and arrest",
+      "aliases": [
+        "Yaquita Garral",
+        "Yaquita Dacosta",
+        "Madame Valdez"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "matriarch"
+      ],
+      "quality": "standard",
+      "source_ref": "the-giant-raft:yaquita",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joam-garral",
+          "label": "joam-garral"
+        },
+        {
+          "type": "related",
+          "target": "benito",
+          "label": "benito"
+        },
+        {
+          "type": "related",
+          "target": "minha",
+          "label": "minha"
+        },
+        {
+          "type": "related",
+          "target": "manoel",
+          "label": "manoel"
+        },
+        {
+          "type": "related",
+          "target": "cybele",
+          "label": "cybele"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+---
+description: "How we are to understand the words, “The devil sinneth from the beginning.”"
+id: book-11-ch15
+label: "Book 11 — Ch. 15: XV"
+tags: ["chapter"]
+type: chapter
+---
+
+[315-001]How we are to understand the words, “The devil sinneth from the beginning.”
+
+[315-002]As for what John says about the devil, “The devil sinneth from the beginning,”474 they475 who suppose it is meant hereby that the devil was made with a sinful nature, misunderstand it; for if sin be natural, it is not sin at all. And how do they answer the prophetic proofs—either what Isaiah says when he represents the devil under the person of the king of Babylon, “How art thou fallen, O Lucifer, son of the morning!”476 or what Ezekiel says, “Thou hast been in Eden, the garden of God; every precious stone was thy covering,”477 where it is meant that he was some time without sin; for a little after it is still more explicitly said, “Thou wast perfect in thy ways?” And if these passages cannot well be otherwise interpreted, we must understand by this one also, “He abode not in the truth,” that he was once in the truth, but did not remain in it. And from this passage, “The devil sinneth from the beginning,” it is not to be supposed that he sinned from the beginning of his created existence, but from the beginning of his sin, when by his pride he had once commenced to sin. There is a passage, too, in the Book of Job, of which the devil is the subject: “This is the beginning of the creation of God, which He made to be a sport to His angels,”478 which agrees with the psalm, where it is said, “There is that dragon which Thou hast made to be a sport therein.”479 But these passages are not to lead us to suppose that the devil was originally created to be the sport of the angels, but that he was doomed to this punishment after his sin. His beginning, then, is the handiwork of God; for there is no nature, even among the least, and lowest, and last of the beasts, which was not the work of Him from whom has proceeded all measure, all form, all order, without which nothing can be planned or conceived. How much more, then, is this angelic nature, which surpasses in dignity all else that He has made, the handiwork of the Most High!

@@ -1,67 +1,54 @@
 ---
+description: >
 id: authority
 label: Authority
+tags: []
 type: concept
-description: "Wollstonecraft's concept of authority as a force that must be grounded in reason rather than convention — the systematic critique of blind submission to parental, marital, and political authority that denies women their rational autonomy"
-tags: ["reason", "independence", "virtue", "gender", "power"]
 ---
 
-**Authority** is, for Wollstonecraft, one of the central problems of eighteenth-century society. Throughout the *Vindication*, she distinguishes sharply between the "authority of reason" (003-059) — to which every rational being should freely submit — and the arbitrary authority of parents, husbands, and social convention.
-
-Arbitrary authority demands obedience without conviction and thereby corrupts both those who exercise it and those who submit to it. "They alone are subject to blind authority who have no reliance on their own strength" (005-096); the remedy is education that cultivates independent judgment.
+# Authority
 
 ## Definition
 
-Wollstonecraft does not reject authority as such. What she rejects is authority that claims obedience on any ground other than rational conviction. The legitimate authority is "the authority of reason" (003-059), which compels assent through the intrinsic persuasiveness of truth rather than through force or social pressure.
+In the *Vindication*, **authority** is a contested concept. Wollstonecraft does
+not reject authority as such — she acknowledges the necessity of legitimate
+authority in government, in education, and in family life. What she rejects
+is *arbitrary* authority: authority grounded not in reason, competence, or
+consent but in mere power, custom, or inherited status.
 
-By contrast, "blind authority" (005-096) demands obedience without offering reasons. Those who exercise it do not see the harm they cause, and those who submit to it do so with their eyes closed — "they blindly submit to authority" (002-026). The metaphor is deliberately Platonic: blind submission is the cognitive equivalent of living in a cave.
+## Legitimate vs. Arbitrary Authority
 
-Wollstonecraft's distinctive contribution is to show that the problem of authority is gendered. Men exercise authority over women in ways never required to justify themselves, because female subordination is assumed to be natural. "His authority and her sex, ever stand between her and reason" (004-019) — the phrase captures the double bind perfectly.
+The distinction Wollstonecraft draws is fundamentally rationalist. Legitimate
+authority is authority that can be justified by reason — the authority of a
+teacher over a student (grounded in superior knowledge), of a law over a
+citizen (grounded in consent and the common good), of a parent over a child
+(grounded in the duty of care).
 
-## Wollstonecraft's Argument
+Arbitrary authority, by contrast, is authority that rests on nothing more than
+power or precedent: the authority of a husband over a wife (grounded in nothing
+but sex), of an aristocrat over a commoner (grounded in nothing but birth),
+of a despot over subjects (grounded in nothing but force).
 
-Wollstonecraft's critique proceeds from her account of human nature. Every human being possesses reason, and reason is the faculty by which we govern ourselves according to principle. To submit to authority without the mediation of reason is therefore to abdicate one's humanity.
+## Domestic Authority
 
-"Who made man the exclusive judge, if woman partake with him the gift of reason?" (P02-012) — the rhetorical question contains the whole argument. If women have reason, they have the right and the duty to exercise it, and any authority that prevents them from doing so is illegitimate.
+Wollstonecraft's critique of authority in the domestic sphere is particularly
+sharp. The authority of husbands over wives is, in her analysis, the paradigmatic
+case of arbitrary authority — a power relation justified by nothing more than
+physical strength and inherited custom. This domestic tyranny corrupts both
+parties: it makes men despotic and women servile.
 
-The argument is particularly sharp in the domain of parental authority. The "manner of making the parental authority supplant reason" (005-108) produces children — and especially daughters — who have learned to obey but not to think. The pattern of submission established in childhood extends into marriage and social life.
+The remedy is not the abolition of family structure but its rationalization:
+marriage should be a partnership of equals, governed by mutual respect and
+shared reason rather than by the unilateral authority of the husband.
 
-In the marital domain, the critique becomes a critique of the entire structure of gender relations. "Absolute, uncontroverted authority, it seems, must subsist somewhere" (005-034) — the irony is devastating: the same men who rebel against political tyranny insist on domestic tyranny as a natural right.
+## Political Authority
 
-The solution is not the abolition of authority but its re-grounding in reason. "They are made to be virtuous by authority, which is a contradiction in terms" (013-054). Virtue cannot be imposed from without; it must be chosen from within. The only legitimate authority is that which reason exercises over the will.
+The same principle extends to the political sphere. Wollstonecraft endorses
+the Enlightenment critique of arbitrary government. Political authority must
+be grounded in reason and directed toward the common good; authority exercised
+for private advantage or maintained by force alone is illegitimate.
 
-### Contrast with Contemporary Views
-
-The eighteenth-century discourse of authority was dominated by the divine right of kings and its domestic analogue, the divine right of fathers and husbands. Filmer's *Patriarcha* had argued that all legitimate authority descends from Adam's paternal authority. Although Locke had refuted Filmer politically, the domestic application of patriarchal theory survived intact.
-
-Rousseau's treatment of authority is more subtle but equally damaging. In *Émile*, the tutor exercises an invisible authority — the child believes himself free while being carefully managed. Wollstonecraft objects that this is a sophisticated form of the same tyranny. Applied to Sophie, the result is a woman whose "freedom" consists in willingly submitting to male authority.
-
-## Key Passages
-
-> They alone are subject to blind authority who have no reliance on their own strength. (005-096)
-
-> Who made man the exclusive judge, if woman partake with him the gift of reason? (P02-012)
-
-> Absolute, uncontroverted authority, it seems, must subsist somewhere. (005-034)
-
-> Let woman share the rights, and she will emulate the virtues of man; for she must grow more perfect when emancipated, or justify the authority that chains such a weak being to her duty. (013-079)
-
-## Related Concepts
-
-- [[Freedom]] — the condition that authority, when illegitimate, denies
-
-- [[Reason]] — the only legitimate ground of authority
-
-- [[Independence]] — what submission to blind authority destroys
-
-- [[Obedience]] — the virtue that authority demands and that Wollstonecraft redefines
-
-- [[Duty]] — the moral obligation that replaces external authority with internal conviction
-
-## See Also
-
-- [[Mary Wollstonecraft]] — whose feminism centres on the critique of arbitrary authority over women
-
-- [[Jean-Jacques Rousseau]] — whose theory of authority Wollstonecraft systematically refutes
-
-- [[Equality]] — the principle that is incompatible with the subordination of women to male authority
+Her argument for women's rights is, at bottom, an argument about authority:
+who may legitimately rule over whom, and on what grounds? The answer, for
+Wollstonecraft, is clear: reason alone — not sex, not birth, not wealth —
+can justify authority.

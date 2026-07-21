@@ -1,0 +1,62 @@
+---
+description: ""
+id: Aphorism-299
+label: "Aphorism 299"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 299.
+
+### 299.
+
+
+*What one should Learn from Artists.*—What
+
+means have we for making things beautiful, attractive,
+
+and desirable, when they are not so?—and
+
+I suppose they are never so in themselves!
+
+We have here something to learn from physicians,
+
+when, for example, they dilute what is bitter, or
+
+put wine and sugar into their mixing-bowl; but we
+
+have still more to learn from artists, who in fact,
+
+are continually concerned in devising such inventions
+
+and artifices. To withdraw from things
+
+until one no longer sees much of them, until one
+
+has even to see things into them, *in order to see
+
+them at all*—or to view them from the side, and
+
+as in a frame—or to place them so that they
+
+partly disguise themselves and only permit of
+
+perspective views—or to look at them through
+
+coloured glasses, or in the light of the sunset—or
+
+to furnish them with a surface or skin which is not
+
+fully transparent: we should learn all that from
+
+artists, and moreover be wiser than they. For
+
+this fine power of theirs usually ceases with them
+
+where art ceases and life begins; *we*, however, want
+
+to be the poets of our life, and first of all in the
+
+smallest and most commonplace matters.

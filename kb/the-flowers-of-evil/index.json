@@ -1,0 +1,6565 @@
+{
+  "book": "the-flowers-of-evil",
+  "title": "The Flowers of Evil",
+  "description": "The Flowers of Evil — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 192,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"恶之花\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-flowers-of-evil:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "preface",
+          "label": "preface"
+        },
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "au-lecteur"
+        },
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "benediction"
+        },
+        {
+          "type": "related",
+          "target": "l-albatros",
+          "label": "l-albatros"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "elevation"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "les-phares"
+        },
+        {
+          "type": "related",
+          "target": "la-muse-venale",
+          "label": "la-muse-venale"
+        },
+        {
+          "type": "related",
+          "target": "l-ennemi",
+          "label": "l-ennemi"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "la-vie-anterieure"
+        },
+        {
+          "type": "related",
+          "target": "bohemiens-en-voyage",
+          "label": "bohemiens-en-voyage"
+        },
+        {
+          "type": "related",
+          "target": "l-homme-et-la-mer",
+          "label": "l-homme-et-la-mer"
+        },
+        {
+          "type": "related",
+          "target": "don-juan-aux-enfers",
+          "label": "don-juan-aux-enfers"
+        },
+        {
+          "type": "related",
+          "target": "chatiment-de-l-orgueil",
+          "label": "chatiment-de-l-orgueil"
+        },
+        {
+          "type": "related",
+          "target": "la-beaute",
+          "label": "la-beaute"
+        },
+        {
+          "type": "related",
+          "target": "l-ideal",
+          "label": "l-ideal"
+        },
+        {
+          "type": "related",
+          "target": "le-masque",
+          "label": "le-masque"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "hymne-a-la-beaute"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "la-chevelure"
+        },
+        {
+          "type": "related",
+          "target": "sed-non-satiata",
+          "label": "sed-non-satiata"
+        },
+        {
+          "type": "related",
+          "target": "le-serpent-qui-danse",
+          "label": "le-serpent-qui-danse"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "une-charogne"
+        },
+        {
+          "type": "related",
+          "target": "de-profundis-clamavi",
+          "label": "de-profundis-clamavi"
+        },
+        {
+          "type": "related",
+          "target": "le-vampire",
+          "label": "le-vampire"
+        },
+        {
+          "type": "related",
+          "target": "remords-posthume",
+          "label": "remords-posthume"
+        },
+        {
+          "type": "related",
+          "target": "le-chat-025",
+          "label": "le-chat-025"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "le-balcon"
+        },
+        {
+          "type": "related",
+          "target": "le-possede",
+          "label": "le-possede"
+        },
+        {
+          "type": "related",
+          "target": "un-fantome",
+          "label": "un-fantome"
+        },
+        {
+          "type": "related",
+          "target": "le-parfum",
+          "label": "le-parfum"
+        },
+        {
+          "type": "related",
+          "target": "le-cadre",
+          "label": "le-cadre"
+        },
+        {
+          "type": "related",
+          "target": "le-portrait",
+          "label": "le-portrait"
+        },
+        {
+          "type": "related",
+          "target": "semper-eadem",
+          "label": "semper-eadem"
+        },
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "tout-entiere"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "le-flacon",
+          "label": "le-flacon"
+        },
+        {
+          "type": "related",
+          "target": "le-poison",
+          "label": "le-poison"
+        },
+        {
+          "type": "related",
+          "target": "le-chat-037",
+          "label": "le-chat-037"
+        },
+        {
+          "type": "related",
+          "target": "le-beau-navire",
+          "label": "le-beau-navire"
+        },
+        {
+          "type": "related",
+          "target": "l-irreparable",
+          "label": "l-irreparable"
+        },
+        {
+          "type": "related",
+          "target": "causerie",
+          "label": "causerie"
+        },
+        {
+          "type": "related",
+          "target": "chant-d-automne",
+          "label": "chant-d-automne"
+        },
+        {
+          "type": "related",
+          "target": "chanson-d-apres-midi",
+          "label": "chanson-d-apres-midi"
+        },
+        {
+          "type": "related",
+          "target": "sisina",
+          "label": "sisina"
+        },
+        {
+          "type": "related",
+          "target": "a-une-dame-creole",
+          "label": "a-une-dame-creole"
+        },
+        {
+          "type": "related",
+          "target": "le-revenant",
+          "label": "le-revenant"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-d-automne",
+          "label": "sonnet-d-automne"
+        },
+        {
+          "type": "related",
+          "target": "tristesse-de-la-lune",
+          "label": "tristesse-de-la-lune"
+        },
+        {
+          "type": "related",
+          "target": "les-chats",
+          "label": "les-chats"
+        },
+        {
+          "type": "related",
+          "target": "la-pipe",
+          "label": "la-pipe"
+        },
+        {
+          "type": "related",
+          "target": "la-musique",
+          "label": "la-musique"
+        },
+        {
+          "type": "related",
+          "target": "sepulture-d-un-poete-maudit",
+          "label": "sepulture-d-un-poete-maudit"
+        },
+        {
+          "type": "related",
+          "target": "le-mort-joyeux",
+          "label": "le-mort-joyeux"
+        },
+        {
+          "type": "related",
+          "target": "la-cloche-felee",
+          "label": "la-cloche-felee"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "le-gout-du-neant",
+          "label": "le-gout-du-neant"
+        },
+        {
+          "type": "related",
+          "target": "alchimie-de-la-douleur",
+          "label": "alchimie-de-la-douleur"
+        },
+        {
+          "type": "related",
+          "target": "la-priere-d-un-paien",
+          "label": "la-priere-d-un-paien"
+        },
+        {
+          "type": "related",
+          "target": "le-couvercle",
+          "label": "le-couvercle"
+        },
+        {
+          "type": "related",
+          "target": "l-imprevu",
+          "label": "l-imprevu"
+        },
+        {
+          "type": "related",
+          "target": "l-examen-de-minuit",
+          "label": "l-examen-de-minuit"
+        },
+        {
+          "type": "related",
+          "target": "madrigal-triste",
+          "label": "madrigal-triste"
+        },
+        {
+          "type": "related",
+          "target": "l-avertisseur",
+          "label": "l-avertisseur"
+        },
+        {
+          "type": "related",
+          "target": "a-une-malabaraise",
+          "label": "a-une-malabaraise"
+        },
+        {
+          "type": "related",
+          "target": "la-voix",
+          "label": "la-voix"
+        },
+        {
+          "type": "related",
+          "target": "hymne",
+          "label": "hymne"
+        },
+        {
+          "type": "related",
+          "target": "le-rebelle",
+          "label": "le-rebelle"
+        },
+        {
+          "type": "related",
+          "target": "le-jet-d-eau",
+          "label": "le-jet-d-eau"
+        },
+        {
+          "type": "related",
+          "target": "le-coucher-du-soleil-romantique",
+          "label": "le-coucher-du-soleil-romantique"
+        },
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "le-gouffre"
+        },
+        {
+          "type": "related",
+          "target": "les-plaintes-d-un-icare",
+          "label": "les-plaintes-d-un-icare"
+        },
+        {
+          "type": "related",
+          "target": "recueillement",
+          "label": "recueillement"
+        },
+        {
+          "type": "related",
+          "target": "l-heautontimoroumenos",
+          "label": "l-heautontimoroumenos"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "l-irremediable"
+        },
+        {
+          "type": "related",
+          "target": "l-horloge",
+          "label": "l-horloge"
+        },
+        {
+          "type": "related",
+          "target": "le-soleil",
+          "label": "le-soleil"
+        },
+        {
+          "type": "related",
+          "target": "la-lune-offensee",
+          "label": "la-lune-offensee"
+        },
+        {
+          "type": "related",
+          "target": "a-une-mendiante-rousse",
+          "label": "a-une-mendiante-rousse"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "le-cygne"
+        },
+        {
+          "type": "related",
+          "target": "a-victor-hugo-079",
+          "label": "a-victor-hugo-079"
+        },
+        {
+          "type": "related",
+          "target": "les-sept-vieillards",
+          "label": "les-sept-vieillards"
+        },
+        {
+          "type": "related",
+          "target": "a-victor-hugo-081",
+          "label": "a-victor-hugo-081"
+        },
+        {
+          "type": "related",
+          "target": "les-petites-vieilles",
+          "label": "les-petites-vieilles"
+        },
+        {
+          "type": "related",
+          "target": "a-victor-hugo-083",
+          "label": "a-victor-hugo-083"
+        },
+        {
+          "type": "related",
+          "target": "a-une-passante",
+          "label": "a-une-passante"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "le-crepuscule-du-soir"
+        },
+        {
+          "type": "related",
+          "target": "le-jeu",
+          "label": "le-jeu"
+        },
+        {
+          "type": "related",
+          "target": "danse-macabre",
+          "label": "danse-macabre"
+        },
+        {
+          "type": "related",
+          "target": "a-ernest-christophe",
+          "label": "a-ernest-christophe"
+        },
+        {
+          "type": "related",
+          "target": "l-amour-du-mensonge",
+          "label": "l-amour-du-mensonge"
+        },
+        {
+          "type": "related",
+          "target": "brumes-et-pluies",
+          "label": "brumes-et-pluies"
+        },
+        {
+          "type": "related",
+          "target": "l-ame-du-vin",
+          "label": "l-ame-du-vin"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-chiffonniers",
+          "label": "le-vin-des-chiffonniers"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-de-l-assassin",
+          "label": "le-vin-de-l-assassin"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-du-solitaire",
+          "label": "le-vin-du-solitaire"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-amants",
+          "label": "le-vin-des-amants"
+        },
+        {
+          "type": "related",
+          "target": "une-martyre",
+          "label": "une-martyre"
+        },
+        {
+          "type": "related",
+          "target": "dessin-d-un-maitre-inconnu",
+          "label": "dessin-d-un-maitre-inconnu"
+        },
+        {
+          "type": "related",
+          "target": "femmes-damnees-098",
+          "label": "femmes-damnees-098"
+        },
+        {
+          "type": "related",
+          "target": "les-deux-bonnes-soeurs",
+          "label": "les-deux-bonnes-soeurs"
+        },
+        {
+          "type": "related",
+          "target": "allegorie",
+          "label": "allegorie"
+        },
+        {
+          "type": "related",
+          "target": "un-voyage-a-cythere",
+          "label": "un-voyage-a-cythere"
+        },
+        {
+          "type": "related",
+          "target": "abel-et-cain",
+          "label": "Part IV: RÉVOLTE"
+        },
+        {
+          "type": "related",
+          "target": "les-litanies-de-satan",
+          "label": "les-litanies-de-satan"
+        },
+        {
+          "type": "related",
+          "target": "priere",
+          "label": "priere"
+        },
+        {
+          "type": "related",
+          "target": "la-mort-des-amants",
+          "label": "Part V: LA MORT"
+        },
+        {
+          "type": "related",
+          "target": "la-mort-des-pauvres",
+          "label": "la-mort-des-pauvres"
+        },
+        {
+          "type": "related",
+          "target": "le-reve-d-un-curieux",
+          "label": "le-reve-d-un-curieux"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "le-voyage"
+        },
+        {
+          "type": "related",
+          "target": "a-maxime-du-camp",
+          "label": "a-maxime-du-camp"
+        },
+        {
+          "type": "related",
+          "target": "les-bijoux",
+          "label": "Part VI: PIÉCES CONDAMNÉES"
+        },
+        {
+          "type": "related",
+          "target": "le-lethe",
+          "label": "le-lethe"
+        },
+        {
+          "type": "related",
+          "target": "a-celle-qui-est-trop-gaie",
+          "label": "a-celle-qui-est-trop-gaie"
+        },
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "lesbos"
+        },
+        {
+          "type": "related",
+          "target": "femmes-damnees-114",
+          "label": "femmes-damnees-114"
+        },
+        {
+          "type": "related",
+          "target": "les-metamorphoses-du-vampire",
+          "label": "les-metamorphoses-du-vampire"
+        }
+      ]
+    },
+    {
+      "id": "a-celle-qui-est-trop-gaie",
+      "type": "chapter",
+      "label": "\"A CELLE QUI EST TROP GAIE\"",
+      "description": "'\"A CELLE QUI EST TROP GAIE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-celle-qui-est-trop-gaie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "a-ernest-christophe",
+      "type": "chapter",
+      "label": "\"A ERNEST CHRISTOPHE\"",
+      "description": "'\"A ERNEST CHRISTOPHE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-ernest-christophe",
+      "relations": []
+    },
+    {
+      "id": "a-maxime-du-camp",
+      "type": "chapter",
+      "label": "\"A MAXIME DU CAMP\"",
+      "description": "'\"A MAXIME DU CAMP\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-maxime-du-camp",
+      "relations": []
+    },
+    {
+      "id": "a-une-dame-creole",
+      "type": "chapter",
+      "label": "\"A UNE DAME CREOLE\"",
+      "description": "'\"A UNE DAME CREOLE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-une-dame-creole",
+      "relations": []
+    },
+    {
+      "id": "a-une-malabaraise",
+      "type": "chapter",
+      "label": "\"A UNE MALABARAISE\"",
+      "description": "'\"A UNE MALABARAISE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-une-malabaraise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "desire",
+          "label": "envie"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "souffrance"
+        }
+      ]
+    },
+    {
+      "id": "a-une-mendiante-rousse",
+      "type": "chapter",
+      "label": "\"A UNE MENDIANTE ROUSSE\"",
+      "description": "'\"A UNE MENDIANTE ROUSSE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-une-mendiante-rousse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "a-une-passante",
+      "type": "chapter",
+      "label": "\"A UNE PASSANTE\"",
+      "description": "'\"A UNE PASSANTE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-une-passante",
+      "relations": []
+    },
+    {
+      "id": "a-victor-hugo-079",
+      "type": "chapter",
+      "label": "\"A VICTOR HUGO\"",
+      "description": "'\"A VICTOR HUGO\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-victor-hugo-079",
+      "relations": []
+    },
+    {
+      "id": "a-victor-hugo-081",
+      "type": "chapter",
+      "label": "\"A VICTOR HUGO\"",
+      "description": "'\"A VICTOR HUGO\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-victor-hugo-081",
+      "relations": []
+    },
+    {
+      "id": "a-victor-hugo-083",
+      "type": "chapter",
+      "label": "\"A VICTOR HUGO\"",
+      "description": "'\"A VICTOR HUGO\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:a-victor-hugo-083",
+      "relations": []
+    },
+    {
+      "id": "abel",
+      "type": "person",
+      "label": "Abel",
+      "description": "'The biblical victim whose murder by his brother Cain inaugurates human violence — in Baudelaire''s poetry, Abel represents the complacent piety that the poet-rebel rejects in favor of Cain''s anguished dignity.'",
+      "aliases": [
+        "Abel",
+        "Le Abel",
+        "亚伯"
+      ],
+      "tags": [
+        "biblical",
+        "victim",
+        "innocence",
+        "sacrifice"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:abel",
+      "relations": []
+    },
+    {
+      "id": "abel-et-cain",
+      "type": "chapter",
+      "label": "\"ABEL ET CAÏN\"",
+      "description": "'\"ABEL ET CAÏN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:abel-et-cain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "abel",
+          "label": "Abel"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "cain",
+          "label": "Caïn"
+        }
+      ]
+    },
+    {
+      "id": "alchimie-de-la-douleur",
+      "type": "chapter",
+      "label": "\"ALCHIMIE DE LA DOULEUR\"",
+      "description": "'\"ALCHIMIE DE LA DOULEUR\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:alchimie-de-la-douleur",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "paradis"
+        }
+      ]
+    },
+    {
+      "id": "allegorie",
+      "type": "chapter",
+      "label": "\"ALLEGORIE\"",
+      "description": "'\"ALLEGORIE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:allegorie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Enfer"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        }
+      ]
+    },
+    {
+      "id": "andromache",
+      "type": "person",
+      "label": "Andromache",
+      "description": "\"The widow of Hector in Greek mythology, invoked by Baudelaire as a symbol of absolute loss and exile — her suffering in captivity becomes a mirror of the poet's own alienation in modern Paris.\"",
+      "aliases": [
+        "Andromaque"
+      ],
+      "tags": [
+        "mythological",
+        "classical",
+        "epic"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:andromache",
+      "relations": []
+    },
+    {
+      "id": "angel",
+      "type": "concept",
+      "label": "Angel",
+      "description": "'A recurring figure in Baudelaire''s poetry — the angel represents the upward pull of the ideal, the beloved in her purest aspect, and the spiritual dimension that the poet both desires and resists.'",
+      "aliases": [
+        "Ange",
+        "L'Ange",
+        "angélique",
+        "chérubin"
+      ],
+      "tags": [
+        "angel",
+        "celestial-being",
+        "beauty",
+        "purity",
+        "spirituality"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:angel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "Confession"
+        }
+      ]
+    },
+    {
+      "id": "anguish",
+      "type": "concept",
+      "label": "Anguish",
+      "description": "'The Baudelairean Angoisse — a physical and metaphysical anguish that grips the body, crushes the spirit, and functions as the visceral register of the soul''s confrontation with mortality, guilt, and the passage of time.'",
+      "aliases": [
+        "Angoisse",
+        "L'Angoisse",
+        "Anxiety",
+        "Angustia"
+      ],
+      "tags": [
+        "anguish",
+        "anxiety",
+        "suffering",
+        "spleen",
+        "despair",
+        "death"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:anguish",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-irreparable",
+          "label": "L'Irréparable"
+        },
+        {
+          "type": "related",
+          "target": "la-cloche-felee",
+          "label": "La Cloche Fêlée"
+        },
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "Lesbos"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "type": "concept",
+      "label": "Art",
+      "description": "'In Baudelaire, art (l''art) is both the practice that wrests eternal beauty from mortal matter and the philosophical problem of representation — the tension between surface and truth, mask and face, that haunts every aesthetic endeavor.'",
+      "aliases": [
+        "Art",
+        "L'Art",
+        "Arte",
+        "Kunst"
+      ],
+      "tags": [
+        "art",
+        "aesthetics",
+        "beauty",
+        "artifice",
+        "sculpture",
+        "mask",
+        "baudelairean-aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:art",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-masque",
+          "label": "Le Masque"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "la-beaute",
+          "label": "La Beauté"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        }
+      ]
+    },
+    {
+      "id": "au-lecteur",
+      "type": "chapter",
+      "label": "\"AU LECTEUR\"",
+      "description": "'\"AU LECTEUR\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:au-lecteur",
+      "relations": [
+        {
+          "type": "related",
+          "target": "evil",
+          "label": "péché"
+        },
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Satan"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Enfer"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        }
+      ]
+    },
+    {
+      "id": "automne",
+      "type": "concept",
+      "label": "Automne",
+      "description": "'Autumn in Baudelaire as the season of mature beauty, melancholy decline, and creative reckoning — the moment when the poet must gather the harvest of experience before winter''s obliteration.'",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:automne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "time",
+          "label": "time"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "nature"
+        },
+        {
+          "type": "related",
+          "target": "langueur",
+          "label": "langueur"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty",
+      "description": "'A central aesthetic concept in Baudelaire''s \"Les Fleurs du Mal\" — beauty as a paradoxical fusion of the sublime and the grotesque, the divine and the infernal.'",
+      "aliases": [
+        "Beauté",
+        "La Beauté",
+        "beau"
+      ],
+      "tags": [
+        "beauty",
+        "aesthetics",
+        "ideal",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:beauty",
+      "relations": []
+    },
+    {
+      "id": "benediction",
+      "type": "chapter",
+      "label": "\"BÉNÉDICTION\"",
+      "description": "'\"BÉNÉDICTION\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:benediction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "Le Poète"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "Ciel"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "souffrance"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "blasphemy",
+      "type": "concept",
+      "label": "Blasphemy",
+      "description": "'The poetic act of sacred transgression in Baudelaire: blasphemy as a form of spiritual revolt that paradoxically affirms the divine through its negation.'",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:blasphemy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "sin"
+        },
+        {
+          "type": "related",
+          "target": "evil",
+          "label": "evil"
+        }
+      ]
+    },
+    {
+      "id": "blood",
+      "type": "concept",
+      "label": "Blood",
+      "description": "'In Baudelaire''s poetry, blood (le sang) is the currency of artistic creation and spiritual passion — the poet''s blood is sacrificed for beauty, the martyr''s blood waters redemption, and the \"lac de sang\" (lake of blood) is the dark reservoir from which great art draws its power.'",
+      "aliases": [
+        "Sang",
+        "le sang",
+        "ensanglanté",
+        "sanglots"
+      ],
+      "tags": [
+        "blood",
+        "sacrifice",
+        "suffering",
+        "violence",
+        "passion",
+        "mortality"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:blood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        },
+        {
+          "type": "related",
+          "target": "l-heautontimoroumenos",
+          "label": "L'Héautontimorouménos"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "bohemiens-en-voyage",
+      "type": "chapter",
+      "label": "\"BOHEMIENS EN VOYAGE\"",
+      "description": "'\"BOHEMIENS EN VOYAGE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:bohemiens-en-voyage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        }
+      ]
+    },
+    {
+      "id": "brumes-et-pluies",
+      "type": "chapter",
+      "label": "\"BRUMES ET PLUIES\"",
+      "description": "'\"BRUMES ET PLUIES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:brumes-et-pluies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        }
+      ]
+    },
+    {
+      "id": "cain",
+      "type": "person",
+      "label": "Cain",
+      "description": "'The first murderer in Genesis, reinterpreted by Baudelaire as a heroic rebel against divine injustice — Cain embodies the condemned who refuses to repent, whose exile becomes a form of dignity and whose suffering is the mark of the artist.'",
+      "aliases": [
+        "Caïn",
+        "Le Caïn",
+        "该隐"
+      ],
+      "tags": [
+        "biblical",
+        "murderer",
+        "exile",
+        "rebellion",
+        "genesis"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:cain",
+      "relations": []
+    },
+    {
+      "id": "causerie",
+      "type": "chapter",
+      "label": "\"CAUSERIE\"",
+      "description": "'\"CAUSERIE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:causerie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "chair",
+      "type": "concept",
+      "label": "Chair",
+      "description": "'In Baudelaire, la chair (flesh) is the paradoxical site where spiritual transcendence and carnal degradation meet — simultaneously \"spiritual flesh\" perfumed by angels and \"infected flesh\" that resists all warning, it embodies the unresolved tension at the heart of the Fleurs du Mal.'",
+      "aliases": [
+        "Chair",
+        "La Chair",
+        "Flesh",
+        "Carne",
+        "Fleisch"
+      ],
+      "tags": [
+        "flesh",
+        "body",
+        "sensuality",
+        "sin",
+        "spirituality",
+        "paradox",
+        "christian-dualism"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:chair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "Tout Entière"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        },
+        {
+          "type": "related",
+          "target": "danse-macabre",
+          "label": "Danse Macabre"
+        }
+      ]
+    },
+    {
+      "id": "chanson-d-apres-midi",
+      "type": "chapter",
+      "label": "\"CHANSON D'APRES-MIDI\"",
+      "description": "'\"CHANSON D''APRES-MIDI\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:chanson-d-apres-midi",
+      "relations": []
+    },
+    {
+      "id": "chant-d-automne",
+      "type": "chapter",
+      "label": "\"CHANT D'AUTOMNE\"",
+      "description": "'\"CHANT D''AUTOMNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:chant-d-automne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "charles-baudelaire",
+      "type": "person",
+      "label": "Charles Baudelaire",
+      "description": "'The author of \"Les Fleurs du Mal\" (1857) — the poet who transformed Western lyric tradition by extracting beauty from evil, modernity, and the urban abyss, and the presiding consciousness behind every page of this wiki.'",
+      "aliases": [
+        "Charles Pierre Baudelaire",
+        "Baudelaire",
+        "波德莱尔"
+      ],
+      "tags": [
+        "poet",
+        "author",
+        "19th-century",
+        "french",
+        "dandy"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:charles-baudelaire",
+      "relations": []
+    },
+    {
+      "id": "chat",
+      "type": "concept",
+      "label": "Chat",
+      "description": "'In Baudelaire''s poetic bestiary, the cat (le chat) is the creature of privileged intimacy — at once familiar and inscrutable, sensual and cerebral, a living emblem of the poetic ideal that unites knowledge and pleasure in a single purring form.'",
+      "aliases": [
+        "Chat",
+        "cat",
+        "cats",
+        "les chats",
+        "feline"
+      ],
+      "tags": [
+        "cat",
+        "sensuality",
+        "mystery",
+        "beauty",
+        "domesticity",
+        "the-double"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:chat",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-chats",
+          "label": "Les Chats"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        }
+      ]
+    },
+    {
+      "id": "chatiment-de-l-orgueil",
+      "type": "chapter",
+      "label": "\"CHATIMENT DE L'ORGUEIL\"",
+      "description": "'\"CHATIMENT DE L''ORGUEIL\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:chatiment-de-l-orgueil",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jesus-christ",
+          "label": "Jésus"
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "type": "concept",
+      "label": "City",
+      "description": "'In Baudelaire, the City is the defining landscape of modernity — a \"fourmillante cité\" (swarming city) that is at once the poet''s natural habitat and the source of his deepest alienation, the stage on which the drama of Spleen et Idéal is played out.'",
+      "aliases": [
+        "Ville",
+        "Cité",
+        "Paris",
+        "urban landscape",
+        "metropole"
+      ],
+      "tags": [
+        "city",
+        "paris",
+        "urban",
+        "modernity",
+        "spleen"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:city",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-sept-vieillards",
+          "label": "Les Sept Vieillards"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        },
+        {
+          "type": "related",
+          "target": "le-soleil",
+          "label": "Le Soleil"
+        },
+        {
+          "type": "related",
+          "target": "a-une-passante",
+          "label": "À une Passante"
+        }
+      ]
+    },
+    {
+      "id": "confession",
+      "type": "chapter",
+      "label": "\"CONFESSION\"",
+      "description": "'\"CONFESSION\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:confession",
+      "relations": []
+    },
+    {
+      "id": "danse-macabre",
+      "type": "chapter",
+      "label": "\"DANSE MACABRE\"",
+      "description": "'\"DANSE MACABRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:danse-macabre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "Plaisir"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        }
+      ]
+    },
+    {
+      "id": "de-profundis-clamavi",
+      "type": "chapter",
+      "label": "\"DE PROFUNDIS CLAMAVI\"",
+      "description": "'\"DE PROFUNDIS CLAMAVI\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:de-profundis-clamavi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "Death",
+      "description": "'A pervasive theme in Baudelaire''s poetry — death as both terminus and transformation, the ultimate horizon against which beauty and love acquire their intensity.'",
+      "aliases": [
+        "Mort",
+        "La Mort",
+        "mortalité"
+      ],
+      "tags": [
+        "death",
+        "mortality",
+        "decay",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "la-mort-des-amants",
+          "label": "La Mort des Amants"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        }
+      ]
+    },
+    {
+      "id": "desire",
+      "type": "concept",
+      "label": "Desire",
+      "description": "'The driving force of Baudelaire''s poetic psyche — desire is insatiable, contradictory, and ultimately tragic, propelling the poet toward beauty and love while ensuring he can never rest in satisfaction.'",
+      "aliases": [
+        "Désir",
+        "Le Désir",
+        "envie",
+        "convoitise"
+      ],
+      "tags": [
+        "desire",
+        "passion",
+        "eroticism",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:desire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "a-une-passante",
+          "label": "À une Passante"
+        },
+        {
+          "type": "related",
+          "target": "les-bijoux",
+          "label": "Les Bijoux"
+        },
+        {
+          "type": "related",
+          "target": "le-serpent-qui-danse",
+          "label": "Le Serpent qui Danse"
+        }
+      ]
+    },
+    {
+      "id": "dessin-d-un-maitre-inconnu",
+      "type": "chapter",
+      "label": "\"DESSIN D'UN MAITRE INCONNU\"",
+      "description": "'\"DESSIN D''UN MAITRE INCONNU\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:dessin-d-un-maitre-inconnu",
+      "relations": []
+    },
+    {
+      "id": "don-juan-aux-enfers",
+      "type": "chapter",
+      "label": "\"DON JUAN AUX ENFERS\"",
+      "description": "'\"DON JUAN AUX ENFERS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:don-juan-aux-enfers",
+      "relations": []
+    },
+    {
+      "id": "dream",
+      "type": "concept",
+      "label": "Dream",
+      "description": "'A central motif in Baudelaire''s poetry — the dream is both an escape from the spleen of reality and a creative source of the ideal, a privileged space where the poet''s imagination transforms the world.'",
+      "aliases": [
+        "Rêve",
+        "Le Rêve",
+        "songe"
+      ],
+      "tags": [
+        "dream",
+        "reverie",
+        "imagination",
+        "escape"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie Antérieure"
+        },
+        {
+          "type": "related",
+          "target": "le-poison",
+          "label": "Le Poison"
+        }
+      ]
+    },
+    {
+      "id": "ecstasy",
+      "type": "concept",
+      "label": "Ecstasy",
+      "description": "'In Baudelaire''s poetics, ecstasy (extase) is the state of radical self-dissolution — the momentary escape from the prison of the self through erotic union, aesthetic transport, mystical vision, or artificial intoxication.'",
+      "aliases": [
+        "Extase",
+        "extase",
+        "ravishment",
+        "transport"
+      ],
+      "tags": [
+        "ecstasy",
+        "mysticism",
+        "eroticism",
+        "transcendence",
+        "wine",
+        "senses"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:ecstasy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-bijoux",
+          "label": "Les Bijoux"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-amants",
+          "label": "Le Vin des Amants"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        }
+      ]
+    },
+    {
+      "id": "elevation",
+      "type": "chapter",
+      "label": "\"ELEVATION\"",
+      "description": "'\"ELEVATION\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:elevation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        }
+      ]
+    },
+    {
+      "id": "ennui",
+      "type": "concept",
+      "label": "Ennui",
+      "description": "'The Baudelairean Ennui — not mere boredom but an existential condition of spiritual paralysis that devours all will, identified in \"Au Lecteur\" as the most monstrous of all vices.'",
+      "aliases": [
+        "Boredom",
+        "Spleen (related)",
+        "l'Ennui",
+        "existential boredom"
+      ],
+      "tags": [
+        "ennui",
+        "boredom",
+        "spleen",
+        "despair",
+        "modern-consciousness"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:ennui",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        }
+      ]
+    },
+    {
+      "id": "eugene-delacroix",
+      "type": "person",
+      "label": "Eugène Delacroix",
+      "description": "'The foremost French Romantic painter, praised by Baudelaire as the greatest artist of the 19th century — Delacroix represents the ideal of the modern artist who translates passion into color and form.'",
+      "aliases": [
+        "Delacroix",
+        "Ferdinand Victor Eugène Delacroix"
+      ],
+      "tags": [
+        "painter",
+        "artist",
+        "romanticism",
+        "french",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:eugene-delacroix",
+      "relations": []
+    },
+    {
+      "id": "evil",
+      "type": "concept",
+      "label": "Evil",
+      "description": "'A central moral category in Baudelaire''s poetry — evil is not merely the absence of good but a positive, creative force, the dark half of the dualistic cosmos from which beauty and art draw their power.'",
+      "aliases": [
+        "Mal",
+        "Le Mal",
+        "péché",
+        "vice"
+      ],
+      "tags": [
+        "evil",
+        "sin",
+        "vice",
+        "morality",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:evil",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "les-litanies-de-satan",
+          "label": "Les Litanies de Satan"
+        }
+      ]
+    },
+    {
+      "id": "exile",
+      "type": "concept",
+      "label": "Exile",
+      "description": "'In Baudelaire''s poetry, exile (exil) is the fundamental condition of modern consciousness — the experience of being estranged from one''s own city, one''s own time, and ultimately one''s own self.'",
+      "aliases": [
+        "Exil",
+        "exil",
+        "l'exil",
+        "exilés"
+      ],
+      "tags": [
+        "exile",
+        "alienation",
+        "paris",
+        "memory",
+        "melancholy",
+        "modernity"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:exile",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "l-albatros",
+          "label": "L'Albatros"
+        },
+        {
+          "type": "related",
+          "target": "les-petites-vieilles",
+          "label": "Les Petites Vieilles"
+        }
+      ]
+    },
+    {
+      "id": "femmes-damnees-098",
+      "type": "chapter",
+      "label": "\"FEMMES DAMNEES\"",
+      "description": "'\"FEMMES DAMNEES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:femmes-damnees-098",
+      "relations": []
+    },
+    {
+      "id": "femmes-damnees-114",
+      "type": "chapter",
+      "label": "\"FEMMES DAMNEES\"",
+      "description": "'\"FEMMES DAMNEES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:femmes-damnees-114",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "Beauté"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "nocturne"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "type": "concept",
+      "label": "Flowers",
+      "description": "'In Baudelaire, Flowers (Les Fleurs) are the master metaphor of the entire collection — beauty extracted from evil, the poem grown from the soil of suffering. They are the aesthetic transmutation of Spleen into art and the central symbol of Baudelaire''s poetics of alchemy.'",
+      "aliases": [
+        "Fleurs",
+        "Les Fleurs",
+        "blooms",
+        "blossoms"
+      ],
+      "tags": [
+        "flowers",
+        "beauty",
+        "evil",
+        "spleen",
+        "ideal",
+        "poetry"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:flowers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-ennemi",
+          "label": "L'Ennemi"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        }
+      ]
+    },
+    {
+      "id": "gaze",
+      "type": "concept",
+      "label": "Gaze",
+      "description": "'In Baudelaire''s poetry, the gaze (le regard) is a weapon and a wound — capable of judging, seducing, enchanting, and destroying. The Baudelairean gaze is never neutral observation but an act of power that transforms both the one who looks and the one who is looked at.'",
+      "aliases": [
+        "Regard",
+        "le regard",
+        "regards",
+        "regarder",
+        "regardant"
+      ],
+      "tags": [
+        "gaze",
+        "beauty",
+        "power",
+        "desire",
+        "cruelty",
+        "modernity"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:gaze",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "a-une-passante",
+          "label": "À une passante"
+        },
+        {
+          "type": "related",
+          "target": "les-petites-vieilles",
+          "label": "Les Petites Vieilles"
+        },
+        {
+          "type": "related",
+          "target": "le-serpent-qui-danse",
+          "label": "Le Serpent qui danse"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        }
+      ]
+    },
+    {
+      "id": "glory",
+      "type": "concept",
+      "label": "Glory",
+      "description": "'In Baudelaire''s work, glory (la gloire) is an ambivalent force — at once the poet''s highest aspiration and a suspect value exposed as hollow by the ultimate voyage toward death and the unknown.'",
+      "aliases": [
+        "Gloire",
+        "La Gloire",
+        "gloire"
+      ],
+      "tags": [
+        "glory",
+        "ambition",
+        "art",
+        "pride",
+        "voyage",
+        "transcendence"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:glory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "le-soleil",
+          "label": "Le Soleil"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        }
+      ]
+    },
+    {
+      "id": "god",
+      "type": "concept",
+      "label": "God",
+      "description": "'The divine presence in Baudelaire''s poetry — invoked, questioned, and ultimately inseparable from its opposite, Satan, in the poet''s dualistic vision of the cosmos.'",
+      "aliases": [
+        "Dieu",
+        "Le Dieu",
+        "divin"
+      ],
+      "tags": [
+        "god",
+        "religion",
+        "spirituality",
+        "theology",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:god",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        }
+      ]
+    },
+    {
+      "id": "gouffre",
+      "type": "concept",
+      "label": "The Abyss",
+      "description": "'The Baudelairean abyss — a metaphysical void that is simultaneously Pascal''s infinite spaces, the psychological depths of Spleen, and the seductive black hole toward which all desire tends.'",
+      "aliases": [
+        "Gouffre",
+        "Abîme",
+        "le gouffre",
+        "abyss"
+      ],
+      "tags": [
+        "abyss",
+        "void",
+        "pascal",
+        "spleen",
+        "metaphysics"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:gouffre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "de-profundis-clamavi",
+          "label": "De Profundis Clamavi"
+        },
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "Le Gouffre"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "type": "concept",
+      "label": "Heart",
+      "description": "'The emotional and symbolic center of the self in Baudelaire''s poetry — the heart is the organ of love, suffering, and poetic sensitivity, continually wounded yet never silenced.'",
+      "aliases": [
+        "Cœur",
+        "Le Cœur",
+        "cardiac"
+      ],
+      "tags": [
+        "heart",
+        "emotion",
+        "love",
+        "suffering",
+        "body"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:heart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "causerie",
+          "label": "Causerie"
+        },
+        {
+          "type": "related",
+          "target": "l-irreparable",
+          "label": "L'Irréparable"
+        }
+      ]
+    },
+    {
+      "id": "heaven",
+      "type": "concept",
+      "label": "Heaven",
+      "description": "'The celestial realm in Baudelaire''s poetry — a symbol of transcendence and the ideal, always in tension with the abyss below, the source from which beauty and love may descend.'",
+      "aliases": [
+        "Ciel",
+        "Le Ciel",
+        "paradis"
+      ],
+      "tags": [
+        "heaven",
+        "transcendence",
+        "spirituality",
+        "ideal"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:heaven",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        }
+      ]
+    },
+    {
+      "id": "hell",
+      "type": "concept",
+      "label": "Hell",
+      "description": "'The lower pole of Baudelaire''s symbolic cosmos — hell is both a theological destination and a psychological condition, the abyss that pulls the soul downward and the source of a strange, dark beauty.'",
+      "aliases": [
+        "Enfer",
+        "L'Enfer",
+        "abîme",
+        "gouffre"
+      ],
+      "tags": [
+        "hell",
+        "damnation",
+        "suffering",
+        "theology",
+        "abyss"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:hell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "Le Gouffre"
+        },
+        {
+          "type": "related",
+          "target": "de-profundis-clamavi",
+          "label": "De Profundis Clamavi"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        }
+      ]
+    },
+    {
+      "id": "hymne",
+      "type": "chapter",
+      "label": "\"HYMNE\"",
+      "description": "'\"HYMNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:hymne",
+      "relations": []
+    },
+    {
+      "id": "hymne-a-la-beaute",
+      "type": "chapter",
+      "label": "\"HYMNE A LA BEAUTE\"",
+      "description": "'\"HYMNE A LA BEAUTE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:hymne-a-la-beaute",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "Beauté"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Satan"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "ideal",
+      "type": "concept",
+      "label": "The Ideal",
+      "description": "'The Baudelairean Idéal — the aspirational pole of human consciousness that stands in perpetual tension with Spleen, representing beauty, transcendence, and the unattainable perfection toward which the poetic imagination strives.'",
+      "aliases": [
+        "Idéal",
+        "Idéale",
+        "idéal",
+        "l'idéal"
+      ],
+      "tags": [
+        "ideal",
+        "transcendence",
+        "beauty",
+        "spleen",
+        "aspiration"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:ideal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-ideal",
+          "label": "L'Idéal"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "infinite",
+      "type": "concept",
+      "label": "Infinite",
+      "description": "'In Baudelaire''s poetry, the infinite (l''infini) is the object of an unquenchable desire — the quality the soul hungers for and the finite world cannot provide, experienced in the \"déroulement infini\" of the sea, the infinite multiplication of kisses, and the final flight into the Unknown.'",
+      "aliases": [
+        "Infini",
+        "l'infini",
+        "infinie",
+        "infinis"
+      ],
+      "tags": [
+        "infinite",
+        "transcendence",
+        "desire",
+        "death",
+        "sublime",
+        "spirituality"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:infinite",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-homme-et-la-mer",
+          "label": "L'Homme et la Mer"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "Le Gouffre"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        }
+      ]
+    },
+    {
+      "id": "intoxication",
+      "type": "concept",
+      "label": "Intoxication",
+      "description": "'Baudelairean intoxication as the deliberate pursuit of altered consciousness — through wine, poetry, love, or virtue — as an antidote to the crushing weight of Spleen and the passage of Time.'",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:intoxication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ecstasy",
+          "label": "ecstasy"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "volupte",
+          "label": "volupte"
+        },
+        {
+          "type": "related",
+          "target": "paradise",
+          "label": "paradise"
+        }
+      ]
+    },
+    {
+      "id": "jesus-christ",
+      "type": "person",
+      "label": "Jesus Christ",
+      "description": "'The central figure of Christianity, invoked in Baudelaire''s poetry with a complex mix of reverence, doubt, and ironic distance — Christ represents the ideal of redemptive suffering that the poet both admires and cannot fully embrace.'",
+      "aliases": [
+        "Jésus",
+        "Jésus-Christ",
+        "Christ",
+        "Le Christ",
+        "耶稣"
+      ],
+      "tags": [
+        "biblical",
+        "christianity",
+        "savior",
+        "redemption"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:jesus-christ",
+      "relations": []
+    },
+    {
+      "id": "l-albatros",
+      "type": "chapter",
+      "label": "\"L'ALBATROS\"",
+      "description": "'\"L''ALBATROS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-albatros",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "Le Poète"
+        }
+      ]
+    },
+    {
+      "id": "l-ame-du-vin",
+      "type": "chapter",
+      "label": "\"L'AME DU VIN\"",
+      "description": "'\"L''AME DU VIN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-ame-du-vin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        }
+      ]
+    },
+    {
+      "id": "l-amour-du-mensonge",
+      "type": "chapter",
+      "label": "\"L'AMOUR DU MENSONGE\"",
+      "description": "'\"L''AMOUR DU MENSONGE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-amour-du-mensonge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "venus",
+          "label": "Vénus"
+        }
+      ]
+    },
+    {
+      "id": "l-avertisseur",
+      "type": "chapter",
+      "label": "\"L'AVERTISSEUR\"",
+      "description": "'\"L''AVERTISSEUR\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-avertisseur",
+      "relations": []
+    },
+    {
+      "id": "l-ennemi",
+      "type": "chapter",
+      "label": "\"L'ENNEMI\"",
+      "description": "'\"L''ENNEMI\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-ennemi",
+      "relations": []
+    },
+    {
+      "id": "l-examen-de-minuit",
+      "type": "chapter",
+      "label": "\"L'EXAMEN DE MINUIT\"",
+      "description": "'\"L''EXAMEN DE MINUIT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-examen-de-minuit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jesus-christ",
+          "label": "Jésus"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        }
+      ]
+    },
+    {
+      "id": "l-heautontimoroumenos",
+      "type": "chapter",
+      "label": "\"L'HEAUTONTIMOROUMENOS\"",
+      "description": "'\"L''HEAUTONTIMOROUMENOS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-heautontimoroumenos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "souffrance"
+        }
+      ]
+    },
+    {
+      "id": "l-homme-et-la-mer",
+      "type": "chapter",
+      "label": "\"L'HOMME ET LA MER\"",
+      "description": "'\"L''HOMME ET LA MER\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-homme-et-la-mer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "l-horloge",
+      "type": "chapter",
+      "label": "\"L'HORLOGE\"",
+      "description": "'\"L''HORLOGE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-horloge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "Le Plaisir"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        }
+      ]
+    },
+    {
+      "id": "l-ideal",
+      "type": "chapter",
+      "label": "\"L'IDEAL\"",
+      "description": "'\"L''IDEAL\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-ideal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "Rêve"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "l-imprevu",
+      "type": "chapter",
+      "label": "\"L'IMPREVU\"",
+      "description": "'\"L''IMPREVU\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-imprevu",
+      "relations": [
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Satan"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "Ciel"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "l-irremediable",
+      "type": "chapter",
+      "label": "\"L'IRREMEDIABLE\"",
+      "description": "'\"L''IRREMEDIABLE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-irremediable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "Ciel"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        },
+        {
+          "type": "related",
+          "target": "evil",
+          "label": "Mal"
+        }
+      ]
+    },
+    {
+      "id": "l-irreparable",
+      "type": "chapter",
+      "label": "\"L'IRREPARABLE\"",
+      "description": "'\"L''IRREPARABLE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:l-irreparable",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "angoisse"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Le Diable"
+        }
+      ]
+    },
+    {
+      "id": "la-beaute",
+      "type": "chapter",
+      "label": "\"LA BEAUTE\"",
+      "description": "'\"LA BEAUTE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-beaute",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "la-chevelure",
+      "type": "chapter",
+      "label": "\"LA CHEVELURE\"",
+      "description": "'\"LA CHEVELURE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-chevelure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        }
+      ]
+    },
+    {
+      "id": "la-cloche-felee",
+      "type": "chapter",
+      "label": "\"LA CLOCHE FELEE\"",
+      "description": "'\"LA CLOCHE FELEE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-cloche-felee",
+      "relations": []
+    },
+    {
+      "id": "la-lune-offensee",
+      "type": "chapter",
+      "label": "\"LA LUNE OFFENSEE\"",
+      "description": "'\"LA LUNE OFFENSEE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-lune-offensee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "la-mort-des-amants",
+      "type": "chapter",
+      "label": "\"LA MORT DES AMANTS\"",
+      "description": "'\"LA MORT DES AMANTS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-mort-des-amants",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "la-mort-des-pauvres",
+      "type": "chapter",
+      "label": "\"LA MORT DES PAUVRES\"",
+      "description": "'\"LA MORT DES PAUVRES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-mort-des-pauvres",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "la-muse-venale",
+      "type": "chapter",
+      "label": "\"LA MUSE VENALE\"",
+      "description": "'\"LA MUSE VENALE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-muse-venale",
+      "relations": []
+    },
+    {
+      "id": "la-musique",
+      "type": "chapter",
+      "label": "\"LA MUSIQUE\"",
+      "description": "'\"LA MUSIQUE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-musique",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "la-pipe",
+      "type": "chapter",
+      "label": "\"LA PIPE\"",
+      "description": "'\"LA PIPE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-pipe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "la-priere-d-un-paien",
+      "type": "chapter",
+      "label": "\"LA PRIERE D'UN PAÏEN\"",
+      "description": "'\"LA PRIERE D''UN PAÏEN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-priere-d-un-paien",
+      "relations": []
+    },
+    {
+      "id": "la-vie-anterieure",
+      "type": "chapter",
+      "label": "\"LA VIE ANTERIEURE\"",
+      "description": "'\"LA VIE ANTERIEURE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-vie-anterieure",
+      "relations": []
+    },
+    {
+      "id": "la-voix",
+      "type": "chapter",
+      "label": "\"LA VOIX\"",
+      "description": "'\"LA VOIX\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:la-voix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "langueur",
+      "type": "concept",
+      "label": "Langueur",
+      "description": "'The Baudelairean state of languorous torpor — a sensual, melancholy slowness that hovers between pleasure and pain, embodying the decadent aesthetic of exquisite exhaustion.'",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:langueur",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "volupte",
+          "label": "volupte"
+        },
+        {
+          "type": "related",
+          "target": "ennui",
+          "label": "ennui"
+        },
+        {
+          "type": "related",
+          "target": "automne",
+          "label": "automne"
+        }
+      ]
+    },
+    {
+      "id": "le-balcon",
+      "type": "chapter",
+      "label": "\"LE BALCON\"",
+      "description": "'\"LE BALCON\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-balcon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-figure",
+          "label": "Mère"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "le-beau-navire",
+      "type": "chapter",
+      "label": "\"LE BEAU NAVIRE\"",
+      "description": "'\"LE BEAU NAVIRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-beau-navire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "le-cadre",
+      "type": "chapter",
+      "label": "\"LE CADRE\"",
+      "description": "'\"LE CADRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-cadre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "le-chat-025",
+      "type": "chapter",
+      "label": "\"LE CHAT\"",
+      "description": "'\"LE CHAT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-chat-025",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "le-chat-037",
+      "type": "chapter",
+      "label": "\"LE CHAT\"",
+      "description": "'\"LE CHAT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-chat-037",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "le-coucher-du-soleil-romantique",
+      "type": "chapter",
+      "label": "\"LE COUCHER DU SOLEIL ROMANTIQUE\"",
+      "description": "'\"LE COUCHER DU SOLEIL ROMANTIQUE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-coucher-du-soleil-romantique",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        }
+      ]
+    },
+    {
+      "id": "le-couvercle",
+      "type": "chapter",
+      "label": "\"LE COUVERCLE\"",
+      "description": "'\"LE COUVERCLE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-couvercle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jesus-christ",
+          "label": "Jésus"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "Ciel"
+        }
+      ]
+    },
+    {
+      "id": "le-crepuscule-du-soir",
+      "type": "chapter",
+      "label": "\"LE CREPUSCULE DU SOIR\"",
+      "description": "'\"LE CREPUSCULE DU SOIR\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-crepuscule-du-soir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "le-cygne",
+      "type": "chapter",
+      "label": "\"LE CYGNE\"",
+      "description": "'\"LE CYGNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-cygne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Douleur"
+        }
+      ]
+    },
+    {
+      "id": "le-flacon",
+      "type": "chapter",
+      "label": "\"LE FLACON\"",
+      "description": "'\"LE FLACON\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-flacon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "le-gouffre",
+      "type": "chapter",
+      "label": "\"LE GOUFFRE\"",
+      "description": "'\"LE GOUFFRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-gouffre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "le-gout-du-neant",
+      "type": "chapter",
+      "label": "\"LE GOUT DU NEANT\"",
+      "description": "'\"LE GOUT DU NEANT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-gout-du-neant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        }
+      ]
+    },
+    {
+      "id": "le-jet-d-eau",
+      "type": "chapter",
+      "label": "\"LE JET D'EAU\"",
+      "description": "'\"LE JET D''EAU\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-jet-d-eau",
+      "relations": []
+    },
+    {
+      "id": "le-jeu",
+      "type": "chapter",
+      "label": "\"LE JEU\"",
+      "description": "'\"LE JEU\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-jeu",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "nocturne"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "le-lethe",
+      "type": "chapter",
+      "label": "\"LE LETHE\"",
+      "description": "'\"LE LETHE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-lethe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "le-masque",
+      "type": "chapter",
+      "label": "\"LE MASQUE\"",
+      "description": "'\"LE MASQUE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-masque",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Amour"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Douleur"
+        }
+      ]
+    },
+    {
+      "id": "le-mort-joyeux",
+      "type": "chapter",
+      "label": "\"LE MORT JOYEUX\"",
+      "description": "'\"LE MORT JOYEUX\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-mort-joyeux",
+      "relations": []
+    },
+    {
+      "id": "le-parfum",
+      "type": "chapter",
+      "label": "\"LE PARFUM\"",
+      "description": "'\"LE PARFUM\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-parfum",
+      "relations": []
+    },
+    {
+      "id": "le-poison",
+      "type": "chapter",
+      "label": "\"LE POISON\"",
+      "description": "'\"LE POISON\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-poison",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        }
+      ]
+    },
+    {
+      "id": "le-portrait",
+      "type": "chapter",
+      "label": "\"LE PORTRAIT\"",
+      "description": "'\"LE PORTRAIT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-portrait",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "le-possede",
+      "type": "chapter",
+      "label": "\"LE POSSEDE\"",
+      "description": "'\"LE POSSEDE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-possede",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "le-rebelle",
+      "type": "chapter",
+      "label": "\"LE REBELLE\"",
+      "description": "'\"LE REBELLE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-rebelle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "jesus-christ",
+          "label": "Jésus"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Amour"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        }
+      ]
+    },
+    {
+      "id": "le-reve-d-un-curieux",
+      "type": "chapter",
+      "label": "\"LE REVE D'UN CURIEUX\"",
+      "description": "'\"LE REVE D''UN CURIEUX\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-reve-d-un-curieux",
+      "relations": [
+        {
+          "type": "related",
+          "target": "desire",
+          "label": "Désir"
+        }
+      ]
+    },
+    {
+      "id": "le-revenant",
+      "type": "chapter",
+      "label": "\"LE REVENANT\"",
+      "description": "'\"LE REVENANT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-revenant",
+      "relations": []
+    },
+    {
+      "id": "le-serpent-qui-danse",
+      "type": "chapter",
+      "label": "\"LE SERPENT QUI DANSE\"",
+      "description": "'\"LE SERPENT QUI DANSE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-serpent-qui-danse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "le-soleil",
+      "type": "chapter",
+      "label": "\"LE SOLEIL\"",
+      "description": "'\"LE SOLEIL\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-soleil",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "le-vampire",
+      "type": "chapter",
+      "label": "\"LE VAMPIRE\"",
+      "description": "'\"LE VAMPIRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-vampire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "le-vin-de-l-assassin",
+      "type": "chapter",
+      "label": "\"LE VIN DE L'ASSASSIN\"",
+      "description": "'\"LE VIN DE L''ASSASSIN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-vin-de-l-assassin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        }
+      ]
+    },
+    {
+      "id": "le-vin-des-amants",
+      "type": "chapter",
+      "label": "\"LE VIN DES AMANTS\"",
+      "description": "'\"LE VIN DES AMANTS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-vin-des-amants",
+      "relations": [
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "paradis"
+        }
+      ]
+    },
+    {
+      "id": "le-vin-des-chiffonniers",
+      "type": "chapter",
+      "label": "\"LE VIN DES CHIFFONNIERS\"",
+      "description": "'\"LE VIN DES CHIFFONNIERS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-vin-des-chiffonniers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        }
+      ]
+    },
+    {
+      "id": "le-vin-du-solitaire",
+      "type": "chapter",
+      "label": "\"LE VIN DU SOLITAIRE\"",
+      "description": "'\"LE VIN DU SOLITAIRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-vin-du-solitaire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "le-voyage",
+      "type": "chapter",
+      "label": "\"LE VOYAGE\"",
+      "description": "'\"LE VOYAGE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:le-voyage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Enfer"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "Rêve"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "paradis"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "jouissance"
+        },
+        {
+          "type": "related",
+          "target": "desire",
+          "label": "Désir"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "evil",
+          "label": "péché"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        }
+      ]
+    },
+    {
+      "id": "les-bijoux",
+      "type": "chapter",
+      "label": "\"LES BIJOUX\"",
+      "description": "'\"LES BIJOUX\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-bijoux",
+      "relations": []
+    },
+    {
+      "id": "les-chats",
+      "type": "chapter",
+      "label": "\"LES CHATS\"",
+      "description": "'\"LES CHATS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-chats",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "amoureux"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "ténèbres"
+        }
+      ]
+    },
+    {
+      "id": "les-deux-bonnes-soeurs",
+      "type": "chapter",
+      "label": "\"LES DEUX BONNES SŒURS\"",
+      "description": "'\"LES DEUX BONNES SŒURS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-deux-bonnes-soeurs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "les-litanies-de-satan",
+      "type": "chapter",
+      "label": "\"LES LITANIES DE SATAN\"",
+      "description": "'\"LES LITANIES DE SATAN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-litanies-de-satan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Satan"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        }
+      ]
+    },
+    {
+      "id": "les-metamorphoses-du-vampire",
+      "type": "chapter",
+      "label": "\"LES METAMORPHOSES DU VAMPIRE\"",
+      "description": "'\"LES METAMORPHOSES DU VAMPIRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-metamorphoses-du-vampire",
+      "relations": []
+    },
+    {
+      "id": "les-petites-vieilles",
+      "type": "chapter",
+      "label": "\"LES PETITES VIEILLES\"",
+      "description": "'\"LES PETITES VIEILLES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-petites-vieilles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Démon"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "La Mort"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "malheur"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        }
+      ]
+    },
+    {
+      "id": "les-phares",
+      "type": "chapter",
+      "label": "\"LES PHARES\"",
+      "description": "'\"LES PHARES\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-phares",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "jesus-christ",
+          "label": "Christ"
+        },
+        {
+          "type": "related",
+          "target": "eugene-delacroix",
+          "label": "Delacroix"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        }
+      ]
+    },
+    {
+      "id": "les-plaintes-d-un-icare",
+      "type": "chapter",
+      "label": "\"LES PLAINTES D'UN ICARE\"",
+      "description": "'\"LES PLAINTES D''UN ICARE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-plaintes-d-un-icare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "les-sept-vieillards",
+      "type": "chapter",
+      "label": "\"LES SEPT VIEILLARDS\"",
+      "description": "'\"LES SEPT VIEILLARDS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:les-sept-vieillards",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "lesbos",
+      "type": "chapter",
+      "label": "\"LESBOS\"",
+      "description": "'\"LESBOS\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:lesbos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mother-figure",
+          "label": "Mère"
+        },
+        {
+          "type": "related",
+          "target": "venus",
+          "label": "Vénus"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "lesbos-island",
+      "type": "place",
+      "label": "Lesbos",
+      "description": "'The Greek island celebrated by Baudelaire as a utopia of female same-sex desire — the condemned poem \"Lesbos\" (1857) made the island a symbol of erotic liberty and the costs of artistic censorship.'",
+      "aliases": [
+        "Λέσβος",
+        "Lesvos",
+        "Mytilene",
+        "Island of Lesbos",
+        "莱斯博斯岛"
+      ],
+      "tags": [
+        "mythological",
+        "sappho",
+        "erotic",
+        "condemned-poems",
+        "greece"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:lesbos-island",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "Lesbos"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "'In Baudelaire''s poetry, love is a dual force — both redemptive and destructive, sacred and profane, drawing the poet toward the ideal while binding him to the flesh.'",
+      "aliases": [
+        "Amour",
+        "L'Amour",
+        "amoureux"
+      ],
+      "tags": [
+        "love",
+        "passion",
+        "eroticism",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "le-vampire",
+          "label": "Le Vampire"
+        },
+        {
+          "type": "related",
+          "target": "les-bijoux",
+          "label": "Les Bijoux"
+        },
+        {
+          "type": "related",
+          "target": "chanson-d-apres-midi",
+          "label": "Chanson d'Après-Midi"
+        }
+      ]
+    },
+    {
+      "id": "madrigal-triste",
+      "type": "chapter",
+      "label": "\"MADRIGAL TRISTE\"",
+      "description": "'\"MADRIGAL TRISTE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:madrigal-triste",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "angoisse"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "volupté"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Enfer"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "type": "concept",
+      "label": "Memory",
+      "description": "'In Baudelaire, Memory (souvenir/mémoire) is both a torment and a treasure — the faculty that preserves beauty against time yet also the source of the bitterest pain, as the remembered past indicts the impoverished present.'",
+      "aliases": [
+        "Souvenir",
+        "Mémoire",
+        "remembrance",
+        "recollection"
+      ],
+      "tags": [
+        "memory",
+        "souvenir",
+        "past",
+        "time",
+        "melancholy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:memory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "le-flacon",
+          "label": "Le Flacon"
+        },
+        {
+          "type": "related",
+          "target": "la-cloche-felee",
+          "label": "La Cloche Fêlée"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "miroir",
+      "type": "concept",
+      "label": "Miroir",
+      "description": "'In Baudelaire''s poetry, the mirror (miroir) is an instrument of dark revelation — it reflects not the surface of things but their hidden truth, revealing the self as fragmented, the world as a hall of distorted doubles, and beauty as a fleeting surface over an abyss.'",
+      "aliases": [
+        "Miroir",
+        "mirror",
+        "mirrors",
+        "looking-glass",
+        "reflection"
+      ],
+      "tags": [
+        "mirror",
+        "reflection",
+        "self-knowledge",
+        "duality",
+        "illusion",
+        "spleen"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:miroir",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "l-homme-et-la-mer",
+          "label": "L'Homme et la Mer"
+        },
+        {
+          "type": "related",
+          "target": "la-beaute",
+          "label": "La Beauté"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "l-heautontimoroumenos",
+          "label": "L'Héautontimorouménos"
+        },
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "Lesbos"
+        }
+      ]
+    },
+    {
+      "id": "mother-figure",
+      "type": "person",
+      "label": "Mother Figure",
+      "description": "'A complex and ambivalent figure in Baudelaire''s poetry — the mother represents both the origin of the poet''s suffering and a lost paradise of unconditional love, embodying the duality that structures the entire collection.'",
+      "aliases": [
+        "Mère",
+        "La Mère",
+        "maternal figure"
+      ],
+      "tags": [
+        "mother",
+        "family",
+        "psychology",
+        "love",
+        "suffering"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:mother-figure",
+      "relations": []
+    },
+    {
+      "id": "music",
+      "type": "concept",
+      "label": "Music",
+      "description": "'In Baudelaire''s poetic universe, music (la musique) is the supreme synesthetic medium — a force that transports the soul like the sea, bridges the material and the spiritual through correspondances, and serves as the acoustic model for poetry itself.'",
+      "aliases": [
+        "Musique",
+        "La Musique",
+        "Música"
+      ],
+      "tags": [
+        "music",
+        "synesthesia",
+        "correspondances",
+        "sea",
+        "voyage",
+        "transcendence",
+        "baudelairean-aesthetics"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:music",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-musique",
+          "label": "La Musique"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "Tout Entière"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie Antérieure"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "Spleen"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-du-solitaire",
+          "label": "Le Vin du Solitaire"
+        }
+      ]
+    },
+    {
+      "id": "mystery",
+      "type": "concept",
+      "label": "Mystery",
+      "description": "'In Baudelaire''s symbolic universe, mystery (le mystère) is not a puzzle to be solved but the fundamental condition of existence — the world is a \"forest of symbols\" whose meaning is always partially hidden, and the poet''s task is not to dispel mystery but to deepen it.'",
+      "aliases": [
+        "Mystère",
+        "mystères",
+        "le mystère",
+        "mystique"
+      ],
+      "tags": [
+        "mystery",
+        "symbolism",
+        "correspondences",
+        "the sacred",
+        "nature",
+        "transcendence"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:mystery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-phares",
+          "label": "Les Phares"
+        },
+        {
+          "type": "related",
+          "target": "l-ennemi",
+          "label": "L'Ennemi"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie Antérieure"
+        },
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "Tout Entière"
+        },
+        {
+          "type": "related",
+          "target": "le-couvercle",
+          "label": "Le Couvercle"
+        },
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "Lesbos"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "nature"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        }
+      ]
+    },
+    {
+      "id": "mystique",
+      "type": "concept",
+      "label": "Mystique",
+      "description": "'The Baudelairean mystique is not religious mysticism but a poetic mode of perception in which the boundaries between self and world, sense and sense, matter and spirit dissolve into a \"mystical metamorphosis\" — the fleeting experience of unity that art exists to capture.'",
+      "aliases": [
+        "Mystique",
+        "Le Mystique",
+        "Mystical",
+        "Mística",
+        "Mystisch"
+      ],
+      "tags": [
+        "mysticism",
+        "transcendence",
+        "correspondances",
+        "synesthesia",
+        "spirituality",
+        "fusion",
+        "the-sacred"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:mystique",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie Antérieure"
+        },
+        {
+          "type": "related",
+          "target": "un-fantome",
+          "label": "Un Fantôme"
+        },
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "Tout Entière"
+        },
+        {
+          "type": "related",
+          "target": "les-chats",
+          "label": "Les Chats"
+        },
+        {
+          "type": "related",
+          "target": "la-mort-des-pauvres",
+          "label": "La Mort des Pauvres"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "type": "concept",
+      "label": "Nature",
+      "description": "'In Baudelaire, Nature is a \"temple\" and a \"forest of symbols\" — not a Romantic escape but a coded text that only the poet can read. It is the theater of correspondences, where the visible world reveals, through symbols, the invisible order of the Ideal.'",
+      "aliases": [
+        "Natural world",
+        "the natural",
+        "physical nature"
+      ],
+      "tags": [
+        "nature",
+        "correspondences",
+        "symbolism",
+        "ideal",
+        "beauty"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:nature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie Antérieure"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        }
+      ]
+    },
+    {
+      "id": "neant",
+      "type": "concept",
+      "label": "Néant",
+      "description": "'Baudelaire''s néant (nothingness) is not mere emptiness but an aestheticized void — a seductive, \"madly adorned\" non-being that calls to the suffering soul as both terror and temptation, the ultimate object of the death-drive that runs through Les Fleurs du Mal.'",
+      "aliases": [
+        "Néant",
+        "Le Néant",
+        "Nothingness",
+        "Nada",
+        "Nichts",
+        "The Void"
+      ],
+      "tags": [
+        "nothingness",
+        "void",
+        "death",
+        "abyss",
+        "annihilation",
+        "spleen",
+        "despair",
+        "temptation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:neant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "Le Gouffre"
+        },
+        {
+          "type": "related",
+          "target": "le-jeu",
+          "label": "Le Jeu"
+        },
+        {
+          "type": "related",
+          "target": "danse-macabre",
+          "label": "Danse Macabre"
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "type": "concept",
+      "label": "Night",
+      "description": "'The privileged temporal setting of Baudelaire''s poetry — night is the hour of dreams, desire, and heightened perception, when the quotidian world recedes and the poet''s inner vision takes over.'",
+      "aliases": [
+        "Nuit",
+        "La Nuit",
+        "nocturne",
+        "ténèbres"
+      ],
+      "tags": [
+        "night",
+        "darkness",
+        "mystery",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:night",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        },
+        {
+          "type": "related",
+          "target": "recueillement",
+          "label": "Recueillement"
+        },
+        {
+          "type": "related",
+          "target": "le-soleil",
+          "label": "Le Soleil"
+        }
+      ]
+    },
+    {
+      "id": "original-sin",
+      "type": "event",
+      "label": "Original Sin",
+      "description": "'The theological event that structures Baudelaire''s entire poetic universe — original sin is the Fall that explains why beauty is inseparable from evil, why pleasure tends toward damnation, and why the poet is marked from birth.'",
+      "aliases": [
+        "Péché Originel",
+        "La Chute",
+        "Fall of Man",
+        "原罪"
+      ],
+      "tags": [
+        "sin",
+        "theology",
+        "fall",
+        "eden",
+        "christianity"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:original-sin",
+      "relations": []
+    },
+    {
+      "id": "paradise",
+      "type": "concept",
+      "label": "Paradise",
+      "description": "'The Baudelairean Paradise — both the lost Eden of innocence and the artificial paradise manufactured through intoxication, art, and erotic transport, always shadowed by the knowledge of its own artifice.'",
+      "aliases": [
+        "Paradis",
+        "Paradis Artificiel",
+        "Artificial Paradise",
+        "Heaven"
+      ],
+      "tags": [
+        "paradise",
+        "artificial-paradise",
+        "intoxication",
+        "transcendence",
+        "spleen",
+        "ideal"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:paradise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-amants",
+          "label": "Le Vin des Amants"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "'The capital of the nineteenth century — Baudelaire''s Paris is simultaneously a real city undergoing Haussmann''s transformation and a symbolic landscape of exile, crowds, and the shock experience of modernity.'",
+      "aliases": [
+        "Paris",
+        "巴黎",
+        "Lutèce"
+      ],
+      "tags": [
+        "paris",
+        "urban",
+        "modernity",
+        "haussmann",
+        "capital"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "les-sept-vieillards",
+          "label": "Les Sept Vieillards"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        },
+        {
+          "type": "related",
+          "target": "le-jeu",
+          "label": "Le Jeu"
+        }
+      ]
+    },
+    {
+      "id": "passion",
+      "type": "concept",
+      "label": "Passion",
+      "description": "'In Baudelaire, passion (la passion) is a double-edged force — at once the vital fire of creative energy and a \"terrible\" destructive power that consumes the soul, linked inextricably to suffering, sin, and the erotic.'",
+      "aliases": [
+        "Passion",
+        "passions",
+        "la passion"
+      ],
+      "tags": [
+        "passion",
+        "love",
+        "desire",
+        "suffering",
+        "intensity",
+        "duality"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:passion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "chanson-d-apres-midi",
+          "label": "Chanson d'Après-Midi"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-d-automne",
+          "label": "Sonnet d'Automne"
+        },
+        {
+          "type": "related",
+          "target": "la-musique",
+          "label": "La Musique"
+        },
+        {
+          "type": "related",
+          "target": "le-jeu",
+          "label": "Le Jeu"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "sin"
+        }
+      ]
+    },
+    {
+      "id": "perfume",
+      "type": "concept",
+      "label": "Perfume",
+      "description": "'In Baudelaire''s poetics, perfume (parfum) is the supreme sense — the most spiritually potent of all sensory experiences, the medium through which memory, desire, and transcendence converge in the theory of correspondances.'",
+      "aliases": [
+        "Parfum",
+        "Parfums",
+        "fragrance",
+        "scent"
+      ],
+      "tags": [
+        "perfume",
+        "synesthesia",
+        "senses",
+        "correspondances",
+        "beauty"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:perfume",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "tout-entiere",
+          "label": "Tout Entière"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "un-voyage-a-cythere",
+          "label": "Un Voyage à Cythère"
+        },
+        {
+          "type": "related",
+          "target": "les-metamorphoses-du-vampire",
+          "label": "Les Métamorphoses du Vampire"
+        }
+      ]
+    },
+    {
+      "id": "pleasure",
+      "type": "concept",
+      "label": "Pleasure",
+      "description": "'A fleeting and ambivalent experience in Baudelaire''s poetry — pleasure is intensely pursued yet always shadowed by its own transience, guilt, and the knowledge that satisfaction is the death of desire.'",
+      "aliases": [
+        "Plaisir",
+        "Le Plaisir",
+        "jouissance",
+        "volupté"
+      ],
+      "tags": [
+        "pleasure",
+        "sensuality",
+        "hedonism",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:pleasure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-bijoux",
+          "label": "Les Bijoux"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "poet",
+      "type": "concept",
+      "label": "Poet",
+      "description": "'In Baudelaire''s poetic universe, the poet (le poète) is a consecrated yet cursed figure — at once the prince of the clouds, the enemy of the world, and the interpreter of nature''s sacred language.'",
+      "aliases": [
+        "Poète",
+        "le poète",
+        "poëte"
+      ],
+      "tags": [
+        "poet",
+        "artist",
+        "albatross",
+        "exile",
+        "genius",
+        "calling",
+        "suffering"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:poet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-albatros",
+          "label": "L'Albatros"
+        },
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "la-beaute",
+          "label": "La Beauté"
+        },
+        {
+          "type": "related",
+          "target": "tristesse-de-la-lune",
+          "label": "Tristesse de la Lune"
+        },
+        {
+          "type": "related",
+          "target": "le-soleil",
+          "label": "Le Soleil"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "Spleen"
+        },
+        {
+          "type": "related",
+          "target": "ideal",
+          "label": "ideal"
+        },
+        {
+          "type": "related",
+          "target": "art",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "exile",
+          "label": "exile"
+        }
+      ]
+    },
+    {
+      "id": "preface",
+      "type": "chapter",
+      "label": "\"PRÉFACE\"",
+      "description": "'\"PRÉFACE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:preface",
+      "relations": [
+        {
+          "type": "related",
+          "target": "charles-baudelaire",
+          "label": "Charles Baudelaire"
+        },
+        {
+          "type": "related",
+          "target": "evil",
+          "label": "Mal"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "eugene-delacroix",
+          "label": "Delacroix"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "pride",
+      "type": "concept",
+      "label": "Pride",
+      "description": "'In Baudelaire''s moral universe, pride (orgueil) is the Satanic virtue — the Luciferian refusal to bow, the dignity of the damned, and the indispensable fuel of artistic creation that transforms suffering into glory.'",
+      "aliases": [
+        "Orgueil",
+        "orgueil",
+        "l'orgueil"
+      ],
+      "tags": [
+        "pride",
+        "satanism",
+        "rebellion",
+        "art",
+        "damnation",
+        "dignity"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:pride",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "les-chats",
+          "label": "Les Chats"
+        },
+        {
+          "type": "related",
+          "target": "le-rebelle",
+          "label": "Le Rebelle"
+        },
+        {
+          "type": "related",
+          "target": "abel-et-cain",
+          "label": "Abel et Caïn"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "priere",
+      "type": "chapter",
+      "label": "\"PRIÉRE\"",
+      "description": "'\"PRIÉRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:priere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Satan"
+        },
+        {
+          "type": "related",
+          "target": "heaven",
+          "label": "Ciel"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Enfer"
+        }
+      ]
+    },
+    {
+      "id": "recueillement",
+      "type": "chapter",
+      "label": "\"RECUEILLEMENT\"",
+      "description": "'\"RECUEILLEMENT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:recueillement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Douleur"
+        },
+        {
+          "type": "related",
+          "target": "pleasure",
+          "label": "Plaisir"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        }
+      ]
+    },
+    {
+      "id": "remords-posthume",
+      "type": "chapter",
+      "label": "\"REMORDS POSTHUME\"",
+      "description": "'\"REMORDS POSTHUME\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:remords-posthume",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "remorse",
+      "type": "concept",
+      "label": "Remorse",
+      "description": "'The Baudelairean Remords — a personified, predatory conscience that feeds on past actions, lingering long after sin has been committed, more durable than pleasure and more intimate than any external judge.'",
+      "aliases": [
+        "Remords",
+        "Le Remords",
+        "Repentir",
+        "Repentance"
+      ],
+      "tags": [
+        "remorse",
+        "guilt",
+        "conscience",
+        "sin",
+        "memory",
+        "suffering"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:remorse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "l-irreparable",
+          "label": "L'Irréparable"
+        },
+        {
+          "type": "related",
+          "target": "le-flacon",
+          "label": "Le Flacon"
+        },
+        {
+          "type": "related",
+          "target": "l-heautontimoroumenos",
+          "label": "L'Héautontimorouménos"
+        },
+        {
+          "type": "related",
+          "target": "le-poison",
+          "label": "Le Poison"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "rire",
+      "type": "concept",
+      "label": "Rire",
+      "description": "'In Baudelaire''s thought, laughter (le rire) is a fundamentally satanic phenomenon — the expression of human superiority and fallenness, ranging from the mocking grin of the demon to the innocent smile forever lost to adult consciousness.'",
+      "aliases": [
+        "Rire",
+        "laugh",
+        "laughter",
+        "le rire",
+        "sourire",
+        "smile"
+      ],
+      "tags": [
+        "laughter",
+        "satire",
+        "demonic",
+        "mockery",
+        "grotesque",
+        "spleen"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:rire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        },
+        {
+          "type": "related",
+          "target": "le-jeu",
+          "label": "Le Jeu"
+        },
+        {
+          "type": "related",
+          "target": "danse-macabre",
+          "label": "Danse Macabre"
+        },
+        {
+          "type": "related",
+          "target": "le-beau-navire",
+          "label": "Le Beau Navire"
+        }
+      ]
+    },
+    {
+      "id": "satan",
+      "type": "concept",
+      "label": "Satan",
+      "description": "'The tragic anti-hero of Baudelaire''s theological imagination — Satan represents rebellion against divine authority, the embrace of knowledge over obedience, and the dark source of creative and erotic energy.'",
+      "aliases": [
+        "Satan",
+        "Le Diable",
+        "Démon",
+        "Lucifer"
+      ],
+      "tags": [
+        "satan",
+        "demon",
+        "evil",
+        "rebellion",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:satan",
+      "relations": [
+        {
+          "type": "related",
+          "target": "les-litanies-de-satan",
+          "label": "Les Litanies de Satan"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "type": "concept",
+      "label": "Sea",
+      "description": "'In Baudelaire''s poetry, the sea (la mer) is the supreme symbol of freedom and the infinite — at once a mirror for the soul, a refuge from the prison of the world, and the element of escape that the free man cherishes above all else.'",
+      "aliases": [
+        "Mer",
+        "la mer",
+        "l'océan",
+        "mers"
+      ],
+      "tags": [
+        "sea",
+        "freedom",
+        "infinity",
+        "mirror",
+        "nature",
+        "voyage"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-homme-et-la-mer",
+          "label": "L'Homme et la Mer"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "la-chevelure",
+          "label": "La Chevelure"
+        },
+        {
+          "type": "related",
+          "target": "sed-non-satiata",
+          "label": "Sed non satiata"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "sed-non-satiata",
+      "type": "chapter",
+      "label": "\"SED NON SATIATA\"",
+      "description": "'\"SED NON SATIATA\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:sed-non-satiata",
+      "relations": [
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "souffrance"
+        }
+      ]
+    },
+    {
+      "id": "semper-eadem",
+      "type": "chapter",
+      "label": "\"SEMPER EADEM\"",
+      "description": "'\"SEMPER EADEM\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:semper-eadem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "La Mort"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "songe"
+        }
+      ]
+    },
+    {
+      "id": "sepulture-d-un-poete-maudit",
+      "type": "chapter",
+      "label": "\"SEPULTURE D'UN POETE MAUDIT\"",
+      "description": "'\"SEPULTURE D''UN POETE MAUDIT\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:sepulture-d-un-poete-maudit",
+      "relations": []
+    },
+    {
+      "id": "sin",
+      "type": "concept",
+      "label": "Sin",
+      "description": "'The Baudelairean concept of Sin — not a transgression against divine law but an inescapable condition of human existence, intertwined with beauty, boredom, and the impossibility of innocence in a post-lapsarian world.'",
+      "aliases": [
+        "Péché",
+        "Le Péché",
+        "peccatum",
+        "Faute"
+      ],
+      "tags": [
+        "sin",
+        "original-sin",
+        "theology",
+        "evil",
+        "guilt",
+        "remorse"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:sin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "abel-et-cain",
+          "label": "Abel et Caïn"
+        }
+      ]
+    },
+    {
+      "id": "sisina",
+      "type": "chapter",
+      "label": "\"SISINA\"",
+      "description": "'\"SISINA\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:sisina",
+      "relations": []
+    },
+    {
+      "id": "skeleton",
+      "type": "concept",
+      "label": "Skeleton",
+      "description": "'The skeleton (le squelette) in Baudelaire is the memento mori made fleshless — the universal truth of mortality stripped of all consoling beauty, appearing as both horror and clandestine object of desire in the danse macabre of modern life.'",
+      "aliases": [
+        "Squelette",
+        "le squelette",
+        "squelettes"
+      ],
+      "tags": [
+        "skeleton",
+        "death",
+        "danse-macabre",
+        "memento-mori",
+        "mortality",
+        "decay"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:skeleton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "danse-macabre",
+          "label": "Danse Macabre"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "Spleen"
+        },
+        {
+          "type": "related",
+          "target": "les-metamorphoses-du-vampire",
+          "label": "Les Métamorphoses du Vampire"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beauty"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "type": "concept",
+      "label": "Sleep",
+      "description": "'The Baudelairean Sommeil — both a desired oblivion from the torments of consciousness and a feared abyss in its own right, sleep functions as death''s daily rehearsal, a temporary death that prefigures the permanent one.'",
+      "aliases": [
+        "Sommeil",
+        "Le Sommeil",
+        "Sommeiller",
+        "Dormir"
+      ],
+      "tags": [
+        "sleep",
+        "oblivion",
+        "escape",
+        "death",
+        "consciousness",
+        "night"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:sleep",
+      "relations": [
+        {
+          "type": "related",
+          "target": "de-profundis-clamavi",
+          "label": "De Profundis Clamavi"
+        },
+        {
+          "type": "related",
+          "target": "le-gouffre",
+          "label": "Le Gouffre"
+        },
+        {
+          "type": "related",
+          "target": "la-voix",
+          "label": "La Voix"
+        },
+        {
+          "type": "related",
+          "target": "le-crepuscule-du-soir",
+          "label": "Le Crépuscule du Soir"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "solitude",
+      "type": "concept",
+      "label": "Solitude",
+      "description": "'The Baudelairean experience of radical isolation — solitude as both the poet''s curse and his privileged condition, intensified by the anonymous crowds of the modern city.'",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:solitude",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spleen",
+          "label": "spleen"
+        },
+        {
+          "type": "related",
+          "target": "city",
+          "label": "city"
+        },
+        {
+          "type": "related",
+          "target": "exile",
+          "label": "exile"
+        },
+        {
+          "type": "related",
+          "target": "gouffre",
+          "label": "gouffre"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-d-automne",
+      "type": "chapter",
+      "label": "\"SONNET D'AUTOMNE\"",
+      "description": "'\"SONNET D''AUTOMNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:sonnet-d-automne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "L'Amour"
+        }
+      ]
+    },
+    {
+      "id": "soul",
+      "type": "concept",
+      "label": "Soul",
+      "description": "'The inner spiritual dimension of the self in Baudelaire''s poetry — the soul is the site of the struggle between spleen and ideal, weighed down by sin yet capable of transcendence.'",
+      "aliases": [
+        "Âme",
+        "L'Âme",
+        "esprit"
+      ],
+      "tags": [
+        "soul",
+        "spirit",
+        "psychology",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:soul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        },
+        {
+          "type": "related",
+          "target": "l-homme-et-la-mer",
+          "label": "L'Homme et la Mer"
+        },
+        {
+          "type": "related",
+          "target": "l-ideal",
+          "label": "L'Idéal"
+        }
+      ]
+    },
+    {
+      "id": "spleen",
+      "type": "chapter",
+      "label": "\"SPLEEN\"",
+      "description": "'\"SPLEEN\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:spleen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death",
+          "label": "mortalité"
+        },
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "soul",
+          "label": "esprit"
+        }
+      ]
+    },
+    {
+      "id": "suffering",
+      "type": "concept",
+      "label": "Suffering",
+      "description": "'An inescapable condition in Baudelaire''s poetic universe — suffering is not an accident but a vocation, the price of consciousness and the raw material from which art is made.'",
+      "aliases": [
+        "Douleur",
+        "La Douleur",
+        "souffrance",
+        "malheur",
+        "angoisse"
+      ],
+      "tags": [
+        "suffering",
+        "pain",
+        "anguish",
+        "melancholy",
+        "19th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:suffering",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "recueillement",
+          "label": "Recueillement"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "l-ennemi",
+          "label": "L'Ennemi"
+        }
+      ]
+    },
+    {
+      "id": "tears",
+      "type": "concept",
+      "label": "Tears",
+      "description": "'In Baudelaire''s poetry, tears (les larmes, les pleurs) are the liquid signature of the soul — involuntary witnesses to suffering that cannot be spoken, agents of a strange purification, and the only gift the poet can offer a world that has forgotten how to weep.'",
+      "aliases": [
+        "Larme",
+        "larmes",
+        "pleur",
+        "pleurs",
+        "les pleurs"
+      ],
+      "tags": [
+        "tears",
+        "weeping",
+        "sorrow",
+        "purification",
+        "pity",
+        "melancholy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:tears",
+      "relations": [
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "tristesse-de-la-lune",
+          "label": "Tristesse de la Lune"
+        },
+        {
+          "type": "related",
+          "target": "le-vampire",
+          "label": "Le Vampire"
+        },
+        {
+          "type": "related",
+          "target": "le-mort-joyeux",
+          "label": "Le Mort Joyeux"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "lesbos",
+          "label": "Lesbos"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "exile",
+          "label": "exile"
+        }
+      ]
+    },
+    {
+      "id": "the-muse",
+      "type": "person",
+      "label": "The Muse",
+      "description": "'The goddess of artistic inspiration — for Baudelaire, the Muse is a demanding and often cruel mistress whose gifts of vision come at the price of suffering and social exclusion.'",
+      "aliases": [
+        "La Muse"
+      ],
+      "tags": [
+        "mythological",
+        "classical",
+        "epic"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:the-muse",
+      "relations": []
+    },
+    {
+      "id": "the-poet",
+      "type": "person",
+      "label": "The Poet",
+      "description": "'The archetypal figure at the center of Baudelaire''s poetry — the Poet is visionary and outcast, blessed with heightened sensitivity and cursed with suffering, the medium through whom beauty and truth enter the world.'",
+      "aliases": [
+        "Le Poète",
+        "poète",
+        "poète maudit"
+      ],
+      "tags": [
+        "poet",
+        "archetype",
+        "artist",
+        "accursed-poet"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:the-poet",
+      "relations": []
+    },
+    {
+      "id": "the-trial-of-1857",
+      "type": "event",
+      "label": "The Trial of 1857",
+      "description": "'The obscenity trial that condemned six poems from \"Les Fleurs du Mal\" — the defining public event of Baudelaire''s career, which transformed him from a poet into a martyr of artistic freedom and shaped the collection''s subsequent reception.'",
+      "aliases": [
+        "1857 Trial",
+        "Procès des Fleurs du Mal",
+        "1857 年审判",
+        "Obscenity Trial"
+      ],
+      "tags": [
+        "trial",
+        "censorship",
+        "1857",
+        "prosecution",
+        "legal"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:the-trial-of-1857",
+      "relations": []
+    },
+    {
+      "id": "time",
+      "type": "concept",
+      "label": "Time",
+      "description": "'In Baudelaire, Time (Le Temps) is the supreme antagonist — an impersonal devourer that \"eats life\" and reduces all passion, beauty, and experience to nothing. It is the metaphysical enemy against which Art alone can offer resistance.'",
+      "aliases": [
+        "Temps",
+        "Le Temps",
+        "chronological time",
+        "temporal devourer"
+      ],
+      "tags": [
+        "time",
+        "temps",
+        "mortality",
+        "death",
+        "spleen"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:time",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-ennemi",
+          "label": "L'Ennemi"
+        },
+        {
+          "type": "related",
+          "target": "l-horloge",
+          "label": "L'Horloge"
+        },
+        {
+          "type": "related",
+          "target": "au-lecteur",
+          "label": "Au Lecteur"
+        },
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        }
+      ]
+    },
+    {
+      "id": "tombeau",
+      "type": "concept",
+      "label": "Tombeau",
+      "description": "'In Baudelaire''s poetic universe, the tomb (tombeau) is not merely a site of death but an intimate confidant — the one listener who \"always understands the poet,\" a mirror of mortal truth that transforms horror into a strange, seductive familiarity.'",
+      "aliases": [
+        "Tombeau",
+        "tombe",
+        "tomb",
+        "grave",
+        "sepulcher"
+      ],
+      "tags": [
+        "death",
+        "mortality",
+        "intimacy",
+        "memory",
+        "melancholy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:tombeau",
+      "relations": [
+        {
+          "type": "related",
+          "target": "la-cloche-felee",
+          "label": "La Cloche fêlée"
+        },
+        {
+          "type": "related",
+          "target": "le-mort-joyeux",
+          "label": "Le Mort joyeux"
+        },
+        {
+          "type": "related",
+          "target": "un-voyage-a-cythere",
+          "label": "Un Voyage à Cythère"
+        },
+        {
+          "type": "related",
+          "target": "l-irremediable",
+          "label": "L'Irrémédiable"
+        }
+      ]
+    },
+    {
+      "id": "tout-entiere",
+      "type": "chapter",
+      "label": "\"TOUT ENTIERE\"",
+      "description": "'\"TOUT ENTIERE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:tout-entiere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "satan",
+          "label": "Démon"
+        },
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "divin"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Ange"
+        }
+      ]
+    },
+    {
+      "id": "tristesse-de-la-lune",
+      "type": "chapter",
+      "label": "\"TRISTESSE DE LA LUNE\"",
+      "description": "'\"TRISTESSE DE LA LUNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:tristesse-de-la-lune",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-poet",
+          "label": "poète"
+        }
+      ]
+    },
+    {
+      "id": "un-fantome",
+      "type": "chapter",
+      "label": "\"UN FANTOME\"",
+      "description": "'\"UN FANTOME\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:un-fantome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "night",
+          "label": "Nuit"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "Dieu"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Mort"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "abîme"
+        }
+      ]
+    },
+    {
+      "id": "un-voyage-a-cythere",
+      "type": "chapter",
+      "label": "\"UN VOYAGE A CYTHERE\"",
+      "description": "'\"UN VOYAGE A CYTHERE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:un-voyage-a-cythere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "venus",
+          "label": "Vénus"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "une-charogne",
+      "type": "chapter",
+      "label": "\"UNE CHAROGNE\"",
+      "description": "'\"UNE CHAROGNE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:une-charogne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "beau"
+        }
+      ]
+    },
+    {
+      "id": "une-martyre",
+      "type": "chapter",
+      "label": "\"UNE MARTYRE\"",
+      "description": "'\"UNE MARTYRE\" — Les Fleurs du Mal (1857)'",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "19th-century",
+        "french-poetry"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-flowers-of-evil:une-martyre",
+      "relations": []
+    },
+    {
+      "id": "venus",
+      "type": "person",
+      "label": "Venus",
+      "description": "'The Roman goddess of love and beauty, invoked in Baudelaire''s poetry as a symbol of both classical perfection and the dangerous, pagan dimension of erotic desire.'",
+      "aliases": [
+        "Vénus",
+        "Aphrodite",
+        "Aphrodité",
+        "Cypris"
+      ],
+      "tags": [
+        "mythological",
+        "goddess",
+        "love",
+        "beauty",
+        "classical"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:venus",
+      "relations": []
+    },
+    {
+      "id": "vin",
+      "type": "concept",
+      "label": "Wine",
+      "description": "'A central Baudelairean symbol — wine as artificial paradise, proletarian sacrament, and the alchemical agent that transforms suffering into beauty, spanning the five-poem \"Le Vin\" cycle.'",
+      "aliases": [
+        "Vin",
+        "Le Vin",
+        "ivresse",
+        "intoxication"
+      ],
+      "tags": [
+        "wine",
+        "intoxication",
+        "transcendence",
+        "spleen",
+        "paradise"
+      ],
+      "quality": "featured",
+      "source_ref": "the-flowers-of-evil:vin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "l-ame-du-vin",
+          "label": "L'Âme du Vin"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-chiffonniers",
+          "label": "Le Vin des Chiffonniers"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-de-l-assassin",
+          "label": "Le Vin de l'Assassin"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-du-solitaire",
+          "label": "Le Vin du Solitaire"
+        },
+        {
+          "type": "related",
+          "target": "le-vin-des-amants",
+          "label": "Le Vin des Amants"
+        },
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        }
+      ]
+    },
+    {
+      "id": "volupte",
+      "type": "concept",
+      "label": "Volupté",
+      "description": "'In Baudelaire''s vocabulary, volupté is pleasure elevated beyond the merely physical — a \"saintly\" sensuality that fuses bodily delight with spiritual aspiration, transforming the flesh into a vehicle of transcendence rather than an obstacle to it.'",
+      "aliases": [
+        "Volupté",
+        "volupte",
+        "voluptuousness",
+        "sensual pleasure",
+        "delight"
+      ],
+      "tags": [
+        "pleasure",
+        "sensuality",
+        "transcendence",
+        "mysticism",
+        "eroticism",
+        "ideal"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:volupte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "benediction",
+          "label": "Bénédiction"
+        },
+        {
+          "type": "related",
+          "target": "la-vie-anterieure",
+          "label": "La Vie antérieure"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        },
+        {
+          "type": "related",
+          "target": "les-chats",
+          "label": "Les Chats"
+        },
+        {
+          "type": "related",
+          "target": "hymne",
+          "label": "Hymne"
+        }
+      ]
+    },
+    {
+      "id": "voyage",
+      "type": "concept",
+      "label": "Voyage",
+      "description": "'In Baudelaire''s poetry, the voyage (le voyage) is the archetypal human drive toward the unknown — embodied in the closing masterwork \"Le Voyage,\" where all earthly journeys converge toward the ultimate voyage: death as the passage into the truly new.'",
+      "aliases": [
+        "Voyage",
+        "le voyage",
+        "voyager",
+        "voyageur",
+        "voyageurs"
+      ],
+      "tags": [
+        "voyage",
+        "death",
+        "escape",
+        "exploration",
+        "unknown",
+        "modernity"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:voyage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-voyage",
+          "label": "Le Voyage"
+        },
+        {
+          "type": "related",
+          "target": "l-albatros",
+          "label": "L'Albatros"
+        },
+        {
+          "type": "related",
+          "target": "le-cygne",
+          "label": "Le Cygne"
+        },
+        {
+          "type": "related",
+          "target": "elevation",
+          "label": "Élévation"
+        }
+      ]
+    },
+    {
+      "id": "woman",
+      "type": "concept",
+      "label": "Woman",
+      "description": "'The Baudelairean Femme — an irreducibly ambivalent figure who oscillates between Madonna and witch, divine ideal and carnal trap, the source of poetry and the agent of destruction, embodying the central tension of Baudelaire''s erotic metaphysics.'",
+      "aliases": [
+        "Femme",
+        "La Femme",
+        "Women",
+        "feminine",
+        "féminin"
+      ],
+      "tags": [
+        "woman",
+        "feminine",
+        "eroticism",
+        "beauty",
+        "madonna-whore",
+        "love"
+      ],
+      "quality": "standard",
+      "source_ref": "the-flowers-of-evil:woman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hymne-a-la-beaute",
+          "label": "Hymne à la Beauté"
+        },
+        {
+          "type": "related",
+          "target": "une-charogne",
+          "label": "Une Charogne"
+        },
+        {
+          "type": "related",
+          "target": "le-balcon",
+          "label": "Le Balcon"
+        },
+        {
+          "type": "related",
+          "target": "sed-non-satiata",
+          "label": "Sed Non Satiata"
+        }
+      ]
+    }
+  ]
+}

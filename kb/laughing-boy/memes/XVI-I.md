@@ -1,0 +1,27 @@
+---
+description: "Any married couple, no matter how perfect the match, will undergo a critical period of strain, and these two were no exception. For all t..."
+id: XVI-I
+label: "Part XVI — Chapter 1"
+tags: ["chapter"]
+type: chapter
+---
+
+[016-001] Any married couple, no matter how perfect the match, will undergo a critical period of strain, and these two were no exception. For all the dances, winter was a hemmed-in time; repetitious days indoors were a searching test of companionship. [[slim-girl|Slim Girl]] went into town, [[laughing-boy|Laughing Boy]] sallied forth to watch over the herd; but they moved out of the home atmosphere together only for those eight or nine ceremonies.
+
+[016-002] They were attempting a difficult thing. They needed not only to see occasional outsiders when they were apart, new faces made attractive by the mere fact that they break the sameness, but also the presence of a third person when they were together, that their solitude might retain its value, and their unity refresh itself from the sense of the outsider’s foreignness.
+
+[016-003] This same life, so closely together, will make people unusually sensitive to each other’s moods; sometimes, if they are fond of each other, almost morbidly so. He did not answer that question; perhaps he thinks it was stupid. She handed me that cup of coffee abruptly; perhaps I have offended her in something.
+
+[016-004] They came through it remarkably well, and still deeply in love. But Slim Girl, watching her husband with close attention, felt him change and was troubled. Feeling less sure of herself, she was overcareful, and betrayed more than ever that reserve of something withheld that belonged inevitably to her double life. Each increased the other’s uneasiness; it was a circle.
+
+[016-005] He did not read himself. The melting snows refreshed the pasturage, the grass grew tall. He gathered his scattered horses, shifted them, and watched them fatten. His peach trees grew, his corn was well above the sand. All these were good things, and in each he rejoiced as he enjoyed each detail of his day, the far riding and the loom before the house door, his wife’s talk, the ring of his hammer. Each thing was good, and yet the whole was dull and devoid of savour.
+
+[016-006] Laughing Boy knew well enough that people wore on each other, and that every couple underwent a period of adjustment. He knew that in many households, when the man became seriously restless, his first wife would arrange for him to take a second, to preserve the home. But such was hardly the case here. He was by habit one who faced issues squarely and thought them out tough-mindedly, but now in the back of his head were many thoughts, safely hidden from himself, from which unease, like an infection, flowed through his system.
+
+[016-007] He did not realize that he was studying his wife critically, as one might an opponent. Once or twice, to his own surprise, he caught himself about to become annoyed with her over little or nothing; once or twice, away from her, building up a quite unreasonable sense of wrong. Then he would be disgusted with himself, and alarmed. The process was really natural enough; being profoundly dissatisfied with something in her which he refused to recognize, the feeling sought to give itself outlet by picking causes of annoyance which could be admitted.
+
+[016-008] She had always foreseen a period of difficulty and settling down, and was prepared to adapt herself to it, but now she did not know what was needed. She thought she was sophisticated, she thought she knew all about men, and all about herself. She thought she had penetrated to the ultimate truth. She knew only a little of life, not all of herself, and of men there was a half which she knew through and through, and a half which she was just beginning to discover. She wondered if the time had come at last to give up her American and go North. But this was a bad year for them; wool, and hence the sheep which they would have to buy, had risen, while horses, blankets, and jewelry sold badly. The tourists were unusually few. And here she had her one sure source of income.
+
+[016-009] Then she had a fatal thought. She was learning, from herself and from Laughing Boy, how much more there is to love than what is covered by its lowest terms. She was thinking things out by herself—particularly when she was weaving—like a philosopher. With the realization of the other things that are needed to make love worthy of itself, the bare fact that her husband and herself were in love with each other ceased to be sufficient. She wondered if, by falling in love when she had thought to make a deliberate choice, she had really known what she was doing. She wondered if life with this man, who was sometimes silent and strange, sometimes stupid, and sometimes irritating, might not be dismal in that wild homeland of his.
+
+[016-010] She did not really believe in her own doubt; it was purely an intellectual concept; but the dominant motive in her life for so many years had been the determination to move coolly towards a predetermined, sure success. Had she studied Napoleon in that California school, she would have admired him, and she might have been warned by him. Now, looking back on her past triumphs, she decided to wait until she made surely sure. Just a few months more, a year at the most, and George was making a lot of money in sheep. Some of that would come in handy.

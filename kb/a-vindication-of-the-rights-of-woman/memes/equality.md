@@ -1,105 +1,77 @@
 ---
+description: "Wollstonecraft's argument that social and moral equality between the sexes is the foundation of virtue, happiness, and a just society — contrasted with the artificial inequality produced by education, prejudice, and hereditary privilege."
 id: equality
-label: Equality
+label: "Equality"
+tags: ["concept", "politics"]
 type: concept
-description: "The principle that women and men share the same rational nature and therefore deserve equal rights, education, and moral standing — a foundational claim of Wollstonecraft's argument"
-tags: ["ethics", "politics", "enlightenment", "gender", "rights"]
 ---
-
-# Equality
-
-In _[[A Vindication of the Rights of Woman]]_, **equality** is both a premise and a demand. [[Mary Wollstonecraft]] argues that women and men share the same rational nature and are therefore equal in their capacity for [[Virtue]].
-
-From this shared nature she derives the demand for equality in law, education, and custom. Equality is not a claim about physical sameness but about moral standing — the "natural equality of man" (013-064). The term connects her arguments about [[Education]], [[Rights]], and [[Marriage]] across 14 passages.
 
 ## Definition
 
-Wollstonecraft grounds equality in universalist anthropology: all human beings share the same fundamental nature as rational creatures. From this shared nature flow equal claims to rights and moral consideration:
+Equality, for Mary Wollstonecraft, is not merely a political ideal but a moral necessity. She frames the "contested question respecting the equality and inferiority of the sex" (P03-003) as central to her entire argument. For Wollstonecraft, equality is the [[nature|natural]] condition of rational beings: all humans possess [[reason]], and [[reason]] does not admit of sexual distinction. The inequality she observes in society is therefore artificial — the product of [[education]] systems designed to cultivate [[sensibility]] in women rather than [[knowledge|understanding]], and of political structures that concentrate power in the hands of a few.
 
-> "There must be more equality established in society, or morality will never gain ground." (009-002)
+Wollstonecraft's conception of equality is fundamentally linked to [[virtue]]. She argues that "the more equality there is established among men, the more [[virtue]] and [[happiness]] will reign in society" (001-022). This is not a call for levelling all distinctions, but an insistence that moral and intellectual development must be open to all regardless of sex or rank.
 
-Equality is a practical necessity: without it, morality itself is impossible. Morality depends on the free exercise of reason, and a being held in subjection cannot reason freely.
+## In Context
 
-> "It is not empire — but equality, that they should contend for." (005-105)
+Equality appears most prominently in the Introduction and the later chapters on [[education]] (Chapters XII–XIII). In the Introduction, Wollstonecraft engages the "contested question" of sexual equality directly, acknowledging physical differences between the sexes while rejecting the inference that these differences justify moral or intellectual subordination (P03-003). She returns to the theme in Chapter I when critiquing hereditary power, observing that "all power intoxicates weak man; and its abuse proves, that the more equality there is established among men, the more [[virtue]] and [[happiness]] will reign in society" (001-022).
 
-Wollstonecraft does not call for women ruling over men. She calls for the elimination of arbitrary power altogether. Equality means the absence of domination, not its redistribution.
+The concept receives its most sustained treatment in Chapter XII, where Wollstonecraft argues that "equality is the basis" of a happy marriage (012-004) and that children should be educated "on terms of equality" (012-009). She envisions a society "of which equality was the basis" (012-049) and insists that only "by the jostlings of equality can we form a just opinion of ourselves" (012-067). In Chapter XIII she extends the argument beyond domestic life, declaring that "till more equality be established in society, till ranks are confounded and women freed, we shall not see that dignified domestic [[happiness]]" (013-076).
 
-## Wollstonecraft's Argument
+Wollstonecraft also critiques the way women are taught to manipulate rather than claim equality, observing how a wife "preserves her equality, and governs him while she affects to obey" (005-033) — a form of cunning rather than genuine moral equality.
 
-### The Natural Equality of Man
+### Equality and the Degendering of Virtue
 
-Society has departed from the natural condition of equality. Hierarchy is a corruption, not an expression, of human nature:
-
-> "They must return to nature and equality, if they wish to secure the placid satisfaction that unsophisticated affections impart." (002-015)
-
-"Return to nature and equality" positions equality as the baseline to which humanity must restore itself. This is a Rousseau-influenced move, but Wollstonecraft turns it against Rousseau's own conclusions about women.
-
-### Equality as the Basis of Social Relations
-
-Equality must govern all social institutions — not only politics but relations between sexes, ranks, and generations:
-
-> "Of these, equality is the basis, and an intercourse of sentiments will render the heart more enlarged." (012-003)
-
-Where equality is absent, servility grows on one side and tyranny on the other. Neither party can develop genuine virtue under such conditions.
-
-### Equality in Education
-
-The most concrete application of Wollstonecraft's equality argument is in [[Education]]. She advocates for coeducation:
-
-> "Spend part of their time, on terms of equality, with other children." (012-008)
-
-Boys and girls educated together, following the same curriculum — this was radical in 1792. It follows directly from natural equality: equal minds deserve equal cultivation.
+Wollstonecraft's argument for equality is inseparable from her argument about [[virtue]]. If virtue requires the exercise of one's own [[reason]], and if women possess reason equally with men, then the social arrangements that deny women the cultivation of reason are not merely inconvenient but morally indefensible. "The more equality there is established among men, the more virtue and happiness will reign in society" (001-022). This claim is both descriptive and normative: inequality corrupts both the powerful and the powerless, while equality creates the conditions for genuine moral development. Wollstonecraft's insight is that equality is not a reward for virtue but its precondition — you cannot demand that women be virtuous while simultaneously denying them the [[education]], [[independence]], and social standing that make virtue possible.
 
 ### The Jostlings of Equality
 
-Wollstonecraft adds a psychological argument: equality is necessary for accurate self-knowledge:
+In Chapter XII, Wollstonecraft offers a striking metaphor: "only by the jostlings of equality can we form a just opinion of ourselves" (012-067). The image is deliberately physical and democratic — equality is not a serene state of perfect balance but a dynamic, sometimes uncomfortable process of mutual correction. Just as individuals need honest feedback from equals to develop accurate self-[[knowledge]], a society needs the friction of equal relations to develop just institutions. This is why hierarchy is epistemically as well as morally damaging: those at the top, insulated from correction by flatterers, lose the capacity for accurate self-assessment; those at the bottom, denied the opportunity to speak truth to power, lose the capacity for independent [[judgment]]. Equality, in Wollstonecraft's vision, is not merely a political ideal but the necessary condition for any society that claims to value [[truth]].
 
-> "For only by the jostlings of equality can we form a just opinion of ourselves." (012-076)
+### Equality as the Basis of Marriage
 
-Inequality distorts self-knowledge for both parties. The master, flattered by deference, cannot know his limits. The servant, habituated to submission, cannot discover her capacities.
+Wollstonecraft extends her argument into the domestic sphere: "Of these, equality is the basis, and an intercourse of sentiments unclogged by that observant seriousness which prevents disputation, though it may not enforce submission" (012-004). This reimagining of marriage as a relation between equals — rather than a hierarchy of command and obedience — is among her most radical proposals. A marriage based on equality would foster genuine [[friendship]] and mutual [[respect]] rather than the artificial dynamics of [[gallantry]] and submission that characterized eighteenth-century companionate marriage. "Till more equality be established in society, till ranks are confounded and women freed, we shall not see that dignified domestic happiness" (013-076).
+
+### Equality in Education
+
+Wollstonecraft's argument for equality is inseparable from her argument for educational reform. She insists that "both sexes must act from the same principle; but how can that be expected when only one is allowed to see the reasonableness of it?" (012-068). The education system she proposes is explicitly egalitarian: "Would not this simple elegance of mind be a living comment on that grand simple maxim, that 'whatever is, is right'?" (012-034). National education should be co-educational from the start, with "boys and girls, the rich and poor" meeting together in "day schools for particular ages" that "should be established by government" (012-044). The goal is not merely to give women access to [[knowledge]] but to create a society in which "both sexes must act from the same principle" (012-068) — to "render the social compact truly equitable" (012-068).
 
 ## Key Passages
 
-> "There must be more equality established in society, or morality will never gain ground." (009-002)
+> "In the government of the physical world, it is observable that the female, in general, is inferior to the male. The male pursues, the female yields — this is the law of nature; and it does not appear to be suspended or abrogated in favour of woman. This physical superiority cannot be denied — and it is a noble prerogative! But not content with this natural preeminence, men endeavour to sink us still lower, merely to render us alluring objects for a moment." (P03-003)
 
-> "It is not empire — but equality, that they should contend for." (005-105)
+> "...all power intoxicates weak man; and its abuse proves, that the more equality there is established among men, the more virtue and happiness will reign in society." (001-022)
 
-> "They must return to nature and equality, if they wish to secure the placid satisfaction that unsophisticated affections impart." (002-015)
+> "Of these, equality is the basis, and an intercourse of good offices, without any desire to usurp power over each other, the chief support." (012-004)
 
-> "Of these, equality is the basis, and an intercourse of sentiments will render the heart more enlarged." (012-003)
+> "...for only by the jostlings of equality can we form a just opinion of ourselves." (012-067)
 
-> "For only by the jostlings of equality can we form a just opinion of ourselves." (012-076)
+> "But, till more equality be established in society, till ranks are confounded and women freed, we shall not see that dignified domestic happiness, that simplicity of manners, and that genuine virtue, which distinguish the golden age." (013-076)
 
-> "Till more equality be established in society, till the sexes meet on a wider field." (013-070)
+## Related Concepts
 
-### Equality Across the Vindication
+- [[rights]] — equality is the foundation of the rights Wollstonecraft claims for women
+- [[virtue]] — genuine [[virtue]] cannot exist without equality, as hierarchy corrupts both the powerful and the powerless
+- [[education]] — unequal [[education]] is the primary mechanism by which artificial inequality is produced and maintained
+- [[reason]] — the universal faculty that grounds Wollstonecraft's argument for equality
+- [[marriage]] — Wollstonecraft critiques marriage as a relation of inequality and proposes [[friendship]] based on equality as the ideal
+- [[tyranny]] — inequality in the domestic sphere produces tyranny, just as [[tyranny|despotism]] does in the political sphere
 
-| Context | Key Claim | PN |
-|---------|-----------|-----|
-| Moral necessity | Without equality "morality will never gain ground" | 009-002 |
-| Against domination | "Not empire — but equality" | 005-105 |
-| Return to nature | "Return to nature and equality" | 002-015 |
-| Social basis | "Equality is the basis" of enlarged social intercourse | 012-003 |
-| Self-knowledge | Only "jostlings of equality" yield just self-opinion | 012-076 |
-| Future vision | "Till more equality be established" | 013-070 |
+## Related Persons
 
-## Relationship to Other Concepts
+- [[rousseau|Jean-Jacques Rousseau]] — Wollstonecraft's primary antagonist on questions of [[character|sexual character]] and equality; she argues against his claim that women are [[nature|natural]]ly subordinate
+- [[charles-maurice-de-talleyrand-perigord|Charles-Maurice de Talleyrand-Périgord]] — the dedicatee of the *Vindication*, whose report on public [[education]] ignored women's claims to equal [[education|instruction]]
 
-Equality is the structural condition that makes [[Rights]] meaningful and [[Virtue]] possible. Without equality, rights are formal concessions, and virtue is reduced to servile imitation.
+## Supplementary Passages
 
-Equality opposes the arbitrary [[Power]] Wollstonecraft critiques in political and domestic life. The doctrine of separate spheres maintains inequality under the appearance of complementarity.
+> "In the government of the physical world, it is observable that the female, in general, is inferior to the male. The male pursues, the female yields — this is the law of nature; and it does not appear to be suspended or abrogated in favour of woman. This physical superiority cannot be denied — and it is a noble prerogative! But not content with this natural preeminence, men endeavour to sink us still lower, merely to render us alluring objects for a moment." (P03-003)
 
-Equality connects to [[Education]]: coeducation in Chapter 12 is her most concrete institutional vision. And to [[Marriage]]: a marriage between equals is friendship; between unequals, it approaches "legal prostitution" (009-032).
+> "All power intoxicates weak man; and its abuse proves, that the more equality there is established among men, the more virtue and happiness will reign in society." (001-022)
 
-## See Also
+> "Of these, equality is the basis, and an intercourse of good offices, without any desire to usurp power over each other, the chief support." (012-004)
 
-- [[Rights]]
-- [[Virtue]]
-- [[Education]]
-- [[Reason]]
-- [[Marriage]]
-- [[Power]]
-- [[Independence]]
-- [[Liberty]]
-- [[French Revolution]]
-- [[Mary Wollstonecraft]]
+> "For only by the jostlings of equality can we form a just opinion of ourselves." (012-067)
+
+> "Till more equality be established in society, till ranks are confounded and women freed, we shall not see that dignified domestic happiness, that simplicity of manners, and that genuine virtue, which distinguish the golden age." (013-076)
+
+> "Strengthen the female mind by enlarging it, and there will be an end to blind obedience." (002-074)

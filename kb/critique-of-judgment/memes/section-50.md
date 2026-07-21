@@ -1,0 +1,17 @@
+---
+description: §50 from Part I of Critique of Judgment.
+id: section-50
+label: '§ 50: Of the combination of Taste with Genius in'
+tags: ["chapter"]
+type: chapter
+---
+
+[050-001]the products of beautiful Art
+
+[050-002]To ask whether it is more important for the things of beautiful art that [[genius|Genius]] or [[taste|Taste]] should be displayed, is the same as to ask whether in it more depends on Imagination or on Judgement.
+
+[050-003]Now, since in respect of the first an art is rather said to befull of spirit, but only deserves to be called abeautifulart on account of the second; this latter is at least, as its indispensable condition (conditio sine qua non), the most important thing to which one has to look in the judging of art as beautiful art. Abundance and originality of Ideas are less necessary to beauty than the accordance of the Imagination in its freedom with the conformity to law of the Understanding. For all the abundance of the former produces in lawless freedom nothing but nonsense; on the other hand, the Judgement is the faculty by which it is adjusted to the Understanding.
+
+[050-004]Taste, like the Judgement in general, is the discipline (or training) of Genius; it clips its wings closely, and makes it cultured and polished; but, at the same time, it gives guidance as to where and how far it may extend itself, if it is to remain purposive. And while it brings clearness and order into the multitude of the thoughts, it makes the Ideas susceptible of being permanently and, at the same time, universally assented to, and capable of being followed by others, and of an ever-progressive culture. If, then, in the conflict of these two properties in a product something must be sacrificed, it should be rather on the side of genius; and the Judgement, which in the things of beautiful art gives its decision from its own proper principles, will rather sacrifice the freedom and wealth of the Imagination than permit anything prejudicial to the Understanding.
+
+[050-005]For beautiful art, therefore,Imagination,Understanding,Spirit, andTasteare requisite.87

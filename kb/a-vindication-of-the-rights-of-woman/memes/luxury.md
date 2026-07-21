@@ -1,80 +1,60 @@
 ---
+description: "Wollstonecraft's critique of luxury as a corrupting force that enfeebles both mind and body; paired with superstition as one of the twin enemies of reason and virtue in her moral psychology."
 id: luxury
-label: Luxury
+label: "Luxury"
+tags: ["concept"]
 type: concept
-description: "In Wollstonecraft's analysis, luxury is a corrupting moral force — the indulgence of appetite that enervates character, displaces virtue, and serves as an instrument of tyranny in both political and domestic spheres."
-tags: ["social-critique", "morality", "corruption", "civilization"]
 ---
 
-Luxury, in Wollstonecraft's moral vocabulary, is not mere wealth or comfort but a specific form of moral corruption — the softening of character through excessive indulgence that renders individuals and societies incapable of virtue.
+# Luxury
 
 ## Definition
 
-Wollstonecraft positions luxury as a degenerative agent in the progress of civilization. She describes it as a "baneful lurking gangrene" that is "most quickly spread by luxury and superstition, the sure dregs of ambition" (001-033).
+In Wollstonecraft's moral vocabulary, "luxury" is not a neutral term for comfort or abundance but a corrosive social and psychological force. She defines it in opposition to reason, virtue, and natural simplicity. Luxury operates by softening the mind, inflaming artificial desires, and wearing away the moral faculties — producing what she calls "a luxurious monster, or fastidious sensualist" whose unnatural state then becomes "the instrument of tyranny" [001-030].
 
-This metaphor of disease is deliberate: luxury does not merely fail to produce virtue — it actively destroys it, corroding the moral fabric of both individuals and political communities.
+Wollstonecraft's treatment of luxury draws on a long classical and republican tradition — from Sallust and Tacitus to Rousseau — that saw luxury as a solvent of civic virtue. In her own framing, luxury is consistently paired with [[superstition]] as one of two corrupting forces bred by ambition: "this baneful lurking gangrene is most quickly spread by luxury and superstition, the sure dregs of ambition" [001-030]. While superstition corrupts the understanding through fear, luxury corrupts the will through pleasure and indulgence, together disabling the whole person from the exercise of reason and [[virtue]].
 
-The mechanism is physiological as well as moral. Luxury produces "fastidious sensualists" (001-033) whose characters are "dissolved" in indulgence.
+Wollstonecraft occasionally uses "luxury" in a positive or rhetorical sense — as when she describes a woman preparing herself and her children "with only the luxury of cleanliness" to greet her returning husband [009-008]. In this usage, "luxury" refers to something so basic and natural that it is ironically framed as the only indulgence available to the virtuous poor, contrasting it with the false and enervating luxuries of the rich.
 
-Wollstonecraft draws on the classical image of the Sybarites — "dissolved in luxury, every thing like virtue had not been worn away" (003-022) — to argue that excessive refinement extinguishes the capacity for moral exertion. Virtue, for Wollstonecraft, requires active effort; luxury, by removing all difficulty, removes the conditions for moral growth.
+## In Context
 
-The danger extends from individual character to the political sphere. The "indolent puppet of a court first becomes a luxurious monster" and then deploys the "contagion which his unnatural state spreads" as an "instrument of tyranny" (001-033). Luxury is thus not a private vice with public consequences — it is an instrument of political control.
+Luxury appears across the text primarily as a diagnosis of what ails the upper classes and, by extension, the entire social order. In the historical sketch of Chapter I, Wollstonecraft traces how luxury and [[superstition]] emerged from "the infancy of society" as instruments of priestly and monarchical power, spreading through society "like a gangrene" [001-030]. This analysis sets the stage for the rest of the work: luxury is not merely a personal vice but a structural phenomenon tied to [[wealth]], hereditary privilege, and the artificial inequality of the social order.
 
-## Wollstonecraft's Argument
+In Chapter IX, Wollstonecraft contrasts the corrupting refinements of the wealthy with the virtuous simplicity of domestic life among those of modest means. She describes women of the wealthy classes who "neglect to stamp impressions on their husbands' hearts" because they are consumed by preserving their beauty and status — a condition facilitated by the "relaxing pleasures which wealth procures" [009-017]. The "refinements of luxury" produce what she calls "the vicious restlessness of an effeminate mind, that has not strength to enjoy the pleasures of life without the aid of artificial stimulants" [009-025].
 
-Luxury functions in Wollstonecraft's broader argument on three levels: as a critique of aristocratic society, as an obstacle to women's rational development, and as a warning about the moral trajectory of civilization itself.
+The most vivid image of luxury's corrosive effects appears in Chapter III, where Wollstonecraft describes a "weak woman of fashion" who, "like the Sybarites, dissolved in luxury," has had "everything like virtue...worn away" [003-019]. This passage crystallizes her argument that luxury attacks virtue not suddenly but through gradual dissolution: it wears away the moral fabric rather than tearing it.
 
-On the first level, luxury is inseparable from the corruptions of rank and inherited wealth. Those "educated in slavish dependence, and enervated by luxury and sloth" (003-027) cannot be expected to "stand forth to assert the rights of man" or "claim the privilege of moral beings" (003-027).
-
-The connection between luxury and political incapacity is direct: comfort breeds compliance. Men and women who are "enervated by luxury" lack the fortitude required for republican citizenship, and their subjection to monarchs and ministers is self-reinforcing.
-
-On the second level, luxury is particularly dangerous for women. The prevailing system of female education — which cultivates sensibility, delicacy, and the arts of pleasing — is precisely an education into a kind of luxury.
-
-Women are taught to value refinement over fortitude, appearance over understanding. This produces what Wollstonecraft elsewhere calls "artificial" character: women shaped not by reason and virtue but by the desire for admiration and the habits of ease.
-
-Yet Wollstonecraft carefully distinguishes between corrupting luxury and legitimate comfort. In a striking passage from Chapter IX, she describes a domestic scene where a woman prepares "herself and children, with only the luxury of cleanliness, to receive her husband" (009-007).
-
-Here "luxury" is redefined — not as corrupting indulgence but as the modest dignity of a well-ordered household. This distinction reveals that Wollstonecraft's target is not comfort but excess, not cleanliness but the cultivation of artificial desires that displace moral seriousness.
-
-At the societal level, luxury threatens the very possibility of virtue. "The refinements of luxury, or the vicious repinings of envious poverty, will equally banish virtue from society" (009-027).
-
-This pairing is significant: luxury and poverty are two faces of the same social corruption. Both are products of inequality, and both make virtue impossible — luxury by softening the rich, poverty by embittering the poor.
-
-### Contrast with Contemporary Views
-
-Wollstonecraft's analysis of luxury engages with a long tradition of republican and moral-philosophical critique, from classical sources through Rousseau. She shares Rousseau's concern that luxury corrupts civic virtue, but she diverges from him in crucial respects.
-
-Where Rousseau idealises a return to primitive simplicity, Wollstonecraft insists that the antidote to luxury is not retreat from civilisation but the extension of rational education — particularly to women. Luxury corrupts because it substitutes artificial desire for rational purpose; the remedy is not to eliminate desire but to educate it.
-
-She also differs from the common eighteenth-century equation of luxury with effeminacy. While she acknowledges that luxury "enervates" (003-027), she refuses the misogynistic implication that women are the source of the corruption. Instead, she identifies the court, the aristocracy, and the system of rank as the true engines of luxurious corruption — systems designed and maintained by men.
+Throughout the text, Wollstonecraft links luxury to a cluster of related moral failings: [[vanity]] (the excessive concern with appearance luxury enables), [[folly]] (the irrationality it breeds), [[weakness]] (the enfeeblement it produces), and [[tyranny]] (the political form it takes when the luxurious turn their unnatural state into an instrument of domination).
 
 ## Key Passages
 
-> And this baneful lurking gangrene is most quickly spread by luxury and superstition, the sure dregs of ambition. The indolent puppet of a court first becomes a luxurious monster, or fastidious sensualist, and then makes the contagion which his unnatural state spreads, the instrument of tyranny. (001-033)
+> "this baneful lurking gangrene is most quickly spread by luxury and superstition, the sure dregs of ambition. The indolent puppet of a court first becomes a luxurious monster, or fastidious sensualist, and then makes the contagion which his unnatural state spreads, the instrument of tyranny." [001-030]
 
-> Is it possible that a human creature should have become such a weak and depraved being, if, like the Sybarites, dissolved in luxury, every thing like virtue had not been worn away, or never impressed by precept, a poor substitute it is true, for cultivation of mind, though it serves as a fence against vice? (003-022)
+> "Is it possible that a human creature should have become such a weak and depraved being, if, like the Sybarites, dissolved in luxury, everything like virtue had not been worn away, or never impressed by precept, a poor substitute it is true, for cultivation of mind, though it serves as a fence against vice?" [003-019]
 
-> Educated in slavish dependence, and enervated by luxury and sloth, where shall we find men who will stand forth to assert the rights of man; or claim the privilege of moral beings, who should have but one road to excellence? (003-027)
+> "...the refinements of luxury, or the vicious restlessness of an effeminate mind, that has not strength to enjoy the pleasures of life without the aid of artificial stimulants." [009-025]
 
-> I have seen her prepare herself and children, with only the luxury of cleanliness, to receive her husband, who returning weary home in the evening, found smiling babes and a clean hearth. (009-007)
-
-> The refinements of luxury, or the vicious repinings of envious poverty, will equally banish virtue from society. (009-027)
+> "I have seen her prepare herself and children, with only the luxury of cleanliness, to receive her husband, who returning weary home in the evening, found smiling babes and a clean hearth." [009-008]
 
 ## Related Concepts
 
-- [[Wealth]] — the material condition that enables luxury and often degenerates into it
+- [[superstition]] — luxury's twin corruptor; together the "sure dregs of ambition" [001-030]
+- [[virtue]] — what luxury wears away; the primary moral good luxury opposes
+- [[reason]] — the faculty luxury enfeebles through indulgence
+- [[wealth]] — the material basis that enables luxury
+- [[vanity]] — the character trait luxury cultivates and is cultivated by
+- [[folly]] — the irrationality luxury produces in individuals and society
+- [[weakness]] — the enfeeblement of mind and character luxury causes
+- [[tyranny]] — the political form luxury takes when it becomes an instrument of power
+- [[despotism]] — the governmental correlate of luxury's corrupting influence
+- [[refinement]] — the false sophistication Wollstonecraft contrasts with natural virtue
+- [[duty]] — what the luxurious neglect; the moral obligation luxury obscures
+- [[rank]] — the social hierarchy that concentrates and transmits luxury
+- [[nature]] — the standard of simplicity against which luxury is measured
+- [[society]] — the collective body luxury corrupts
 
-- [[Virtue]] — the moral excellence that luxury systematically undermines
+## Related Persons
 
-- [[Property]] — the economic foundation on which luxurious inequality rests
-
-- [[Corruption]] — the broader moral decay of which luxury is a principal cause
-
-- [[Aristocracy]] — the social system that institutionalises luxury as a mark of rank
-
-- [[Modesty]] — the genuine moral quality that luxury's artificial refinements counterfeit
-
-## See Also
-
-- [[Jean-Jacques Rousseau]] — whose critique of luxury Wollstonecraft adapts while rejecting his prescription
-- [[Civilization]] — the ambiguous process whose progress luxury threatens to pervert
+- [[jean-jacques-rousseau]] — whose critique of luxury and civilization Wollstonecraft draws upon and contests
+- [[charles-maurice-de-talleyrand-perigord]] — the dedicatee, representative of the aristocratic order whose luxury Wollstonecraft critiques
+- [[lord-chesterfield]] — whose letters embody the cultivation of luxury and artificial manners Wollstonecraft opposes

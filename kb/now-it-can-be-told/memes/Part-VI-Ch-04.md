@@ -1,0 +1,33 @@
+---
+description: 'Boulogne was a port through which all our youth passed between England and the long, straight road which led to No Man’s Land.'
+id: Part-VI-Ch-04
+label: 'Part VI, Chapter IV'
+tags: ["chapter"]
+type: 'chapter'
+---
+
+[102-001][[boulogne|Boulogne]] was a port through which all our youth passed between England and the long, straight road which led to No Man’s Land. The seven-day-leave men were coming back by every tide, and all other leave was canceled.
+
+[102-002]New “drafts” were pouring through the port by tens of thousands—all manner of men of all our breed marching in long columns from the quayside, where they had orders yelled at them through megaphones by A.P.M.’s, R.T.O.’s, A.M.L.O.’s, and other blue tabbed officers who dealt with them as cattle for the slaughterhouses. I watched them landing from the transports which came in so densely crowded with the human freight that the men were wedged together on the decks like herrings in barrels. They crossed from one boat to another to reach the gangways, and one by one, interminably as it seemed, with rifle gripped and pack hunched, and steel hat clattering like a tinker’s kettle, came down the inclined plank and lurched ashore. They were English lads from every country; Scots, Irish, Welsh, of every regiment; Australians, New-Zealanders, South Africans, Canadians, West Indian negroes of the Garrison [[artillery|Artillery]]; Sikhs, Pathans, and Dogras of the Indian [[cavalry|Cavalry]]. Some of them had been sick and there was a greenish pallor on their faces. Most of them were deeply tanned. Many of them stepped on the quayside of France for the first time after months of training, and I could tell those, sometimes, by the furtive look they gave at the crowded scene about them, and by a sudden glint in their eyes, a faint reflection of the emotion that was in them, because this was another stage on their adventure of war, and the drawbridge was down at last between them and the enemy. That was all, just that look, and lips tightened now grimly, and the pack hunched higher. Then they fell in by number and marched away, with Redcaps to guard them, across the bridge, into the town of Boulogne and beyond to the great camp near Etaples (and near the hospital, so that German aircraft had a good argument for smashing Red Cross huts), where some of them would wait until somebody said, “You’re wanted.” They were wanted in droves as soon as the fighting began on the first day of July.
+
+[102-003]The bun shops in Boulogne were filled with nurses, V.A.D.’s, all kinds of girls in uniforms which glinted with shoulder-straps and buttons. They ate large quantities of buns at odd hours of mornings and afternoons. Flying-men and officers of all kinds waiting for trains crowded the Folkestone Hotel and restaurants, where they spent two hours over luncheon and three hours over dinner, drinking red wine, talking “shop”—the shop of trench-mortar units, machine-gun sections, cavalry squadrons, air-fighting, gas schools, and anti-gas schools. Regular inhabitants of Boulogne, officers at the base, passed to inner rooms with French ladies of dangerous appearance, and the transients envied them and said: “Those fellows have all the luck! What’s their secret? How do they arrange these cushie jobs?” From open windows came the music of gramophones. Through half-drawn curtains there were glimpses of khaki tunics and Sam Brown belts in juxtaposition with silk blouses and coiled hair and white arms. Opposite the Folkestone there was a park of ambulances driven by “Scottish women,” who were always on the move from one part of the town to the other. Motorcars came hooting with staff-officers, all aglow in red tabs and armbands, thirsty for little cocktails after a dusty drive. Everywhere in the streets and on the esplanade there was incessant saluting. The arms of men were never still. It was like the St. Vitus disease. Tommies and Jocks saluted every subaltern with an automatic gesture of convulsive energy. Every subaltern acknowledged these movements and in turn saluted a multitude of majors, colonels, and generals. The thing became farcical, a monstrous absurdity of human relationship, yet pleasing to the vanity of men lifted up above the lowest caste. It seemed to me an intensification of the snob instinct in the soul of man. Only the Australians stood out against it, and went by all officers except their own with a careless slouch and a look of “To hell with all that handwagging.”
+
+[102-004]Seated on high stools in the Folkestone, our young officers clinked their cocktails, and then whispered together.
+
+[102-005]“When’s it coming?”
+
+[102-006]“In a few days … I’m for the Gommecourt sector.”
+
+[102-007]“Do you think we shall get through?”
+
+[102-008]“Not a doubt of it. The cavalry are massing for a great drive. As soon as we make the gap they’ll ride into the blue.”
+
+[102-009]“By God! … There’ll be some slaughter!”
+
+[102-010]“I think the old Boche will crack this time.”
+
+[102-011]“Well, cheerio!”
+
+[102-012]There was a sense of enormous drama at hand, and the excitement of it in boys’ hearts drugged all doubt and fears. It was only the older men, and the introspective, who suffered from the torture of apprehension. Even timid fellows in the ranks were, I imagine, strengthened and exalted by the communal courage of their company or battalion, for courage as well as fear is infectious, and the psychology of the crowd uplifts the individual to immense heights of daring when alone he would be terror-stricken. The public-school spirit of pride in name and tradition was in each battalion of the New Army, extended later to the division, which became the unit of esprit de corps. They must not “let the battalion down.” They would do their damnedest to get farther than any other crowd, to bag more prisoners, to gain more “kudos.” There was rivalry even among the platoons and the companies. “A” Company would show “B” Company the way to go! Their sergeant-major was a great fellow! Their platoon commanders were fine kids! With anything like a chance—
+
+[102-013]In that spirit, as far as I, an outsider could see and hear, did our battalions of boys march forward to “The Great Push,” whistling, singing, jesting, until their lips were dry and their throats parched in the dust, and even the merriest jesters of all were silent under the weight of their packs and rifles. So they moved up day by day, through the beauty of that June in France, thousands of men, hundreds of thousands to the edge of the battlefields of the Somme, where the enemy was intrenched in fortress positions and where already, before the last days of June, gunfire was flaming over a vast sweep of country.

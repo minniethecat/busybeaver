@@ -1,0 +1,41 @@
+---
+description: "We still say that we are clever, but our elders go and quarrel with us and say, “No, we had more sense than you."
+id: 0437-Russian-Folktales-101f0ac6-ch055
+label: "The Princess to Be Kissed at a Charge"
+tags: ["chapter"]
+type: chapter
+---
+
+# The Princess to Be Kissed at a Charge
+
+## The Princess to Be Kissed at a Charge
+
+[049-001]We still say that we are clever, but our elders go and quarrel with us and say, “No, we had more sense than you.” But the tale tells that, even when our grandfathers had not learned their lessons and our great-great-great-great-grandfathers had not been born, in a certain kingdom, in a certain land, once there lived an old man who had taught his three sons reading and writing.
+
+[049-002]“Now, children,” he said to them, “I shall die; do you come and read prayers over my grave.”
+
+[049-003]“Very well, *bátyushka*,” the three sons answered. And the two elder brothers were indeed fine lads, and they grew up fine stout fellows; but the youngest, Vanyúshka,36 was undersized, like a starved duckling, and flat-chested. The old man, their father, died.
+
+[049-004]Just about then a decree was issued by the Tsar that his daughter, Eléna Tsarévna the Fair, had ordered a temple to be built for her, with twelve columns and twelve wreaths. She was going to sit in this temple on a lofty throne, and was going to wait for the bridegroom—the valiant man who should on a flying horse, at a single spring, kiss her on the lips. All the young folks were bustling about, washing themselves clean, combing their hair, and considering to whom should the great honour fall.
+
+[049-005]“Brothers,” Vanyúshka said, “our father is dead: who of us will go and read prayers on his grave?”
+
+[049-006]“Whoever wishes may go,” answered the brothers.
+
+[049-007]So the youngest went. But the elders got ready and mounted their horses, curled their hair, dyed their hair; and all their kinsmen gathered round.
+
+[049-008]Then the second night came: “Brothers, I read the prayers last night,” Ványa said; “it’s your turn; which of you will go?”
+
+[049-009]“Anyone who wishes may go; don’t interfere with us.”
+
+[049-010]They gave their hats a knowing tilt, whooped and shouted, flew about, and rushed and galloped abroad on the open fields; and once again Ványa read the prayers; and so, too, on the third night. But the brothers saddled their horses, combed out their whiskers, and got ready on the very morrow to try their prowess in front of the eyes of Eléna the Fair. “What about our youngest brother?” they thought.
+
+[049-011]“Never mind about him; he will only disgrace us and make people smile: let us go by ourselves.” So they started.
+
+[049-012]But Ványa also very much wanted to look at Princess Eléna the Fair, and so he wept sorely, and he went to his father’s grave, and his father heard him in his last home, and he came up to him, shook off the grey earth from his forehead, and said, “Do not grieve, Vanyúshka; I will aid you in your sorrow.” Then the old man got up, whistled and halloed with a young man’s voice, with a nightingale’s trill; and from some source or other a horse ran up, and the earth trembled, and from his nostrils and from his ears flames issued forth. He breathed smoke, and stood in front of the old man as though he were rooted to the ground, and asked him, “What do you wish?”
+
+[049-013]Ványa mounted the horse by one ear, dismounted it by the other, and turned into so fine a youth as no tale can tell and no pen can write. He sat on the horse, bent over sideways; and he flew like your hawk over there, straight to the palace of Eléna [[marya-morevna|the Fair Tsarévna]]. He stretched out, leaped on, and he did not reach two of the crowns. He again made an effort, flew up, jumped; there was only one wreath left. He made one more effort, turned round once more, and, as fire leaps to the eyes, he instantly kissed and smacked Eléna the Fair on the lips. “Who is it! Who is it! Catch him!” For his very trace had vanished. Then he leapt back to his father’s grave, and he let his horse free into the open field; and he then bowed down to the earth and asked advice of his father, and the old man gave him advice. Ványa went back home as though he had never been there; and the brothers told him where they had been, what they had done and seen; and he listened as though he had never heard of it before.
+
+[049-014]There was another bout next day, and you could never see an end of the *boyárs* and the lords seated at the royal palace. The elder brothers started out, and the younger brother set out on foot secretly and quietly, just as though he had never kissed the Tsarévna, and he stopped in his distant corner. Eléna Tsarévna was asking for her bridegroom; Eléna Tsarévna was wishing to show him to the whole world, desiring to give him the half of her kingdom; but never a bridegroom appeared. They were looking for him in the midst of the *boyárs*, in the midst of the generals; and they went to them all, but they could not find him. But Ványa looked on and smiled, and waited until his bride came to him. For he said, “I won her like a knight; now she is to love me in my *kaftán*.”
+
+[049-015]So she got up, looked out of the open windows, glanced through them all, and then she saw and recognised her bridegroom, took him to herself, and soon the betrothal took place. And oh, what a fine young man he was—so sensible, brave, and so handsome! He used to sit on his flying horse, undo his cap, put his arms akimbo; and he seemed like a king, like the reigning king; and you looked on, and you would never have imagined that at one time he could ever have been poor Vanyúshka.

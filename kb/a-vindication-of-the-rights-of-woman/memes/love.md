@@ -1,51 +1,89 @@
 ---
+description: "Wollstonecraft's analysis of love is famously unsentimental — she argues that romantic love is necessarily transient and that a social order built on women's capacity to inspire and sustain it condemns them to eventual irrelevance and misery."
 id: love
-label: Love
+label: "Love"
+tags: ["concept"]
 type: concept
-description: "Wollstonecraft's critical analysis of romantic love — distinguished from rational friendship and love of mankind, love in its passionate form is transient and an inadequate foundation for marriage and moral life"
-tags: ["passion", "marriage", "virtue", "friendship", "reason"]
 ---
 
-**Love** occupies a complex and deliberately ambiguous position in Wollstonecraft's argument. She is careful not to condemn love outright — "to endeavour to reason love out of the world, would be to out-Quixote Cervantes" (002-040) — yet she subjects romantic love to a sustained critique, arguing that it is an insufficient basis for the most important human relationships. "Youth is the season for love in both sexes" (002-041), but a life built on the expectation of permanent romantic passion is a life built on sand.
+# Love
 
 ## Definition
 
-Wollstonecraft distinguishes between several forms of love. The first is "that kind of love, which has been termed its sister, pity" (P03-008) — the sentimental, condescending affection that men extend to women as objects of delicate feeling. This love, she argues, is degrading to its recipient: it asks nothing of the beloved but that she remain weak and in need of protection.
+Wollstonecraft's treatment of **love** is perhaps the most startling aspect of the _Vindication_ for modern readers. She does not deny the reality or value of love, but she insists on analysing it with philosophical rigour rather than sentimental indulgence. Her central claim is that romantic love — the intense, exclusive passion that forms the basis of marriage in her culture — is "from its very [[nature]], transitory" (002-062). A social order that makes women's entire worth depend on their capacity to inspire and sustain such love is therefore built on a foundation that must crumble.
 
-The second form is romantic or passionate love proper — "love, infantine fondness" (002-060) that dominates the early stages of courtship and marriage. Wollstonecraft acknowledges its intensity but insists on its transience. "Indifference inevitably succeeds love" (002-057), she writes, and "this constitution seems perfectly natural" (002-057). The problem is not that romantic love fades but that society has made it the sole foundation of marriage, ensuring that when passion cools, nothing remains.
+> "Love, from its very nature, must be transitory. To seek for a secret that would render it constant, would be as wild a search as for the philosopher's stone, or the grand panacea; and the discovery would be equally useless, or rather pernicious to mankind." (002-062)
 
-The third and highest form is the "love of mankind" (P02-007) — a rational, principled benevolence that Wollstonecraft associates with citizenship and moral maturity. This love does not depend on personal attraction but on the recognition of shared humanity and mutual obligation. It is the love that "from which an orderly train of virtues spring" (P02-007).
+The comparison to the philosopher's stone is not incidental. Wollstonecraft is saying that the project of making romantic love permanent is not merely difficult but conceptually incoherent — like trying to turn lead into gold. The very features that make love intense (novelty, suspense, uncertainty) are necessarily extinguished by the conditions of marriage (familiarity, security, proximity). To wish that love could be both passionate and permanent is to wish for a contradiction.
 
-## Wollstonecraft's Argument
+> "Love, considered as an animal appetite, cannot long feed on itself without expiring. And this extinction, in its own flame, may be termed the violent death of love." (004-085)
 
-Wollstonecraft's central claim about love is that it cannot substitute for friendship as the bond of marriage. "Love, infantine fondness, ever grew insipid" (002-060) when it was the sole sustenance of a relationship. She contrasts romantic love with the "humble mutual love, not dignified by sentiment" (002-029) that she observes among the poor — love expressed in shared labour and mutual care, not in poetic effusions. The adjective "humble" is not pejorative but descriptive: this love does not need the language of romance because it is demonstrated in action.
+The solution is not to abolish love but to subordinate it to [[friendship]] — the steady, rational affection that grows from mutual respect and shared [[virtue]]. When the "fever of love" subsides, as it must, what remains should be "a tender [[friendship]]" grounded in genuine [[knowledge]] of the other's [[character]].
 
-The gender politics of love are central to her critique. Love, as society constructs it, requires women to be weak and dependent — qualities that inspire passion but cannot sustain respect. "Women have been duped by their lovers, as princes by their ministers" (002-027). The political analogy is deliberate: love, like monarchy, is a system in which one party holds power through the other's willing subordination. Women are "duped" because the love they are taught to inspire is not the love of equals but the love of a superior for an inferior.
+### The Social Construction of Romantic Love
 
-Wollstonecraft's alternative is not lovelessness but love transformed by friendship. "A master and mistress of a family ought not to continue to love each other with passion" (002-058) — "I mean to say, they ought not to indulge those emotions which disturb the order of society" (002-058). The qualification is crucial: she does not forbid affection but the indulgence of passion at the expense of duty. Love, like every other passion, must be subordinated to reason and principle. When it is, it becomes not weaker but more durable — a love that grows "with equal advances in the mind of each" (P01-017).
+Wollstonecraft is remarkably alert to the ways in which love, far from being a purely natural emotion, is shaped and intensified by the social arrangements that surround it. She observes that "this passion, naturally increased by suspense and difficulties, draws the mind out of its accustomed state, and exalts the affections" (002-064). The implication is that the very intensity that eighteenth-century culture celebrated as the mark of true love is, in significant part, an artefact of the obstacles that courtship places in its path.
 
-### Contrast with Contemporary Views
+> "Love, the common passion, in which chance and sensation take place of choice and reason, is in some degree, felt by the mass of mankind... This passion, naturally increased by suspense and difficulties, draws the mind out of its accustomed state, and exalts the affections; but the security of marriage, allowing the fever of love to subside, a healthy temperature is thought insipid, only by those who have not sufficient intellect to substitute the calm tenderness of friendship." (002-064)
 
-Rousseau made romantic love the centre of his educational and social philosophy: Sophie exists for Émile's love, and the purity of their passion is the guarantee of their virtue. Wollstonecraft reverses this valuation. For her, excessive investment in romantic love is not a sign of virtue but of moral immaturity — a refusal to grow up into the responsibilities of rational friendship and public duty. Gregory's advice to his daughters, which treats love as a woman's career, is for Wollstonecraft the most dangerous counsel imaginable: it tells women to stake their entire lives on a passion that nature itself makes temporary.
+This is a psychologically acute observation. The "security of marriage" extinguishes the very conditions — suspense, difficulty, uncertainty — that gave love its intensity. When those conditions are removed, what remains is either indifference or, if the parties are capable of it, "the calm tenderness of friendship." The problem is that women are trained exclusively for the first phase — for the drama of courtship — and given no preparation for the second.
+
+Wollstonecraft extends this social analysis to the institution of gallantry itself. She argues that "the cold unmeaning intercourse of gallantry" has "rendered [women] vain and useless" (005-093). Gallantry, in her analysis, is a degraded substitute for genuine love — a performance of devotion that sustains women's dependence on male attention while foreclosing the possibility of the respect and esteem on which durable affection depends.
+
+### Love, Virtue, and the Universal
+
+One of Wollstonecraft's most striking moves is to situate romantic love within a broader economy of affections. Love for a particular man, she argues, should be "only a part of that glowing flame of universal love, which, after encircling humanity, mounts in grateful incense to God" (004-067). To make romantic love the whole of a woman's emotional life is to distort her moral capacities — to shrink the circle of her affections to a single point rather than expand it outward.
+
+> "Yet, if love be the supreme good, let women be only educated to inspire it, and let every charm be polished to intoxicate the senses; but, if they are moral beings, let them have a chance to become intelligent; and let love to man be only a part of that glowing flame of universal love, which, after encircling humanity, mounts in grateful incense to God." (004-067)
+
+The conditional structure is exact: if love is the supreme good for women, then the education they receive — an education in charm, beauty, and pleasing — is perfectly rational. But if women are moral beings, responsible for more than inspiring desire, then that education is a profound injustice. Wollstonecraft does not deny the value of love; she denies that it should be the organising principle of a woman's existence.
+
+## In Context
+
+Chapter II contains the core philosophical argument about love's transience. Chapters IV and V develop the social consequences: women who have been trained only to love are left without resources when love fades. Chapter XII returns to the theme in the context of Wollstonecraft's proposals for [[education]]al reform.
+
+### Love and the Rhetoric of Defence
+
+Wollstonecraft is conscious that her argument will strike her readers as an attack on love itself. She prefaces her analysis with a strategic concession: "To speak disrespectfully of love is, I know, high treason against sentiment and fine feelings; but I wish to speak the simple language of truth, and rather to address the head than the heart" (002-051). She is not, she insists, trying to "reason love out of the world" — that would be "to out Quixote Cervantes." Her aim is more precise: to "restrain this tumultuous passion, and to prove that it should not be allowed to dethrone superior powers, or to usurp the sceptre which the understanding should ever coolly wield" (002-051). Love is not to be abolished but governed.
+
+The argument cuts in two directions. Against men: you cannot build a permanent institution on a transient passion and then blame women when it fails. Against women: you must cultivate qualities — [[reason]], [[knowledge]], [[virtue]] — that will sustain you when physical beauty and romantic novelty have passed.
+
+> "Youth is the season for love in both sexes; but in those days of thoughtless enjoyment, provision should be made for the more important years of life, when reflection takes place of sensation." (002-052)
+
+The word "provision" is carefully chosen — it carries the sense of practical foresight. Wollstonecraft is not counselling women against love but counselling them to prepare for the life that continues after love's season has passed. A woman who has made no such provision — who has invested everything in being loved — will find herself destitute when the season changes.
+
+Wollstonecraft's critique of [[rousseau|Rousseau]] crystallises around this theme. Rousseau, she argues, "degrade[s] woman by making her the slave of love" (005-059). The indictment is precise: it is not that Rousseau values love too highly but that he makes women's entire existence dependent on inspiring and sustaining it. The woman who is "the slave of love" has no independent moral standing; her value is entirely a function of her capacity to attract and hold male desire. This is the condition from which Wollstonecraft seeks to liberate her sex.
 
 ## Key Passages
 
-> To endeavour to reason love out of the world, would be to out-Quixote Cervantes. (002-040)
+> "Love, from its very nature, must be transitory. To seek for a secret that would render it constant, would be as wild a search as for the philosopher's stone." (002-062)
 
-> Youth is the season for love in both sexes; but in those days of thoughtless enjoyment, provision should be made for the more important years of life. (002-041)
+> "Youth is the season for love in both sexes; but in those days of thoughtless enjoyment, provision should be made for the more important years of life, when reflection takes place of sensation." (002-052)
 
-> A master and mistress of a family ought not to continue to love each other with passion. I mean to say, they ought not to indulge those emotions which disturb the order of society. (002-058)
+> "In a great degree, love and friendship cannot subsist in the same bosom." (004-087)
+
+> "Love, considered as an animal appetite, cannot long feed on itself without expiring." (004-085)
+
+> "Friendship or indifference inevitably succeeds love." (002-065)
+
+> "If love be the supreme good, let women be only educated to inspire it... but, if they are moral beings, let them have a chance to become intelligent." (004-067)
+
+> "To speak disrespectfully of love is, I know, high treason against sentiment and fine feelings; but I wish to speak the simple language of truth." (002-051)
+
+> "I war only with the sensibility that led him to degrade woman by making her the slave of love." (005-059)
+
+> "Love is, in a great degree, an arbitrary passion, and will reign like some other stalking mischiefs, by its own authority, without deigning to reason." (006-011)
+
+> "Women, subjected by ignorance to their sensations, and only taught to look for happiness in love, refine on sensual feelings, and adopt metaphysical notions respecting that passion." (013-032)
 
 ## Related Concepts
 
-- [[Friendship]] — the rational bond between equals that Wollstonecraft proposes as the proper basis of marriage
-- [[Passion]] — the category of intense feeling that includes romantic love; distinguished from reason but not inherently evil
-- [[Marriage]] — the institution most distorted by the expectation of permanent romantic love
-- [[Virtue]] — the steady moral disposition that makes love durable by transforming it into principled affection
-- [[Sensibility]] — the refined susceptibility of feeling that intensifies romantic love while rendering it more volatile
+- [[passion]] — Love is a species of passion; like all passions, it must eventually yield to [[reason]]
+- [[friendship]] — The rational affection that should succeed love in a well-ordered life
+- [[marriage]] — The social institution built on love's fragile foundation
+- [[virtue]] — Love without [[virtue]] is merely appetite
+- [[reason]] — The faculty that must govern love if it is not to become destructive
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose idealization of romantic love in La Nouvelle Héloïse and Émile Wollstonecraft critiques as a seductive trap for women
-- [[John Gregory]] — whose advice to his daughters treats love as a woman's primary social instrument
-- [[Duty]] — the principled obligation that must govern love if it is to endure beyond the season of passion
+- [[rousseau|Jean-Jacques Rousseau]] — [[rousseau|Rousseau]]'s treatment of love in *[[emile|Émile]]* and *La Nouvelle Héloïse* is Wollstonecraft's implicit critical target

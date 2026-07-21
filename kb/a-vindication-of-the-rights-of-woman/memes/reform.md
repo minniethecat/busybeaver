@@ -1,59 +1,54 @@
 ---
+description: "Wollstonecraft calls for a radical reformation of manners, education, and the social position of women — not piecemeal improvement but a fundamental restructuring of the relations between the sexes grounded in reason."
 id: reform
-label: Reform
+label: "Reform"
+tags: ["concept"]
 type: concept
-description: Wollstonecraft's call for radical reform in female education and social manners as interconnected projects of moral and political regeneration
-tags: ["social-critique", "education", "political-philosophy", "morality"]
 ---
 
 # Reform
 
-Wollstonecraft presents reform as both an individual moral imperative and a collective social project: "labour by reforming themselves to reform the world" (003-030). She calls for a radical transformation of female education, social manners, and the relations between the sexes.
-
 ## Definition
 
-In Wollstonecraft's vocabulary, reform denotes systematic improvement through reasoned change — not mere adjustment but fundamental transformation.
+**Reform** in Wollstonecraft's vocabulary is not a matter of incremental improvement but of fundamental moral restructuring. She speaks of "a reformation" of manners, of the "radical power" of social institutions to corrupt character, and of the need to "cry out against" entrenched injustice. The concept of reform is thus closely linked to her diagnosis of the structural causes of women's degradation.
 
-She distinguishes genuine reform from superficial "reformation" that preserves underlying corruption, insisting that reform must reach the root causes of social evils.
+Wollstonecraft's reformism is radical in two senses: it goes to the root of social arrangements (the "radical power" that corrupts), and it demands change that is thorough rather than cosmetic. She is not interested in making women more comfortable within their existing subordination — she is interested in ending that subordination and replacing it with arrangements founded on [[reason]] and [[justice]].
 
-The concept carries both moral weight (the reformation of individual character) and political urgency (the reform of institutions). Wollstonecraft situates reform within an Enlightenment framework of progress (003-030).
+## In Context
 
-## Wollstonecraft's Argument
+### The Radical Power of Institutions
 
-Wollstonecraft's argument for reform operates on multiple levels. At the individual level, she insists that moral reform requires active effort: "we either reform our evil habits, and cease to be vicious, or we sink under them" (013-021). The purpose of exposing vice is "for the purpose of reformation" (013-022), not for punishment alone.
+Wollstonecraft makes a striking claim in Chapter VIII: that the social value placed on "chastity in woman has a radical power to deprave the character" [008-022]. This is not merely an observation about manners but a structural analysis: norms that appear to protect women actually corrupt them by directing their moral energy toward reputation rather than [[virtue]].
 
-At the social level, Wollstonecraft confronts conservative resistance to reform directly. She observes that many are "crying out against all reformation, as if it were a violation of justice" (012-011), treating the existing order as sacrosanct. Against this conservatism, she argues that the current arrangement of the sexes is unjust and must be changed. The reformation of "female manners" is one specific goal (008-033).
+> "…the prevailing opinion, that chastity in woman has a radical power to deprave the character…" (008-022)
 
-The interconnectedness of reform is crucial to Wollstonecraft's vision. She advocates for comprehensive transformation: educational reform of how women are taught, moral reform of how women are valued, social reform of marriage and professional access, and political reform of the laws governing relations between the sexes.
+The reform Wollstonecraft advocates is therefore not simply a matter of educating women differently but of transforming the social institutions — marriage, education, the sexual double standard — that produce the degraded character she diagnoses.
 
-### Contrast with Contemporary Views
+### The Difficulty of Reform
 
-Where Burkean conservatism treated existing institutions as accumulated wisdom, Wollstonecraft treated them as accumulated injustices requiring deliberate correction. Her reformism insists on comprehensive rather than piecemeal change, distinguishing her from contemporaries who addressed educational, moral, and political domains in isolation.
+Wollstonecraft is alert to the difficulty of reforming institutions that have been "consolidated by time" [006-020]. She recognizes that customs acquire the force of nature through longevity, and that those who benefit from existing arrangements will resist change.
+
+> "…where manners are consolidated by time, a reformation is barely possible…" (006-020)
+
+This realism, however, does not lead her to despair or to moderate her demands. The difficulty of reform is an argument for persistence, not for timidity — and the first step in reform is always the intellectual step of recognizing that existing arrangements are neither natural nor necessary.
+
+### Positive Punishment and Moral Reform
+
+In the final chapter, Wollstonecraft touches on the relationship between punishment and reform, noting that "positive punishment appears contrary to the spirit of reformation" [013-026]. This brief remark reveals a reformist sensibility that extends beyond gender relations to questions of criminal justice and social policy — a consistent commitment to the idea that human beings are improvable through [[reason]] and education, not through force and fear.
+
+> "…positive punishment appears contrary to the spirit of reformation." (013-026)
 
 ## Key Passages
 
-> "labour by reforming themselves to reform the world" (003-030)
+> "…where manners are consolidated by time, a reformation is barely possible…" (006-020)
 
-> "crying out against all reformation, as if it were a violation of justice" (012-011)
+> "…the prevailing opinion, that chastity in woman has a radical power to deprave the character…" (008-022)
 
-> "this would be one means of reforming female manners, and stopping the contagion" (008-033)
-
-> "we either reform our evil habits, and cease to be vicious, or we sink under them" (013-021)
-
-## Related Concepts
-
-- [[Education]] — the primary instrument of reform
-- [[Progress]] — the Enlightenment framework within which reform operates
-- [[Virtue]] — the moral goal of reform
-- [[Improvement]] — the incremental dimension of reform
-- [[Society]] — the object of reform
-- [[Manners]] — the social practices reform targets
+> "…positive punishment appears contrary to the spirit of reformation." (013-026)
 
 ## See Also
 
-- [[Mary Wollstonecraft]] — the author as reformer
-- [[Chapter-3]] — "labour by reforming themselves to reform the world"
-- [[Chapter-8]] — on reforming female manners
-- [[Chapter-12]] — on national education as institutional reform
-- [[Chapter-13]] — on reforming through knowledge of vice
-- [[French Revolution]] — the political context of Wollstonecraft's reformism
+- [[education]] — the primary instrument of reform
+- [[revolution]] — reform through transformation rather than destruction
+- [[rights]] — the goal toward which reform aims
+- [[morality]] — reform must be grounded in universal moral principles

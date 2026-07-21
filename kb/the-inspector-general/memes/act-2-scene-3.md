@@ -1,0 +1,18 @@
+---
+description: "Act II, Scene III"
+id: act-2-scene-3
+label: "Act II, Scene III"
+tags: ["chapter", "scene"]
+type: "chapter"
+---
+
+::: table pn=011-001
+
+|  |  |
+
+| --- | --- |
+
+| Khlestakov | *Alone.* I am so ravenously hungry. I took a little stroll thinking I could walk off my appetite. But, hang it, it clings. If I hadn’t dissipated so in Penza I’d have had enough money to get home with. The infantry captain did me up all right. Wonderful the way the scoundrel cut the cards! It didn’t take more than a quarter of an hour for him to clean me out of my last penny. And yet I would give anything to have another set-to with him. Only I never will have the chance.—What a rotten town this is! You can’t get anything on credit in the grocery shops here. It’s deucedly mean, it is. *He whistles, first an air from *Robert le Diable*, then a popular song, then a blend of the two.* No one’s coming. |
+
+<!-- -->
+:::

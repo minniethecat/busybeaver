@@ -1,0 +1,5916 @@
+{
+  "book": "what-is-to-be-done",
+  "title": "What Is to Be Done?",
+  "description": "What Is to Be Done? — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 184,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"怎么办\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "what-is-to-be-done:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch004-What-Is-to-Be-Done",
+          "label": "ch004-What-Is-to-Be-Done"
+        },
+        {
+          "type": "related",
+          "target": "ch005-A-Vital-Question",
+          "label": "ch005-A-Vital-Question"
+        },
+        {
+          "type": "related",
+          "target": "ch006-I-A-Fool",
+          "label": "ch006-I-A-Fool"
+        },
+        {
+          "type": "related",
+          "target": "ch007-II-The-First-Consequences-of-the-Fools",
+          "label": "ch007-II-The-First-Consequences-of-the-Fools"
+        },
+        {
+          "type": "related",
+          "target": "ch008-III-Preface",
+          "label": "ch008-III-Preface"
+        },
+        {
+          "type": "related",
+          "target": "ch009-Part-I-The-Life-of-Viéra-Pavlovna-in-Her",
+          "label": "ch009-Part-I-The-Life-of-Viéra-Pavlovna-in-Her"
+        },
+        {
+          "type": "related",
+          "target": "ch010-I",
+          "label": "ch010-I"
+        },
+        {
+          "type": "related",
+          "target": "ch011-II",
+          "label": "ch011-II"
+        },
+        {
+          "type": "related",
+          "target": "ch012-III",
+          "label": "ch012-III"
+        },
+        {
+          "type": "related",
+          "target": "ch013-IV",
+          "label": "ch013-IV"
+        },
+        {
+          "type": "related",
+          "target": "ch014-V",
+          "label": "ch014-V"
+        },
+        {
+          "type": "related",
+          "target": "ch015-VI",
+          "label": "ch015-VI"
+        },
+        {
+          "type": "related",
+          "target": "ch016-VII",
+          "label": "ch016-VII"
+        },
+        {
+          "type": "related",
+          "target": "ch017-VIII",
+          "label": "ch017-VIII"
+        },
+        {
+          "type": "related",
+          "target": "ch018-IX",
+          "label": "ch018-IX"
+        },
+        {
+          "type": "related",
+          "target": "ch019-Part-II-First-Love-and-Legal-Marriage",
+          "label": "ch019-Part-II-First-Love-and-Legal-Marriage"
+        },
+        {
+          "type": "related",
+          "target": "ch020-I",
+          "label": "ch020-I"
+        },
+        {
+          "type": "related",
+          "target": "ch021-II",
+          "label": "ch021-II"
+        },
+        {
+          "type": "related",
+          "target": "ch022-III",
+          "label": "ch022-III"
+        },
+        {
+          "type": "related",
+          "target": "ch023-IV",
+          "label": "ch023-IV"
+        },
+        {
+          "type": "related",
+          "target": "ch024-V",
+          "label": "ch024-V"
+        },
+        {
+          "type": "related",
+          "target": "ch025-VI",
+          "label": "ch025-VI"
+        },
+        {
+          "type": "related",
+          "target": "ch026-VII",
+          "label": "ch026-VII"
+        },
+        {
+          "type": "related",
+          "target": "ch027-VIII-The-Temptation-of-Hamlet",
+          "label": "ch027-VIII-The-Temptation-of-Hamlet"
+        },
+        {
+          "type": "related",
+          "target": "ch028-IX",
+          "label": "ch028-IX"
+        },
+        {
+          "type": "related",
+          "target": "ch029-X",
+          "label": "ch029-X"
+        },
+        {
+          "type": "related",
+          "target": "ch030-XI",
+          "label": "ch030-XI"
+        },
+        {
+          "type": "related",
+          "target": "ch031-XII-Viérotchkas-First-Dream",
+          "label": "ch031-XII-Viérotchkas-First-Dream"
+        },
+        {
+          "type": "related",
+          "target": "ch032-XIII",
+          "label": "ch032-XIII"
+        },
+        {
+          "type": "related",
+          "target": "ch033-XIV",
+          "label": "ch033-XIV"
+        },
+        {
+          "type": "related",
+          "target": "ch034-XV",
+          "label": "ch034-XV"
+        },
+        {
+          "type": "related",
+          "target": "ch035-XVI",
+          "label": "ch035-XVI"
+        },
+        {
+          "type": "related",
+          "target": "ch036-XVII",
+          "label": "ch036-XVII"
+        },
+        {
+          "type": "related",
+          "target": "ch037-XVIII",
+          "label": "ch037-XVIII"
+        },
+        {
+          "type": "related",
+          "target": "ch038-XIX",
+          "label": "ch038-XIX"
+        },
+        {
+          "type": "related",
+          "target": "ch039-XX",
+          "label": "ch039-XX"
+        },
+        {
+          "type": "related",
+          "target": "ch040-XXI",
+          "label": "ch040-XXI"
+        },
+        {
+          "type": "related",
+          "target": "ch041-XXII",
+          "label": "ch041-XXII"
+        },
+        {
+          "type": "related",
+          "target": "ch042-XXIII",
+          "label": "ch042-XXIII"
+        },
+        {
+          "type": "related",
+          "target": "ch043-XXIV-A-Word-of-Praise-for-Marya-Alekséye",
+          "label": "ch043-XXIV-A-Word-of-Praise-for-Marya-Alekséye"
+        },
+        {
+          "type": "related",
+          "target": "ch044-Part-III-Marriage-and-Second-Love",
+          "label": "ch044-Part-III-Marriage-and-Second-Love"
+        },
+        {
+          "type": "related",
+          "target": "ch045-I",
+          "label": "ch045-I"
+        },
+        {
+          "type": "related",
+          "target": "ch046-II",
+          "label": "ch046-II"
+        },
+        {
+          "type": "related",
+          "target": "ch047-III-Viéra-Pavlovnas-Second-Dream",
+          "label": "ch047-III-Viéra-Pavlovnas-Second-Dream"
+        },
+        {
+          "type": "related",
+          "target": "ch048-IV",
+          "label": "ch048-IV"
+        },
+        {
+          "type": "related",
+          "target": "ch049-V",
+          "label": "ch049-V"
+        },
+        {
+          "type": "related",
+          "target": "ch050-VI",
+          "label": "ch050-VI"
+        },
+        {
+          "type": "related",
+          "target": "ch051-VII",
+          "label": "ch051-VII"
+        },
+        {
+          "type": "related",
+          "target": "ch052-VIII",
+          "label": "ch052-VIII"
+        },
+        {
+          "type": "related",
+          "target": "ch053-IX",
+          "label": "ch053-IX"
+        },
+        {
+          "type": "related",
+          "target": "ch054-X",
+          "label": "ch054-X"
+        },
+        {
+          "type": "related",
+          "target": "ch055-XI",
+          "label": "ch055-XI"
+        },
+        {
+          "type": "related",
+          "target": "ch056-XII",
+          "label": "ch056-XII"
+        },
+        {
+          "type": "related",
+          "target": "ch057-XIII",
+          "label": "ch057-XIII"
+        },
+        {
+          "type": "related",
+          "target": "ch058-XIV-Nástenkas-Story",
+          "label": "ch058-XIV-Nástenkas-Story"
+        },
+        {
+          "type": "related",
+          "target": "ch059-XV",
+          "label": "ch059-XV"
+        },
+        {
+          "type": "related",
+          "target": "ch060-XVI",
+          "label": "ch060-XVI"
+        },
+        {
+          "type": "related",
+          "target": "ch061-XVII",
+          "label": "ch061-XVII"
+        },
+        {
+          "type": "related",
+          "target": "ch062-XVIII",
+          "label": "ch062-XVIII"
+        },
+        {
+          "type": "related",
+          "target": "ch063-XIX-Viéra-Pavlovnas-Third-Dream",
+          "label": "ch063-XIX-Viéra-Pavlovnas-Third-Dream"
+        },
+        {
+          "type": "related",
+          "target": "ch064-XX",
+          "label": "ch064-XX"
+        },
+        {
+          "type": "related",
+          "target": "ch065-XXI",
+          "label": "ch065-XXI"
+        },
+        {
+          "type": "related",
+          "target": "ch066-XXII-A-Theoretical-Conversation",
+          "label": "ch066-XXII-A-Theoretical-Conversation"
+        },
+        {
+          "type": "related",
+          "target": "ch067-XXIII",
+          "label": "ch067-XXIII"
+        },
+        {
+          "type": "related",
+          "target": "ch068-XXIV",
+          "label": "ch068-XXIV"
+        },
+        {
+          "type": "related",
+          "target": "ch069-XXV",
+          "label": "ch069-XXV"
+        },
+        {
+          "type": "related",
+          "target": "ch070-XXVI",
+          "label": "ch070-XXVI"
+        },
+        {
+          "type": "related",
+          "target": "ch071-XXVII",
+          "label": "ch071-XXVII"
+        },
+        {
+          "type": "related",
+          "target": "ch072-XXVIII",
+          "label": "ch072-XXVIII"
+        },
+        {
+          "type": "related",
+          "target": "ch073-XXIX-An-Extraordinary-Man",
+          "label": "ch073-XXIX-An-Extraordinary-Man"
+        },
+        {
+          "type": "related",
+          "target": "ch074-XXX",
+          "label": "ch074-XXX"
+        },
+        {
+          "type": "related",
+          "target": "ch075-XXXI-A-Colloquy-with-the-Sapient-Reader",
+          "label": "ch075-XXXI-A-Colloquy-with-the-Sapient-Reader"
+        },
+        {
+          "type": "related",
+          "target": "ch076-Part-IV-Second-Marriage",
+          "label": "ch076-Part-IV-Second-Marriage"
+        },
+        {
+          "type": "related",
+          "target": "ch077-I",
+          "label": "ch077-I"
+        },
+        {
+          "type": "related",
+          "target": "ch078-II",
+          "label": "ch078-II"
+        },
+        {
+          "type": "related",
+          "target": "ch079-III",
+          "label": "ch079-III"
+        },
+        {
+          "type": "related",
+          "target": "ch080-IV",
+          "label": "ch080-IV"
+        },
+        {
+          "type": "related",
+          "target": "ch081-V",
+          "label": "ch081-V"
+        },
+        {
+          "type": "related",
+          "target": "ch082-VI",
+          "label": "ch082-VI"
+        },
+        {
+          "type": "related",
+          "target": "ch083-VII",
+          "label": "ch083-VII"
+        },
+        {
+          "type": "related",
+          "target": "ch084-VIII",
+          "label": "ch084-VIII"
+        },
+        {
+          "type": "related",
+          "target": "ch085-IX",
+          "label": "ch085-IX"
+        },
+        {
+          "type": "related",
+          "target": "ch086-X",
+          "label": "ch086-X"
+        },
+        {
+          "type": "related",
+          "target": "ch087-XI",
+          "label": "ch087-XI"
+        },
+        {
+          "type": "related",
+          "target": "ch088-XII-A-Digression-Concerning-Blue-Stockin",
+          "label": "ch088-XII-A-Digression-Concerning-Blue-Stockin"
+        },
+        {
+          "type": "related",
+          "target": "ch089-XIII",
+          "label": "ch089-XIII"
+        },
+        {
+          "type": "related",
+          "target": "ch090-XIV",
+          "label": "ch090-XIV"
+        },
+        {
+          "type": "related",
+          "target": "ch091-XV-Viéra-Pavlovnas-Fourth-Dream",
+          "label": "ch091-XV-Viéra-Pavlovnas-Fourth-Dream"
+        },
+        {
+          "type": "related",
+          "target": "ch092-XVI",
+          "label": "ch092-XVI"
+        },
+        {
+          "type": "related",
+          "target": "ch093-XVII-A-Letter-from-Ekaterina-Vasílyevna",
+          "label": "ch093-XVII-A-Letter-from-Ekaterina-Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "ch094-Part-V-New-People-and-the-Finale",
+          "label": "ch094-Part-V-New-People-and-the-Finale"
+        },
+        {
+          "type": "related",
+          "target": "ch095-I",
+          "label": "ch095-I"
+        },
+        {
+          "type": "related",
+          "target": "ch096-II",
+          "label": "ch096-II"
+        },
+        {
+          "type": "related",
+          "target": "ch097-III",
+          "label": "ch097-III"
+        },
+        {
+          "type": "related",
+          "target": "ch098-IV",
+          "label": "ch098-IV"
+        },
+        {
+          "type": "related",
+          "target": "ch099-V",
+          "label": "ch099-V"
+        },
+        {
+          "type": "related",
+          "target": "ch100-VI",
+          "label": "ch100-VI"
+        },
+        {
+          "type": "related",
+          "target": "ch101-VII",
+          "label": "ch101-VII"
+        },
+        {
+          "type": "related",
+          "target": "ch102-VIII",
+          "label": "ch102-VIII"
+        },
+        {
+          "type": "related",
+          "target": "ch103-IX",
+          "label": "ch103-IX"
+        },
+        {
+          "type": "related",
+          "target": "ch104-X",
+          "label": "ch104-X"
+        },
+        {
+          "type": "related",
+          "target": "ch105-XI",
+          "label": "ch105-XI"
+        },
+        {
+          "type": "related",
+          "target": "ch106-XII",
+          "label": "ch106-XII"
+        },
+        {
+          "type": "related",
+          "target": "ch107-XIII",
+          "label": "ch107-XIII"
+        },
+        {
+          "type": "related",
+          "target": "ch108-XIV",
+          "label": "ch108-XIV"
+        },
+        {
+          "type": "related",
+          "target": "ch109-XV",
+          "label": "ch109-XV"
+        },
+        {
+          "type": "related",
+          "target": "ch110-XVI",
+          "label": "ch110-XVI"
+        },
+        {
+          "type": "related",
+          "target": "ch111-XVII",
+          "label": "ch111-XVII"
+        },
+        {
+          "type": "related",
+          "target": "ch112-XVIII",
+          "label": "ch112-XVIII"
+        },
+        {
+          "type": "related",
+          "target": "ch113-XIX",
+          "label": "ch113-XIX"
+        },
+        {
+          "type": "related",
+          "target": "ch114-XX",
+          "label": "ch114-XX"
+        },
+        {
+          "type": "related",
+          "target": "ch115-XXI",
+          "label": "ch115-XXI"
+        },
+        {
+          "type": "related",
+          "target": "ch116-XXII",
+          "label": "ch116-XXII"
+        },
+        {
+          "type": "related",
+          "target": "ch117-XXIII",
+          "label": "ch117-XXIII"
+        },
+        {
+          "type": "related",
+          "target": "ch118-Part-VI-Change-of-Scenes",
+          "label": "ch118-Part-VI-Change-of-Scenes"
+        },
+        {
+          "type": "related",
+          "target": "ch120-Colophon",
+          "label": "ch120-Colophon"
+        },
+        {
+          "type": "related",
+          "target": "ch121-Uncopyright",
+          "label": "ch121-Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "aleksandr-kirsánof",
+      "type": "person",
+      "label": "Aleksandr Kirsánof",
+      "description": "Medical professor, experimental scientist, and Viéra Pavlovna's second husband — the character who most consistently applies the theory of egotism to practical life, exemplifying the novel's ideal of \"coldly calculating common sense\"",
+      "aliases": [
+        "Kirsánof",
+        "Aleksandr Matvéitch",
+        "Sasha"
+      ],
+      "tags": [
+        "character",
+        "new-people",
+        "scientist",
+        "physician"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:aleksandr-kirsánof",
+      "relations": []
+    },
+    {
+      "id": "beaumonts-return",
+      "type": "event",
+      "label": "Beaumont's Return",
+      "description": "The return of Charles Beaumont to Petersburg — revealed to be Lopukhóf, alive and prosperous, having spent years in America — the event that brings the novel's central plot to its harmonious resolution",
+      "aliases": [
+        "Charles Beaumont's arrival",
+        "Lopukhóf's return from America"
+      ],
+      "tags": [
+        "plot-event",
+        "resolution",
+        "Part-V"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:beaumonts-return",
+      "relations": []
+    },
+    {
+      "id": "ch002-Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch002-Imprint",
+      "relations": []
+    },
+    {
+      "id": "ch003-Preface",
+      "type": "chapter",
+      "label": "\"Preface\"",
+      "description": "\"In the present translation the American public has an opportunity of studying what the paternal Russian government regar...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch003-Preface",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "education"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch004-What-Is-to-Be-Done",
+      "type": "chapter",
+      "label": "\"What Is to Be Done?\"",
+      "description": "\"本结构包含以下章节：\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch004-What-Is-to-Be-Done",
+      "relations": []
+    },
+    {
+      "id": "ch005-A-Vital-Question",
+      "type": "chapter",
+      "label": "\"A Vital Question\"",
+      "description": "\"\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch005-A-Vital-Question",
+      "relations": []
+    },
+    {
+      "id": "ch006-I-A-Fool",
+      "type": "chapter",
+      "label": "\"I: A Fool\"",
+      "description": "\"A Fool\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch006-I-A-Fool",
+      "relations": [
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "semyonovsky-bridge",
+          "label": "the bridge"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        }
+      ]
+    },
+    {
+      "id": "ch007-II-The-First-Consequences-of-the-Fools",
+      "type": "chapter",
+      "label": "\"II: The First Consequences of the Fool’s Deed\"",
+      "description": "\"The First Consequences of the Fool’s Deed\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch007-II-The-First-Consequences-of-the-Fools",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "Happiness"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch008-III-Preface",
+      "type": "chapter",
+      "label": "\"III: Preface\"",
+      "description": "\"Preface\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch008-III-Preface",
+      "relations": [
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch009-Part-I-The-Life-of-Viéra-Pavlovna-in-Her",
+      "type": "chapter",
+      "label": "\"Part I: The Life of Viéra Pavlovna in Her Parents’ Family\"",
+      "description": "\"The Life of Viéra Pavlovna in Her Parents’ Family\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch009-Part-I-The-Life-of-Viéra-Pavlovna-in-Her",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        }
+      ]
+    },
+    {
+      "id": "ch010-I",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"Viéra Pavlovna’s training was very ordinary. Her life, up to the time when she made the acquaintance of the medical stud...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch010-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "gorokhovaïa-street",
+          "label": "Gorokhovaïa Street"
+        },
+        {
+          "type": "related",
+          "target": "sadovïa-street",
+          "label": "Sadovïa Street"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch011-II",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"Marya Alekséyevna knew what was spoken at the theatre, but she did not yet know what followed that conversation.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch011-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Mikhaïl Ivanuitch Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "ch012-III",
+      "type": "chapter",
+      "label": "\"III\"",
+      "description": "\"“*Nu*, Viéra, all right! Your eyes show you haven’t cried. Evidently you saw that your mother tells the truth. You alway...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch012-III",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        }
+      ]
+    },
+    {
+      "id": "ch013-IV",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"“Serge, does her mother speak French?” were Julie’s first words when she awoke.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch013-IV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "gorokhovaïa-street",
+          "label": "Gorokhovaïa Street"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "gostinui-dvor",
+          "label": "Gostinui Dvor"
+        }
+      ]
+    },
+    {
+      "id": "ch014-V",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"Storeshnikof’s plan was not so murderous as Marya Alekséyevna supposed; she in her own style put it in a too brutal form...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch014-V",
+      "relations": [
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        }
+      ]
+    },
+    {
+      "id": "ch015-VI",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"Marya Alekséyevna, of course, did not even complain of Viérotchka’s refusal of the sleighride, after she found out that...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch015-VI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "gostinui-dvor",
+          "label": "Gostinui Dvor"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        }
+      ]
+    },
+    {
+      "id": "ch016-VII",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"Storeshnikof kept thinking more and more frequently, “Well, now, suppose I should take and marry her?” What happened to...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch016-VII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch017-VIII",
+      "type": "chapter",
+      "label": "\"VIII\"",
+      "description": "\"How could Matrióna help trembling when the whole trouble arose through her? As soon as she called Viérotchka to her *páp...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch017-VIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch018-IX",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"“*Nu!* how was it?” asked Marya Alekséyevna, as her husband came back.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch018-IX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        }
+      ]
+    },
+    {
+      "id": "ch019-Part-II-First-Love-and-Legal-Marriage",
+      "type": "chapter",
+      "label": "\"Part II: First Love, and Legal Marriage\"",
+      "description": "\"First Love, and Legal Marriage\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch019-Part-II-First-Love-and-Legal-Marriage",
+      "relations": []
+    },
+    {
+      "id": "ch020-I",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"It is well known how situations like the above would end in former times: a fine young girl, belonging to a low family,...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch020-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch021-II",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"No, Feódor did not misrepresent him; Lopukhóf was in fact a student whose head was full of books—what books we shall lea...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch021-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch022-III",
+      "type": "chapter",
+      "label": "\"III\"",
+      "description": "\"And so Lopukhóf entered the room, saw the company sitting at the tea-table, and in their number was Viérotchka; *nu!* of...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch022-III",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "ch023-IV",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"Marya Alekséyevna wanted to give a great party on Viérotchka’s birthday, but Viérotchka begged to have no guests invited...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch023-IV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "ch024-V",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"“How soon this came, how unexpected,” thinks Viérotchka alone in her room at the close of the evening. “We spoke for the...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch024-V",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "serzh",
+          "label": "Sergei"
+        }
+      ]
+    },
+    {
+      "id": "ch025-VI",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"During the time of the first quadrille Marya Alekséyevna was continually dogging her daughter and the tutor; but during...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch025-VI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch026-VII",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"Marya Alekséyevna’s words had many interpretations, and they were not less fecund in results. On the side of the special...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch026-VII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch027-VIII-The-Temptation-of-Hamlet",
+      "type": "chapter",
+      "label": "\"VIII: The Temptation of Hamlet\"",
+      "description": "\"The Temptation of Hamlet\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch027-VIII-The-Temptation-of-Hamlet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-temptation-of-hamlet",
+          "label": "The Temptation of Hamlet"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "medical science"
+        },
+        {
+          "type": "related",
+          "target": "rational-calculation",
+          "label": "calculation of self-interests"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "ch028-IX",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"The relations of Marya Alekséyevna to Lopukhóf resemble a farce; Marya Alekséyevna’s character is exposed by them in a r...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch028-IX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "education"
+        }
+      ]
+    },
+    {
+      "id": "ch029-X",
+      "type": "chapter",
+      "label": "\"X\"",
+      "description": "\"Of course, the main subject of the conversations between Lopukhóf and Viérotchka was not the question as to which fashio...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch029-X",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch030-XI",
+      "type": "chapter",
+      "label": "\"XI\"",
+      "description": "\"“Well, my dear, haven’t you found any situation for me yet?”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch030-XI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "semyonovsky-bridge",
+          "label": "the bridge"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "ch031-XII-Viérotchkas-First-Dream",
+      "type": "chapter",
+      "label": "\"XII: Viérotchka’s First Dream\"",
+      "description": "\"Viérotchka’s First Dream\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch031-XII-Viérotchkas-First-Dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "vieras-first-dream",
+          "label": "First Dream"
+        }
+      ]
+    },
+    {
+      "id": "ch032-XIII",
+      "type": "chapter",
+      "label": "\"XIII\"",
+      "description": "\"Lopukhóf during these last weeks has had no time to spend with his acquaintances of the medical school. Kirsánof, who ha...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch032-XIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch033-XIV",
+      "type": "chapter",
+      "label": "\"XIV\"",
+      "description": "\"Now Viérotchka has been sitting long, long, on the appointed bench, and how often did her heart beat quickly, quickly, w...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch033-XIV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch034-XV",
+      "type": "chapter",
+      "label": "\"XV\"",
+      "description": "\"Marya Alekséyevna was greatly surprised to see her daughter and Lopukhóf coming in together. She forthwith proceeded to...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch034-XV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra"
+        }
+      ]
+    },
+    {
+      "id": "ch035-XVI",
+      "type": "chapter",
+      "label": "\"XVI\"",
+      "description": "\"But Viérotchka was sitting in her room.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch035-XVI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        }
+      ]
+    },
+    {
+      "id": "ch036-XVII",
+      "type": "chapter",
+      "label": "\"XVII\"",
+      "description": "\"“Viérotchka, come to dinner!” shouted Marya Alekséyevna. In fact Pavel Konstantinuitch had returned; the *pirog* was all...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch036-XVII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        }
+      ]
+    },
+    {
+      "id": "ch037-XVIII",
+      "type": "chapter",
+      "label": "\"XVIII\"",
+      "description": "\"“Forgive me, Viéra Pavlovna,” said Lopukhóf, coming into her room. How gently he speaks, and his voice trembles; but at...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch037-XVIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch038-XIX",
+      "type": "chapter",
+      "label": "\"XIX\"",
+      "description": "\"Thus they talked—rather a strange conversation for the first one after their engagement—and they pressed each other’s ha...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch038-XIX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch039-XX",
+      "type": "chapter",
+      "label": "\"XX\"",
+      "description": "\"“It is now the twenty-eighth of April; he said that he should be through by the first of July. Let us say the tenth; but...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch039-XX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "gostinui-dvor",
+          "label": "Gostinui Dvor"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "vasilyevsky-island",
+          "label": "Vasilyevsky Island"
+        }
+      ]
+    },
+    {
+      "id": "ch040-XXI",
+      "type": "chapter",
+      "label": "\"XXI\"",
+      "description": "\"The wedding had been managed in simple, and yet far from common fashion.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch040-XXI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        },
+        {
+          "type": "related",
+          "target": "vasilyevsky-island",
+          "label": "Vasilyevsky Island"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch041-XXII",
+      "type": "chapter",
+      "label": "\"XXII\"",
+      "description": "\"But we have had only one-half of this scene.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch041-XXII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "gostinui-dvor",
+          "label": "Gostinui Dvor"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch042-XXIII",
+      "type": "chapter",
+      "label": "\"XXIII\"",
+      "description": "\"Marya Alekséyevna had a number of schemes in mind as to the way to act towards Lopukhóf when he should come in the eveni...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch042-XXIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        }
+      ]
+    },
+    {
+      "id": "ch043-XXIV-A-Word-of-Praise-for-Marya-Alekséye",
+      "type": "chapter",
+      "label": "\"XXIV: A Word of Praise for Marya Alekséyevna\"",
+      "description": "\"A Word of Praise for Marya Alekséyevna\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch043-XXIV-A-Word-of-Praise-for-Marya-Alekséye",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        }
+      ]
+    },
+    {
+      "id": "ch044-Part-III-Marriage-and-Second-Love",
+      "type": "chapter",
+      "label": "\"Part III: Marriage and Second Love\"",
+      "description": "\"Marriage and Second Love\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch044-Part-III-Marriage-and-Second-Love",
+      "relations": []
+    },
+    {
+      "id": "ch045-I",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"Three months have passed since Viérotchka was rescued from the cellar. The Lopukhófs’ affairs have prospered. He has had...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch045-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch046-II",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"The affairs of the Lopukhófs prospered. Viéra Pavlovna was always happy. But one time (this was some five months after t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch046-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "vasilyevsky-island",
+          "label": "Vasilyevsky Island"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch047-III-Viéra-Pavlovnas-Second-Dream",
+      "type": "chapter",
+      "label": "\"III: Viéra Pavlovna’s Second Dream\"",
+      "description": "\"Viéra Pavlovna’s Second Dream\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch047-III-Viéra-Pavlovnas-Second-Dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "vieras-second-dream",
+          "label": "Second Dream"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "ch048-IV",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"Viéra Pavlovna’s sewing union was established. The foundations were very simple at first—so simple, indeed, that it is n...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch048-IV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "gostinui-dvor",
+          "label": "Gostinui Dvor"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        }
+      ]
+    },
+    {
+      "id": "ch049-V",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"And thus three years have passed since the union was founded, and more than three years since Viéra Pavlovna’s marriage....\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch049-V",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch050-VI",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"Once (it was towards the end of summer) the girls gathered, according to their custom on Sunday, at the outskirts of the...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch050-VI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "the rigorist"
+        }
+      ]
+    },
+    {
+      "id": "ch051-VII",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"Two days later at morning tea, Viéra Pavlovna remarked to her husband that she did not like the color of his face. He sa...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch051-VII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch052-VIII",
+      "type": "chapter",
+      "label": "\"VIII\"",
+      "description": "\"The sapient reader—I explain myself only to the masculine reader; my lady reader has too much understanding to be bother...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch052-VIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        }
+      ]
+    },
+    {
+      "id": "ch053-IX",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"But as Europeans among Chinamen are all of one face and one way of acting, only so far as the Chinamen are concerned, bu...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch053-IX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch054-X",
+      "type": "chapter",
+      "label": "\"X\"",
+      "description": "\"But it is necessary to say two or three words about Kirsánof’s outward appearance.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch054-X",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "medical science"
+        }
+      ]
+    },
+    {
+      "id": "ch055-XI",
+      "type": "chapter",
+      "label": "\"XI\"",
+      "description": "\"During the first part of Viéra Pavlovna’s married life, Kirsánof used to be very frequently at the Lopukhófs’, as often...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch055-XI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch056-XII",
+      "type": "chapter",
+      "label": "\"XII\"",
+      "description": "\"Now Lopukhóf’s illness, or, more properly speaking, Viéra Pavlovna’s extraordinary attachment to her husband, compelled...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch056-XII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch057-XIII",
+      "type": "chapter",
+      "label": "\"XIII\"",
+      "description": "\"Everything was going well with Kirsánof, as he thought. His attachment was renewed, and stronger than before; but the st...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch057-XIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "nástenka",
+          "label": "Nástenka"
+        }
+      ]
+    },
+    {
+      "id": "ch058-XIV-Nástenkas-Story",
+      "type": "chapter",
+      "label": "\"XIV: Nástenka’s Story\"",
+      "description": "\"Nástenka’s Story\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch058-XIV-Nástenkas-Story",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nástenka",
+          "label": "Nástenka"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Aleksandr Matvéitch"
+        }
+      ]
+    },
+    {
+      "id": "ch059-XV",
+      "type": "chapter",
+      "label": "\"XV\"",
+      "description": "\"Nástenka finished telling her story to Viéra Pavlovna on other days. She lived at Kirsánof’s house about two years. The...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch059-XV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nástenka",
+          "label": "Nástenka"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch060-XVI",
+      "type": "chapter",
+      "label": "\"XVI\"",
+      "description": "\"Four months passed. The watching over Nástenka and then his recollections about her deceived Kirsánof; it seemed to him...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch060-XVI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nástenka",
+          "label": "Nástenka"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "ch061-XVII",
+      "type": "chapter",
+      "label": "\"XVII\"",
+      "description": "\"If a stranger had consulted Kirsánof about the position in which Kirsánof found himself after he came to his senses, and...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch061-XVII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "common-sense",
+          "label": "calculating common sense"
+        }
+      ]
+    },
+    {
+      "id": "ch062-XVIII",
+      "type": "chapter",
+      "label": "\"XVIII\"",
+      "description": "\"But how could he withdraw? His former game of making believe offended, of exhibiting some mean feature of his character...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch062-XVIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch063-XIX-Viéra-Pavlovnas-Third-Dream",
+      "type": "chapter",
+      "label": "\"XIX: Viéra Pavlovna’s Third Dream\"",
+      "description": "\"Viéra Pavlovna’s Third Dream\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch063-XIX-Viéra-Pavlovnas-Third-Dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "vieras-third-dream",
+          "label": "Third Dream"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "Bosio"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        }
+      ]
+    },
+    {
+      "id": "ch064-XX",
+      "type": "chapter",
+      "label": "\"XX\"",
+      "description": "\"The next morning, Dmitri does not go to call his wife to breakfast; she is there with him, clinging to him. She is still...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch064-XX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "mílenki"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "Bosio"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch065-XXI",
+      "type": "chapter",
+      "label": "\"XXI\"",
+      "description": "\"But after his wife had gone to sleep sitting on his knees, after he laid her down on her little sofa, Lopukhóf began to...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch065-XXI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        }
+      ]
+    },
+    {
+      "id": "ch066-XXII-A-Theoretical-Conversation",
+      "type": "chapter",
+      "label": "\"XXII: A Theoretical Conversation\"",
+      "description": "\"A Theoretical Conversation\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch066-XXII-A-Theoretical-Conversation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "education"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch067-XXIII",
+      "type": "chapter",
+      "label": "\"XXIII\"",
+      "description": "\"The renewal of Kirsánof’s frequent visits could be explained very naturally; five months he had been interrupted in his...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch067-XXIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        }
+      ]
+    },
+    {
+      "id": "ch068-XXIV",
+      "type": "chapter",
+      "label": "\"XXIV\"",
+      "description": "\"Slowly, unobservably, this discovery began to evolve itself in her mind. All the time there accumulated small, almost un...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch068-XXIV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch069-XXV",
+      "type": "chapter",
+      "label": "\"XXV\"",
+      "description": "\"“The best distraction for thoughts is work,” said Viéra Pavlovna to herself, and she was entirely right. “I shall spend...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch069-XXV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch070-XXVI",
+      "type": "chapter",
+      "label": "\"XXVI\"",
+      "description": "\"At the end of two weeks, while Lopukhóf was sitting in the counting-room of his factory, Viéra Pavlovna was spending the...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch070-XXVI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        }
+      ]
+    },
+    {
+      "id": "ch071-XXVII",
+      "type": "chapter",
+      "label": "\"XXVII\"",
+      "description": "\"When Viéra Pavlovna came out from her room the next morning, her husband and Masha were already packing two valises with...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch071-XXVII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch072-XXVIII",
+      "type": "chapter",
+      "label": "\"XXVIII\"",
+      "description": "\"This was towards the end of April. Towards the middle of June Lopukhóf returned; lived three weeks in Petersburg, then h...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch072-XXVIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "ch073-XXIX-An-Extraordinary-Man",
+      "type": "chapter",
+      "label": "\"XXIX: An Extraordinary Man\"",
+      "description": "\"An Extraordinary Man\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch073-XXIX-An-Extraordinary-Man",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "natural science"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "ch074-XXX",
+      "type": "chapter",
+      "label": "\"XXX\"",
+      "description": "\"“Well [*nu!*],” thinks the sapient reader, “now the main character is to be Rakhmétof; and he will put everybody into hi...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch074-XXX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        }
+      ]
+    },
+    {
+      "id": "ch075-XXXI-A-Colloquy-with-the-Sapient-Reader",
+      "type": "chapter",
+      "label": "\"XXXI: A Colloquy with the Sapient Reader, and His Banishment\"",
+      "description": "\"A Colloquy with the Sapient Reader, and His Banishment\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch075-XXXI-A-Colloquy-with-the-Sapient-Reader",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "gorokhovaïa-street",
+          "label": "Gorokhovaïa Street"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "mertsálof",
+          "label": "Mertsálof"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "semyonovsky-bridge",
+          "label": "the bridge"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "self-development"
+        }
+      ]
+    },
+    {
+      "id": "ch076-Part-IV-Second-Marriage",
+      "type": "chapter",
+      "label": "\"Part IV: Second Marriage\"",
+      "description": "\"Second Marriage\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch076-Part-IV-Second-Marriage",
+      "relations": []
+    },
+    {
+      "id": "ch077-I",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"Part IV chapter I\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch077-I",
+      "relations": []
+    },
+    {
+      "id": "ch078-II",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"Part IV chapter II\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch078-II",
+      "relations": []
+    },
+    {
+      "id": "ch079-III",
+      "type": "chapter",
+      "label": "\"III\"",
+      "description": "\"These letters, absolutely sincere, were really somewhat warped, as Viéra Pavlovna herself noticed. Both correspondents o...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch079-III",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        }
+      ]
+    },
+    {
+      "id": "ch080-IV",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"Viéra Pavlovna is resting on her soft lounge, expecting her husband home to dinner from the hospital. Today she has been...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch080-IV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "vasilyevsky-island",
+          "label": "Vasilyevsky Island"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch081-V",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"“*Mílenki*, I am going with thee.”\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch081-V",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Dmitri Sergéitch"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Aleksandr Matvéitch"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "ch082-VI",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"Viéra Pavlovna does not very often recollect the past days of their present love. Yes, in the present there is so much l...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch082-VI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch083-VII",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"“Sasha, how lovely this N. N. is (Viéra Pavlovna named the officer with whom she wanted to become acquainted with Tambul...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch083-VII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Sasha"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "Bosio"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "true-love",
+          "label": "real love"
+        }
+      ]
+    },
+    {
+      "id": "ch084-VIII",
+      "type": "chapter",
+      "label": "\"VIII\"",
+      "description": "\"“Sasha, let us finish talking about what we left yesterday. It is necessary; for I have made up my mind to go with you:...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch084-VIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Sasha"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        }
+      ]
+    },
+    {
+      "id": "ch085-IX",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"“Almost all the channels of civilized life are closed to us by law.”92 A good many are closed to us practically—almost a...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch085-IX",
+      "relations": []
+    },
+    {
+      "id": "ch086-X",
+      "type": "chapter",
+      "label": "\"X\"",
+      "description": "\"Viéra Pavlovna finished her conversation with her husband by putting on her bonnet, and going with him to the hospital t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch086-X",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch087-XI",
+      "type": "chapter",
+      "label": "\"XI\"",
+      "description": "\"And thus a year passes; and another year will pass, and still another since her marriage to Kirsánof; and thus all of Vi...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch087-XI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "vieras-marriage-to-kirsánof",
+          "label": "marriage to Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "vasilyevsky-island",
+          "label": "Vasilyevsky Island"
+        },
+        {
+          "type": "related",
+          "target": "kirsánofs-hospital",
+          "label": "the clinic"
+        }
+      ]
+    },
+    {
+      "id": "ch088-XII-A-Digression-Concerning-Blue-Stockin",
+      "type": "chapter",
+      "label": "\"XII: A Digression Concerning Blue Stockings\"",
+      "description": "\"A Digression Concerning Blue Stockings\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch088-XII-A-Digression-Concerning-Blue-Stockin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "education"
+        }
+      ]
+    },
+    {
+      "id": "ch089-XIII",
+      "type": "chapter",
+      "label": "\"XIII\"",
+      "description": "\"The talk about Blue Stockings, so useful for the sapient reader, who was shown to be one, took me away from my descripti...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch089-XIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "ch090-XIV",
+      "type": "chapter",
+      "label": "\"XIV\"",
+      "description": "\"“And so here we have been living together three years” (before, it used to be said *a year, two years*, and later it wil...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch090-XIV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "true-love",
+          "label": "erotic selfishness"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Sasha"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viérotchka"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch091-XV-Viéra-Pavlovnas-Fourth-Dream",
+      "type": "chapter",
+      "label": "\"XV: Viéra Pavlovna’s Fourth Dream\"",
+      "description": "\"Viéra Pavlovna’s Fourth Dream\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch091-XV-Viéra-Pavlovnas-Fourth-Dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "vieras-fourth-dream",
+          "label": "Fourth Dream"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Sasha"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        },
+        {
+          "type": "related",
+          "target": "science-and-progress",
+          "label": "progress"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "culture"
+        }
+      ]
+    },
+    {
+      "id": "ch092-XVI",
+      "type": "chapter",
+      "label": "\"XVI\"",
+      "description": "\"A year later the new union was in perfect running order. Both shops were closely connected; one shop would give the othe...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch092-XVI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "sewing-cooperative",
+          "label": "sewing union"
+        }
+      ]
+    },
+    {
+      "id": "ch093-XVII-A-Letter-from-Ekaterina-Vasílyevna",
+      "type": "chapter",
+      "label": "\"XVII: A Letter from Ekaterina Vasílyevna Pólozova\"",
+      "description": "\"A Letter from Ekaterina Vasílyevna Pólozova\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch093-XVII-A-Letter-from-Ekaterina-Vasílyevna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "culture"
+        }
+      ]
+    },
+    {
+      "id": "ch094-Part-V-New-People-and-the-Finale",
+      "type": "chapter",
+      "label": "\"Part V: New People, and the Finale\"",
+      "description": "\"New People, and the Finale\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch094-Part-V-New-People-and-the-Finale",
+      "relations": []
+    },
+    {
+      "id": "ch095-I",
+      "type": "chapter",
+      "label": "\"I\"",
+      "description": "\"Miss Pólozova, in her letter to her friend, referred to her gratitude to Viéra Pavlovna’s husband. To explain this it is...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch095-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch096-II",
+      "type": "chapter",
+      "label": "\"II\"",
+      "description": "\"The father loved his Kátya; he did not allow ultra-high-society’s governesses to train the girl too severely. “That is n...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch096-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        }
+      ]
+    },
+    {
+      "id": "ch097-III",
+      "type": "chapter",
+      "label": "\"III\"",
+      "description": "\"Kirsánof did not care to practise, but he did not consider it right for him to refuse consultations. But at this time—it...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch097-III",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch098-IV",
+      "type": "chapter",
+      "label": "\"IV\"",
+      "description": "\"Bridegrooms had swarmed by the hundred around the heiress of the great fortune; but the society which flocked to Pólozof...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch098-IV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        }
+      ]
+    },
+    {
+      "id": "ch099-V",
+      "type": "chapter",
+      "label": "\"V\"",
+      "description": "\"But if the practising Big Wigs agreed that Mademoiselle Pólozova’s *atrophia nervorum*, which had been developed by a we...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch099-V",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "storeshnikof",
+          "label": "Storeshnikof"
+        }
+      ]
+    },
+    {
+      "id": "ch100-VI",
+      "type": "chapter",
+      "label": "\"VI\"",
+      "description": "\"Of course in other cases of this sort Kirsánof would not have thought of running such a risk; it would be more simple to...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch100-VI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Lopukhóf"
+        },
+        {
+          "type": "related",
+          "target": "rakhmetof",
+          "label": "Rakhmétof"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        }
+      ]
+    },
+    {
+      "id": "ch101-VII",
+      "type": "chapter",
+      "label": "\"VII\"",
+      "description": "\"Kirsánof could not give up the case; it was necessary to help Katerina Vasílyevna emerge from her blindness, and it was...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch101-VII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        }
+      ]
+    },
+    {
+      "id": "ch102-VIII",
+      "type": "chapter",
+      "label": "\"VIII\"",
+      "description": "\"After these occurrences, Katerina Vasílyevna was long melancholy; but her melancholy, though developed by this state of...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch102-VIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch103-IX",
+      "type": "chapter",
+      "label": "\"IX\"",
+      "description": "\"Pólozof was anxious to arrange for the sale of the stearine factory of which he was part owner and had been the manager....\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch103-IX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        }
+      ]
+    },
+    {
+      "id": "ch104-X",
+      "type": "chapter",
+      "label": "\"X\"",
+      "description": "\"Charles Beaumont, like the average Charles, John, James, and William, did not care to indulge in intimacies or personal...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch104-X",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        }
+      ]
+    },
+    {
+      "id": "ch105-XI",
+      "type": "chapter",
+      "label": "\"XI\"",
+      "description": "\"Beaumont found himself at the dinner-table, sitting with only two others, the old man and a very genteel, but somewhat m...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch105-XI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "education"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        }
+      ]
+    },
+    {
+      "id": "ch106-XII",
+      "type": "chapter",
+      "label": "\"XII\"",
+      "description": "\"It thus came about that Miss Pólozova became acquainted with Viéra Pavlovna. She went to see her the very next morning;...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch106-XII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "ch107-XIII",
+      "type": "chapter",
+      "label": "\"XIII\"",
+      "description": "\"Beaumont got into the way of making frequent calls at the Pólozofs’. “Why not?” thought the old man. “He is an excellent...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch107-XIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "marya-alekséyevna",
+          "label": "Marya Alekséyevna"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch108-XIV",
+      "type": "chapter",
+      "label": "\"XIV\"",
+      "description": "\"For the next two or three visits Beaumont was met very coolly by Katerina Vasílyevna. In truth, she began to feel a cert...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch108-XIV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "moscow",
+          "label": "Moscow"
+        }
+      ]
+    },
+    {
+      "id": "ch109-XV",
+      "type": "chapter",
+      "label": "\"XV\"",
+      "description": "\"Katerina Vasílyevna’s enthusiasm continued without diminution, but changed into a constant, habitual mood, earnest, eage...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch109-XV",
+      "relations": [
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        }
+      ]
+    },
+    {
+      "id": "ch110-XVI",
+      "type": "chapter",
+      "label": "\"XVI\"",
+      "description": "\"But the main thing was, did they love each other? Let us begin with her. There was one case when she showed some solicit...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch110-XVI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "self-cultivation",
+          "label": "reading"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        }
+      ]
+    },
+    {
+      "id": "ch111-XVII",
+      "type": "chapter",
+      "label": "\"XVII\"",
+      "description": "\"Does it ever happen that people do such things? Do young girls who are in love ever make such visits? Not to speak of th...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch111-XVII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        }
+      ]
+    },
+    {
+      "id": "ch112-XVIII",
+      "type": "chapter",
+      "label": "\"XVIII\"",
+      "description": "\"Meantime, so far as the old man Pólozof could judge, the affair was coming to a marriage. When the probable bride and pr...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch112-XVIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "sólovtsof",
+          "label": "Sólovtsof"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Aleksandr Matvéitch"
+        },
+        {
+          "type": "related",
+          "target": "womens-independence",
+          "label": "woman question"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        }
+      ]
+    },
+    {
+      "id": "ch113-XIX",
+      "type": "chapter",
+      "label": "\"XIX\"",
+      "description": "\"On the next day at three o’clock Katerina Vasílyevna went to Viéra Pavlovna.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch113-XIX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Aleksandr Matvéitch"
+        },
+        {
+          "type": "related",
+          "target": "st-petersburg",
+          "label": "Petersburg"
+        }
+      ]
+    },
+    {
+      "id": "ch114-XX",
+      "type": "chapter",
+      "label": "\"XX\"",
+      "description": "\"There was still more riotous conduct during the evening; but when order was restored, Beaumont, by the request of his ne...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch114-XX",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "the United States"
+        },
+        {
+          "type": "related",
+          "target": "massachusetts",
+          "label": "Massachusetts"
+        }
+      ]
+    },
+    {
+      "id": "ch115-XXI",
+      "type": "chapter",
+      "label": "\"XXI\"",
+      "description": "\"That very evening they made an agreement that the two families should look for apartments which should be adjoining. In...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch115-XXI",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        }
+      ]
+    },
+    {
+      "id": "ch116-XXII",
+      "type": "chapter",
+      "label": "\"XXII\"",
+      "description": "\"The two families each lived according to the style that best pleased them. On ordinary days there was much noise in one...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch116-XXII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "ch117-XXIII",
+      "type": "chapter",
+      "label": "\"XXIII\"",
+      "description": "\"They live gayly and cordially; they work and they rest; they enjoy life; and look forward to the future if not without t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch117-XXIII",
+      "relations": [
+        {
+          "type": "related",
+          "target": "viéra-pavlovna",
+          "label": "Viéra Pavlovna"
+        },
+        {
+          "type": "related",
+          "target": "katerina-vasílyevna",
+          "label": "Katerina Vasílyevna"
+        },
+        {
+          "type": "related",
+          "target": "pólozof",
+          "label": "Pólozof"
+        },
+        {
+          "type": "related",
+          "target": "dmitri-lopukhóf",
+          "label": "Beaumont"
+        },
+        {
+          "type": "related",
+          "target": "aleksandr-kirsánof",
+          "label": "Kirsánof"
+        },
+        {
+          "type": "related",
+          "target": "julie",
+          "label": "Julie"
+        },
+        {
+          "type": "related",
+          "target": "happiness",
+          "label": "satisfaction"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "opera-and-culture",
+          "label": "art"
+        }
+      ]
+    },
+    {
+      "id": "ch118-Part-VI-Change-of-Scenes",
+      "type": "chapter",
+      "label": "\"Part VI: Change of Scenes\"",
+      "description": "\"Change of Scenes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch118-Part-VI-Change-of-Scenes",
+      "relations": []
+    },
+    {
+      "id": "ch120-Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch120-Colophon",
+      "relations": []
+    },
+    {
+      "id": "ch121-Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "what-is-to-be-done:ch121-Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "common-sense",
+      "type": "concept",
+      "label": "Common Sense",
+      "description": "The \"new people's\" term for practical rationality — the application of clear, self-aware reasoning to life decisions, contrasted with the romantic illusions, social conventions, and sentimental morality of the old order",
+      "aliases": [
+        "cold common sense",
+        "practical reason",
+        "calculating common sense",
+        "здравый смысл"
+      ],
+      "tags": [
+        "philosophy",
+        "practical-reason",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:common-sense",
+      "relations": []
+    },
+    {
+      "id": "crystal-palace",
+      "type": "concept",
+      "label": "Crystal Palace",
+      "description": "The enormous edifice of cast-iron and glass that appears in Viéra Pavlovna's Fourth Dream — Chernyshevsky's architectural metaphor for a future socialist society based on cooperation, abundance, and the transformation of human relations",
+      "aliases": [
+        "Palace of Aluminum and Glass",
+        "Sydenham Palace",
+        "utopian palace",
+        "great edifice"
+      ],
+      "tags": [
+        "utopia",
+        "architecture",
+        "socialism",
+        "fourth-dream",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:crystal-palace",
+      "relations": []
+    },
+    {
+      "id": "dmitri-lopukhóf",
+      "type": "person",
+      "label": "Dmitri Lopukhóf",
+      "description": "Medical student, materialist philosopher, and [[Viéra Pavlovna]]'s first husband — the character who introduces the [[Theory of Egotism|theory of egotism]] and orchestrates Viéra's escape through a [[Fictitious Marriage|fictitious marriage]], later faking his own death to free her",
+      "aliases": [
+        "Lopukhóf",
+        "Dmitri Sergéitch",
+        "mílenki",
+        "Beaumont"
+      ],
+      "tags": [
+        "character",
+        "new-people",
+        "philosopher",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:dmitri-lopukhóf",
+      "relations": []
+    },
+    {
+      "id": "establishment-of-the-cooperative",
+      "type": "event",
+      "label": "Establishment of the Sewing Cooperative",
+      "description": "Viéra Pavlovna's founding of the sewing cooperative — beginning with three seamstresses and a simple profit-sharing arrangement, growing over three years into a thriving enterprise that embodies the \"new people's\" economic principles",
+      "aliases": [
+        "founding of the sewing union",
+        "start of the workshop"
+      ],
+      "tags": [
+        "economic",
+        "cooperative",
+        "Part-II"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:establishment-of-the-cooperative",
+      "relations": []
+    },
+    {
+      "id": "fictitious-marriage",
+      "type": "concept",
+      "label": "Fictitious Marriage",
+      "description": "The strategic use of legal marriage as a fiction to circumvent patriarchal constraints — Lopukhóf and Viéra Pavlovna's marriage is a legal form that enables her escape from her parents' household while preserving her independence",
+      "aliases": [
+        "legal marriage",
+        "sham marriage",
+        "marriage of convenience",
+        "formal marriage"
+      ],
+      "tags": [
+        "social-institution",
+        "law",
+        "marriage",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:fictitious-marriage",
+      "relations": []
+    },
+    {
+      "id": "gorokhovaïa-street",
+      "type": "place",
+      "label": "Gorokhovaïa Street",
+      "description": "The street in St. Petersburg where the Rozálsky family lives — the site of Viéra Pavlovna's childhood \"cellar\" and the world of the old order from which she must escape",
+      "aliases": [
+        "Gorokhovaïa",
+        "Gorokhovaya Street",
+        "Pea Street"
+      ],
+      "tags": [
+        "street",
+        "setting",
+        "old-order"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:gorokhovaïa-street",
+      "relations": []
+    },
+    {
+      "id": "gostinui-dvor",
+      "type": "place",
+      "label": "Gostinui Dvor",
+      "description": "The great merchants' arcade of St. Petersburg — a site of commerce and social exchange that represents the economic world the \"new people\" navigate and transform",
+      "aliases": [
+        "the Merchants' Arcade",
+        "the Bazaar"
+      ],
+      "tags": [
+        "market",
+        "commerce",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:gostinui-dvor",
+      "relations": []
+    },
+    {
+      "id": "happiness",
+      "type": "concept",
+      "label": "Happiness",
+      "description": "The central ethical goal of Chernyshevsky's philosophy — happiness understood not as passive pleasure but as the active satisfaction that comes from rational [[Self-Cultivation|self-development]], useful work, and relations of mutual respect between free individuals",
+      "aliases": [
+        "enjoyment of life",
+        "human flourishing",
+        "satisfaction",
+        "rational happiness"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "new-people",
+        "Chernyshevsky",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:happiness",
+      "relations": []
+    },
+    {
+      "id": "julie",
+      "type": "person",
+      "label": "Julie",
+      "description": "A Frenchwoman who befriends Viéra Pavlovna and introduces her to a wider social circle — a sympathetic figure from outside the Russian social structure who provides Viéra with connections and perspective",
+      "aliases": [
+        "Julie Le Tellier",
+        "the Frenchwoman"
+      ],
+      "tags": [
+        "character",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:julie",
+      "relations": []
+    },
+    {
+      "id": "katerina-vasílyevna",
+      "type": "person",
+      "label": "Katerina Vasílyevna",
+      "description": "Daughter of the wealthy contractor Pólozof and close friend of Viéra Pavlovna — her correspondence with Viéra provides one of the novel's most explicit articulations of the \"new people's\" philosophy of love and autonomy",
+      "aliases": [
+        "Katerina Vasílyevna Pólozova",
+        "Mme Beaumont"
+      ],
+      "tags": [
+        "character",
+        "new-people"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:katerina-vasílyevna",
+      "relations": []
+    },
+    {
+      "id": "katerinas-wedding",
+      "type": "event",
+      "label": "Katerina's Wedding",
+      "description": "The marriage of Katerina Vasílyevna Pólozova to Charles Beaumont — the union that extends the \"new people's\" circle and completes the novel's pattern of marriages founded on rational choice and mutual respect",
+      "aliases": [
+        "wedding of Katerina and Beaumont",
+        "Pólozova's marriage"
+      ],
+      "tags": [
+        "marriage",
+        "resolution",
+        "Part-V"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:katerinas-wedding",
+      "relations": []
+    },
+    {
+      "id": "kirsánofs-hospital",
+      "type": "place",
+      "label": "Kirsánof's Hospital",
+      "description": "The hospital where Aleksandr Kirsánof conducts his medical research and treats patients — a space where the \"new people's\" scientific ethos is practiced and where Kirsánof's dual identity as researcher and healer is enacted",
+      "aliases": [
+        "the Medical-Surgical Academy Hospital",
+        "the clinic"
+      ],
+      "tags": [
+        "hospital",
+        "medicine",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:kirsánofs-hospital",
+      "relations": []
+    },
+    {
+      "id": "labor-as-vocation",
+      "type": "concept",
+      "label": "Labor as Vocation",
+      "description": "The idea that work should be chosen for its intrinsic satisfaction rather than merely for income — a central principle of the \"new people's\" economic philosophy, modeled by Lopukhóf's choice of medical research over private practice and Viéra's management of the cooperative as a \"hobby\"",
+      "aliases": [
+        "work as calling",
+        "meaningful work",
+        "work for pleasure",
+        "vocation"
+      ],
+      "tags": [
+        "economics",
+        "labor",
+        "work",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:labor-as-vocation",
+      "relations": []
+    },
+    {
+      "id": "lopukhófs-fake-suicide",
+      "type": "event",
+      "label": "Lopukhóf's Fake Suicide",
+      "description": "Lopukhóf's elaborately staged suicide — traveling to Riazan, leaving his clothes by the river, and vanishing — the mechanism by which he dissolves his legal marriage to Viéra while preserving her freedom and his own dignity",
+      "aliases": [
+        "Lopukhóf's disappearance",
+        "the Riazan suicide",
+        "the staged death"
+      ],
+      "tags": [
+        "plot-event",
+        "marriage",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:lopukhófs-fake-suicide",
+      "relations": []
+    },
+    {
+      "id": "marya-alekséyevna",
+      "type": "person",
+      "label": "Marya Alekséyevna",
+      "description": "Viéra Pavlovna's mother — a domineering, pragmatic woman of the old order who treats her daughter as a commodity to be sold in marriage, yet whose harsh realism contains a distorted recognition of the same truths that the \"new people\" articulate more clearly",
+      "aliases": [
+        "Marya Alekséyevna Rozálskaya",
+        "Viéra's mother"
+      ],
+      "tags": [
+        "character",
+        "old-order",
+        "antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:marya-alekséyevna",
+      "relations": []
+    },
+    {
+      "id": "marya-alekséyevnas-downfall",
+      "type": "event",
+      "label": "Marya Alekséyevna's Downfall",
+      "description": "The collapse of Marya Alekséyevna's scheme to marry Viéra to Storeshnikof — the moment when the old order's logic of commodification is defeated by the \"new people's\" philosophy of autonomy",
+      "aliases": [
+        "the mother's defeat",
+        "Marya Alekséyevna's loss"
+      ],
+      "tags": [
+        "plot-event",
+        "old-order",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:marya-alekséyevnas-downfall",
+      "relations": []
+    },
+    {
+      "id": "massachusetts",
+      "type": "place",
+      "label": "Massachusetts",
+      "description": "The American state where Lopukhóf/Beaumont establishes himself — representing in the novel's geography the rural alternative to urban life, associated with the Fourierist communities and utopian experiments of nineteenth-century America",
+      "aliases": [
+        "New England",
+        "the American countryside"
+      ],
+      "tags": [
+        "region",
+        "America",
+        "utopia"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:massachusetts",
+      "relations": []
+    },
+    {
+      "id": "medical-surgical-academy-hospital",
+      "type": "organization",
+      "label": "Medical-Surgical Academy Hospital",
+      "description": "The St. Petersburg military hospital where Dmitri Lopukhóf serves as surgeon and later teaches — a center of the novel's medical subculture, where young doctors devote themselves to observation and research rather than private practice",
+      "aliases": [
+        "the army hospital",
+        "the Petersburg military hospital",
+        "the hospital"
+      ],
+      "tags": [
+        "medicine",
+        "military",
+        "petersburg",
+        "lopukhóf",
+        "kirsánof",
+        "medical-school"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:medical-surgical-academy-hospital",
+      "relations": []
+    },
+    {
+      "id": "mertsálof",
+      "type": "person",
+      "label": "Mertsálof",
+      "description": "A priest and friend of Lopukhóf who performs Viéra's wedding ceremony and remains part of the \"new people's\" circle — representing the possibility of religious office reconciled with rationalist philosophy",
+      "aliases": [
+        "Father Mertsálof",
+        "Alekséi Petróvitch Mertsálof"
+      ],
+      "tags": [
+        "character",
+        "supporting",
+        "new-people"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:mertsálof",
+      "relations": []
+    },
+    {
+      "id": "moscow",
+      "type": "place",
+      "label": "Moscow",
+      "description": "Russia's former capital, mentioned in the novel as a point of contrast and connection — the city to which Lopukhóf travels on his way to staging his suicide, and a symbol of the broader Russian world beyond Petersburg",
+      "aliases": [
+        "the old capital"
+      ],
+      "tags": [
+        "city",
+        "Russia"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:moscow",
+      "relations": []
+    },
+    {
+      "id": "new-york",
+      "type": "place",
+      "label": "New York",
+      "description": "The American city where Lopukhóf lives during his years of absence — representing the New World as a site of freedom and transformation, the place where a Russian can shed his old identity and become someone new",
+      "aliases": [
+        "America",
+        "the United States"
+      ],
+      "tags": [
+        "city",
+        "America",
+        "abroad"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:new-york",
+      "relations": []
+    },
+    {
+      "id": "nástenka",
+      "type": "person",
+      "label": "Nástenka",
+      "description": "A young woman whose story Kirsánof recounts — a factory worker seduced and abandoned by Sólovtsof, whose narrative serves as a cautionary example of the old order's treatment of women and an illustration of Kirsánof's compassionate practice",
+      "aliases": [
+        "Nástenka Kryukova",
+        "Násta"
+      ],
+      "tags": [
+        "character",
+        "supporting",
+        "patient"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:nástenka",
+      "relations": []
+    },
+    {
+      "id": "nástenkas-confession",
+      "type": "event",
+      "label": "Nástenka's Confession",
+      "description": "Kirsánof's recounting of Nástenka Kryukova's story to Viéra Pavlovna — the tale of a factory worker seduced and abandoned by Sólovtsof, serving as a cautionary example of the old order's treatment of vulnerable women",
+      "aliases": [
+        "Kirsánof's story of Nástenka",
+        "the Kryukova case"
+      ],
+      "tags": [
+        "cautionary-tale",
+        "Part-II"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:nástenkas-confession",
+      "relations": []
+    },
+    {
+      "id": "opera-and-culture",
+      "type": "concept",
+      "label": "Opera and Culture",
+      "description": "The role of art — particularly opera and music — in the self-development of the \"new people,\" representing the cultivation of sensibility that distinguishes a fully developed human being from one who merely survives",
+      "aliases": [
+        "art",
+        "music",
+        "aesthetics",
+        "cultural development",
+        "Bosio"
+      ],
+      "tags": [
+        "aesthetics",
+        "culture",
+        "music",
+        "self-development",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:opera-and-culture",
+      "relations": []
+    },
+    {
+      "id": "pável-konstantinuitch",
+      "type": "person",
+      "label": "Pável Konstantinuitch",
+      "description": "Viéra Pavlovna's father — a minor government official whose passivity and ineffectuality make him complicit in his wife Marya Alekséyevna's domination of their household",
+      "aliases": [
+        "Pável Konstantinuitch Rozálsky",
+        "Viéra's father"
+      ],
+      "tags": [
+        "character",
+        "minor",
+        "old-order"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:pável-konstantinuitch",
+      "relations": []
+    },
+    {
+      "id": "pólozof",
+      "type": "person",
+      "label": "Pólozof",
+      "description": "A wealthy government contractor and father of Katerina Vasílyevna — a representative of the old order's commercial class whose fortune is built on the same system of exploitation that the \"new people\" seek to transcend",
+      "aliases": [
+        "Pólozof the Contractor"
+      ],
+      "tags": [
+        "character",
+        "old-order",
+        "businessman"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:pólozof",
+      "relations": []
+    },
+    {
+      "id": "pólozofs-estate",
+      "type": "place",
+      "label": "Pólozof's Estate",
+      "description": "The country estate of the wealthy government contractor Pólozof — representing the old order's concentration of wealth in land and the economic system that the \"new people's\" cooperative principles are designed to transcend",
+      "aliases": [
+        "the Pólozof country estate",
+        "the contractor's property"
+      ],
+      "tags": [
+        "estate",
+        "wealth",
+        "old-order"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:pólozofs-estate",
+      "relations": []
+    },
+    {
+      "id": "pólozofs-stearine-factory",
+      "type": "organization",
+      "label": "Pólozof's Stearine Factory",
+      "description": "The stearine factory in which Pólozof holds shares and serves as manager — a site of capitalist production and financial speculation whose sale to the London firm of Hodgson, Lotter and Company connects the novel's economic world to international commerce",
+      "aliases": [
+        "the stearine factory",
+        "Pólozof's factory",
+        "the tallow and stearine works"
+      ],
+      "tags": [
+        "industry",
+        "capitalism",
+        "pólozof",
+        "beaumont",
+        "stearine",
+        "tambof"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:pólozofs-stearine-factory",
+      "relations": []
+    },
+    {
+      "id": "rakhmetof",
+      "type": "person",
+      "label": "Rakhmétof",
+      "description": "The \"extraordinary man\" of the novel — a revolutionary ascetic who has transformed himself through rigorous self-discipline into an instrument of social change, presented as a higher type than the \"new people\" but not a model for ordinary readers",
+      "aliases": [
+        "the extraordinary man",
+        "the rigorist",
+        "Nikitushka Lomof"
+      ],
+      "tags": [
+        "character",
+        "extraordinary-man",
+        "revolutionary",
+        "ascetic"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:rakhmetof",
+      "relations": []
+    },
+    {
+      "id": "rakhmetofs-visit",
+      "type": "event",
+      "label": "Rakhmétof's Visit",
+      "description": "Rakhmétof's visit to Viéra Pavlovna on the evening of Lopukhóf's disappearance — delivering Lopukhóf's letter and explaining, with characteristic harshness and hidden tenderness, why the suicide was necessary",
+      "aliases": [
+        "the formidable visit",
+        "Rakhmétof's arrival"
+      ],
+      "tags": [
+        "plot-event",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:rakhmetofs-visit",
+      "relations": []
+    },
+    {
+      "id": "rational-calculation",
+      "type": "concept",
+      "label": "Rational Calculation",
+      "description": "The deliberative process by which the \"new people\" apply the theory of egotism to practical decisions — weighing competing interests to determine the course of action that maximizes genuine satisfaction, including the satisfaction of acting nobly",
+      "aliases": [
+        "calculation of self-interests",
+        "noble calculation",
+        "cold calculation",
+        "calculated self-interest"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "decision-making",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:rational-calculation",
+      "relations": []
+    },
+    {
+      "id": "rozálsky-apartment",
+      "type": "place",
+      "label": "The Rozálsky Apartment",
+      "description": "The apartment on Gorokhovaïa Street where Viéra Pavlovna grows up — the \"cellar\" of her First Dream, a domestic prison ruled by Marya Alekséyevna's commodifying logic",
+      "aliases": [
+        "Viéra's childhood home",
+        "the cellar apartment"
+      ],
+      "tags": [
+        "domestic-space",
+        "old-order",
+        "prison"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:rozálsky-apartment",
+      "relations": []
+    },
+    {
+      "id": "sadovïa-street",
+      "type": "place",
+      "label": "Sadovïa Street",
+      "description": "A St. Petersburg street that appears in the novel's urban geography — part of the network of streets, bridges, and districts that map the \"new people's\" movements through the imperial capital",
+      "aliases": [
+        "Sadovaya Street",
+        "Garden Street"
+      ],
+      "tags": [
+        "street",
+        "setting",
+        "St-Petersburg"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:sadovïa-street",
+      "relations": []
+    },
+    {
+      "id": "science-and-progress",
+      "type": "concept",
+      "label": "Science and Progress",
+      "description": "The role of natural science — particularly medicine — as a model for rational thought and social progress, embodied in Kirsánof's research and the novel's broader faith in scientific understanding as the foundation for human improvement",
+      "aliases": [
+        "scientific medicine",
+        "medical science",
+        "natural science",
+        "progress"
+      ],
+      "tags": [
+        "science",
+        "medicine",
+        "progress",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:science-and-progress",
+      "relations": []
+    },
+    {
+      "id": "self-cultivation",
+      "type": "concept",
+      "label": "Self-Cultivation",
+      "description": "The deliberate cultivation of one's intellectual and moral capacities through reading, observation, and reflection — presented in the novel as both the path to happiness and the duty of every rational person",
+      "aliases": [
+        "self-development",
+        "education",
+        "reading",
+        "personal growth",
+        "culture"
+      ],
+      "tags": [
+        "philosophy",
+        "education",
+        "self-development",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:self-cultivation",
+      "relations": []
+    },
+    {
+      "id": "semyonovsky-bridge",
+      "type": "place",
+      "label": "Semyonovsky Bridge",
+      "description": "A bridge in St. Petersburg that appears at key moments in the novel — a liminal space associated with transitions, decisions, and the boundary between the old order and the new",
+      "aliases": [
+        "Semyonovsky Most",
+        "the bridge"
+      ],
+      "tags": [
+        "bridge",
+        "setting",
+        "St-Petersburg"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:semyonovsky-bridge",
+      "relations": []
+    },
+    {
+      "id": "serzh",
+      "type": "person",
+      "label": "Serzh",
+      "description": "An officer friend of Storeshnikof who participates in the scheme to seduce Viéra — a minor figure of the old order's masculine world of bets, dares, and predatory courtship",
+      "aliases": [
+        "Sergei",
+        "Serzh the Officer"
+      ],
+      "tags": [
+        "character",
+        "minor",
+        "old-order"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:serzh",
+      "relations": []
+    },
+    {
+      "id": "sewing-cooperative",
+      "type": "concept",
+      "label": "Sewing Cooperative",
+      "description": "The sewing workshop founded by Viéra Pavlovna as a practical experiment in cooperative labor — a model of economic organization based on profit-sharing, mutual aid, and worker self-management",
+      "aliases": [
+        "sewing union",
+        "Viéra Pavlovna's workshop",
+        "cooperative workshop",
+        "dressmaking cooperative"
+      ],
+      "tags": [
+        "economics",
+        "labor",
+        "cooperative-movement",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:sewing-cooperative",
+      "relations": []
+    },
+    {
+      "id": "sewing-cooperative-org",
+      "type": "organization",
+      "label": "Sewing Cooperative (Union)",
+      "description": "The sewing cooperative founded and managed by Viéra Pavlovna — a model enterprise of egalitarian labor organization, profit-sharing, and worker self-governance that embodies the novel's vision of economic emancipation",
+      "aliases": [
+        "Viéra Pavlovna's Sewing Union",
+        "the sewing shop",
+        "the cooperative workshop"
+      ],
+      "tags": [
+        "cooperative",
+        "labor",
+        "women",
+        "economic-independence",
+        "viéra-pavlovna"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:sewing-cooperative-org",
+      "relations": []
+    },
+    {
+      "id": "st-petersburg",
+      "type": "place",
+      "label": "St. Petersburg",
+      "description": "The primary setting of What Is to Be Done? — the Russian imperial capital where Viéra Pavlovna's story unfolds, representing both the old order's social structures and the emerging world of the \"new people\"",
+      "aliases": [
+        "Petersburg",
+        "Petrograd",
+        "the capital"
+      ],
+      "tags": [
+        "city",
+        "setting",
+        "Russia"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:st-petersburg",
+      "relations": []
+    },
+    {
+      "id": "storeshnikof",
+      "type": "person",
+      "label": "Storeshnikof",
+      "description": "The wealthy young man whom Marya Alekséyevna schemes to marry to Viéra — a representative of the old order's marriage market, whose vapid character illustrates everything the \"new people\" reject",
+      "aliases": [
+        "Mikhaïl Ivanuitch Storeshnikof",
+        "Storeshnikof Jr."
+      ],
+      "tags": [
+        "character",
+        "old-order",
+        "suitor"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:storeshnikof",
+      "relations": []
+    },
+    {
+      "id": "sólovtsof",
+      "type": "person",
+      "label": "Sólovtsof",
+      "description": "A cynical seducer who abandons Nástenka Kryukova after promising marriage — the novel's most vivid example of the old order's predatory treatment of women",
+      "aliases": [],
+      "tags": [
+        "character",
+        "old-order",
+        "antagonist"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:sólovtsof",
+      "relations": []
+    },
+    {
+      "id": "the-kirsánofs-apartment",
+      "type": "place",
+      "label": "The Kirsánofs' Apartment",
+      "description": "The apartment shared by Viéra Pavlovna and Aleksandr Kirsánof after their marriage — the domestic space of a relationship based on mutual love rather than legal fiction, where work, companionship, and the \"new people's\" social life continue",
+      "aliases": [
+        "Viéra and Kirsánof's home",
+        "the second apartment"
+      ],
+      "tags": [
+        "domestic-space",
+        "new-people",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-kirsánofs-apartment",
+      "relations": []
+    },
+    {
+      "id": "the-lopukhófs-apartment",
+      "type": "place",
+      "label": "The Lopukhófs' Apartment",
+      "description": "The apartment shared by Viéra Pavlovna and Dmitri Lopukhóf after their marriage — a domestic space designed around the principle of autonomy, with separate bedrooms connected by \"neutral rooms\" that spatialize the \"new people's\" philosophy of relationships",
+      "aliases": [
+        "Viéra and Lopukhóf's home",
+        "the apartment with neutral rooms"
+      ],
+      "tags": [
+        "domestic-space",
+        "new-people",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-lopukhófs-apartment",
+      "relations": []
+    },
+    {
+      "id": "the-new-woman",
+      "type": "concept",
+      "label": "The New Woman",
+      "description": "The social type represented by Viéra Pavlovna — a woman who works, studies, manages enterprises, chooses her partners freely, and refuses to be defined by her relations to men, presented not as an exception but as a model of what all women can become",
+      "aliases": [
+        "new type of woman",
+        "emancipated woman",
+        "Viéra Pavlovna as type"
+      ],
+      "tags": [
+        "feminism",
+        "social-type",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-new-woman",
+      "relations": []
+    },
+    {
+      "id": "the-sapient-reader",
+      "type": "person",
+      "label": "The Sapient Reader",
+      "description": "The fictional interlocutor whom the narrator repeatedly addresses in satirical asides — a composite figure representing the conventional literary expectations and moral prejudices that Chernyshevsky's novel deliberately frustrates",
+      "aliases": [
+        "the discerning reader",
+        "the perspicacious reader"
+      ],
+      "tags": [
+        "character",
+        "meta-fictional",
+        "narrator"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-sapient-reader",
+      "relations": []
+    },
+    {
+      "id": "the-sapient-readers-lesson",
+      "type": "event",
+      "label": "The Sapient Reader's Lesson",
+      "description": "The narrator's extended address to the \"sapient reader\" at the end of the Rakhmétof chapter — a direct intervention that reframes the entire novel as a democratic argument about human potential",
+      "aliases": [
+        "the colloquy with the sapient reader",
+        "the narrator's address"
+      ],
+      "tags": [
+        "meta-fictional",
+        "Part-III"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:the-sapient-readers-lesson",
+      "relations": []
+    },
+    {
+      "id": "the-sewing-workshop",
+      "type": "place",
+      "label": "The Sewing Workshop",
+      "description": "The physical space of Viéra Pavlovna's sewing cooperative — a workshop that is also a school, a bank, and a community, embodying in its spatial arrangement the principles of cooperative labor and mutual education",
+      "aliases": [
+        "the cooperative workshop",
+        "the dressmaking shop",
+        "Viéra's workshop"
+      ],
+      "tags": [
+        "workshop",
+        "cooperative",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-sewing-workshop",
+      "relations": []
+    },
+    {
+      "id": "the-temptation-of-hamlet",
+      "type": "event",
+      "label": "The Temptation of Hamlet",
+      "description": "The pivotal conversation in Part I, Chapter VIII between Lopukhóf and Viéra Pavlovna in which the theory of egotism is first fully articulated — the intellectual event that founds the novel's philosophical structure",
+      "aliases": [
+        "the philosophical conversation",
+        "Lopukhóf's catechism"
+      ],
+      "tags": [
+        "philosophical",
+        "conversation",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:the-temptation-of-hamlet",
+      "relations": []
+    },
+    {
+      "id": "theory-of-egotism",
+      "type": "concept",
+      "label": "Theory of Egotism",
+      "description": "The philosophical doctrine central to What Is to Be Done? — that all human actions, including apparently selfless ones, are governed by calculated self-interest, and that this principle, properly understood, leads to rational and noble conduct",
+      "aliases": [
+        "rational egotism",
+        "theory of rational egotism",
+        "calculation of self-interests",
+        "Kirsánof's theory of egotism"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:theory-of-egotism",
+      "relations": []
+    },
+    {
+      "id": "true-love",
+      "type": "concept",
+      "label": "True Love",
+      "description": "The novel's distinction between \"true love\" — a freely given, mutually enriching relationship between autonomous equals — and \"erotic selfishness\" or \"erotic fancy,\" which treats the beloved as a possession",
+      "aliases": [
+        "real love",
+        "genuine love",
+        "love vs selfishness",
+        "erotic selfishness"
+      ],
+      "tags": [
+        "love",
+        "relationships",
+        "philosophy",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:true-love",
+      "relations": []
+    },
+    {
+      "id": "vasilyevsky-island",
+      "type": "place",
+      "label": "Vasilyevsky Island",
+      "description": "The St. Petersburg district where the Lopukhófs and Kirsánofs live — the geography of the \"new people,\" characterized by apartments with \"neutral rooms\" and spaces designed for intellectual companionship and personal autonomy",
+      "aliases": [
+        "Vasilyevsky Ostrov",
+        "the Island"
+      ],
+      "tags": [
+        "district",
+        "setting",
+        "new-people"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:vasilyevsky-island",
+      "relations": []
+    },
+    {
+      "id": "vieras-dreams",
+      "type": "concept",
+      "label": "Viéra Pavlovna's Dreams",
+      "description": "The four allegorical dreams experienced by Viéra Pavlovna that structure the philosophical and psychological development of the novel, moving from personal liberation through social analysis to utopian vision",
+      "aliases": [
+        "Viéra's dreams",
+        "four dreams",
+        "Viérotchka's dreams"
+      ],
+      "tags": [
+        "philosophy",
+        "narrative-structure",
+        "allegory",
+        "Chernyshevsky"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:vieras-dreams",
+      "relations": []
+    },
+    {
+      "id": "vieras-first-dream",
+      "type": "event",
+      "label": "Viéra's First Dream",
+      "description": "Viéra's first allegorical dream — she is locked in a damp cellar, then liberated into a field, symbolizing her awakening from the prison of her parents' household to the possibility of freedom",
+      "aliases": [
+        "First Dream",
+        "Viérotchka's First Dream",
+        "the cellar dream"
+      ],
+      "tags": [
+        "dream",
+        "liberation",
+        "allegory",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-first-dream",
+      "relations": []
+    },
+    {
+      "id": "vieras-fourth-dream",
+      "type": "event",
+      "label": "Viéra's Fourth Dream",
+      "description": "Viéra's culminating allegorical dream — a vision of a transformed society where men and women live in cooperation and abundance, centered on an enormous palace of cast-iron and glass",
+      "aliases": [
+        "Fourth Dream",
+        "the Crystal Palace dream",
+        "the utopian dream"
+      ],
+      "tags": [
+        "dream",
+        "utopia",
+        "Crystal-Palace",
+        "Part-IV"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-fourth-dream",
+      "relations": []
+    },
+    {
+      "id": "vieras-marriage-to-kirsánof",
+      "type": "event",
+      "label": "Viéra's Marriage to Kirsánof",
+      "description": "Viéra Pavlovna's marriage to Aleksandr Kirsánof after Lopukhóf's disappearance — a union of genuine mutual love that embodies the novel's ideal of a relationship between fully autonomous equals",
+      "aliases": [
+        "second marriage",
+        "marriage to Kirsánof"
+      ],
+      "tags": [
+        "marriage",
+        "Part-IV"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-marriage-to-kirsánof",
+      "relations": []
+    },
+    {
+      "id": "vieras-marriage-to-lopukhóf",
+      "type": "event",
+      "label": "Viéra's Marriage to Lopukhóf",
+      "description": "The legal marriage between Viéra Pavlovna and Dmitri Lopukhóf — a \"fictitious\" union designed not as a romantic consummation but as a legal instrument to liberate Viéra from her parents' household",
+      "aliases": [
+        "the fictitious marriage",
+        "Viérotchka's wedding"
+      ],
+      "tags": [
+        "marriage",
+        "liberation",
+        "Part-I"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-marriage-to-lopukhóf",
+      "relations": []
+    },
+    {
+      "id": "vieras-second-dream",
+      "type": "event",
+      "label": "Viéra's Second Dream",
+      "description": "Viéra's second allegorical dream — Lopukhóf and Mertsálof walk across a field discussing the allegory of \"actual dirt\" and \"putrid dirt,\" representing the materialist understanding of human nature as the product of social conditions",
+      "aliases": [
+        "Second Dream",
+        "the dream of the soil"
+      ],
+      "tags": [
+        "dream",
+        "allegory",
+        "Part-II"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-second-dream",
+      "relations": []
+    },
+    {
+      "id": "vieras-third-dream",
+      "type": "event",
+      "label": "Viéra's Third Dream",
+      "description": "Viéra's third dream — beginning with thoughts of the opera singer Bosio and moving into a deeper exploration of her own desires, marking the transition from passive recipient of others' ideas to active, self-aware consciousness",
+      "aliases": [
+        "Third Dream",
+        "the Bosio dream"
+      ],
+      "tags": [
+        "dream",
+        "psychology",
+        "Part-III"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:vieras-third-dream",
+      "relations": []
+    },
+    {
+      "id": "viéra-pavlovna",
+      "type": "person",
+      "label": "Viéra Pavlovna",
+      "description": "The protagonist of What Is to Be Done? — a young woman who escapes her family's \"cellar\" through a [[Fictitious Marriage|fictitious marriage]], founds a [[Sewing Cooperative|sewing cooperative]], experiences four allegorical [[Viéras Dreams|dreams]], and embodies the novel's ideal of the emancipated \"[[The New Woman|new woman]]\"",
+      "aliases": [
+        "Viéra",
+        "Viérotchka",
+        "Vérochka",
+        "Viérka",
+        "Vera Pavlovna"
+      ],
+      "tags": [
+        "protagonist",
+        "new-people",
+        "character",
+        "showcase"
+      ],
+      "quality": "featured",
+      "source_ref": "what-is-to-be-done:viéra-pavlovna",
+      "relations": []
+    },
+    {
+      "id": "womens-independence",
+      "type": "concept",
+      "label": "Women's Independence",
+      "description": "The principle that women must achieve economic, intellectual, and emotional independence — a central theme of the novel embodied in Viéra Pavlovna's journey from her parents' \"cellar\" to a life of autonomous work, love, and self-development",
+      "aliases": [
+        "women's emancipation",
+        "woman question",
+        "women's liberation",
+        "female autonomy"
+      ],
+      "tags": [
+        "feminism",
+        "social-reform",
+        "new-people",
+        "Chernyshevsky"
+      ],
+      "quality": "standard",
+      "source_ref": "what-is-to-be-done:womens-independence",
+      "relations": []
+    }
+  ]
+}

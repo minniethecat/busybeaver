@@ -1,0 +1,6302 @@
+{
+  "book": "basil",
+  "title": "Basil",
+  "description": "Basil — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 143,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Basil\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "basil:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"*Basil* was published in 1852 by Wilkie Collins. This ebook was produced for Standard Ebooks by David Grigg, and is b...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        }
+      ]
+    },
+    {
+      "id": "Endnotes",
+      "type": "chapter",
+      "label": "\"Endnotes\"",
+      "description": "\"1. Note by the Editor. There are some lines of writing beyond this point; but they are illegible. ↩︎\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Endnotes",
+      "relations": []
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"This ebook is the product of many hours of hard work by volunteers for Standard Ebooks, and builds on the hard work o...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Imprint",
+      "relations": []
+    },
+    {
+      "id": "Journal",
+      "type": "chapter",
+      "label": "\"Journal\"",
+      "description": "\"October 19th—My retrospect is finished. I have traced the history of my errors and misfortunes, of the wrong I have d...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Journal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "the Cornish coast"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "cliff",
+          "label": "the precipice"
+        },
+        {
+          "type": "related",
+          "target": "suspense",
+          "label": "uncertainty"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "doom"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "torment"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "treen",
+          "label": "Village of Treen"
+        },
+        {
+          "type": "related",
+          "target": "fishing-hamlet",
+          "label": "the hamlet"
+        },
+        {
+          "type": "related",
+          "target": "sea",
+          "label": "the mighty sea"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "terror"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "ruin",
+          "label": "destruction"
+        },
+        {
+          "type": "related",
+          "target": "coast",
+          "label": "the coast"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "doctor"
+        },
+        {
+          "type": "related",
+          "target": "the-landlady",
+          "label": "landlady"
+        }
+      ]
+    },
+    {
+      "id": "Letter-I",
+      "type": "chapter",
+      "label": "\"Letter I\"",
+      "description": "\"> From William Penhale, Miner, at Bartallock, in Cornwall, to His Wife in London. > > My Dear Mary, > > I received yo...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Letter-I",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "Cornwall"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "treen",
+          "label": "Treen"
+        },
+        {
+          "type": "related",
+          "target": "the-landlady",
+          "label": "landlady"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "doctor"
+        }
+      ]
+    },
+    {
+      "id": "Letter-II",
+      "type": "chapter",
+      "label": "\"Letter II\"",
+      "description": "\"> From Mary Penhale to Her Husband > > Dearest William, > > Susan sends a hundred kisses, and best loves to you and h...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Letter-II",
+      "relations": [
+        {
+          "type": "related",
+          "target": "treen",
+          "label": "Treen"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "doctor"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "Cornwall"
+        }
+      ]
+    },
+    {
+      "id": "Letter-III",
+      "type": "chapter",
+      "label": "\"Letter III\"",
+      "description": "\"> To Mr. John Bernard, From the Writer of the Foregoing Autobiography. > > [This letter is nearly nine years later in...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Letter-III",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bernard",
+          "label": "Bernard"
+        },
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "Cornwall"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "self-denial"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "treen",
+          "label": "Treen"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "terror"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "ambition",
+          "label": "aspiration"
+        }
+      ]
+    },
+    {
+      "id": "Letter-of-Dedication",
+      "type": "chapter",
+      "label": "\"Letter of Dedication\"",
+      "description": "\"To Charles James Ward, Esq. It has long been one of my pleasantest anticipations to look forward to the time when I m...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Letter-of-Dedication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "purity"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "basil:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Imprint",
+          "label": "Imprint"
+        },
+        {
+          "type": "related",
+          "target": "Letter-of-Dedication",
+          "label": "Letter of Dedication"
+        },
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "Part I, Chapter I"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "Part I, Chapter II"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "Part I, Chapter III"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "Part I, Chapter IV"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "Part I, Chapter V"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "Part I, Chapter VI"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "Part I, Chapter VII"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "Part I, Chapter VIII"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "Part I, Chapter IX"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "Part I, Chapter X"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "Part I, Chapter XI"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "Part I, Chapter XII"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "Part II, Chapter I"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "Part II, Chapter II"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "Part II, Chapter III"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "Part II, Chapter IV"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "Part II, Chapter V"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "Part II, Chapter VI"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "Part II, Chapter VII"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "Part III, Chapter I"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "Part III, Chapter II"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "Part III, Chapter III"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "Part III, Chapter IV"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "Part III, Chapter V"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "Part III, Chapter VI"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "Part III, Chapter VII"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "Part III, Chapter VIII"
+        },
+        {
+          "type": "related",
+          "target": "Journal",
+          "label": "Journal"
+        },
+        {
+          "type": "related",
+          "target": "Letter-I",
+          "label": "Letter I"
+        },
+        {
+          "type": "related",
+          "target": "Letter-II",
+          "label": "Letter II"
+        },
+        {
+          "type": "related",
+          "target": "Letter-III",
+          "label": "Letter III"
+        },
+        {
+          "type": "related",
+          "target": "Endnotes",
+          "label": "Endnotes"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"> May you do good and not evil. > > May you find forgiveness for yourself and forgive others. > > May you share freel...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "agitation",
+      "type": "concept",
+      "label": "\"Agitation\"",
+      "description": "\"The physical manifestation of psychological distress in Basil, functioning as a somatic register of guilt, fear, and moral conflict that links the novel to Victorian discourses of nervous disorder.\"",
+      "aliases": [
+        "nervous agitation",
+        "restlessness",
+        "excitement"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "nervous-disorder"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:agitation",
+      "relations": []
+    },
+    {
+      "id": "ambition",
+      "type": "concept",
+      "label": "\"Ambition\"",
+      "description": "\"The driving force of social aspiration in Basil, operating as both a source of narrative energy and a moral critique of Victorian class mobility and its human costs.\"",
+      "aliases": [
+        "social ambition",
+        "worldly ambition",
+        "aspiration"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social",
+        "class"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:ambition",
+      "relations": []
+    },
+    {
+      "id": "anguish",
+      "type": "concept",
+      "label": "\"Anguish\"",
+      "description": "\"The intense psychological suffering that pervades Basil's narrative voice and drives the novel's most powerful passages of first-person confession, functioning as both the emotional consequence of guilt and the rhetorical mode through which guilt is communicated to the reader.\"",
+      "aliases": [
+        "mental anguish",
+        "torment",
+        "agony",
+        "suffering",
+        "wretchedness"
+      ],
+      "tags": [
+        "concept",
+        "psychological",
+        "emotion"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:anguish",
+      "relations": []
+    },
+    {
+      "id": "anxiety",
+      "type": "concept",
+      "label": "\"Anxiety\"",
+      "description": "\"The pervasive condition of apprehensive uncertainty in Basil, driving both the novel's plot mechanics and its psychological portrait of a mind under the strain of concealment.\"",
+      "aliases": [
+        "apprehension",
+        "unease",
+        "dread",
+        "worry"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "nervous-disorder"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:anxiety",
+      "relations": []
+    },
+    {
+      "id": "appearance",
+      "type": "concept",
+      "label": "\"Appearance\"",
+      "description": "\"The tension between outward appearance and inner reality as a central thematic device in Basil, structuring both the novel's social criticism and its psychological drama.\"",
+      "aliases": [
+        "appearances",
+        "outward appearance",
+        "deceptive appearances"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "deception",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:appearance",
+      "relations": []
+    },
+    {
+      "id": "basil",
+      "type": "person",
+      "label": "\"Basil\"",
+      "description": "\"The protagonist and first-person narrator of Wilkie Collins's Basil (1852), a young aristocrat whose secret marriage to a linen-draper's daughter leads to tragedy, betrayal, and eventual moral reckoning\"",
+      "aliases": [
+        "the narrator"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:basil",
+      "relations": [
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "basil-father"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "secret-marriage-ceremony"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting",
+          "label": "first-meeting"
+        }
+      ]
+    },
+    {
+      "id": "basil-clara-parting",
+      "type": "event",
+      "label": "\"Basil and Clara's Parting\"",
+      "description": "\"The scene in which Basil takes leave of his sister Clara after a week at the family hall — a parting marked by Clara's quiet perception of his unhappiness and her determination to give their farewell 'as happy and hopeful a character as possible,' even as Basil remains trapped in the secrecy of his hidden marriage.\"",
+      "aliases": [
+        "parting from Clara",
+        "farewell to Clara"
+      ],
+      "tags": [
+        "event",
+        "parting",
+        "family",
+        "secrecy"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:basil-clara-parting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "basil-father"
+        }
+      ]
+    },
+    {
+      "id": "basil-family-estate",
+      "type": "place",
+      "label": "\"Basil Family Estate\"",
+      "description": "\"The aristocratic country seat of the Basil family — the social and moral world that Basil abandons for his secret marriage and to which he must eventually return\"",
+      "aliases": [
+        "the family estate",
+        "Basil's country home"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "primary"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:basil-family-estate",
+      "relations": []
+    },
+    {
+      "id": "basil-father",
+      "type": "person",
+      "label": "\"Basil's Father\"",
+      "description": "\"The patriarch of the Basil family whose austere code of personal honour and family pride shapes the moral world of Wilkie Collins's novel\"",
+      "aliases": [
+        "the father",
+        "Basil's parent"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:basil-father",
+      "relations": []
+    },
+    {
+      "id": "basil-mother",
+      "type": "person",
+      "label": "\"Basil's Mother\"",
+      "description": "\"The deceased mother of Basil and Clara — an absent presence whose death shapes the emotional dynamics of the Basil family in Wilkie Collins's novel\"",
+      "aliases": [
+        "the mother",
+        "deceased mother"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:basil-mother",
+      "relations": []
+    },
+    {
+      "id": "bedroom",
+      "type": "place",
+      "label": "\"The Bedroom\"",
+      "description": "\"The private sleeping chambers that appear at critical moments in Basil: the father's inviolable bedroom, Basil's wedding-night bedroom floor, and Clara's sickroom where Basil recovers from his brain-fever.\"",
+      "aliases": [
+        "Basil's bedroom",
+        "the bedroom at the hotel"
+      ],
+      "tags": [
+        "place",
+        "interior",
+        "private"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:bedroom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        }
+      ]
+    },
+    {
+      "id": "bernard",
+      "type": "person",
+      "label": "\"Bernard\"",
+      "description": "\"A school friend of Basil mentioned in the novel's early chapters — part of the social world Basil abandons for his secret marriage\"",
+      "aliases": [
+        "Bernard",
+        "Basil's friend"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:bernard",
+      "relations": []
+    },
+    {
+      "id": "brain-fever",
+      "type": "event",
+      "label": "\"Basil's Brain Fever\"",
+      "description": "\"The brain fever that strikes Basil after the catastrophe of discovering Margaret's betrayal — a physical and psychological collapse that functions as the novel's dark night of the soul, during which his delirious revelations expose the secret tragedy to his family.\"",
+      "aliases": [
+        "Basil's illness",
+        "the brain fever",
+        "Basil's delirium"
+      ],
+      "tags": [
+        "event",
+        "illness",
+        "crisis"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:brain-fever",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "basil-father"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "brompton",
+      "type": "place",
+      "label": "\"Brompton\"",
+      "description": "\"A London neighbourhood where Ralph takes a residence upon returning to England with his mistress.\"",
+      "aliases": [
+        "the Brompton neighbourhood"
+      ],
+      "tags": [
+        "place",
+        "neighbourhood",
+        "London"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:brompton",
+      "relations": []
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Part I, Chapter I\"",
+      "description": "\"What am I now about to write? The history of little more than the events of one year, out of the twenty-four years of...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "the Cornish coast"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Part I, Chapter II\"",
+      "description": "\"I am the second son of an English gentleman of large fortune. Our family is, I believe, one of the most ancient in th...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Part I, Chapter III\"",
+      "description": "\"I always considered my father—I speak of him in the past tense, because we are now separated forever; because he is h...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "disgrace"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "moral sense"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Part I, Chapter IV\"",
+      "description": "\"When a family is possessed of large landed property, the individual of that family who shows least interest in its we...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "marriage",
+          "label": "Marriage"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Part I, Chapter V\"",
+      "description": "\"My sister Clara is four years younger than I am. In form of face, in complexion, and—except the eyes—in features, she...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "kindness",
+          "label": "goodness of heart"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "purity"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "Suffering"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VI\"",
+      "description": "\"I have now completed all the preliminary notices of my near relatives, which it is necessary to present in these page...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "excitement"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "the-landlady",
+          "label": "landlady"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VII\"",
+      "description": "\"I had just received my quarter’s allowance of pocket-money, and had gone into the city to cash the cheque at my fathe...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "the city"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Miss Margaret"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "terror"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "the square"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "garden-gate"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "purity"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Part I, Chapter VIII\"",
+      "description": "\"My manuscript lay before me, set in order by Clara’s careful hand. I slowly turned over the leaves one by one; but my...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "Hope"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Part I, Chapter IX\"",
+      "description": "\"London was rousing everywhere into morning activity, as I passed through the streets. The shutters were being removed...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "the square"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "garden-gate"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "deceit",
+          "label": "Deceit"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "self-sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "private marriage"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearances"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Part I, Chapter X\"",
+      "description": "\"On my arrival at North Villa, I was shown into what I presumed was the drawing-room. Everything was oppressively new....\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "private marriage"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "lyons",
+          "label": "Lyons"
+        },
+        {
+          "type": "related",
+          "target": "drawing-room",
+          "label": "the brand-new drawing-room"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "garden-gate"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Part I, Chapter XI\"",
+      "description": "\"The nearer I approached to our own door, the more reluctance I felt to pass the short interval between my first and s...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "dread"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "humiliation"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "gloom"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "doctor"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "private marriage"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "the square"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "self-sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Part I, Chapter XII\"",
+      "description": "\"That night I went home with none of the reluctance or the apprehension which I had felt on the last occasion, when I...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "family pride"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "wretchedness"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "restlessness"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "gloom"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "fever"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Part II, Chapter I\"",
+      "description": "\"An epoch in my narrative has now arrived. Up to the time of my marriage, I have appeared as an active agent in the di...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "convalescence"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Part II, Chapter II\"",
+      "description": "\"The first change that passed over the calm uniformity of the life at North Villa, came in this manner: One evening, o...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "lyons",
+          "label": "Lyons"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "excitement"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Part II, Chapter III\"",
+      "description": "\"Some weeks passed away; Margaret and I resumed our usual employments and amusements; the life at North Villa ran on a...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "nervous agitation"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride of caste"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "kindness",
+          "label": "compassion"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Part II, Chapter IV\"",
+      "description": "\"About the time of my introduction to Mr. Mannion—or, to speak more correctly, both before and after that period—certa...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "garden-gate"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "vengeance"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Part II, Chapter V\"",
+      "description": "\"The autumn was now over; the winter—a cold, gloomy winter—had fairly come. Five months had nearly elapsed since Clara...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "excitement"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "confession-to-father",
+          "label": "the revelation"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "gloom"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Part II, Chapter VI\"",
+      "description": "\"About six weeks after I had left the Hall, my father and Clara returned to London for the season. It is not my intent...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "violence",
+          "label": "attack"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Part II, Chapter VII\"",
+      "description": "\"The address to which I was now proceeding, led me some distance away from Mr. Sherwin’s place of abode, in the direct...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "fever"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "agony"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "agony"
+        },
+        {
+          "type": "related",
+          "target": "the-policeman",
+          "label": "policeman"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "the square"
+        },
+        {
+          "type": "related",
+          "target": "terror",
+          "label": "supernatural terror"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "doctor"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Part III, Chapter I\"",
+      "description": "\"When the blind are operated on for the restoration of sight, the same succouring hand which has opened to them the vi...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "fever"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "doom"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "recollection"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "retribution"
+        },
+        {
+          "type": "related",
+          "target": "agitation",
+          "label": "restlessness"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "dishonour"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "torment"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Part III, Chapter II\"",
+      "description": "\"Darkly and wearily the days of my recovery went on. After that first outburst of sorrow on the evening when I recogni...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "atonement"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "convalescence"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-betrayal",
+          "label": "the discovery"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-policeman",
+          "label": "policeman"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "surgeon"
+        },
+        {
+          "type": "related",
+          "target": "violence",
+          "label": "attack"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "vengeance"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "appearance",
+          "label": "appearances"
+        },
+        {
+          "type": "related",
+          "target": "innocence",
+          "label": "spotless innocence"
+        },
+        {
+          "type": "related",
+          "target": "wealth",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "disgrace"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Part III, Chapter III\"",
+      "description": "\"The morning which was to decide all between my father and me, the morning on whose event hung the future of my home l...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "pride",
+          "label": "pride of caste"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "delusion"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "dread"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "disgrace"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "agony"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "anguish"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Part III, Chapter IV\"",
+      "description": "\"We are seldom able to discover under any ordinary conditions of self-knowledge, how intimately that spiritual part of...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "humiliation"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "terror"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "garden",
+          "label": "garden-gate"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "delusion"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "sickness"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "worry"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "atonement"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "malignity"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "the father"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Part III, Chapter V\"",
+      "description": "\"Mannion! I had never suspected that the note shown to me at North Villa might have come from him. And yet, the secrec...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-betrayal",
+          "label": "the discovery"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "vengeance"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "violence",
+          "label": "attack"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "fortune"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "wealth",
+          "label": "prosperity"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "kindness",
+          "label": "compassion"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "humiliation"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "solitude"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "deceit",
+          "label": "fraud"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "terror",
+          "label": "absolute terror"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "lyons",
+          "label": "Lyons"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "private marriage"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "the father"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "dread"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "suffering"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VI\"",
+      "description": "\"It was still early in the morning, when a loud knock sounded at the house-door, and I heard the landlady calling to t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-landlady",
+          "label": "landlady"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "brompton",
+          "label": "the Brompton neighbourhood"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "worry"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "insanity"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "dishonour"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "injustice"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "vengeance"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "dread"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VII\"",
+      "description": "\"The next morning, Ralph never appeared—the day passed on, and I heard nothing—at last, when it was evening, a letter...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Mannion"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "desire"
+        },
+        {
+          "type": "related",
+          "target": "bernard",
+          "label": "Bernard"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "victoria-ward",
+          "label": "Victoria Ward"
+        },
+        {
+          "type": "related",
+          "target": "the-stranger",
+          "label": "stranger"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "the father"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "brompton",
+          "label": "Brompton"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "fever"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "character"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-betrayal",
+          "label": "the discovery"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "anxiety"
+        },
+        {
+          "type": "related",
+          "target": "melancholy",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "anxiety",
+          "label": "apprehension"
+        },
+        {
+          "type": "related",
+          "target": "concealment",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "north-villa-servant",
+          "label": "servant"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "medical attendant"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "misery",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "disease"
+        },
+        {
+          "type": "related",
+          "target": "violence",
+          "label": "attack"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "pain"
+        },
+        {
+          "type": "related",
+          "target": "fate",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "disclosure"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "the past"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "the-policeman",
+          "label": "policeman"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Part III, Chapter VIII\"",
+      "description": "\"On the fourth day from the morning when she had died, I stood alone in the churchyard by the grave of Margaret Sherwi...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "horror",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "bernard",
+          "label": "Bernard"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Robert Mannion"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "sickness"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "malignity"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "remembrance"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "cornwall",
+          "label": "Cornwall"
+        },
+        {
+          "type": "related",
+          "target": "suspense",
+          "label": "uncertainty"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "the square"
+        }
+      ]
+    },
+    {
+      "id": "characters-index",
+      "type": "list",
+      "label": "\"Characters Index\"",
+      "description": "\"A complete index of all characters in Wilkie Collins's Basil, sorted alphabetically.\"",
+      "aliases": [
+        "list of characters",
+        "all characters"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "person"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:characters-index",
+      "relations": []
+    },
+    {
+      "id": "clara",
+      "type": "person",
+      "label": "\"Clara\"",
+      "description": "\"Basil's devoted younger sister, whose unwavering familial love serves as the moral anchor of Wilkie Collins's novel\"",
+      "aliases": [
+        "Clara Basil",
+        "Miss Basil"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:clara",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "basil-father"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "ralph"
+        }
+      ]
+    },
+    {
+      "id": "clara-at-beside",
+      "type": "event",
+      "label": "\"Clara's Vigil at Basil's Bedside\"",
+      "description": "\"Clara's devoted vigil at Basil's bedside during his recovery from brain fever, marked by the moment of recognition that signals the beginning of his return to consciousness.\"",
+      "aliases": [
+        "Clara's bedside vigil"
+      ],
+      "tags": [
+        "event",
+        "illness",
+        "recovery",
+        "sisterly-love"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:clara-at-beside",
+      "relations": []
+    },
+    {
+      "id": "cliff",
+      "type": "place",
+      "label": "\"The Cliff\"",
+      "description": "\"The granite cliff on the Cornish coast where Basil and Mannion meet for their final, violent confrontation, and where Mannion falls to his death.\"",
+      "aliases": [
+        "the Cornish cliff",
+        "the cliff path",
+        "the granite cliff",
+        "the precipice"
+      ],
+      "tags": [
+        "place",
+        "landscape",
+        "Cornwall",
+        "confrontation"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:cliff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "coast",
+      "type": "place",
+      "label": "\"The Cornish Coast\"",
+      "description": "\"The wild granite coastline of Cornwall where Basil retreats after the catastrophe of his marriage and where the novel's climactic confrontation with Mannion takes place on the cliffs.\"",
+      "aliases": [
+        "Cornwall coast",
+        "the coast",
+        "the granite coast"
+      ],
+      "tags": [
+        "place",
+        "landscape",
+        "Cornwall"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:coast",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "concealment",
+      "type": "concept",
+      "label": "\"Concealment\"",
+      "description": "\"The deliberate suppression of truth that structures both the social world and the psychological experience of Basil, from the concealment of the secret marriage to the layered deceptions that drive the plot toward catastrophe.\"",
+      "aliases": [
+        "secrecy",
+        "deception",
+        "hidden truth",
+        "dissimulation"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:concealment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "shame",
+          "label": "shame"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "concepts-index",
+      "type": "list",
+      "label": "\"Concepts & Themes Index\"",
+      "description": "\"A thematic index of all concepts and themes in Wilkie Collins's Basil, grouped by category.\"",
+      "aliases": [
+        "list of concepts",
+        "all themes",
+        "thematic index"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "concept"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:concepts-index",
+      "relations": []
+    },
+    {
+      "id": "confession",
+      "type": "concept",
+      "label": "\"Confession\"",
+      "description": "\"The act of confession as both the narrative structure of the novel and a central thematic concern about truth, forgiveness, and moral reckoning in Wilkie Collins's Basil\"",
+      "aliases": [
+        "narrative confession",
+        "atonement",
+        "disclosure"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:confession",
+      "relations": []
+    },
+    {
+      "id": "confession-to-father",
+      "type": "event",
+      "label": "\"The Confession to Basil's Father\"",
+      "description": "\"The emotional climax of Wilkie Collins's Basil — the scene in which Basil finally reveals his secret marriage to his father\"",
+      "aliases": [
+        "Basil's confession",
+        "the revelation"
+      ],
+      "tags": [
+        "event",
+        "revelation",
+        "confession"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:confession-to-father",
+      "relations": []
+    },
+    {
+      "id": "conscience",
+      "type": "concept",
+      "label": "\"Conscience\"",
+      "description": "\"The internal moral faculty that judges, accuses, and torments characters in Basil, operating as an involuntary and often unwelcome counterforce to desire, secrecy, and self-deception.\"",
+      "aliases": [
+        "moral sense",
+        "inner voice",
+        "moral consciousness"
+      ],
+      "tags": [
+        "concept",
+        "moral",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:conscience",
+      "relations": []
+    },
+    {
+      "id": "cornwall",
+      "type": "place",
+      "label": "\"Cornwall\"",
+      "description": "\"The remote Cornish coast where Basil writes his confession in exile, and where the novel's climactic confrontation with Robert Mannion takes place\"",
+      "aliases": [
+        "the Cornish coast",
+        "the fishing hamlet",
+        "the Cornish shore",
+        "the Land's End coast"
+      ],
+      "tags": [
+        "place",
+        "region",
+        "exile",
+        "frame-narrative",
+        "coastal"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:cornwall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "despair",
+          "label": "despair"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "isolation"
+        }
+      ]
+    },
+    {
+      "id": "counting-house",
+      "type": "place",
+      "label": "\"The Counting-House\"",
+      "description": "\"Mr. Sherwin's London place of business, where Mannion rises from lowest clerk to chief position, and where he discerns Sherwin's true character.\"",
+      "aliases": [
+        "Mr. Sherwin's office",
+        "Sherwin's countinghouse"
+      ],
+      "tags": [
+        "place",
+        "office",
+        "London",
+        "commerce"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:counting-house",
+      "relations": []
+    },
+    {
+      "id": "crime",
+      "type": "concept",
+      "label": "\"Crime\"",
+      "description": "\"The act of moral and legal transgression that structures the plot of Basil, encompassing secret marriage, adultery, forgery, and the concealment of identity — crime as both social violation and psychological burden.\"",
+      "aliases": [
+        "criminality",
+        "transgression",
+        "criminal act"
+      ],
+      "tags": [
+        "concept",
+        "moral",
+        "legal",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:crime",
+      "relations": []
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "\"Death\"",
+      "description": "\"Death as the ultimate consequence and narrative terminus in Wilkie Collins's Basil — both a plot event and a thematic meditation on the cost of passion and secrecy\"",
+      "aliases": [
+        "mortality",
+        "fatal consequence"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:death",
+      "relations": []
+    },
+    {
+      "id": "deceit",
+      "type": "concept",
+      "label": "\"Deceit\"",
+      "description": "\"The active practice of deception that pervades Wilkie Collins's Basil, from Basil's concealment of his marriage to Mannion's systematic manipulation\"",
+      "aliases": [
+        "deception",
+        "deceitfulness",
+        "fraud"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:deceit",
+      "relations": []
+    },
+    {
+      "id": "despair",
+      "type": "concept",
+      "label": "\"Despair\"",
+      "description": "\"Despair as the dominant emotional register of Basil's narrative voice, the consequence of catastrophe, and the psychological condition from which the novel traces a slow, partial recovery in Wilkie Collins's Basil\"",
+      "aliases": [
+        "hopelessness",
+        "mental anguish",
+        "desolation"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "emotional"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:despair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "hope"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        }
+      ]
+    },
+    {
+      "id": "dining-room",
+      "type": "place",
+      "label": "\"The Dining-Room at North Villa\"",
+      "description": "\"The dining-room at North Villa, where Mr. Sherwin presides over meals with his port and his pretensions, and where Basil endures the domestic rituals of the household he has married into.\"",
+      "aliases": [
+        "Sherwin dining-room",
+        "North Villa dining-room"
+      ],
+      "tags": [
+        "place",
+        "interior",
+        "domestic"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:dining-room",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        }
+      ]
+    },
+    {
+      "id": "discovery-of-betrayal",
+      "type": "event",
+      "label": "\"Discovery of Margaret's Betrayal\"",
+      "description": "\"The catastrophic scene in which Basil discovers his wife Margaret with Mannion — the event that transforms the novel from a story of concealed love to one of revenge and destruction\"",
+      "aliases": [
+        "the discovery",
+        "Margaret's exposure"
+      ],
+      "tags": [
+        "event",
+        "revelation",
+        "confrontation"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:discovery-of-betrayal",
+      "relations": []
+    },
+    {
+      "id": "drawing-room",
+      "type": "place",
+      "label": "\"The Drawing-Room at North Villa\"",
+      "description": "\"The principal reception room at North Villa, where Basil meets the Sherwins during his courtship of Margaret and where the family's anxious performance of gentility is most visible.\"",
+      "aliases": [
+        "Sherwin drawing-room",
+        "the brand-new drawing-room"
+      ],
+      "tags": [
+        "place",
+        "interior",
+        "domestic"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:drawing-room",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sherwin",
+          "label": "mrs-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "duty",
+      "type": "concept",
+      "label": "\"Duty\"",
+      "description": "\"The counter-force of moral and filial obligation that stands in tension with passion and self-interest in Wilkie Collins's Basil\"",
+      "aliases": [
+        "filial duty",
+        "moral obligation",
+        "familial obligation"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:duty",
+      "relations": []
+    },
+    {
+      "id": "events-index",
+      "type": "list",
+      "label": "\"Events Index\"",
+      "description": "\"An index of all events in Wilkie Collins's Basil, sorted alphabetically with quality and reference counts.\"",
+      "aliases": [
+        "list of events",
+        "all events"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "event"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:events-index",
+      "relations": []
+    },
+    {
+      "id": "fate",
+      "type": "concept",
+      "label": "\"Fate\"",
+      "description": "\"The force of predetermined outcome that haunts the characters of Basil, from the narrator's sense of being doomed by a chance encounter to Mannion's inheritance of his father's shameful end.\"",
+      "aliases": [
+        "destiny",
+        "doom",
+        "fortune"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:fate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "ruin",
+          "label": "ruin"
+        },
+        {
+          "type": "related",
+          "target": "despair",
+          "label": "despair"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "sin"
+        }
+      ]
+    },
+    {
+      "id": "fear",
+      "type": "concept",
+      "label": "\"Fear\"",
+      "description": "\"The psychological underside of secrecy — the fear of exposure, disgrace, and consequence that drives characters deeper into concealment in Wilkie Collins's Basil\"",
+      "aliases": [
+        "dread",
+        "anxiety",
+        "terror"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:fear",
+      "relations": []
+    },
+    {
+      "id": "first-meeting",
+      "type": "event",
+      "label": "\"First Meeting of Basil and Margaret\"",
+      "description": "\"The chance encounter on a London omnibus where Basil first sees Margaret Sherwin — the inciting event of Wilkie Collins's Basil\"",
+      "aliases": [
+        "the omnibus encounter"
+      ],
+      "tags": [
+        "event",
+        "meeting"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:first-meeting",
+      "relations": []
+    },
+    {
+      "id": "fishing-hamlet",
+      "type": "place",
+      "label": "\"The Fishing Hamlet\"",
+      "description": "\"The remote fishing hamlet on the Cornish coast where Basil writes his retrospective narrative, framing the entire novel from a place of solitary retirement.\"",
+      "aliases": [
+        "the hamlet",
+        "the Cornish hamlet",
+        "the fishing-hamlet on the Cornish coast"
+      ],
+      "tags": [
+        "place",
+        "village",
+        "Cornwall",
+        "frame-narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:fishing-hamlet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "type": "place",
+      "label": "\"The Garden at North Villa\"",
+      "description": "\"The small rear garden at North Villa in Hollyoake Square, site of Basil's first glimpse of Margaret at the garden-gate and the stage for many of the novel's pivotal encounters.\"",
+      "aliases": [
+        "garden-gate",
+        "North Villa garden",
+        "the strip of garden"
+      ],
+      "tags": [
+        "place",
+        "garden",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:garden",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        }
+      ]
+    },
+    {
+      "id": "guilt",
+      "type": "concept",
+      "label": "\"Guilt\"",
+      "description": "\"The moral and psychological burden of guilt as both narrative frame and thematic concern in Wilkie Collins's Basil\"",
+      "aliases": [
+        "moral guilt",
+        "remorse",
+        "conscience"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:guilt",
+      "relations": []
+    },
+    {
+      "id": "holyoak-square",
+      "type": "place",
+      "label": "\"Holyoak Square\"",
+      "description": "\"Basil's London residence during his period of concealment and poverty in Wilkie Collins's novel\"",
+      "aliases": [
+        "Basil's lodgings",
+        "the square"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "secondary"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:holyoak-square",
+      "relations": []
+    },
+    {
+      "id": "honour",
+      "type": "concept",
+      "label": "\"Honour\"",
+      "description": "\"The Victorian code of honour governing family reputation, personal integrity, and social standing in Wilkie Collins's Basil\"",
+      "aliases": [
+        "honor",
+        "family honour",
+        "honourable conduct"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:honour",
+      "relations": []
+    },
+    {
+      "id": "hope",
+      "type": "concept",
+      "label": "\"Hope\"",
+      "description": "\"The psychology of hope and its defeat — the tension between expectation and reality that structures the emotional experience of Wilkie Collins's Basil\"",
+      "aliases": [
+        "optimism",
+        "expectation",
+        "delusion"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:hope",
+      "relations": []
+    },
+    {
+      "id": "horror",
+      "type": "concept",
+      "label": "\"Horror\"",
+      "description": "\"The experience of profound dread and revulsion in Basil, manifesting as both a Gothic narrative mode and a psychological response to moral transgression and urban alienation.\"",
+      "aliases": [
+        "terror",
+        "dread",
+        "fear"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "gothic",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:horror",
+      "relations": []
+    },
+    {
+      "id": "hotel",
+      "type": "place",
+      "label": "\"The Hotel\"",
+      "description": "\"The neglected London hotel where Margaret Sherwin is concealed after her flight from North Villa, and where Basil keeps his anguished vigil in the street outside.\"",
+      "aliases": [
+        "the neglected hotel",
+        "the hotel opposite the tavern"
+      ],
+      "tags": [
+        "place",
+        "building",
+        "London"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:hotel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "illness",
+      "type": "concept",
+      "label": "\"Illness\"",
+      "description": "\"The recurring physical and psychological crises that shape the plot of Basil, from the narrator's brain-fever after discovering his wife's betrayal to Margaret's fatal illness and Sherwin's declining health.\"",
+      "aliases": [
+        "sickness",
+        "brain-fever",
+        "disease",
+        "convalescence"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "physical"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:illness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "despair",
+          "label": "despair"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "innocence",
+      "type": "concept",
+      "label": "\"Innocence\"",
+      "description": "\"The contested condition of moral purity in Basil, where innocence is asserted, doubted, weaponized, and ultimately destroyed by the intersecting forces of secrecy, class prejudice, and sexual scandal.\"",
+      "aliases": [
+        "purity",
+        "guiltlessness",
+        "spotless innocence",
+        "lost innocence"
+      ],
+      "tags": [
+        "concept",
+        "moral",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:innocence",
+      "relations": []
+    },
+    {
+      "id": "isolation",
+      "type": "concept",
+      "label": "\"Isolation\"",
+      "description": "\"The state of being cut off from normal social relations that afflicts multiple characters in Basil, from the narrator's self-imposed exile to Mannion's permanent status as a 'marked man.'\"",
+      "aliases": [
+        "solitude",
+        "social exclusion",
+        "marked man"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:isolation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "ralph"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "suffering",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "despair",
+          "label": "despair"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "ruin",
+          "label": "ruin"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "\"Justice\"",
+      "description": "\"The contested ideal of moral and social fairness that characters invoke, deny, and pervert throughout Basil, from the narrator's declared purpose to Mannion's chilling final acknowledgement.\"",
+      "aliases": [
+        "injustice",
+        "moral justice",
+        "social justice"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:justice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "revenge"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "reputation",
+          "label": "reputation"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        }
+      ]
+    },
+    {
+      "id": "kindness",
+      "type": "concept",
+      "label": "\"Kindness\"",
+      "description": "\"The role of kindness as a moral counterforce in Basil, appearing in acts of familial devotion, professional care, and stranger-charity that offer the novel's only genuine resistance to its prevailing atmosphere of cruelty and betrayal.\"",
+      "aliases": [
+        "compassion",
+        "benevolence",
+        "goodness of heart"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "virtue"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:kindness",
+      "relations": []
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "\"London\"",
+      "description": "\"The urban setting of Wilkie Collins's Basil — a modern metropolis whose crowds, anonymity, and class mixing provide both the conditions for and the commentary on the novel's central drama\"",
+      "aliases": [
+        "London streets",
+        "the city"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "primary"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:london",
+      "relations": []
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "\"Love\"",
+      "description": "\"The contrast between destructive romantic passion and redemptive familial love in Wilkie Collins's Basil\"",
+      "aliases": [
+        "familial love",
+        "romantic love",
+        "affection",
+        "devotion"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:love",
+      "relations": []
+    },
+    {
+      "id": "lyons",
+      "type": "place",
+      "label": "\"Lyons\"",
+      "description": "\"A French city, center of the silk trade, where Mannion is sent on business by Mr. Sherwin, and where he secretly arranges his own future.\"",
+      "aliases": [],
+      "tags": [
+        "place",
+        "city",
+        "France",
+        "trade"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:lyons",
+      "relations": []
+    },
+    {
+      "id": "madness",
+      "type": "concept",
+      "label": "\"Madness\"",
+      "description": "\"The spectre of madness — as delusion, fever, and psychological breakdown — that haunts the margins of rationality in Wilkie Collins's Basil\"",
+      "aliases": [
+        "insanity",
+        "delusion",
+        "fever",
+        "mental derangement"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:madness",
+      "relations": []
+    },
+    {
+      "id": "mannion-pursuit",
+      "type": "event",
+      "label": "\"The Pursuit of Mannion\"",
+      "description": "\"The extended climax of Wilkie Collins's Basil — Basil's pursuit of Mannion through London and the countryside, culminating in Mannion's ambiguous death\"",
+      "aliases": [
+        "pursuit of Mannion",
+        "Basil's pursuit"
+      ],
+      "tags": [
+        "event",
+        "confrontation",
+        "pursuit"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:mannion-pursuit",
+      "relations": []
+    },
+    {
+      "id": "margaret-death",
+      "type": "event",
+      "label": "\"Death of Margaret Sherwin\"",
+      "description": "\"The climactic death of Margaret Sherwin from typhus fever in a London hospital — the event that completes the novel's tragic arc and transforms Basil's passion into irremediable grief\"",
+      "aliases": [
+        "Margaret's death",
+        "Margaret's typhus",
+        "the deathbed scene",
+        "Margaret's final moments"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "tragedy",
+        "illness"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:margaret-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "Robert Mannion"
+        },
+        {
+          "type": "related",
+          "target": "margaret-mother",
+          "label": "Mrs. Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "Ralph"
+        },
+        {
+          "type": "related",
+          "target": "the-surgeon",
+          "label": "The Surgeon"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-betrayal",
+          "label": "Discovery of Betrayal"
+        },
+        {
+          "type": "related",
+          "target": "confession-to-father",
+          "label": "Confession to Father"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death (concept)"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "Guilt (concept)"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "Madness (concept)"
+        }
+      ]
+    },
+    {
+      "id": "margaret-funeral",
+      "type": "event",
+      "label": "\"The Funeral of Margaret Sherwin\"",
+      "description": "\"Basil stands alone at Margaret Sherwin's grave on the fourth day after her death — and there encounters Mannion, who reveals himself at the graveside.\"",
+      "aliases": [
+        "Margaret's burial"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "funeral",
+        "graveside"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:margaret-funeral",
+      "relations": []
+    },
+    {
+      "id": "margaret-mother",
+      "type": "person",
+      "label": "\"Margaret's Mother\"",
+      "description": "\"The nearly silent presence of Mrs. Sherwin in the Sherwin household — a figure whose absence of voice speaks to the position of women in the Victorian domestic economy depicted in Wilkie Collins's Basil\"",
+      "aliases": [
+        "Mrs. Sherwin",
+        "Margaret's mother",
+        "Mrs Sherwin"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:margaret-mother",
+      "relations": []
+    },
+    {
+      "id": "margaret-sherwin",
+      "type": "person",
+      "label": "\"Margaret Sherwin\"",
+      "description": "\"The linen-draper's daughter whose beauty captivates Basil, whose secret marriage to him isolates her from both classes, and whose betrayal with Robert Mannion brings about the novel's central tragedy\"",
+      "aliases": [
+        "Miss Sherwin",
+        "Margaret",
+        "Miss Margaret"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:margaret-sherwin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "basil-father",
+          "label": "basil-father"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "secret-marriage-ceremony"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting",
+          "label": "first-meeting"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "honour"
+        }
+      ]
+    },
+    {
+      "id": "marriage",
+      "type": "concept",
+      "label": "\"Marriage\"",
+      "description": "\"The institution of marriage — particularly the secret, cross-class marriage — as the central plot device and thematic focus of Wilkie Collins's Basil\"",
+      "aliases": [
+        "secret marriage",
+        "clandestine marriage",
+        "marriage plot"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:marriage",
+      "relations": []
+    },
+    {
+      "id": "melancholy",
+      "type": "concept",
+      "label": "\"Melancholy\"",
+      "description": "\"The pervasive emotional tone of Basil, functioning as both a character trait and an atmospheric condition that colours the novel's treatment of love, guilt, and urban experience.\"",
+      "aliases": [
+        "sadness",
+        "sorrow",
+        "gloom",
+        "despondency"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "mood"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:melancholy",
+      "relations": []
+    },
+    {
+      "id": "memory",
+      "type": "concept",
+      "label": "\"Memory\"",
+      "description": "\"The narrative and thematic role of memory in Wilkie Collins's Basil, where the entire story is framed as the protagonist's act of recollection from exile\"",
+      "aliases": [
+        "recollection",
+        "remembrance",
+        "the past"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:memory",
+      "relations": []
+    },
+    {
+      "id": "misery",
+      "type": "concept",
+      "label": "\"Misery\"",
+      "description": "\"The pervasive experience of mental and emotional suffering in Basil, functioning as both a consequence of moral transgression and a condition of modern urban existence.\"",
+      "aliases": [
+        "suffering",
+        "wretchedness",
+        "anguish"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "suffering"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:misery",
+      "relations": []
+    },
+    {
+      "id": "mr-sherwin",
+      "type": "person",
+      "label": "\"Mr. Sherwin\"",
+      "description": "\"The linen-draper father of Margaret Sherwin, whose social ambition and commercial calculation make him complicit in the secret marriage that drives the tragedy of Wilkie Collins's Basil\"",
+      "aliases": [
+        "Sherwin",
+        "Margaret's father"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "supporting"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:mr-sherwin",
+      "relations": []
+    },
+    {
+      "id": "mrs-sherwin",
+      "type": "person",
+      "label": "\"Mrs. Sherwin\"",
+      "description": "\"The quiet, submissive wife of Mr. Sherwin and mother of Margaret Sherwin, who lives in her husband's shadow at North Villa.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "supporting",
+        "sherwin-family"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:mrs-sherwin",
+      "relations": []
+    },
+    {
+      "id": "mystery",
+      "type": "concept",
+      "label": "\"Mystery\"",
+      "description": "\"The structural and thematic role of mystery in Basil, operating as both a plot device that drives narrative momentum and a philosophical concern with the limits of human knowledge and the opacity of other minds.\"",
+      "aliases": [
+        "enigma",
+        "the unknown",
+        "secrecy",
+        "puzzle"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative",
+        "gothic"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:mystery",
+      "relations": []
+    },
+    {
+      "id": "north-villa",
+      "type": "place",
+      "label": "\"North Villa\"",
+      "description": "\"The suburban residence of the Sherwin family and the primary setting for Basil's secret courtship and marriage in Wilkie Collins's novel\"",
+      "aliases": [
+        "the Sherwin house",
+        "the suburban villa"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "primary"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:north-villa",
+      "relations": []
+    },
+    {
+      "id": "north-villa-servant",
+      "type": "person",
+      "label": "\"North Villa Servant\"",
+      "description": "\"The domestic servant at the Sherwin household whose presence marks the class dynamics of the suburban setting in Wilkie Collins's Basil\"",
+      "aliases": [
+        "servant",
+        "the servant at North Villa"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:north-villa-servant",
+      "relations": []
+    },
+    {
+      "id": "passion",
+      "type": "concept",
+      "label": "\"Passion\"",
+      "description": "\"The consuming force of romantic passion as both the catalyst for the plot and a destructive psychological power in Wilkie Collins's Basil\"",
+      "aliases": [
+        "romantic passion",
+        "desire",
+        "infatuation"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological",
+        "narrative"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:passion",
+      "relations": []
+    },
+    {
+      "id": "places-index",
+      "type": "list",
+      "label": "\"Places Index\"",
+      "description": "\"An index of all places and locations in Wilkie Collins's Basil, grouped by setting category.\"",
+      "aliases": [
+        "list of places",
+        "all places",
+        "locations"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "place"
+      ],
+      "quality": "unknown",
+      "source_ref": "basil:places-index",
+      "relations": []
+    },
+    {
+      "id": "pride",
+      "type": "concept",
+      "label": "\"Pride\"",
+      "description": "\"The double-edged force of pride — both family honour and personal arrogance — as a central psychological motivator in Wilkie Collins's Basil\"",
+      "aliases": [
+        "family pride",
+        "pride of caste",
+        "personal pride"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:pride",
+      "relations": []
+    },
+    {
+      "id": "ralph",
+      "type": "person",
+      "label": "\"Ralph\"",
+      "description": "\"Basil's older brother, whose simpler character and cross-class 'love adventure' foreshadow Basil's own transgression in Wilkie Collins's novel\"",
+      "aliases": [
+        "Ralph Basil",
+        "Basil's brother"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:ralph",
+      "relations": []
+    },
+    {
+      "id": "regents-park",
+      "type": "place",
+      "label": "\"Regent's Park\"",
+      "description": "\"A London park where Basil walks after his first visit to North Villa, its northern portion bordering the unfinished suburbs.\"",
+      "aliases": [],
+      "tags": [
+        "place",
+        "park",
+        "London"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:regents-park",
+      "relations": []
+    },
+    {
+      "id": "reputation",
+      "type": "concept",
+      "label": "\"Reputation\"",
+      "description": "\"The fragile public estimation of character that governs behaviour and determines social survival in Basil, where the protection of reputation drives the novel's central acts of concealment, bribery, and moral compromise.\"",
+      "aliases": [
+        "good name",
+        "social standing",
+        "character",
+        "public esteem"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:reputation",
+      "relations": []
+    },
+    {
+      "id": "revenge",
+      "type": "concept",
+      "label": "\"Revenge\"",
+      "description": "\"The driving motivation of Mannion's pursuit of Basil and a central narrative force in the second half of Wilkie Collins's Basil\"",
+      "aliases": [
+        "vengeance",
+        "retribution",
+        "malignity"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:revenge",
+      "relations": []
+    },
+    {
+      "id": "robert-mannion",
+      "type": "person",
+      "label": "\"Robert Mannion\"",
+      "description": "\"The antagonist of Wilkie Collins's Basil — Mr. Sherwin's confidential clerk whose concealed past and relentless pursuit of revenge drive the novel's second half\"",
+      "aliases": [
+        "Mannion",
+        "Mr. Mannion"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "antagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:robert-mannion",
+      "relations": []
+    },
+    {
+      "id": "ruin",
+      "type": "concept",
+      "label": "\"Ruin\"",
+      "description": "\"The multifaceted catastrophe — financial, social, moral, and psychological — that threatens and ultimately befalls characters in Basil, functioning as both consequence of transgression and instrument of narrative suspense.\"",
+      "aliases": [
+        "destruction",
+        "downfall",
+        "moral ruin",
+        "financial ruin",
+        "ruination"
+      ],
+      "tags": [
+        "concept",
+        "moral",
+        "social",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:ruin",
+      "relations": []
+    },
+    {
+      "id": "sacrifice",
+      "type": "concept",
+      "label": "\"Sacrifice\"",
+      "description": "\"The act of giving up personal desire, happiness, or social position for the sake of another — a recurring moral gesture in Basil that is simultaneously noble, self-destructive, and deeply implicated in the novel's critique of Victorian class and gender hierarchies.\"",
+      "aliases": [
+        "self-sacrifice",
+        "renunciation",
+        "self-denial"
+      ],
+      "tags": [
+        "concept",
+        "moral",
+        "social",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:sacrifice",
+      "relations": []
+    },
+    {
+      "id": "sea",
+      "type": "place",
+      "label": "\"The Sea\"",
+      "description": "\"The sea off the Cornish coast that forms the novel's elemental backdrop — at once a symbol of cleansing, a force of terror, and the constant acoustic presence against which Basil's final confrontation with Mannion plays out.\"",
+      "aliases": [
+        "the Cornish sea",
+        "the mighty sea",
+        "the sea off the Cornish coast"
+      ],
+      "tags": [
+        "place",
+        "landscape",
+        "Cornwall",
+        "nature"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "secrecy",
+      "type": "concept",
+      "label": "\"Secrecy\"",
+      "description": "\"The central plot mechanism of concealment and hidden knowledge that drives the tragedy in Wilkie Collins's Basil\"",
+      "aliases": [
+        "secrecy and concealment",
+        "hidden marriage",
+        "secret"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "narrative",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:secrecy",
+      "relations": []
+    },
+    {
+      "id": "secret-marriage-ceremony",
+      "type": "event",
+      "label": "\"The Secret Marriage\"",
+      "description": "\"The clandestine marriage between Basil and Margaret Sherwin — contracted without family knowledge and across class lines — the central plot event of Wilkie Collins's novel\"",
+      "aliases": [
+        "clandestine marriage",
+        "private marriage"
+      ],
+      "tags": [
+        "event",
+        "wedding"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:secret-marriage-ceremony",
+      "relations": []
+    },
+    {
+      "id": "shame",
+      "type": "concept",
+      "label": "\"Shame\"",
+      "description": "\"The experience of social and moral disgrace in Basil, functioning as the primary mechanism through which transgression is punished and identity is dismantled.\"",
+      "aliases": [
+        "disgrace",
+        "humiliation",
+        "dishonour"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:shame",
+      "relations": []
+    },
+    {
+      "id": "sin",
+      "type": "concept",
+      "label": "\"Sin\"",
+      "description": "\"Sin as the moral and theological framework through which guilt, confession, atonement, and the possibility of forgiveness are understood in Wilkie Collins's Basil\"",
+      "aliases": [
+        "transgression",
+        "moral error",
+        "wrongdoing"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "theological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:sin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "confession",
+          "label": "confession"
+        },
+        {
+          "type": "related",
+          "target": "honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "social-class"
+        },
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "social-class",
+      "type": "concept",
+      "label": "\"Social Class\"",
+      "description": "\"The hierarchical class system of Victorian England as a barrier to love and a source of tragedy in Wilkie Collins's Basil\"",
+      "aliases": [
+        "class",
+        "class and society",
+        "class hierarchy",
+        "social hierarchy"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "social"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:social-class",
+      "relations": []
+    },
+    {
+      "id": "suffering",
+      "type": "concept",
+      "label": "\"Suffering\"",
+      "description": "\"The physical and mental pain that permeates Basil, from Margaret's hidden sorrows and Mannion's disfigurement to the narrator's prolonged illness and the novel's broader meditation on suffering as a transformative force.\"",
+      "aliases": [
+        "pain",
+        "agony",
+        "sorrow",
+        "anguish"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:suffering",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "clara"
+        },
+        {
+          "type": "related",
+          "target": "isolation",
+          "label": "isolation"
+        },
+        {
+          "type": "related",
+          "target": "despair",
+          "label": "despair"
+        },
+        {
+          "type": "related",
+          "target": "illness",
+          "label": "illness"
+        },
+        {
+          "type": "related",
+          "target": "anguish",
+          "label": "anguish"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        }
+      ]
+    },
+    {
+      "id": "suspense",
+      "type": "concept",
+      "label": "\"Suspense\"",
+      "description": "\"The narrative technique of delayed revelation and prolonged uncertainty that structures the reader's experience of Basil, operating both as a formal device and as a thematic exploration of the psychological effects of waiting.\"",
+      "aliases": [
+        "narrative suspense",
+        "dramatic tension",
+        "uncertainty"
+      ],
+      "tags": [
+        "concept",
+        "narrative",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:suspense",
+      "relations": []
+    },
+    {
+      "id": "temptation",
+      "type": "concept",
+      "label": "\"Temptation\"",
+      "description": "\"The moral and psychological force that tests characters' resolve throughout Basil, driving the novel's central conflicts and culminating in a near-fatal moment of murderous impulse.\"",
+      "aliases": [
+        "trial",
+        "moral trial"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:temptation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "ralph",
+          "label": "ralph"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "sin"
+        },
+        {
+          "type": "related",
+          "target": "guilt",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "ruin",
+          "label": "ruin"
+        }
+      ]
+    },
+    {
+      "id": "terror",
+      "type": "concept",
+      "label": "\"Terror\"",
+      "description": "\"The intense, often paralyzing fear that grips characters in Basil, manifesting as both psychological horror and supernatural dread in response to guilt, secrecy, and moral transgression.\"",
+      "aliases": [
+        "fear and terror",
+        "supernatural terror",
+        "absolute terror"
+      ],
+      "tags": [
+        "concept",
+        "psychological",
+        "emotion"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:terror",
+      "relations": []
+    },
+    {
+      "id": "the-church",
+      "type": "place",
+      "label": "\"The Church\"",
+      "description": "\"The London church where Basil and Margaret Sherwin's secret wedding ceremony takes place, and where Margaret is later buried in the adjoining churchyard\"",
+      "aliases": [
+        "the wedding church",
+        "the church near North Villa",
+        "the church at Hollyoake Square"
+      ],
+      "tags": [
+        "place",
+        "building",
+        "wedding",
+        "ceremony",
+        "churchyard"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:the-church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "mr-sherwin"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "secret-marriage-ceremony"
+        },
+        {
+          "type": "related",
+          "target": "holyoak-square",
+          "label": "holyoak-square"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "north-villa"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "the-courtship",
+      "type": "event",
+      "label": "\"The Courtship of Margaret Sherwin\"",
+      "description": "\"Basil's pursuit of Margaret Sherwin through visits to North Villa, secret negotiations with her father, and the year-long engagement that precedes their clandestine marriage — the foundational event sequence of the novel's tragic plot\"",
+      "aliases": [
+        "Basil's courtship",
+        "courtship at North Villa",
+        "the year of probation"
+      ],
+      "tags": [
+        "event",
+        "courtship",
+        "romance",
+        "class"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:the-courtship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "Basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "Margaret Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "mr-sherwin",
+          "label": "Mr. Sherwin"
+        },
+        {
+          "type": "related",
+          "target": "clara",
+          "label": "Clara"
+        },
+        {
+          "type": "related",
+          "target": "first-meeting",
+          "label": "First Meeting"
+        },
+        {
+          "type": "related",
+          "target": "secret-marriage-ceremony",
+          "label": "The Secret Marriage"
+        },
+        {
+          "type": "related",
+          "target": "north-villa",
+          "label": "North Villa"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Love (concept)"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "Passion (concept)"
+        },
+        {
+          "type": "related",
+          "target": "social-class",
+          "label": "Social Class (concept)"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "Secrecy (concept)"
+        }
+      ]
+    },
+    {
+      "id": "the-forgiveness",
+      "type": "event",
+      "label": "\"The Forgiveness of Margaret\"",
+      "description": "\"The scene in which Basil, standing at Margaret's deathbed, finds the capacity to forgive her — a moment of moral transcendence that closes the central arc of his marriage and prepares for the novel's final movement of revenge and endurance.\"",
+      "aliases": [
+        "Basil forgives Margaret",
+        "Margaret's deathbed"
+      ],
+      "tags": [
+        "event",
+        "forgiveness",
+        "death",
+        "resolution"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-forgiveness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "margaret-sherwin",
+          "label": "margaret-sherwin"
+        }
+      ]
+    },
+    {
+      "id": "the-landlady",
+      "type": "person",
+      "label": "\"The Landlady\"",
+      "description": "\"The landlady who shelters Basil during his period of poverty and concealment in Wilkie Collins's Basil — an external observer whose practical kindness offers a rare moment of human decency amid the novel's darkness\"",
+      "aliases": [
+        "landlady",
+        "Basil's landlady"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:the-landlady",
+      "relations": []
+    },
+    {
+      "id": "the-mannion-letter",
+      "type": "event",
+      "label": "\"The Mannion Letter\"",
+      "description": "\"The threatening letter from Mannion that Basil receives after Margaret's death, containing explicit menaces that drive him towards the final confrontation.\"",
+      "aliases": [
+        "Mannion's threatening letter"
+      ],
+      "tags": [
+        "event",
+        "letter",
+        "threat",
+        "revelation"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-mannion-letter",
+      "relations": []
+    },
+    {
+      "id": "the-omnibus",
+      "type": "place",
+      "label": "\"The Omnibus\"",
+      "description": "\"The London omnibus where Basil first encounters Margaret Sherwin — a mobile public space emblematic of the urban chance and class mixing central to Wilkie Collins's novel\"",
+      "aliases": [
+        "the London omnibus",
+        "public omnibus"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "secondary"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-omnibus",
+      "relations": []
+    },
+    {
+      "id": "the-policeman",
+      "type": "person",
+      "label": "\"The Policeman\"",
+      "description": "\"A representative of law and external authority in Wilkie Collins's Basil — the social order that stands outside the novel's private drama of passion and revenge\"",
+      "aliases": [
+        "policeman",
+        "police officer"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-policeman",
+      "relations": []
+    },
+    {
+      "id": "the-stranger",
+      "type": "person",
+      "label": "\"The Stranger\"",
+      "description": "\"An anonymous figure in the London streets — representative of the urban anonymity that provides both cover and threat in Wilkie Collins's Basil\"",
+      "aliases": [
+        "stranger",
+        "anonymous stranger"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-stranger",
+      "relations": []
+    },
+    {
+      "id": "the-surgeon",
+      "type": "person",
+      "label": "\"The Surgeon\"",
+      "description": "\"The medical attendant who treats Basil during his fever — a figure representing rational, professional observation in a novel otherwise dominated by passion and secrecy\"",
+      "aliases": [
+        "doctor",
+        "surgeon",
+        "medical attendant"
+      ],
+      "tags": [
+        "person",
+        "character",
+        "minor"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:the-surgeon",
+      "relations": []
+    },
+    {
+      "id": "the-treen-confrontation",
+      "type": "event",
+      "label": "\"The Treen Confrontation\"",
+      "description": "\"The climactic confrontation on the Cornish cliffs near Treen on October 22nd, where Basil faces Mannion amid a storm on the treacherous promontory.\"",
+      "aliases": [
+        "The Events of October 22nd"
+      ],
+      "tags": [
+        "event",
+        "confrontation",
+        "climax",
+        "Cornwall"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:the-treen-confrontation",
+      "relations": []
+    },
+    {
+      "id": "theatre",
+      "type": "place",
+      "label": "\"The Theatre\"",
+      "description": "\"The London theatres where Basil's friend Mannion (before his exposure) moves behind the scenes and where the narrator's social world intersects with the demi-monde of performers and spectacle.\"",
+      "aliases": [
+        "the theaters",
+        "London theatres"
+      ],
+      "tags": [
+        "place",
+        "entertainment",
+        "London"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:theatre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        }
+      ]
+    },
+    {
+      "id": "treen",
+      "type": "place",
+      "label": "\"Treen\"",
+      "description": "\"A Cornish fishing village where critical late events unfold, including Mannion's recovery and the final confrontation recorded in the Penhale letters.\"",
+      "aliases": [
+        "Village of Treen"
+      ],
+      "tags": [
+        "place",
+        "village",
+        "Cornwall",
+        "fishing"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:treen",
+      "relations": []
+    },
+    {
+      "id": "victoria-ward",
+      "type": "place",
+      "label": "\"Victoria Ward\"",
+      "description": "\"A hospital ward where Mannion is treated for fever after being struck down, and a site of dramatic revelation.\"",
+      "aliases": [],
+      "tags": [
+        "place",
+        "hospital",
+        "London"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:victoria-ward",
+      "relations": []
+    },
+    {
+      "id": "village-inn",
+      "type": "place",
+      "label": "\"The Village Inn\"",
+      "description": "\"A rural inn near the Basil family's country estate, remembered by Basil as a site of childhood simplicity.\"",
+      "aliases": [
+        "the inn near the country home"
+      ],
+      "tags": [
+        "place",
+        "inn",
+        "countryside"
+      ],
+      "quality": "standard",
+      "source_ref": "basil:village-inn",
+      "relations": []
+    },
+    {
+      "id": "violence",
+      "type": "concept",
+      "label": "\"Violence\"",
+      "description": "\"The eruption of physical force that punctuates Basil at critical moments, from the atmospheric violence of storms to the climactic confrontation on the Cornish cliffs that resolves the novel's central conflict.\"",
+      "aliases": [
+        "physical force",
+        "brutality",
+        "attack",
+        "assault"
+      ],
+      "tags": [
+        "concept",
+        "theme",
+        "moral",
+        "psychological"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:violence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "basil",
+          "label": "basil"
+        },
+        {
+          "type": "related",
+          "target": "robert-mannion",
+          "label": "robert-mannion"
+        },
+        {
+          "type": "related",
+          "target": "crime",
+          "label": "crime"
+        },
+        {
+          "type": "related",
+          "target": "passion",
+          "label": "passion"
+        },
+        {
+          "type": "related",
+          "target": "revenge",
+          "label": "revenge"
+        },
+        {
+          "type": "related",
+          "target": "terror",
+          "label": "terror"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "wealth",
+      "type": "concept",
+      "label": "\"Wealth\"",
+      "description": "\"The role of inherited and commercial wealth as a determinant of social power, moral character, and personal autonomy in Basil, where fortune enables both the protection of reputation and its destruction.\"",
+      "aliases": [
+        "riches",
+        "fortune",
+        "money and wealth",
+        "prosperity"
+      ],
+      "tags": [
+        "concept",
+        "social",
+        "class"
+      ],
+      "quality": "featured",
+      "source_ref": "basil:wealth",
+      "relations": []
+    }
+  ]
+}

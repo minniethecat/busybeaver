@@ -1,0 +1,54 @@
+---
+description: "Act IV, Scene IV"
+id: act-4-scene-4
+label: "Act IV, Scene IV"
+tags: ["chapter", "scene"]
+type: "chapter"
+---
+
+[035-001]**[[ivan-khlestakov|Khlestakov]]** and the **[[ivan-shpekin|Postmaster]]**.
+
+::: table pn=035-002
+
+|  |  |
+
+| --- | --- |
+
+| Postmaster | *In uniform, sword in hand. Drawing himself up.* I have the honor to present myself—Postmaster, Court Councilor Shpekin. |
+
+| Khlestakov | I’m glad to meet you. I like pleasant company very much. Take a seat. Do you live here all the time? |
+
+| Postmaster | Yes, sir. Quite so. |
+
+| Khlestakov | I like this little town. Of course, there aren’t many people. It’s not very lively. But what of it? It isn’t the capital. Isn’t that so—it isn’t the capital? |
+
+| Postmaster | Quite so, quite so. |
+
+| Khlestakov | It’s only in the capital that you find bon ton and not a lot of provincial lubbers. What is your opinion? Isn’t that so? |
+
+| Postmaster | Quite so. *Aside.* He isn’t a bit proud. He inquires about everything. |
+
+| Khlestakov | And yet you’ll admit that one can live happily in a little town. |
+
+| Postmaster | Quite so. |
+
+| Khlestakov | In my opinion what you want is this—you want people to respect you and to love you sincerely. Isn’t that so? |
+
+| Postmaster | Exactly. |
+
+| Khlestakov | I’m glad you agree with me. Of course, they call me queer. But that’s the kind of character I am. *Looking him in the face and talking to himself.* I think I’ll ask this postmaster for a loan. *Aloud.* A strange accident happened to me and I ran out of cash on the road. Can you lend me three hundred rubles? |
+
+| Postmaster | Of course. I shall esteem it a piece of great good fortune. I am ready to serve you with all my heart. |
+
+| Khlestakov | Thank you very much. I must say, I hate like the devil to deny myself on the road. And why should I? Isn’t that so? |
+
+| Postmaster | Quite so. *Rises, draws himself up, with his sword in his hand.* I’ll not venture to disturb you any more. Would you care to make any remarks about the post office administration? |
+
+| Khlestakov | No, nothing. |
+
+|  | *The **Postmaster** bows and goes out.* |
+
+| Khlestakov | *Lighting a cigar.* It seems to me the Postmaster is a fine fellow, too. He’s certainly obliging. I like people like that. |
+
+<!-- -->
+:::

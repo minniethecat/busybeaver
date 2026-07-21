@@ -1,0 +1,17 @@
+---
+description: "Those English psychologists, who up to the present are the only philosophers who are to be thanked for any endeavour to…"
+id: Essay-1-Section-1
+label: "Essay 1, Section 1"
+tags: ["chapter"]
+type: chapter
+---
+
+##### FIRST ESSAY.
+
+#### "GOOD AND EVIL," "GOOD AND BAD."
+
+[001-001]Those English psychologists, who up to the present are the only philosophers who are to be thanked for any endeavour to get as far as a history of the origin of morality—these men, I say, offer us in their own personalities no paltry problem;—they even have, if I am to be quite frank about it, in their capacity of living riddles, an advantage over their books— _they themselves are interesting!_ These English psychologists—what do they really mean? We always find them voluntarily or involuntarily at the same task of pushing to the front the _partie honteuse_ of our inner world, and looking for the efficient, governing, and decisive principle in that precise quarter where the intellectual self-respect of the race would be the most reluctant to find it (for example, in the _vis inertiæ_ of habit, or in forgetfulness, or in a blind and fortuitous mechanism and association of ideas, or in some factor that is purely passive, reflex, molecular, or fundamentally stupid)—what is the real motive power which always impels these psychologists in precisely _this_ direction? Is it an instinct for human disparagement somewhat sinister, vulgar, and malignant, or perhaps incomprehensible even to itself? or perhaps a touch of pessimistic jealousy, the mistrust of disillusioned idealists who have become gloomy, poisoned, and bitter? or a petty subconscious enmity and rancour against Christianity (and Plato), that has conceivably never crossed the threshold of consciousness? or just a vicious taste for those elements of life which are bizarre, painfully paradoxical, mystical, and illogical? or, as a final alternative, a dash of each of these motives—a little vulgarity, a little gloominess, a little anti-Christianity, a little craving for the necessary piquancy?
+
+[001-002]But I am told that it is simply a case of old frigid and tedious frogs crawling and hopping around men and inside men, as if they were as thoroughly at home there, as they would be in a _swamp_.
+
+[001-003]I am opposed to this statement, nay, I do not believe it; and if, in the impossibility of knowledge, one is permitted to wish, so do I wish from my heart that just the converse metaphor should apply, and that these analysts with their psychological microscopes should be, at bottom, brave, proud, and magnanimous animals who know how to bridle both their hearts and their smarts, and have specifically trained themselves to sacrifice what is desirable to what is true, _any_ truth in fact, even the simple, bitter, ugly, repulsive, unchristian, and immoral truths—for there are truths of that description.

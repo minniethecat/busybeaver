@@ -1,0 +1,99 @@
+---
+description: "The day Cowperwood and Aileen were married—it was in an obscure village called Dalston, near Pittsburg, in western Pennsylvania, where they had sto..."
+id: VI-The-New-Queen-of-the-Home
+label: "VI: The New Queen of the Home"
+tags: ["chapter"]
+type: chapter
+---
+
+# VI: The New Queen of the Home
+
+[006-001]The day [[frank-cowperwood|Cowperwood]] and Aileen were married—it was in an obscure village called Dalston, near Pittsburg, in western Pennsylvania, where they had stopped off to manage this matter—he had said to her: “I want to tell you, dear, that you and I are really beginning life all over. Now it depends on how well we play this game as to how well we succeed. If you will listen to me we won’t try to do anything much socially in [[chicago|Chicago]] for the present. Of course we’ll have to meet a few people. That can’t be avoided. Mr. and Mrs. [[judah-addison|Addison]] are anxious to meet you, and I’ve delayed too long in that matter as it is. But what I mean is that I don’t believe it’s advisable to push this social [[stock-exchange|exchange]] too far. People are sure to begin to make inquiries if we do. My plan is to wait a little while and then build a really fine house so that we won’t need to rebuild. We’re going to go to Europe next spring, if things go right, and we may get some ideas over there. I’m going to put in a good big gallery,” he concluded. “While we’re traveling we [[power|might]] as well see what we can find in the way of pictures and so on.”
+
+[006-002]Aileen was thrilling with anticipation. “Oh, Frank,” she said to him, quite ecstatically, “you’re so wonderful! You do everything you want, don’t you?”
+
+[006-003]“Not quite,” he said, deprecatingly; “but it isn’t for not wanting to. Chance has a little to say about some of these chings, Aileen.”
+
+[006-004]She stood in front of him, as she often did, her plump, ringed hands on his shoulders, and looked into those steady, lucid pools—his eyes. Another man, less leonine, and with all his shifting thoughts, might have had to contend with the handicap of a shifty gaze; he fronted the queries and suspicions of the world with a seeming candor that was as disarming as that of a child. The truth was he believed in himself, and himself only, and thence sprang his courage to think as he pleased. Aileen wondered, but could get no answer.
+
+[006-005]“Oh, you big tiger!” she said. “You great, big lion! Boo!”
+
+[006-006]He pinched her cheek and smiled. “Poor Aileen!” he thought. She little knew the unsolvable mystery that he was even to himself—to himself most of all.
+
+[006-007]Immediately after their marriage Cowperwood and Aileen journeyed to Chicago direct, and took the best rooms that the Tremont provided, for the time being. A little later they heard of a comparatively small furnished house at Twenty-third and [[north-shore-drive|Michigan Avenue]], which, with horses and carriages thrown in, was to be had for a season or two on lease. They contracted for it at once, installing a butler, servants, and the general service of a well-appointed home. Here, because he thought it was only courteous, and not because he thought it was essential or wise at this time to attempt a social onslaught, he invited the Addisons and one or two others whom he felt sure would come—Alexander Rambaud, president of the Chicago & Northwestern, and his wife, and Taylor Lord, an architect whom he had recently called into consultation and whom he found socially acceptable. Lord, like the Addisons, was in society, but only as a minor figure.
+
+[006-008]Trust Cowperwood to do the thing as it should be done. The place they had leased was a charming little gray-stone house, with a neat flight of granite, balustraded steps leading up to its wide-arched door, and a judicious use of stained glass to give its interior an artistically subdued atmosphere. Fortunately, it was furnished in good taste. Cowperwood turned over the matter of the dinner to a caterer and decorator. Aileen had nothing to do but dress, and wait, and look her best.
+
+[006-009]“I needn’t tell you,” he said, in the morning, on leaving, “that I want you to look nice tonight, pet. I want the Addisons and Mr. Rambaud to like you.”
+
+[006-010]A hint was more than sufficient for Aileen, though really it was not needed. On arriving at Chicago she had sought and discovered a French maid. Although she had brought plenty of dresses from [[philadelphia|Philadelphia]], she had been having additional winter costumes prepared by the best and most expensive mistress of the art in Chicago—Theresa Donovan. Only the day before she had welcomed home a golden-yellow silk under heavy green lace, which, with her reddish-gold hair and her white arms and neck, seemed to constitute an unusual harmony. Her boudoir on the night of the dinner presented a veritable riot of silks, satins, laces, lingerie, hair ornaments, perfumes, jewels—anything and everything which might contribute to the feminine art of being beautiful. Once in the throes of a toilet composition, Aileen invariably became restless and energetic, almost fidgety, and her maid, Fadette, was compelled to move quickly. Fresh from her bath, a smooth, ivory Venus, she worked quickly through silken lingerie, stockings and shoes, to her hair. Fadette had an idea to suggest for the hair. Would Madame let her try a new swirl she had seen? Madame would—yes. So there were movings of her mass of rich glinting tresses this way and that. Somehow it would not do. A braided effect was then tried, and instantly discarded; finally a double looping, without braids, low over the forehead, caught back with two dark-green bands, crossing like an above the center of her forehead and fastened with a diamond sunburst, served admirably. In her filmy, lacy boudoir costume of pink silk Aileen stood up and surveyed herself in the full-length mirror.
+
+[006-011]“Yes,” she said, turning her head this way and that.
+
+[006-012]Then came the dress from Donovan’s, rustling and crisping. She slipped into it wonderingly, critically, while Fadette worked at the back, the arms, about her knees, doing one little essential thing after another.
+
+[006-013]“Oh, Madame!” she exclaimed. “Oh, *charmant*! Ze hair, it go weeth it perfect. It ees so full, so beyutiful here”—she pointed to the hips, where the lace formed a clinging basque. “Oh, tees varee, varee nize.”
+
+[006-014]Aileen glowed, but with scarcely a smile. She was concerned. It wasn’t so much her toilet, which must be everything that it should be—but this Mr. Addison, who was so rich and in society, and Mr. Rambaud, who was very powerful, Frank said, must like her. It was the necessity to put her best foot forward now that was really troubling her. She must interest these men mentally, perhaps, as well as physically, and with social graces, and that was not so easy. For all her money and comfort in Philadelphia she had never been in society in its best aspects, had never done social entertaining of any real importance. Frank was the most important man who had ever crossed her path. No doubt Mr. Rambaud had a severe, old-fashioned wife. How would she talk to her? And Mrs. Addison! She would know and see everything. Aileen almost talked out loud to herself in a consoling way as she dressed, so strenuous were her thoughts; but she went on, adding the last touches to her physical graces.
+
+[006-015]When she finally went downstairs to see how the dining and reception rooms looked, and Fadette began putting away the welter of discarded garments—she was a radiant vision—a splendid greenish-gold figure, with gorgeous hair, smooth, soft, shapely ivory arms, a splendid neck and bust, and a swelling form. She felt beautiful, and yet she was a little nervous—truly. Frank himself would be critical. She went about looking into the dining-room, which, by the caterer’s art, had been transformed into a kind of jewel-box glowing with flowers, silver, gold, tinted glass, and the snowy whiteness of linen. It reminded her of an opal flashing all its soft fires. She went into the general reception-room, where was a grand piano finished in pink and gold, upon which, with due thought to her one accomplishment—her playing—she had arranged the songs and instrumental pieces she did best. Aileen was really not a brilliant musician. For the first time in her life she felt matronly—as if now she were not a girl any more, but a woman grown, with some serious responsibilities, and yet she was not really suited to the role. As a matter of fact, her thoughts were always fixed on the artistic, social, and dramatic aspects of life, with unfortunately a kind of nebulosity of conception which permitted no condensation into anything definite or concrete. She could only be wildly and feverishly interested. Just then the door clicked to Frank’s key—it was nearing six—and in he came, smiling, confident, a perfect atmosphere of assurance.
+
+[006-016]“Well!” he observed, surveying her in the soft glow of the reception-room lighted by wall candles judiciously arranged. “Who’s the vision floating around here? I’m almost afraid to touch you. Much powder on those arms?”
+
+[006-017]He drew her into his arms, and she put up her mouth with a sense of relief. Obviously, he must think that she looked charming.
+
+[006-018]“I am chalky, I guess. You’ll just have to stand it, though. You’re going to dress, anyhow.”
+
+[006-019]She put her smooth, plump arms about his neck, and he felt pleased. This was the kind of a woman to have—a [[art|beauty]]. Her neck was resplendent with a string of turquoise, her fingers too heavily jeweled, but still beautiful. She was faintly redolent of hyacinth or lavender. Her hair appealed to him, and, above all, the rich yellow silk of her dress, flashing fulgurously through the closely netted green.
+
+[006-020]“Charming, girlie. You’ve outdone yourself. I haven’t seen this dress before. Where did you get it?”
+
+[006-021]“Here in Chicago.”
+
+[006-022]He lifted her warm fingers, surveying her train, and turned her about.
+
+[006-023]“You don’t need any advice. You ought to start a school.”
+
+[006-024]“Am I all right?” she queried, smartly, but with a sense of self-distrust for the moment, and all because of him.
+
+[006-025]“You’re perfect. Couldn’t be nicer. Splendid!”
+
+[006-026]She took heart.
+
+[006-027]“I wish your friends would think so. You’d better hurry.”
+
+[006-028]He went upstairs, and she followed, looking first into the dining-room again. At least that was right. Surely Frank was a master.
+
+[006-029]At seven the plop of the feet of carriage-horses was heard, and a moment later Louis, the butler, was opening the door. Aileen went down, a little nervous, a little frigid, trying to think of many pleasant things, and wondering whether she would really succeed in being entertaining. Cowperwood accompanied her, a very different person in so far as mood and self-poise were concerned. To himself his own future was always secure, and that of Aileen’s if he wished to make it so. The arduous, upward-ascending rungs of the social ladder that were troubling her had no such significance to him.
+
+[006-030]The dinner, as such simple things go, was a success from what might be called a managerial and pictorial point of view. Cowperwood, because of his varied tastes and interests, could discuss railroading with Mr. Rambaud in a very definite and illuminating way; could talk architecture with Mr. Lord as a student, for instance, of rare promise would talk with a master; and with a woman like Mrs. Addison or Mrs. Rambaud he could suggest or follow appropriate leads. Aileen, unfortunately, was not so much at home, for her natural state and mood were remote not so much from a serious as from an accurate conception of life. So many things, except in a very nebulous and suggestive way, were sealed books to Aileen—merely faint, distant tinklings. She knew nothing of literature except certain authors who to the truly cultured might seem banal. As for art, it was merely a jingle of names gathered from Cowperwood’s private comments. Her one redeeming feature was that she was truly beautiful herself—a radiant, vibrating objet d’art. A man like Rambaud, remote, conservative, constructive, saw the place of a woman like Aileen in the life of a man like Cowperwood on the instant. She was such a woman as he would have prized himself in a certain capacity.
+
+[006-031]Sex interest in all strong men usually endures unto the end, governed sometimes by a stoic resignation. The experiment of such attraction can, as they well know, be made over and over, but to what end? For many it becomes too troublesome. Yet the presence of so glittering a spectacle as Aileen on this night touched Mr. Rambaud with an ancient ambition. He looked at her almost sadly. Once he was much younger. But alas, he had never attracted the flaming interest of any such woman. As he studied her now he wished that he might have enjoyed such good [[fate|fortune]].
+
+[006-032]In contrast with Aileen’s orchid glow and tinted richness Mrs. Rambaud’s simple gray silk, the collar of which came almost to her ears, was disturbing—almost reproving—but Mrs. Rambaud’s ladylike courtesy and generosity made everything all right. She came out of intellectual New England—the Emerson-Thoreau-Channing Phillips school of philosophy—and was broadly tolerant. As a matter of fact, she liked Aileen and all the Orient richness she represented. “Such a sweet little house this is,” she said, smilingly. “We’ve noticed it often. We’re not so far removed from you but what we might be called neighbors.”
+
+[006-033]Aileen’s eyes spoke appreciation. Although she could not fully grasp Mrs. Rambaud, she understood her, in a way, and liked her. She was probably something like her own mother would have been if the latter had been highly educated. While they were moving into the reception-room Taylor Lord was announced. Cowperwood took his hand and brought him forward to the others.
+
+[006-034]“Mrs. Cowperwood,” said Lord, admiringly—a tall, rugged, thoughtful person—“let me be one of many to welcome you to Chicago. After Philadelphia you will find some things to desire at first, but we all come to like it eventually.”
+
+[006-035]“Oh, I’m sure I shall,” smiled Aileen.
+
+[006-036]“I lived in Philadelphia years ago, but only for a little while,” added Lord. “I left there to come here.”
+
+[006-037]The observation gave Aileen the least pause, but she passed it over lightly. This sort of accidental reference she must learn to expect; there might be much worse bridges to cross.
+
+[006-038]“I find Chicago all right,” she replied, briskly. “There’s nothing the matter with it. It has more snap than Philadelphia ever had.”
+
+[006-039]“I’m glad to hear you say that. I like it so much. Perhaps it’s because I find such interesting things to do here.”
+
+[006-040]He was admiring the splendor of her arms and hair. What need had beautiful woman to be intellectual, anyhow, he was saying to himself, sensing that Aileen might be deficient in ultimate refinement.
+
+[006-041]Once more an announcement from the butler, and now Mr. and Mrs. Addison entered. Addison was not at all concerned over coming here—liked the idea of it; his own position and that of his wife in Chicago was secure. “How are you, Cowperwood?” he beamed, laying one hand on the latter’s shoulder. “This is fine of you to have us in tonight. Mrs. Cowperwood, I’ve been telling your husband for nearly a year now that he should bring you out here. Did he tell you?” (Addison had not as yet confided to his wife the true history of Cowperwood and Aileen.)
+
+[006-042]“Yes, indeed,” replied Aileen, gaily, feeling that Addison was charmed by her beauty. “I’ve been wanting to come, too. It’s his fault that I wasn’t here sooner.”
+
+[006-043]Addison, looking circumspectly at Aileen, said to himself that she was certainly a stunning-looking woman. So she was the cause of the first wife’s suit. No wonder. What a splendid creature! He contrasted her with Mrs. Addison, and to his wife’s disadvantage. She had never been as striking, as stand-upish as Aileen, though possibly she might have more sense. Jove! if he could find a woman like Aileen today. Life would take on a new luster. And yet he had women—very carefully, very subterraneously. But he had them.
+
+[006-044]“It’s such a pleasure to meet you,” Mrs. Addison, a corpulent, bejeweled lady, was saying to Aileen. “My husband and yours have become the best of friends, apparently. We must see more of each other.”
+
+[006-045]She babbled on in a puffy social way, and Aileen felt as though she were getting along swiftly. The butler brought in a great tray of appetizers and cordials, and put them softly on a remote table. Dinner was served, and the talk flowed on; they discussed the growth of the city, a new church that Lord was building ten blocks farther out; Rambaud told about some humorous land swindles. It was quite gay. Meanwhile Aileen did her best to become interested in Mrs. Rambaud and Mrs. Addison. She liked the latter somewhat better, solely because it was a little easier to talk to her. Mrs. Rambaud Aileen knew to be the wiser and more charitable woman, but she frightened her a little; presently she had to fall back on Mr. Lord’s help. He came to her rescue gallantly, talking of everything that came into his mind. All the men outside of Cowperwood were thinking how splendid Aileen was physically, how white were her arms, how rounded her neck and shoulders, how rich her hair.

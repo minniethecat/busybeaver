@@ -1,0 +1,135 @@
+---
+description: "At the same time the thought of readjusting her relations so that they would avoid disloyalty to Cowperwood was never further from Stephanie’s mind..."
+id: XXVIII-The-Exposure-of-Stephanie
+label: "XXVIII: The Exposure of Stephanie"
+tags: ["chapter"]
+type: chapter
+---
+
+# XXVIII: The Exposure of Stephanie
+
+[028-001]At the same time the thought of readjusting her relations so that they would avoid disloyalty to [[frank-cowperwood|Cowperwood]] was never further from [[stephanie-platow|Stephanie]]’s mind. Let no one quarrel with Stephanie Platow. She was an unstable chemical compound, artistic to her fingertips, not understood or properly guarded by her family. Her interest in Cowperwood, his force and ability, was intense. So was her interest in Forbes Gurney—the atmosphere of poetry that enveloped him. She studied him curiously on the various occasions when they met, and, finding him bashful and recessive, set out to lure him. She felt that he was lonely and depressed and poor, and her womanly capacity for sympathy naturally bade her be tender.
+
+[028-002]Her end was easily achieved. One night, when they were all out in Bliss Bridge’s single-sticker—a fast-sailing saucer—Stephanie and Forbes Gurney sat forward of the mast looking at the silver moon track which was directly ahead. The rest were in the cockpit “cutting up”—laughing and singing. It was very plain to all that Stephanie was becoming interested in Forbes Gurney; and since he was charming and she wilful, nothing was done to interfere with them, except to throw an occasional jest their way. Gurney, new to love and romance, scarcely knew how to take his good [[fate|fortune]], how to begin. He told Stephanie of his home life in the wheat-fields of the Northwest, how his family had moved from Ohio when he was three, and how difficult were the labors he had always undergone. He had stopped in his plowing many a day to stand under a tree and write a poem—such as it was—or to watch the birds or to wish he could go to college or to [[chicago|Chicago]]. She looked at him with dreamy eyes, her dark skin turned a copper bronze in the moonlight, her black hair irradiated with a strange, luminous grayish blue. Forbes Gurney, alive to [[art|beauty]] in all its forms, ventured finally to touch her hand—she of Knowles, Cross, and Cowperwood—and she thrilled from head to toe. This boy was so sweet. His curly brown hair gave him a kind of Greek innocence and aspect. She did not move, but waited, hoping he would do more.
+
+[028-003]“I wish I [[power|might]] talk to you as I feel,” he finally said, hoarsely, a catch in his throat.
+
+[028-004]She laid one hand on his.
+
+[028-005]“You dear!” she said.
+
+[028-006]He realized now that he might. A great ecstasy fell upon him. He smoothed her hand, then slipped his arm about her waist, then ventured to kiss the dark cheek turned dreamily from him. Artfully her head sunk to his shoulder, and he murmured wild nothings—how divine she was, how artistic, how wonderful! With her view of things, it could only end one way. She manoeuvered him into calling on her at her home, into studying her books and plays on the top-floor sitting-room, into hearing her sing. Once fully in his arms, the rest was easy by suggestion. He learned she was no longer innocent, and then—In the meantime Cowperwood mingled his speculations concerning large powerhouses, immense reciprocating engines, the problem of a wage scale for his now two thousand employees, some of whom were threatening to strike, the problem of securing, bonding, and equipping the [[lasalle-street|La Salle Street]] tunnel and a downtown loop in La Salle, Monroe, Dearborn, and Randolph streets, with mental inquiries and pictures as to what possibly Stephanie Platow might be doing. He could only make appointments with her from time to time. He did not fail to note that, after he began to make use of information she let drop as to her whereabouts from day to day and her free companionship, he heard less of Gardner Knowles, Lane Cross, and Forbes Gurney, and more of Georgia Timberlake and Ethel Tuckerman. Why this sudden reticence? On one occasion she did say of Forbes Gurney “that he was having such a hard time, and that his clothes weren’t as nice as they should be, poor dear!” Stephanie herself, owing to gifts made to her by Cowperwood, was resplendent these days. She took just enough to complete her wardrobe according to her taste.
+
+[028-007]“Why not send him to me?” Cowperwood asked. “I might find something to do for him.” He would have been perfectly willing to put him in some position where he could keep track of his time. However, Mr. Gurney never sought him for a position, and Stephanie ceased to speak of his poverty. A gift of two hundred dollars, which Cowperwood made her in June, was followed by an accidental meeting with her and Gurney in Washington Street. Mr. Gurney, pale and pleasant, was very well dressed indeed. He wore a pin which Cowperwood knew had once belonged to Stephanie. She was in no way confused. Finally Stephanie let it out that Lane Cross, who had gone to New Hampshire for the summer, had left his studio in her charge. Cowperwood decided to have this studio watched.
+
+[028-008]There was in Cowperwood’s employ at this time a young newspaper man, an ambitious spark aged twenty-six, by the name of Francis Kennedy. He had written a very intelligent article for the Sunday *Inquirer*, describing Cowperwood and his plans, and pointing out what a remarkable man he was. This pleased Cowperwood. When Kennedy called one day, announcing smartly that he was anxious to get out of reportorial work, and inquiring whether he couldn’t find something to do in the street-railway world, Cowperwood saw in him a possibly useful tool.
+
+[028-009]“I’ll try you out as secretary for a while,” he said, pleasantly. “There are a few special things I want done. If you succeed in those, I may find something else for you later.”
+
+[028-010]Kennedy had been working for him only a little while when he said to him one day: “Francis, did you ever hear of a young man by the name of Forbes Gurney in the newspaper world?”
+
+[028-011]They were in Cowperwood’s private office.
+
+[028-012]“No, sir,” replied Francis, briskly.
+
+[028-013]“You have heard of an organization called the Garrick Players, haven’t you?”
+
+[028-014]“Yes, sir.”
+
+[028-015]“Well, Francis, do you suppose you could undertake a little piece of detective work for me, and handle it intelligently and quietly?”
+
+[028-016]“I think so,” said Francis, who was the pink of perfection this morning in a brown suit, garnet tie, and sard sleeve-links. His shoes were immaculately polished, and his young, healthy face glistened.
+
+[028-017]“I’ll tell you what I want you to do. There is a young actress, or amateur actress, by the name of Stephanie Platow, who frequents the studio of an artist named Cross in the New Arts Building. She may even occupy it in his absence—I don’t know. I want you to find out for me what the relations of Mr. Gurney and this woman are. I have certain business reasons for wanting to know.”
+
+[028-018]Young Kennedy was all attention.
+
+[028-019]“You couldn’t tell me where I could find out anything about this Mr. Gurney to begin with, could you?” he asked.
+
+[028-020]“I think he is a friend of a critic here by the name of Gardner Knowles. You might ask him. I need not say that you must never mention me.”
+
+[028-021]“Oh, I understand that thoroughly, Mr. Cowperwood.”
+
+[028-022]Young Kennedy departed, meditating. How was he to do this? With true journalistic skill he first sought other newspaper men, from whom he learned—a bit from one and a scrap from another—of the character of the Garrick Players, and of the women who belonged to it. He pretended to be writing a one-act play, which he hoped to have produced.
+
+[028-023]He then visited Lane Cross’s studio, posing as a newspaper interviewer. Mr. Cross was out of town, so the elevator man said. His studio was closed.
+
+[028-024]Mr. Kennedy meditated on this fact for a moment.
+
+[028-025]“Does anyone use his studio during the summer months?” he asked.
+
+[028-026]“I believe there is a young woman who comes here—yes.”
+
+[028-027]“You don’t happen to know who it is?”
+
+[028-028]“Yes, I do. Her name is Platow. What do you want to know for?”
+
+[028-029]“Looky here,” exclaimed Kennedy, surveying the rather shabby attendant with a cordial and persuasive eye, “do you want to make some money—five or ten dollars, and without any trouble to you?”
+
+[028-030]The elevator man, whose wages were exactly eight dollars a week, pricked up his ears.
+
+[028-031]“I want to know who comes here with this Miss Platow, when they come—all about it. I’ll make it fifteen dollars if I find out what I want, and I’ll give you five right now.”
+
+[028-032]The elevator factotum had just sixty-five cents in his pocket at the time. He looked at Kennedy with some uncertainty and much desire.
+
+[028-033]“Well, what can I do?” he repeated. “I’m not here after six. The janitor runs this elevator from six to twelve.”
+
+[028-034]“There isn’t a room vacant anywhere near this one, is there?” Kennedy asked, speculatively.
+
+[028-035]The factotum thought. “Yes, there is. One just across the hall.”
+
+[028-036]“What time does she come here as a rule?”
+
+[028-037]“I don’t know anything about nights. In the day she sometimes comes mornings, sometimes in the afternoon.”
+
+[028-038]“Anybody with her?”
+
+[028-039]“Sometimes a man, sometimes a girl or two. I haven’t really paid much attention to her, to tell you the truth.”
+
+[028-040]Kennedy walked away whistling.
+
+[028-041]From this day on Mr. Kennedy became a watcher over this very unconventional atmosphere. He was in and out, principally observing the comings and goings of Mr. Gurney. He found what he naturally suspected, that Mr. Gurney and Stephanie spent hours here at peculiar times—after a company of friends had jollified, for instance, and all had left, including Gurney, when the latter would quietly return, with Stephanie sometimes, if she had left with the others, alone if she had remained behind. The visits were of varying duration, and Kennedy, to be absolutely accurate, kept days, dates, the duration of the hours, which he left noted in a sealed envelope for Cowperwood in the morning. Cowperwood was enraged, but so great was his interest in Stephanie that he was not prepared to act. He wanted to see to what extent her duplicity would go.
+
+[028-042]The novelty of this atmosphere and its effect on him was astonishing. Although his mind was vigorously employed during the day, nevertheless his thoughts kept returning constantly. Where was she? What was she doing? The bland way in which she could lie reminded him of himself. To think that she should prefer anyone else to him, especially at this time when he was shining as a great constructive factor in the city, was too much. It smacked of age, his ultimate displacement by youth. It cut and hurt.
+
+[028-043]One morning, after a peculiarly exasperating night of thought concerning her, he said to young Kennedy: “I have a suggestion for you. I wish you would get this elevator man you are working with down there to get you a duplicate key to this studio, and see if there is a bolt on the inside. Let me know when you do. Bring me the key. The next time she is there of an evening with Mr. Gurney step out and telephone me.”
+
+[028-044]The climax came one night several weeks after this discouraging investigation began. There was a heavy yellow moon in the sky, and a warm, sweet summer wind was blowing. Stephanie had called on Cowperwood at his office about four to say that instead of staying downtown with him, as they had casually planned, she was going to her home on the West Side to attend a garden-party of some kind at Georgia Timberlake’s. Cowperwood looked at her with—for him—a morbid eye. He was all cheer, geniality, pleasant badinage; but he was thinking all the while what a shameless enigma she was, how well she played her part, what a fool she must take him to be. He gave her youth, her passion, her attractiveness, her natural promiscuity of soul due credit; but he could not forgive her for not loving him perfectly, as had so many others. She had on a summery black-and-white frock and a fetching brown Leghorn hat, which, with a rich-red poppy ornamenting a flare over her left ear and a peculiar ruching of white-and-black silk about the crown, made her seem strangely young, debonair, a study in Hebraic and American origins.
+
+[028-045]“Going to have a nice time, are you?” he asked, genially, politically, eying her in his enigmatic and inscrutable way. “Going to shine among that charming company you keep! I suppose all the standbys will be there—Bliss Bridge, Mr. Knowles, Mr. Cross—dancing attendance on you?”
+
+[028-046]He failed to mention Mr. Gurney.
+
+[028-047]Stephanie nodded cheerfully. She seemed in an innocent outing mood.
+
+[028-048]Cowperwood smiled, thinking how one of these days—very shortly, perhaps—he was certain to take a signal revenge. He would catch her in a lie, in a compromising position somewhere—in this studio, perhaps—and dismiss her with contempt. In an elder day, if they had lived in Turkey, he would have had her strangled, sewn in a sack, and thrown into the Bosporus. As it was, he could only dismiss her. He smiled and smiled, smoothing her hand. “Have a good time,” he called, as she left. Later, at his own home—it was nearly midnight—Mr. Kennedy called him up.
+
+[028-049]“Mr. Cowperwood?”
+
+[028-050]“Yes.”
+
+[028-051]“You know the studio in the New Arts Building?”
+
+[028-052]“Yes.”
+
+[028-053]“It is occupied now.”
+
+[028-054]Cowperwood called a servant to bring him his runabout. He had had a downtown locksmith make a round keystem with a bored clutch at the end of it—a hollow which would fit over the end of such a key as he had to the studio and turn it easily from the outside. He felt in his pocket for it, jumped in his runabout, and hurried away. When he reached the New Arts Building he found Kennedy in the hall and dismissed him. “Thanks,” he observed, brusquely. “I will take care of this.”
+
+[028-055]He hurried up the stairs, avoiding the elevator, to the vacant room opposite, and thence reconnoitered the studio door. It was as Kennedy had reported. Stephanie was there, and with Gurney. The pale poet had been brought there to furnish her an evening of delight. Because of the stillness of the building at this hour he could hear their muffled voices speaking alternately, and once Stephanie singing the refrain of a song. He was angry and yet grateful that she had, in her genial way, taken the trouble to call and assure him that she was going to a summer lawn-party and dance. He smiled grimly, sarcastically, as he thought of her surprise. Softly he extracted the clutch-key and inserted it, covering the end of the key on the inside and turning it. It gave solidly without sound. He next tried the knob and turned it, feeling the door spring slightly as he did so. Then inaudibly, because of a gurgled laugh with which he was thoroughly familiar, he opened it and stepped in.
+
+[028-056]At his rough, firm cough they sprang up—Gurney to a hiding position behind a curtain, Stephanie to one of concealment behind draperies on the couch. She could not speak, and could scarcely believe that her eyes did not deceive her. Gurney, masculine and defiant, but by no means well composed, demanded: “Who are you? What do you want here?” Cowperwood replied very simply and smilingly: “Not very much. Perhaps Miss Platow there will tell you.” He nodded in her direction.
+
+[028-057]Stephanie, fixed by his cold, examining eye, shrank nervously, ignoring Gurney entirely. The latter perceived on the instant that he had a previous liaison to deal with—an angry and outraged lover—and he was not prepared to act either wisely or well.
+
+[028-058]“Mr. Gurney,” said Cowperwood, complacently, after staring at Stephanie grimly and scorching her with his scorn, “I have no concern with you, and do not propose to do anything to disturb you or Miss Platow after a very few moments. I am not here without reason. This young woman has been steadily deceiving me. She has lied to me frequently, and pretended an innocence which I did not believe. Tonight she told me she was to be at a lawn-party on the West Side. She has been my mistress for months. I have given her money, jewelry, whatever she wanted. Those jade earrings, by the way, are one of my gifts.” He nodded cheerfully in Stephanie’s direction. “I have come here simply to prove to her that she cannot lie to me any more. Heretofore, every time I have accused her of things like this she has cried and lied. I do not know how much you know of her, or how fond you are of her. I merely wish her, not you, to know”—and he turned and stared at Stephanie—“that the day of her lying to me is over.”
+
+[028-059]During this very peculiar harangue Stephanie, who, nervous, fearful, fixed, and yet beautiful, remained curled up in the corner of the suggestive oriental divan, had been gazing at Cowperwood in a way which plainly attested, trifle as she might with others, that she was nevertheless fond of him—intensely so. His strong, solid figure, confronting her so ruthlessly, gripped her imagination, of which she had a world. She had managed to conceal her body in part, but her brown arms and shoulders, her bosom, trim knees, and feet were exposed in part. Her black hair and naive face were now heavy, distressed, sad. She was frightened really, for Cowperwood at bottom had always overawed her—a strange, terrible, fascinating man. Now she sat and looked, seeking still to lure him by the pathetic cast of her face and soul, while Cowperwood, scornful of her, and almost openly contemptuous of her lover, and his possible opposition, merely stood smiling before them. It came over her very swiftly now just what it was she was losing—a grim, wonderful man. Beside him Gurney, the pale poet, was rather thin—a mere breath of romance. She wanted to say something, to make a plea; but it was so plain Cowperwood would have none of it, and, besides, here was Gurney. Her throat clogged, her eyes filled, even here, and a mystical bog-fire state of emotion succeeded the primary one of opposition. Cowperwood knew the look well. It gave him the only sense of triumph he had.
+
+[028-060]“Stephanie,” he remarked, “I have just one word to say to you now. We will not meet any more, of course. You are a good actress. Stick to your profession. You may shine in it if you do not merge it too completely with your loves. As for being a free lover, it isn’t incompatible with what you are, perhaps, but it isn’t socially advisable for you. Good night.”
+
+[028-061]He turned and walked quickly out.
+
+[028-062]“Oh, Frank,” called Stephanie, in a strange, magnetized, despairing way, even in the face of her astonished lover. Gurney stared with his mouth open.
+
+[028-063]Cowperwood paid no heed. Out he went through the dark hall and down the stairs. For once the lure of a beautiful, enigmatic, immoral, and promiscuous woman—poison flower though she was—was haunting him. “D—— her!” he exclaimed. “D—— the little beast, anyhow! The ———! The ———!” He used terms so hard, so vile, so sad, all because he knew for once what it was to love and lose—to want ardently in his way and not to have—now or ever after. He was determined that his path and that of Stephanie Platow should never be allowed to cross again.

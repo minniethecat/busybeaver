@@ -1,0 +1,48 @@
+---
+description: ""
+id: Aphorism-276
+label: "Aphorism 276"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 276.
+
+### 276.
+
+
+*For the New Year.*—I still live, I still think; I
+
+must still live, for I must still think. *Sum, ergo
+
+cogito: cogito, ergo sum.* To-day everyone takes
+
+the liberty of expressing his wish and his favourite
+
+thought: well, I also mean to tell what I have
+
+wished for myself to-day, and what thought first
+
+crossed my mind this year,—a thought which ought
+
+to be the basis, the pledge and the sweetening of
+
+all my future life! I want more and more to
+
+perceive the necessary characters in things as the
+
+beautiful:—I shall thus be one of those who
+
+beautify things. *Amor fati*: let that henceforth
+
+be my love! I do not want to wage war with the
+
+ugly. I do not want to accuse, I do not want even
+
+to accuse the accusers. *Looking aside*, let that be
+
+my sole negation! And all in all, to sum up: I
+
+wish to be at any time hereafter only a yea-sayer!

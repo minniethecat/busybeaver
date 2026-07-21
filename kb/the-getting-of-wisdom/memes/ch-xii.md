@@ -1,0 +1,87 @@
+---
+description: "You might regulate your outward habit to the last button of what you were expected to wear; you might conceal the tiny flaws and shuffle over the..."
+id: ch-xii
+label: "XII"
+tags: ["chapter"]
+type: chapter
+---
+
+[012-001] > [012-001] Da regiert der Nachbar, da *wird* man Nachbar.
+
+[012-002] > [012-002] Nietzsche
+
+[012-003] [012-003] You might regulate your outward habit to the last button of what you were expected to wear; you might conceal the tiny flaws and shuffle over the big improprieties in your home life, which were likely to damage your value in the eyes of your companions; you might, in brief, march in the strictest order along the narrow road laid down for you by these young lawgivers, keeping perfect step and time with them: yet of what use were all your pains, if you could not marshal your thoughts and feelings—the very realest part of you—in rank and file as well? … if these persisted in escaping control?—Such was the question which, about this time, began to present itself to Laura’s mind.
+
+[012-004] [012-004] It first took form on the day [[miss-blount|Miss Blount]], the secretary, popped her head in at the door and announced: “At half-past three, [[class|Class]] Two to Number One.”
+
+[012-005] [012-005] Class Two was taking a lesson in elocution: that is to say Mr. [[mr-repton|Repton]], the visiting-master for this branch of study, was reading aloud, in a sonorous voice, a chapter of *Handy Andy*. He underlined his points heavily, and his hearers, like the self-conscious, emotionally shy [[colonial|young colonials]] they were, felt half amused by, half-superior to the histrionic display. They lounged in easy, ungraceful postures while he read, reclining one against another, or sprawling forward over the desks, their heads on their arms. It was the first hour after dinner, when one’s thoughts were sleepy and stupid, and Mr. Repton was not a pattern disciplinarian; but the general abandonment of attitude had another ground as well. It had to do with the shape of the master’s legs. These were the object of an enthusiastic admiration. They were generally admitted to be the handsomest in [[ladies-college|the school]], and those girls were thought lucky who could get the best view of them beneath the desk. Moreover, the rumour ran that Mr. Repton had once been an actor—his very curly hair no doubt lent weight to the report—and Class Two was fond of picturing the comely limbs in the tights of a Hamlet or Othello. It also, of course, invented for him a lurid life outside the College walls—notwithstanding the fact that he and his sonsy wife sat opposite the boarders in [[religion|church]] every Sunday morning, the embodiment of the virtuous commonplace; and whenever he looked at a pupil, every time he singled one of them out for special notice, he was believed to have an ulterior motive, his words were construed into meaning something they should not mean: so that the poor man was often genuinely puzzled by the reception of his friendly overtures. Such was Class Two’s youthful contribution to the romance of school life.
+
+[012-006] [012-006] On this particular day, however, the sudden, short snap of the secretary’s announcement that, instead of dispersing at half-past three, the entire school was to reassemble, galvanised the [[social-standing|class]]. Glances of mingled apprehension and excitement flew round; eyes telegraphed vigorous messages; and there was little attention left for well-shaped members, or for the antics of Handy Andy under his mother’s bed.
+
+[012-007] [012-007] But when the hour came, and all classes were moving in the same direction, verandahs and corridors one seething mass of girls, it was the excitement that prevailed. For any break was welcome in the uniformity of the days; and the nervous tension now felt was no more disagreeable, at bottom, than was the pleasant trepidation experienced of old by those who went to be present at a hanging.
+
+[012-008] [012-008] In the course of the past weeks a number of petty thefts had been committed. Day-scholars who left small sums of [[wealth|money]] in their jacket pockets would find, on returning to the cloakrooms, that these had been pilfered. For a time, the losses were borne in silence, because of the reluctance inherent in young girls to making a fuss. But when shillings began to vanish in the same fashion, and once even half-a-crown was missing, it was recognised that the thing must be put a stop to; and one bolder than the rest, and with a stronger sense of public morality, lodged a complaint. Investigations were made, a trap was set, and the thief discovered. The school was now assembled to see justice done.
+
+[012-009] [012-009] The great room was fuller even than at morning prayers; for then there was always an unpunctual minority. A crowd of girls who had not been able to find seats was massed together at the further end. As at prayers, visiting and resident teachers stood in a line, with their backs to the high windows; they were ranged in order of precedence, topped by Dr. Pughson, who stood next Mr. Strachey’s desk. All alike wore blank, stern faces.
+
+[012-010] [012-010] In one of the rows of desks for two—blackened, ink-scored, dusty desks, with eternally dry inkwells—sat Laura and [[tilly|Tilly]], behind them [[inez|Inez]] and Bertha. The cheeks of the four were flushed. But, while the others only whispered and wondered, Laura was on the tiptoe of expectation. She could not get her breath properly, and her hands and feet were cold. Twisting her fingers, in and out, she moistened her lips with her tongue. When, oh, when would it begin?
+
+[012-011] [012-011] These few foregoing minutes were the most trying of any. For when, in an ominous hush, Mr. Strachey entered and strode to his desk, Laura suddenly grew calm, and could take note of everything that passed.
+
+[012-012] [012-012] The Principal raised his hand, to enjoin a silence that was already absolute.
+
+[012-013] [012-013] “Will Miss Johns stand up!”
+
+[012-014] [012-014] At these words, spoken in a low, impressive tone, Bertha burst into tears and hid her face in her handkerchief. Hundreds of eyes sought the unhappy culprit as she rose, then to be cast down and remain glued to the floor.
+
+[012-015] [012-015] The girl stood, pale and silly-looking, and stared at Mr. Strachey much as a rabbit stares at the snake that is about to eat it. She was a very ugly girl of fourteen, with a pasty face, and lank hair that dangled to her shoulders. Her mouth had fallen half open through fear, and she did not shut it all the time she was on view.
+
+[012-016] [012-016] Laura could not take her eyes off the scene: they travelled, burning with curiosity, from [[annie-johns|Annie Johns]] to Mr. Strachey, and back again to the miserable thief. When, after a few introductory remarks on crime in general, the Principal passed on to the present case, and described it in detail, Laura was fascinated by his oratory, and gazed full at him. He made it all live vividly before her; she hung on his lips, appreciating his points, the skilful way in which he worked up his climaxes. But then, she herself knew what it was to be poor—as Annie Johns had been. She understood what it would mean to lack your tram-fare on a rainy morning—according to Mr. Strachey this was the motor impulse of the thefts—because a lolly shop had stretched out its octopus arms after you. She could imagine, too, with a shiver, how easy it would be, the loss of the first pennies having remained undiscovered, to go on to threepenny-bits, and from these to sixpences. More particularly since the money had been taken, without exception, from pockets in which there was plenty. Not, Laura felt sure, in order to avoid detection, as Mr. Strachey supposed, but because to those who had so much a few odd coins could not matter. She wondered if everyone else agreed with him on this point. How did the teachers feel about it?—and she ran her eyes over the row, to learn their opinions from their faces. But these were as stolid as ever. Only good old Chapman, she thought, looked a little sorry, and Miss Zielinski—yes, Miss Zielinski was crying! This discovery thrilled Laura—just as, at the play, the fact of one spectator being moved to tears intensifies his neighbour’s enjoyment. But when Mr. Strachey left the field of personal narration and went on to the moral aspects of the affair, Laura ceased to be gripped by him, and turned anew to study the pale, dogged face of the accused, though she had to crane her neck to do it. Before such a stony mask as this, she was driven to imagine what must be going on behind it; and, while thus engrossed, she felt her arm angrily tweaked. It was Tilly.
+
+[012-017] [012-017] “You *are* a beast to stare like that!”
+
+[012-018] [012-018] “I’m not staring.”
+
+[012-019] [012-019] She turned her eyes away at once, more than half believing her own words; and then, for some seconds, she tried to do what was expected of her: to feel a decent unconcern. At her back, Bertha’s purry crying went steadily on. What on earth did she cry for? She had certainly not heard a word Mr. Strachey said. Laura fidgeted in her seat, and stole a side-glance at Tilly’s profile. She could not, really could not miss the last scene of all, when, in masterly fashion, the Principal was gathering the threads together. And so, feeling rather like “Peeping Tom,” she cautiously raised her eyes again, and this time managed to use them without turning her head.
+
+[012-020] [012-020] All other eyes were still charitably lowered. Several girls were crying now, but without a sound. And, as the last, awful moments drew near, even Bertha was hushed, and of all the odd hundreds of throats not one dared to cough. Laura’s heart began to palpitate, for she felt the approach of the final climax, Mr. Strachey’s periods growing ever slower and more massive.
+
+[012-021] [012-021] When, after a burst of eloquence which, the child felt, would not have shamed a Bishop, the Principal drew himself up to his full height, and, with uplifted arm, thundered forth: “Herewith, Miss Annie Johns, I publicly expel you from the school! Leave it, now, this moment, and never darken its doors again!”—when this happened, Laura was shot through by an ecstatic quiver, such as she had felt once only in her life before; and that was when a beautiful, golden-haired Hamlet, who had held a [[ballarat|Ballarat]] theatre entranced for a whole evening, fell dead by Laertes’ sword, to the rousing plaudits of the house. Breathing unevenly, she watched, lynx-eyed, every inch of Annie Johns’ progress: watched her pick up her books, edge out of her seat and sidle through the rows of desks; watched her walk to the door with short jerky movements, mount the two steps that led to it, fumble with the handle, turn it, and vanish from sight; and when it was all over, and there was nothing more to see, she fell back in her seat with an audible sigh.
+
+[012-022] [012-022] It was too late after this for the winding of the snaky line about the streets and parks of [[east-melbourne|East Melbourne]], which constituted the boarders’ daily exercise. They were despatched to stretch their legs in the garden. Here, as they walked round lawns and tennis-courts, they discussed the main event of the afternoon, and were a little more vociferous than usual, in an attempt to shake off the remembrance of a very unpleasant half-hour.
+
+[012-023] [012-023] “I bet you Sandy rather enjoyed kicking up that shindy.”
+
+[012-024] [012-024] “*Did* you see Puggy’s boots again? Girls, he *must* take twelves!”
+
+[012-025] [012-025] “And that old blubber of a Ziely’s handkerchief! It was filthy. I told you yesterday I was sure she never washed her neck.”
+
+[012-026] [012-026] Bertha, whose tears had dried as rapidly as sea-spray, gave Laura a dig in the ribs. “What’s up with you, old Tweedledum? You’re as glum as a lubra.”
+
+[012-027] [012-027] “No, I’m not.”
+
+[012-028] [012-028] “It’s my belief that Laura was sorry for that pig,” threw in Tilly.
+
+[012-029] [012-029] “Indeed I wasn’t!” said Laura indignantly.
+
+[012-030] [012-030] “Sorry for a thief?”
+
+[012-031] [012-031] “I tell you I *wasn’t*!”—and this was true. Among the divers feelings Laura had experienced that afternoon, pity had not been included.
+
+[012-032] [012-032] “If you want to be chums with such a mangy beast, you’d better go to school in a lockup.”
+
+[012-033] [012-033] “I don’t know what my father’d say, if he knew I’d been in the same class as a pickpocket,” said the daughter of a minister from Brisbane. “I guess he wouldn’t have let me stop here a week.”
+
+[012-034] [012-034] Laura went one better. “My mother wouldn’t have let me stop a day.”
+
+[012-035] [012-035] Those standing by laughed, and a girl from the Riverina said: “Oh, no, of course not!” in a tone that made Laura wince and regret her readiness.
+
+[012-036] [012-036] Before tea, she had to practise. The piano stood in an outside classroom, where no one could hear whether she was diligent or idle, and she soon gave up playing and went to the window. Here, having dusted the gritty sill with her petticoat, she leaned her chin on her two palms and stared out into the sunbaked garden. It was empty now, and very still. The streets that lay behind the high palings were deserted in the drowsy heat; the only sound to be heard was a gentle tinkling to vespers in the neighbouring Catholic Seminary. Leaning thus on her elbows, and balancing herself first on her heels, then on her toes, Laura went on, in desultory fashion, with the thoughts that had been set in motion during the afternoon. She wondered where Annie Johns was now, and what she was doing; wondered how she had faced her mother, and what her father had said to her. All the rest of them had gone back at once to their everyday life; Annie Johns alone was cut adrift. What would happen to her? Would she perhaps be turned out of the house? … into the streets?—and Laura had a lively vision of the guilty creature, in rags and tatters, slinking along walls and sleeping under bridges, eternally moved on by a ruthless London policeman (her only [[wisdom|knowledge]] of extreme destitution being derived from the woeful tale of “Little Jo”). And to think that the beginning of it all had been the want of a trumpery tram-fare. How safe the other girls were! No wonder they could allow themselves to feel shocked and outraged; none of *them* knew what it was not to have threepence in your pocket. While she, Laura … Yes, and it must be this same incriminating acquaintance with poverty that made her feel differently about Annie Johns and what she had done. For her feelings *had* been different—there was no denying that. Did she now think back over the half-hour spent in Number One, and act honest Injun with herself, she had to admit that her companions’ indignant and horrified aversion to the crime had not been hers, let alone their decent indifference towards the criminal. No, to be candid, she had been deeply interested in the whole affair, had even managed to extract an unseemly amount of entertainment from it. And that, of course, should not have been. It was partly Mr. Strachey’s fault, for making it so dramatic; but none the less she genuinely despised herself, for having such a queer inside.
+
+[012-037] [012-037] “Pig—pig—pig!” she muttered under her breath, and wrinkled her nose in a grimace.
+
+[012-038] [012-038] The real reason of her pleasurable absorption was, she supposed, that she had understood Annie Johns’ motive better than anyone else. Well, she had had no business to understand—that was the long and the short of it: nice-minded girls found such a thing impossible, and turned incuriously away. And her companions had been quick to recognise her difference of attitude, or they would never have dared to accuse her of sympathy with the thief, or to doubt her chorusing assertion with a sneer. For them, the gap was not very wide between understanding and doing likewise. And they were certainly right. Oh! the last wish in the world she had was to range herself on the side of the sinner; she longed to see eye to eye with her comrades—if she had only known how to do it. For there was no saying where it might lead you, if you persisted in having odd and peculiar notions; you might even end by being wicked yourself. Let her take a lesson in time from Annie’s fate. For, beginning perhaps with ideas that were no more unlike those of her schoolfellows than were Laura’s own, Annie was now a branded thief and an outcast. And the child’s feelings, as she stood at the window, were not very far removed from prayer. Had they found words, they would have taken the form of an entreaty that she might be preserved from having thoughts that were different from other people’s; that she might be made to feel as she ought to feel, in a proper, ladylike way—and especially did she see a companion convicted of crime.
+
+[012-039] [012-039] Below all this, in subconscious depths, a chord of fear seemed to have been struck in her as well—the fear of stony faces, drooped lids, and stretched, pointing fingers. For that night she started up, with a cry, from [[dream|dreaming]] that not Annie Johns but she was being expelled; that an army of spear-like first fingers was marching towards her, and that, try as she would, she could not get her limp, heavy legs to bear her to the schoolroom door.
+
+[012-040] [012-040] And this dream often returned.

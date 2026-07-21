@@ -1,0 +1,163 @@
+---
+description: "By eight o’clock, at which hour the conference was set, the principal financial personages of Chicago were truly in a great turmoil. Messrs. Hand, ..."
+id: XLIX-Mount-Olympus
+label: "XLIX: Mount Olympus"
+tags: ["chapter"]
+type: chapter
+---
+
+# XLIX: Mount Olympus
+
+[049-001]By eight o’clock, at which hour the conference was set, the principal [[finance|financial]] personages of [[chicago|Chicago]] were truly in a great turmoil. Messrs. [[harold-hand|Hand]], [[norman-schryhart|Schryhart]], [[anson-merrill|Merrill]], and [[arneel|Arneel]] were personally interested! What would you? As early as seven-thirty there was a pattering of horses’ hoofs and a jingle of harness, as splendid open carriages were drawn up in front of various exclusive mansions and a bank president, or a director at least, issued forth at the call of one of the big quadrumvirate to journey to the home of Mr. Arneel. Such interesting figures as Samuel Blackman, once president of the old Chicago Gas Company, and now a director of the Prairie National; Hudson Baker, once president of the West Chicago Gas Company, and now a director of the Chicago Central National; Ormonde Ricketts, publisher of the *Chronicle* and director of the Third National; Norrie Simms, president of the Douglas Trust Company; Walter Rysam Cotton, once an active wholesale coffee-broker, but now a director principally of various institutions, were all en route. It was a procession of solemn, superior, thoughtful gentlemen, and all desirous of giving the right appearance and of making the correct impression. For, be it known, of all men none are so proud or vainglorious over the minor trappings of materialism as those who have but newly achieved them. It is so essential apparently to fulfil in manner and air, if not in fact, the principle of “presence” which befits the role of conservator of society and leader of wealth. Every one of those named and many more—to the number of thirty—rode thus loftily forth in the hot, dry evening air and were soon at the door of the large and comfortable home of Mr. Timothy Arneel.
+
+[049-002]That important personage was not as yet present to receive his guests, and neither were Messrs. Schryhart, [[hosmer-hand|Hand]], nor Merrill. It would not be fitting for such eminent potentates to receive their underlings in person on such an occasion. At the hour appointed these four were still in their respective offices, perfecting separately the details of the plan upon which they had agreed and which, with a show of informality and of momentary inspiration, they would later present. For the time being their guests had to make the best of their absence. Drinks and liquors were served, but these were of small comfort. A rack provided for straw hats was for some reason not used, everyone preferring to retain his own headgear. Against the background of wood panneling and the chairs covered with summer linen the company presented a galleryesque variety and interest. Messrs. Hull and Stackpole, the corpses or victims over which this serious gathering were about to sit in state, were not actually present within the room, though they were within call in another part of the house, where, if necessary, they could be reached and their advice or explanations heard. This presumably brilliant assemblage of the financial weight and intelligence of the city appeared as solemn as owls under the pressure of a rumored impending financial crisis. Before Arneel’s appearance there was a perfect buzz of minor financial gossip, such as:
+
+[049-003]“You don’t say?”
+
+[049-004]“Is it as serious as that?”
+
+[049-005]“I knew things were pretty shaky, but I was by no means certain how shaky.”
+
+[049-006]“Fortunately, we are not carrying much of that stock.” (This from one of the few really happy bankers.)
+
+[049-007]“This is a rather serious occasion, isn’t it?”
+
+[049-008]“You don’t tell me!”
+
+[049-009]“Dear, dear!”
+
+[049-010]Never a word in criticism from any source of either Hand or Schryhart or Arneel or Merrill, though the fact that they were back of the pool was well known. Somehow they were looked upon as benefactors who were calling this conference with a view of saving others from disaster rather than for the purpose of assisting themselves. Such phrases as, “Oh, Mr. Hand! Marvelous man! Marvelous!” or, “Mr. Schryhart—very able—very able indeed!” or, “You may depend on it these men are not going to allow anything serious to overtake the affairs of the city at this time,” were heard on every hand. The fact that immense quantities of cash or paper were involved in behalf of one or other of these four was secretly admitted by one banker to another. No rumor that [[frank-cowperwood|Cowperwood]] or his friends had been profiting or were in any way involved had come to anyone present—not as yet.
+
+[049-011]At eight-thirty exactly Mr. Arneel first ambled in quite informally, Hand, Schryhart, and Merrill appearing separately very shortly after. Rubbing their hands and mopping their faces with their handkerchiefs, they looked about them, making an attempt to appear as nonchalant and cheerful as possible under such trying circumstances. There were many old acquaintances and friends to greet, inquiries to be made as to the health of wives and children. Mr. Arneel, clad in yellowish linen, with a white silk shirt of lavender stripe, and carrying a palm-leaf fan, seemed quite refreshed; his fine expanse of neck and bosom looked most paternal, and even Abrahamesque. His round, glistening pate exuded beads of moisture. Mr. Schryhart, on the contrary, for all the heat, appeared quite hard and solid, as though he [[power|might]] be carved out of some dark wood. Mr. Hand, much of Mr. Arneel’s type, but more solid and apparently more vigorous, had donned for the occasion a blue serge coat with trousers of an almost gaudy, bright stripe. His ruddy, archaic face was at once encouraging and serious, as though he were saying, “My dear children, this is very trying, but we will do the best we can.” Mr. Merrill was as cool and ornate and lazy as it was possible for a great merchant to be. To one person and another he extended a cool, soft hand, nodding and smiling half the time in silence. To Mr. Arneel as the foremost citizen and the one of largest wealth fell the duty (by all agreed as most appropriate) of assuming the chair—which in this case was an especially large one at the head of the table.
+
+[049-012]There was a slight stir as he finally, at the suggestion of Schryhart, went forward and sat down. The other great men found seats.
+
+[049-013]“Well, gentlemen,” began Mr. Arneel, dryly (he had a low, husky voice), “I’ll be as brief as I can. This is a very unusual occasion which brings us together. I suppose you all know how it is with Mr. Hull and Mr. Stackpole. American Match is likely to come down with a crash in the morning if something very radical isn’t done tonight. It is at the suggestion of a number of men and banks that this meeting is called.”
+
+[049-014]Mr. Arneel had an informal, tête-à-tête way of speaking as if he were sitting on a chaise-longue with one other person.
+
+[049-015]“The failure,” he went on, firmly, “if it comes, as I hope it won’t, will make a lot of trouble for a number of banks and private individuals which we would like to avoid, I am sure. The principal creditors of American Match are our local banks and some private individuals who have loaned money on the stock. I have a list of them here, along with the amounts for which they are responsible. It is in the neighborhood of ten millions of dollars.”
+
+[049-016]Mr. Arneel, with the unconscious arrogance of wealth and power, did not trouble to explain how he got the list, neither did he show the slightest perturbation. He merely fished down in one pocket in a heavy way and produced it, spreading it out on the table before him. The company wondered whose names and what amounts were down, and whether it was his intention to read it.
+
+[049-017]“Now,” resumed Mr. Arneel, seriously, “I want to say here that Mr. Stackpole, Mr. Merrill, Mr. Hand, and myself have been to a certain extent investors in this stock, and up to this afternoon we felt it to be our duty, not so much to ourselves as to the various banks which have accepted this stock as collateral and to the city at large, to sustain it as much as possible. We believed in Mr. Hull and Mr. Stackpole. We might have gone still further if there had been any hope that a number of others could carry the stock without seriously injuring themselves; but in view of recent developments we know that this can’t be done. For some time Mr. Hull and Mr. Stackpole and the various bank officers have had reason to think that someone has been cutting the ground from under them, and now they know it. It is because of this, and because only concerted action on the part of banks and individuals can save the financial credit of the city at this time, that this meeting is called. Stocks are going to continue to be thrown on the market. It is possible that Hull & Stackpole may have to liquidate in some way. One thing is certain: unless a large sum of money is gathered to meet the claim against them in the morning, they will fail. The trouble is due indirectly, of course, to this silver agitation; but it is due a great deal more, we believe, to a piece of local sharp dealing which has just come to light, and which has really been the cause of putting the financial community in the tight place where it stands tonight. I might as well speak plainly as to this matter. It is the work of one man—Mr. Cowperwood. American Match might have pulled through and the city been have spared the danger which now confronts it if Mr. Hull and Mr. Stackpole had not made the mistake of going to this man.”
+
+[049-018]Mr. Arneel paused, and Mr. Norrie Simms, more excitable than most by temperament, chose to exclaim, bitterly: “The wrecker!” A stir of interest passed over the others accompanied by murmurs of disapproval.
+
+[049-019]“The moment he got the stock in his hands as collateral,” continued Mr. Arneel, solemnly, “and in the face of an agreement not to throw a share on the market, he has been unloading steadily. That is what has been happening yesterday and today. Over fifteen thousand shares of this stock, which cannot very well be traced to outside sources, have been thrown on the market, and we have every reason to believe that all of it comes from the same place. The result is that American Match, and Mr. Hull and Mr. Stackpole, are on the verge of collapse.”
+
+[049-020]“The scoundrel!” repeated Mr. Norrie Simms, bitterly, almost rising to his feet. The Douglas Trust Company was heavily interested in American Match.
+
+[049-021]“What an outrage!” commented Mr. Lawrence, of the Prairie National, which stood to lose at least three hundred thousand dollars in shrinkage of values on hypothecated stock alone. To this bank that Cowperwood owed at least three hundred thousand dollars on call.
+
+[049-022]“Depend on it to find his devil’s hoof in it somewhere,” observed Jordan Jules, who had never been able to make any satisfactory progress in his fight on Cowperwood in connection with the city council and the development of the Chicago General Company. The Chicago Central, of which he was now a director, was one of the banks from which Cowperwood had judiciously borrowed.
+
+[049-023]“It’s a pity he should be allowed to go on bedeviling the town in this fashion,” observed Mr. Sunderland Sledd to his neighbor, Mr. Duane Kingsland, who was a director in a bank controlled by Mr. Hand.
+
+[049-024]The latter, as well as Schryhart, observed with satisfaction the effect of Mr. Arneel’s words on the company.
+
+[049-025]Mr. Arneel now again fished in his pocket laboriously, and drew forth a second slip of paper which he spread out before him. “This is a time when frankness must prevail,” he went on, solemnly, “if anything is to be done, and I am in hopes that we can do something. I have here a memorandum of some of the loans which the local banks have made to Mr. Cowperwood and which are still standing on their books. I want to know if there are any further loans of which any of you happen to know and which you are willing to mention at this time.”
+
+[049-026]He looked solemnly around.
+
+[049-027]Immediately several loans were mentioned by Mr. Cotton and Mr. Osgood which had not been heard of previously. The company was now very well aware, in a general way, of what was coming.
+
+[049-028]“Well, gentlemen,” continued Mr. Arneel, “I have, previous to this meeting, consulted with a number of our leading men. They agree with me that, since so many banks are in need of funds to carry this situation, and since there is no particular obligation on anybody’s part to look after the interests of Mr. Cowperwood, it might be just as well if these loans of his, which are outstanding, were called and the money used to aid the banks and the men who have been behind Mr. Hull and Mr. Stackpole. I have no personal feeling against Mr. Cowperwood—that is, he has never done me any direct injury—but naturally I cannot approve of the course he has seen fit to take in this case. Now, if there isn’t money available from some source to enable you gentlemen to turn around, there will be a number of other failures. Runs may be started on a half-dozen banks. Time is the essence of a situation like this, and we haven’t any time.”
+
+[049-029]Mr. Arneel paused and looked around. A slight buzz of conversation sprang up, mostly bitter and destructive criticism of Cowperwood.
+
+[049-030]“It would be only just if he could be made to pay for this,” commented Mr. Blackman to Mr. Sledd. “He has been allowed to play fast and loose long enough. It is time someone called a halt on him.”
+
+[049-031]“Well, it looks to me as though it would be done tonight,” Mr. Sledd returned.
+
+[049-032]Meanwhile Mr. Schryhart was again rising to his feet. “I think,” he was saying, “if there is no objection on anyone’s part, Mr. Arneel, as chairman, might call for a formal expression of opinion from the different gentlemen present which will be on record as the sense of this meeting.”
+
+[049-033]At this point Mr. Kingsland, a tall, whiskered gentleman, arose to inquire exactly how it came that Cowperwood had secured these stocks, and whether those present were absolutely sure that the stock has been coming from him or from his friends. “I would not like to think we were doing any man an injustice,” he concluded.
+
+[049-034]In reply to this Mr. Schryhart called in Mr. Stackpole to corroborate him. Some of the stocks had been positively identified. Stackpole related the full story, which somehow seemed to electrify the company, so intense was the feeling against Cowperwood.
+
+[049-035]“It is amazing that men should be permitted to do things like this and still hold up their heads in the business world,” said one, Mr. Vasto, president of the Third National, to his neighbor.
+
+[049-036]“I should think there would be no difficulty in securing united action in a case of this kind,” said Mr. Lawrence, president of the Prairie National, who was very much beholden to Hand for past and present favors.
+
+[049-037]“Here is a case,” put in Schryhart, who was merely waiting for an opportunity to explain further, “in which an unexpected [[politics|political]] situation develops an unexpected crisis, and this man uses it for his personal aggrandizement and to the detriment of every other person. The welfare of the city is nothing to him. The stability of the very banks he borrows from is nothing. He is a pariah, and if this opportunity to show him what we think of him and his methods is not used we will be doing less than our duty to the city and to one another.”
+
+[049-038]“Gentlemen,” said Mr. Arneel, finally, after Cowperwood’s different loans had been carefully tabulated, “don’t you think it would be wise to send for Mr. Cowperwood and state to him directly the decision we have reached and the reasons for it? I presume all of us would agree that he should be notified.”
+
+[049-039]“I think he should be notified,” said Mr. Merrill, who saw behind this smooth talk the iron club that was being brandished.
+
+[049-040]Both Hand and Schryhart looked at each other and Arneel while they politely waited for someone else to make a suggestion. When no one ventured, Hand, who was hoping this would prove a ripping blow to Cowperwood, remarked, viciously:
+
+[049-041]“He might as well be told—if we can reach him. It’s sufficient notice, in my judgment. He might as well understand that this is the united action of the leading financial forces of the city.”
+
+[049-042]“Quite so,” added Mr. Schryhart. “It is time he understood, I think, what the moneyed men of this community think of him and his crooked ways.”
+
+[049-043]A murmur of approval ran around the room.
+
+[049-044]“Very well,” said Mr. Arneel. “Anson, you know him better than some of the rest of us. Perhaps you had better see if you can get him on the telephone and ask him to call. Tell him that we are here in executive session.”
+
+[049-045]“I think he might take it more seriously if you spoke to him, Timothy,” replied Merrill.
+
+[049-046]Arneel, being always a man of action, arose and left the room, seeking a telephone which was located in a small workroom or office den on the same floor, where he could talk without fear of being overheard.
+
+---
+
+[049-047]Sitting in his library on this particular evening, and studying the details of half a dozen art-catalogues which had accumulated during the week, Cowperwood was decidedly conscious of the probable collapse of American Match on the morrow. Through his brokers and agents he was well aware that a conference was on at this hour at the house of Arneel. More than once during the day he had seen bankers and brokers who were anxious about possible shrinkage in connection with various hypothecated securities, and tonight his valet had called him to the phone half a dozen times to talk with [[judah-addison|Addison]], with Kaffrath, with a broker by the name of Prosser who had succeeded Laughlin in active control of his private speculations, and also, be it said, with several of the banks whose presidents were at this particular conference. If Cowperwood was hated, mistrusted, or feared by the overlords of these institutions, such was by no means the case with the underlings, some of whom, through being merely civil, were hopeful of securing material benefits from him at some future time. With a feeling of amused satisfaction he was meditating upon how heavily and neatly he had countered on his enemies. Whereas they were speculating as to how to offset their heavy losses on the morrow, he was congratulating himself on corresponding gains. When all his deals should be closed up he would clear within the neighborhood of a million dollars. He did not feel that he had worked Messrs. Hull and Stackpole any great injustice. They were at their wit’s end. If he had not seized this opportunity to undercut them Schryhart or Arneel would have done so, anyhow.
+
+---
+
+[049-048]Mingled with thoughts of a forthcoming financial triumph were others of [[berenice-fleming|Berenice Fleming]]. There are such things as figments of the brain, even in the heads of colossi. He thought of Berenice early and late; he even dreamed of her. He laughed at himself at times for thus being taken in the toils of a mere girl—the strands of her ruddy hair—but working in Chicago these days he was always conscious of her, of what she was doing, of where she was going in the East, of how happy he would be if they were only together, happily mated.
+
+[049-049]It had so happened, unfortunately, that in the course of this summer’s stay at Narragansett Berenice, among other diversions, had assumed a certain interest in one Lieutenant Lawrence Braxmar, U.S.N., whom she found loitering there, and who was then connected with the naval station at Portsmouth, New Hampshire. Cowperwood, coming East at this time for a few days’ stay in order to catch another glimpse of his ideal, had been keenly disturbed by the sight of Braxmar and by what his presence might signify. Up to this time he had not given much thought to younger men in connection with her. Engrossed in her personality, he could think of nothing as being able to stand long between him and the fulfilment of his dreams. Berenice must be his. That radiant spirit, enwrapt in so fair an outward seeming, must come to see and rejoice in him. Yet she was so young and airy in her mood that he sometimes wondered. How was he to draw near? What say exactly? What do? Berenice was in no way hypnotized by either his wealth or fame. She was accustomed (she little knew to what extent by his courtesy) to a world more resplendent in its social security than his own. Surveying Braxmar keenly upon their first meeting, Cowperwood had liked his face and intelligence, had judged him to be able, but had wondered instantly how he could get rid of him. Viewing Berenice and the Lieutenant as they strolled off together along a summery seaside veranda, he had been for once lonely, and had sighed. These uncertain phases of affection could become very trying at times. He wished he were young again, single.
+
+[049-050]Tonight, therefore, this thought was haunting him like a gloomy undertone, when at half past eleven the telephone rang once more, and he heard a low, even voice which said:
+
+[049-051]“Mr. Cowperwood? This is Mr. Arneel.”
+
+[049-052]“Yes.”
+
+[049-053]“A number of the principal financial men of the city are gathered here at my house this evening. The question of ways and means of preventing a panic tomorrow is up for discussion. As you probably know, Hull & Stackpole are in trouble. Unless something is done for them tonight they will certainly fail tomorrow for twenty million dollars. It isn’t so much their failure that we are considering as it is the effect on stocks in general, and on the banks. As I understand it, a number of your loans are involved. The gentlemen here have suggested that I call you up and ask you to come here, if you will, to help us decide what ought to be done. Something very drastic will have to be decided on before morning.”
+
+[049-054]During this speech Cowperwood’s brain had been reciprocating like a well-oiled machine.
+
+[049-055]“My loans?” he inquired, suavely. “What have they to do with the situation? I don’t owe Hull & Stackpole anything.”
+
+[049-056]“Very true. But a number of the banks are carrying securities for you. The idea is that a number of these will have to be called—the majority of them—unless some other way can be devised tonight. We thought you might possibly wish to come and talk it over, and that you might be able to suggest some other way out.”
+
+[049-057]“I see,” replied Cowperwood, caustically. “The idea is to sacrifice me in order to save Hull & Stackpole. Is that it?”
+
+[049-058]His eyes, quite as though Arneel were before him, emitted malicious sparks.
+
+[049-059]“Well, not precisely that,” replied Arneel, conservatively; “but something will have to be done. Don’t you think you had better come over?”
+
+[049-060]“Very good. I’ll come,” was the cheerful reply. “It isn’t anything that can be discussed over the phone, anyhow.”
+
+[049-061]He hung up the receiver and called for his runabout. On the way over he thanked the prevision which had caused him, in anticipation of some such attack as this, to set aside in the safety vaults of the [[chicago-trust-company|Chicago Trust Company]] several millions in low-interest-bearing government bonds. Now, if worst came to worst, these could be drawn on and hypothecated. These men should see at last how powerful he was and how secure.
+
+[049-062]As he entered the home of Arneel he was a picturesque and truly representative figure of his day. In a light summer suit of cream and gray twill, with a straw hat ornamented by a blue-and-white band, and wearing yellow quarter-shoes of the softest leather, he appeared a very model of trig, well-groomed self-sufficiency. As he was ushered into the room he gazed about him in a brave, leonine way.
+
+[049-063]“A fine night for a conference, gentlemen,” he said, walking toward a chair indicated by Mr. Arneel. “I must say I never saw so many straw hats at a funeral before. I understand that my obsequies are contemplated. What can I do?”
+
+[049-064]He beamed in a genial, sufficient way, which in anyone else would have brought a smile to the faces of the company. In him it was an implication of basic power which secretly enraged and envenomed nearly all those present. They merely stirred in a nervous and wholly antagonistic way. A number of those who knew him personally nodded—Merrill, Lawrence, Simms; but there was no friendly light in their eyes.
+
+[049-065]“Well, gentlemen?” he inquired, after a moment or two of ominous silence, observing Hand’s averted face and Schryhart’s eyes, which were lifted ceilingward.
+
+[049-066]“Mr. Cowperwood,” began Mr. Arneel, quietly, in no way disturbed by Cowperwood’s jaunty air, “as I told you over the phone, this meeting is called to avert, if possible, what is likely to be a very serious panic in the morning. Hull & Stackpole are on the verge of failure. The outstanding loans are considerable—in the neighborhood of seven or eight million here in Chicago. On the other hand, there are assets in the shape of American Match stocks and other properties sufficient to carry them for a while longer if the banks can only continue their loans. As you know, we are all facing a falling market, and the banks are short of ready money. Something has to be done. We have canvassed the situation here tonight as thoroughly as possible, and the general conclusion is that your loans are among the most available assets which can be reached quickly. Mr. Schryhart, Mr. Merrill, Mr. Hand, and myself have done all we can thus far to avert a calamity, but we find that someone with whom Hull & Stackpole have been hypothecating stocks has been feeding them out in order to break the market. We shall know how to avoid that in the future” (and he looked hard at Cowperwood), “but the thing at present is immediate cash, and your loans are the largest and the most available. Do you think you can find the means to pay them back in the morning?”
+
+[049-067]Arneel blinked his keen, blue eyes solemnly, while the rest, like a pack of genial but hungry wolves, sat and surveyed this apparently whole but now condemned scapegoat and victim. Cowperwood, who was keenly alive to the spirit of the company, looked blandly and fearlessly around. On his knee he held his blue—banded straw hat neatly balanced on one edge. His full mustache curled upward in a jaunty, arrogant way.
+
+[049-068]“I can meet my loans,” he replied, easily. “But I would not advise you or any of the gentlemen present to call them.” His voice, for all its lightness, had an ominous ring.
+
+[049-069]“Why not?” inquired Hand, grimly and heavily, turning squarely about and facing him. “It doesn’t appear that you have extended any particular courtesy to Hull or Stackpole.” His face was red and scowling.
+
+[049-070]“Because,” replied Cowperwood, smiling, and ignoring the reference to his trick, “I know why this meeting was called. I know that these gentlemen here, who are not saying a word, are mere catspaws and rubber stamps for you and Mr. Schryhart and Mr. Arneel and Mr. Merrill. I know how you four gentlemen have been gambling in this stock, and what your probable losses are, and that it is to save yourselves from further loss that you have decided to make me the scapegoat. I want to tell you here”—and he got up, so that in his full stature he loomed over the room—“you can’t do it. You can’t make me your catspaw to pull your chestnuts out of the fire, and no rubber-stamp conference can make any such attempt successful. If you want to know what to do, I’ll tell you—close the Chicago [[stock-exchange|Stock Exchange]] tomorrow morning and keep it closed. Then let Hull & Stackpole fail, or if not you four put up the money to carry them. If you can’t, let your banks do it. If you open the day by calling a single one of my loans before I am ready to pay it, I’ll gut every bank from here to the river. You’ll have panic, all [[panic-of-1873|the panic]] you want. Good evening, gentlemen.”
+
+[049-071]He drew out his watch, glanced at it, and quickly walked to the door, putting on his hat as he went. As he bustled jauntily down the wide interior staircase, preceded by a footman to open the door, a murmur of dissatisfaction arose in the room he had just left.
+
+[049-072]“The wrecker!” re-exclaimed Norrie Simms, angrily, astounded at this demonstration of defiance.
+
+[049-073]“The scoundrel!” declared Mr. Blackman. “Where does he get the wealth to talk like that?”
+
+[049-074]“Gentlemen,” said Mr. Arneel, stung to the quick by this amazing effrontery, and yet made cautious by the blazing wrath of Cowperwood, “it is useless to debate this question in anger. Mr. Cowperwood evidently refers to loans which can be controlled in his favor, and of which I for one know nothing. I do not see what can be done until we do know. Perhaps some of you can tell us what they are.”
+
+[049-075]But no one could, and after due calculation advice was borrowed of caution. The loans of Frank Algernon Cowperwood were not called.

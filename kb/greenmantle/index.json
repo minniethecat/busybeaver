@@ -1,0 +1,6529 @@
+{
+  "book": "greenmantle",
+  "title": "Greenmantle",
+  "description": "Greenmantle — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 136,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Greenmantle\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:About",
+      "relations": []
+    },
+    {
+      "id": "Front-Matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Title page, table of contents, and dedication\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:Front-Matter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "Contents"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "essen",
+          "label": "Essen"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "John S. Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "greenmantle:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        }
+      ]
+    },
+    {
+      "id": "anatolia",
+      "type": "place",
+      "label": "Anatolia",
+      "description": "The vast Anatolian heartland of the Ottoman Empire in John Buchan's *Greenmantle*, through which Hannay and his companions travel under intense pursuit.",
+      "aliases": [
+        "Asia Minor"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:anatolia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "palantuken"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "angora",
+      "type": "place",
+      "label": "Angora",
+      "description": "Angora (modern Ankara) — the first major staging post on Hannay's Anatolian railway journey in John Buchan's *Greenmantle*, described as resembling a town in the retreat from Mons.",
+      "aliases": [
+        "Ankara"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:angora",
+      "relations": [
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "anatolia"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "baghdad",
+      "type": "place",
+      "label": "Baghdad",
+      "description": "The terminus of the Baghdad Railway, a strategic objective referenced in John Buchan's *Greenmantle* as part of the German-Ottoman infrastructure project.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:baghdad",
+      "relations": [
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "euphrates-river"
+        }
+      ]
+    },
+    {
+      "id": "battle-of-erzerum",
+      "type": "event",
+      "label": "battle-of-erzerum",
+      "description": "The Battle of Erzerum is the climactic military engagement of *Greenmantle*, unfolding across the novel's final chapters at the remote Anatolian fortress that houses the German-led conspiracy. The battle brings together three converging forces: the German-Ottoman garrison under Colonel von Stumm,...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:battle-of-erzerum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Anatolia"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "Colonel von Stumm"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "the-russian-advance",
+          "label": "the Russian offensive"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "type": "place",
+      "label": "Berlin",
+      "description": "The capital of Imperial Germany and the nerve centre of the enemy intelligence apparatus in John Buchan's *Greenmantle*, where Hannay's disguise is put to its most severe test.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:berlin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "black-sea",
+      "type": "place",
+      "label": "Black Sea",
+      "description": "The Black Sea — a strategic body of water bounding the Ottoman Empire and Russia, referenced in John Buchan's *Greenmantle* as a theatre of the war.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "greenmantle:black-sea",
+      "relations": []
+    },
+    {
+      "id": "bosporus",
+      "type": "place",
+      "label": "Bosporus",
+      "description": "The narrow strait separating Europe from Asia at Constantinople — a strategic waterway that serves as both geographical threshold and mortal danger in John Buchan's *Greenmantle*.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:bosporus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "black-sea"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "british-intelligence",
+      "type": "organization",
+      "label": "british-intelligence",
+      "description": "British Intelligence, operating through the Foreign Office under Sir Walter Bullivant, is the organization behind the Greenmantle mission. It represents Britain's shadow war against German ambitions in the Middle East, operating through a network of unconventional agents rather than military chan...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:british-intelligence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the Greenmantle mission"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "budapest",
+      "type": "place",
+      "label": "Budapest",
+      "description": "Capital of the Hungarian half of the Austro-Hungarian Empire — a waypoint on the Berlin–Constantinople railway in John Buchan's *Greenmantle*.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "greenmantle:budapest",
+      "relations": []
+    },
+    {
+      "id": "cape-helles",
+      "type": "place",
+      "label": "Cape Helles",
+      "description": "Cape Helles — the southernmost tip of the Gallipoli Peninsula and a principal landing site of the 1915 Dardanelles campaign, referenced in John Buchan's *Greenmantle* as Blenkiron's point of arrival.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:cape-helles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "bosporus"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "captain-zorn",
+      "type": "\"person\"",
+      "label": "captain-zorn",
+      "description": "Captain Zorn is a German military officer stationed at the German frontier in John Buchan's 1916 novel *Greenmantle*. He is responsible for interrogating travellers entering Germany and plays a brief but tense role in Richard Hannay's covert journey.",
+      "aliases": [
+        "Zorn"
+      ],
+      "tags": [
+        "german-military",
+        "frontier",
+        "interrogation"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:captain-zorn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Ch. 1: A Mission is Proposed\"",
+      "description": "\"Chapter 1: A Mission is Proposed\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "kaiser-wilhelm-ii",
+          "label": "the Kaiser"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "foreign-office",
+          "label": "Whitehall"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "jehad"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "jehad"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "Black Sea"
+        },
+        {
+          "type": "related",
+          "target": "louis-botha",
+          "label": "Botha"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "nerve"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "Baghdad"
+        },
+        {
+          "type": "related",
+          "target": "kut",
+          "label": "Kut"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        }
+      ]
+    },
+    {
+      "id": "ch01-p2",
+      "type": "chapter",
+      "label": "\"Ch. 1: A Mission is Proposed (cont'd, part 2)\"",
+      "description": "\"Chapter 1: A Mission is Proposed (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch01-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Mr John Scantlebury Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "foreign-office",
+          "label": "Whitehall"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "Major Hannay"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch01-p3",
+      "type": "chapter",
+      "label": "\"Ch. 1: A Mission is Proposed (cont'd, part 3)\"",
+      "description": "\"Chapter 1: A Mission is Proposed (continued, part 3)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch01-p3",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "kut",
+          "label": "Kut"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "jehad"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "Baghdad"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Ch. 2: The Gathering of the Missionaries\"",
+      "description": "\"Chapter 2: The Gathering of the Missionaries\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "ratchik",
+          "label": "Ratchik"
+        },
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "Maritz"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "kaiser-wilhelm-ii",
+          "label": "the Kaiser"
+        },
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "Lisbon"
+        }
+      ]
+    },
+    {
+      "id": "ch02-p2",
+      "type": "chapter",
+      "label": "\"Ch. 2: The Gathering of the Missionaries (cont'd, part 2)\"",
+      "description": "\"Chapter 2: The Gathering of the Missionaries (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch02-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "Lisbon"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "intelligence work"
+        },
+        {
+          "type": "related",
+          "target": "louis-botha",
+          "label": "Botha"
+        },
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "Maritz"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Ch. 3: Peter Pienaar\"",
+      "description": "\"Chapter 3: Peter Pienaar\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "Maritz"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "Lisbon"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        }
+      ]
+    },
+    {
+      "id": "ch03-p2",
+      "type": "chapter",
+      "label": "\"Ch. 3: Peter Pienaar (cont'd, part 2)\"",
+      "description": "\"Chapter 3: Peter Pienaar (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch03-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hermann-brandt",
+          "label": "Herr Brandt"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Pienaar"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "captain-zorn",
+          "label": "Zorn"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "von Stumm"
+        },
+        {
+          "type": "related",
+          "target": "ypres",
+          "label": "Ypres"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "military-command",
+          "label": "General Staff"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Ch. 4: Adventures of Two Dutchmen on the Loose\"",
+      "description": "\"Chapter 4: Adventures of Two Dutchmen on the Loose\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "captain-zorn",
+          "label": "Zorn"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "von Stumm"
+        },
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "Maritz"
+        },
+        {
+          "type": "related",
+          "target": "louis-botha",
+          "label": "Botha"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        }
+      ]
+    },
+    {
+      "id": "ch04-p2",
+      "type": "chapter",
+      "label": "\"Ch. 4: Adventures of Two Dutchmen on the Loose (cont'd, part 2)\"",
+      "description": "\"Chapter 4: Adventures of Two Dutchmen on the Loose (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch04-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "dolly-riddell",
+          "label": "Dolly Riddell"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Ch. 5: Further Adventures of the Same\"",
+      "description": "\"Chapter 5: Further Adventures of the Same\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "gaudian",
+          "label": "Herr Gaudian"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "Baghdad"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        }
+      ]
+    },
+    {
+      "id": "ch05-p2",
+      "type": "chapter",
+      "label": "\"Ch. 5: Further Adventures of the Same (cont'd, part 2)\"",
+      "description": "\"Chapter 5: Further Adventures of the Same (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch05-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "rhine",
+          "label": "Rhine"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "Baghdad"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "gaudian",
+          "label": "Herr Gaudian"
+        },
+        {
+          "type": "related",
+          "target": "hermann-brandt",
+          "label": "Herr Brandt"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "Lisbon"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Ch. 6: The Indiscretions of the Same\"",
+      "description": "\"Chapter 6: The Indiscretions of the Same\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "schwandom",
+          "label": "Schwandorf"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        }
+      ]
+    },
+    {
+      "id": "ch06-p2",
+      "type": "chapter",
+      "label": "\"Ch. 6: The Indiscretions of the Same (cont'd, part 2)\"",
+      "description": "\"Chapter 6: The Indiscretions of the Same (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch06-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "Secret Service"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "Maritz"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Ch. 7: Christmastide\"",
+      "description": "\"Chapter 7: Christmastide\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schwandom",
+          "label": "Schwandorf"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        }
+      ]
+    },
+    {
+      "id": "ch07-p2",
+      "type": "chapter",
+      "label": "\"Ch. 7: Christmastide (cont'd, part 2)\"",
+      "description": "\"Chapter 7: Christmastide (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch07-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "schwandom",
+          "label": "Schwandorf"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Ch. 8: The Essen Barges\"",
+      "description": "\"Chapter 8: The Essen Barges\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "essen",
+          "label": "Essen"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "ypres",
+          "label": "Ypres"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        }
+      ]
+    },
+    {
+      "id": "ch08-p2",
+      "type": "chapter",
+      "label": "\"Ch. 8: The Essen Barges (cont'd, part 2)\"",
+      "description": "\"Chapter 8: The Essen Barges (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch08-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "kaiser-wilhelm-ii",
+          "label": "the Kaiser"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "rhine",
+          "label": "Rhine"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "essen",
+          "label": "Essen"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "Secret Service"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Ch. 9: The Return of the Straggler\"",
+      "description": "\"Chapter 9: The Return of the Straggler\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "Rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "schenk",
+          "label": "Schenk"
+        },
+        {
+          "type": "related",
+          "target": "rhine",
+          "label": "Rhine"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "hermann-brandt",
+          "label": "Herr Brandt"
+        }
+      ]
+    },
+    {
+      "id": "ch09-p2",
+      "type": "chapter",
+      "label": "\"Ch. 9: The Return of the Straggler (cont'd, part 2)\"",
+      "description": "\"Chapter 9: The Return of the Straggler (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch09-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Ch. 10: The Garden-House of Suliman the Red\"",
+      "description": "\"Chapter 10: The Garden-House of Suliman the Red\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "cape-helles",
+          "label": "Cape Helles"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "Rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "schenk",
+          "label": "Captain Schenk"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta Bey"
+        },
+        {
+          "type": "related",
+          "target": "committee-of-union-and-progress",
+          "label": "the Committee"
+        },
+        {
+          "type": "related",
+          "target": "chataldja",
+          "label": "Chataldja"
+        },
+        {
+          "type": "related",
+          "target": "von-oesterzee",
+          "label": "General von Oesterzee"
+        }
+      ]
+    },
+    {
+      "id": "ch10-p2",
+      "type": "chapter",
+      "label": "\"Ch. 10: The Garden-House of Suliman the Red (cont'd, part 2)\"",
+      "description": "\"Chapter 10: The Garden-House of Suliman the Red (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch10-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "chataldja",
+          "label": "Chataldja"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "Rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "von-oesterzee",
+          "label": "General von Oesterzee"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli Peninsula"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "ratchik",
+          "label": "Ratchik"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "kuprasso",
+          "label": "A. Kuprasso"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Ch. 11: The Companions of the Rosy Hours\"",
+      "description": "\"Chapter 11: The Companions of the Rosy Hours\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "Rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "chataldja",
+          "label": "Chataldja"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        }
+      ]
+    },
+    {
+      "id": "ch11-p2",
+      "type": "chapter",
+      "label": "\"Ch. 11: The Companions of the Rosy Hours (cont'd, part 2)\"",
+      "description": "\"Chapter 11: The Companions of the Rosy Hours (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch11-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "rumania",
+          "label": "Rumania"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "ratchik",
+          "label": "Ratchik"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Ch. 12: Four Missionaries See Light in Their Mission\"",
+      "description": "\"Chapter 12: Four Missionaries See Light in Their Mission\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "Kismet"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        }
+      ]
+    },
+    {
+      "id": "ch12-p2",
+      "type": "chapter",
+      "label": "\"Ch. 12: Four Missionaries See Light in Their Mission (cont'd, part 2)\"",
+      "description": "\"Chapter 12: Four Missionaries See Light in Their Mission (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch12-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "committee-of-union-and-progress",
+          "label": "the Committee"
+        },
+        {
+          "type": "related",
+          "target": "cape-helles",
+          "label": "Cape Helles"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Ch. 13: I Move in Good Society\"",
+      "description": "\"Chapter 13: I Move in Good Society\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "Black Sea"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "rumania",
+          "label": "Rumania"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "liman",
+          "label": "General Liman"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        }
+      ]
+    },
+    {
+      "id": "ch13-p2",
+      "type": "chapter",
+      "label": "\"Ch. 13: I Move in Good Society (cont'd, part 2)\"",
+      "description": "\"Chapter 13: I Move in Good Society (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch13-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "committee-of-union-and-progress",
+          "label": "the Committee"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "rumania",
+          "label": "Rumania"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "liman",
+          "label": "General Liman"
+        },
+        {
+          "type": "related",
+          "target": "kaiser-wilhelm-ii",
+          "label": "the Kaiser"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Ch. 14: The Lady of the Mantilla\"",
+      "description": "\"Chapter 14: The Lady of the Mantilla\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "Baghdad"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch14-p2",
+      "type": "chapter",
+      "label": "\"Ch. 14: The Lady of the Mantilla (cont'd, part 2)\"",
+      "description": "\"Chapter 14: The Lady of the Mantilla (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch14-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "kaiser-wilhelm-ii",
+          "label": "the Kaiser"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Ch. 15: An Embarrassed Toilet\"",
+      "description": "\"Chapter 15: An Embarrassed Toilet\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "Danube"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "hermann-brandt",
+          "label": "Herr Brandt"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "Rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "Black Sea"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "honour"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        }
+      ]
+    },
+    {
+      "id": "ch15-p2",
+      "type": "chapter",
+      "label": "\"Ch. 15: An Embarrassed Toilet (cont'd, part 2)\"",
+      "description": "\"Chapter 15: An Embarrassed Toilet (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch15-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "kut",
+          "label": "Kut"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Ch. 16: The Battered Caravanserai\"",
+      "description": "\"Chapter 16: The Battered Caravanserai\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "angora",
+          "label": "Angora"
+        },
+        {
+          "type": "related",
+          "target": "bosporus",
+          "label": "Bosporus"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        }
+      ]
+    },
+    {
+      "id": "ch16-p2",
+      "type": "chapter",
+      "label": "\"Ch. 16: The Battered Caravanserai (cont'd, part 2)\"",
+      "description": "\"Chapter 16: The Battered Caravanserai (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch16-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "angora",
+          "label": "Angora"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Anatolia"
+        },
+        {
+          "type": "related",
+          "target": "ypres",
+          "label": "Ypres"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Ch. 17: Trouble By the Waters of Babylon\"",
+      "description": "\"Chapter 17: Trouble By the Waters of Babylon\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "angora",
+          "label": "Angora"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "providence"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        }
+      ]
+    },
+    {
+      "id": "ch17-p2",
+      "type": "chapter",
+      "label": "\"Ch. 17: Trouble By the Waters of Babylon (cont'd, part 2)\"",
+      "description": "\"Chapter 17: Trouble By the Waters of Babylon (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch17-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "Euphrates"
+        },
+        {
+          "type": "related",
+          "target": "liman",
+          "label": "General von Liman"
+        },
+        {
+          "type": "related",
+          "target": "posselt",
+          "label": "General Posselt"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Ch. 18: Sparrows on the Housetops\"",
+      "description": "\"Chapter 18: Sparrows on the Housetops\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "nerve"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "schwandom",
+          "label": "Schwandorf"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "Mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "ch18-p2",
+      "type": "chapter",
+      "label": "\"Ch. 18: Sparrows on the Housetops (cont'd, part 2)\"",
+      "description": "\"Chapter 18: Sparrows on the Housetops (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch18-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Ch. 19: Greenmantle\"",
+      "description": "\"Chapter 19: Greenmantle\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "deve-boyun",
+          "label": "Deve Boyun"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "Gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "Euphrates"
+        },
+        {
+          "type": "related",
+          "target": "tafta",
+          "label": "Tafta"
+        },
+        {
+          "type": "related",
+          "target": "kara-gubek",
+          "label": "Kara Gubek"
+        },
+        {
+          "type": "related",
+          "target": "general-prjevalsky",
+          "label": "Prjevalsky"
+        },
+        {
+          "type": "related",
+          "target": "grand-duke-nicholas",
+          "label": "the Grand Duke"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "intelligence work"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        }
+      ]
+    },
+    {
+      "id": "ch19-p2",
+      "type": "chapter",
+      "label": "\"Ch. 19: Greenmantle (cont'd, part 2)\"",
+      "description": "\"Chapter 19: Greenmantle (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch19-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "nerve"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "grand-duke-nicholas",
+          "label": "the Grand Duke"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "kara-gubek",
+          "label": "Kara Gubek"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Ch. 20: Peter Pienaar Goes to the Wars\"",
+      "description": "\"Chapter 20: Peter Pienaar Goes to the Wars\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Anatolia"
+        }
+      ]
+    },
+    {
+      "id": "ch20-p2",
+      "type": "chapter",
+      "label": "\"Ch. 20: Peter Pienaar Goes to the Wars (cont'd, part 2)\"",
+      "description": "\"Chapter 20: Peter Pienaar Goes to the Wars (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch20-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Ch. 21: The Little Hill\"",
+      "description": "\"Chapter 21: The Little Hill\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "intelligence work"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver"
+        }
+      ]
+    },
+    {
+      "id": "ch21-p2",
+      "type": "chapter",
+      "label": "\"Ch. 21: The Little Hill (cont'd, part 2)\"",
+      "description": "\"Chapter 21: The Little Hill (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch21-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Ch. 22: The Guns of the North\"",
+      "description": "\"Chapter 22: The Guns of the North\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "Harry"
+        }
+      ]
+    },
+    {
+      "id": "ch22-p2",
+      "type": "chapter",
+      "label": "\"Ch. 22: The Guns of the North (cont'd, part 2)\"",
+      "description": "\"Chapter 22: The Guns of the North (continued, part 2)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch22-p2",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "destiny"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "Fort Palantuken"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "Euphrates"
+        }
+      ]
+    },
+    {
+      "id": "ch22-p3",
+      "type": "chapter",
+      "label": "\"Ch. 22: The Guns of the North (cont'd, part 3)\"",
+      "description": "\"Chapter 22: The Guns of the North (continued, part 3)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch22-p3",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "Fort Palantuken"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "Loos"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "luck"
+        }
+      ]
+    },
+    {
+      "id": "ch22-p4",
+      "type": "chapter",
+      "label": "\"Ch. 22: The Guns of the North (cont'd, part 4)\"",
+      "description": "\"Chapter 22: The Guns of the North (continued, part 4)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch22-p4",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "Euphrates"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        }
+      ]
+    },
+    {
+      "id": "ch22-p5",
+      "type": "chapter",
+      "label": "\"Ch. 22: The Guns of the North (cont'd, part 5)\"",
+      "description": "\"Chapter 22: The Guns of the North (continued, part 5)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "greenmantle:ch22-p5",
+      "relations": []
+    },
+    {
+      "id": "characters",
+      "type": "list",
+      "label": "characters",
+      "description": "Index of all named characters in Greenmantle (1916) by John Buchan, drawn from the wiki's person entries. Sorted alphabetically with nationality and quality grade.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "characters",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "greenmantle:characters",
+      "relations": []
+    },
+    {
+      "id": "chataldja",
+      "type": "place",
+      "label": "Chataldja",
+      "description": "The Ottoman defensive line west of Constantinople, site of General von Oesterzee's artillery command, where Richard Hannay delivers German military stores and confronts Rasta Bey.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:chataldja",
+      "relations": [
+        {
+          "type": "related",
+          "target": "von-oesterzee",
+          "label": "von-oesterzee"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "rasta-bey"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        }
+      ]
+    },
+    {
+      "id": "committee-of-union-and-progress",
+      "type": "organization",
+      "label": "committee-of-union-and-progress",
+      "description": "The Committee of Union and Progress (CUP), referred to throughout *Greenmantle* simply as \"the Committee,\" was the ruling political party of the Ottoman Empire during World War I. Headed by the triumvirate of Enver Pasha, Talaat Pasha, and Djemal Pasha, the CUP brought the Ottoman Empire into the...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:committee-of-union-and-progress",
+      "relations": [
+        {
+          "type": "related",
+          "target": "young-turks",
+          "label": "Committee of Union and Progress"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver Pasha"
+        },
+        {
+          "type": "related",
+          "target": "talaat-pasha",
+          "label": "Talaat Pasha"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "Berlin"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda von Einem"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "Stumm"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "pan-islamism"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "Constantinople"
+        }
+      ]
+    },
+    {
+      "id": "constantinople",
+      "type": "place",
+      "label": "constantinople",
+      "description": "Constantinople (modern Istanbul) is the Ottoman capital and the operational center of the German-led conspiracy in *Greenmantle*. As the bridge between Europe and Asia, controlling the Bosphorus strait and the sea route to Russia, Constantinople holds immense strategic significance.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:constantinople",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        }
+      ]
+    },
+    {
+      "id": "courage-and-honour",
+      "type": "concept",
+      "label": "courage-and-honour",
+      "description": "Courage and honour — the martial virtues of bravery under fire,",
+      "aliases": [],
+      "tags": [
+        "courage",
+        "honour",
+        "duty",
+        "virtue",
+        "nerve",
+        "military",
+        "character"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:courage-and-honour",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate-and-providence"
+        },
+        {
+          "type": "related",
+          "target": "military-command",
+          "label": "military-command"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        },
+        {
+          "type": "related",
+          "target": "the-great-game",
+          "label": "the-great-game"
+        }
+      ]
+    },
+    {
+      "id": "danube-river",
+      "type": "place",
+      "label": "Danube River",
+      "description": "The Danube River, the major European waterway that serves as the route for Richard Hannay's barge journey transporting German military stores toward the Ottoman Empire.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:danube-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schenk",
+          "label": "schenk"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "dervish",
+      "type": "concept",
+      "label": "dervish",
+      "description": "The dervish — an Islamic mystic, particularly of the Sufi orders known for ecstatic dancing and spiritual devotion — appears in *Greenmantle* as both a concrete cultural reference and a symbolic archetype that illuminates the novel's central religious theme. The term is invoked directly only once...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:dervish",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "pan-islamism"
+        }
+      ]
+    },
+    {
+      "id": "deve-boyun",
+      "type": "place",
+      "label": "Deve Boyun",
+      "description": "Mountain ridge forming the eastern face of the Erzerum defensive position — described in John Buchan's *Greenmantle* as \"monstrously strong\" natural fortifications.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:deve-boyun",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "palantuken"
+        },
+        {
+          "type": "related",
+          "target": "kara-gubek",
+          "label": "kara-gubek"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "anatolia"
+        }
+      ]
+    },
+    {
+      "id": "disguise",
+      "type": "concept",
+      "label": "disguise",
+      "description": "Disguise — the assumption of a false identity — is the essential mechanism",
+      "aliases": [],
+      "tags": [
+        "disguise",
+        "identity",
+        "passport",
+        "spycraft",
+        "alias"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:disguise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "british-intelligence"
+        }
+      ]
+    },
+    {
+      "id": "dolly-riddell",
+      "type": "person",
+      "label": "Dolly Riddell",
+      "description": "British brigade machine-gun officer from the Loos sector, a fellow prisoner of war who encounters Richard Hannay in a German prison camp and aids his cover.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:dolly-riddell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        }
+      ]
+    },
+    {
+      "id": "eastern-front",
+      "type": "concept",
+      "label": "eastern-front",
+      "description": "The Eastern Front — the theatre of World War I stretching from the Baltic to the Caucasus —",
+      "aliases": [],
+      "tags": [
+        "Eastern Front",
+        "WWI",
+        "Constantinople",
+        "Mesopotamia",
+        "Caucasus",
+        "geography"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:eastern-front",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "hussin",
+          "label": "hussin"
+        },
+        {
+          "type": "related",
+          "target": "trench-warfare",
+          "label": "trench-warfare"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "the-great-game",
+          "label": "the-great-game"
+        }
+      ]
+    },
+    {
+      "id": "ennver-pasha",
+      "type": "person",
+      "label": "ennver-pasha",
+      "description": "Enver Pasha is a historical figure — the real-life Ottoman Minister of War and a leader of the Young Turk revolution — who appears in *Greenmantle* as a background presence shaping the novel's political landscape. Though he never appears as a fully dramatized character, his influence permeates th...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:ennver-pasha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "talaat-pasha",
+          "label": "talaat-pasha"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        }
+      ]
+    },
+    {
+      "id": "erzerum",
+      "type": "place",
+      "label": "erzerum",
+      "description": "Erzerum (Erzurum) is a fortress city in eastern Anatolia that serves as the climactic setting of *Greenmantle*. It is the stronghold where the German-Ottoman conspiracy reaches its culmination, and where the mysterious prophet Greenmantle is expected to appear.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:erzerum",
+      "relations": [
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-erzerum",
+          "label": "battle-of-erzerum"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "kara-gubek",
+          "label": "kara-gubek"
+        }
+      ]
+    },
+    {
+      "id": "espionage",
+      "type": "concept",
+      "label": "espionage",
+      "description": "Espionage — the practice of spying and secret intelligence-gathering — is the central premise of *Greenmantle*.",
+      "aliases": [],
+      "tags": [
+        "espionage",
+        "intelligence",
+        "spy",
+        "secret-mission",
+        "WWI"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:espionage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "disguise",
+          "label": "disguise"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "british-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "the-great-game",
+          "label": "the-great-game"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        }
+      ]
+    },
+    {
+      "id": "essen",
+      "type": "place",
+      "label": "Essen",
+      "description": "Industrial city in the Ruhr, home to the Krupp arms works — the engine of German military power referenced in John Buchan's *Greenmantle* through the motif of Krupp guns and the Essen barges.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:essen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "rhine",
+          "label": "rhine"
+        }
+      ]
+    },
+    {
+      "id": "euphrates-river",
+      "type": "place",
+      "label": "Euphrates River",
+      "description": "The Euphrates River, one of the great rivers of Mesopotamia, appears at the climax of John Buchan's *Greenmantle* as Hannay and his companions approach Erzerum.",
+      "aliases": [
+        "Euphrates"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:euphrates-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "danube-river"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "palantuken"
+        }
+      ]
+    },
+    {
+      "id": "fate-and-providence",
+      "type": "concept",
+      "label": "fate-and-providence",
+      "description": "Fate and providence — the belief that events are predetermined by destiny",
+      "aliases": [],
+      "tags": [
+        "fate",
+        "destiny",
+        "providence",
+        "Kismet",
+        "luck",
+        "religion"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:fate-and-providence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage-and-honour"
+        }
+      ]
+    },
+    {
+      "id": "foreign-office",
+      "type": "organization",
+      "label": "foreign-office",
+      "description": "The British Foreign Office is the institutional home of the intelligence operation that sends Richard Hannay into Germany and the Ottoman Empire. Though seldom depicted directly, the Foreign Office provides the bureaucratic framework, diplomatic cover, and analytical capacity that makes Sir Walte...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:foreign-office",
+      "relations": [
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy's"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "Richard Hannay"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter Bullivant"
+        },
+        {
+          "type": "related",
+          "target": "trench-warfare",
+          "label": "Western Front"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the Eastern"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "nerve"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "intelligence work"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "fortress-warfare",
+      "type": "concept",
+      "label": "fortress-warfare",
+      "description": "Fortress warfare — the attack and defence of fortified positions —",
+      "aliases": [],
+      "tags": [
+        "fortress",
+        "siege",
+        "defence",
+        "Erzerum",
+        "Erzingjan",
+        "WWI"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:fortress-warfare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "military-command",
+          "label": "military-command"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "eastern-front"
+        },
+        {
+          "type": "related",
+          "target": "trench-warfare",
+          "label": "trench-warfare"
+        }
+      ]
+    },
+    {
+      "id": "gallipoli",
+      "type": "place",
+      "label": "Gallipoli",
+      "description": "The Gallipoli Peninsula, site of the disastrous 1915 Allied campaign, serves in *Greenmantle* as a backdrop of recent military failure that shapes the novel's strategic context.",
+      "aliases": [
+        "Gallipoli Peninsula"
+      ],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:gallipoli",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        }
+      ]
+    },
+    {
+      "id": "gaudian",
+      "type": "person",
+      "label": "gaudian",
+      "description": "Herr Gaudian is a German engineer serving with the military mission in Anatolia, and one of the most morally complex characters in *Greenmantle*. Unlike Colonel von Stumm, whose brutality defines him, Gaudian earns Hannay's genuine respect — an extraordinary concession from a British protagonist ...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:gaudian",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "general-prjevalsky",
+      "type": "\"person\"",
+      "label": "general-prjevalsky",
+      "description": "General Prjevalsky is a Russian military commander referenced in John Buchan's 1916 novel *Greenmantle*. He commands the northern (right) wing of the Russian offensive against the Ottoman fortress of Erzerum, and his tactical position becomes central to the intelligence coup that drives the novel...",
+      "aliases": [
+        "Prjevalsky"
+      ],
+      "tags": [
+        "russian-military",
+        "wwi",
+        "erzerum-campaign"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:general-prjevalsky",
+      "relations": [
+        {
+          "type": "related",
+          "target": "grand-duke-nicholas",
+          "label": "grand-duke-nicholas"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        }
+      ]
+    },
+    {
+      "id": "german-military-mission",
+      "type": "organization",
+      "label": "german-military-mission",
+      "description": "The German Military Mission to the Ottoman Empire is the antagonist organization in *Greenmantle*. Operating under the cover of military assistance to Turkey, the mission's real purpose is to orchestrate a pan-Islamic uprising against the Allies through the manipulation of the Greenmantle prophecy .",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:german-military-mission",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "Colonel von Stumm"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "Rasta"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "military-command",
+          "label": "military hierarchy"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "Enver Pasha"
+        },
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "type": "place",
+      "label": "germany",
+      "description": "Germany is the principal antagonistic power in *Greenmantle*, driving the conspiracy to ignite an Islamic holy war against the Allies. Sir Walter Bullivant identifies Germany's Eastern strategy as the novel's central threat: \"German organization backed up with German money and German arms\" has pl...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:germany",
+      "relations": [
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        }
+      ]
+    },
+    {
+      "id": "grand-duke-nicholas",
+      "type": "\"person\"",
+      "label": "grand-duke-nicholas",
+      "description": "Grand Duke Nicholas Nikolaevich of Russia (1856–1929) is a historical figure who appears as an off-stage but narratively crucial character in John Buchan's 1916 novel *Greenmantle*. As the commander-in-chief of the Russian Caucasus Army, he directs the winter offensive against the Ottoman fortres...",
+      "aliases": [
+        "Grand Duke Nicholas Nikolaevich",
+        "the Grand Duke"
+      ],
+      "tags": [
+        "russian-military",
+        "wwi",
+        "erzerum-campaign",
+        "historical-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:grand-duke-nicholas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "general-prjevalsky",
+          "label": "general-prjevalsky"
+        }
+      ]
+    },
+    {
+      "id": "greenmantle-concept",
+      "type": "concept",
+      "label": "greenmantle-concept",
+      "description": "\"Greenmantle\" is the central mystery of John Buchan's novel — a prophetic figure, symbol, or manufactured messiah around which German intelligence hopes to rally the Islamic world into a holy war against the Allies. The name evokes the green mantle (al-Burda) traditionally associated with the Pro...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:greenmantle-concept",
+      "relations": [
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "harry-bullivant",
+      "type": "person",
+      "label": "harry-bullivant",
+      "description": "Harry Bullivant was the son of Sir Walter Bullivant and a British intelligence operative who died pursuing the same conspiracy that Hannay is tasked with investigating. His death gives the Greenmantle mission its profound personal dimension for Sir Walter .",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:harry-bullivant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "british-intelligence"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        }
+      ]
+    },
+    {
+      "id": "hermann-brandt",
+      "type": "person",
+      "label": "hermann-brandt",
+      "description": "Herr Brandt is a minor German officer who appears at the frontier checkpoint in the novel's early chapters, serving as Hannay's inadvertent facilitator into German territory. He is a bureaucratic functionary rather than a military antagonist — a man whose role is to check papers and process trave...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:hermann-brandt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "hilda-von-einem",
+      "type": "person",
+      "label": "hilda-von-einem",
+      "description": "Hilda von Einem is the central antagonist of *Greenmantle* — a German operative whose understanding of psychological warfare makes her more dangerous than the military commanders she works alongside. She is known as \"the Lady of the Mantilla\" and is described by Blenkiron as \"the most dangerous woman on earth.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:hilda-von-einem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "holy-war",
+      "type": "concept",
+      "label": "holy-war",
+      "description": "The Holy War (jehad) is the German strategic objective in *Greenmantle* — an attempt to ignite a pan-Islamic religious uprising against the Allied powers, particularly Britain. Sir Walter Bullivant believes that the Germans have moved beyond crude propaganda toward something more potent and dange...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:holy-war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "hussin",
+      "type": "person",
+      "label": "hussin",
+      "description": "Hussin is Hannay's Turkish companion and guide during the desperate flight across Anatolia in the novel's final movement. He is introduced late in the narrative but becomes immediately indispensable — a resourceful, silent figure whose local knowledge and physical endurance make survival possible.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:hussin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        }
+      ]
+    },
+    {
+      "id": "islam",
+      "type": "concept",
+      "label": "islam",
+      "description": "Islam occupies a central position in *Greenmantle* not as a religion to be described or evaluated, but as a geopolitical force that the antagonists seek to harness. Sir Walter Bullivant's opening analysis frames the entire novel: Germany's strategy is to transform Islam from a dormant cultural pr...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:islam",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "john-blenkiron",
+      "type": "person",
+      "label": "john-blenkiron",
+      "description": "John Scantlebury Blenkiron is an American businessman recruited by Sir Walter Bullivant into Allied intelligence. Arriving in London after \"doing wonders for the Allies in the States\" through business and propaganda channels , he joins Hannay's Greenmantle mission as a civilian operative .",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:john-blenkiron",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-erzerum",
+          "label": "battle-of-erzerum"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "kaiser-wilhelm-ii",
+      "type": "\"person\"",
+      "label": "kaiser-wilhelm-ii",
+      "description": "Kaiser Wilhelm II (1859–1941) was the German Emperor and King of Prussia during the First World War. In John Buchan's 1916 novel *Greenmantle*, he is referenced throughout the narrative as the supreme figure of German authority and as a key actor in Germany's strategic exploitation of Islam.",
+      "aliases": [
+        "the Kaiser",
+        "Wilhelm II",
+        "Hadji Mohammed Guilliamo"
+      ],
+      "tags": [
+        "german-empire",
+        "wwi",
+        "historical-figure",
+        "islam"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:kaiser-wilhelm-ii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "liman",
+          "label": "liman"
+        }
+      ]
+    },
+    {
+      "id": "kara-gubek",
+      "type": "place",
+      "label": "Kara Gubek",
+      "description": "Fortress in the Erzerum defensive line of eastern Anatolia — the key point upon which, in John Buchan's *Greenmantle*, the entire Russian offensive depends.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:kara-gubek",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "palantuken",
+          "label": "palantuken"
+        },
+        {
+          "type": "related",
+          "target": "tafta",
+          "label": "tafta"
+        },
+        {
+          "type": "related",
+          "target": "deve-boyun",
+          "label": "deve-boyun"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "euphrates-river"
+        }
+      ]
+    },
+    {
+      "id": "kuprasso",
+      "type": "person",
+      "label": "kuprasso",
+      "description": "Angelo Kuprasso is the proprietor of a dilapidated café in Constantinople and a minor but memorable figure in the novel's middle section. He runs the \"Pavilion\" — formerly the \"Garden of the Rosy Hours\" — a venue that serves as Hannay's entry point into the Constantinople underworld.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:kuprasso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        }
+      ]
+    },
+    {
+      "id": "kut",
+      "type": "place",
+      "label": "Kut",
+      "description": "Kut-al-Amara — the site of a major siege on the Tigris River during the Mesopotamian campaign, referenced in John Buchan's *Greenmantle* as a benchmark of desperate military situations.",
+      "aliases": [
+        "Kut-el-Amara",
+        "Kut-al-Amara"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:kut",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mesopotamia",
+          "label": "mesopotamia"
+        },
+        {
+          "type": "related",
+          "target": "baghdad",
+          "label": "baghdad"
+        },
+        {
+          "type": "related",
+          "target": "euphrates-river",
+          "label": "euphrates-river"
+        }
+      ]
+    },
+    {
+      "id": "liman",
+      "type": "\"person\"",
+      "label": "liman",
+      "description": "General Liman von Sanders (referred to in the novel simply as \"General Liman\" or \"old General Liman\") is a senior German military officer serving in Constantinople during the events of John Buchan's 1916 novel *Greenmantle*. He represents the official German military presence in the Ottoman capital.",
+      "aliases": [
+        "General Liman",
+        "General von Liman",
+        "Liman von Sanders"
+      ],
+      "tags": [
+        "german-military",
+        "ottoman-empire",
+        "wwi",
+        "military-advisor"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:liman",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        }
+      ]
+    },
+    {
+      "id": "lisbon",
+      "type": "place",
+      "label": "Lisbon",
+      "description": "The Portuguese port city that serves as Richard Hannay's first stop on his undercover journey to Germany in John Buchan's *Greenmantle*, where his disguise as Cornelis Brandt begins to take shape.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:lisbon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "Headquarters of British Intelligence in John Buchan's *Greenmantle*, the starting and ending point of Richard Hannay's mission.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "lisbon"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "loos",
+      "type": "place",
+      "label": "Loos",
+      "description": "Battle of Loos, the major British offensive on the Western Front in September 1915 where Richard Hannay was wounded, shaping his character and military background throughout the Greenmantle mission.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:loos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "dolly-riddell",
+          "label": "dolly-riddell"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        }
+      ]
+    },
+    {
+      "id": "louis-botha",
+      "type": "\"person\"",
+      "label": "louis-botha",
+      "description": "Louis Botha (1862–1919) was a Boer general and the first Prime Minister of the Union of South Africa. In John Buchan's 1916 novel *Greenmantle*, he is referenced as the British-allied leader who crushed the Boer rebellion of 1914 and conquered German South West Africa — representing the opposite ...",
+      "aliases": [
+        "Botha",
+        "General Botha"
+      ],
+      "tags": [
+        "south-africa",
+        "boer-war",
+        "wwi",
+        "historical-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:louis-botha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "manie-maritz",
+          "label": "manie-maritz"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        }
+      ]
+    },
+    {
+      "id": "manie-maritz",
+      "type": "\"person\"",
+      "label": "manie-maritz",
+      "description": "Salomon Gerhardus \"Manie\" Maritz (1876–1940) was a Boer military officer who led a pro-German rebellion against the Union of South Africa in 1914. In John Buchan's 1916 novel *Greenmantle*, Maritz serves as a crucial off-stage figure whose identity provides the cover story for Richard Hannay and ...",
+      "aliases": [
+        "Maritz",
+        "Salomon Gerhardus Maritz"
+      ],
+      "tags": [
+        "boer-war",
+        "south-africa",
+        "rebel",
+        "historical-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "greenmantle:manie-maritz",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "louis-botha",
+          "label": "louis-botha"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        }
+      ]
+    },
+    {
+      "id": "mesopotamia",
+      "type": "place",
+      "label": "Mesopotamia",
+      "description": "Key theatre of the First World War in John Buchan's *Greenmantle*, the destination of Hannay's final mission and the sole bright spot in the Allied campaign outlook.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:mesopotamia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "gallipoli",
+          "label": "gallipoli"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        }
+      ]
+    },
+    {
+      "id": "military-command",
+      "type": "concept",
+      "label": "military-command",
+      "description": "Military command — the hierarchical structure of authority, orders, and obedience —",
+      "aliases": [],
+      "tags": [
+        "military",
+        "command",
+        "hierarchy",
+        "General Staff",
+        "officers",
+        "WWI"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:military-command",
+      "relations": [
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "von-oesterzee",
+          "label": "von-oesterzee"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "eastern-front"
+        }
+      ]
+    },
+    {
+      "id": "orientalism",
+      "type": "concept",
+      "label": "orientalism",
+      "description": "Orientalism — the Western perception of the East as mysterious, decadent, and fundamentally different — is not merely a theme in *Greenmantle* but the narrative lens through which the entire Eastern adventure is viewed. The novel is saturated with Orientalist assumptions: the East is a place of \"...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:orientalism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "pan-islamism"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "young-turks",
+          "label": "young-turks"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        }
+      ]
+    },
+    {
+      "id": "palantuken",
+      "type": "place",
+      "label": "Fort Palantuken",
+      "description": "A key fortress in the Erzerum defensive line in eastern Anatolia, the Palantuken mountain range and fort play a critical role in the Russian offensive that serves as the novel's climax.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:palantuken",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-erzerum",
+          "label": "battle-of-erzerum"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        }
+      ]
+    },
+    {
+      "id": "pan-islamism",
+      "type": "concept",
+      "label": "pan-islamism",
+      "description": "Pan-Islamism is the central geopolitical threat in *Greenmantle* — the German strategic objective of weaponising Islamic religious unity against the British Empire. Sir Walter Bullivant's opening analysis establishes that Germany has moved beyond crude military propaganda toward the deliberate ma...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:pan-islamism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "peter-pienaar",
+      "type": "person",
+      "label": "peter-pienaar",
+      "description": "Peter Pienaar is a Dutch scout and tracker from Hannay's South African days who becomes a crucial member of the Greenmantle mission. A skilled outdoorsman with deep knowledge of the veld, Peter later fulfills his dream of joining the Flying Corps.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:peter-pienaar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "type": "list",
+      "label": "places",
+      "description": "Index of all locations mentioned in Greenmantle (1916) — from the Western Front to Constantinople, the Danube to the Caucasus. Drawn from the wiki's place entries.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "places",
+        "geography"
+      ],
+      "quality": "basic",
+      "source_ref": "greenmantle:places",
+      "relations": []
+    },
+    {
+      "id": "posselt",
+      "type": "person",
+      "label": "General Posselt",
+      "description": "German general and Governor of Erzerum during the First World War, a key figure in the German military administration in eastern Anatolia.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:posselt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "rasta-bey"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        }
+      ]
+    },
+    {
+      "id": "rasta-bey",
+      "type": "person",
+      "label": "Rasta Bey",
+      "description": "Turkish official and Enver Pasha's satellite in Constantinople, a persistent antagonist to Richard Hannay during the Greenmantle mission.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:rasta-bey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        }
+      ]
+    },
+    {
+      "id": "ratchik",
+      "type": "place",
+      "label": "Ratchik",
+      "description": "The Ratchik ferry crossing on the Danube River, a critical transit point in Richard Hannay's escape through the Balkans in John Buchan's *Greenmantle*.",
+      "aliases": [
+        "Ratchik Ferry"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:ratchik",
+      "relations": [
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "danube-river"
+        },
+        {
+          "type": "related",
+          "target": "rustchuk",
+          "label": "rustchuk"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "rhine",
+      "type": "place",
+      "label": "Rhine",
+      "description": "The Rhine River — a major German waterway and industrial corridor referenced in the geography of John Buchan's *Greenmantle*.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "greenmantle:rhine",
+      "relations": []
+    },
+    {
+      "id": "richard-hannay",
+      "type": "person",
+      "label": "richard-hannay",
+      "description": "Richard Hannay is the protagonist and first-person narrator of *Greenmantle*. A Major in the British Army commanding the Lennox Highlanders, he is recruited by Sir Walter Bullivant for a secret mission into the heart of the Ottoman Empire during World War I.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:richard-hannay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "rumania",
+      "type": "place",
+      "label": "Rumania",
+      "description": "The Kingdom of Rumania — a neutral Balkan state in 1915 whose strategic position between Russia and the Ottoman Empire is noted in John Buchan's *Greenmantle*.",
+      "aliases": [
+        "Romania",
+        "Roumania"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:rumania",
+      "relations": [
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "black-sea"
+        },
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "danube-river"
+        }
+      ]
+    },
+    {
+      "id": "russia",
+      "type": "place",
+      "label": "Russia",
+      "description": "The Russian Empire, a major Allied power whose military offensive against the Ottoman Empire's eastern frontier provides the backdrop and ultimate resolution to the Greenmantle conspiracy in John Buchan's novel.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:russia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "grand-duke-nicholas",
+          "label": "grand-duke-nicholas"
+        },
+        {
+          "type": "related",
+          "target": "general-prjevalsky",
+          "label": "general-prjevalsky"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "eastern-front"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "rumania",
+          "label": "rumania"
+        },
+        {
+          "type": "related",
+          "target": "black-sea",
+          "label": "black-sea"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "rustchuk",
+      "type": "place",
+      "label": "Rustchuk",
+      "description": "Bulgarian port city on the Danube River, a key transit point in Richard Hannay's journey eastward, where German military stores are transferred from river barges for overland transport.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:rustchuk",
+      "relations": [
+        {
+          "type": "related",
+          "target": "danube-river",
+          "label": "danube-river"
+        },
+        {
+          "type": "related",
+          "target": "schenk",
+          "label": "schenk"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "rasta-bey"
+        }
+      ]
+    },
+    {
+      "id": "sandy-arbuthnot",
+      "type": "person",
+      "label": "sandy-arbuthnot",
+      "description": "Sandy Arbuthnot (Lord Clanroyden) is Hannay's closest friend and a key ally in the mission to thwart the German-orchestrated Islamic uprising. A young aristocrat with deep knowledge of the Orient, Sandy operates independently behind enemy lines.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:sandy-arbuthnot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "harry-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "schenk",
+      "type": "person",
+      "label": "Captain Schenk",
+      "description": "Frisian sea captain pressed into river-barge duty on the Danube, transporting German military stores with Richard Hannay as his crewmate during the Greenmantle mission.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:schenk",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        }
+      ]
+    },
+    {
+      "id": "schwandom",
+      "type": "place",
+      "label": "Schwandorf",
+      "description": "Bavarian town in southern Germany where Hannay's Dutch cover identity is tested during his journey eastward in John Buchan's *Greenmantle*.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:schwandom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "stumm",
+          "label": "stumm"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "hermann-brandt",
+          "label": "hermann-brandt"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        }
+      ]
+    },
+    {
+      "id": "sir-walter-bullivant",
+      "type": "person",
+      "label": "sir-walter-bullivant",
+      "description": "Sir Walter Bullivant is the senior Foreign Office official who recruits Richard Hannay for the Greenmantle mission. A spymaster worn down by war, he carries personal as well as professional stakes in the operation — his son Harry Bullivant died pursuing the same conspiracy .",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:sir-walter-bullivant",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "harry-bullivant",
+          "label": "harry-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "stumm",
+      "type": "person",
+      "label": "stumm",
+      "description": "Colonel von Stumm is the German military commander of the Erzerum fortress and one of Hannay's most dangerous antagonists. A physically imposing, corpulent officer — \"Stumm and his great body\"  — he combines bureaucratic thoroughness with casual brutality.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:stumm",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        }
+      ]
+    },
+    {
+      "id": "tafta",
+      "type": "place",
+      "label": "Tafta",
+      "description": "Fort Tafta — one of the two great forts guarding the Erzerum defensive line, paired with Kara Gubek in John Buchan's *Greenmantle*.",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "greenmantle:tafta",
+      "relations": []
+    },
+    {
+      "id": "talaat-pasha",
+      "type": "person",
+      "label": "talaat-pasha",
+      "description": "Talaat Pasha was a leader of the Young Turk movement and a key figure in the Ottoman government during World War I. In *Greenmantle*, he appears as a background political figure mentioned alongside Enver Pasha.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "greenmantle:talaat-pasha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "islam"
+        }
+      ]
+    },
+    {
+      "id": "the-great-game",
+      "type": "concept",
+      "label": "the-great-game",
+      "description": "The Great Game — the nineteenth- and early-twentieth-century geopolitical rivalry",
+      "aliases": [],
+      "tags": [
+        "Great Game",
+        "geopolitics",
+        "empire",
+        "imperialism",
+        "rivalry"
+      ],
+      "quality": "featured",
+      "source_ref": "greenmantle:the-great-game",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "espionage"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "pan-islamism"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "eastern-front"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "young-turks",
+          "label": "young-turks"
+        }
+      ]
+    },
+    {
+      "id": "the-mission",
+      "type": "event",
+      "label": "the-mission",
+      "description": "The mission in *Greenmantle* is a covert British operation to infiltrate the Ottoman Empire and uncover the nature of a German-orchestrated Islamic holy war. Commissioned by Sir Walter Bullivant of the Foreign Office and led by Major Richard Hannay, the mission spans from London to the eastern An...",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:the-mission",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "Major Richard Hannay"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Anatolia"
+        },
+        {
+          "type": "related",
+          "target": "trench-warfare",
+          "label": "Western Front"
+        },
+        {
+          "type": "related",
+          "target": "islam",
+          "label": "the Islamic world"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "Blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "Peter"
+        },
+        {
+          "type": "related",
+          "target": "lisbon",
+          "label": "Lisbon"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "holy-war",
+          "label": "holy-war"
+        }
+      ]
+    },
+    {
+      "id": "the-russian-advance",
+      "type": "event",
+      "label": "the-russian-advance",
+      "description": "The Russian advance from the Caucasus provides the external military pressure that shapes the final act of *Greenmantle*. While Hannay's covert team works from within, the Russian Imperial Army advances on Erzerum from the east, threatening to collapse the German-Ottoman position in eastern Anato...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:the-russian-advance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "russia",
+          "label": "Russia"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "anatolia",
+          "label": "Anatolia"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "Sandy"
+        },
+        {
+          "type": "related",
+          "target": "fate-and-providence",
+          "label": "fate"
+        },
+        {
+          "type": "related",
+          "target": "kara-gubek",
+          "label": "Kara Gubek"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "Hilda"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-erzerum",
+          "label": "battle-of-erzerum"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the-mission"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    },
+    {
+      "id": "trench-warfare",
+      "type": "concept",
+      "label": "trench-warfare",
+      "description": "Trench warfare is the defining military reality of the First World War and the constant backdrop against which the action of *Greenmantle* unfolds. The Western Front — a static line of trenches stretching from the Channel to Switzerland — is where Richard Hannay earned his combat experience, wher...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:trench-warfare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "sir-walter-bullivant"
+        },
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "loos"
+        },
+        {
+          "type": "related",
+          "target": "ypres",
+          "label": "ypres"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-erzerum",
+          "label": "battle-of-erzerum"
+        },
+        {
+          "type": "related",
+          "target": "war-office",
+          "label": "war-office"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "erzerum",
+          "label": "erzerum"
+        }
+      ]
+    },
+    {
+      "id": "vienna",
+      "type": "place",
+      "label": "Vienna",
+      "description": "Capital of the Austro-Hungarian Empire — a historical and strategic reference point in John Buchan's *Greenmantle*, invoked as both a waypoint on Hannay's journey and a symbol of past Islamic threats to Europe.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:vienna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        },
+        {
+          "type": "related",
+          "target": "berlin",
+          "label": "berlin"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "von-oesterzee",
+      "type": "person",
+      "label": "General von Oesterzee",
+      "description": "German artillery commandant stationed at Chataldja during the First World War, responsible for receiving military stores transported by Richard Hannay.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:von-oesterzee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rasta-bey",
+          "label": "rasta-bey"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        },
+        {
+          "type": "related",
+          "target": "peter-pienaar",
+          "label": "peter-pienaar"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        }
+      ]
+    },
+    {
+      "id": "war-office",
+      "type": "organization",
+      "label": "war-office",
+      "description": "The British War Office represents the military dimension of Britain's wartime establishment in *Greenmantle*, standing in productive tension with the Foreign Office's diplomatic approach. While the Foreign Office runs intelligence operations, the War Office commands the armies — and Hannay, summo...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:war-office",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "Greenmantle"
+        },
+        {
+          "type": "related",
+          "target": "british-intelligence",
+          "label": "Foreign Office"
+        },
+        {
+          "type": "related",
+          "target": "trench-warfare",
+          "label": "Western Front"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "espionage",
+          "label": "intelligence work"
+        },
+        {
+          "type": "related",
+          "target": "eastern-front",
+          "label": "the East"
+        },
+        {
+          "type": "related",
+          "target": "sir-walter-bullivant",
+          "label": "Sir Walter"
+        },
+        {
+          "type": "related",
+          "target": "the-mission",
+          "label": "the Greenmantle mission"
+        },
+        {
+          "type": "related",
+          "target": "courage-and-honour",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "foreign-office",
+          "label": "foreign-office"
+        },
+        {
+          "type": "related",
+          "target": "richard-hannay",
+          "label": "richard-hannay"
+        }
+      ]
+    },
+    {
+      "id": "young-turks",
+      "type": "concept",
+      "label": "young-turks",
+      "description": "The Young Turk movement — formally the Committee of Union and Progress (CUP) — was the revolutionary nationalist faction that controlled the Ottoman Empire during the events of *Greenmantle*. In the novel, the Young Turks represent the political architecture through which the German conspiracy op...",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "greenmantle:young-turks",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ennver-pasha",
+          "label": "ennver-pasha"
+        },
+        {
+          "type": "related",
+          "target": "sandy-arbuthnot",
+          "label": "sandy-arbuthnot"
+        },
+        {
+          "type": "related",
+          "target": "john-blenkiron",
+          "label": "john-blenkiron"
+        },
+        {
+          "type": "related",
+          "target": "hilda-von-einem",
+          "label": "hilda-von-einem"
+        },
+        {
+          "type": "related",
+          "target": "constantinople",
+          "label": "constantinople"
+        },
+        {
+          "type": "related",
+          "target": "german-military-mission",
+          "label": "german-military-mission"
+        },
+        {
+          "type": "related",
+          "target": "pan-islamism",
+          "label": "pan-islamism"
+        },
+        {
+          "type": "related",
+          "target": "greenmantle-concept",
+          "label": "greenmantle-concept"
+        }
+      ]
+    },
+    {
+      "id": "ypres",
+      "type": "place",
+      "label": "Ypres",
+      "description": "The Ypres Salient on the Western Front, site of brutal trench warfare that forms part of the military backdrop in John Buchan's *Greenmantle*.",
+      "aliases": [
+        "Ypres Salient"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "greenmantle:ypres",
+      "relations": [
+        {
+          "type": "related",
+          "target": "loos",
+          "label": "loos"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        },
+        {
+          "type": "related",
+          "target": "germany",
+          "label": "germany"
+        }
+      ]
+    }
+  ]
+}

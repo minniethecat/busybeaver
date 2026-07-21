@@ -1,0 +1,11 @@
+---
+description: "Part I, Chapter VII of Le Guide des Egares by Maimonides"
+id: part-i-chapter-vii
+label: "Part I, Chapter VII"
+tags: ["chapter"]
+type: chapter
+---
+
+<!-- page: Page 52 -->
+
+[007-001]22 INTRODUCTION. (qui se rapportent) aux fornicateurs , et de môme ces paroles et d'autres semblables sont de l'espèce de celles que les adultères s'adressent mutuellement. Il faut bien comprendre ce que je dis, car c'est un principe très important pour ce que je me propose d'expliquer. Si donc dans un chapitre de ce traité tu me vois expliquer le sens d'une certaine allégorie et que j'appelle ton attention sur l'ensemble de la chose représentée , tu ne me demanderas pas (l'explication de) tous les sujets particuliers qui se rencontrent dans cette allégorie, et tu ne chercheras pas à en trouver l'analogue dans la chose représentée ; car cela te conduirait à l'une de deux choses , ou bien à te faire perdre de vue le sujet qu'on avait pour but dans l'allégorie , ou bien à t'imposer la tâche d'interpréter (allégoriquement) des paroles qui ne sont pas sujettes à interprétation et qui n'ont pas été écrites pour être interprétées. Et en t'imposant cette tâche tu tomberais dans cette grande folie dont la plupart des écoles du monde sont atteintes de nos jours et qui se révèle dans leurs écrits (*) ; car chacun de ces gens cherche à trouver un sens à des paroles par lesquelles l 'auteur n'a visé à rien de ce qu'ils veulent (y trouver) eux-mêmes. Tu dois, au contraire, avoir toujours pour but dans la plupart des allégories de connaître l'ensemble de la chose qu'on a voulu faire connaître , et dans certaines choses il doit te suffire de comprendre par mes paroles que tel sujet est une allégorie, quand même je ne t'expliquerai rien de plus ; car quand tu auras su que c'est une allégorie, tu comprendras aussitôt quel en est l'objet, et en te disant que c'est une allégorie , j'aurai , pour ainsi dire , enlevé ce qui s'interposait (comme obstacle) entre la vue et l'objet vu. RECOMMANDATION AU SUJET DE CE TRAITÉ. Si tu veux comprendre tout ce que (ce traité) renferme, de manière à ce qu'il ne t'en échappe rien , il faut combiner ses chapitres les uns avec les autres , et en lisant un chapitre il ne faut pas seulement avoir pour but de comprendre l'ensemble de son sujet , (1) Liiléralement : et dans laquelle elles composent (des livres).

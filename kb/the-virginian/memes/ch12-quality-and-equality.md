@@ -1,0 +1,211 @@
+---
+description: "Quality and Equality"
+id: ch12-quality-and-equality
+label: "XII: Quality and Equality"
+tags: ["chapter"]
+type: chapter
+---
+
+### XII: Quality and Equality
+
+##### XII
+
+[012-001] Quality and Equality
+
+[012-002] To the circle at [[bennington|Bennington]], a letter from [[bear-creek|Bear Creek]] was always a welcome summons to gather and hear of doings very strange to Vermont. And when the tale of the changed babies arrived duly by the post, it created a more than usual sensation, and was read to a large number of pleased and scandalized neighbors. “I hate her to be where such things can happen,” said Mrs. Wood.
+
+[012-003] “I wish I could have been there,” said her son-in-law, [[andrew-bell|Andrew Bell]].
+
+[012-004] “She does not mention who played the trick,” said Mrs. Andrew Bell.
+
+[012-005] “We shouldn’t be any wiser if she did,” said Mrs. Wood.
+
+[012-006] “I’d like to meet the perpetrator,” said Andrew.
+
+[012-007] “Oh, no!” said Mrs. Wood. “They’re all horrible.”
+
+[012-008] And she wrote at once, begging her daughter to take good care of herself, and to see as much of Mrs. [[balaam|Balaam]] as possible. “And of any other ladies that are near you. For you seem to me to be in a community of roughs. I wish you would give it all up. Did you expect me to laugh about the babies?”
+
+[012-009] Mrs. Flynt, when this story was repeated to her (she had not been invited in to hear the letter), remarked that she had always felt that [[molly-stark-wood|Molly Wood]] must be a little vulgar, ever since she began to go about giving music lessons like any ordinary German.
+
+[012-010] But Mrs. Wood was considerably relieved when the next letter arrived. It contained nothing horrible about barbecues or babies. It mentioned the great beauty of the weather, and how well and strong the fine air was making the writer feel. And it asked that books might be sent, many books of all sorts, novels, poetry, all the good old books and any good new ones that could be spared. Cheap editions, of course.
+
+[012-011] “Indeed she shall have them!” said Mrs. Wood. “How her mind must be starving in that dreadful place!” The letter was not a long one, and, besides the books, spoke of little else except the fine weather and the chances for outdoor exercise that this gave. “You have no idea,” it said, “how delightful it is to ride, especially on a spirited horse, which I can do now quite well.”
+
+[012-012] “How nice that is!” said Mrs. Wood, putting down the letter. “I hope the horse is not too spirited.”
+
+[012-013] “Who does she go riding with?” asked Mrs. Bell.
+
+[012-014] “She doesn’t say, Sarah. Why?”
+
+[012-015] “Nothing. She has a queer way of not mentioning things, now and then.”
+
+[012-016] “Sarah!” exclaimed Mrs. Wood, reproachfully. “Oh, well, mother, you know just as well as I do that she can be very independent and unconventional.”
+
+[012-017] “Yes; but not in that way. She wouldn’t ride with poor [[sam-bannett|Sam Bannett]], and after all he is a suitable person.”
+
+[012-018] Nevertheless, in her next letter, Mrs. Wood cautioned her daughter about trusting herself with any one of whom Mrs. Balaam did not thoroughly approve. The good lady could never grasp that Mrs. Balaam lived a long day’s journey from Bear Creek, and that Molly saw her about once every three months. “We have sent your books,” the mother wrote; “everybody has contributed from their store—Shakespeare, Tennyson, Browning, Longfellow; and a number of novels by Scott, Thackeray, George Eliot, Hawthorne, and lesser writers; some volumes of Emerson; and Jane Austen complete, because you admire her so particularly.”
+
+[012-019] This consignment of literature reached Bear Creek about a week before Christmas time.
+
+[012-020] By New Year’s Day, the Virginian had begun his education.
+
+[012-021] “Well, I have managed to get through ’em,” he said, as he entered Molly’s cabin in February. And he laid two volumes upon her table.
+
+[012-022] “And what do you think of them?” she inquired.
+
+[012-023] “I think that I’ve cert’nly earned a good long ride today.”
+
+[012-024] “Georgie Taylor has sprained his ankle.”
+
+[012-025] “No, I don’t mean that kind of a ride. I’ve earned a ride with just us two alone. I’ve read every word of both of ’em, yu’ know.”
+
+[012-026] “I’ll think about it. Did you like them?”
+
+[012-027] “No. Not much. If I’d knowed that one was a detective story, I’d have got yu’ to try something else on me. Can you guess the murderer, or is the author too smart for yu’? That’s all they amount to. Well, he was too smart for me this time, but that didn’t distress me any. That other book talks too much.”
+
+[012-028] Molly was scandalized, and she told him it was a great work.
+
+[012-029] “Oh, yes, yes. A fine book. But it will keep up its talkin’. Don’t let you alone.”
+
+[012-030] “Didn’t you feel sorry for poor Maggie Tulliver?”
+
+[012-031] “Hmp. Yes. Sorry for her, and for Tawmmy, too. But the man did right to drownd ’em both.”
+
+[012-032] “It wasn’t a man. A woman wrote that.”
+
+[012-033] “A woman did! Well, then, o’ course she talks too much.”
+
+[012-034] “I’ll not go riding with you!” shrieked Molly.
+
+[012-035] But she did. And he returned to Sunk Creek, not with a detective story, but this time with a Russian novel.
+
+[012-036] It was almost April when he brought it back to her—and a heavy sleet storm lost them their ride. So he spent his time indoors with her, not speaking a syllable of love. When he came to take his departure, he asked her for some other book by this same Russian. But she had no more.
+
+[012-037] “I wish you had,” he said. “I’ve never saw a book could tell the truth like that one does.”
+
+[012-038] “Why, what do you like about it?” she exclaimed. To her it had been distasteful.
+
+[012-039] “Everything,” he answered. “That young come-outer, and his fam’ly that can’t understand him—for he is broad gauge, yu’ see, and they are narro’ gauge.” [[the-virginian|The Virginian]] looked at Molly a moment almost shyly. “Do you know,” he said, and a blush spread over his face, “I pretty near cried when that young come-outer was dyin’, and said about himself, ‘I was a giant.’ Life made him broad gauge, yu’ see, and then took his chance away.”
+
+[012-040] Molly liked the Virginian for his blush. It made him very handsome. But she thought that it came from his confession about “pretty near crying.” The deeper cause she failed to divine—that he, like the dying hero in the novel, felt himself to be a giant whom life had made “broad gauge,” and denied opportunity. Fecund nature begets and squanders thousands of these rich seeds in the wilderness of life.
+
+[012-041] He took away with him a volume of Shakespeare. “I’ve saw good plays of his,” he remarked.
+
+[012-042] Kind Mrs. Taylor in her cabin next door watched him ride off in the sleet, bound for the lonely mountain trail.
+
+[012-043] “If that girl don’t get ready to take him pretty soon,” she observed to her husband, “I’ll give her a piece of my mind.”
+
+[012-044] Taylor was astonished. “Is he thinking of *her*?” he inquired.
+
+[012-045] “Lord, Mr. Taylor, and why shouldn’t he?”
+
+[012-046] Mr. Taylor scratched his head and returned to his newspaper.
+
+---
+
+[012-047] It was warm—warm and beautiful upon Bear Creek. Snow shone upon the peaks of the Bow Leg range; lower on their slopes the pines were stirring with a gentle song; and flowers bloomed across the wide plains at their feet.
+
+[012-048] Molly and her Virginian sat at a certain spring where he had often ridden with her. On this day he was bidding her farewell before undertaking the most important trust which [[judge-henry|Judge Henry]] had as yet given him. For this journey she had provided him with Sir Walter Scott’s *Kenilworth*. Shakespeare he had returned to her. He had bought Shakespeare for himself. “As soon as I got used to readin’ it,” he had told her, “I knowed for certain that I liked readin’ for enjoyment.”
+
+[012-049] But it was not of books that he had spoken much today. He had not spoken at all. He had bade her listen to the meadowlark, when its song fell upon the silence like beaded drops of music. He had showed her where a covey of young willow-grouse were hiding as their horses passed. And then, without warning, as they sat by the spring, he had spoken potently of his love.
+
+[012-050] She did not interrupt him. She waited until he was wholly finished.
+
+[012-051] “I am not the sort of wife you want,” she said, with an attempt of airiness.
+
+[012-052] He answered roughly, “I am the judge of that.” And his roughness was a pleasure to her, yet it made her afraid of herself. When he was absent from her, and she could sit in her cabin and look at [[grandmother-stark|Grandmother Stark]], and read home letters, then in imagination she found it easy to play the part which she had arranged to play regarding him—the part of the guide, and superior, and indulgent companion. But when he was by her side, that part became a difficult one. Her woman’s fortress was shaken by a force unknown to her before. Sam Bannett did not have it in him to look as this man could look, when the cold lustre of his eyes grew hot with internal fire. What color they were baffled her still. “Can it possibly change?” she wondered. It seemed to her that sometimes when she had been looking from a rock straight down into clear sea water, this same color had lurked in its depths. “Is it green, or is it gray?” she asked herself, but did not turn just now to see. She kept her face toward the landscape.
+
+[012-053] “All men are born equal,” he now remarked slowly.
+
+[012-054] “Yes,” she quickly answered, with a combative flash. “Well?”
+
+[012-055] “Maybe that don’t include women?” he suggested.
+
+[012-056] “I think it does.”
+
+[012-057] “Do yu’ tell the kids so?”
+
+[012-058] “Of course I teach them what I believe!”
+
+[012-059] He pondered. “I used to have to learn about the Declaration of Independence. I hated books and truck when I was a kid.”
+
+[012-060] “But you don’t any more.”
+
+[012-061] “No. I cert’nly don’t. But I used to get kep’ in at recess for bein’ so dumb. I was most always at the tail end of the class. My brother, he’d be head sometimes.”
+
+[012-062] “Little George Taylor is my prize scholar,” said Molly.
+
+[012-063] “Knows his tasks, does he?”
+
+[012-064] “Always. And Henry Dow comes next.”
+
+[012-065] “Who’s last?”
+
+[012-066] “Poor Bob Carmody. I spend more time on him than on all the rest put together.”
+
+[012-067] “My!” said the Virginian. “Ain’t that strange!”
+
+[012-068] She looked at him, puzzled by his tone. “It’s not strange when you know Bob,” she said.
+
+[012-069] “It’s very strange,” drawled the Virginian. “Knowin’ Bob don’t help it any.”
+
+[012-070] “I don’t think that I understand you,” said Molly, sticky.
+
+[012-071] “Well, it *is* mighty confusin’. George Taylor, he’s your best scholar, and poor Bob, he’s your worst, and there’s a lot in the middle—and you tell me we’re all born equal!”
+
+[012-072] Molly could only sit giggling in this trap he had so ingeniously laid for her.
+
+[012-073] “I’ll tell you what,” pursued the cowpuncher, with slow and growing intensity, “equality is a great big bluff. It’s easy called.”
+
+[012-074] “I didn’t mean—” began Molly.
+
+[012-075] “Wait, and let me say what I mean.” He had made an imperious gesture with his hand. “I know a man that mostly wins at cyards. I know a man that mostly loses. He says it is his luck. All right. Call it his luck. I know a man that works hard and he’s gettin’ rich, and I know another that works hard and is gettin’ poor. He says it is his luck. All right. Call it his luck. I look around and I see folks movin’ up or movin’ down, winners or losers everywhere. All luck, of course. But since folks can be born that different in their luck, where’s your equality? No, seh! call your failure luck, or call it laziness, wander around the words, prospect all yu’ mind to, and yu’ll come out the same old trail of inequality.” He paused a moment and looked at her. “Some holds four aces,” he went on, “and some holds nothin’, and some poor fello’ gets the aces and no show to play ’em; but a man has got to prove himself my equal before I’ll believe him.”
+
+[012-076] Molly sat gazing at him, silent.
+
+[012-077] “I know what yu’ meant,” he told her now, “by sayin’ you’re not the wife I’d want. But I am the kind that moves up. I am goin’ to be your best scholar.” He turned toward her, and that fortress within her began to shake.
+
+[012-078] “Don’t,” she murmured. “Don’t, please.”
+
+[012-079] “Don’t what?”
+
+[012-080] “Why—spoil this.”
+
+[012-081] “Spoil it?”
+
+[012-082] “These rides—I don’t love you—I can’t—but these rides are—”
+
+[012-083] “What are they?”
+
+[012-084] “My greatest pleasure. There! And, please, I want them to go on so.”
+
+[012-085] “Go on so! I don’t reckon yu’ know what you’re sayin’. Yu’ might as well ask fruit to stay green. If the way we are now can keep bein’ enough for you, it can’t for me. A pleasure to you, is it? Well, to me it is—I don’t know what to call it. I come to yu’ and I hate it, and I come again and I hate it, and I ache and grieve all over when I go. No! You will have to think of some other way than just invitin’ me to keep green.”
+
+[012-086] “If I am to see you—” began the girl.
+
+[012-087] “You’re not to see me. Not like this. I can stay away easier than what I am doin’.”
+
+[012-088] “Will you do me a favor, a great one?” said she, now.
+
+[012-089] “Make it as impossible as you please!” he cried. He thought it was to be some action.
+
+[012-090] “Go on coming. But don’t talk to me about—don’t talk in that way—if you can help it.”
+
+[012-091] He laughed out, not permitting himself to swear.
+
+[012-092] “But,” she continued, “if you can’t help talking that way—sometimes—I promise I will listen. That is the only promise I make.”
+
+[012-093] “That is a bargain,” he said.
+
+[012-094] Then he helped her mount her horse, restraining himself like a Spartan, and they rode home to her cabin.
+
+[012-095] “You have made it pretty near impossible,” he said, as he took his leave. “But you’ve been square today, and I’ll show you I can be square when I come back. I’ll not do more than ask you if your mind’s the same. And now I’ll not see you for quite a while. I am going a long way. But I’ll be very busy. And bein’ busy always keeps me from grievin’ too much about you.”
+
+[012-096] Strange is woman! She would rather have heard some other last remark than this.
+
+[012-097] “Oh, very well!” she said. “I’ll not miss you either.”
+
+[012-098] He smiled at her. “I doubt if yu’ can help missin’ me,” he remarked. And he was gone at once, galloping on his [[monte|Monte horse]].
+
+[012-099] Which of the two won a victory this day?

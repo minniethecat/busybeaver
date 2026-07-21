@@ -1,0 +1,13 @@
+---
+description: "Viéra Pavlovna does not very often recollect the past days of their present love. Yes, in the present there is so much l..."
+id: ch082-VI
+label: "VI"
+tags: ["chapter"]
+type: chapter
+---
+
+# VI
+
+### VI
+
+[079-001][[viéra-pavlovna|Viéra Pavlovna]] does not very often recollect the past days of their present love. Yes, in the present there is so much life that there is little recollection; but whenever she recalls the past—as sometimes, at first, of course, only *sometimes*, but afterwards more frequently—at every recollection she feels a dissatisfaction, at first, weak and like a flash, indefinite. At whom? at what? and then it appears to her. At whom? She is dissatisfied with herself. For what? And now she sees from what part of her character arises her dissatisfaction. Yes; she is very proud. But is it only in her past that she is dissatisfied with herself? At first, yes; but then she begins to observe that the dissatisfaction with herself is connected with the present also. And what a strange peculiarity could be noticed in this feeling, after it became clear to her, as though she, Viéra Pavlovna Kirsánova, did not feel a personal dissatisfaction, but as though the dissatisfaction of thousands and millions were not reflected in her; and as though she were not dissatisfied with herself personally, but as though these thousands and millions were dissatisfied with her. But who are these thousands and millions? Why are they dissatisfied with themselves? If I had lived alone by myself as before, she thought to herself, that then, by all probability, this feeling would not have been made manifest so quickly to her. But now she is constantly with her husband. They both think together all the time, and the thought about him interferes with every other thought. This assisted greatly in the evolution of this feeling. He could not directly explain this puzzle to her; as long as this feeling was obscure in her own mind, it was still darker for him. For him it was hard to think how it is possible to feel dissatisfaction which should not interfere with your personal [[happiness|satisfaction]], which does not in the least bear upon personality. This was strange to him, a hundredfold darker than for her; but still it helped her a great deal that she was constantly thinking about her husband and constantly thinking with him. She began to notice that whenever this dissatisfaction came to her, it was always accompanied by comparisons. It consisted in the fact that she compares herself with her husband, and here flashed before her a real word expressing her thought, “a difference, an insulting difference.” Now she understands.

@@ -1,0 +1,61 @@
+---
+description: 
+id: sec49
+label: "Section 49"
+tags: ["chapter"]
+type: chapter
+---
+
+# Section 49
+
+[049-001]"And the great Signor medico, Acquapendente, will be made this day Cavalière of the Republic, since he hath had the wonderful fortune to save the life of our Padre Maestro Paolo; for it is well known there was little hope of matins or vespers more for him, the night the _maledetti bravi_ left the stiletto in his face!" "And thou, Giuseppe!" cried a smiling mother from [[mazzorbo|Mazzorbo]], proudly indicating her boy as an object of interest, and pushing him into a more prominent position--"the bambino hath seen it with his own eyes, since he is prentice at the metal graver's shop of Messer Maffeo Olivieri on the [[rialto|Rialto]]; thou, tell us, Giuseppe, of this great goblet of graven silver which the Master Olivieri hath ready for the presentation, by order of the [[signoria|Signoria]]. È bello, ah? _Bellissimo_! And the Lion of [[san-marco|San Marco]] on the crown of it--_è vero_ Giuseppe?--with wings--_magnifico_!
+
+[049-002]And jewels of rubino in the eyes of it; and a tongue----" "Cosi!" interposed Giuseppe, with dramatic effectiveness, thrusting out his own with relish. "_Thus_!" "Ma c'è altro!" cried a gondolier from [[murano|Murano]]. "There is more yet! For the magnificent [[venetian-war-galley|galley]] which the little one of the Ca' Giustiniani--he that is grandson to our Messer [[girolamo-magagnati|Girolamo Magagnati]]--hath given to the Republic will be floated out from the basin of the arsenal and christened this day!" The spirits of the light-hearted crowd effervesced in a jubilant cheer.
+
+[049-003]"_I Giustiniani_!" On every page of the history of Venice the name of the Giustiniani stood brilliantly forth, and the stained and tattered banners in the great hall of the arsenal were so many laurel leaves for this patrician house, keeping the memory of the brilliant [[battle-of-lepanto|victory of Lepanto]] green in the hearts of the Venetians. It was a [[giustinian-giustiniani|Giustinian]], "Gonfalonière," _standard bearer_, who had brought the glorious news on his triumphant galley, the solemn Lion of San Marco waving his banner above the drooping crescent of the Turk from every green wreathed mast. It was this Giustinian who had been carried in triumph on the shoulders of the people, before the [[doge|Doge]] and the Signoria--who had been the hero when that solemn Mass, in honor of the victory, had been offered up in the ducal chapel--when the Rialto and the [[merceria|Merceria]], for the extravagant joy of Venice, were draped in blue and scarlet and gold, bound laurel wreaths and decorated with the art treasures of [[titian|Titian]] and Giorgone. It was a name which the people were accustomed to honor. "I Giustiniani!" they shouted.
+
+[049-004]There was a sudden hush, for the bells of the Campanile of San Marco had given the signal, and there was a great stir before [[piazza-san-marco|the Piazza]]--a train of [[gondola|gondolas]] was sweeping into line far down the Canal Grande; the guards on the watch-towers of the arsenal were full of animation; the gondolas of the orderlies were buzzing like bees about the barge of the grand admiral, who awaited the coming of the Doge, in all his magnificence of satin ceremonial robes. He was like a noble to-day, this man of the people. _Viva San Marco_!
+
+[049-005]The moment was approaching; orderlies glided back and forth among the excited people, prescribing their distance; the raft of small craft shifted its position and presently a salute was fired from all the cannon of the arsenal; the Doge, in his great State barge, was near.
+
+[049-006]The people shouted themselves hoarse when the smoke cleared away and revealed the splendid train of private barges from Venice; there were banners of the Republic and streaming pennons of the nobles; the gondoliers wore the colors of their house, and were welcomed by the people on these days of pageant as a distinct addition to the glories of the festa--though on other days the barcarioli of the traghetti poured out full vials of contempt upon their sashes of rose and silver and the blazonry of arms upon their silken sleeves.
+
+[049-007]The gondolas and barges of the people drifted back again, close about the train of magnates from Venice.
+
+[049-008]"I Giustiniani," they shouted; "il Marconino!" There was a movement on one of the splendid barges bearing the colors of the Giustiniani; a little child was caught up and held for a moment high in the air; he waved his tiny hands gleefully--it was such beautiful play!
+
+[049-009]"It is the grandson of Messer Girolamo Magagnati, of the Stabilimenti!" they cried from the barges of Murano, surging nearer in the waterway.
+
+[049-010]"He belongs to us--to the people!" for the story was well known, and the people of Venice were not less proud than the nobles who ruled them.
+
+[049-011]"Viva Messer Magagnati!" The group upon the deck parted and disclosed an old man with bowed head and faltering movements, supported by the young Senator Giustiniani, who gravely recognized their salute; but there was no answering smile upon his face; and Girolamo Magagnati, who had proudly confronted the senators in their Council Chamber when he had declined their proffer of nobility, in this day of triumph scarcely raised his eyes.
+
+[049-012]The mothers on the barges lifted their little ones in their arms and taught them to call a name--"Il Marconino!" they ventured, in hesitant, treble tones.
+
+[049-013]But now the splendid moment was near. The admiral, in his crimson robes of state, had mounted to his place on the Doge's barge, and all the floating crowd had fallen into ordered position, in a hush of vibrant suspense, as, with slow majesty and grace, one by one the galleys of Venice came forth in procession from the great basin of the arsenal, sweeping round from the Punta della Motta into the lagoon, and passing the Signoria with a salute. And now the great bell sounded again from the arsenal tower, and was answered from the Campanile of San Marco, and the suppressed excitement of the eager spectators burst forth in cries of greeting to the _Marconino_--just set afloat--as she came gracefully around in front of the Doge's barge, full manned and saluting, magnificently equipped, the colors of the Giustiniani waving below the crimson banner of San Marco, with its regnant Lion, and on her prow the beautiful sculptured figure of a little child.
+
+[049-014]"_Il Marconino! Il Marconino_!" There was a brief moment of confusion from the coming and going of barges,--a short delay which brimmed their excitement to the fever pitch,--then the waters cleared again of their floating craft, and the Senator [[marcantonio-giustiniani|Marcantonio Giustiniani]] stepped forth on the deck to christen the gift of his child.
+
+[049-015]The people looked, and would have shouted--but forebore--gazing awestruck.
+
+[049-016]As he stood, firmly planted upon the prow, the crimson drapery of his senator's robe parted and disclosed the firm young vigor of his limbs, in their silken hose, and his very attitude showed power. But he wore the face of a young Greek god who had lightly dreamed that he could fashion Life out of grace and sunshine, and had waked to carve Endurance out of Agony.
+
+[049-017]The child, held high in his arms, was radiant in the sunshine, its rosebud mouth parting over pearly teeth in dimpling glee, the breeze lifting the light rings of hair that caressed his soft, round throat, the hands waving in childish ecstasy and grace. As they stood, just over the beautiful bust of the "Marconino" which Vittorio had carved upon the prow, child and father were an embodiment of the play of the crested foam over the deep trouble of the waves beneath.
+
+[049-018]"Was it thus that the nobles took their triumphs?" the people questioned low of each other. "And where was the Lady [[marina-magagnati|Marina]], the daughter of Messer Magagnati--_their_ lady, who had been good to the people?" "She was there--within," some one answered, "she was not strong--the salutes were too much for her. She was waiting within, with her maidens." "To miss such a beautiful festa! Santa Maria!"--the strong peasant mothers, clasping their infants in their arms, with prattling, barefooted children clinging to their mantles--so glad for this glimpse of holiday--looked again at the beautiful, stern face of this father who had youth and gifts and wealth, his seat in the Consiglio, his boy in his arms--but no smile for the people pressing around him ready to shout his name, and they crossed themselves with a nameless yearning and dread.
+
+[049-019]But the nobles, with more understanding, looked upon him and forgot their jealousy.
+
+[049-020]For the Lady Marina was within, waiting with her maidens in a private chamber of the arsenal until the hour of the banquet, when her presence had been required by the Signoria. Only so much had her father--the giver of the gift--and Marcantonio, on this day of honor to his name--been able to obtain of the imperious Republic. There were rumors afloat, questions were asked, and the body of nobles must bear witness to the clemency of the State, who could be gracious in forgiving. If the Lady of the Giustiniani might not have the custody of her child, it was not that because of her transgressions they would refuse her any grace or honor.
+
+[049-021]Meanwhile Giustinian Giustiniani, standing proudly erect among the nobles of the Doge's suite, searched the crowd for further homage, and wondered at the silence when the charming figure of the baby Marconino danced in his father's arms--a very embodiment of life and glee.
+
+[049-022]It was over in a moment, and the crowd of smaller barges fell back in disorder, for the Doge was passing through the gates of the arsenal; the galleys were returning back by [[san-pietro-in-castello|San Pietro in Castello]], and that which was to follow of the glories of the day was only for the great ones now gathering behind that charmèd gate, where the golden chair was waiting in which the Serenissimo should make his royal progress. There was nothing more for the people until the hour of the Ave Maria should call the stately procession forth on its homeward way.
+
+[049-023]But the brilliant memories of this morning would gladden many a less golden day--Viva San Marco! Their voluble tongues were suddenly unloosed, and those who had been favored with near glimpses of the heroes of the day became centres of animated discussion. Life was good in Venice! "And thou, Nino, forget not that the Madonna hath been 'gentile' to thee! Thou shalt tell thy little ones, when thou art old, that thou hast this day seen, with thine own eyes, the Marconino, who hath given the great galley to the Republic!" The banquet was over, and there was a stir among the Signoria when the infant Giustinian was called for that he might receive the thanks of the Republic for his princely gift; and a murmur of admiration circled from lip to lip as the blooming child was brought into the banquet hall.
+
+[049-024]All eyes were now turned upon the Lady Marina, who had hitherto remained surrounded by her household and inconspicuous among the group of noble Venetian ladies who gave distinction to this festa.
+
+[049-025]It was Marcantonio who, with a tenderness that was pathetic and a touch that was a caress, led her down from her place and folded the little one's hand in hers. He would have led her to the throne; but a gesture that was scarcely more than a glance conveyed a command he dared not disobey.
+
+[049-026]They looked to see a flush of pride on her beautiful face as, in answer to the Doge's summons, she came slowly forward, with the tiny hand of the boy clasped in hers--his unsteady, childish footsteps echoing unevenly on the marble pavement between her measured movements. But she walked as in a dream, as if she were no longer one of this bright company, yet strangely beautiful to see, with a face like some noble spirit,--pale and grieving,--and in her eyes a great trouble that was full of dignity and love. Over the dark velvet of her robe the bountiful, white waves of her hair streamed like a bridal veil, wreathing her brows and her young, pathetic face with silken rings of drifted snow.

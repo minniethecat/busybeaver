@@ -1,58 +1,47 @@
 ---
+description: "Wollstonecraft's sustained critique of women's preoccupation with dress as a socially constructed diversion, not a natural female inclination — arising from the want of mental cultivation and the restricted sphere in which women are forced to operate."
 id: dress
-label: Dress
+label: "Dress"
+tags: ["concept"]
 type: concept
-description: "Wollstonecraft's critique of women's excessive concern with dress and appearance as a symbol of feminine subordination and a consequence of degraded education"
-tags: ["gender-critique", "social-critique", "education"]
 ---
 
 # Dress
 
-In Wollstonecraft's framework, dress is not merely clothing but a symbol of women's subordination — a preoccupation cultivated by a society that educates women to value appearance over intellect, surface over substance, and the "frippery of dress" over the cultivation of reason.
-
 ## Definition
 
-Wollstonecraft uses "dress" as a metonym for the entire system of ornamental femininity that reduces women to decorative objects.
+**Dress** and female ornamentation receive sustained critical attention in Wollstonecraft's work, not as trivial matters of fashion but as a diagnostic sign of the deeper problem of women's restricted education. She argues that the "fondness for dress, conspicuous in women" [003-014] is not a natural female inclination but a socially constructed consequence of denying women access to more meaningful pursuits. When the mind is not cultivated, the body becomes the primary site of ambition and expression. This argument inverts the conventional wisdom of her time, which treated women's interest in dress as evidence of their natural frivolity.
 
-She identifies the "fondness for dress" as a learned behaviour, not an innate female trait (002-046).
+Wollstonecraft explicitly rejects the essentialist view that women are innately drawn to ornament. She traces the fondness for dress to the same cause as other feminine follies: "want of cultivation of mind" [013-052]. When women are excluded from business, politics, and literature, their energies have no outlet except the decoration of their persons. Dress thus becomes both a symptom and a reinforcement of women's subordination — a visible marker of the narrow sphere to which they have been confined.
 
-From infancy, girls are encouraged to value "dolls, dressing, and talking" over rational pursuits (003-015). The "fondness for dress, conspicuous in women" is thus "easily accounted for" as the product of early associations and narrow education (003-016).
+## In Context
 
-## Wollstonecraft's Argument
+In Chapter III, Wollstonecraft observes that girls develop a "fondness for dolls, dressing, and talking" [003-013] only because they are encouraged in these pursuits from infancy while being discouraged from more vigorous activities. She argues that this inclination "may easily be accounted for" by the different treatment of boys and girls [003-014], rather than by any innate difference in their dispositions.
 
-Wollstonecraft argues that the obsession with dress is both a cause and consequence of women's degraded condition. She observes that women "dress; they paint, and nickname God's creatures" (P03-012), reducing their sphere of activity to the purely ornamental. The "art of pleasing lies in dress; and this is all which children are taught" (005-008), ensuring that female education produces nothing beyond surface graces.
+In Chapter V, she engages critically with Rousseau's treatment of dress, noting how he makes parents address their daughters about the cultivation of taste in dress from earliest infancy [005-009]. The sustained critique in Chapter XIII is particularly pointed: "An immoderate fondness for dress, for pleasure and for sway, are the passions of savages" [013-056]. Here Wollstonecraft draws an anthropological parallel, comparing the condition of fashionable women to that of "uncivilized beings who have not yet extended the dominion of the mind" [013-056].
 
-The preoccupation with dress functions as a mechanism of social control. By channelling women's energies into the "manual part of their dress" (004-100), society prevents them from developing their rational faculties. Wollstonecraft contends that women are taught "only to dress and live to please" men (004-088), making dress the primary instrument of a system that values women solely for their ornamental function.
-
-She draws a sharp contrast between the triviality of dress culture and the substantive virtues that should define female character. "Beauty cannot be acquired by dress," she reminds her readers (005-030), yet women are systematically educated to pursue precisely these futile strategies. Wollstonecraft's critique extends to mothers who "dress [their children] in a costly manner" (004-059) rather than cultivating their minds.
-
-### Contrast with Contemporary Views
-
-Where Rousseau's Émile celebrates Sophie's careful attention to dress as natural feminine modesty — "Her dress is extremely modest in appearance" (005-034) — Wollstonecraft exposes this very modesty as a socially constructed performance. Rousseau has Sophie's parents "thus address her, accustomed to submission" (005-035), reinforcing the link between dress, obedience, and feminine subordination. For Wollstonecraft, Rousseau's idealisation of Sophie's dress is precisely the system she seeks to dismantle: a system where a woman's worth is measured by her appearance rather than by the "exercise of her understanding" (003-059).
+Wollstonecraft's key analytical move is to separate the physical from the moral: "the physical part of the art of pleasing consists in ornaments, and for that very reason I should guard girls against the contagious fondness for dress" [013-049] so that they do not rest in the physical part alone.
 
 ## Key Passages
 
-> "they dress; they paint, and nickname God's creatures." (P03-012)
+> "The fondness for dress, so extravagant in females, arises from the same cause — want of cultivation of mind." [013-052]
 
-> "a fondness for dress is natural to them, I do not contend; but I wish to shew that it is not natural" (002-046)
+> "In this manner may the fondness for dress, conspicuous in women, be easily accounted for, without supposing it the result of a natural propensity." [003-014]
 
-> "Women are every where in this deplorable state; for, in order to preserve their innocence, as ignorance is courteously termed, truth is hidden from them, and they are made to assume an artificial character before their faculties have acquired any strength. Taught from their infancy that beauty is woman's sceptre, the mind shapes itself to the body, and, roaming round its gilt cage, only seeks to adorn its prison." (002-019)
+> "An immoderate fondness for dress, for pleasure and for sway, are the passions of savages; the passions that occupy those uncivilized beings who have not yet extended the dominion of the mind." [013-056]
 
-> "the art of pleasing lies in dress; and this is all which children are taught" — paraphrasing the system Wollstonecraft critiques (005-008)
+> "I agree with Rousseau, that the physical part of the art of pleasing consists in ornaments, and for that very reason I should guard girls against the contagious fondness for dress so common to weak women, that they may not rest in the physical part." [013-049]
 
 ## Related Concepts
 
-- [[Appearance]] — the broader critique of surface valuation over substance
-- [[Beauty]] — the feminine ideal that dress culture serves
-- [[Accomplishments]] — ornamental skills contrasted with rational education
-- [[Coquetry]] — the art of attracting male attention through appearance
-- [[Modesty]] — Wollstonecraft distinguishes genuine modesty from the mere appearance of it
-- [[Ornament]] — women as decorative objects rather than rational beings
-- [[Vanity]] — the moral consequence of a dress-centred education
+- [[vanity]] — the moral vice that dress cultivates when it becomes the central object of female ambition
+- [[education]] — the proper cultivation of mind that would naturally displace the excessive attention to dress
+- [[beauty]] — the bodily attribute that dress is deployed to enhance, and which society overvalues in women
+- [[virtue]] — the quality that dress cannot produce and may in fact obstruct
+- [[ignorance]] — the root cause of the fondness for dress
+- [[weakness]] — the condition that excessive attention to dress both expresses and perpetuates
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose depiction of Sophie models the dress-centred feminine ideal Wollstonecraft critiques
-- [[Mary Wollstonecraft]] — the author's broader project of educational and social reform
-- [[Chapter-5]] — contains sustained engagement with Rousseau and Gregory on feminine accomplishments
-- [[Chapter-2]] — establishes the argument that women's character is socially constructed
+- [[Jean-Jacques Rousseau]] — whose views on female dress and ornament Wollstonecraft both cites and critiques
+- [[Jonathan Swift]] — whose observation on women's conversation about "lappets and ruffles" Wollstonecraft approvingly quotes [013-052]

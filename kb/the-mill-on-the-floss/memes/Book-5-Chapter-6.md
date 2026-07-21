@@ -1,0 +1,93 @@
+---
+description: "Three weeks later, when Dorlcote Mill was at its prettiest moment in all the year,—the great chestnuts in blossom, and the grass all deep and daisied,—Tom Tulli..."
+id: Book-5-Chapter-6
+label: "Chapter VI. The Hard-Won Triumph"
+tags: ["chapter"]
+type: chapter
+---
+
+[043-001] Three weeks later, when [[dorlcote-mill|Dorlcote Mill]] was at its prettiest moment in all the year,—the great chestnuts in blossom, and the grass all deep and daisied,—[[tom-tulliver|Tom Tulliver]] came home to it earlier than usual in the evening, and as he passed over the bridge, he looked with the old deep-rooted [[love|affection]] at the respectable red brick house, which always seemed cheerful and inviting outside, let the rooms be as bare and the hearts as sad as they might inside. There is a very pleasant light in Tom’s blue-gray eyes as he glances at the house-windows; that fold in his brow never disappears, but it is not unbecoming; it seems to imply a strength of will that may possibly be without harshness, when the eyes and mouth have their gentlest expression. His firm step becomes quicker, and the corners of his mouth rebel against the compression which is meant to forbid a smile.
+
+[043-002] The eyes in the parlour were not turned toward the bridge just then, and the group there was sitting in unexpectant silence,—Mr [[mr-tulliver|Tulliver]] in his arm-chair, tired with a long ride, and ruminating with a worn look, fixed chiefly on [[maggie-tulliver|Maggie]], who was bending over her sewing while her mother was making the tea.
+
+[043-003] They all looked up with surprise when they heard the well-known foot.
+
+[043-004] “Why, what’s up now, Tom?” said his father. “You’re a bit earlier than usual.”
+
+[043-005] “Oh, there was nothing more for me to do, so I came away. Well, mother!”
+
+[043-006] Tom went up to his mother and kissed her, a sign of unusual good-humour with him. Hardly a word or look had passed between him and Maggie in all the three weeks; but his usual incommunicativeness at home prevented this from being noticeable to their parents.
+
+[043-007] “Father,” said Tom, when they had finished tea, “do you know exactly how much money there is in the tin box?”
+
+[043-008] “Only a hundred and ninety-three pound,” said Mr Tulliver. “You’ve brought less o’ late; but young fellows like to have their own way with their money. Though I didn’t do as I liked before *I* was of age.” He spoke with rather timid discontent.
+
+[043-009] “Are you quite sure that’s the sum, father?” said Tom. “I wish you would take the trouble to fetch the tin box down. I think you have perhaps made a mistake.”
+
+[043-010] “How should I make a mistake?” said his father, sharply. “I’ve counted it often enough; but I can fetch it, if you won’t believe me.”
+
+[043-011] It was always an incident Mr Tulliver liked, in his gloomy life, to fetch the tin box and count the money.
+
+[043-012] “Don’t go out of the room, mother,” said Tom, as he saw her moving when his father was gone upstairs.
+
+[043-013] “And isn’t Maggie to go?” said Mrs Tulliver; “because somebody must take away the things.”
+
+[043-014] “Just as she likes,” said Tom indifferently.
+
+[043-015] That was a cutting word to Maggie. Her heart had leaped with the sudden conviction that Tom was going to tell their father the debts could be paid; and Tom would have let her be absent when that news was told! But she carried away the tray and came back immediately. The feeling of injury on her own behalf could not predominate at that moment.
+
+[043-016] Tom drew to the corner of the table near his father when the tin box was set down and opened, and the red evening light falling on them made conspicuous the worn, sour gloom of the dark-eyed father and the suppressed joy in the face of the fair-complexioned son. The mother and Maggie sat at the other end of the table, the one in blank patience, the other in palpitating expectation.
+
+[043-017] Mr Tulliver counted out the money, setting it in order on the table, and then said, glancing sharply at Tom:
+
+[043-018] “There now! you see I was right enough.”
+
+[043-019] He paused, looking at the money with bitter despondency.
+
+[043-020] “There’s more nor three hundred wanting; it’ll be a fine while before *I* can save that. Losing that forty-two pound wi’ the corn was a sore job. This world’s been too many for me. It’s took four year to lay *this* by; it’s much if I’m above ground for another four year. I must trusten to you to pay ’em,” he went on, with a trembling voice, “if you keep i’ the same mind now you’re coming o’ age. But you’re like enough to bury me first.”
+
+[043-021] He looked up in Tom’s face with a querulous desire for some assurance.
+
+[043-022] “No, father,” said Tom, speaking with energetic decision, though there was tremor discernible in his voice too, “you will live to see the debts all paid. You shall pay them with your own hand.”
+
+[043-023] His tone implied something more than mere hopefulness or resolution. A slight electric shock seemed to pass through Mr Tulliver, and he kept his eyes fixed on Tom with a look of eager inquiry, while Maggie, unable to restrain herself, rushed to her father’s side and knelt down by him. Tom was silent a little while before he went on.
+
+[043-024] “A good while ago, my uncle Glegg lent me a little money to trade with, and that has answered. I have three hundred and twenty pounds in the bank.”
+
+[043-025] His mother’s arms were round his neck as soon as the last words were uttered, and she said, half crying:
+
+[043-026] “Oh, my boy, I knew you’d make iverything right again, when you got a man.”
+
+[043-027] But his father was silent; the flood of emotion hemmed in all power of speech. Both Tom and Maggie were struck with fear lest the shock of joy might even be fatal. But the blessed relief of tears came. The broad chest heaved, the muscles of the face gave way, and the gray-haired man burst into loud sobs. The fit of weeping gradually subsided, and he sat quiet, recovering the regularity of his breathing. At last he looked up at his wife and said, in a gentle tone:
+
+[043-028] “[[mrs-tulliver|Bessy]], you must come and kiss me now—the lad has made you amends. You’ll see a bit o’ comfort again, belike.”
+
+[043-029] When she had kissed him, and he had held her hand a minute, his thoughts went back to the money.
+
+[043-030] “I wish you’d brought me the money to look at, Tom,” he said, fingering the sovereigns on the table; “I should ha’ felt surer.”
+
+[043-031] “You shall see it to-morrow, father,” said Tom. “My uncle Deane has appointed the creditors to meet to-morrow at the Golden Lion, and he has ordered a dinner for them at two o’clock. My uncle Glegg and he will both be there. It was advertised in the ‘Messenger’ on Saturday.”
+
+[043-032] “Then [[lawyer-wakem|Wakem]] knows on’t!” said Mr Tulliver, his eye kindling with triumphant fire. “Ah!” he went on, with a long-drawn guttural enunciation, taking out his snuff-box, the only luxury he had left himself, and tapping it with something of his old air of defiance. “I’ll get from under *his* thumb now, though I *must* leave the old mill. I thought I could ha’ held out to die here—but I can’t——we’ve got a glass o’ nothing in the house, have we, Bessy?”
+
+[043-033] “Yes,” said Mrs Tulliver, drawing out her much-reduced bunch of keys, “there’s some brandy sister Deane brought me when I was ill.”
+
+[043-034] “Get it me, then; get it me. I feel a bit weak.”
+
+[043-035] “Tom, my lad,” he said, in a stronger voice, when he had taken some brandy-and-water, “you shall make a speech to ’em. I’ll tell ’em it’s you as got the best part o’ the money. They’ll see I’m honest at last, and ha’ got an honest son. Ah! Wakem ’ud be fine and glad to have a son like mine,—a fine straight fellow,—i’stead o’ that poor crooked creatur! You’ll prosper i’ the world, my lad; you’ll maybe see the day when Wakem and his son ’ull be a round or two below you. You’ll like enough be ta’en into partnership, as your uncle Deane was before you,—you’re in the right way for’t; and then there’s nothing to hinder your getting rich. And if ever you’re rich enough—mind this—try and get th’ old mill again.”
+
+[043-036] Mr Tulliver threw himself back in his chair; his mind, which had so long been the home of nothing but bitter discontent and foreboding, suddenly filled, by the magic of joy, with visions of good fortune. But some subtle influence prevented him from foreseeing the good fortune as happening to himself.
+
+[043-037] “Shake hands wi’ me, my lad,” he said, suddenly putting out his hand. “It’s a great thing when a man can be proud as he’s got a good son. I’ve had *that* luck.”
+
+[043-038] Tom never lived to taste another moment so delicious as that; and Maggie couldn’t help forgetting her own grievances. Tom *was* good; and in the sweet humility that springs in us all in moments of true admiration and gratitude, she felt that the faults he had to pardon in her had never been redeemed, as his faults were. She felt no jealousy this evening that, for the first time, she seemed to be thrown into the background in her father’s mind.
+
+[043-039] There was much more talk before bedtime. Mr Tulliver naturally wanted to hear all the particulars of Tom’s trading adventures, and he listened with growing excitement and delight. He was curious to know what had been said on every occasion; if possible, what had been thought; and [[bob-jakin|Bob Jakin]]’s part in the business threw him into peculiar outbursts of sympathy with the triumphant knowingness of that remarkable packman. Bob’s juvenile history, so far as it had come under Mr Tulliver’s [[education|knowledge]], was recalled with that sense of astonishing promise it displayed, which is observable in all reminiscences of the childhood of great men.
+
+[043-040] It was well that there was this interest of narrative to keep under the vague but fierce sense of triumph over Wakem, which would otherwise have been the channel his joy would have rushed into with dangerous force. Even as it was, that feeling from time to time gave threats of its ultimate mastery, in sudden bursts of irrelevant exclamation.
+
+[043-041] It was long before Mr Tulliver got to sleep that night; and the sleep, when it came, was filled with vivid dreams. At half-past five o’clock in the morning, when Mrs Tulliver was already rising, he alarmed her by starting up with a sort of smothered shout, and looking round in a bewildered way at the walls of the bedroom.
+
+[043-042] “What’s the matter, Mr Tulliver?” said his wife. He looked at her, still with a puzzled expression, and said at last:
+
+[043-043] “Ah!—I was dreaming—did I make a noise?—I thought I’d got hold of him.”

@@ -1,67 +1,54 @@
 ---
+description: Wollstonecraft's conception of freedom as the capacity for rational self-governance, distinct from the lawless license that passes for liberty in an unjust social order.
 id: freedom
 label: Freedom
+tags: []
 type: concept
-description: "Wollstonecraft's concept of freedom as rational self-governance — a condition incompatible with the subordination of women, requiring the cultivation of reason and virtue, and sharply distinguished from the lawless indulgence which passes for freedom in a degraded society"
-tags: ["reason", "virtue", "independence", "politics", "gender"]
 ---
-
-**Freedom** is, for Wollstonecraft, not the mere absence of constraint but the positive capacity for rational self-governance. It is inseparable from virtue, from reason, and — crucially — from the education that makes both possible. Throughout the *Vindication*, she insists that women cannot be free in any meaningful sense so long as they are denied the cultivation of their rational faculties: "unless freedom strengthen her reason till she comprehend her duty" (P02-007), a woman's apparent liberty is merely the liberty to be frivolous.
-
-Wollstonecraft distinguishes sharply between what she calls "rational freedom" (011-014) and the counterfeit freedom that consists in the absence of external restraint without the internal government of reason. The latter, which she associates with the fashionable woman who does as she pleases without understanding why, is "not rational freedom, but a lawless kind of power" (011-014) — a formulation that captures her conviction that true freedom is not the power to act on any inclination but the power to act on principle.
 
 ## Definition
 
-Wollstonecraft's conception of freedom is grounded in the Enlightenment tradition of autonomy — the idea that to be free is to be governed by laws one has given to oneself through the exercise of reason. The free person is the person whose actions express her own rational judgment rather than the will of another. This is why "freedom strengthen[s] her reason" (P02-007): the exercise of freedom and the exercise of reason are mutually reinforcing, because freedom without reason is licence, and reason without freedom is mere speculation.
+In _A Vindication of the Rights of Woman_, freedom is defined not as the absence of restraint — which Wollstonecraft associates with the "lawless kind of power" enjoyed by tyrants and their favourites — but as the capacity for rational self-governance. True freedom consists in the ability to govern one's own conduct by reason rather than by appetite, convention, or the will of another. This conception aligns Wollstonecraft with the republican tradition that defines liberty as non-domination rather than mere non-interference.
 
-The theological dimension is important. "Whose service is perfect freedom" (006-020) — Wollstonecraft quotes the Book of Common Prayer to make the point that submission to God's will is not a limitation of freedom but its highest expression, because God's will is perfectly rational. By analogy, submission to the "authority of reason" is not a surrender of freedom but its realisation. The problem with human authority is that it demands submission without offering rational grounds; divine authority, by contrast, is coextensive with reason itself.
+## In Context
 
-Crucially, freedom is social as well as individual. "The only security of public freedom and universal happiness" (P02-018) requires that the principles of justice be applied universally — and this means, for Wollstonecraft, that women must be included in the circle of those who are free. A society in which half the population is systematically denied the conditions of freedom cannot itself be free.
+Wollstonecraft distinguishes sharply between freedom and license throughout the Vindication. She observes that women may appear to enjoy considerable liberty in eighteenth-century society — they are flattered, deferred to, and exempted from many duties — but this apparent liberty is in fact a sophisticated form of subjection. Women are free only within the narrow bounds of pleasing men; they exercise "not rational freedom, but a lawless kind of power resembling the authority exercised by the favourites of absolute monarchs" [011-015].
 
-## Wollstonecraft's Argument
+This analogy between women's condition and political tyranny is central to Wollstonecraft's argument. Just as the courtier who enjoys the monarch's favour is not free — because his status depends entirely on continued pleasing — so the woman who governs by charm and coquetry is not free. She has traded rational autonomy for the precarious power of the favourite.
 
-The central thread of Wollstonecraft's argument about freedom is that women have been "bartered" (001-011) out of their freedom by a system that offers them protection and pleasure in exchange for their rational autonomy. "The freedom which has been bartered for splendid slavery" (001-011) is the freedom that women have surrendered in exchange for the security of male protection — a bargain that Wollstonecraft regards as disastrous for both sexes.
+Wollstonecraft's positive account of freedom is demanding: freedom requires education, because one cannot govern oneself by reason without having developed the capacity to reason. It requires virtue, because freedom without moral purpose degenerates into selfishness. And it requires independence — not in the sense of isolation, but in the sense of not being dependent on the arbitrary will of another for one's security and standing.
 
-The argument is developed through a contrast between the freedom of men and the condition of women. Men, she observes, "contend for their freedom" (P02-011) in the political sphere, demanding the right to judge for themselves in matters of governance. Yet the same men who insist on their own political freedom deny it to their wives and daughters in the domestic sphere. The inconsistency is glaring: if freedom is a human right grounded in the capacity for reason, then women possess it as fully as men.
+### Freedom and the State of Dependence
 
-Wollstonecraft also connects freedom to virtue in a way that is distinctive and demanding. Freedom is not merely a right but a responsibility: to be free is to be answerable for one's own character. Women who have been "rendered weak and wretched" (002-083) by the denial of freedom are not morally culpable for their condition, but the restoration of their freedom requires them to "labour by reforming themselves to reform the world" (003-030) — freedom is not given; it must be exercised.
+Wollstonecraft identifies dependence — economic, legal, and psychological — as the structural obstacle to women's freedom. The woman who must marry to secure her material existence, who has no independent legal standing, and who has been educated to value the approval of others above her own judgment, cannot meaningfully be described as free. "Subordination and rigid education" have produced a condition in which women "barter" their freedom for the precarious protection of men [001-024]. This is not freedom but a transaction — and a bad one, since what is surrendered (autonomy, dignity, the capacity for moral growth) is worth far more than what is received.
 
-The metaphor of air recurs throughout the *Vindication*: women must breathe "the sharp invigorating air of freedom" (002-083) if they are to develop the strength of character that virtue requires. Confined to the hothouse atmosphere of the drawing-room, they "languish like exotics" (002-083) — beautiful but incapable of bearing the weight of moral responsibility. The image is one of Wollstonecraft's most powerful condensations of her argument: freedom is not a luxury but a necessity of moral life.
+> "Subordination and rigid education, in a great measure, have produced the unsightly ignorance, and the freedom which has been bartered for splendid slavery." [001-024]
 
-### Contrast with Contemporary Views
+Wollstonecraft's use of the phrase "splendid slavery" is telling: the adornments of wealth and status that accompany women's dependent condition — fine clothes, gallant attention, social prestige — are not evidence of freedom but the gilded chains that make bondage tolerable. True freedom would require women to give up these compensations — a trade that Wollstonecraft acknowledges is psychologically difficult but morally necessary.
 
-The eighteenth-century discourse of freedom was dominated by the republican tradition of "public liberty" — the freedom of the citizen to participate in self-government — and the Lockean tradition of "natural freedom" — the freedom of the individual in the state of nature. Both traditions, Wollstonecraft observes, had been applied almost exclusively to men.
+### Freedom and the French Revolution
 
-Rousseau's treatment of freedom in *The Social Contract* — "man is born free, and everywhere he is in chains" — is the most famous statement of the period. But Rousseau's freedom is emphatically male: women, in his view, are born to be governed, and their freedom consists in willingly submitting to the governance of men. Wollstonecraft's response is that a freedom that can only be exercised by half the human species is not freedom at all but a "lawless kind of power" (011-014) — the power of the strong over the weak, disguised in the language of rights.
+Wollstonecraft wrote the Vindication in the context of the French Revolution's debates about the rights of man, and she explicitly connects women's freedom to the broader revolutionary struggle. "When men contend for their freedom, and to be allowed to judge for themselves respecting their own happiness," she asks pointedly, is it not inconsistent to deny women the same right [P02-009]? Her argument is that freedom is indivisible: a society that claims to value liberty while denying it to half its members is not a free society but a tyranny with a constitution. The only "security of public freedom and universal happiness" is a genuine commitment to universal rights [P02-014].
 
-The radical implications of Wollstonecraft's position become clear when she connects the freedom of women to "public freedom" (P02-018): the health of the body politic depends on the virtue of its citizens, and the virtue of its citizens depends on their freedom. A society that denies freedom to women is not merely unjust to women; it is, in the long run, undermining its own foundations.
+> "When men contend for their freedom, and to be allowed to judge for themselves respecting their own happiness, is it not inconsistent and unjust to subjugate women?" [P02-009]
 
 ## Key Passages
 
-> Unless freedom strengthen her reason till she comprehend her duty, she will never be able to act with judgment. (P02-007)
+> "It is not rational freedom, but a lawless kind of power, resembling the authority exercised by the favourites of absolute monarchs, which they obtain by debasing means." [011-015]
 
-> They have bartered the freedom which has been bartered for splendid slavery. (001-011)
+> "Strengthen the female mind by enlarging it, and there will be an end to blind obedience; but, as blind obedience is ever sought for by power, tyrants and sensualists are in the right when they endeavour to keep women in the dark, because the former only want slaves, and the latter a plaything." [002-038]
 
-> Subordination and rigour are incompatible with freedom; because subordination and rigour debase the mind, and the debased mind is incapable of freedom. (001-026)
-
-> Let woman share the rights, and she will emulate the virtues of man. (013-079)
+> "Subordination and rigid education, in a great measure, have produced the unsightly ignorance, and the freedom which has been bartered for splendid slavery." [001-024]
 
 ## Related Concepts
 
-- [[Authority]] — the force that freedom, properly understood, must resist or transform
+- [[liberty]] — closely related; liberty is the political and social condition that enables freedom
+- [[reason]] — the instrument of genuine freedom; one cannot be free without the capacity to reason
+- [[virtue]] — freedom without virtue is mere license
+- [[despotism]] — the political form of unfreedom that Wollstonecraft sees mirrored in domestic relations
+- [[independence]] — the social precondition of freedom; dependence on another's arbitrary will is unfreedom
 
-- [[Reason]] — the faculty without which freedom degenerates into licence
+## Related Persons
 
-- [[Virtue]] — what freedom makes possible and what, in turn, sustains freedom
-
-- [[Independence]] — the social condition of freedom
-
-- [[Equality]] — the principle that grounds the claim of women to the same freedom as men
-
-## See Also
-
-- [[Mary Wollstonecraft]] — whose feminism centres on the demand for women's rational freedom
-
-- [[Jean-Jacques Rousseau]] — whose influential theory of freedom explicitly excludes women
-
-- [[French Revolution]] — the political context in which Wollstonecraft wrote, and whose promise of freedom she sought to extend to women
+- [[jean-jacques-rousseau]] — whose celebration of the state of nature Wollstonecraft critiques as mistaking license for freedom
+- [[charles-maurice-de-talleyrand-perigord]] — addressee of the Vindication; his report on public education exemplifies the denial of freedom to women

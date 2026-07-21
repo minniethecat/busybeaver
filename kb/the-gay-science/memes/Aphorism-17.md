@@ -1,0 +1,34 @@
+---
+description: ""
+id: Aphorism-17
+label: "Aphorism 17"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book I
+
+### 17.
+
+### 17.
+
+
+*Motivation of Poverty.*—We cannot, to be sure, by
+
+any artifice make a rich and richly-flowing virtue
+
+out of a poor one, but we can gracefully enough
+
+reinterpret its poverty into necessity, so that its
+
+aspect no longer gives pain to us, and we do not
+
+make any reproachful faces at fate on account of it.
+
+It is thus that the wise gardener does, who puts the
+
+tiny streamlet of his garden into the arms of a
+
+fountain-nymph, and thus motivates the poverty:—and
+
+who would not like him need the nymphs!

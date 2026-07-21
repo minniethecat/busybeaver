@@ -1,0 +1,13 @@
+---
+description: "II. THE FIRST CLOTHES (Continuation and End)"
+id: II-THE-FIRST-CLOTHES-Continuation-and-End
+label: "II. THE FIRST CLOTHES (Continuation and End)"
+tags: ["chapter"]
+type: chapter
+---
+
+# II. THE FIRST CLOTHES (Continuation and End)
+
+[012-001]The holy [[saint-mael|Maël]] felt a profound sadness that the first clothes put upon a daughter of [[alca|Alca]] should have betrayed the penguin modesty instead of helping it. He persisted, none the less, in his design of giving clothes to the inhabitants of the miraculous island. Assembling them on the shore, he distributed to them the garments that the monks of Yvern had brought. The male penguins received short tunics and breeches, the female penguins long robes. But these robes were far from creating the effect that the former one had produced. They were not so beautiful, their shape was uncouth and without art, and no attention was paid to them since every woman bad one. As they prepared the meals and worked in the fields they soon had nothing but slovenly bodices and soiled petticoats.
+
+[012-002]The male penguins loaded their unfortunate consorts with work until they looked like beasts of burden. They knew nothing of the troubles of the heart and the disorders of passion. Their habits were innocent. Incest, though frequent, was a sign of rustic simplicity and if drunkenness led a youth to commit some such crime he thought nothing more about it the day afterwards.

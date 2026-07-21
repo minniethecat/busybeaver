@@ -1,0 +1,20 @@
+---
+description: "Act IV, Scene II"
+id: act-4-scene-2
+label: "Act IV, Scene II"
+tags: ["chapter", "scene"]
+type: "chapter"
+---
+
+[033-001]Enter **[[ivan-khlestakov|Khlestakov]]**, looking sleepy.
+
+::: table pn=033-002
+
+|  |  |
+
+| --- | --- |
+
+| Khlestakov | *Alone.* I seem to have had a fine snooze. Where did they get those mattresses and feather beds from? I even perspired. After the meal yesterday they must have slipped something into me that knocked me out. I still feel a pounding in my head. I see I can have a good time here. I like hospitality, and I must say I like it all the more if people entertain me out of a pure heart and not from interested motives. The Governor’s daughter is not a bad one at all, and the mother is also a woman you can still—I don’t know, but I do like this sort of life. |
+
+<!-- -->
+:::

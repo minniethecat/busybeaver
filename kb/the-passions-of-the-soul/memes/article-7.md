@@ -1,0 +1,11 @@
+---
+description: "Article 7 of The Passions of the Soul — Part I"
+id: article-7
+label: "7. A brief account of the parts of the body and some of its functions"
+tags: ["part-i"]
+type: chapter
+---
+
+# Article 7: A brief account of the parts of the body and some of its functions
+
+[007-001] To make this more intelligible I shall explain in a few words the over-all structure of our body’s machine. Everyone knows that we contain a heart, brain, stomach, muscles, nerves, arteries, veins, and the like. We know too that the food we eat goes down to the stomach and bowels, from where its juices flow into the liver and all the veins, mixing with the blood in the veins and thus increasing its quantity. Those who have heard anything about medicine also know •how the heart is constructed and •how the blood in the veins can flow easily from the vena cava into its right-hand side, from there into the lungs through the arterial vein, then back to the heart through the venous artery running to its left-hand side, and finally from there into the great artery, whose branches spread through the whole body. Likewise anyone who hasn’t been completely blinded by the authority of the ancients, and has been willing to open his eyes to examine Harvey’s view about the circulation of the blood, will be sure that the body’s veins and arteries are like streams through which the blood constantly rushes. [[[rene-descartes]] now repeats what he said above about blood-flow to and from the heart. Then:] The two cavities of the heart are thus like sluices through which all the blood passes upon each circuit through the body. It is also ·generally· known that every movement of the limbs depends on the muscles, which are organised into opposing pairs: when a muscle x becomes shorter, it pulls on the part of the body to which it is attached, and that lengthens the other member of the pair y. Then, if later on y happens to shorten, it makes x lengthen again. . . . Finally, it is ·generally· known that all these movements of the muscles, and likewise all sensations, depend on the nerves, which are like little threads or tubes coming from the brain and containing a certain very fine air or wind that is called the ‘animal spirits’. [see Glossary] The brain contains animal spirits too.

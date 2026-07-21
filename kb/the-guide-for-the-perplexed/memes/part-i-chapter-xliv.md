@@ -1,0 +1,11 @@
+---
+description: "Part I, Chapter XLIV of Le Guide des Egares by Maimonides"
+id: part-i-chapter-xliv
+label: "Part I, Chapter XLIV"
+tags: ["chapter"]
+type: chapter
+---
+
+<!-- page: Page 154 -->
+
+[042-001]iîi PREMIÈRE PARTIE. — CHAP. XXXIV. r Étemel appelle (0, la perfection, qui est le dernier but, ne leur sera véritablement acquise qu'après les études préparatoires. Salomon déjà a déclaré que les études préparatoires sont absolument nécessaires, et qu'il est impossible de parvenir à la véritable sagesse , si ce n'est après s'être exercé ; il a dit : Si le fer est émoussé et qu'il n'ait pas les faces polies, vaincra-t4l des armées? mais il faut encore plus de préparation pour {acquérir) la sagesse (Ecclésiaste, X, 10) C^); et il a dit encore: Écoute le conseil et reçois V instruction, afin que tu deviennes sage à ta fin (Prov.,XIX, 20). Ce qui encore nécessite l'acquisition des connaissances préparatoires, c'est qu'une foule de doutes se présentent promptement à l'homme pendant l'étude , et qu'il comprend avec une égale promptitude les objections , je veux dire comment on peut réfuter certaines assertions, — car il en est de cela comme de la démolition d'un édifice (3), — tandis qu'on ne peut bien affermir les assertions ni résoudre les doutes , si ce n'est au moyen de nombreux principes puisés dans ces connaissances préparatoires. Celui donc qui aborde la spéculation sans une étude préparatoire est comme quelqu'un qui, courant à toutes jambes pour arriver à un endroit, tombe, chemin faisant, dans un puits profond d'où il n'a aucun moyen de sortir, de sorte qu'il meurt; s'il s'était abstenu de courir et qu'il fut resté à sa place, il aurait certainement mieux fait. Salomon, dans les Proverbes, a longuement décrit les manières des paresseux et leur incapacité , et tout cela est une allégorie sur l'incapacité de chercher la [[knowledge|science]] ; parlant de celui qui désire arriver aux derniers termes (de la science), et qui, sans (1) C'est-à-dire , le petit nombre des élus ; ces paroles sont tirées du livre de Joël, chap. III, v. 5. (2) Nous avons traduit ce verset daiis le sens que Maïmonide paraît lui attribuer. (3) L'auteur veut dire que les doutes et les objections se présentent promptement à l'esprit , de même que la démolition d'un édifice, construit avec beaucoup de peine, s'opère racilcmeiU et avec promptitude.

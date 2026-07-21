@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-286
+label: "Aphorism 286"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 286.
+
+### 286.
+
+
+*A Digression.*—Here are hopes; but what will
+
+you see and hear of them, if you have not experienced
+
+glance and glow and dawn of day in your
+
+own souls? I can only suggest—I cannot do more!
+
+To move the stones, to make animals men—would
+
+you have me do that? Alas, if you are yet stones
+
+and animals, seek first your Orpheus!

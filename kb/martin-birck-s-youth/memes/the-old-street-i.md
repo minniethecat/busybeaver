@@ -1,0 +1,15 @@
+---
+description: "Martin Birck was a little child, who lay in his bed and dreamed."
+id: the-old-street-i
+label: "The Old Street, I"
+tags: ["chapter"]
+type: chapter
+---
+
+[001-001] [[martin-birck|Martin Birck]] was a little [[childhood-in-martin-birck|child]], who lay in his bed and dreamed.
+
+[001-002] It was twilight of a summer evening, a green and tranquil twilight, and Martin went holding his mother's hand through a big and marvelous garden where the shadows lay dark in the recesses of the walks. On both sides grew strange blue and red flowers, swaying back and forth in the wind on their slender stalks. He went along holding his mother's hand, looking at the flowers in wonder and thinking of nothing. "You must pick only the blue ones; the red ones are poisonous," said his mother. Then he let go her hand and stopped to pick a flower for her; it was a big blue flower he wanted to pick, as it nodded heavily, poised on its stem. Such a marvelous flower! He looked at it and smelled it. And again he looked at it with big astonished eyes; it wasn't blue, after all, but red. It was quite red! And such an ugly, poisonous red! He threw the naughty flower on the ground and trampled on it as on a dangerous animal. But then, when he turned around, his mother was gone. "Mamma," he cried, "where are you? Where are you? Why are you hiding from me?" Martin ran a little way down the walk, but he saw no one and he was near to weeping. The walk was silent and empty, and it was getting darker and darker. At last he heard a voice quite near: "Here I am, Martin. Don't you see me?" But Martin saw nothing. "Here I am all the [[time-in-martin-birck|time]]. Why don't you come?" Now Martin understood: behind the lilac bush, that was where the voice came from. Why hadn't he realized that at once? He ran there and peeped; he was sure his mother had hidden there. But behind the bush stood [[franz|Franz from the Long Row]], making an ugly face with his thick, raw-looking lips, till he finished by sticking out his tongue as far as he could. And such a tongue as he had; it got longer and longer; there was no end to it; and it was covered with little yellowish-green blisters.
+
+[001-003] Franz was a little rowdy who lived in the "[[long-row|Long Row]]" slantwise across [[martin-bircks-neighborhood|the street]]. The Sunday before he had spat on Martin's new brown jacket and called him "stuck-up."
+
+[001-004] Martin wanted to run away, but stood as if rooted to the earth. He felt his legs grow numb beneath him. Then the garden and the flowers and the trees had vanished and he was standing alone with Franz in a dark corner of the yard at [[home-in-martin-birck|home]] by the ash barrel. He tried to scream, but his throat was constricted.﻿ ﻿...

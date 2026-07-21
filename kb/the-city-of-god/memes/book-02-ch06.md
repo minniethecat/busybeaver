@@ -1,0 +1,11 @@
+---
+description: "That the gods of the pagans never inculcated holiness of life."
+id: book-02-ch06
+label: "Book 2 — Ch. 6: VI"
+tags: ["chapter"]
+type: chapter
+---
+
+[045-001]That the gods of the pagans never inculcated holiness of life.
+
+[045-002]This is the reason why those divinities quite neglected the lives and morals of the cities and nations who worshipped them, and threw no dreadful prohibition in their way to hinder them from becoming utterly corrupt, and to preserve them from those terrible and detestable evils which visit not harvests and vintages, not house and possessions, not the body which is subject to the soul, but the soul itself, the spirit that rules the whole man. If there was any such prohibition, let it be produced, let it be proved. They will tell us that purity and probity were inculcated upon those who were initiated in the mysteries of religion, and that secret incitements to virtue were whispered in the ear of the élite; but this is an idle boast. Let them show or name to us the places which were at any time consecrated to assemblages in which, instead of the obscene songs and licentious acting of players, instead of the celebration of those most filthy and shameless Fugalia90 (well called Fugalia, since they banish modesty and right feeling), the people were commanded in the name of the gods to restrain avarice, bridle impurity, and conquer ambition; where, in short, they might learn in that school which Persius vehemently lashes them to, when he says: “Be taught, ye abandoned creatures, and ascertain the causes of things; what we are, and for what end we are born; what is the law of our success in life, and by what art we may turn the goal without making shipwreck; what limit we should put to our wealth, what we may lawfully desire, and what uses filthy lucre serves; how much we should bestow upon our country and our family; learn, in short, what God meant thee to be, and what place He has ordered you to fill.”91 Let them name to us the places where such instructions were wont to be communicated from the gods, and where the people who worshipped them were accustomed to resort to hear them, as we can point to our churches built for this purpose in every land where the Christian religion is received.

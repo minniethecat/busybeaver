@@ -1,0 +1,79 @@
+---
+description: "V. THE PRINCE DES BOSCÉNOS"
+id: V-THE-PRINCE-DES-BOSCÉNOS
+label: "V. THE PRINCE DES BOSCÉNOS"
+tags: ["chapter"]
+type: chapter
+---
+
+# V. THE PRINCE DES BOSCÉNOS
+
+[042-001]Morning and evening the newspapers that had been bought by the Dracophils proclaimed Chatillon’s praises and hurled shame and opprobrium upon the Ministers of the Republic. Chatillon’s portrait was sold through the streets of [[alca|Alca]]. Those young descendants of Remus who carry plaster figures on their heads, offered busts of Chatillon for sale upon the bridges.
+
+[042-002]Every evening Chatillon rode upon his white horse round the Queen’s Meadow, a place frequented by the people of fashion. The Dracophils posted along the Emiral’s route a crowd of needy Penguins who kept shouting: “It is Chatillon we want.” The middle classes of Alca conceived a profound admiration for the Emiral. Shopwomen murmured: “He is good-looking.” Women of fashion slackened the speed of their motor-cars and kissed hands to him as they passed, amidst the hurrahs of an enthusiastic populace.
+
+[042-003]One day, as he went into a tobacco shop, two Penguins who were putting letters in the box recognized Chatillon and cried at the top of their voices: “Hurrah for the Emiral! Down with the Republicans.” All those who were passing stopped in front of the shop. Chatillon lighted his cigar before the eyes of a dense crowd of frenzied citizens who waved their hats and cheered. The crowd kept increasing, and the whole town, singing and marching behind its hero, went back with him to the Admiralty.
+
+[042-004]The Emiral had an old comrade in arms, Under-Emiral Vulcanmould, who had served with great distinction, a man as true as gold and as loyal as his sword. Vulcanmould plumed himself on his thoroughgoing independence and he went among the partisans of Crucho and the Minister of the Republic telling both parties what he thought of them. M. Bigourd maliciously declared that he told each party what the other party thought of it. In truth he had on several occasions been guilty of regrettable indiscretions, which were overlooked as being the freedoms of a soldier who knew nothing of intrigue. Every morning he went to see Chatillon, whom he treated with the cordial roughness of a brother in arms.
+
+[042-005]“Well, old buffer, so you are popular,” said he to him. “Your phiz is sold on the heads of pipes and on liqueur bottles and every drunkard in Alca spits out your name as he rolls in the gutter. . . . Chatillon, the hero of the Penguins! Chatillon, defender of the Penguin glory! . . . Who would have said it? Who would have thought it?”
+
+[042-006]And he laughed with his harsh laugh. Then changing his tone: “But, joking aside, are you not a bit surprised at what is happening to you?”
+
+[042-007]“No, indeed,” answered Chatillon.
+
+[042-008]And out went the honest Vulcanmould, banging the door behind him.
+
+[042-009]In the mean time Chatillon had taken a little flat at number 18 Johannes-Talpa Street, so that he might receive Viscountess Olive. They met there every day. He was desperately in love with her. During his martial and neptunian life he had loved crowds of women, red, black, yellow, and white, and some of them had been very beautiful. But before he met the Viscountess he did not know what a woman really was. When the Viscountess Olive called him her darling, her dear darling, he felt in heaven and it seemed to him that the stars shone in her hair.
+
+[042-010]She would come a little late, and, as she put her bag on the table, she would ask pensively:
+
+[042-011]“Let me sit on your knee.”
+
+[042-012]And then she would talk of subjects suggested by the pious [[father-agaric|Agaric]], interrupting the conversation with sighs and kisses. She would ask him to dismiss such and such an officer, to give a command to another, to send the squadron here or there. And at the right moment she would exclaim:
+
+[042-013]“How young you are, my dear!”
+
+[042-014]And he did whatever she wished, for he was simple, he was anxious to wear the Constable’s sword, and to receive a large grant; he did not dislike playing a double part, he had a vague idea of saving Penguinia, and he was in love.
+
+[042-015]This delightful woman induced him to remove the troops that were at La Cirque, the port where Crucho was to [[property|land]]. By this means it was made certain that there would be no obstacle to prevent the prince from entering Penguinia.
+
+[042-016]The pious Agaric organised public meetings so as to keep up the agitation. The Dracophils held one or two every day in some of the thirty-six districts of Alca, and preferably in the poorer quarters. They desired to win over the poor, for they are the most numerous. On the fourth of May a particularly fine meeting was held in an old cattle-market, situated in the centre of a populous suburb filled with housewives sitting on the doorsteps and children playing in the gutters. There were present about two thousand people, in the opinion of the Republicans, and six thousand according to the reckoning of the Dracophils. In the audience was to be seen the flower of Penguin [[civilization|society]], including Prince and Princess des Boscénos, Count Cléna, M. de La Trumelle, M. Bigourd, and several rich Jewish ladies.
+
+[042-017]The Generalissimo of the national army had come in uniform. He was cheered.
+
+[042-018]The committee had been carefully formed. A man of the people, a workman, but a man of sound principles, M. Rauchin, the secretary of the yellow syndicate, was asked to preside, supported by Count Cléna and M. Michaud, a butcher.
+
+[042-019]The government which Penguinia had freely given itself was called by such names as cesspool and drain in several eloquent speeches. But President Formose was spared and no mention was made of Crucho or the priests.
+
+[042-020]The meeting was not unanimous. A defender of the modern State and of the Republic, a manual labourer, stood up.
+
+[042-021]“Gentlemen,” said M. Rauchin, the chairman, “we have told you that this meeting would not be unanimous. We are not like our opponents, we are honest men. I allow our opponent to speak. Heaven knows what you are going to hear. Gentlemen, I beg of you to restrain as long as you can the expression of your contempt, your disgust, and your indignation.”
+
+[042-022]“Gentlemen,” said the opponent. . . .
+
+[042-023]Immediately he was knocked down, trampled beneath the feet of the indignant crowd, and his unrecognisable remains thrown out of the hall.
+
+[042-024]The tumult was still resounding when Count Cléna ascended the tribune. Cheers took the place of groans and when silence was restored the orator uttered these words:
+
+[042-025]“Comrades, we are going to see whether you have blood in your veins. What we have got to do is to slaughter, disembowel, and brain all the Republicans.”
+
+[042-026]This speech let loose such a thunder of applause that the old shed rocked with it, and a cloud of acrid and thick dust fell from its filthy walls and worm-eaten beams and enveloped the audience.
+
+[042-027]A resolution was carried vilifying the government and acclaiming Chatillon. And the audience departed singing the hymn of the liberator: “It is Chatillon we want.”
+
+[042-028]The only way out of the old market was through a muddy alley shut in by omnibus stables and coal sheds. There was no moon and a cold drizzle was coming down. The police, who were assembled in great numbers, blocked the alley and compelled the Dracophils to disperse in little groups. These were the instructions they had received from their chief, who was anxious to check the enthusiasm of the excited crowd.
+
+[042-029]The Dracophils who were detained in the alley kept marking time and singing, “It is Chatillon we want.” Soon, becoming impatient of the delay, the cause of which they did not know, they began to push those in front of them. This movement, propagated along the alley, threw those in front against the broad chests of the police. The latter had no hatred for the Dracophils. In the bottom of their hearts they liked Chatillon. But it is natural to resist aggression and strong men are inclined to make use of their strength. For these reasons the police kicked the Dracophils with their hob-nailed boots. As a result there were sudden rushes backwards and forwards. Threats and cries mingled with the songs.
+
+[042-030]“Murder! Murder! . . . It is Chatillon we want! Murder! Murder!”
+
+[042-031]And in the gloomy alley the more prudent kept saying, “Don’t push.” Among these latter, in the darkness, his lofty figure rising above the moving crowd, his broad shoulders and robust body noticeable among the trampled limbs and crushed sides of the rest, stood the Prince des Boscénos, calm, immovable, and placid. Serenely and indulgently he waited. In the mean time, as the exit was opened at regular intervals between the ranks of the police, the pressure of elbows against the chests of those around the prince diminished and people began to breathe again.
+
+[042-032]“You see we shall soon be able to go out,” said that kindly giant, with a pleasant smile. “Time and patience . . .”
+
+[042-033]He took a cigar from his case, raised it to his lips and struck a match. Suddenly, in the light of the match, he saw Princess Anne, his wife, clasped in Count Cléna’s arms. At this sight he rushed towards them, striking both them and those around with his cane. He was disarmed, though not without difficulty, but he could not be separated from his opponent. And whilst the fainting princess was lifted from arm to arm to her carriage over the excited and curious crowd, the two men still fought furiously. Prince des Boscénos lost his hat, his eye-glass, his cigar, his necktie, and his portfolio full of private letters and political correspondence; he even lost the miraculous medals that he had received from the good Father Cornemuse. But he gave his opponent so terrible a kick in the stomach that the unfortunate Count was knocked through an iron grating and went, head foremost, through a glass door and into a coal-shed.
+
+[042-034]Attracted by the struggle and the cries of those around, the police rushed towards the prince, who furiously resisted them. He stretched three of them gasping at his feet and put seven others to flight, with, respectively, a broken jaw, a split lip, a nose pouring blood, a fractured skull, a torn ear, a dislocated collar-bone, and broken ribs. He fell, however, and was dragged bleeding and disfigured, with his clothes in rags, to the nearest police-station, where, jumping about and bellowing, he spent the night.
+
+[042-035]At daybreak groups of demonstrators went about the town singing, “It is Chatillon we want,” and breaking the windows of the houses in which the Ministers of the Republic lived.

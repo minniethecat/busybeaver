@@ -1,86 +1,65 @@
 ---
+description: "A key term in eighteenth-century moral philosophy that Wollstonecraft critiques as a degraded substitute for reason — the cultivation of refined feeling that, when made the foundation of female virtue, produces weakness rather than moral strength."
 id: sensibility
-label: Sensibility
+label: "Sensibility"
+tags: ["concept"]
 type: concept
-description: 'The eighteenth-century cult of refined feeling that Wollstonecraft dissects as an inadequate substitute for reason — a central critical target of A Vindication'
-tags: ["eighteenth-century", "emotion", "gender", "critique", "showcase"]
 ---
 
 # Sensibility
 
-**Sensibility** — the eighteenth-century cult of refined feeling — is one of [[Mary Wollstonecraft]]'s principal critical targets in _[[A Vindication of the Rights of Woman]]_. Appearing in over fifty passages, the concept embodies the systematic corruption of women's character through the substitution of emotional display for rational judgment.
-
-Wollstonecraft's critique is not a wholesale rejection of emotion but a diagnosis of sensibility's social function. When women are denied [[Education]] and [[Reason]], sensibility becomes their only currency — a currency that ultimately deforms both character and [[Morality]].
-
 ## Definition
 
-Wollstonecraft provides a precise definition:
+**Sensibility** was a key term in eighteenth-century [[morality|moral philosophy]] and literature, referring to the capacity for [[refinement|refined]] [[passion|emotion]]al response — the ability to feel deeply and delicately. While sensibility was widely celebrated (in novels, in conduct literature, in the cult of sentiment), Wollstonecraft launches a sustained critique of it as a degraded substitute for [[reason]].
 
-> "And what is sensibility? 'Quickness of sensation; quickness of perception; delicacy.'" (004-046)
+> "I wish to show that elegance is inferior to virtue... despising that weak elegancy of mind, exquisite sensibility, and sweet docility of manners, supposed to be the sexual characteristics of the weaker vessel." (P03-009)
 
-She immediately qualifies this definition with a crucial distinction: "I must again repeat, that sensibility is not reason" (004-048). The definitional move separates mere physiological responsiveness from intellectual judgment. Sensibility is fast, reactive, and self-referring; reason is deliberative, reflective, and outward-looking.
+Her argument is not that feeling is bad — she acknowledges that the [[passion|passions]], properly regulated by [[reason]], have their role — but that sensibility, when cultivated as an end in itself and made the central female [[virtue]], produces precisely the weakness and dependence that men then cite as proof of women's [[nature|natural]] inferiority. Sensibility without [[reason]] makes women "the plaything of every passing [[passion|emotion]]."
 
-The author elsewhere describes it as "the plaything of outward circumstance" (005-018), emphasizing its passive, reactive nature. Unlike reason, which actively shapes moral judgment, sensibility is shaped by whatever stimuli it encounters.
+## In Context
 
-## Wollstonecraft's Critique
+The Introduction explicitly targets "exquisite sensibility" as one of the "[[character|sexual character]]istics" imposed on women (P03-009). Chapter III develops the critique through the example of women who have been ruined by their cultivation of sensibility, particularly in fashionable society. Chapter IV returns to the theme, noting how sensibility "[[nature|natural]]ly" leads women to "endeavour to please" rather than to think — a [[nature|natural]]-seeming consequence that is actually the product of systematic training.
 
-### Sensibility as Social Performance
+Chapter XII offers Wollstonecraft's alternative vision: not the abolition of feeling but its proper subordination to [[reason]]. A woman of cultivated [[knowledge|understanding]] can feel deeply without being ruled by those feelings — can exercise sensibility without being enslaved by it.
 
-Wollstonecraft argues that sensibility, far from being a natural female virtue, is a social performance demanded of women. She observes "that parade of sensibility which boys and girls should be taught to despise" (005-060), linking it to theatrical display rather than authentic feeling.
+### Sensibility as Manufactured Weakness
 
-The problem is structural: "women of sensibility are the most unfit for this task [of education]" (004-069) precisely because sensibility prioritizes self-display over genuine engagement with others' needs.
+Wollstonecraft's most penetrating insight about sensibility is that it is not [[nature|natural]] but manufactured. The "exquisite sensibility" that conduct books celebrated as the crown of femininity is, in her analysis, the predictable result of an [[education]] that trains women to value feeling over thought and to measure their worth by the [[passion|emotion]]s they inspire in others. She observes that "men of sensibility doubt whether the expansion of intellect produces a proportionable degree of happiness" (001-031) — a telling phrase that reveals sensibility as an argument against women's intellectual development, dressed in the language of concern for women's welfare. The cultivated woman of feeling, exquisitely attuned to every social nuance, is in fact a woman whose [[reason]] has been systematically starved: "She thought a distinguishing characteristic of genius was sensibility" (003-019). Wollstonecraft's target here is the confusion of refined nerves with refined mind — a confusion that serves the interests of those who benefit from keeping women intellectually dependent.
 
-### Sensibility vs. Reason
+### Beyond the Cult of Sensibility
 
-The central opposition in Wollstonecraft's argument is between sensibility and [[Reason]]. She warns that "when sensibility is nurtured at the expense of the understanding... the understanding [is] damp[ed]" (005-015, 007-027).
-
-The consequence is moral incapacity: sensibility "cannot long exist... that is not tempered by reflection" (007-036). The untempered sensibility leads to what Wollstonecraft calls "the natural selfishness of sensibility" (004-059) — feeling that is all self-reference and no moral reach.
-
-### The Gendered Trap
-
-Wollstonecraft identifies sensibility as a gendered trap: women are praised for their "exquisite sensibility" (P03-009) precisely because it renders them dependent and manipulable. "Men of sensibility desire in every woman soft features" (005-069) — the demand for female sensibility serves male gratification, not female flourishing.
-
-> "Truly the creature of sensibility was surprised by her sensibility" (007-018)
-
-This ironic observation captures the circular logic: women are trained into sensibility, then blamed for its consequences.
+The alternative Wollstonecraft proposes is not stoic indifference but the proper subordination of feeling to [[judgment]]. A woman educated to exercise her [[reason]] will still feel deeply — but her feelings will be informed by understanding rather than substituting for it. "Her sensibility will naturally lead her to endeavour to please" (004-019) only if she has been given nothing else to strive for; a woman whose mind has been "enlarged" by [[knowledge]] will direct her emotional capacities toward more substantial ends than the approval of others.
 
 ## Key Passages
 
-> "And what is sensibility? 'Quickness of sensation; quickness of perception; delicacy.'" (004-046)
+> "Despising that weak elegancy of mind, exquisite sensibility, and sweet docility of manners, supposed to be the sexual characteristics of the weaker vessel." (P03-009)
 
-> "Sensibility is not reason." (004-048)
+> "Men of sensibility doubt whether the expansion of intellect produces a proportionable degree of happiness." (001-031)
 
-> "Modesty! Sacred offspring of sensibility and reason! true delicacy of mind!" (007-001)
+> "She thought a distinguishing characteristic of genius was sensibility." (003-019 — on a fashionable woman who mistakes refined feeling for intellectual distinction)
 
-> "When sensibility is nurtured at the expense of the understanding, such weak minds... the understanding [is] damp[ed]." (005-015, 007-027)
+> "Her sensibility will naturally lead her to endeavour to please." (004-019 — the "natural" consequence that is actually the product of training)
 
-> "The natural selfishness of sensibility" (004-059)
+## Related Concepts
 
-### Wollstonecraft's Uses of Sensibility
+- [[reason]] — The faculty sensibility displaces when cultivated as an end in itself
+- [[passion]] — Related but distinct: [[love|passion]] can be productive when guided by [[reason]]; sensibility is [[love|passion]] [[refinement|refined]] into weakness
+- [[virtue]] — Sensibility is the counterfeit of [[virtue]] in Wollstonecraft's taxonomy
+- [[education]] — The system that trains women in sensibility rather than [[knowledge|understanding]]
+- [[modesty]] — Often confused with sensibility in conduct literature
 
-| Context | Description | PN |
-|----------|------------|-----|
-| Critique | Sensibility as substitute for reason | 004-046, 004-048 |
-| Social function | Parade and performance demanded of women | 005-060, 005-069 |
-| Moral danger | Sensibility without reflection corrupts | 007-036, 004-059 |
-| Gendered trap | Men desire sensibility in women to control them | 005-069, 007-018 |
-| Modesty | Sensibility tempered by reason produces modesty | 007-001 |
+## Related Persons
 
-## Relationship to Other Concepts
+- [[rousseau|Jean-Jacques Rousseau]] — His Sophie is the archetype of sensibility cultivated at the expense of [[reason]]
 
-Sensibility stands in direct opposition to [[Duty]]: where duty requires rational comprehension, sensibility operates on mere feeling. Wollstonecraft warns that "men of sensibility" risk substituting emotional response for moral obligation (008-032).
+## Sensibility in the Eighteenth-Century Context
 
-The concept also contrasts with [[Virtue]]: "virtue, arising rather from sensibility than reason, was, in fact, only the instinct of a lively imagination" (005-150). True virtue requires reason; sensibility alone produces only its counterfeit.
+Wollstonecraft's critique of sensibility must be understood against the backdrop of the eighteenth-century cult of sentiment, in which the capacity for refined feeling was celebrated as the highest human attainment. Novels of sensibility like Richardson's *Clarissa* and Rousseau's *Julie, ou la nouvelle Héloïse* had elevated emotional responsiveness to the status of moral proof — the person of feeling was presumed to be the person of virtue. Wollstonecraft saw through this equation: sensibility, she argued, could coexist with profound moral failure, because feeling deeply is not the same as thinking clearly or acting justly. Her target was not emotion itself but the substitution of emotional refinement for rational [[judgment]] — a substitution that, when applied to women, justified their exclusion from [[education]], public life, and moral agency under the guise of protecting their delicacy.
 
-The resolution Wollstonecraft offers lies in [[Modesty]] — "the sacred offspring of sensibility AND reason" (007-001). Sensibility properly tempered by reason produces genuine modesty, not the false modesty of the conduct books.
+## Supplementary Passages
 
-## See Also
+> "I have, probably, had an opportunity of observing more girls in their infancy than J. J. Rousseau. I can recollect my own feelings, and I have looked steadily around me." (003-017)
 
-- [[Duty]]
-- [[Reason]]
-- [[Virtue]]
-- [[Modesty]]
-- [[Morality]]
-- [[Education]]
-- [[Mary Wollstonecraft]]
-- [[Jean-Jacques Rousseau]]
+> "Such a woman is not a more irrational monster than some of the Roman emperors, who were depraved by lawless power." (003-020)
+
+> "This desire is not confined to women; 'I have endeavoured,' says Lord Chesterfield, 'to gain the hearts of twenty women, whose persons I would not have deigned to look at.'" (004-020)

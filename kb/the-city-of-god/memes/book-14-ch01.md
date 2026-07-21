@@ -1,0 +1,11 @@
+---
+description: "That the disobedience of the first man would have plunged all men into the endless misery of the second death, had not the grace of God rescued many."
+id: book-14-ch01
+label: "Book 14 — Ch. 1: I"
+tags: ["chapter"]
+type: chapter
+---
+
+[389-001]That the disobedience of the first man would have plunged all men into the endless misery of the second death, had not the grace of God rescued many.
+
+[389-002]We have already stated in the preceding books that God, desiring not only that the human race might be able by their similarity of nature to associate with one another, but also that they might be bound together in harmony and peace by the ties of relationship, was pleased to derive all men from one individual, and created man with such a nature that the members of the race should not have died, had not the two first (of whom the one was created out of nothing, and the other out of him) merited this by their disobedience; for by them so great a sin was committed, that by it the human nature was altered for the worse, and was transmitted also to their posterity, liable to sin and subject to death. And the kingdom of death so reigned over men, that the deserved penalty of sin would have hurled all headlong even into the second death, of which there is no end, had not the undeserved grace of God saved some therefrom. And thus it has come to pass, that though there are very many and great nations all over the earth, whose rites and customs, speech, arms, and dress, are distinguished by marked differences, yet there are no more than two kinds of human society, which we may justly call two cities, according to the language of our Scriptures. The one consists of those who wish to live after the flesh, the other of those who wish to live after the spirit; and when they severally achieve what they wish, they live in peace, each after their kind.

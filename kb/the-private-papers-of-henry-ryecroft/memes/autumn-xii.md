@@ -1,0 +1,17 @@
+---
+description: XII — Part III: Autumn
+id: autumn-xii
+label: Part III: Autumn — XII
+tags: []
+type: chapter
+---
+
+# XII
+
+?xml version="1.0" encoding="utf-8"?
+
+### XII
+
+The free man, says Spinoza, thinks of nothing less often than of death. Free, in his sense of the word, I may not call myself. I think of death very often; the thought, indeed, is ever in the background of my mind; yet free in another sense I assuredly am, for death inspires me with no fear. There was a time when I dreaded it; but that, merely because it meant disaster to others who depended upon my labour; the cessation of being has never in itself had power to afflict me. Pain I cannot well endure, and I do indeed think with apprehension of being subjected to the trial of long deathbed torments. It is a sorry thing that the man who has fronted destiny with something of manly calm throughout a life of stress and of striving, may, when he nears the end, be dishonoured by a weakness which is mere disease. But happily I am not often troubled by that dark anticipation.
+
+I always turn out of my way to walk through a country churchyard; these rural resting-places are as attractive to me as a town cemetery is repugnant. I read the names upon the stones, and find a deep solace in thinking that for all these the fret and the fear of life are over. There comes to me no touch of sadness; whether it be a little child or an aged man, I have the same sense of happy accomplishment; the end having come, and with it the eternal peace, what matter if it came late or soon? There is no such gratulation as *Hic jacet*. There is no such dignity as that of death. In the path trodden by the noblest of mankind these have followed; that which of all who live is the utmost thing demanded, these have achieved. I cannot sorrow for them, but the thought of their vanished life moves me to a brotherly tenderness. The dead, amid this leafy silence, seem to whisper encouragement to him whose fate yet lingers: As we are, so shalt thou be; and behold our quiet!

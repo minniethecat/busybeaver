@@ -1,55 +1,52 @@
 ---
+description: "Wollstonecraft's philosophical distinction of humility from modesty; humility is framed as a Christian virtue that, when misapplied to women, becomes a tool of subjugation rather than genuine moral development."
 id: humility
-label: Humility
+label: "Humility"
+tags: ["concept"]
 type: concept
-description: 'A virtue Wollstonecraft carefully distinguishes from the self-abasing submission expected of women — genuine humility arises from self-knowledge, while false humility is a tool of subordination.'
-tags: ["virtue", "moral-psychology", "gender", "religion", "modesty"]
 ---
 
 # Humility
 
-Wollstonecraft subjects humility to the same discriminating analysis she applies to modesty: she distinguishes the genuine virtue from its counterfeit. The humility she affirms is the natural consequence of rational self-knowledge — an "unaffected humility" (005-112) that acknowledges human limitation without degrading the self. The humility she rejects is the "species of humility" (003-034) that social convention demands of women — a posture of self-abasement that serves domination, not virtue.
-
 ## Definition
 
-Wollstonecraft disclaims "that species of humility which, after investigating nature" (003-034) results in a diminished sense of human capacity. This is a remarkable move: she rejects a humility that, having studied nature, concludes that human beings are insignificant. Her objection is not to humility per se but to a version of it that forecloses ambition and inquiry. Genuine humility must be compatible with the active exercise of reason.
+Wollstonecraft defines humility with philosophical precision, explicitly distinguishing it from [[modesty]]. In her tripartite typology of moral character, humility occupies a distinct position: "A modest man is steady, an humble man timid, and a vain one presumptuous" [007-005]. Humility is characterized as "a kind of self-abasement" [007-003] -- a lowering of the self that Wollstonecraft regards as fundamentally different from the accurate self-assessment that constitutes true modesty.
 
-In her discussion of modesty, she makes the crucial distinction: modesty "should be distinguished from humility, because humility is a kind of" (007-002) self-abasement — the sentence breaks off, but the direction is clear. Humility, improperly understood, lowers the self rather than situating it accurately. The distinction between modesty (a sober estimate of one's capacities) and humility (a potentially degrading self-assessment) is central to her moral psychology.
+Crucially, Wollstonecraft draws this distinction not merely as a semantic exercise but as a moral argument about the character types demanded of women. The modesty prescribed to women is, in her analysis, actually a form of humility -- a demand for self-diminishment and timidity that prevents women from acting on their own reasoned judgment. Wollstonecraft also disclaims "that species of humility which, after investigating nature, stops at the author" [003-028], rejecting a piety that refuses to examine the divinely created order through reason.
 
-## Wollstonecraft's Argument
+## In Context
 
-The political stakes of humility become clear when it is examined as a gendered virtue. Women are taught a humility that amounts to self-erasure: to doubt their own judgments, to defer to male authority, to consider themselves naturally inferior. This is not virtue but "the confused consciousness of humility" (006-010) that "may render the dependent creature" (006-010) incapable of moral agency. Humility becomes a mechanism of dependence.
+The concept of humility appears most prominently in Chapter VII, where Wollstonecraft conducts her sustained analysis of modesty and its counterfeits [007-003 to 007-006]. Here she establishes the key distinction: modesty is "that soberness of mind which teaches a man not to think more highly of himself than he ought to think, and should be distinguished from humility, because humility is a kind of self-abasement" [007-003]. This passage is central to understanding why Wollstonecraft critiques the conventional demand for feminine "modesty" -- what the culture calls modesty is in fact humility, the demand that women think less of themselves than they ought.
 
-Wollstonecraft praises the "unaffected humility" (005-112) she finds in certain writers — a humility that is the natural expression of genuine wisdom, not the performance of submission. Unaffected humility is modest about its claims because it understands the limits of human knowledge; affected humility is modest about its claims because it has been taught that women should not claim anything at all.
+In Chapter III, Wollstonecraft engages humility in a theological register, disclaiming a humility that refuses to investigate nature through reason. She argues that genuine worship of God does not require abandoning rational inquiry [003-028]. This passage connects humility to her broader critique of blind religious deference.
 
-The relationship between humility and love is also examined: Wollstonecraft notes how love "thus rises naturally out of humility" (008-018) — not as a healthy dynamic but as a perverse one, where self-abasement becomes the foundation of affection. This is the psychology of domination internalized as devotion.
+In Chapter V, Wollstonecraft praises the "unaffected humility" of Mrs. Chapone's *Letters*, using the term positively to describe a writer whose moral seriousness she respects even when she disagrees with her conclusions [005-128].
 
-### Contrast with Contemporary Views
-
-Christian tradition elevated humility as a cardinal virtue — the recognition of one's creatureliness before God. Conduct books for women intensified this demand: women were to be humble not only before God but before their husbands, their fathers, and male authority in general. Wollstonecraft retains the value of humility as self-knowledge but rejects its deformation into a tool of gender subordination. Her humility is Socratic — born of knowing what one does not know — not devotional.
+A secondary occurrence in Chapter VI describes "the confused consciousness of humility" that may render a dependent being "an interesting object" -- but this is precisely the kind of humility Wollstonecraft critiques, the self-diminishment produced by women's subordinate condition [006-010].
 
 ## Key Passages
 
-> I disclaim that species of humility which, after investigating nature… (003-034)
+> "Modesty in the latter signification of the term, is that soberness of mind which teaches a man not to think more highly of himself than he ought to think, and should be distinguished from humility, because humility is a kind of self-abasement." [007-003]
 
-> …good sense, and unaffected humility, and contain so many useful… (005-112)
+> "A modest man is steady, an humble man timid, and a vain one presumptuous; this is the judgment, which the observation of many characters, has led me to form. Jesus Christ was modest, Moses was humble, and Peter vain." [007-005]
 
-> …the confused consciousness of humility may render the dependent creature… (006-010)
+> "I disclaim that species of humility which, after investigating nature, stops at the author. The high and lofty One, who inhabiteth eternity, doubtless possesses many attributes of which we can form no conception; but reason tells me that they cannot clash with those I adore, and I am compelled to listen to her voice." [003-028]
 
-> …should be distinguished from humility, because humility is a kind of… (007-002)
-
-> …thus rises naturally out of humility, and twists the cords of love… (008-018)
+> "Mrs. Chapone's Letters are written with such good sense, and unaffected humility, and contain so many useful observations, that I only mention them to pay the worthy writer this tribute of respect." [005-128]
 
 ## Related Concepts
 
-- [[Modesty]] — the virtue from which humility must be distinguished
-- [[Obedience]] — the social demand that false humility serves
-- [[Virtue]] — the category to which genuine humility belongs
-- [[Dependence]] — the condition that false humility reinforces
-- [[Self-Knowledge]] — the rational foundation of genuine humility
+- [[modesty]] -- The central virtue from which humility is distinguished; modesty is accurate self-assessment, humility is self-abasement
+- [[vanity]] -- The third term in Wollstonecraft's moral typology; vain persons are presumptuous
+- [[virtue]] -- The broader moral framework within which the distinction between modesty and humility operates
+- [[morality]] -- Connected through Wollstonecraft's argument that moral systems should not demand women's self-abasement
+- [[chastity]] -- Discussed alongside modesty and humility in Chapter VII as part of Wollstonecraft's analysis of sexual virtue
+- [[reason]] -- The faculty that humility, in its negative form, suppresses; Wollstonecraft argues reason must not be silenced by false humility
+- [[knowledge]] -- What is denied to women under the guise of requiring humility
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose treatment of humility Wollstonecraft engages
-- [[Submission]] — the posture that false humility demands of women
-- [[Docility]] — a related feminine virtue that Wollstonecraft critiques
+- [[john-milton|Milton]] -- Cited in [007-004] as an example of modesty (not arrogance) when he "suffered a suggestion of judgment to escape him that proved a prophesy"
+- [[george-washington|George Washington]] -- Cited in [007-004] as an example: "had he been merely humble, he would probably have shrunk back irresolute"
+- [[hester-chapone|Hester Chapone]] -- Praised for "unaffected humility" in her *Letters* [005-128]
+- [[john-gregory|John Gregory]] -- Implicitly critiqued as one who would substitute a kind of humility (sentimental religious deference) for genuine moral reasoning

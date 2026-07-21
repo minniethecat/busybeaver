@@ -1,21 +1,30 @@
 ---
+description: A knowledge wiki for "A Vindication of the Rights of Woman" — this page is auto-generated from book metadata
 id: About
 label: About This Wiki
-type: overview
-description: 'A vindication of the rights of woman with strictures on political and moral subjects'
 tags: []
+type: overview
 ---
 
 # About This Wiki
 
-## Source Material
+This wiki is built around *A Vindication of the Rights of Woman*, organizing the source text into searchable, cross-referenced encyclopedia pages.
 
-Mary Wollstonecraft, _A Vindication of the Rights of Woman With Strictures on Political and Moral Subjects_, 1792 First Edition.
+## Book Information
+
+| Field | Value |
+| --- | --- |
+| Title | A Vindication of the Rights of Woman |
+| Estimated length | ~487,532 characters |
+| Expected pages | ~487 pages |
+| Rights status | Public domain (public_domain) |
+| Source | Standard Ebooks |
 
 ## Usage Notes
 
-This wiki provides structured, searchable access to the full text and concepts of the work, suitable for scholars, students, and general readers interested in feminist philosophy, political theory, and 18th-century literature.
+- Use the top navigation and search box to find entries; **wikilinks** connect related pages.
+- Chapter pages follow the structure of the original book; entity pages aggregate by topic.
 
 ## Copyright & Attribution
 
-Public domain — published 1792, copyright expired. Text sourced from Project Gutenberg and other public-domain repositories.
+This work is in the public domain (public_domain); wiki content is derived from the public-domain text.

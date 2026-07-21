@@ -1,50 +1,54 @@
 ---
+description: "Wollstonecraft grounds her argument in a universal conception of humanity — all human beings share the same rational nature and therefore the same moral claims, making the denial of rights to women a violation of humanity itself."
 id: humanity
-label: Humanity
+label: "Humanity"
+tags: ["concept"]
 type: concept
-description: 'Wollstonecraft''s invocation of humanity as the universal moral community whose "sacred rights" demand the extension of reason and virtue to women as well as men'
-tags: ["virtue", "morality", "enlightenment", "universal-rights"]
 ---
 
-In Wollstonecraft's moral rhetoric, **humanity** serves as both a universal ethical standard and a rhetorical weapon against the exclusion of women from the Enlightenment's promises. She opens the *Vindication* by addressing Talleyrand "with the firm tone of humanity" (P02-002), signalling that her arguments derive their authority not from feminine pleading but from universal moral principles that apply equally to all rational beings. For Wollstonecraft, to "violate" the "sacred rights of humanity" (005-019) by excluding women from reason and virtue is to betray the Enlightenment's own foundational commitments.
+# Humanity
 
 ## Definition
 
-Wollstonecraft uses "humanity" in three interconnected senses. First and most fundamentally, it denotes the universal moral community of rational beings — "the virtues that should clothe humanity" (002-083). Second, it names the sentiment of benevolence and fellow-feeling — the "refinement of humanity, which never resides in any but cultivated minds" (007-005). Third, it functions as a normative standard against which social arrangements are judged: when "liberty, virtue, and humanity, were sacrificed to pleasure" (004-030), the moral failure is measured by the distance between actual society and the ideal of humanity.
+**Humanity** in Wollstonecraft's argument is not a sentiment but a philosophical category. When she demands "justice for one half of the human race" [P02-018], she is making a claim about what is owed to human beings *as such* — not as women, not as members of a particular class or nation, but as bearers of a shared rational nature.
 
-Crucially, Wollstonecraft insists that humanity is not a male preserve. The "RIGHTS of humanity have been thus confined to the male line" (005-034) only by a dishonest tradition that treats women as a separate species. Her repeated use of "humanity" rather than "mankind" in contexts of moral principle is a deliberate rhetorical strategy, insisting on the inclusion of women in the universal category from which they have been excluded.
+This universalism is the philosophical engine of the entire *Vindication*. If all human beings share the same rational nature — and Wollstonecraft insists that "the nature of reason must be the same in all" [002-028] — then any argument that denies women [[rights]] must either deny that women are fully human or admit that it is grounded in force rather than [[reason]].
 
-## Wollstonecraft's Argument
+## In Context
 
-Wollstonecraft's invocation of humanity serves a specific argumentative function: it allows her to bypass the gendered assumptions of her contemporaries and appeal directly to universal moral principles. When she declares that "all the sacred rights of humanity are violated by insisting on blind obedience" (005-019), she frames women's subordination not as a matter of female grievance but as a violation of universal moral law — a crime against humanity itself, not merely against women.
+### The Unity of Humankind
 
-This universalist rhetoric reaches its ethical climax in her treatment of benevolence. True virtue, she argues, is love "which, after encircling humanity, mounts in grateful incense to God" (004-065) — benevolence expanding outward from the individual to the species. Women are denied the capacity for this expansive love when they are confined to narrow domestic affections. A mind that has never learned to care about humanity at large cannot, in Wollstonecraft's analysis, achieve genuine moral stature.
+Wollstonecraft's insistence on the unity of human nature is her most powerful argument against the separate-spheres ideology of her time. If men and women are different *in kind* — if women are essentially creatures of sentiment while men are creatures of reason — then it might make sense to give them different educations, different rights, and different moral standards. But if they share the same nature, differing only in degree and in the circumstances that shape them, then the differential treatment of women is not a recognition of nature but a violation of it.
 
-She also uses humanity as a contrast to the degrading effects of gendered social conventions. When she observes that "men neglect the duties of humanity, women will do the same" (004-049), she insists on a common moral standard: what corrupts one sex corrupts the other. The solution is not to teach women a separate, feminine morality but to hold both sexes to the universal standard of "reason and humanity" (004-055).
+The theological dimension of this argument is important: Wollstonecraft appeals to the idea that both sexes were created by the same God with the same moral capacities, and that to deny women the opportunity to develop those capacities is to thwart divine intention.
 
-### Contrast with Contemporary Views
+### Humanity and Sentiment
 
-Where Rousseau grounded moral obligation in particular relationships — the family, the community, the patrie — Wollstonecraft insists on the priority of universal humanity. Rousseau's citizen loves his own before he loves humankind; Wollstonecraft argues that virtue must "encircle humanity" (004-065) before it can be genuine. This places her closer to the cosmopolitan Enlightenment of Kant than to the republican particularism of Rousseau. She also implicitly contests the Christian philanthropic tradition, represented by Fordyce, which made benevolence a feminine virtue exercised through charitable feeling; for Wollstonecraft, humanity demands rational commitment to universal rights, not merely emotional sympathy.
+Wollstonecraft uses "humanity" in its eighteenth-century sense of benevolence or sympathy — the moral sentiment that connects us to the suffering of others. But she is careful to ground this sentiment in [[reason]]: true humanity is not mere emotional responsiveness but a principled commitment to the welfare of all rational beings.
+
+### The Duties of Humanity
+
+Wollstonecraft develops a demanding account of what "the duties of humanity" require. These duties are not optional acts of charity but obligations grounded in the recognition of shared rational nature. "When men neglect the duties of humanity, women will do the same" [004-055] — this is not merely an empirical observation but a moral warning. The failure of men to treat women as full human beings does not excuse women from the obligation to treat others humanely; rather, it corrupts the moral culture in which both sexes operate, with the corruption spreading from one sphere to another until the very idea of universal moral obligation is lost.
+
+> "When men neglect the duties of humanity, women will do the same; a common stream hurries them both along." [004-055]
+
+### Love that Encircles Humanity
+
+One of Wollstonecraft's most elevated passages on humanity describes a form of love that "after encircling humanity, mounts in grateful incense to God" [004-067]. This image — of love expanding outward from the particular to the universal, from the human to the divine — captures her vision of moral development. The properly cultivated heart does not stop at personal attachment but grows to encompass all of humanity, recognizing in every human face the same rational nature and the same claim to moral respect. This is the antithesis of the narrow, possessive love that Wollstonecraft associates with the gallantry system — a love that is jealous, exclusive, and ultimately selfish.
+
+> "Love, which, after encircling humanity, mounts in grateful incense to God." [004-067]
 
 ## Key Passages
 
-> I plead for my sex — not for myself. Independence I have long considered as the grand blessing of life, the basis of every virtue — and independence I will ever secure by contracting my wants, though I were to live on a barren heath. It is then an affection for the whole human race that makes my pen dart rapidly along to support what I believe to be the cause of virtue. (P02-002, Dedication)
+> "…loudly demands *justice* for one half of the human race." (P02-018)
 
-> The RIGHTS of humanity have been thus confined to the male line from Adam downwards. (005-034)
+> "The nature of reason must be the same in all…" (002-028)
 
-> But what have women to do with the social duties, or the sacred rights of humanity? All the sacred rights of humanity are violated by insisting on blind obedience. (005-019)
-
-## Related Concepts
-
-- [[Virtue]] — the moral quality that humanity as a standard demands of all rational beings
-- [[Reason]] — the universal faculty by which the rights of humanity are recognised
-- [[Rights]] — the political expression of humanity's moral claims
-- [[Sensibility]] — when refined, sensibility rises to humanity; when ungoverned, it remains self-regarding
-- [[Independence]] — "the basis of every virtue," enabling the affection for "the whole human race" (P02-002)
+> "When men neglect the duties of humanity, women will do the same; a common stream hurries them both along." [004-055]
 
 ## See Also
 
-- [[French Revolution]] — the political context of Wollstonecraft's universalist rhetoric of humanity
-- [[Jean-Jacques Rousseau]] — whose particularist ethics Wollstonecraft's universal humanity implicitly contests
-- [[Talleyrand]] — the addressee of the Dedication, whose report on public education Wollstonecraft challenges in the name of humanity
-- [[Duty]] — the moral obligation that humanity's rights impose on all rational beings
+- [[equality]] — the political expression of shared humanity
+- [[reason]] — the defining capacity of human beings
+- [[rights]] — what is owed to every human being
+- [[nature]] — the shared nature that underlies humanity

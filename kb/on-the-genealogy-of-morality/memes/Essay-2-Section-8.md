@@ -1,0 +1,13 @@
+---
+description: 'The feeling of "ought," of personal obligation (to take up again the train of our inquiry), has had, as we saw, its…'
+id: Essay-2-Section-8
+label: "Essay 2, Section 8"
+tags: ["chapter"]
+type: chapter
+---
+
+##### SECOND ESSAY.
+
+#### "GUILT," "BAD CONSCIENCE," AND THE LIKE.
+
+[024-001]The feeling of "ought," of personal obligation (to take up again the train of our inquiry), has had, as we saw, its origin in the oldest and most original personal relationship that there is, the relationship between buyer and seller, creditor and ower: here it was that individual confronted individual, and that individual _matched himself against_ individual. There has not yet been found a grade of civilisation so low, as not to manifest some trace of this relationship. Making prices, assessing values, thinking out equivalents, exchanging—all this preoccupied the primal thoughts of man to such an extent that in a certain sense it constituted _thinking_ itself: it was here that was trained the oldest form of sagacity, it was here in this sphere that we can perhaps trace the first commencement of man's pride, of his feeling of superiority over other animals. Perhaps our word "Mensch" (_manas_) still expresses just something of _this_ self-pride: man denoted himself as the being who measures values, who values and measures, as the "assessing" animal _par excellence_. Sale and purchase, together with their psychological concomitants, are older than the origins of any form of social organisation and union: it is rather from the most rudimentary form of individual right that the budding consciousness of exchange, commerce, debt, right, obligation, compensation was first transferred to the rudest and most elementary of the social complexes (in their relation to similar complexes), the habit of comparing force with force, together with that of measuring, of calculating. His eye was now focussed to this perspective; and with that ponderous consistency characteristic of ancient thought, which, though set in motion with difficulty, yet proceeds inflexibly along the line on which it has started, man soon arrived at the great generalisation, "everything has its price, _all_ can be paid for," the oldest and most naive moral canon of _justice_ , the beginning of all "kindness," of all "equity," of all "goodwill," of all "objectivity" in the world. Justice in this initial phase is the goodwill among people of about equal power to come to terms with each other, to come to an understanding again by means of a settlement, and with regard to the less powerful, to _compel_ them to agree among themselves to a settlement.

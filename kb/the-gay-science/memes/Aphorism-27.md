@@ -1,0 +1,52 @@
+---
+description: ""
+id: Aphorism-27
+label: "Aphorism 27"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book I
+
+### 27.
+
+### 27.
+
+
+*The Self-Renouncer.*—What does the self-renouncer
+
+do? He strives after a higher world,
+
+he wants to fly longer and further and higher than
+
+all men of affirmation—he *throws away many things*
+
+that would burden his flight, and several things
+
+among them that are not valueless, that are not
+
+unpleasant to him: he sacrifices them to his desire
+
+for elevation. Now this sacrificing, this casting
+
+away, is the very thing which becomes visible in
+
+him: on that account one calls him the self-renouncer,
+
+and as such he stands before us,
+
+enveloped in his cowl, and as the soul of a
+
+hair-shirt. With this effect, however, which he
+
+makes upon us he is well content: he wants to
+
+keep concealed from us his desire, his pride, his
+
+intention of flying *above* us.—Yes! He is wiser
+
+than we thought, and so courteous towards us—this
+
+affirmer! For that is what he is, like us,
+
+even in his self-renunciation.

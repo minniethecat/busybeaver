@@ -1,46 +1,50 @@
 ---
+description: "Wollstonecraft identifies oppression — not natural inferiority — as the cause of women's degraded condition, arguing that the vices attributed to women are in fact 'produced by oppression' rather than inherent to the female character."
 id: oppression
-label: Oppression
+label: "Oppression"
+tags: ["concept"]
 type: concept
-description: "The systematic denial of liberty and education that Wollstonecraft identifies as the mechanism by which women are kept in a state of degradation"
-tags: ["social-critique", "power", "gender", "politics"]
 ---
 
 # Oppression
 
-The systematic mechanism — operating through law, custom, education, and social expectation — by which Wollstonecraft argues women are kept in a state of moral and intellectual degradation.
-
 ## Definition
 
-Wollstonecraft uses "oppression" to describe not merely explicit tyranny but the entire system of customs, laws, educational practices, and social expectations that collectively deny women the conditions necessary for moral and intellectual development. Oppression, in her analysis, is structural rather than merely personal: it operates through "the opinions and manners of the society" (002-013) as much as through explicit legal discrimination. Women are "educated in slavish dependence" (003-027) — the word "slavish" is carefully chosen to invoke the political language of tyranny.
+**Oppression** is Wollstonecraft's term for the systematic social and political subordination of women. She uses the word precisely — not as a synonym for inconvenience or unfairness but as a description of a structural condition in which one group systematically exercises power over another. Her argument is that women's apparent deficiencies are "produced by oppression" [013-084] rather than being natural or innate.
 
-## Wollstonecraft's Argument
+> "…the vices, engendered by oppression have produced, is not confined to the sex who have been the victims of such a system." (012-085)
 
-The author identifies multiple mechanisms of oppression that work together to maintain women's subordination. First, legal oppression: women are denied civil and political rights, treated as legal dependents of fathers and husbands. Second, educational oppression: women are deliberately kept ignorant, their education oriented toward pleasing men rather than developing their understanding. Third, ideological oppression: women are taught that their subjection is natural and virtuous — "dependence is called natural" (003-014) — so that they internalize their own oppression.
+This diagnosis is radical for its time because it shifts the explanatory burden away from women's nature and onto the social arrangements that deform that nature. If oppression produces vice, then the remedy is not to lecture women about their failings but to end the oppression.
 
-Wollstonecraft argues that this system corrupts both the oppressed and the oppressors. Men who exercise arbitrary power over women are themselves morally degraded by it — "the practice of tyranny" coarsens the moral sensibilities of the tyrant as well as the victim. The oppression of women is thus not merely an injustice to women but a corruption of the entire moral order.
+## In Context
 
-### Contrast with Contemporary Views
+### The Mechanism of Oppression
 
-Wollstonecraft's systemic analysis of women's oppression anticipates later feminist theory but was unusual in its time. Most eighteenth-century writers who addressed women's condition treated it as a matter of individual manners or natural difference. Wollstonecraft's insistence that women's degradation is produced by systematic oppression — not by nature — was one of her most radical contributions to political thought.
+Wollstonecraft observes that oppression operates through a degrading cycle: women "submit without reason" to tyrannical treatment [003-036], and this submission itself becomes a habit that reinforces their subordination. The oppressed internalize their oppression, losing the capacity even to recognize it as such.
+
+> "…servants endure their tyrannical oppression. As they submit without reason, they become incapable of reasoning about their condition." (003-036)
+
+The critique is also directed at men, who "submit everywhere to oppression, when they have only to lift up their heads and throw it off" [004-002]. For Wollstonecraft, the willingness to tolerate oppression is a failure of moral courage — a theme she applies to both sexes, though the consequences are far more severe for women.
+
+> "…observe, submit everywhere to oppression, when they have only to lift up their heads and throw it off." (004-002)
+
+### Intemperance and Oppression
+
+A striking strand of Wollstonecraft's analysis links oppression to what might be called the psychology of the oppressor: men "complain of the oppression that his intemperance naturally produces" [008-024]. The oppressor, having created a system of domination, then complains about its consequences — a dynamic of bad faith that Wollstonecraft exposes with particular sharpness.
+
+> "…and afterwards complain of the oppression that his intemperance naturally produces…" (008-024)
 
 ## Key Passages
 
-> "educated in slavish dependence, and enervated by luxury and sloth" (003-027)
+> "…the vices, engendered by oppression have produced, is not confined to the sex who have been the victims of such a system." (012-085)
 
-> "dependence is called natural" — on the ideological naturalization of oppression (003-014)
+> "…servants endure their tyrannical oppression. As they submit without reason, they become incapable of reasoning about their condition." (003-036)
 
-> "eating the bitter bread of dependence" (004-056)
-
-> "the opinions and manners of the society they live in" — on structural oppression (002-013)
-
-## Related Concepts
-
-- [[Liberty]] — the condition that oppression denies
-- [[Independence]] — the personal freedom that systematic oppression prevents
-- [[Education]] — the tool of both oppression (when denied) and liberation (when provided)
-- [[Prejudice]] — the ideological mechanism that justifies oppression
+> "…and afterwards complain of the oppression that his intemperance naturally produces…" (008-024)
 
 ## See Also
 
-- [[Mary Wollstonecraft]]
+- [[tyranny]] — the political form of oppression
+- [[rights]] — the antidote to oppression
+- [[equality]] — the condition in which oppression is impossible
+- [[despotism]] — oppression institutionalized in political authority

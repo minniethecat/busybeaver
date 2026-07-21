@@ -1,0 +1,11 @@
+---
+description: "That the world’s belief in Christ is the result of divine power, not of human persuasion."
+id: book-22-ch07
+label: "Book 22 — Ch. 7: VII"
+tags: ["chapter"]
+type: chapter
+---
+
+[664-001]That the world’s belief in Christ is the result of divine power, not of human persuasion.
+
+[664-002]But it is thoroughly ridiculous to make mention of the false divinity of Romulus as any way comparable to that of Christ. Nevertheless, if Romulus lived about six hundred years before Cicero, in an age which already was so enlightened that it rejected all impossibilities, how much more, in an age which certainly was more enlightened, being six hundred years later, the age of Cicero himself, and of the emperors Augustus and Tiberius, would the human mind have refused to listen to or believe in the resurrection of Christ’s body and its ascension into heaven, and have scouted it as an impossibility, had not the divinity of the truth itself, or the truth of the divinity, and corroborating miraculous signs, proved that it could happen and had happened? Through virtue of these testimonies, and notwithstanding the opposition and terror of so many cruel persecutions, the resurrection and immortality of the flesh, first in Christ, and subsequently in all in the new world, was believed, was intrepidly proclaimed, and was sown over the whole world, to be fertilized richly with the blood of the martyrs. For the predictions of the prophets that had preceded the events were read, they were corroborated by powerful signs, and the truth was seen to be not contradictory to reason, but only different from customary ideas, so that at length the world embraced the faith it had furiously persecuted.

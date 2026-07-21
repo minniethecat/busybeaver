@@ -1,0 +1,41 @@
+---
+description: "Index of Utilitarianism by John Stuart Mill"
+id: Index
+label: "Index"
+tags: ["chapter"]
+type: chapter
+---
+
+[006-001] INDEX Algebra : 2 Animal Instincts : 80 Annals of the Parish : 13 Artistic Perceptions : 38 Ascetic, The : 30 Aspirations, High : 20 Astronomy : 45 Bain, Professor : 93 — on the Mind : 9 3 Barbarism : 29 Bentham, Jeremy : 6, 12, 117. H9 Capacity for the Nobler Feelings : 19 Carlyle, Thomas : 23 Character, Beauties of : 38 Character, Human : 32 — Infinity of, : 19 — Nobleness of : 22 Christ : 32, 50 Christianity : 43, 89 Civilization : 42 Collective Interests of Mankind : 26, 84 Communists : 88 Comte, Auguste : 61 Conduct : 32 Conduct, Human : 21 — Modes of : 32 — Rules of : 46 — Rules and Precepts for : 22 Conscience : 53, 55 — Essence of : 52 Consequences of Actions : 36 Creed : 46 Criminal : 105 Curiosity : Gratification of, 26 Custom : 50 Death : 26 Deity : 39 Desires, Primitive : 71 Dignity, Sense of : 18 Disease : 27, 28 Duty : 34, 52, 54 — Feeling of : 55, 57 — Internal Sanction of : 52 Notion of : 92 193
+
+**The text on this page is estimated to be only 24.12% accurate**
+
+[006-002] 124 INDEX Education : 24, 32, 49 — Improvement of : 50 — Influences of : 60 Egoist, The : 27 End (Aim) of Human Action : 22 ; of Life: 25 ; of Morality: 23 Enjoyment of Life : 30 Entsagen, Lesson of : 23 Epicurus : 12, 14, 15 Epicureans : 14 Epicurean Theory of Life : 15 Equality : 87 Ethical Creed : 46 ; Doctrine : 5 ; Misunderndings of Doctn 39 ; Standard : 36, 44, 58 ; System : 33 > : 5, 33 ; Code of: 44 ; Doctrine of : 40 Intuitive : 4, 56 ; Theory of : 47 Europe : 108 31 ; of the World: 28 Excitement: 25; Love of: 18 •ice : Go; Lower Cirade of : 17 Expediency : 41, 79, 81 ; and Worthiness : 93 Fame : 69 Freedom of the Will : 106 Gait, John : 13 God : 39, 40, 52, 54, 90 Good for Evil, Returning : 85 Government : 88 Greatest-Happiness Principle : 6, 13, 22, 117 ; Ultimate Sanction of the : 63 Greeks and Romans, Laws of the : 90 Habit, Power of : 74 ; Support of : 76 Happiness : 13, 1 8, 21, 22, 23,24,28,29,30,31,32, 35, 40, 44, 45, 50, 51. 60, 66, 70, 72, 79 ; Desire of : 67 ; General : 43» 44» 52, 72 ; Human : 42 ; Individual : Means of : 62 ; is sirable : 65 ; is not an abstract idea, but a concrete whole : 70 ; is one of the criterions of morality : 66 ; Pursuit of : 23 ; ;Equal claim of everybody to : 118 Happiness-Morality : 61 Happiness- Principle : 68 Happiness-Theory : 7 Hebrews : 89 Higher Faculties : 16 Home Took, J. : 89 Human Beings and Animals, Difference between : 97 ; Life : 24, 46 ; Nature : M. 33. 46, 57, 72 Humanity : 33
+
+**The text on this page is estimated to be only 23.79% accurate**
+
+[006-003] INDEX 125 Impartiality : 86, 87 ; an obligation of J ustice : 116 Independence, Habitual : 76 ; Lover of Personal : 17 Indigence : 27 Individual : 32, 47, 61 Individuals : 31, 34, 36 Inductive School of Ethics : 4 Indolence : 25 Inequality : 88 Injustice, Conception of : 92 Intellect : 47 Intellectual Instincts : 80 ; Tastes : 20 Interest of Mankind : 99 Jesus : see Christ Just, The : 79 Justice : 81, 88, 94, 104, 112; a name for certain moral requirements : 120 ; and Expediency : iu-2, 115, 121 ; and Generosity : 95 ; and Taxation: no-i ; Definition : 121-2 ; Etymology of : 89 ; Feeling of : 80, 81 ; Idea of : 79» 85, 96 ; Maxims of : 116; Notions of: 91, 103 ; conforms to notion of Utility: §7; Obligations of : 114; Popular Acceptations of : 94 ; Principles of : 107 ; Questions of : 108-9 ; Three Ideas of: 105-6 ; Sentiment of : 98, 100, 114-5 ^Natural : 88 Kant, Immanuel : 6, 99 Knowledge, Fountains of : 26 Law : 83 ; English : 2 ; Essence of : 92 ; is not the Ultimate Critcriun of Justice : 84 Laws : 32, 46 ; ot the Greeks and Romans : 90 ; Lex Talionis : 108 Liberty, Personal : 82 Life : 46 ; of Rapture : 24 ; Theory of : 13, 14 Magistrate and Individuals : 9i Mankind : 31, 38, 40, 43, 44»53»58,62,8o; Mass of : 25 Mental Cultivation, Want of : 26 Metaphysics of Ethics, The : 6 Mind, Human : 61 Money : 69 Moral Duties divided into two classes by Ethical Writers : 93, 94 ; Faculty, 4, 57 ; Feeling
+
+**The text on this page is estimated to be only 23.44% accurate**
+
+[006-004] 126 INDEX of Resentment : 99 ; Feelings : 38 ; Law : 38 ; Laws : 47 ; Obligation : 6» 48» 53* 55 J Philosophy : 49 ; Right : 84 ; Rules of Mankind: 112, 113 ; Sentiments : 15 ; Standard : 13 ts : 38, 42 "y: 4. 5. 33. 34. 43* 49. 50, 53. 54 J lerence between, and 11 pie Expediency: 92; iterion of: 73; Foundation of : I ; Fi: mental Principle of : 4, 6. 45, 56 ; Rules of, for the Multitude : 44 ; Science of : 4 ; Standard of : 22, 33, 36, 38 ; Supreme Law of: 40; System of : 35 ; Theory of : 13 Natural Faculty : 3 Nature : 79. 80, 82 Nautical Almanack : 45 Navigation : 45 Nobleness : 21, 22 * Novalis * [Fr. von Harden berg] : 23 Ontology : 54 Owen, Mr. : 105 Pam : 21, 25, 75 Hty, inconsistent with Justice : 86 Passive Sensibility, State of : 74 Philosopher, The : 26, 44 Philosophical Controversy : 46 Philosophy : 39 Plato : 2 Pleasure : 12, 15, 16, 20, 21, 24. 25, 75 ; Sources of : 14 ; of the Intel Feelings, Im.-i 15; Superiority of I tal over Bodily, 15 Poverty : 28 Power: 69 ; Love of : 18 Pride : 17 Principle, Obedience to : 34 Proof: 8 Protagoras : 2 Providence : 61 Public Good : 27 ; Interest : 87 Quality, Test of : 22 Obligations : 47 Observation : 73 Old and New Testaments : 43 Rational Faculty : 8 Religion, Psychological Power and the Social Efficacy of : 6j
+
+**The text on this page is estimated to be only 24.03% accurate**
+
+[006-005] INDEX 127 Remorse : 53 Retaliation, Thirst for : 102 Right and Wrong, Common Questions of : 45 * Right, To have a,' Meaning of : 102 Roman Empire : 31 Ruler of the Universe : 51 Sacrifice : 30 Sanctions, External : 63 Science, Progress of : 28 Self-abasement : 53 Self-defence, Impulse of : 96 Self-esteem : 53 Selfishness : 26 Self-sacrifice : 29 Sensitive faculty : 4 Sentimentalist, The : 38 Sinner : 38 Slave, Rights of the : 87 Social Arrangements : 24, 32 ; Feelings of Mankind : 58 ; Inequalities and Injustice : 119 ; Institutions : 28 ; State : 58 ; Ties : 59 ; Utility as Decider on some Questions of Justice : no ; Well-being : 41 Social Statics : 118, 119 Society : 59 ; Claim on : 101 ; General Interests of : 33 ; Growth of : 59 ; Wisdom of : 28 Socrates : 2, 18 Sophist, The : 2 Sophistry: 47 Spencer, Herbert : 118, 119 ; and Utilitarianism, 118-9 Stoics : 17, 31, 36 Submission to Law, Sentiment of : 84 Suffering : 27, 28 Swnmum bonum : i Sympathy, Contagion of : 60 ; Feeling of : 96 Temptation, Influence of : 19 Theology : 2 Traitt de Politique Positive : 61 Tranquillity : 25 Transcendentalist, The : 31 Transcendental Origin of Man : 57 Ultimate Ends : 7, 65, 67 Unhappiness :' 13 ; Prevention or Mitigation of : 23 Unity, Feeling of : 61 Unpopularity : 37 Utilitarian Ethics : 35, 39, 121 ; Formula : 8 ; Mode of Thought : 34 ; moralist : 34, 40 ; morality : 31, 32, 33, 49, 5i, 52, 55, 58, 62 : Opponents of the Standard of : 67 ; Philosophy; 50 ; Principle : 15 ;
+
+**The text on this page is estimated to be only 22.92% accurate**
+
+[006-006] 128 INDEX Rule of Morals : 54 ; Standard, 21, 31, 38, 47, 71 : Theory : 7, 23, 36 Utilitarianism : 2, 7, n, 12, 13, 21. 23,.,3L 32, 33. 34. 36, 37. 39. 40, 46. 65, 66 • I'tilit.irians : 37, 38 Utility : n, 13, 21, 32, 40, 43, 46, 47, 68, 79, 88, 104 ; Doctrine of : 36, 39, 50 ; Ethics of : 32 : >i ; 1'rinlo of : 6, 40, 42, 44. 51, 55, 57. 68, 77; Private: 35 ; Public: 35 ; Theory of : 12 Veracity : 41, 42 Virtue : 23, 29, 30, 37, 42, 47, 67, 68, 71, 72, 76; Object of : 35 Volenti non fit Injuria : 107 Will and Desire : 75 : dom of the : 106 ; the Child of Desire : 76 Printed in Gnat Britain t>y Cutler £ Tanner, Frame and London
+
+**The text on this page is estimated to be only 26.00% accurate**
+
+[006-007] r
+
+**The text on this page is estimated to be only 22.17% accurate**
+
+[006-008] 14 DAY USE RETURN TO DESK FROM WHICH BORROWED LOAN DEPT. This book is due on the last date stamped below, or on the date to which renewed. Renewed hnnlrfi nrt rnhjrrr rn immf
+
+**The text on this page is estimated to be only 26.50% accurate**
+
+[006-009] VA 03010 I THE UNIVERSITY OF CALIFORNIA LIBRARY

@@ -1,51 +1,73 @@
 ---
+description: >
 id: mind
 label: Mind
+tags: []
 type: concept
-description: "Wollstonecraft's concept of the mind as the proper object of education — the mind must be 'enlarged' through systematic cultivation, distinguishing her position from those who treat the female mind as naturally inferior or permanently enfeebled"
-tags: ["education", "reason", "epistemology", "psychology", "virtue"]
 ---
 
-**Mind** is arguably the central term of Wollstonecraft's entire argument. The word appears more than a hundred times across the text, most frequently in two formulations: "strength of mind" (001-024, 002-001) and "the female mind" (002-027). The frequency is itself an argument: by insisting on "mind" rather than "soul" or "heart" as her primary category, Wollstonecraft asserts that her subject is intellectual capacity, not sentiment or spirituality. Her thesis is that "the minds of women are enfeebled by false refinement" (P03-002) — not by nature, but by education.
+# Mind
 
 ## Definition
 
-Wollstonecraft's concept of mind is fundamentally shaped by Enlightenment epistemology. Mind is not a passive receptacle of sensations but an active faculty that must be "enlarged" (002-027) through exercise. "The mind will ever be unstable that has only prejudices to rest on" (002-003) — the stability of mind depends on the solidity of its foundations. Prejudices, being unexamined, provide no such stability; only knowledge acquired through reason and experience can anchor the mind.
+In Wollstonecraft's philosophy, the **mind** (*understanding*, *intellect*) is the
+rational faculty that distinguishes human beings from animals and constitutes the
+foundation of virtue. It is the capacity to reason, to form principles, and to
+exercise moral judgment. Crucially, Wollstonecraft insists that mind has no sex —
+the apparent intellectual differences between men and women are the product of
+education and social conditioning, not nature.
 
-The "enlarged mind" (P02-003, 002-027) is Wollstonecraft's ideal. Enlargement is not mere accumulation of information but the development of the capacity to think across categories, to connect particulars to principles, and to exercise independent judgement. "Strengthen the female mind by enlarging it, and there will be an end to blind obedience" (002-027). The causal logic is exact: enlarging the mind produces strength; strength produces independence; independence produces an end to the docility on which male tyranny depends.
+## Mind Has No Sex
 
-Crucially, Wollstonecraft insists on the unity of mind: the same faculty operates in men and women, differing only in cultivation. "Women of strong minds attain" knowledge "from various circumstances" (002-019), but they attain it despite obstacles, not because of natural incapacity. The claim that women have "less mind than man" (002-015) is a consequence of education, not nature — and she is prepared to argue that "they have less mind" only because they have been denied the means of developing it.
+Wollstonecraft's central epistemological claim is that women possess the same
+rational capacity as men. The mind is not gendered:
 
-## Wollstonecraft's Argument
+> "the minds of women are enfeebled by false refinement" (P03-002)
 
-Wollstonecraft's argument about mind operates at two levels. At the individual level, she insists that each woman has a mind that demands cultivation: "The unfolding mind is not strengthened by the pretty employments" (P03-006) assigned to girls. The verb "unfolding" implies a natural developmental trajectory that education either supports or thwarts. Girls' minds unfold just as boys' do; the difference is that boys' unfolding is encouraged while girls' is systematically arrested.
+The weakness attributed to women's understanding is an effect of their upbringing,
+not an innate limitation. She rejects the notion — advanced by Rousseau and others —
+that women are constitutionally incapable of abstract thought.
 
-At the social level, the neglect of female minds is a public calamity. Women who lack "sufficient strength of mind to acquire what really deserves the name of virtue" (002-001) cannot discharge their duties as citizens, wives, or mothers. "The mind will ever be unstable that has only prejudices to rest on" (002-003) — and unstable minds produce unstable families, which produce unstable states. The cultivation of the female mind is thus not merely a matter of individual fulfilment but a condition of social order.
+## Strength of Mind
 
-Her argument reaches its most radical conclusion when she asserts that the mind has no sex. "I may be accused of arrogance; still I must declare, what I firmly believe, that all the writers who have written on the subject of female education and manners, from Rousseau to Dr. Gregory, have contributed to render women more artificial, weak characters, than they would otherwise have been; and, consequently, more useless members of society" (002-015). It is not nature but male-authored educational philosophy — the very tradition she is writing against — that has produced the weak female mind. Change the education, and the mind will change.
+*Strength of mind* is Wollstonecraft's term for intellectual and moral fortitude —
+the capacity to think independently, resist prevailing prejudices, and act on
+principle rather than impulse:
 
-### Contrast with Contemporary Views
+> "The mind must be strong that resolutely forms its own principles" (001-008)
 
-The dominant view, from Aristotle through Rousseau, held that the female mind was naturally inferior — weaker in reason, stronger in sensibility, suited for the particular rather than the universal. Rousseau's Sophie is designed to be the complement of Émile, not his intellectual equal. Wollstonecraft's insistence on the identity of male and female mental faculties was among the most radical claims in eighteenth-century philosophy. She does not argue that women should have minds like men's; she argues that they already do, and that the visible differences are artifacts of education. This makes her position more radical than that of many later nineteenth-century feminists, who accepted a doctrine of separate intellectual spheres.
+This strength is acquired through education that exercises the reason rather than
+merely storing accomplishments. A weak mind, by contrast, is one that "will ever
+be unstable that has only prejudices to rest on" (002-003).
 
-## Key Passages
+## Mind and Body
 
-> The minds of women are enfeebled by false refinement. (P03-002)
+Wollstonecraft repeatedly pairs mind and body, arguing that both require exercise
+and cultivation:
 
-> Strengthen the female mind by enlarging it, and there will be an end to blind obedience. (002-027)
+> "to acquire strength, both of mind and body" (P03-008)
 
-> The mind will ever be unstable that has only prejudices to rest on. (002-003)
+She critiques a society that "sacrifices" both bodily health and mental vigor to
+"libertine notions of beauty" (P03-012), insisting that physical health and
+intellectual development are mutually reinforcing.
 
-## Related Concepts
+## Mind and Virtue
 
-- [[Reason]] — the faculty by which the mind orders its knowledge and forms judgements
-- [[Education]] — the systematic cultivation of mind that Wollstonecraft demands for women
-- [[Understanding]] — the intellectual faculty that is the mind's power of comprehension, frequently paired with "mind" in Wollstonecraft's usage
-- [[Prejudice]] — the unexamined belief that substitutes for genuine mental cultivation
-- [[Virtue]] — the moral excellence that can only be achieved by a mind strengthened through education
+For Wollstonecraft, the cultivation of mind is inseparable from moral development.
+Virtue requires rational understanding — one cannot be genuinely virtuous by
+following rules blindly or by relying on sensibility alone:
 
-## See Also
+> "to have sufficient strength of mind to acquire what really deserves the name
+> of virtue" (002-002)
 
-- [[Jean-Jacques Rousseau]] — whose theory of female mental inferiority is Wollstonecraft's primary target
-- [[John Locke]] — whose empiricist model of mind as a blank slate provides philosophical support for Wollstonecraft's educational optimism
-- [[Body]] — the physical counterpart to mind, which Wollstonecraft argues must be strengthened alongside mental faculties
+## Education and the Mind
+
+The purpose of education, in Wollstonecraft's view, is to strengthen the mind
+through the exercise of reason. She warns against an education that merely fills
+the mind with accomplishments without developing judgment:
+
+> "sent into the world before their minds have been stored with knowledge" (002-034)
+
+A properly educated mind can distinguish truth from prejudice, resist fashionable
+opinions, and govern conduct by rational principle rather than by impulse or the
+desire for approbation.

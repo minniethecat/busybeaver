@@ -1,0 +1,91 @@
+---
+description: "Among the directors of the North Chicago City company there was one man, Edwin L. Kaffrath, who was young and of a forward-looking temperament. His..."
+id: XXII-Street-Railways-at-Last
+label: "XXII: Street-Railways at Last"
+tags: ["chapter"]
+type: chapter
+---
+
+# XXII: Street-Railways at Last
+
+[022-001]Among the directors of the North [[chicago|Chicago]] City company there was one man, Edwin L. Kaffrath, who was young and of a forward-looking temperament. His father, a former heavy stockholder of this company, had recently died and left all his holdings and practically his directorship to his only son. Young Kaffrath was by no means a practical street-railway man, though he fancied he could do very well at it if given a [[fate|chance]]. He was the holder of nearly eight hundred of the five thousand shares of stock; but the rest of it was so divided that he could only exercise a minor [[power|influence]]. Nevertheless, from the day of his entrance into the company—which was months before [[frank-cowperwood|Cowperwood]] began seriously to think over the situation—he had been strong for improvements—extensions, more franchises, better cars, better horses, stoves in the cars in winter, and the like, all of which suggestions sounded to his fellow-directors like mere manifestations of the reckless impetuosity of youth, and were almost uniformly opposed.
+
+[022-002]“What’s the matter with them cars?” asked Albert Thorsen, one of the elder directors, at one of the meetings at which Kaffrath was present and offering his usual protest. “I don’t see anything the matter with ’em. I ride in ’em.”
+
+[022-003]Thorsen was a heavy, dusty, tobacco-bestrewn individual of sixty-six, who was a little dull but genial. He was in the paint business, and always wore a very light steel-gray suit much crinkled in the seat and arms.
+
+[022-004]“Perhaps that’s what’s the matter with them, Albert,” chirped up Solon Kaempfaert, one of his cronies on the board.
+
+[022-005]The sally drew a laugh.
+
+[022-006]“Oh, I don’t know. I see the rest of you on board often enough.”
+
+[022-007]“Why, I tell you what’s the matter with them,” replied Kaffrath. “They’re dirty, and they’re flimsy, and the windows rattle so you can’t hear yourself think. The track is no good, and the filthy straw we keep in them in winter is enough to make a person sick. We don’t keep the track in good repair. I don’t wonder people complain. I’d complain myself.”
+
+[022-008]“Oh, I don’t think things are as bad as all that,” put in Onias C. Skinner, the president, who had a face which with its very short side-whiskers was as bland as a Chinese god. He was sixty-eight years of age. “They’re not the best cars in the world, but they’re good cars. They need painting and varnishing pretty badly, some of them, but outside of that there’s many a good year’s wear in them yet. I’d be very glad if we could put in new rolling-stock, but the item of expense will be considerable. It’s these extensions that we have to keep building and the long hauls for five cents which eat up the profits.” The so-called “long hauls” were only two or three miles at the outside, but they seemed long to Mr. Skinner.
+
+[022-009]“Well, look at the [[south-side|South Side]],” persisted Kaffrath. “I don’t know what you people are thinking of. Here’s a cable system introduced in [[philadelphia|Philadelphia]]. There’s another in San Francisco. Someone has invented a car, as I understand it, that’s going to run by electricity, and here we are running cars—barns, I call them—with straw in them. Good Lord, I should think it was about time that some of us took a tumble to ourselves!”
+
+[022-010]“Oh, I don’t know,” commented Mr. Skinner. “It seems to me we have done pretty well by the North Side. We have done a good deal.”
+
+[022-011]Directors Solon Kaempfaert, Albert Thorsen, Isaac White, Anthony Ewer, Arnold C. Benjamin, and Otto Matjes, being solemn gentlemen all, merely sat and stared.
+
+[022-012]The vigorous Kaffrath was not to be so easily repressed, however. He repeated his complaints on other occasions. The fact that there was also considerable complaint in the newspapers from time to time in regard to this same North Side service pleased him in a way. Perhaps this would be the proverbial fire under the terrapin which would cause it to move along.
+
+[022-013]By this time, owing to Cowperwood’s understanding with [[michael-mckenty|McKenty]], all possibility of the North Side company’s securing additional franchises for unoccupied streets, or even the use of the [[lasalle-street|La Salle Street]] tunnel, had ended. Kaffrath did not know this. Neither did the directors or officers of the company, but it was true. In addition, McKenty, through the aldermen, who were at his beck and call on the North Side, was beginning to stir up additional murmurs and complaints in order to discredit the present management. There was a great to-do in council over a motion on the part of somebody to compel the North Side company to throw out its old cars and lay better and heavier tracks. Curiously, this did not apply so much to the West and South Sides, which were in the same condition. The rank and file of the city, ignorant of the tricks which were constantly being employed in politics to effect one end or another, were greatly cheered by this so-called “public uprising.” They little knew the pawns they were in the game, or how little sincerity constituted the primal impulse.
+
+[022-014]Quite by accident, apparently, one day [[judah-addison|Addison]], thinking of the different men in the North Side company who might be of service to Cowperwood, and having finally picked young Kaffrath as the ideal agent, introduced himself to the latter at the [[union-club-organization|Union League]].
+
+[022-015]“That’s a pretty heavy load of expense that’s staring you North and West Side street-railway people in the face,” he took occasion to observe.
+
+[022-016]“How’s that?” asked Kaffrath, curiously, anxious to hear anything which concerned the development of the business.
+
+[022-017]“Well, unless I’m greatly mistaken, you, all of you, are going to be put to the expense of doing over your lines completely in a very little while—so I hear—introducing this new motor or cable system that they are getting on the South Side.” Addison wanted to convey the impression that the city council or public sentiment or something was going to force the North Chicago company to indulge in this great and expensive series of improvements.
+
+[022-018]Kaffrath pricked up his ears. What was the city Council going to do? He wanted to know all about it. They discussed the whole situation—the nature of the cable-conduits, the cost of the powerhouses, the need of new rails, and the necessity of heavier bridges, or some other means of getting over or under the river. Addison took very good care to point out that the Chicago City or South Side Railway was in a much more fortunate position than either of the other two by reason of its freedom from the river-crossing problem. Then he again commiserated the North Side company on its rather difficult position. “Your company will have a very great deal to do, I fancy,” he reiterated.
+
+[022-019]Kaffrath was duly impressed and appropriately depressed, for his eight hundred shares would be depressed in value by the necessity of heavy expenditures for tunnels and other improvements. Nevertheless, there was some consolation in the thought that such betterment, as Addison now described, would in the long run make the lines more profitable. But in the meantime there might be rough sailing. The old directors ought to act soon now, he thought. With the South Side company being done over, they would have to follow suit. But would they? How could he get them to see that, even though it were necessary to mortgage the lines for years to come, it would pay in the long run? He was sick of old, conservative, cautious methods.
+
+[022-020]After the lapse of a few weeks Addison, still acting for Cowperwood, had a second and private conference with Kaffrath. He said, after exacting a promise of secrecy for the present, that since their previous conversation he had become aware of new developments. In the interval he had been visited by several men of long connection with street-railways in other localities. They had been visiting various cities, looking for a convenient outlet for their capital, and had finally picked on Chicago. They had looked over the various lines here, and had decided that the [[north-chicago-street-railway|North Chicago City Railway]] was as good a field as any. He then elaborated with exceeding care the idea which Cowperwood had outlined to him. Kaffrath, dubious at first, was finally won over. He had too long chafed under the dusty, poky attitude of the old regime. He did not know who these new men were, but this scheme was in line with his own ideas. It would require, as Addison pointed out, the expenditure of several millions of dollars, and he did not see how the money could be raised without outside assistance, unless the lines were heavily mortgaged. If these new men were willing to pay a high rate for fifty-one percent of this stock for ninety-nine years and would guarantee a satisfactory rate of interest on all the stock as it stood, besides inaugurating a forward policy, why not let them? It would be just as good as mortgaging the soul out of the old property, and the management was of no value, anyhow. Kaffrath could not see how fortunes were to be made for these new investors out of subsidiary construction and equipment companies, in which Cowperwood would be interested, how by issuing watered stock on the old and new lines the latter need scarcely lay down a dollar once he had the necessary opening capital (the “talking capital,” as he was fond of calling it) guaranteed. Cowperwood and Addison had by now agreed, if this went through, to organize the [[chicago-trust-company|Chicago Trust Company]] with millions back of it to manipulate all their deals. Kaffrath only saw a better return on his stock, possibly a chance to get in on the “ground plan,” as a new phrase expressed it, of the new company.
+
+[022-021]“That’s what I’ve been telling these fellows for the past three years,” he finally exclaimed to Addison, flattered by the latter’s personal attention and awed by his great influence; “but they never have been willing to listen to me. The way this North Side system has been managed is a crime. Why, a child could do better than we have done. They’ve saved on track and rolling-stock, and lost on population. People are what we want up there, and there is only one way that I know of to get them, and that is to give them decent car service. I’ll tell you frankly we’ve never done it.”
+
+[022-022]Not long after this Cowperwood had a short talk with Kaffrath, in which he promised the latter not only six hundred dollars a share for all the stock he possessed or would part with on lease, but a bonus of new company stock for his influence. Kaffrath returned to the North Side jubilant for himself and for his company. He decided after due thought that a roundabout way would best serve Cowperwood’s ends, a line of subtle suggestion from some seemingly disinterested party. Consequently he caused William Johnson, the directing engineer, to approach Albert Thorsen, one of the most vulnerable of the directors, declaring he had heard privately that Isaac White, Arnold C. Benjamin, and Otto Matjes, three other directors and the heaviest owners, had been offered a very remarkable price for their stock, and that they were going to sell, leaving the others out in the cold.
+
+[022-023]Thorsen was beside himself with grief. “When did you hear that?” he asked.
+
+[022-024]Johnson told him, but for the time being kept the source of his information secret. Thorsen at once hurried to his friend, Solon Kaempfaert, who in turn went to Kaffrath for information.
+
+[022-025]“I have heard something to that effect,” was Kaffrath’s only comment, “but really I do not know.”
+
+[022-026]Thereupon Thorsen and Kaempfaert imagined that Kaffrath was in the conspiracy to sell out and leave them with no particularly valuable pickings. It was very sad.
+
+[022-027]Meanwhile, Cowperwood, on the advice of Kaffrath, was approaching Isaac White, Arnold C. Benjamin, and Otto Matjes direct—talking with them as if they were the only three he desired to deal with. A little later Thorsen and Kaempfaert were visited in the same spirit, and agreed in secret fear to sell out, or rather lease at the very advantageous terms Cowperwood offered, providing he could get the others to do likewise. This gave the latter a strong backing of sentiment on the board. Finally Isaac White stated at one of the meetings that he had been approached with an interesting proposition, which he then and there outlined. He was not sure what to think, he said, but the board might like to consider it. At once Thorsen and Kaempfaert were convinced that all Johnson had suggested was true. It was decided to have Cowperwood come and explain to the full board just what his plan was, and this he did in a long, bland, smiling talk. It was made plain that the road would have to be put in shape in the near future, and that this proposed plan relieved all of them of work, worry, and care. Moreover, they were guaranteed more interest at once than they had expected to earn in the next twenty or thirty years. Thereupon it was agreed that Cowperwood and his plan should be given a trial. Seeing that if he did not succeed in paying the proposed interest promptly the property once more became theirs, so they thought, and that he assumed all obligations—taxes, water rents, old claims, a few pensions—it appeared in the light of a rather idyllic scheme.
+
+[022-028]“Well, boys, I think this is a pretty good day’s work myself,” observed Anthony Ewer, laying a friendly hand on the shoulder of Mr. Albert Thorsen. “I’m sure we can all unite in wishing Mr. Cowperwood luck with his adventure.” Mr. Ewer’s seven hundred and fifteen shares, worth seventy-one thousand five hundred dollars, having risen to a valuation of four hundred and twenty-nine thousand dollars, he was naturally jubilant.
+
+[022-029]“You’re right,” replied Thorsen, who was parting with four hundred and eighty shares out of a total of seven hundred and ninety, and seeing them all bounce in value from two hundred to six hundred dollars. “He’s an interesting man. I hope he succeeds.”
+
+---
+
+[022-030]Cowperwood, waking the next morning in Aileen’s room—he had been out late the night before with McKenty, Addison, Videra, and others—turned and, patting her neck where she was dozing, said: “Well, pet, yesterday afternoon I wound up that North Chicago Street Railway deal. I’m president of the new North Side company just as soon as I get my board of directors organized. We’re going to be of some real consequence in this village, after all, in a year or two.”
+
+[022-031]He was hoping that this fact, among other things, would end in mollifying Aileen toward him. She had been so gloomy, remote, weary these many days—ever since the terrific assault on Rita.
+
+[022-032]“Yes?” she replied, with a halfhearted smile, rubbing her waking eyes. She was clad in a foamy nightgown of white and pink. “That’s nice, isn’t it?”
+
+[022-033]Cowperwood brought himself up on one elbow and looked at her, smoothing her round, bare arms, which he always admired. The luminous richness of her hair had never lost its charm completely.
+
+[022-034]“That means that I can do the same thing with the Chicago West Division Company in a year or so,” he went on. “But there’s going to be a lot of talk about this, I’m afraid, and I don’t want that just now. It will work out all right. I can see [[norman-schryhart|Schryhart]] and [[anson-merrill|Merrill]] and some of these other people taking notice pretty soon. They’ve missed out on two of the biggest things Chicago ever had—gas and railways.”
+
+[022-035]“Oh yes, Frank, I’m glad for you,” commented Aileen, rather drearily, who, in spite of her sorrow over his defection, was still glad that he was going on and forward. “You’ll always do all right.”
+
+[022-036]“I wish you wouldn’t feel so badly, Aileen,” he said, with a kind of affectional protest. “Aren’t you going to try and be happy with me? This is as much for you as for me. You will be able to pay up old scores even better than I will.”
+
+[022-037]He smiled winningly.
+
+[022-038]“Yes,” she replied, reproachfully but tenderly at that, a little sorrowfully, “a lot of good money does me. It was your love I wanted.”
+
+[022-039]“But you have that,” he insisted. “I’ve told you that over and over. I never ceased to care for you really. You know I didn’t.”
+
+[022-040]“Yes, I know,” she replied, even as he gathered her close in his arms. “I know how you care.” But that did not prevent her from responding to him warmly, for back of all her fuming protest was heartache, the wish to have his love intact, to restore that pristine affection which she had once assumed would endure forever.

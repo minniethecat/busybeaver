@@ -1,49 +1,46 @@
 ---
+description: "Wollstonecraft's conception of fortitude as a cardinal virtue that should be cultivated universally, regardless of sex; paired with truth as essential to moral character and contrasted with the false 'patience' imposed on women."
 id: fortitude
-label: Fortitude
+label: "Fortitude"
+tags: ["concept"]
 type: concept
-description: "The strength of mind and moral perseverance Wollstonecraft identifies as a cornerstone of human virtue, arguing that women have been systematically denied the cultivation of fortitude through their restricted education"
-tags: ["virtue", "character", "gender", "education"]
 ---
 
-The moral strength and steadfastness of character that Wollstonecraft identifies, echoing Rousseau's own words back at him, as "the corner stones of all human virtue" (002-031). She argues that fortitude—the capacity to endure hardship, resist temptation, and pursue principle in the face of opposition—is deliberately denied to women by an education that prizes "gentleness" over strength.
+# Fortitude
 
 ## Definition
 
-Wollstonecraft defines fortitude as the capacity for sustained moral effort and the strength of mind that enables a person to act on principle rather than impulse or social pressure. It combines intellectual resolve—the willingness to think through difficult problems—with moral courage—the willingness to act on one's convictions. "Fortitude presupposes strength of mind," she writes, and this strength can only be acquired through the exercise of reason and the habit of overcoming resistance (012-095).
+For Wollstonecraft, **fortitude** is a cardinal virtue that she explicitly pairs with [[truth]] as one of "the corner stones of all human virtue" [002-041]. It denotes strength of mind, perseverance, and the capacity to withstand adversity through rational resolve rather than passive endurance. Wollstonecraft insists that fortitude should be cultivated universally — in women as well as men — because virtue is not sex-dependent: "let their virtues be the same in kind, though they may vainly struggle for the same degree" [002-088].
 
-Crucially, fortitude is not gendered in Wollstonecraft's account. She explicitly rejects the notion that women are naturally less capable of fortitude than men. The apparent difference is the product of education: men are trained "to submit to a few years of discipline" that cultivates fortitude, while women are "treated like queens only to be deluded by hollow respect" (003-017). The same capacity for fortitude exists in both sexes; only the opportunities for its cultivation differ.
+Crucially, Wollstonecraft distinguishes fortitude from the false virtues imposed on women under the name of gentleness or patience. She condemns "insipid softness, varnished over with the name of gentleness" as a substitute for "that fortitude which grand views alone can inspire" [002-046]. True fortitude is an active, rational quality — not the meek acquiescence expected of women under patriarchal social arrangements.
 
-## Wollstonecraft's Argument
+## In Context
 
-Wollstonecraft deploys the concept of fortitude as a weapon against the ideology of feminine weakness. She quotes Rousseau's assertion that "truth and fortitude" are the cornerstones of virtue, then turns the claim against him: if fortitude is essential to virtue, and women are denied the education that cultivates fortitude, then women are being systematically denied the capacity for virtue itself. "The being who discharges the duties of its station," she writes, "is independent; and, speaking of women at large, their first duty is to themselves as rational creatures" (002-031).
+Fortitude appears across multiple chapters of the *Vindication*, most concentrated in Chapter II where Wollstonecraft challenges Rousseau's claim that [[truth]] and fortitude should be "cultivated with certain restrictions" for women [002-041]. Chapter III frames fortitude among the "heroic virtues" that Rousseau admired yet denied to women [003-015]. In Chapter V, Wollstonecraft argues that men possess "superior judgment and more fortitude" only because they enjoy a "freer scope to the grand passions" and greater opportunity to exercise their faculties [005-148]. Chapter XII returns to fortitude as essential to maternal character, arguing that "fortitude presupposes strength of mind" and cannot be acquired through "indolent acquiescence" [012-084].
 
-The military ideal of courage provides an instructive contrast. Wollstonecraft notes that society celebrates masculine fortitude in the form of martial valor while dismissing feminine fortitude as unwomanly. "His respect for self-denial, fortitude and those heroic virtues," she observes of the typical man, is reserved for other men (003-017). Women who display the same qualities are met with "ridicule" rather than respect.
-
-Her educational recommendations center on building fortitude through active discipline. Girls must be encouraged, not sheltered; challenged, not flattered. Physical exercise, intellectual exertion, and moral independence are all means to the same end: a character capable of withstanding the pressures that corrupt virtue. "Let their virtues be the same," she insists, "if they have not the same name" (002-080).
-
-### Contrast with Contemporary Views
-
-The concept of "feminine gentleness" in eighteenth-century conduct literature was explicitly opposed to masculine fortitude. Gregory advised women to cultivate "softness"; Rousseau's Sophie was designed to complement rather than challenge Émile. Wollstonecraft rejects this complementarity model entirely. Fortitude is a human virtue, not a masculine one, and women who lack it have been deformed by their education, not preserved in their natural state. "My own sex," she writes, "I hope, will excuse me, if I treat them like rational creatures, instead of flattering their fascinating graces" (P03-002).
+Throughout the text, fortitude is contrasted with the artificial softness prescribed for women, which Wollstonecraft regards as a deliberate strategy to keep them dependent and incapable of [[virtue]] in its genuine sense.
 
 ## Key Passages
 
-> Rousseau exerts himself to prove that truth and fortitude, the corner stones of all human virtue, should be cultivated with certain restrictions; and with his usual paradox, he seems to deduce all the virtues from weakness and dependence. But the being who discharges the duties of its station is independent. (002-031)
+> "He carries the arguments, which he pretends to draw from the indications of nature, still further, and insinuates that truth and fortitude the corner stones of all human virtue, shall be cultivated with certain restrictions, because with respect to the female character, obedience is the grand lesson which ought to be impressed with unrelenting rigour." [002-041]
 
-> Let theirs be the same, 'the strength of mind, perseverance and fortitude, let their virtues be the same,' if they have not the same name. (002-080)
+> "It follows then, that cunning should not be opposed to wisdom, little cares to great exertions, nor insipid softness, varnished over with the name of gentleness, to that fortitude which grand views alone can inspire." [002-046]
 
-> Fortitude presupposes strength of mind, and the being who thinks with precision must act with decision. Women have seldom sufficient serious employment to silence their feelings; a round of little cares, or vain pursuits frittering away all strength of mind and body, they become only the objects of sensation. (012-095)
+> "Further, should experience prove that they cannot attain the same degree of strength of mind, perseverance and fortitude, let their virtues be the same in kind, though they may vainly struggle for the same degree; and the superiority of man will be equally clear, if not clearer; and truth, as it is a simple principle, which admits of no modification, would be common to both." [002-088]
+
+> "One reason why men have superior judgment and more fortitude than women, is undoubtedly this, that they give a freer scope to the grand passions, and by more frequently going astray, enlarge their minds." [005-148]
 
 ## Related Concepts
 
-- [[Strength]] — fortitude as mental and moral strength, as opposed to mere physical vigor
-- [[Industry]] — the active virtue of sustained effort that reinforces fortitude
-- [[Virtue]] — the broader ethical framework within which fortitude is foundational
-- [[Discipline]] — the educational method by which fortitude is cultivated
-- [[Gentleness]] — the false feminine virtue that Wollstonecraft argues should be replaced by genuine fortitude
+- [[truth]] — paired with fortitude as the "corner stones of all human virtue" [002-041]
+- [[virtue]] — the moral category within which fortitude operates as a cardinal component
+- [[reason]] — the faculty that underpins genuine fortitude; "fortitude presupposes strength of mind" [012-084]
+- [[patience]] — the false virtue Wollstonecraft contrasts with true fortitude; a "patient fortitude of reason" is distinguished from passive submission [012-084]
+- [[character]] — fortitude as essential to moral character, "united with the fortitude that distinguishes steadiness of conduct" [012-084]
+- [[judgment]] — men possess superior judgment and fortitude only due to greater freedom to exercise their faculties [005-148]
+- [[education]] — fortitude is acquired through education and the exercise of reason, not through indolence
+- [[independence]] — Rousseau's denial of female independence is framed as the context for denying women fortitude [002-041]
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose concept of virtue as resting on "truth and fortitude" Wollstonecraft appropriates and turns against his gendered educational program
-- [[Mary Wollstonecraft]] — whose own career exemplifies the fortitude she advocates, persevering against "the bar of opinion"
-- [[Catherine Macaulay]] — praised by Wollstonecraft for embodying the intellectual fortitude denied to most women
+- [[rousseau|Jean-Jacques Rousseau]] — Wollstonecraft's primary antagonist on this concept; she attacks his claim that truth and fortitude should be cultivated with restrictions for women [002-041], yet acknowledges that he "respected — almost adored virtue" and admired "self-denial, fortitude and those heroic virtues" [003-015]

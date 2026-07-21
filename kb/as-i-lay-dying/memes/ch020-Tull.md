@@ -1,0 +1,73 @@
+---
+description: "It was nigh to midnight and it had set in to rain when he woke us."
+id: ch020-Tull
+label: "Tull"
+tags: ["chapter"]
+type: chapter
+---
+
+# Tull
+
+## Tull
+
+[016-001]It was nigh to midnight and it had set in to [[water-and-river|rain]] when he woke us. It had been a misdoubtful night, with the storm making; a night when a fellow looks for most anything to happen before he can get the stock fed and himself to the house an supper et and in bed with the rain starting, and when Peabody’s team come up, lathered, with the broke harness dragging and the neck-yoke betwixt the off critter’s legs, Cora says “It’s [[addie-bundren|Addie Bundren]]. She’s gone at last.”
+
+[016-002]“Peabody mought have been to ere a one of a dozen houses hereabouts,” I says. “Besides, how do you know it’s Peabody’s team?”
+
+[016-003]“Well, ain’t it?” she says. “You hitch up, now.”
+
+[016-004]“What for?” I says. “If she is gone, we can’t do nothing till morning. And it fixing to storm too.”
+
+[016-005]“It’s my [[family-duty|duty]],” she says. “You put the team in.”
+
+[016-006]But I wouldn’t do it. “It stands to reason they’d send for us if they needed us. You don’t even know she’s gone yet.”
+
+[016-007]“Why, don’t you know that’s Peabody’s team? Do you claim it ain’t? Well, then.” But I wouldn’t go. When folks wants a fellow, it’s best to wait till they sends for him, I’ve found. “It’s my Christian duty,” Cora says. “Will you stand between me and my Christian duty?”
+
+[016-008]“You can stay there all day tomorrow, if you want,” I says.
+
+[016-009]So when Cora waked me it had set in to rain. Even while I was going to the door with the lamp and it shining on the glass so he could see I am coming, it kept on knocking. Not loud, but steady, like he might have gone to sleep thumping, but I never noticed how low down on the door the knocking was till I opened it and never seen nothing. I held the lamp up, with the rain sparkling across it and Cora back in the hall saying “Who is it, Vernon?” but I couldn’t see nobody a-tall at first until I looked down and around the door, lowering the lamp.
+
+[016-010]He looked like a drowned puppy, in them overalls, without no hat, splashed up to his knees where he had walked them four miles in the mud. “Well, I’ll be durned,” I says.
+
+[016-011]“Who is it, Vernon?” Cora says.
+
+[016-012]He looked at me, his eyes round and black in the middle like when you throw a light in a owl’s face. “You mind that ere fish,” he says.
+
+[016-013]“Come in the house,” I says. “What is it? Is your maw—”
+
+[016-014]“Vernon,” Cora says.
+
+[016-015]He stood kind of around behind the door, in the dark. The rain was blowing on to the lamp, hissing on it so I am scared every minute it’ll break. “You was there,” he says. “You seen it.”
+
+[016-016]Then Cora come to the door. “You come right in outen the rain,” she says, pulling him in and him watching me. He looked just like a drowned puppy. “I told you,” Cora says. “I told you it was a-happening. You go and hitch.”
+
+[016-017]“But he ain’t said—” I says.
+
+[016-018]He looked at me, dripping on to the floor. “He’s a-ruining the rug,” Cora says. “You go get the team while I take him to the kitchen.”
+
+[016-019]But he hung back, dripping, watching me with them eyes. “You was there. You seen it laying there. [[cash-bundren|Cash]] is fixing to nail her up, and it was a-laying right there on the ground. You seen it. You seen the mark in the dirt. The rain never come up till after I was a-coming here. So we can get back in time.”
+
+[016-020]I be durn if it didn’t give me the creeps, even when I didn’t know yet. But Cora did. “You get that team quick as you can,” she says. “He’s outen his head with grief and worry.”
+
+[016-021]I be durn if it didn’t give me the creeps. Now and then a fellow gets to thinking. [[About]] all the sorrow and afflictions in this world; how it’s liable to strike anywhere, like lightning. I reckon it does take a powerful trust in the Lord to guard a fellow, though sometimes I think that Cora’s a mite overcautious, like she was trying to crowd the other folks away and get in closer than anybody else. But then, when something like this happens, I reckon she is right and you got to keep after it and I reckon I am blessed in having a wife that ever strives for sanctity and well-doing like she says I am.
+
+[016-022]Now and then a fellow gets to thinking about it. Not often, though. Which is a good thing. For the Lord aimed for him to do and not to spend too much time thinking, because his brain it’s like a piece of machinery: it won’t stand a whole lot of racking. It’s best when it all runs along the same, doing the day’s [[work-and-craft|work]] and not no one part used no more than needful. I have said and I say again, that’s ever living thing the matter with [[darl-bundren|Darl]]: he just thinks by himself too much. Cora’s right when she says all he needs is a wife to straighten him out. And when I think about that, I think that if nothing but being married will help a man, he’s durn nigh hopeless. But I reckon Cora’s right when she says the reason the Lord had to create women is because man don’t know his own good when he sees it.
+
+[016-023]When I come back to the house with the team, they was in the kitchen. She was dressed on top of her nightgown with a shawl over her head and her umbrella and her Bible wrapped up in the oilcloth, and him sitting on a upturned bucket on the stove-zinc where she had put him, dripping on to the floor. “I can’t get nothing outen him except about a fish,” she says. “It’s a judgment on them. I see the hand of the Lord upon this boy for [[anse-bundren|Anse Bundren]]’s judgment and warning.”
+
+[016-024]“The rain never come up till after I left,” he says. “I had done left. I was on the way. And so it was there in the dust. You seen it. Cash is fixing to nail her, but you seen it.”
+
+[016-025]When we got there it was raining hard, and him sitting on the seat between us, wrapped up in Cora’s shawl. He hadn’t said nothing else, just sitting there with Cora holding the umbrella over him. Now and then Cora would stop singing long enough to say “It’s a judgment on Anse Bundren. May it show him the path of sin he is a-trodding.” Then she would sing again, and him sitting there between us, leaning forward a little like the mules couldn’t go fast enough to suit him.
+
+[016-026]“It was laying right yonder,” he says, “but the rain come up after I taken and left. So I can go and open the windows, because Cash ain’t nailed her yet.”
+
+[016-027]It was long a-past midnight when we drove the last nail, and almost dust-dawn when I got back home and taken the team out and got back in bed, with Cora’s nightcap laying on the other pillow. And be durned if even then it wasn’t like I could still hear Cora singing and feel that boy leaning forward between us like he was ahead of the mules, and still see Cash going up and down with that saw, and Anse standing there like a scarecrow, like he was a steer standing knee-deep in a pond and somebody come by and set the pond up on edge and he ain’t missed it yet.
+
+[016-028]It was nigh toward daybreak when we drove the last nail and toted it into the house, where she was laying on the bed with the window open and the rain blowing on her again. Twice he did it, and him so dead for sleep that Cora says his face looked like one of these here Christmas masts that had done been buried a while and then dug up, until at last they put her into it and nailed it down so he couldn’t open the window on her no more. And the next morning they found him in his shirttail laying asleep on the floor like a felled steer, and the top of [[addies-coffin|the box]] bored clean full of holes and Cash’s new auger broke off in the last one. When they taken the lid off they found that two of them had bored on into her face.
+
+[016-029]If it’s a judgment, it ain’t right. Because the Lord’s got more to do than that. He’s bound to have. Because the only burden Anse Bundren’s ever had is himself. And when folks talks him low, I think to myself he ain’t that less of a man or he couldn’t a bore himself this long.
+
+[016-030]It ain’t right. I be durn if it is. Because He said Suffer little children to come unto Me don’t make it right, neither. Cora said, “I have bore you what the Lord [[religion-and-faith|God]] sent me. I faced it without fear nor terror because my faith was strong in the Lord, a-bolstering and sustaining me. If you have no son, it’s because the Lord has decreed otherwise in His wisdom. And my life is and has ever been a open book to ere a man or woman among His creatures because I trust in my God and my reward.”
+
+[016-031]I reckon she’s right. I reckon if there’s ere a man or woman anywhere that He could turn it all over to and go away with His mind at rest, it would be Cora. And I reckon she would make a few changes, no matter how He was running it. And I reckon they would be for man’s good. Leastways, we would have to like them. Leastways, we might as well go on and make like we did.

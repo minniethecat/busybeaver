@@ -1,0 +1,109 @@
+---
+description: "Letter LXIII"
+id: Letter-LXIII
+label: "Letter LXIII"
+tags: ["chapter"]
+type: chapter
+---
+
+[063-001] Evelina in Continuation
+
+[063-002] Bristol Hotwells, Sept. 16th.
+
+[063-003] Oh, Sir, Lord Orville is still himself! still what, from the moment I beheld, I believed him to be—all that is amiable in man! and your happy Evelina, restored at once to spirits and tranquillity, is no longer sunk in her own opinion, nor discontented with the world;—no longer, with dejected eyes, sees the prospect of passing her future days in sadness, doubt, and suspicion!—with revived courage she now looks forward, and expects to meet with goodness, even among mankind:—though still she feels, as strongly as ever, the folly of hoping, in any *second* instance, to meet with *perfection*.
+
+[063-004] Your conjecture was certainly right; Lord Orville, when he wrote that letter, could not be in his senses. Oh that intemperance should have power to degrade so low, a man so noble!
+
+[063-005] This morning I accompanied Mrs. Selwyn to Clifton Hill, where, beautifully situated, is the house of Mrs. Beaumont. Most uncomfortable were my feelings during our walk, which was very slow; for the agitation of my mind made me more than usually sensible how weak I still continue. As we entered the house, I summoned all my resolution to my aid, determined rather to die than give Lord Orville reason to attribute my weakness to a wrong cause. I was happily relieved from my perturbation, when I saw Mrs. Beaumont was alone. We sat with her for, I believe, an hour without interruption; and then we saw a phaeton drive up to the gate, and a lady and gentleman alight from it.
+
+[063-006] They entered the parlour with the ease of people who were at home. The gentleman, I soon saw, was Lord Merton: he came shuffling into the room with his boots on, and his whip in his hand; and having made something like a bow to Mrs. Beaumont, he turned towards me. His surprise was very evident; but he took no manner of notice of me. He waited, I believe, to discover, first, what chance had brought me to that house, where he did not look much rejoiced at meeting me. He seated himself very quietly at the window, without speaking to anybody.
+
+[063-007] Meantime the lady, who seemed very young, hobbling rather than walking into the room, made a passing courtsy to Mrs. Beaumont, saying, “How are you, Ma’am?” and then, without noticing anybody else, with an air of languor she flung herself upon a sofa, protesting, in a most affected voice, and speaking so softly she could hardly be heard, that she was fatigued to death. “Really, Ma’am, the roads are so monstrous dusty—you can’t imagine how troublesome the dust is to one’s eyes!—and the sun, too, is monstrous disagreeable!—I dare say I shall be so tanned: I shan’t be fit to be seen this age. Indeed, my Lord, I won’t go out with you any more, for you don’t care where you take one.”
+
+[063-008] “Upon my honour,” said Lord Merton, “I took you, the pleasantest ride in England; the fault was in the sun, not me.”
+
+[063-009] “Your Lordship is in the right,” said Mrs. Selwyn, “to transfer the fault to the *sun*, because it has so many excellencies to counterbalance partial inconveniences that a *little* blame will not injure *that* in our estimation.”
+
+[063-010] Lord Merton looked by no means delighted at this attack; which I believe she would not so readily have made, but to revenge his neglect of us.
+
+[063-011] “Did you meet your brother, Lady Louisa?” said Mrs. Beaumont.
+
+[063-012] “No, Ma’am. Is he rode out this morning?”
+
+[063-013] I then found, what I had before suspected, that this lady was Lord Orville’s sister: how strange, that such near relations should be so different to each other! There is, indeed, some resemblance in their features; but, in their manners, not the least.
+
+[063-014] “Yes,” answered Mrs. Beaumont, “and I believe he wished to see you.”
+
+[063-015] “My Lord drove so monstrous fast,” said Lady Louisa, “that perhaps we passed him. He frightened me out of my senses; I declare my head is quite giddy. Do you know, Ma’am, we have done nothing but quarrel all the morning?—You can’t think how I’ve scolded; have not I, my Lord?” and she smiled expressively at Lord Merton.
+
+[063-016] “You have been, as you always are,” said he, twisting his whip with his fingers, “all sweetness.”
+
+[063-017] “O fie, my Lord,” cried she, “I know you don’t think so; I know you think me very ill-natured;—don’t you, my Lord?”
+
+[063-018] “No, upon my honour;—how can your Ladyship ask such a question? Pray how goes time? my watch stands.”
+
+[063-019] “It is almost three,” answered Mrs. Beaumont.
+
+[063-020] “Lord, Ma’am, you frighten me!” cried Lady Louisa; and then, turning to Lord Merton, “why now, you wicked creature you, did you not tell me it was but one?”
+
+[063-021] Mrs. Selwyn then rose to take leave; but Mrs. Beaumont asked if she would look at the shrubbery. “I should like it much,” answered she, “but that I fear to fatigue Miss Anville.”
+
+[063-022] Lady Louisa, then, raising her head from her hand, on which it had leant, turned round to look at me; and having fully satisfied her curiosity, without any regard to the confusion it gave me, turned about, and, again leaning on her hand, took no further notice of me.
+
+[063-023] I declared myself very able to walk, and begged that I might accompany them. “What say *you*, Lady Louisa,” cried Mrs. Beaumont, “to a stroll in the garden?”
+
+[063-024] “Me, Ma’am!—I declare I can’t stir a step; the heat is so excessive, it would kill me. I’m half dead with it already; besides, I shall have no time to dress. Will anybody be here today, Ma’am?”
+
+[063-025] “I believe not, unless Lord Merton will favour us with his company.”
+
+[063-026] “With great pleasure, Madam.”
+
+[063-027] “Well, I declare you don’t deserve to be asked,” cried Lady Louisa, “you wicked creature you!—I *must* tell you one thing, Ma’am—you can’t think how abominable he was! do you know we met Mr. Lovel in his new phaeton, and my Lord was so cruel as to drive against it?—we really flew. I declare I could not breathe. Upon my word, my Lord, I’ll never trust myself with you again—I won’t indeed.”
+
+[063-028] We then went into the garden, leaving them to discuss the point at their leisure.
+
+[063-029] Do you remember a *pretty but affected young lady* I mentioned to have seen, in Lord Orville’s party, at the Pantheon? How little did I then imagine her to be his sister! yet Lady Louisa Larpent is the very person. I can now account for the piqued manner of her speaking to Lord Merton that evening, and I can now account for the air of displeasure with which Lord Orville marked the undue attention of his future brother-in-law to me.
+
+[063-030] We had not walked long, ere, at a distance, I perceived Lord Orville, who seemed just dismounted from his horse, enter the garden. All my perturbation returned at the sight of him!—yet I endeavoured to repress every feeling but resentment. As he approached us, he bowed to the whole party; but I turned away my head to avoid taking any share in his civility. Addressing himself immediately to Mrs. Beaumont, he was beginning to enquire after his sister: but, upon seeing my face, he suddenly exclaimed, “Miss Anville!—” and then he advanced, and made his compliments to me—not with an air of vanity or impertinence, nor yet with a look of consciousness or shame;—but with a countenance open, manly, and charming!—with a smile that indicated pleasure, and eyes that sparkled with delight!—on *my* side was all that consciousness; for by him, I really believe, the letter was, at that moment, entirely forgotten.
+
+[063-031] With what politeness did he address me! with what sweetness did he look at me! the very tone of his voice seemed flattering! he congratulated himself upon his good fortune in meeting with me;—hoped I should spend some time in Bristol, and enquired, even with anxiety enquired, if my health was the cause of my journey; in which case his satisfaction would be converted into apprehension.
+
+[063-032] Yet, struck as I was with his manner, and charmed to find him such as he was wont to be, imagine not, my dear Sir, that I forgot the resentment I owe him, or the cause he has given me of displeasure; no, my behaviour was such, as I hope, had you seen, you would not have disapproved: I was grave and distant; I scarce looked at him when he spoke, or answered him when he was silent.
+
+[063-033] As he must certainly observe this alteration in my conduct, I think it could not fail making him both recollect and repent the provocation he had so causelessly given me; for surely he was not so wholly lost to reason, as to be now ignorant he had ever offended me.
+
+[063-034] The moment that, without absolute rudeness, I was able, I turned entirely from him, and asked Mrs. Selwyn if we should not be late home? How Lord Orville looked I know not, for I avoided meeting his eyes; but he did not speak another word as we proceeded to the garden gate. Indeed, I believe, my abruptness surprised him, for he did not seem to expect I had so much spirit. And, to own the truth, convinced as I was of the propriety, nay, necessity, of showing my displeasure, I yet almost hated myself for receiving his politeness so ungraciously.
+
+[063-035] When we were taking leave, my eyes accidentally meeting his, I could not but observe that his gravity equalled my own; for it had entirely taken place of the smiles and good humour with which he had met me.
+
+[063-036] “I am afraid this young lady,” said Mrs. Beaumont, “is too weak for another long walk till she is again rested.”
+
+[063-037] “If the ladies will trust to my driving,” said Lord Orville, “and are not afraid of a phaeton, mine shall be ready in a moment.”
+
+[063-038] “You are very good, my Lord,” said Mrs. Selwyn, “but my will is yet unsigned, and I don’t choose to venture in a phaeton with a young man while that is the case.”
+
+[063-039] “O,” cried Mrs. Beaumont, “you need not be afraid of my Lord Orville, for he is remarkably careful.”
+
+[063-040] “Well, Miss Anville,” answered she, “what say you?”
+
+[063-041] “Indeed,” cried I, “I had much rather walk—.” But then, looking at Lord Orville, I perceived in his face a surprise so serious at my abrupt refusal, that I could not forbear adding, “for I should be sorry to occasion so much trouble.”
+
+[063-042] Lord Orville, brightening at these words, came forward, and pressed his offer in a manner not to be denied;—so the phaeton was ordered! And indeed, my dear Sir—I know not how it was;—but, from that moment, my coldness and reserve insensibly wore away! You must not be angry—it was my intention, nay, my endeavour, to support them with firmness: but when I formed the plan, I thought only of the letter—not of Lord Orville!—and how is it possible for resentment to subsist without provocation? yet, believe me, my dearest Sir, had he sustained the part he began to act when he wrote this ever-to-be-regretted letter, your Evelina would have not forfeited her title to your esteem, by contentedly submitting to be treated with indignity.
+
+[063-043] We continued in the garden till the phaeton was ready. When we parted from Mrs. Beaumont, she repeated her invitation to Mrs. Selwyn to accept an apartment in her house; but the reason I have already mentioned made it be again declined.
+
+[063-044] Lord Orville drove very slow, and so cautiously, that, notwithstanding the height of the phaeton, fear would have been ridiculous. I supported no part in the conversation; but Mrs. Selwyn extremely well supplied the place of two. Lord Orville himself did not speak much; but the excellent sense and refined good-breeding which accompany every word he utters, give value and weight to whatever he says.
+
+[063-045] “I suppose, my Lord,” said Mrs. Selwyn, when we stopped at our lodgings, “you would have been extremely confused had we met any gentlemen who have the honour of knowing you.”
+
+[063-046] “If I had,” answered he, gallantly, “it would have been from mere compassion at their envy.”
+
+[063-047] “No, my Lord,” answered she, “it would have been from mere shame, that, in an age so daring, you alone should be such a coward as to forbear to frighten women.”
+
+[063-048] “O,” cried he, laughing, “when a man is in a fright for himself, the ladies cannot but be in security; for you have not had half the apprehension for the safety of your persons, that I have for that of my heart.” He then alighted, handed us out, took leave, and again mounting the phaeton, was out of sight in a minute.
+
+[063-049] “Certainly,” said Mrs. Selwyn, when he was gone, “there must have been some mistake in the birth of that young man; he was, undoubtedly, designed for the last age; for he is really polite!”
+
+[063-050] And now, my dear Sir, do not you think, according to the present situation of affairs, I may give up my resentment, without imprudence or impropriety? I hope you will not blame me. Indeed, had you, like me, seen his respectful behaviour, you would have been convinced of the impracticability of supporting any further indignation.
+
+### Letter LXIV: Evelina in Continuation

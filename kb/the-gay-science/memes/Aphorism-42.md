@@ -1,0 +1,86 @@
+---
+description: ""
+id: Aphorism-42
+label: "Aphorism 42"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book I
+
+### 42.
+
+### 42.
+
+
+*Work and Ennui.*—In respect to seeking work
+
+for the sake of the pay, almost all men are alike
+
+at present in civilised countries; to all of them
+
+work is a means, and not itself the end; on which
+
+account they are not very select in the choice of the
+
+work, provided it yields an abundant profit. But
+
+still there are rarer men who would rather perish
+
+than work without *delight* in their labour: the
+
+fastidious people, difficult to satisfy, whose object
+
+is not served by an abundant profit, unless the work
+
+itself be the reward of all rewards. Artists and
+
+contemplative men of all kinds belong to this rare
+
+species of human beings; and also the idlers who
+
+spend their life in hunting and travelling, or in
+
+love affairs and adventures. They all seek toil
+
+and trouble in so far as these are associated with
+
+pleasure, and they want the severest and hardest
+
+labour, if it be necessary. In other respects, however,
+
+they have a resolute indolence, even should
+
+impoverishment, dishonour, and danger to health
+
+and life be associated therewith. They are not so
+
+much afraid of ennui as of labour without pleasure;
+
+indeed they require much ennui, if *their* work is to
+
+succeed with them. For the thinker and for all
+
+inventive spirits ennui is the unpleasant "calm"
+
+of the soul which precedes the happy voyage and
+
+the dancing breezes; he must endure it, he must
+
+*await* the effect it has on him:—it is precisely *this*
+
+which lesser natures cannot at all experience! It
+
+is common to scare away ennui in every way, just
+
+as it is common to labour without pleasure. It
+
+perhaps distinguishes the Asiatics above the Europeans,
+
+that they are capable of a longer and profounder
+
+repose; even their narcotics operate slowly
+
+and require patience, in contrast to the obnoxious
+
+suddenness of the European poison, alcohol.

@@ -1,0 +1,136 @@
+---
+description: ""
+id: Aphorism-127
+label: "Aphorism 127"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 127.
+
+### 127.
+
+
+*After-Effect of the most Ancient Religiousness.*—The
+
+thoughtless man thinks that the Will is the
+
+only thing that operates, that willing is something
+
+simple, manifestly given, underived, and comprehensible
+
+in itself. He is convinced that when he does
+
+anything, for example, when he delivers a blow,
+
+it is *he* who strikes, and he has struck because
+
+he *willed* to strike. He does not notice anything
+
+of a problem therein, but the feeling of
+
+*willing* suffices to him, not only for the acceptance
+
+of cause and effect, but also for the belief that he
+
+*understands* their relationship. Of the mechanism
+
+of the occurrence and of the manifold subtle operations
+
+that must be performed in order that the
+
+blow may result, and likewise of the incapacity
+
+of the Will in itself to effect even the smallest part
+
+of those operations—he knows nothing. The Will
+
+is to him a magically operating force; the belief
+
+in the Will as the cause of effects is the belief in
+
+magically operating forces. In fact, whenever he saw
+
+anything happen, man originally believed in a Will
+
+as cause, and in personally *willing* beings operating
+
+in the background,—the conception of mechanism
+
+was very remote from him. Because, however, man
+
+for immense periods of time believed only in
+
+persons (and not in matter, forces, things, &c.),
+
+the belief in cause and effect has become a fundamental
+
+belief with him, which he applies everywhere
+
+when anything happens,—and even still uses
+
+instinctively as a piece of atavism of remotest origin.
+
+The propositions, "No effect without a cause," and
+
+"Every effect again implies a cause," appear as
+
+generalisations of several less general propositions:—"Where
+
+there is operation there has been *willing*,"
+
+"Operating is only possible on *willing* beings."
+
+"There is never a pure, resultless experience of
+
+activity, but every experience involves stimulation
+
+of the Will" (to activity, defence, revenge or retaliation).
+
+But in the primitive period of the human
+
+race, the latter and the former propositions were
+
+identical, the first were not generalisations of the
+
+second, but the second were explanations of the
+
+first.—Schopenhauer, with his assumption that all
+
+that exists is something *volitional*, has set a primitive
+
+mythology on the throne; he seems never to
+
+have attempted an analysis of the Will, because
+
+he *believed* like everybody in the simplicity and
+
+immediateness of all volition:—while volition is
+
+in fact such a cleverly practised mechanical process
+
+that it almost escapes the observing eye. I set the
+
+following propositions against those of Schopenhauer:—Firstly,
+
+in order that Will may arise, an
+
+idea of pleasure and pain is necessary. Secondly,
+
+that a vigorous excitation may be felt as pleasure
+
+or pain, is the affair of the *interpreting* intellect,
+
+which, to be sure, operates thereby for the most part
+
+unconsciously to us, and one and the same excitation
+
+*may* be interpreted as pleasure or pain. Thirdly,
+
+it is only in an intellectual being that there is
+
+pleasure, displeasure and Will; the immense
+
+majority of organisms have nothing of the kind.

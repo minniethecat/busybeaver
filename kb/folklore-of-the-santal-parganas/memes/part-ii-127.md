@@ -1,0 +1,11 @@
+---
+description: "A Santal folk tale: The Deaf Family"
+id: part-ii-127
+label: "CXXVII. The Deaf Family"
+tags: ["folklore", "santal", "animal-tale"]
+type: chapter
+---
+
+[127-001]Formerly Santals were very stupid and much afraid of Hindus; and once a Santal was ploughing at a place where two roads met and a Hindu came along and asked him, in Hindi, where the two roads went to; now the Santal did not understand Hindi and was also deaf and he thought that the Hindu said "These two bullocks are mine,"--and he answered "When did I take your bullocks?" The Hindu sat down and repeated his question; but the Santal did not understand and continued to assert that the bullocks were his and were named Rice eater and Jaituk[2] and had formed part of his wife's dowry; the Hindu kept on asking about the roads and at last the Santal got frightened and thought "perhaps my father-in-law took the bullocks from this man and at any rate he will beat me and take them by force"; so he unyoked his bullocks and handed them over to the stranger; and the Hindu when he found out what was meant went off with them as fast as he could.
+
+[127-002]Soon after the Santal's mother brought him out his dinner and he told her what had happened about the bullocks! And she also was deaf and thought that he was complaining that the rice had no salt in it; so she answered, "Your wife gave it to me like this; I cannot say whether she put salt into it; come, eat it up." After he had eaten his dinner the old woman took the dishes home; and she found her husband cutting out a rice pounder; and she told him how their son had scolded her because there was no salt in the rice; and the husband was also deaf and he thought that she wanted to know what he was making and he answered crossly "It may be a rice pounder and it may be a rice mortar." And as often as she repeated her story he made this answer and told her not to worry him. Then she went to her daughter-in-law who was also deaf and sat spinning in the verandah; and she scolded her for not putting salt in the rice; and she answered "Who knows what I am spinning; the thread may be all knotty, but still I reel it up." And this is the end of the story. Thus the man lost his bullocks through cross questions and crooked answers; and as the whole family talked like that they soon became poor.

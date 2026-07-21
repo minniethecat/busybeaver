@@ -1,0 +1,6804 @@
+{
+  "book": "common-sense-paine",
+  "title": "Common Sense (Paine)",
+  "description": "Common Sense (Paine) — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 122,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"常识\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Overview of Thomas Paine''s Common Sense (1776), the revolutionary pamphlet that made the case for American independence.'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [
+        "political-philosophy",
+        "1770s",
+        "american-revolution"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "American Revolution"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "independence"
+        },
+        {
+          "type": "related",
+          "target": "introduction",
+          "label": "Introduction"
+        },
+        {
+          "type": "related",
+          "target": "part-1-origin-of-government",
+          "label": "Origin of Government"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "government"
+        },
+        {
+          "type": "related",
+          "target": "part-2-monarchy-and-succession",
+          "label": "Monarchy and Succession"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "monarchy"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "hereditary succession"
+        },
+        {
+          "type": "related",
+          "target": "part-3-thoughts-on-american-affairs",
+          "label": "American Affairs"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "part-4-present-ability-of-america",
+          "label": "Ability of America"
+        },
+        {
+          "type": "related",
+          "target": "appendix",
+          "label": "Appendix"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "Natural Rights"
+        },
+        {
+          "type": "related",
+          "target": "social-contract",
+          "label": "Social Contract"
+        },
+        {
+          "type": "related",
+          "target": "consent-of-the-governed",
+          "label": "Consent of the Governed"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "Tyranny"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "Liberty"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "Representation"
+        },
+        {
+          "type": "related",
+          "target": "republic",
+          "label": "Republic"
+        }
+      ]
+    },
+    {
+      "id": "absolute-government",
+      "type": "concept",
+      "label": "'Absolute Government'",
+      "description": "'Paine''s critique of governments in which power is concentrated without legal restraint — the King is law rather than the reverse'",
+      "aliases": [
+        "absolute monarchy",
+        "absolutism",
+        "unlimited government"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "monarchy",
+        "tyranny",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:absolute-government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "sovereign power"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "tyranny"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "independence"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "type": "place",
+      "label": "Africa",
+      "description": "'The continent invoked by Paine as a cautionary example of European colonialism and barbarism'",
+      "aliases": [],
+      "tags": [
+        "continents",
+        "18th-century",
+        "political-geography"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:africa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "asia",
+          "label": "Asia"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "introduction",
+          "label": "introduction"
+        }
+      ]
+    },
+    {
+      "id": "america",
+      "type": "concept",
+      "label": "America",
+      "description": "'The central political cause of Common Sense; Paine treats America not merely as a geographic territory but as a moral and political project whose independence from Britain is both a natural right and a historical necessity'",
+      "aliases": [
+        "American colonies",
+        "the American cause",
+        "Massachusetts"
+      ],
+      "tags": [
+        "political-philosophy",
+        "independence",
+        "1770s",
+        "revolution"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:america",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "natural rights"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "monarchical"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "liberty"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "tyranny"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "liberty"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "representation"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "american-revolution"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "continental-congress"
+        }
+      ]
+    },
+    {
+      "id": "american-revolution",
+      "type": "event",
+      "label": "American Revolution",
+      "description": "'The political and military struggle through which the American colonies achieved independence from Britain; the central event of Common Sense'",
+      "aliases": [
+        "American War of Independence",
+        "Revolutionary War"
+      ],
+      "tags": [
+        "revolution",
+        "independence",
+        "18th-century",
+        "american-history"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:american-revolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-bunker-hill",
+          "label": "Bunker Hill"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "type": "chapter",
+      "label": "\"Appendix\"",
+      "description": "\"Appendix to Common Sense, with an address to the people called Quakers\"",
+      "aliases": [
+        "Appendix to Common Sense",
+        "Appendix"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "american-revolution",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:appendix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "the Congress"
+        },
+        {
+          "type": "related",
+          "target": "sir-john-dalrymple",
+          "label": "Sir John Dalrymple"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "stamp-act-repeal",
+          "label": "repeal of the Stamp Act"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "Reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "Representation"
+        },
+        {
+          "type": "related",
+          "target": "constitution",
+          "label": "Constitution"
+        },
+        {
+          "type": "related",
+          "target": "boston-siege",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "robert-barclay",
+          "label": "Barclay"
+        },
+        {
+          "type": "related",
+          "target": "oliver-cromwell",
+          "label": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "type": "place",
+      "label": "Asia",
+      "description": "'The continent referenced by Paine alongside Africa as proof of Britain''s global reach and declining influence'",
+      "aliases": [],
+      "tags": [
+        "continents",
+        "18th-century",
+        "political-geography"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:asia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-east-india-company",
+          "label": "East India Company"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "africa",
+          "label": "Africa"
+        },
+        {
+          "type": "related",
+          "target": "part-3-thoughts-on-american-affairs",
+          "label": "Thoughts on the Present State of American Affairs"
+        }
+      ]
+    },
+    {
+      "id": "authority",
+      "type": "concept",
+      "label": "Authority",
+      "description": "'The rightful power to govern, which Paine argues derives solely from the consent of the governed rather than from heredity, scripture, or conquest'",
+      "aliases": [
+        "political authority",
+        "legitimate authority"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:authority",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British Crown"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        }
+      ]
+    },
+    {
+      "id": "battle-of-bunker-hill",
+      "type": "event",
+      "label": "Battle of Bunker Hill",
+      "description": "'The June 1775 battle near Boston; Paine argues its cost makes reconciliation impossible'",
+      "aliases": [
+        "Bunker Hill",
+        "Breed's Hill"
+      ],
+      "tags": [
+        "battle",
+        "american-revolution",
+        "1775"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:battle-of-bunker-hill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "American Revolution"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "boston",
+      "type": "place",
+      "label": "Boston",
+      "description": "The Massachusetts port city at the center of colonial resistance; Paine",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:boston",
+      "relations": [
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "boston-siege",
+      "type": "event",
+      "label": "Siege of Boston",
+      "description": "'The 1775–1776 siege of British-occupied Boston; referenced in Common Sense as a symbol of British oppression'",
+      "aliases": [
+        "Boston Siege",
+        "the Boston campaign"
+      ],
+      "tags": [
+        "siege",
+        "american-revolution",
+        "1775-1776"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:boston-siege",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Battles of Lexington and Concord"
+        },
+        {
+          "type": "related",
+          "target": "boston",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "boston-tea-party",
+      "type": "event",
+      "label": "Boston Tea Party",
+      "description": "'The 1773 protest against British tea taxes that triggered the Coercive Acts; the escalation point after which reconciliation became structurally impossible'",
+      "aliases": [
+        "the tea party",
+        "Boston tea destruction"
+      ],
+      "tags": [
+        "protest",
+        "american-revolution",
+        "1773"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:boston-tea-party",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-east-india-company",
+          "label": "the Company"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "boston",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "british-colonial-conflict",
+          "label": "constitutional crisis"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "Liberty"
+        },
+        {
+          "type": "related",
+          "target": "lord-north",
+          "label": "Lord North"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-bunker-hill",
+          "label": "Bunker Hill"
+        }
+      ]
+    },
+    {
+      "id": "british-admiralty",
+      "type": "organization",
+      "label": "British Admiralty",
+      "description": "'The administrative body commanding the Royal Navy; referenced in Common Sense in the context of the naval blockade of American ports'",
+      "aliases": [
+        "the Admiralty",
+        "Royal Navy command",
+        "Navy"
+      ],
+      "tags": [
+        "british-military",
+        "navy",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:british-admiralty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "boston",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        }
+      ]
+    },
+    {
+      "id": "british-colonial-conflict",
+      "type": "event",
+      "label": "British-Colonial Constitutional Conflict",
+      "description": "'The broader constitutional crisis between Britain and its American colonies over the nature of imperial governance'",
+      "aliases": [
+        "imperial crisis",
+        "constitutional crisis",
+        "British Colonial Conflict"
+      ],
+      "tags": [
+        "constitutional-conflict",
+        "british-empire",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:british-colonial-conflict",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "colonial-assemblies",
+          "label": "colonial legislatures"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        }
+      ]
+    },
+    {
+      "id": "british-constitution",
+      "type": "concept",
+      "label": "British Constitution",
+      "description": "'The system of government Paine critiques as a facade for monarchical tyranny, arguing its vaunted balance of King, Lords, and Commons is a disguise for two ancient tyrannies'",
+      "aliases": [
+        "English constitution",
+        "constitution of England"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "monarchy",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:british-constitution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-lords",
+          "label": "the Lords"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "the Commons"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "british-crown",
+      "type": "organization",
+      "label": "British Crown",
+      "description": "'The institution of the British monarchy; the primary target of Paine''s critique of hereditary rule'",
+      "aliases": [
+        "the Crown",
+        "British monarchy",
+        "the English Crown"
+      ],
+      "tags": [
+        "british-monarchy",
+        "government",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:british-crown",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "norman-conquest",
+          "label": "Norman Conquest"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "obedience",
+          "label": "allegiance"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        }
+      ]
+    },
+    {
+      "id": "british-east-india-company",
+      "type": "organization",
+      "label": "British East India Company",
+      "description": "'The trading corporation whose tea was destroyed in the Boston Tea Party; referenced in Common Sense as an instrument of British commercial imperialism'",
+      "aliases": [
+        "East India Company",
+        "the Company"
+      ],
+      "tags": [
+        "british-empire",
+        "trade",
+        "corporation"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:british-east-india-company",
+      "relations": [
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "political power"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        }
+      ]
+    },
+    {
+      "id": "british-house-of-commons",
+      "type": "organization",
+      "label": "House of Commons",
+      "description": "'The lower house of the British Parliament; Paine acknowledges it as the sole republican element of the English constitution'",
+      "aliases": [
+        "the Commons",
+        "British House of Commons"
+      ],
+      "tags": [
+        "british-government",
+        "legislature",
+        "representation",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:british-house-of-commons",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "the British Parliament"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "british-house-of-lords",
+      "type": "organization",
+      "label": "House of Lords",
+      "description": "'The upper house of the British Parliament, composed of hereditary peers; Paine condemns it as an aristocratic remnant'",
+      "aliases": [
+        "the Lords",
+        "British House of Lords"
+      ],
+      "tags": [
+        "british-government",
+        "aristocracy",
+        "legislature"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:british-house-of-lords",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "the British Parliament"
+        },
+        {
+          "type": "related",
+          "target": "church-of-england",
+          "label": "Church of England"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "House of Commons"
+        }
+      ]
+    },
+    {
+      "id": "british-ministry",
+      "type": "organization",
+      "label": "British Ministry",
+      "description": "'The executive government of Great Britain, led by the Prime Minister; Paine argues its policies toward America are structurally oppressive'",
+      "aliases": [
+        "the Ministry",
+        "His Majesty's Government"
+      ],
+      "tags": [
+        "british-government",
+        "executive",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:british-ministry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        },
+        {
+          "type": "related",
+          "target": "lord-north",
+          "label": "Lord North"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "mr-pelham",
+          "label": "Mr. Pelham"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "British constitution"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-lords",
+          "label": "House of Lords"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "House of Commons"
+        },
+        {
+          "type": "related",
+          "target": "consent-of-the-governed",
+          "label": "consent-based governance"
+        }
+      ]
+    },
+    {
+      "id": "british-parliament",
+      "type": "organization",
+      "label": "British Parliament",
+      "description": "'The supreme legislative body of Great Britain; the target of Paine''s critique of virtual representation and colonial governance'",
+      "aliases": [
+        "Parliament",
+        "the British Parliament"
+      ],
+      "tags": [
+        "british-government",
+        "legislature",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:british-parliament",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "House of Commons"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-lords",
+          "label": "House of Lords"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "house-of-commons-representation",
+          "label": "virtual representation"
+        }
+      ]
+    },
+    {
+      "id": "charles-i",
+      "type": "person",
+      "label": "Charles I",
+      "description": "'King of England executed in 1649; Paine cites his fate as evidence that monarchy does not ensure stability'",
+      "aliases": [
+        "Charles the First",
+        "King Charles I"
+      ],
+      "tags": [
+        "english-monarchy",
+        "stuart",
+        "english-civil-war",
+        "17th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:charles-i",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "english-civil-war",
+          "label": "English Civil War"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "charles-ii",
+          "label": "Charles II"
+        }
+      ]
+    },
+    {
+      "id": "charles-ii",
+      "type": "person",
+      "label": "Charles II",
+      "description": "'King of England, Scotland, and Ireland (1660–1685), addressed by the Quaker Robert Barclay and referenced in the Appendix'",
+      "aliases": [
+        "King Charles II"
+      ],
+      "tags": [
+        "british-monarchy",
+        "stuart-restoration",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:charles-ii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "King of England"
+        },
+        {
+          "type": "related",
+          "target": "english-civil-war",
+          "label": "English Civil War"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "oliver-cromwell",
+          "label": "Cromwell"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "revolution-of-1688",
+          "label": "Glorious Revolution"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "robert-barclay",
+          "label": "Barclay"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "charter",
+      "type": "concept",
+      "label": "Charter",
+      "description": "'The foundational document that defines and limits the powers of government, which Paine argues should be established by the people through a Continental Conference before any new government takes form'",
+      "aliases": [
+        "articles of government",
+        "constitutional charter"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "constitution",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:charter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "legislation"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        }
+      ]
+    },
+    {
+      "id": "church-of-england",
+      "type": "organization",
+      "label": "Church of England",
+      "description": "'The established church of England; Paine critiques its entanglement with monarchical power'",
+      "aliases": [
+        "the Anglican Church",
+        "the established church"
+      ],
+      "tags": [
+        "religious-institution",
+        "anglican",
+        "british"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:church-of-england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-lords",
+          "label": "House of Lords"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "oppression",
+          "label": "political oppression"
+        }
+      ]
+    },
+    {
+      "id": "civil-liberty",
+      "type": "concept",
+      "label": "Civil Liberty",
+      "description": "'The freedom of individuals from governmental oppression in their civic and political lives, which Paine treats as inseparable from religious liberty'",
+      "aliases": [
+        "civil freedom",
+        "civic liberty"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:civil-liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "civil liberty"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "colonial-assemblies",
+      "type": "organization",
+      "label": "Colonial Assemblies",
+      "description": "'The elected legislative bodies of the American colonies; Paine saw them as the legitimate foundation for American self-government'",
+      "aliases": [
+        "colonial legislatures",
+        "provincial assemblies"
+      ],
+      "tags": [
+        "american-government",
+        "colonial",
+        "representation"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:colonial-assemblies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "commerce",
+      "type": "concept",
+      "label": "Commerce",
+      "description": "'Paine''s analysis of trade as both a practical argument for American independence and a moral concern — commerce with Britain enriches the empire at America''s expense while diminishing the spirit of the people'",
+      "aliases": [
+        "trade",
+        "commercial independence"
+      ],
+      "tags": [
+        "political-philosophy",
+        "economics",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:commerce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "natural liberty"
+        }
+      ]
+    },
+    {
+      "id": "consent-of-the-governed",
+      "type": "concept",
+      "label": "Consent of the Governed",
+      "description": "'The Lockean principle that legitimate government derives its authority from the agreement of those it governs, which Paine deploys to delegitimize British rule over the American colonies'",
+      "aliases": [
+        "popular consent",
+        "consent theory"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "rights",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:consent-of-the-governed",
+      "relations": [
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "legitimate authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "the British Parliament"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        }
+      ]
+    },
+    {
+      "id": "constitution",
+      "type": "concept",
+      "label": "Constitution",
+      "description": "'Paine''s argument for a written constitution as the foundation of legitimate government, established by the people through deliberate choice'",
+      "aliases": [
+        "constitutional government",
+        "written constitution"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "constitution",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:constitution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        }
+      ]
+    },
+    {
+      "id": "continental-congress",
+      "type": "organization",
+      "label": "Continental Congress",
+      "description": "'The convention of delegates from the thirteen American colonies that served as the de facto national government during the Revolution; Paine''s primary audience and the vehicle for his constitutional vision'",
+      "aliases": [
+        "the Congress",
+        "Second Continental Congress"
+      ],
+      "tags": [
+        "american-government",
+        "revolution",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:continental-congress",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "Authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "Tradition"
+        },
+        {
+          "type": "related",
+          "target": "colonial-assemblies",
+          "label": "Colonial Assemblies"
+        },
+        {
+          "type": "related",
+          "target": "constitution",
+          "label": "written constitution"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "consent-of-the-governed",
+          "label": "popular consent"
+        }
+      ]
+    },
+    {
+      "id": "custom",
+      "type": "concept",
+      "label": "Custom",
+      "description": "'The force of habitual thinking that Paine identifies as a barrier to reason and political progress'",
+      "aliases": [
+        "tradition",
+        "Tradition",
+        "customary practice"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:custom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "prepossession"
+        }
+      ]
+    },
+    {
+      "id": "david-biblical",
+      "type": "person",
+      "label": "David",
+      "description": "'Biblical king of Israel; Paine notes that scripture''s praise of David ignores his kingly office, focusing on his personal character instead'",
+      "aliases": [
+        "King David",
+        "David (Biblical)",
+        "David Biblical"
+      ],
+      "tags": [
+        "biblical-figure",
+        "king",
+        "old-testament"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:david-biblical",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "saul-biblical",
+          "label": "Saul"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "Samuel"
+        }
+      ]
+    },
+    {
+      "id": "divine-providence-debate",
+      "type": "event",
+      "label": "Divine Providence Debate",
+      "description": "'The theological debate over whether American independence was consistent with divine providence; Paine''s Appendix refutes the providentialist case for submission to Britain'",
+      "aliases": [
+        "providentialist argument",
+        "divine will controversy"
+      ],
+      "tags": [
+        "theology",
+        "political-theory",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:divine-providence-debate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurper"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "oliver-cromwell",
+          "label": "Oliver Cromwell"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "tyrant"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British monarchy"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "Nature"
+        },
+        {
+          "type": "related",
+          "target": "david-biblical",
+          "label": "David (Biblical)"
+        },
+        {
+          "type": "related",
+          "target": "gideon-biblical",
+          "label": "Gideon (Biblical)"
+        }
+      ]
+    },
+    {
+      "id": "dragonetti",
+      "type": "person",
+      "label": "Dragonetti",
+      "description": "'Italian political writer on virtue and rewards, cited by Paine as an authority on government'",
+      "aliases": [
+        "Giacinto Dragonetti"
+      ],
+      "tags": [
+        "political-theorist",
+        "18th-century",
+        "italian"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:dragonetti",
+      "relations": [
+        {
+          "type": "related",
+          "target": "virtue",
+          "label": "Virtue"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "the American cause"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "duty",
+      "type": "concept",
+      "label": "Duty",
+      "description": "'The obligation that binds citizens to one another and to just government, which Paine distinguishes from the false duty of submission to hereditary authority'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "civic-virtue",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:duty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British Crown"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        }
+      ]
+    },
+    {
+      "id": "edward-iv",
+      "type": "person",
+      "label": "Edward IV",
+      "description": "'Yorkist king during the Wars of the Roses; referenced in Paine''s catalog of hereditary succession''s bloody consequences'",
+      "aliases": [
+        "Edward the Fourth"
+      ],
+      "tags": [
+        "english-monarchy",
+        "wars-of-the-roses",
+        "york",
+        "15th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:edward-iv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "henry-vi",
+          "label": "Henry VI"
+        },
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "Wars of the Roses"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        }
+      ]
+    },
+    {
+      "id": "england",
+      "type": "place",
+      "label": "England",
+      "description": "The imperial power against which the American colonies revolted; Paine's",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:england",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "constitution of England"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "english-civil-war",
+      "type": "event",
+      "label": "English Civil War",
+      "description": "'The 1642–1651 conflict between Parliament and the Crown; Paine cites it as evidence that monarchy breeds civil war'",
+      "aliases": [
+        "English Revolution",
+        "Wars of the Three Kingdoms"
+      ],
+      "tags": [
+        "civil-war",
+        "english-history",
+        "17th-century",
+        "monarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:english-civil-war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "war",
+          "label": "armed conflict"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "charles-i",
+          "label": "Charles I"
+        },
+        {
+          "type": "related",
+          "target": "oliver-cromwell",
+          "label": "Oliver Cromwell"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-colonial-conflict",
+          "label": "constitutional crisis"
+        }
+      ]
+    },
+    {
+      "id": "equality",
+      "type": "concept",
+      "label": "Equality",
+      "description": "'Paine''s argument that all humans are naturally equal, making hereditary distinctions of rank illegitimate'",
+      "aliases": [
+        "natural equality",
+        "human equality"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "equality",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:equality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "republic",
+          "label": "republican government"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "type": "place",
+      "label": "Europe",
+      "description": "The continental frame of reference for Paine's political analysis of",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:europe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "part-2-monarchy-and-succession",
+          "label": "Monarchy and Hereditary Succession"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "type": "place",
+      "label": "France",
+      "description": "'The major European power frequently invoked by Paine as a counterweight to Britain'",
+      "aliases": [],
+      "tags": [
+        "european-countries",
+        "colonial-power",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:france",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "absolute-government",
+          "label": "absolute monarchy"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "freedom",
+      "type": "concept",
+      "label": "Freedom",
+      "description": "'Paine''s pairing of freedom with security as the twin ends of legitimate government'",
+      "aliases": [
+        "freedom and security"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "freedom",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:freedom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "civil liberty"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "American Revolution"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "civil-liberty",
+          "label": "civil freedom"
+        }
+      ]
+    },
+    {
+      "id": "george-iii",
+      "type": "person",
+      "label": "George III",
+      "description": "'King of Great Britain and Ireland (1760–1820), the unnamed central antagonist of *Common Sense*'",
+      "aliases": [
+        "King George III",
+        "the King",
+        "King of England"
+      ],
+      "tags": [
+        "british-monarchy",
+        "american-revolution",
+        "18th-century",
+        "hanoverian"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:george-iii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "War"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "stamp-act-repeal",
+          "label": "Stamp Act"
+        },
+        {
+          "type": "related",
+          "target": "british-colonial-conflict",
+          "label": "constitutional crisis"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-bunker-hill",
+          "label": "Bunker Hill"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "part-2-monarchy-and-succession",
+          "label": "Part II"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "hereditary succession"
+        }
+      ]
+    },
+    {
+      "id": "gideon-biblical",
+      "type": "person",
+      "label": "Gideon",
+      "description": "'Biblical judge of Israel; Paine cites Gideon as scriptural evidence that monarchy is contrary to divine will'",
+      "aliases": [
+        "Gideon (Biblical)",
+        "Gideon the Judge",
+        "Gideon Biblical",
+        "Gideon (biblical)"
+      ],
+      "tags": [
+        "biblical-figure",
+        "judges",
+        "old-testament",
+        "anti-monarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:gideon-biblical",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "kingship"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "saul-biblical",
+          "label": "Saul"
+        },
+        {
+          "type": "related",
+          "target": "david-biblical",
+          "label": "David"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "Samuel"
+        }
+      ]
+    },
+    {
+      "id": "government",
+      "type": "concept",
+      "label": "Government",
+      "description": "'Paine''s conception of government as a necessary evil, distinct from society, instituted to restrain vice and protect freedom'",
+      "aliases": [
+        "governments"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "hereditary right"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "Nature"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "law",
+          "label": "Law"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "happiness",
+      "type": "concept",
+      "label": "Happiness",
+      "description": "'The positive human flourishing that Paine identifies as the proper end of society and the measure by which governments must be judged'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "enlightenment",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:happiness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "Future"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        }
+      ]
+    },
+    {
+      "id": "henry-vi",
+      "type": "person",
+      "label": "Henry VI",
+      "description": "'English king during the Wars of the Roses; Paine cites him as evidence of the bloodshed caused by disputed succession'",
+      "aliases": [
+        "Henry the Sixth"
+      ],
+      "tags": [
+        "english-monarchy",
+        "wars-of-the-roses",
+        "lancaster",
+        "15th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:henry-vi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "Wars of the Roses"
+        },
+        {
+          "type": "related",
+          "target": "edward-iv",
+          "label": "Edward IV"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "hereditary-succession",
+      "type": "concept",
+      "label": "Hereditary Succession",
+      "description": "'Paine''s critique of hereditary succession as an irrational and unjust mechanism for transferring political power'",
+      "aliases": [
+        "hereditary right",
+        "succession"
+      ],
+      "tags": [
+        "political-philosophy",
+        "monarchy",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:hereditary-succession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "human equality"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "future generations"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "kingship"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "the civil wars"
+        }
+      ]
+    },
+    {
+      "id": "holland",
+      "type": "place",
+      "label": "Holland",
+      "description": "The Dutch Republic, cited by Paine as proof that a nation can prosper",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:holland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "part-2-monarchy-and-succession",
+          "label": "Monarchy and Hereditary Succession"
+        }
+      ]
+    },
+    {
+      "id": "honor",
+      "type": "concept",
+      "label": "Honor",
+      "description": "'A political and moral value that Paine redefines in republican terms, contrasting the empty honors of monarchy with the substantive honor of defending liberty and self-government'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "virtue",
+        "republicanism",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:honor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "future generations"
+        }
+      ]
+    },
+    {
+      "id": "house-of-commons-representation",
+      "type": "event",
+      "label": "Parliamentary Representation Crisis",
+      "description": "'The constitutional crisis over American representation in the British Parliament'",
+      "aliases": [
+        "representation crisis",
+        "virtual representation",
+        "House of Commons Representation"
+      ],
+      "tags": [
+        "british-politics",
+        "representation",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:house-of-commons-representation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "house-of-lancaster",
+      "type": "organization",
+      "label": "House of Lancaster",
+      "description": "'The rival house to York in the Wars of the Roses; both serve Paine''s argument against hereditary succession'",
+      "aliases": [
+        "Lancastrians",
+        "the Lancaster faction"
+      ],
+      "tags": [
+        "english-monarchy",
+        "wars-of-the-roses",
+        "dynasty"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:house-of-lancaster",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "Wars of the Roses"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        }
+      ]
+    },
+    {
+      "id": "house-of-york",
+      "type": "organization",
+      "label": "House of York",
+      "description": "'One of the rival dynastic houses in the Wars of the Roses; invoked by Paine as evidence of hereditary succession''s destructiveness'",
+      "aliases": [
+        "Yorkists",
+        "the York faction"
+      ],
+      "tags": [
+        "english-monarchy",
+        "wars-of-the-roses",
+        "dynasty"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:house-of-york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "house-of-lancaster",
+          "label": "House of Lancaster"
+        },
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "Wars of the Roses"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "independence",
+      "type": "concept",
+      "label": "Independence",
+      "description": "'Paine''s argument for American independence as the necessary and inevitable conclusion of the conflict with Britain'",
+      "aliases": [
+        "independency",
+        "separation",
+        "american independence"
+      ],
+      "tags": [
+        "political-philosophy",
+        "independence",
+        "revolution",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:independence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "obedience",
+          "label": "allegiance"
+        }
+      ]
+    },
+    {
+      "id": "introduction",
+      "type": "chapter",
+      "label": "\"Introduction\"",
+      "description": "\"Introduction to Common Sense by Thomas Paine\"",
+      "aliases": [
+        "Introduction to Common Sense",
+        "Introduction"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:introduction",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "Justice",
+      "description": "'The moral standard by which Paine judges political institutions, contrasted with the arbitrary will of monarchy and identified as the proper foundation of civil order'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "rights",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:justice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "future generations"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "Monarchy"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "type": "concept",
+      "label": "Law",
+      "description": "'The system of rules that governs civil society, which Paine distinguishes from both arbitrary monarchical will and the higher standard of natural justice'",
+      "aliases": [
+        "civil law",
+        "legislation"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "rights",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:law",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "lexington-and-concord",
+      "type": "event",
+      "label": "Battles of Lexington and Concord",
+      "description": "'The April 19, 1775 battles that began the American Revolution'",
+      "aliases": [
+        "Lexington",
+        "Concord",
+        "April 19",
+        "Lexington and Concord"
+      ],
+      "tags": [
+        "battle",
+        "american-revolution",
+        "1775"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:lexington-and-concord",
+      "relations": [
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "American Revolution"
+        },
+        {
+          "type": "related",
+          "target": "boston",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "harmony"
+        },
+        {
+          "type": "related",
+          "target": "boston-siege",
+          "label": "Siege of Boston"
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "type": "concept",
+      "label": "Liberty",
+      "description": "'Paine''s conception of liberty as the natural condition of mankind and the proper end of government'",
+      "aliases": [
+        "natural liberty",
+        "civil liberty"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "liberty",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "the American cause"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "Representation"
+        }
+      ]
+    },
+    {
+      "id": "lord-north",
+      "type": "person",
+      "label": "Lord North",
+      "description": "'British Prime Minister (1770–1782) during the American Revolution, denounced in Paine''s \"Common Sense\" as part of \"the whole detestable junto\"'",
+      "aliases": [
+        "Frederick North",
+        "Lord Frederick North"
+      ],
+      "tags": [
+        "british-politics",
+        "american-revolution",
+        "1770s",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:lord-north",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Battles of Lexington and Concord"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "marquess-of-rockingham",
+      "type": "person",
+      "label": "Marquess of Rockingham",
+      "description": "'British statesman whose administration repealed the Stamp Act, cited in Paine''s \"Common Sense\" Appendix as an example of royal prerogative over Parliament'",
+      "aliases": [
+        "Charles Watson-Wentworth",
+        "Lord Rockingham"
+      ],
+      "tags": [
+        "british-politics",
+        "stamp-act",
+        "1760s",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:marquess-of-rockingham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "stamp-act-repeal",
+          "label": "repeal of the Stamp Act"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "lord-north",
+          "label": "Lord North"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "sir-john-dalrymple",
+          "label": "Sir John Dalrymple"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "massanello",
+      "type": "person",
+      "label": "Massanello",
+      "description": "'Neapolitan fisherman who led a 1647 revolt; Paine warns that failure to establish legitimate government invites such uncontrolled uprisings'",
+      "aliases": [
+        "Masaniello",
+        "Tommaso Aniello"
+      ],
+      "tags": [
+        "popular-uprising",
+        "naples",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:massanello",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "constitution",
+          "label": "constitutional government"
+        }
+      ]
+    },
+    {
+      "id": "monarchy",
+      "type": "concept",
+      "label": "Monarchy",
+      "description": "'Paine''s critique of monarchy as an illegitimate form of government, originating in conquest and perpetuated by hereditary succession'",
+      "aliases": [
+        "king",
+        "kingship",
+        "royal authority"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "monarchy",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:monarchy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "hereditary right"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "state of nature"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "wars-of-the-roses",
+          "label": "Wars of the Roses"
+        },
+        {
+          "type": "related",
+          "target": "english-civil-war",
+          "label": "English Civil War"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "mr-pelham",
+      "type": "person",
+      "label": "Mr. Pelham",
+      "description": "'British Prime Minister referenced by Paine as an able minister who nonetheless could not remedy the structural defects of monarchy'",
+      "aliases": [
+        "Henry Pelham"
+      ],
+      "tags": [
+        "british-politics",
+        "prime-minister",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:mr-pelham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "War"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "natural-liberty",
+      "type": "concept",
+      "label": "Natural Liberty",
+      "description": "'The pre-political condition of humanity in which individuals are free but vulnerable; Paine uses it to explain why society and government arise and to define their legitimate limits'",
+      "aliases": [
+        "state of nature",
+        "natural freedom"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "society",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:natural-liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "natural liberty"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "Nature"
+        }
+      ]
+    },
+    {
+      "id": "natural-rights",
+      "type": "concept",
+      "label": "Natural Rights",
+      "description": "'The rights inherent in all people by virtue of their existence, which Paine argues government must protect rather than grant'",
+      "aliases": [
+        "rights of mankind",
+        "natural law",
+        "Rights"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:natural-rights",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "natural order"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "descendants"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "civil society"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "type": "concept",
+      "label": "Nature",
+      "description": "'The natural order of creation which Paine invokes as the normative standard for evaluating political institutions, in contrast to artificial arrangements like monarchy and hereditary succession'",
+      "aliases": [
+        "law of nature",
+        "natural order"
+      ],
+      "tags": [
+        "political-philosophy",
+        "enlightenment",
+        "natural-law",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:nature",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "natural law"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "Monarchy"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "human equality"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        }
+      ]
+    },
+    {
+      "id": "necessity",
+      "type": "concept",
+      "label": "Necessity",
+      "description": "'The principle that unavoidable circumstances compel political action, which Paine invokes to justify American independence as a matter of survival rather than choice'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:necessity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "natural law"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British Crown"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        }
+      ]
+    },
+    {
+      "id": "norman-conquest",
+      "type": "event",
+      "label": "Norman Conquest",
+      "description": "'The 1066 Norman invasion of England; the founding event of the English monarchy in Paine''s critique'",
+      "aliases": [
+        "the Conquest",
+        "Norman invasion of 1066"
+      ],
+      "tags": [
+        "conquest",
+        "english-history",
+        "11th-century",
+        "monarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:norman-conquest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "royal authority"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "George III"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "norman-dynasty",
+      "type": "organization",
+      "label": "Norman Dynasty",
+      "description": "'The dynasty founded by William the Conqueror; for Paine, the original usurpation from which all English monarchy descends'",
+      "aliases": [
+        "the Normans",
+        "Norman kings"
+      ],
+      "tags": [
+        "english-monarchy",
+        "dynasty",
+        "norman-conquest"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:norman-dynasty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "norman-conquest",
+          "label": "the Conquest"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "George III"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "obedience",
+      "type": "concept",
+      "label": "Obedience",
+      "description": "'The duty of citizens to obey government, which Paine argues is conditional upon the government serving the public good rather than upon tradition or fear'",
+      "aliases": [
+        "political obedience",
+        "allegiance"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:obedience",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British Crown"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "the King"
+        }
+      ]
+    },
+    {
+      "id": "oliver-cromwell",
+      "type": "person",
+      "label": "Oliver Cromwell",
+      "description": "'Leader of the Parliamentary forces in the English Civil War and Lord Protector; referenced by Paine as an example of usurpation and the danger of conflating divine providence with political power'",
+      "aliases": [
+        "Cromwell",
+        "Lord Protector"
+      ],
+      "tags": [
+        "english-civil-war",
+        "commonwealth",
+        "17th-century",
+        "political-figure"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:oliver-cromwell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "Power"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "charles-i",
+          "label": "Charles I"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurper"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "George III"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "tyrant"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "oppression",
+      "type": "concept",
+      "label": "Oppression",
+      "description": "'The unjust exercise of power by which a government or ruler crushes the liberty of the people, which Paine identifies as both a consequence of illegitimate government and a justification for resistance'",
+      "aliases": [
+        "political oppression",
+        "tyrannical oppression"
+      ],
+      "tags": [
+        "political-philosophy",
+        "tyranny",
+        "rights",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:oppression",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "political power"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "Freedom"
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "concept",
+      "label": "Order",
+      "description": "'The principle of structured arrangement that Paine invokes in multiple senses — natural order of equality, political order of government, and the civic order of obedience — to argue against hereditary rule'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "society",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:order",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "natural order"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "part-1-origin-of-government",
+      "type": "chapter",
+      "label": "\"Part 1: Of the Origin and Design of Government in General\"",
+      "description": "\"On the origin and design of government in general, with concise remarks on the English constitution\"",
+      "aliases": [
+        "Part-1"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "government",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:part-1-origin-of-government",
+      "relations": [
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "natural liberty"
+        },
+        {
+          "type": "related",
+          "target": "virtue",
+          "label": "moral virtue"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "part-2-monarchy-and-succession",
+      "type": "chapter",
+      "label": "\"Part 2: Of Monarchy and Hereditary Succession\"",
+      "description": "\"On monarchy and hereditary succession\"",
+      "aliases": [
+        "Monarchy and Hereditary Succession",
+        "Part-2"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "monarchy",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:part-2-monarchy-and-succession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "gideon-biblical",
+          "label": "Gideon"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "the prophet Samuel"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "david-biblical",
+          "label": "David"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "saul-biblical",
+          "label": "Saul"
+        },
+        {
+          "type": "related",
+          "target": "henry-vi",
+          "label": "Henry the Sixth"
+        },
+        {
+          "type": "related",
+          "target": "sir-william-meredith",
+          "label": "Sir William Meredith"
+        },
+        {
+          "type": "related",
+          "target": "virtue",
+          "label": "republican virtue"
+        }
+      ]
+    },
+    {
+      "id": "part-3-thoughts-on-american-affairs",
+      "type": "chapter",
+      "label": "\"Part 3: Thoughts on the Present State of American Affairs\"",
+      "description": "\"Thoughts on the present state of American affairs\"",
+      "aliases": [
+        "Thoughts on the Present State of American Affairs",
+        "Part-3"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "american-revolution",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:part-3-thoughts-on-american-affairs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "mr-pelham",
+          "label": "Mr. Pelham"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "boston-siege",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "Reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "republic",
+          "label": "republican government"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "Continental Congress"
+        },
+        {
+          "type": "related",
+          "target": "dragonetti",
+          "label": "Dragonetti"
+        },
+        {
+          "type": "related",
+          "target": "massanello",
+          "label": "Massanello"
+        },
+        {
+          "type": "related",
+          "target": "social-contract",
+          "label": "social compact"
+        }
+      ]
+    },
+    {
+      "id": "part-4-present-ability-of-america",
+      "type": "chapter",
+      "label": "\"Part 4: Of the Present Ability of America\"",
+      "description": "\"Of the present ability of America, with some miscellaneous reflections\"",
+      "aliases": [
+        "Present Ability of America",
+        "Part-4"
+      ],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "american-revolution",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:part-4-present-ability-of-america",
+      "relations": [
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "equal representation"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-lords",
+          "label": "the Lords"
+        }
+      ]
+    },
+    {
+      "id": "peace",
+      "type": "concept",
+      "label": "Peace",
+      "description": "'The condition of non-conflict that Paine examines as both a desirable social state and a political outcome that monarchy fails to deliver, arguing that true peace requires independence'",
+      "aliases": [],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "international-relations",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:peace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British Crown"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "holland",
+          "label": "Holland"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        }
+      ]
+    },
+    {
+      "id": "pennsylvania",
+      "type": "place",
+      "label": "Pennsylvania",
+      "description": "'One of the thirteen American colonies, referenced in Common Sense as an example of colonial self-governance and economic capacity.'",
+      "aliases": [
+        "Province of Pennsylvania"
+      ],
+      "tags": [
+        "american-colonies",
+        "colonial-america",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:pennsylvania",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "William Penn"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "religious-liberty",
+          "label": "religious freedom"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "Continental Congress"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "American Revolution"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        }
+      ]
+    },
+    {
+      "id": "philadelphia",
+      "type": "place",
+      "label": "Philadelphia",
+      "description": "The largest city in colonial America and the site where Common Sense",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:philadelphia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "Continental Congress"
+        }
+      ]
+    },
+    {
+      "id": "posterity",
+      "type": "concept",
+      "label": "Posterity",
+      "description": "'Future generations whose rights and welfare Paine argues must guide present political decisions'",
+      "aliases": [
+        "future generations",
+        "descendants",
+        "Future"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "independence",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:posterity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "type": "concept",
+      "label": "Power",
+      "description": "'The capacity to govern or control, which Paine argues must derive from the consent of the governed rather than hereditary claim'",
+      "aliases": [
+        "political power",
+        "sovereign power"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "monarchy",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:power",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "nature",
+          "label": "Nature"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "state of nature"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "British Constitution"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "prejudice",
+      "type": "concept",
+      "label": "Prejudice",
+      "description": "'The cognitive bias that Paine identifies as a primary obstacle to clear political reasoning, which he urges readers to set aside in favor of reason and common sense'",
+      "aliases": [
+        "prepossession"
+      ],
+      "tags": [
+        "political-philosophy",
+        "reason",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:prejudice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "Common Sense"
+        }
+      ]
+    },
+    {
+      "id": "prerogative",
+      "type": "concept",
+      "label": "'Prerogative'",
+      "description": "'Paine''s theological argument that the authority to establish and depose governments belongs exclusively to God, not to any earthly king or institution'",
+      "aliases": [
+        "divine prerogative",
+        "God's prerogative"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "religion",
+        "monarchy",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:prerogative",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "governments"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "the Crown"
+        },
+        {
+          "type": "related",
+          "target": "gideon-biblical",
+          "label": "Gideon (Biblical)"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "Samuel (Prophet)"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "legitimate authority"
+        }
+      ]
+    },
+    {
+      "id": "property",
+      "type": "concept",
+      "label": "Property",
+      "description": "'Paine''s treatment of property as a natural right that government exists to protect, and the material stake that gives citizens an interest in political order'",
+      "aliases": [
+        "property rights",
+        "ownership"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:property",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "civil society"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "Freedom"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        }
+      ]
+    },
+    {
+      "id": "quaker-meeting",
+      "type": "organization",
+      "label": "Quaker Meeting",
+      "description": "'The local congregational body of Quakers; addressed by Paine in the Appendix of Common Sense'",
+      "aliases": [
+        "Friends Meeting",
+        "Quaker congregation"
+      ],
+      "tags": [
+        "quaker",
+        "religious",
+        "pennsylvania"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:quaker-meeting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Religious Society of Friends"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "Penn"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "quakers",
+      "type": "organization",
+      "label": "Quakers",
+      "description": "'The Religious Society of Friends; Paine addresses them directly in the Appendix, urging them to support the revolutionary cause by appealing to their own principles (P01-001)'",
+      "aliases": [
+        "Religious Society of Friends",
+        "the people called Quakers"
+      ],
+      "tags": [
+        "religious-group",
+        "quakerism",
+        "pennsylvania",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:quakers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "Penn"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "robert-barclay",
+          "label": "Barclay"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "Equality"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "type": "concept",
+      "label": "Reason",
+      "description": "'The faculty of rational judgment that Paine elevates as the proper foundation for political argument, contrasting it with custom, tradition, and prejudice'",
+      "aliases": [
+        "rationality",
+        "enlightenment reason"
+      ],
+      "tags": [
+        "political-philosophy",
+        "enlightenment",
+        "epistemology",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:reason",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "equality",
+          "label": "human equality"
+        },
+        {
+          "type": "related",
+          "target": "prejudice",
+          "label": "prepossession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "reconciliation",
+      "type": "concept",
+      "label": "Reconciliation",
+      "description": "'Paine''s argument against reconciliation with Britain, framed as an impossible and self-defeating political strategy'",
+      "aliases": [
+        "reconciliation with Britain",
+        "harmony"
+      ],
+      "tags": [
+        "political-philosophy",
+        "independence",
+        "revolution",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:reconciliation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "descendants"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "battle-of-bunker-hill",
+          "label": "Bunker Hill"
+        }
+      ]
+    },
+    {
+      "id": "reconciliation-debate-1775",
+      "type": "event",
+      "label": "Reconciliation Debate of 1775",
+      "description": "'The political debate over whether the colonies should seek reconciliation with Britain or pursue independence'",
+      "aliases": [
+        "Olive Branch Petition",
+        "the reconciliation debate",
+        "Reconciliation Debate 1775"
+      ],
+      "tags": [
+        "politics",
+        "american-revolution",
+        "1775"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:reconciliation-debate-1775",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "Second Continental Congress"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "George III"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "religious-liberty",
+      "type": "concept",
+      "label": "Religious Liberty",
+      "description": "'The principle that individuals have a natural right to worship according to their own conscience, which Paine invokes to argue against religious tests and established churches'",
+      "aliases": [
+        "religious freedom",
+        "liberty of conscience",
+        "Religious Toleration"
+      ],
+      "tags": [
+        "political-philosophy",
+        "rights",
+        "religion",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:religious-liberty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "civil liberty"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "natural freedom"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "church-of-england",
+          "label": "Church of England"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        },
+        {
+          "type": "related",
+          "target": "reason",
+          "label": "Reason"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "Penn"
+        }
+      ]
+    },
+    {
+      "id": "representation",
+      "type": "concept",
+      "label": "Representation",
+      "description": "'Paine''s argument for equal representation as the mechanism through which the governed participate in their own governance'",
+      "aliases": [
+        "representative government",
+        "equal representation"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "representation",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:representation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "House of Commons"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "republic",
+          "label": "republican government"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        }
+      ]
+    },
+    {
+      "id": "republic",
+      "type": "concept",
+      "label": "Republic",
+      "description": "'Paine''s conception of a republic as government by elected representatives, the legitimate alternative to monarchy and hereditary rule'",
+      "aliases": [
+        "republicanism",
+        "republican government",
+        "commonwealth"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "republic",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:republic",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "constitution",
+          "label": "written constitution"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "equal representation"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "safety"
+        }
+      ]
+    },
+    {
+      "id": "resistance",
+      "type": "concept",
+      "label": "Resistance",
+      "description": "'The justified opposition to tyrannical government, which Paine presents as both a natural right and a prudential necessity when government ceases to serve the public good'",
+      "aliases": [
+        "right of resistance",
+        "political resistance",
+        "Rebellion"
+      ],
+      "tags": [
+        "political-philosophy",
+        "revolution",
+        "rights",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:resistance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "legitimate authority"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "lexington-and-concord",
+          "label": "Lexington"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "Revolution"
+        }
+      ]
+    },
+    {
+      "id": "revolution-of-1688",
+      "type": "event",
+      "label": "Revolution of 1688",
+      "description": "'The 1688 overthrow of James II; implicitly referenced in Paine''s constitutional critique'",
+      "aliases": [
+        "Glorious Revolution",
+        "the Revolution of 1688"
+      ],
+      "tags": [
+        "revolution",
+        "english-history",
+        "17th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:revolution-of-1688",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "Rights"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "robert-barclay",
+      "type": "person",
+      "label": "Robert Barclay",
+      "description": "'Scottish Quaker apologist whose address to Charles II is cited in the Appendix of Common Sense'",
+      "aliases": [
+        "Barclay",
+        "the Quaker apologist"
+      ],
+      "tags": [
+        "quaker",
+        "religious-figure",
+        "17th-century",
+        "apologist"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:robert-barclay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "charles-i",
+          "label": "Charles I"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "Penn"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "samuel-adams",
+      "type": "person",
+      "label": "Samuel Adams",
+      "description": "'American revolutionary and Founding Father, organizer of resistance to British policy in Massachusetts'",
+      "aliases": [
+        "Adams"
+      ],
+      "tags": [
+        "american-revolution",
+        "founding-fathers",
+        "sons-of-liberty",
+        "18th-century",
+        "boston"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:samuel-adams",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "boston",
+          "label": "Boston"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "Liberty"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "Independence"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "continental-congress",
+          "label": "Continental Congress"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        }
+      ]
+    },
+    {
+      "id": "samuel-prophet",
+      "type": "person",
+      "label": "Samuel",
+      "description": "'Biblical prophet who warned Israel against monarchy; Paine cites him alongside Gideon as divine witness against kingship'",
+      "aliases": [
+        "Samuel (Prophet)",
+        "the prophet Samuel",
+        "Samuel Prophet",
+        "Samuel the Prophet"
+      ],
+      "tags": [
+        "biblical-figure",
+        "prophet",
+        "old-testament",
+        "anti-monarchy"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:samuel-prophet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "saul-biblical",
+          "label": "Saul"
+        },
+        {
+          "type": "related",
+          "target": "david-biblical",
+          "label": "David"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "gideon-biblical",
+          "label": "Gideon"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "george-iii",
+          "label": "George III"
+        }
+      ]
+    },
+    {
+      "id": "saul-biblical",
+      "type": "person",
+      "label": "Saul",
+      "description": "'First king of Israel; Paine notes Saul was chosen by lot, undermining the principle of hereditary succession'",
+      "aliases": [
+        "King Saul",
+        "Saul (Biblical)",
+        "Saul Biblical"
+      ],
+      "tags": [
+        "biblical-figure",
+        "king",
+        "old-testament"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:saul-biblical",
+      "relations": [
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "the prophet Samuel"
+        },
+        {
+          "type": "related",
+          "target": "david-biblical",
+          "label": "David"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "hereditary right"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "type": "concept",
+      "label": "Security",
+      "description": "'The protection of life, liberty, and property that Paine identifies as the true end and design of government'",
+      "aliases": [
+        "safety",
+        "protection",
+        "public safety"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "rights",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:security",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "freedom",
+          "label": "security"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "state of nature"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "Reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "independence",
+          "label": "separation"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "tyranny",
+          "label": "arbitrary power"
+        }
+      ]
+    },
+    {
+      "id": "seven-years-war",
+      "type": "event",
+      "label": "Seven Years' War",
+      "description": "'The 1756–1763 global conflict that left Britain financially strained and led to colonial taxation'",
+      "aliases": [
+        "French and Indian War",
+        "the late war"
+      ],
+      "tags": [
+        "war",
+        "british-empire",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:seven-years-war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "sir-john-dalrymple",
+      "type": "person",
+      "label": "Sir John Dalrymple",
+      "description": "'Scottish historian and political writer referenced in the Appendix of Common Sense'",
+      "aliases": [
+        "John Dalrymple"
+      ],
+      "tags": [
+        "british-politics",
+        "historian",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:sir-john-dalrymple",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Great Britain"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        }
+      ]
+    },
+    {
+      "id": "sir-william-meredith",
+      "type": "person",
+      "label": "Sir William Meredith",
+      "description": "'British MP who described English government as a republic; cited by Paine to expose contradictions in British constitutional theory'",
+      "aliases": [
+        "William Meredith"
+      ],
+      "tags": [
+        "british-politics",
+        "parliament",
+        "18th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:sir-william-meredith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        }
+      ]
+    },
+    {
+      "id": "slavery",
+      "type": "concept",
+      "label": "'Slavery'",
+      "description": "'Paine''s concept of political servitude — the loss of freedom through failed republican virtue, absence of law, or deceptive reconciliation'",
+      "aliases": [
+        "political slavery",
+        "enslavement"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "liberty",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:slavery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "liberty",
+          "label": "liberty"
+        },
+        {
+          "type": "related",
+          "target": "virtue",
+          "label": "republican virtue"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "reconciliation with Britain"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        },
+        {
+          "type": "related",
+          "target": "british-house-of-commons",
+          "label": "the Commons"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "social-contract",
+      "type": "concept",
+      "label": "Social Contract",
+      "description": "'The philosophical theory that government derives its legitimacy from the consent of the governed'",
+      "aliases": [
+        "social compact",
+        "compact theory"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:social-contract",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "british-crown",
+          "label": "British monarchy"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "legitimate authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "type": "concept",
+      "label": "Society",
+      "description": "'Paine''s conception of society as the natural, positive product of human wants — distinct from and prior to government'",
+      "aliases": [
+        "civil society",
+        "social bonds"
+      ],
+      "tags": [
+        "political-philosophy",
+        "society",
+        "enlightenment",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "order",
+          "label": "Order"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "virtue",
+          "label": "moral virtue"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "state of nature"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        }
+      ]
+    },
+    {
+      "id": "spain",
+      "type": "place",
+      "label": "Spain",
+      "description": "'The European monarchy consistently paired with France in Paine''s strategic calculus against Britain'",
+      "aliases": [],
+      "tags": [
+        "european-countries",
+        "colonial-power",
+        "18th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:spain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Thomas Paine"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        }
+      ]
+    },
+    {
+      "id": "stamp-act-repeal",
+      "type": "event",
+      "label": "Stamp Act Repeal",
+      "description": "'The 1766 repeal of the Stamp Act; referenced in the Appendix as an example of British inconsistency'",
+      "aliases": [
+        "repeal of the Stamp Act",
+        "Stamp Act",
+        "Stamp Act crisis"
+      ],
+      "tags": [
+        "british-politics",
+        "taxation",
+        "18th-century",
+        "american-revolution"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:stamp-act-repeal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "british-parliament",
+          "label": "Parliament"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "Reconciliation"
+        }
+      ]
+    },
+    {
+      "id": "subjects",
+      "type": "chapter",
+      "label": "\"Subjects\"",
+      "description": "\"Table of contents from the original 1776 edition of Common Sense\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "political-philosophy",
+        "1770s"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:subjects",
+      "relations": [
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "the people called Quakers"
+        }
+      ]
+    },
+    {
+      "id": "thomas-paine",
+      "type": "person",
+      "label": "Thomas Paine",
+      "description": "'Author of *Common Sense* (1776), the pamphlet that galvanized American public opinion toward independence'",
+      "aliases": [
+        "Paine",
+        "Common Sense author"
+      ],
+      "tags": [
+        "american-revolution",
+        "enlightenment",
+        "political-philosophy",
+        "18th-century",
+        "pamphlet"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:thomas-paine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "william-penn",
+          "label": "Penn"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "Revolutionary War"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "natural-rights",
+          "label": "Rights"
+        },
+        {
+          "type": "related",
+          "target": "reason",
+          "label": "Reason"
+        },
+        {
+          "type": "related",
+          "target": "gideon-biblical",
+          "label": "Gideon"
+        },
+        {
+          "type": "related",
+          "target": "samuel-prophet",
+          "label": "Samuel"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "usurpation",
+          "label": "usurp"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "society",
+          "label": "Society"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "reconciliation",
+          "label": "Reconciliation"
+        },
+        {
+          "type": "related",
+          "target": "part-4-present-ability-of-america",
+          "label": "America's capacity"
+        },
+        {
+          "type": "related",
+          "target": "samuel-adams",
+          "label": "Adams"
+        }
+      ]
+    },
+    {
+      "id": "trust",
+      "type": "concept",
+      "label": "Trust",
+      "description": "'Paine''s concept of political trust as the conditional and revocable delegation of authority from the people to their governors, central to his argument against hereditary monarchy'",
+      "aliases": [
+        "political trust",
+        "public trust"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "social-contract",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:trust",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        },
+        {
+          "type": "related",
+          "target": "natural-liberty",
+          "label": "state of nature"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "type": "place",
+      "label": "Turkey",
+      "description": "'The Ottoman Empire, invoked by Paine as an example of despotic government comparable to monarchy'",
+      "aliases": [
+        "Ottoman Empire"
+      ],
+      "tags": [
+        "european-countries",
+        "middle-east",
+        "18th-century",
+        "empires"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:turkey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "africa",
+          "label": "Africa"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "commerce",
+          "label": "trade"
+        },
+        {
+          "type": "related",
+          "target": "security",
+          "label": "protection"
+        },
+        {
+          "type": "related",
+          "target": "introduction",
+          "label": "introduction"
+        },
+        {
+          "type": "related",
+          "target": "part-2-monarchy-and-succession",
+          "label": "Monarchy and Hereditary Succession"
+        }
+      ]
+    },
+    {
+      "id": "tyranny",
+      "type": "concept",
+      "label": "Tyranny",
+      "description": "'Paine''s analysis of tyranny as the corruption of government into arbitrary power, and the moral imperative to resist it'",
+      "aliases": [
+        "tyrant",
+        "despotism",
+        "arbitrary power"
+      ],
+      "tags": [
+        "political-philosophy",
+        "government",
+        "tyranny",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:tyranny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "consent-of-the-governed",
+          "label": "popular consent"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "william-the-conqueror",
+          "label": "William the Conqueror"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        }
+      ]
+    },
+    {
+      "id": "usurpation",
+      "type": "concept",
+      "label": "Usurpation",
+      "description": "'The illegitimate seizure of political power, which Paine identifies as the origin of monarchy and the defining character of British rule over America'",
+      "aliases": [
+        "usurp",
+        "usurper"
+      ],
+      "tags": [
+        "political-philosophy",
+        "monarchy",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:usurpation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "authority",
+          "label": "political authority"
+        },
+        {
+          "type": "related",
+          "target": "power",
+          "label": "authority"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "American colonies"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        }
+      ]
+    },
+    {
+      "id": "virtue",
+      "type": "concept",
+      "label": "Virtue",
+      "description": "'Paine''s use of virtue as a political concept — the moral quality that sustains republican government'",
+      "aliases": [
+        "moral virtue",
+        "public virtue",
+        "republican virtue"
+      ],
+      "tags": [
+        "political-philosophy",
+        "virtue",
+        "republicanism",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:virtue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "republic",
+          "label": "republican government"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "future generations"
+        },
+        {
+          "type": "related",
+          "target": "british-constitution",
+          "label": "English constitution"
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "type": "concept",
+      "label": "War",
+      "description": "'Paine''s analysis of war as a consequence of monarchy and the uncertain instrument of political contention, contrasted with the peace achievable through republican government'",
+      "aliases": [
+        "warfare",
+        "armed conflict"
+      ],
+      "tags": [
+        "political-philosophy",
+        "war",
+        "government",
+        "1770s"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "tradition"
+        },
+        {
+          "type": "related",
+          "target": "england",
+          "label": "Britain"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "holland",
+          "label": "Holland"
+        }
+      ]
+    },
+    {
+      "id": "wars-of-the-roses",
+      "type": "event",
+      "label": "Wars of the Roses",
+      "description": "'The 15th-century dynastic conflict between Lancaster and York; Paine''s prime example of hereditary succession''s bloody consequences'",
+      "aliases": [
+        "the civil wars",
+        "York vs Lancaster"
+      ],
+      "tags": [
+        "civil-war",
+        "english-history",
+        "15th-century",
+        "monarchy"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:wars-of-the-roses",
+      "relations": [
+        {
+          "type": "related",
+          "target": "henry-vi",
+          "label": "Henry VI"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-succession",
+          "label": "succession"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "warfare"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "europe",
+          "label": "Europe"
+        }
+      ]
+    },
+    {
+      "id": "william-penn",
+      "type": "person",
+      "label": "William Penn",
+      "description": "'English Quaker and founder of Pennsylvania, referenced through the colony that bears his name'",
+      "aliases": [
+        "Penn"
+      ],
+      "tags": [
+        "quaker",
+        "pennsylvania",
+        "17th-century",
+        "religious-figure",
+        "colonial-america"
+      ],
+      "quality": "standard",
+      "source_ref": "common-sense-paine:william-penn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pennsylvania",
+          "label": "Province of Pennsylvania"
+        },
+        {
+          "type": "related",
+          "target": "war",
+          "label": "War"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "representation",
+          "label": "representative government"
+        },
+        {
+          "type": "related",
+          "target": "government",
+          "label": "Government"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "philadelphia",
+          "label": "Philadelphia"
+        },
+        {
+          "type": "related",
+          "target": "quakers",
+          "label": "Quakers"
+        },
+        {
+          "type": "related",
+          "target": "american-revolution",
+          "label": "Revolutionary War"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "religious-liberty",
+          "label": "Religious Toleration"
+        }
+      ]
+    },
+    {
+      "id": "william-the-conqueror",
+      "type": "person",
+      "label": "William the Conqueror",
+      "description": "'The Norman duke who conquered England in 1066; Paine uses him as the archetypal example of monarchy''s illegitimate origin in conquest'",
+      "aliases": [
+        "William I",
+        "the Conqueror"
+      ],
+      "tags": [
+        "english-monarchy",
+        "norman-conquest",
+        "11th-century"
+      ],
+      "quality": "featured",
+      "source_ref": "common-sense-paine:william-the-conqueror",
+      "relations": [
+        {
+          "type": "related",
+          "target": "england",
+          "label": "England"
+        },
+        {
+          "type": "related",
+          "target": "thomas-paine",
+          "label": "Paine"
+        },
+        {
+          "type": "related",
+          "target": "custom",
+          "label": "Tradition"
+        },
+        {
+          "type": "related",
+          "target": "monarchy",
+          "label": "king"
+        },
+        {
+          "type": "related",
+          "target": "america",
+          "label": "America"
+        },
+        {
+          "type": "related",
+          "target": "obedience",
+          "label": "allegiance"
+        },
+        {
+          "type": "related",
+          "target": "posterity",
+          "label": "descendants"
+        },
+        {
+          "type": "related",
+          "target": "consent-of-the-governed",
+          "label": "popular consent"
+        }
+      ]
+    }
+  ]
+}

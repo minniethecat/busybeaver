@@ -1,0 +1,132 @@
+---
+description: ""
+id: Aphorism-351
+label: "Aphorism 351"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book V
+
+### 351.
+
+### 351.
+
+
+*In Honour of Priestly Natures.*—I think that
+
+philosophers have always felt themselves furthest
+
+removed from that which the people (in all classes
+
+of society nowadays) take for wisdom: the prudent,
+
+bovine placidity, piety, and country-parson meekness,
+
+which lies in the meadow and *gazes at* life
+
+seriously and ruminatingly:—this is probably because
+
+philosophers have not had sufficiently the
+
+taste of the "people," or of the country-parson
+
+for that kind of wisdom. Philosophers will also
+
+perhaps be the latest to acknowledge that the
+
+people *should* understand something of that which
+
+lies furthest from them, something of the great
+
+*passion* of the thinker, who lives and must live
+
+continually in the storm-cloud of the highest
+
+problems and the heaviest responsibilities (consequently,
+
+not gazing at all, to say nothing of
+
+doing so indifferently, securely, objectively). The
+
+people venerate an entirely different type of man
+
+when on their part they form the ideal of a
+
+"sage," and they are a thousand times justified
+
+in rendering homage with the highest eulogies and
+
+honours to precisely that type of men—namely,
+
+the gentle, serious, simple, chaste, priestly natures
+
+and those related to them,—it is to them that
+
+the praise falls due in the popular veneration of
+
+wisdom. And to whom should the people ever
+
+have more reason to be grateful than to these men
+
+who pertain to its class and rise from its ranks, but
+
+are persons consecrated, chosen, and *sacrificed* for its
+
+good—they themselves believe themselves sacrificed
+
+to God,—before whom the people can pour forth its
+
+heart with impunity, by whom it can *get rid* of its
+
+secrets, cares, and worse things (for the man who
+
+"communicates himself" gets rid of himself, and he
+
+who has "confessed" forgets). Here there exists a
+
+great need: for sewers and pure cleansing waters
+
+are required also for spiritual filth, and rapid
+
+currents of love are needed, and strong, lowly, pure
+
+hearts, who qualify and sacrifice themselves for
+
+such service of the non-public health department—for
+
+it *is* a sacrificing, the priest is, and continues to
+
+be, a human sacrifice.... The people regard such
+
+sacrificed, silent, serious men of "faith" as "*wise*,"
+
+that is to say, as men who have become sages, as
+
+"reliable" in relation to their own unreliability.
+
+Who would desire to deprive the people of that
+
+expression and that veneration?—But as is fair on
+
+the other side, among philosophers the priest also
+
+is still held to belong to the "people," and is *not*
+
+regarded as a sage, because, above all, they themselves
+
+do not believe in "sages," and they already
+
+scent "the people" in this very belief and superstition.
+
+It was *modesty* which invented in Greece
+
+the word "philosopher," and left to the play-actors
+
+of the spirit the superb arrogance of assuming
+
+the name "wise"—the modesty of such monsters
+
+of pride and self-glorification as Pythagoras and
+
+Plato.—

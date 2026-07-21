@@ -1,0 +1,5504 @@
+{
+  "book": "the-perennial-bachelor",
+  "title": "The Perennial Bachelor",
+  "description": "The Perennial Bachelor — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 166,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"The Perennial Bachelor\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"Colophon and production notes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "The Perennial Bachelor"
+        },
+        {
+          "type": "related",
+          "target": "standard-ebooks",
+          "label": "Standard Ebooks"
+        }
+      ]
+    },
+    {
+      "id": "Dedication",
+      "type": "chapter",
+      "label": "\"Dedication\"",
+      "description": "\"Dedication page\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Dedication",
+      "relations": []
+    },
+    {
+      "id": "Half-Title",
+      "type": "chapter",
+      "label": "\"Half Title\"",
+      "description": "\"Half title page\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Half-Title",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "The Perennial Bachelor"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"Publication and copyright information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Imprint",
+      "relations": [
+        {
+          "type": "related",
+          "target": "standard-ebooks",
+          "label": "Standard Ebooks"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "ch32"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Title-Page",
+      "type": "chapter",
+      "label": "\"Title Page\"",
+      "description": "\"Title page of The Perennial Bachelor by Anne Parrish\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Title-Page",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "The Perennial Bachelor"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"Public domain dedication and license information\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:Uncopyright",
+      "relations": [
+        {
+          "type": "related",
+          "target": "standard-ebooks",
+          "label": "Standard Ebooks"
+        }
+      ]
+    },
+    {
+      "id": "aging-and-mortality",
+      "type": "concept",
+      "label": "Aging and Mortality",
+      "description": "The passage of time, the loss of youth, and the presence of death as shaping forces in the lives of the Campion family across six decades.",
+      "aliases": [
+        "aging",
+        "mortality",
+        "growing old",
+        "death",
+        "passage of time"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:aging-and-mortality",
+      "relations": []
+    },
+    {
+      "id": "albert",
+      "type": "person",
+      "label": "Albert",
+      "description": "A long-serving outdoor man at The Maples who tends the grounds, brings in firewood, picks cherries, and makes raspberry water-ice for summer gatherings.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:albert",
+      "relations": []
+    },
+    {
+      "id": "alfred-lacey",
+      "type": "person",
+      "label": "Mr. Alfred Lacey",
+      "description": "The warm, jovial widower who courts Mamma Campion — a man whose genuine affection and kind heart make him the novel's most appealing alternative to the Campion family's self-enclosed world.",
+      "aliases": [
+        "Mr. Lacey",
+        "Alfred Lacey"
+      ],
+      "tags": [
+        "person",
+        "suitor"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:alfred-lacey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lacey-courtship",
+          "label": "courtship of Mamma"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perpetual bachelorhood"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "armistice-celebrations",
+      "type": "event",
+      "label": "Armistice and Peace Celebrations",
+      "description": "The public celebrations marking the end of World War I — a moment of collective rejoicing that briefly unites the Campion family with the wider world before they retreat back into the confines of The Maples.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "armistice",
+        "celebration"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:armistice-celebrations",
+      "relations": [
+        {
+          "type": "related",
+          "target": "war-committees",
+          "label": "committee work"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "wwi-home-front",
+          "label": "WWI Home Front"
+        },
+        {
+          "type": "related",
+          "target": "civil-war-battles",
+          "label": "Civil War Battles"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        }
+      ]
+    },
+    {
+      "id": "aunt-jo",
+      "type": "person",
+      "label": "Aunt Jo",
+      "description": "Robert Leaf's aunt and guardian in Wilmington — a woman whose household provides a home for her nephew and whose complaints and carriage mark her as a figure of comfortable, mildly exasperated domesticity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:aunt-jo",
+      "relations": []
+    },
+    {
+      "id": "aunt-priscilla",
+      "type": "person",
+      "label": "Aunt Priscilla",
+      "description": "Mamma's hopelessly disorganized sister — married to Uncle Willie, perpetually overwhelmed by domestic life, and the novel's most affectionately comic portrait of feminine incapacity.",
+      "aliases": [
+        "Aunt Priscilla",
+        "Priscilla"
+      ],
+      "tags": [
+        "person",
+        "aunt"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:aunt-priscilla",
+      "relations": [
+        {
+          "type": "related",
+          "target": "southern-womanhood",
+          "label": "Southern womanhood"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender expectations"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "beauty-as-currency",
+      "type": "concept",
+      "label": "Beauty as Currency",
+      "description": "The function of physical beauty as a form of social and economic capital for women in the world of The Perennial Bachelor, and the consequences of its possession or absence.",
+      "aliases": [
+        "beauty",
+        "attractiveness",
+        "appearance",
+        "pretty privilege"
+      ],
+      "tags": [
+        "concept",
+        "motif"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:beauty-as-currency",
+      "relations": []
+    },
+    {
+      "id": "billy-park",
+      "type": "place",
+      "label": "Billy Park",
+      "description": "Local recreation ground serving as a site of leisure, courtship, and community gathering near the Campion family's town.",
+      "aliases": [
+        "billy park"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:billy-park",
+      "relations": []
+    },
+    {
+      "id": "caesar",
+      "type": "person",
+      "label": "Caesar",
+      "description": "The gardener at The Maples who tends the grape-house, drives Mamma to church, and works alongside Albert and Martha as part of the Campion household staff.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:caesar",
+      "relations": []
+    },
+    {
+      "id": "campion-household-staff",
+      "type": "organization",
+      "label": "The Campion Household Staff",
+      "description": "The domestic workers — cooks, housemen, and general servants — whose labor sustained The Maples across generations of the Campion family.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "household",
+        "domestic-labor"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:campion-household-staff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-local-store",
+          "label": "the-local-store"
+        }
+      ]
+    },
+    {
+      "id": "campion-women-domestic-labor",
+      "type": "insight",
+      "label": "\"The Campion Women: Domestic Labor and Emotional Economy\"",
+      "description": "A cross-character analysis of how the women of the Campion family — Mamma, Maggie, Lily, Aunt Priscilla, and the household staff — collectively sustained The Maples through an invisible economy of domestic labor and emotional sacrifice.",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "gender",
+        "domestic-labor",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:campion-women-domestic-labor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "Domestic space"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma (Margaret Campion)"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "caesar",
+          "label": "Caesar"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family-duty-and-sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender-roles"
+        }
+      ]
+    },
+    {
+      "id": "century-club",
+      "type": "organization",
+      "label": "Century Club",
+      "description": "A Wilmington social club that served as a venue for rehearsals, dinners, and dances — representing the town's aspirational social life and the institutions of gentility the Campion family orbited without fully inhabiting.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "club",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:century-club",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "small-town-society",
+          "label": "small-town society's"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "social class"
+        },
+        {
+          "type": "related",
+          "target": "st-stephens-episcopal",
+          "label": "St. Stephen's Episcopal Church"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Chapter 1\"",
+      "description": "\"I \t\t  \t\t  \t \t \t\t \t\t\t I  \t\t\t As she lay floating in the grey river that flows between sleeping and waking, Maggie Campion knew, without remembering why, that it was a happy day.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "remembering"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "sibling-relationships",
+          "label": "brother and sister"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Chapter 2\"",
+      "description": "\"II \t\t  \t\t  \t \t \t\t \t\t\t II  \t\t\t Victor Campion met Margaret Southmayd a few years after he graduated from Harvard, when he went to visit her brother Henry, who had been a classmate.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Delaware"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Chapter 3\"",
+      "description": "\"III \t\t  \t\t  \t \t \t\t \t\t\t III  \t\t\t Nobody could keep away from the parlor, because Papa was there, home again.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "parlor"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "remembering"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Chapter 4\"",
+      "description": "\"IV \t\t  \t\t  \t \t \t\t \t\t\t IV  \t\t\t One of the cherry trees in the garden was dead, and over it grew a wistaria vine, lavendar-blue, a heaven-colored tent.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Chapter 5\"",
+      "description": "\"V \t\t  \t\t  \t \t \t\t \t\t\t V  \t\t\t The baby wailed and drooped through the heat of his first summer; but, when Mamma cut long sprays of pungent chrysanthemums for the brass vases that stood on the altar to t\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "mount-pleasant",
+          "label": "Mount Pleasant"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Chapter 6\"",
+      "description": "\"VI \t\t  \t\t  \t \t \t\t \t\t\t VI  \t\t\t “What is thy duty towards thy neighbor?” asked Miss Hessie Farley, brushing a bluebottle fly away from her nose; and the children chorused:  \t\t\t “My duty toward my Neighb\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Chapter 7\"",
+      "description": "\"VII \t\t  \t\t  \t \t \t\t \t\t\t VII  \t\t\t Gently the Campions slipped from being rich to being “well-to-do,” from being “well-to-do” to being “comfortable,” and from being “comfortable” to “having to be just a \"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Chapter 8\"",
+      "description": "\"VIII \t\t  \t\t  \t \t \t\t \t\t\t VIII  \t\t\t Each year the pencil marks to show how much the children had grown crept up and up by the side door, like a rising tide.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "parlor"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily Campion"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Delaware"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Chapter 9\"",
+      "description": "\"IX \t\t  \t\t  \t \t \t\t \t\t\t IX  \t\t\t They went to the woods for Christmas greens, jolting along in the farm cart.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "parlor"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Chapter 10\"",
+      "description": "\"X \t\t  \t\t  \t \t \t\t \t\t\t X  \t\t\t It was so hot that to breathe was like putting your head under a towel and over the teakettle.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        },
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Chapter 11\"",
+      "description": "\"XI \t\t  \t\t  \t \t \t\t \t\t\t XI  \t\t\t Mamma planned to be surprised in the garden, but as the time for Mr.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Chapter 12\"",
+      "description": "\"XII \t\t  \t\t  \t \t \t\t \t\t\t XII  \t\t\t Miss Hessie Farley was going to be Airy Fairy Lilian in half a minute, and was in a panic because she couldn’t find her blue scarf and parasol anywhere.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Chapter 13\"",
+      "description": "\"XIII \t\t  \t\t  \t \t \t\t \t\t\t XIII  \t\t\t He came on Saturday afternoon long before anyone expected him.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Delaware"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Chapter 14\"",
+      "description": "\"XIV \t\t  \t\t  \t \t \t\t \t\t\t XIV  \t\t\t Now that they could only afford to keep Albert outside and Martha in the house, Mamma and the girls had ever so much more to do.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Chapter 15\"",
+      "description": "\"XV \t\t  \t\t  \t \t \t\t \t\t\t XV  \t\t\t Even Willie said the new cook was good.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Chapter 16\"",
+      "description": "\"XVI \t\t  \t\t  \t \t \t\t \t\t\t XVI  \t\t\t Edward was coming.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Chapter 17\"",
+      "description": "\"XVII \t\t  \t\t  \t \t \t\t \t\t\t XVII  \t\t\t The ladies were stealing a good many glances at the clock beneath the Arab and his prancing steed on Mrs.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "small-town-society",
+          "label": "gossip"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "engagement"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "billy-park",
+          "label": "Billy Park"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Chapter 18\"",
+      "description": "\"XVIII \t\t  \t\t  \t \t \t\t \t\t\t XVIII  \t\t\t Happiness to wake at dawn and lie listening to the birds, to bathe in the crackling copper-lined tub, and go leaping down through the soaking grass to get a brown a\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "old maid"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "billy-park",
+          "label": "Billy Park"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Chapter 19\"",
+      "description": "\"XIX \t\t  \t\t  \t \t \t\t \t\t\t XIX  \t\t\t Maggie hung Victor’s dress-suit on the clothesline to get rid of the smell of camphor.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Chapter 20\"",
+      "description": "\"XX \t\t  \t\t  \t \t \t\t \t\t\t XX  \t\t\t Twice Lucy came to visit the Leafs’, and each time Victor loved her more.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "market-street",
+          "label": "Market Street"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "hans-crescent",
+          "label": "Hans Crescent"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "appearance"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "hampton-court",
+          "label": "Hampton Court"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Chapter 21\"",
+      "description": "\"XXI \t\t  \t\t  \t \t \t\t \t\t\t XXI  \t\t\t Victor, like Lucy’s ship, went up and down, as his angel’s voice called to him from across the sea that she was missing him so that she nearly died, or that the gentlem\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "engagement"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Chapter 22\"",
+      "description": "\"XXII \t\t  \t\t  \t \t \t\t \t\t\t XXII  \t\t\t Ridiculous to feel positively lightheaded with high spirits when one is in the middle thirties—Maggie couldn’t understand it.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "market-street",
+          "label": "Market Street"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Chapter 23\"",
+      "description": "\"XXIII \t\t  \t\t  \t \t \t\t \t\t\t XXIII  \t\t\t While we still feel that we are just entering the sea we look back, and how far we have come!\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "fashion"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "raymond-line",
+          "label": "Raymond Line"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Chapter 24\"",
+      "description": "\"XXIV \t\t  \t\t  \t \t \t\t \t\t\t XXIV  \t\t\t Aunt Priscilla trailed across the fields under the soft spring sky, bringing her nieces the latest installment of “Trilby” in Harper’s Magazine.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "daisy",
+          "label": "Daisy"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "raymond-line",
+          "label": "Raymond Line"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Chapter 25\"",
+      "description": "\"XXV \t\t  \t\t  \t \t \t\t \t\t\t XXV  \t\t\t “You mark my words, Lily—Wadsworth Robinson is going to make May an offer, and what’s more, I believe she’s going to take him.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "daisy",
+          "label": "Daisy"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war"
+        },
+        {
+          "type": "related",
+          "target": "raymond-line",
+          "label": "Raymond Line"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Chapter 26\"",
+      "description": "\"XXVI \t\t  \t\t  \t \t \t\t \t\t\t XXVI  \t\t\t “I suppose it’s a sign a body’s getting old when time goes by so fast,” Maggie thought, putting “Victor—Many Happy Returns” and a border of scallops and dots in pink \"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "miss-snaith",
+          "label": "Miss Snaith"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Chapter 27\"",
+      "description": "\"XXVII \t\t  \t\t  \t \t \t\t \t\t\t XXVII  \t\t\t Summer came, and Miss Snaith and Miss Hopper, in piqué skirts, with chatelaine bags hanging from their straining belts, and lingerie waists with high boned collars,\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-snaith",
+          "label": "Miss Snaith"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "wedding"
+        },
+        {
+          "type": "related",
+          "target": "century-club",
+          "label": "Century Club"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"Chapter 28\"",
+      "description": "\"XXVIII \t\t  \t\t  \t \t \t\t \t\t\t XXVIII  \t\t\t “Yes, the rooms are lovely and big—but so little closet space!\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "miss-snaith",
+          "label": "Miss Snaith"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"Chapter 29\"",
+      "description": "\"XXIX \t\t  \t\t  \t \t \t\t \t\t\t XXIX  \t\t\t Fannie Page tilted the side of her face to her husband’s casual kiss, as she went on reading her letters.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "century-club",
+          "label": "Century Club"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "engagement"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"Chapter 30\"",
+      "description": "\"XXX \t\t  \t\t  \t \t \t\t \t\t\t XXX  \t\t\t War swept the world.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "small-town-society",
+          "label": "gossip"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "market-street",
+          "label": "Market Street"
+        },
+        {
+          "type": "related",
+          "target": "delaware-avenue",
+          "label": "Delaware Avenue"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "class"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "beauty-as-currency",
+          "label": "beauty"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"Chapter 31\"",
+      "description": "\"XXXI \t\t  \t\t  \t \t \t\t \t\t\t XXXI  \t\t\t “Where you going, Maggie?”  \t\t\t Lily squatted back on her heels.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "remembering"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"Chapter 32\"",
+      "description": "\"XXXII \t\t  \t\t  \t \t \t\t \t\t\t XXXII  \t\t\t Lily loved the Sunday papers.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "home"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"Chapter 33\"",
+      "description": "\"XXXIII \t\t  \t\t  \t \t \t\t \t\t\t XXXIII  \t\t\t Lily didn’t really mind getting old.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-perennial-bachelor:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "house"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "growing old"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "old maid"
+        }
+      ]
+    },
+    {
+      "id": "chloe",
+      "type": "person",
+      "label": "Chloe",
+      "description": "The elderly Black cook at The Maples — a lifelong servant whose labor, presence, and quiet dignity sustain the Campion household across generations.",
+      "aliases": [
+        "Chloe"
+      ],
+      "tags": [
+        "person",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:chloe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "campion-household-staff",
+          "label": "campion-household-staff"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "martha"
+        }
+      ]
+    },
+    {
+      "id": "christmas-at-the-maples",
+      "type": "event",
+      "label": "Christmas at The Maples",
+      "description": "The annual Christmas celebrations at the Campion family home — a ritual of greenery, candlelit trees, and gift-giving that marked the emotional high point of the family's year.",
+      "aliases": [
+        "Christmas",
+        "the Christmas tree"
+      ],
+      "tags": [
+        "event",
+        "holiday",
+        "family"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:christmas-at-the-maples",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family duty"
+        },
+        {
+          "type": "related",
+          "target": "new-years-day",
+          "label": "New Year's Day"
+        },
+        {
+          "type": "related",
+          "target": "st-stephens-episcopal",
+          "label": "St. Stephen's Episcopal Church"
+        }
+      ]
+    },
+    {
+      "id": "civil-war-background-radiation",
+      "type": "insight",
+      "label": "\"The Civil War as Background Radiation\"",
+      "description": "An analysis of how the American Civil War functions in The Perennial Bachelor as a persistent but indirect presence — shaping character fates, economic conditions, and the novel's temporal consciousness without ever occupying the narrative foreground.",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "civil-war",
+        "history",
+        "temporality"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:civil-war-background-radiation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "Spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "memory-and-nostalgia",
+          "label": "collective nostalgia"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        },
+        {
+          "type": "related",
+          "target": "aging-and-mortality",
+          "label": "aging-and-mortality"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender-roles"
+        }
+      ]
+    },
+    {
+      "id": "civil-war-battles",
+      "type": "event",
+      "label": "Civil War Battles",
+      "description": "The Civil War as experienced from the domestic perspective of The Maples — battles glimpsed through the movement of troops, the fear of children, and the distant sound of bugle calls.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "war",
+        "historical-context"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:civil-war-battles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "wwi-home-front",
+          "label": "WWI Home Front"
+        },
+        {
+          "type": "related",
+          "target": "civil-war-background-radiation",
+          "label": "The Civil War as Background Radiation"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "cobina",
+      "type": "person",
+      "label": "Cobina",
+      "description": "Aunt Priscilla's Black cook, remembered for her corn-fritters, her refusal to eat mushrooms, and her inclusion in her mistress's grateful prayers.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:cobina",
+      "relations": []
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concept Index",
+      "description": "Complete index of all themes, motifs, and social concepts explored in The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "concept",
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:concept-index",
+      "relations": []
+    },
+    {
+      "id": "courtship-and-marriage",
+      "type": "concept",
+      "label": "Courtship and Marriage",
+      "description": "The social rituals, economic realities, and personal consequences of courtship and marriage in post-Civil War American society as depicted in The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:courtship-and-marriage",
+      "relations": []
+    },
+    {
+      "id": "courtship-as-narrative-engine",
+      "type": "insight",
+      "label": "\"Courtship as Narrative Engine\"",
+      "description": "An analysis of how courtship — its rituals, failures, and deferred outcomes — functions as the primary mechanism driving plot, character development, and social critique in The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [
+        "insight",
+        "courtship",
+        "narrative-structure",
+        "marriage"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:courtship-as-narrative-engine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "prentice-page",
+          "label": "Prentice Page"
+        },
+        {
+          "type": "related",
+          "target": "dorothy-spear",
+          "label": "Dorothy Spear"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "social-class-and-gentility",
+          "label": "social class"
+        },
+        {
+          "type": "related",
+          "target": "century-club",
+          "label": "Century Club"
+        },
+        {
+          "type": "related",
+          "target": "st-stephens-episcopal",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "courtship-and-marriage"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        }
+      ]
+    },
+    {
+      "id": "cousin-jennie-blodgett",
+      "type": "person",
+      "label": "Cousin Jennie Blodgett",
+      "description": "A Campion family cousin who stays with the household during Mamma's illness and whose embroidered motto \"God Bless Our Home\" survives as a relic of the family's vanished domestic life.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:cousin-jennie-blodgett",
+      "relations": []
+    },
+    {
+      "id": "cousin-lizzie-blow",
+      "type": "person",
+      "label": "Cousin Lizzie Blow",
+      "description": "The sharp-tongued Campion relative whose critical remarks and social pretensions provide the novel with its most vivid portrait of the family's wider social milieu.",
+      "aliases": [
+        "Cousin Lizzie",
+        "Lizzie Blow"
+      ],
+      "tags": [
+        "person",
+        "cousin"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:cousin-lizzie-blow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sam-blow",
+          "label": "Sam Blow"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "southern-womanhood",
+          "label": "southern-womanhood"
+        }
+      ]
+    },
+    {
+      "id": "cousin-sam",
+      "type": "person",
+      "label": "Cousin Sam",
+      "description": "A Campion family relative known for his drinking, his fishing talk, and his quiet companionship with Victor in later years.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:cousin-sam",
+      "relations": []
+    },
+    {
+      "id": "daisy",
+      "type": "person",
+      "label": "Daisy",
+      "description": "A minor figure in the Campion household or extended social circle — one of the many peripheral presences that populate the novel's densely detailed social world.",
+      "aliases": [
+        "Daisy"
+      ],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:daisy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "daisy-blow",
+          "label": "Daisy Blow"
+        }
+      ]
+    },
+    {
+      "id": "daisy-blow",
+      "type": "person",
+      "label": "Daisy Blow",
+      "description": "The flashy, perfume-drenched bride of Sam Blow — a woman whose ostentatious visits to the Campion household provoke mingled irritation and amusement.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:daisy-blow",
+      "relations": []
+    },
+    {
+      "id": "delaware-avenue",
+      "type": "place",
+      "label": "Delaware Avenue",
+      "description": "Wilmington street housing the doctor's office and professional services — a site of medical and social encounters.",
+      "aliases": [
+        "delaware avenue"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:delaware-avenue",
+      "relations": []
+    },
+    {
+      "id": "domestic-space-and-the-home",
+      "type": "concept",
+      "label": "Domestic Space and the Home",
+      "description": "The Campion family home, The Maples, as both physical setting and symbolic center of the novel's exploration of family, memory, and decline.",
+      "aliases": [
+        "home",
+        "house",
+        "The Maples",
+        "domestic space",
+        "parlor"
+      ],
+      "tags": [
+        "concept",
+        "motif"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:domestic-space-and-the-home",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma's"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla's"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Margaret's"
+        },
+        {
+          "type": "related",
+          "target": "christmas-at-the-maples",
+          "label": "Christmas at The Maples"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "The perennial bachelor"
+        }
+      ]
+    },
+    {
+      "id": "dorothy-spear",
+      "type": "person",
+      "label": "Dorothy Spear",
+      "description": "The modern, flippant daughter of the wealthy Spear family who bought The Maples from the Campions.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:dorothy-spear",
+      "relations": []
+    },
+    {
+      "id": "dr-chase",
+      "type": "person",
+      "label": "Dr. Chase",
+      "description": "The local physician in Wilmington who attended the Campion family, delivered Victor Campion, and treated Aunt Priscilla in her final illness.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:dr-chase",
+      "relations": []
+    },
+    {
+      "id": "dr-henderson",
+      "type": "person",
+      "label": "Dr. Henderson",
+      "description": "A physician on Delaware Avenue in Wilmington consulted by the Campion family in the novel's later chapters.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:dr-henderson",
+      "relations": []
+    },
+    {
+      "id": "edward",
+      "type": "person",
+      "label": "Edward Post",
+      "description": "A young suitor who courts the Campion sisters, forming a brief but meaningful connection with Maggie before marrying another.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:edward",
+      "relations": []
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Index",
+      "description": "Complete index of all significant events in The Perennial Bachelor, sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "event",
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:event-index",
+      "relations": []
+    },
+    {
+      "id": "family-duty-and-sacrifice",
+      "type": "concept",
+      "label": "Family Duty and Sacrifice",
+      "description": "The moral framework of obligation and self-denial that governs family life in The Perennial Bachelor, particularly as experienced by the Campion daughters.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:family-duty-and-sacrifice",
+      "relations": []
+    },
+    {
+      "id": "fannie",
+      "type": "person",
+      "label": "Fannie",
+      "description": "A pretty friend of the Campion sisters who appears in the tableaux vivants and later as Fannie Page, married with children.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:fannie",
+      "relations": []
+    },
+    {
+      "id": "fifth-avenue",
+      "type": "place",
+      "label": "Fifth Avenue",
+      "description": "New York's premier shopping and residential street, symbolizing wealth, fashion, and the metropolitan life inaccessible to the Campions.",
+      "aliases": [
+        "fifth avenue"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:fifth-avenue",
+      "relations": []
+    },
+    {
+      "id": "gender-roles",
+      "type": "concept",
+      "label": "Gender Roles",
+      "description": "The social construction of masculinity and femininity in the post-Civil War American South, as examined through the contrasting fates of the Campion sons and daughters.",
+      "aliases": [
+        "gender",
+        "masculinity",
+        "femininity",
+        "sex roles",
+        "double standard"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:gender-roles",
+      "relations": []
+    },
+    {
+      "id": "hampton-court",
+      "type": "place",
+      "label": "Hampton Court",
+      "description": "Historic London palace mentioned in connection with European travel and cultural aspiration.",
+      "aliases": [
+        "hampton court"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:hampton-court",
+      "relations": []
+    },
+    {
+      "id": "hans-crescent",
+      "type": "place",
+      "label": "Hans Crescent",
+      "description": "Fashionable London address representing the social world of international gentility.",
+      "aliases": [
+        "hans crescent"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:hans-crescent",
+      "relations": []
+    },
+    {
+      "id": "henry-allen",
+      "type": "person",
+      "label": "Henry Allen",
+      "description": "A Wilmington family friend of the Campions who appears early in the novel at tea with Willie and later provides a home for his nephew, a new young man in town who catches the eye of the Campion sisters.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:henry-allen",
+      "relations": []
+    },
+    {
+      "id": "ida",
+      "type": "person",
+      "label": "Ida",
+      "description": "Jake's wife, mentioned briefly as part of the household servant community at The Maples in the novel's later chapters.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:ida",
+      "relations": []
+    },
+    {
+      "id": "isabel",
+      "type": "person",
+      "label": "Isabel Leaf",
+      "description": "A family friend and contemporary of the Campion sisters, married to Robert Leaf with a baby named Robbie, who appears in the novel's later chapters as a voice of conventional domesticity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:isabel",
+      "relations": []
+    },
+    {
+      "id": "jake",
+      "type": "person",
+      "label": "Jake",
+      "description": "Chloe's great-grandson, a boy who fishes and plays with the young Victor, and later delivers the mail as an adult.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:jake",
+      "relations": []
+    },
+    {
+      "id": "lacey-courtship",
+      "type": "event",
+      "label": "Mr. Lacey's Courtship of Mamma",
+      "description": "The warm, ultimately unsuccessful courtship of the widowed Mamma Campion by Mr. Alfred Lacey — a pivotal episode that represents the novel's clearest vision of an alternative future for the Campion family.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "courtship",
+        "turning-point"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:lacey-courtship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alfred-lacey",
+          "label": "Alfred Lacey"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's death"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        }
+      ]
+    },
+    {
+      "id": "lily-campion",
+      "type": "person",
+      "label": "Lily Campion",
+      "description": "The youngest Campion daughter — plump, sentimental, and perpetually childlike, whose gentle nature and lack of romantic prospects make her the novel's most poignant emblem of arrested development.",
+      "aliases": [
+        "Lily",
+        "Lily Campion"
+      ],
+      "tags": [
+        "person",
+        "campion-sister"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:lily-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alfred-lacey",
+          "label": "Mr. Lacey"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma (Margaret Campion)"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "lincolns-assassination",
+      "type": "event",
+      "label": "Lincoln's Assassination",
+      "description": "The April 1865 assassination of President Abraham Lincoln — a national trauma that forms part of the historical backdrop against which the Campion family's early story unfolds.",
+      "aliases": [
+        "Lincoln's assassination"
+      ],
+      "tags": [
+        "event",
+        "assassination",
+        "historical"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:lincolns-assassination",
+      "relations": [
+        {
+          "type": "related",
+          "target": "civil-war-battles",
+          "label": "Civil War"
+        },
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's Death"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        }
+      ]
+    },
+    {
+      "id": "lizzies-spiritualist-turn",
+      "type": "event",
+      "label": "Cousin Lizzie's Spiritualist Turn",
+      "description": "Cousin Lizzie Blow's enthusiastic embrace of the spiritualist movement — a late-life transformation that marks the most vivid example of the Campion extended family's capacity for eccentric reinvention.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "spiritualism",
+        "eccentricity"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:lizzies-spiritualist-turn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "sam-blow",
+          "label": "Sam"
+        },
+        {
+          "type": "related",
+          "target": "st-stephens-episcopal",
+          "label": "St. Stephen's"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "religion-and-faith"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "London",
+      "description": "Destination of Lucy Hawthorn's Grand Tour, representing European sophistication, cultural aspiration, and the world beyond provincial America.",
+      "aliases": [
+        "london"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:london",
+      "relations": []
+    },
+    {
+      "id": "lucy-hawthorn",
+      "type": "person",
+      "label": "Lucy Hawthorn",
+      "description": "The captivating, flirtatious young woman who briefly captures Victor Campion's romantic attention — a fleeting alternative to the permanent bachelorhood that will define his life.",
+      "aliases": [
+        "Lucy Hawthorn"
+      ],
+      "tags": [
+        "person",
+        "love-interest"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:lucy-hawthorn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "the perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        }
+      ]
+    },
+    {
+      "id": "maggie-broken-engagement",
+      "type": "event",
+      "label": "Maggie's Broken Engagement",
+      "description": "The pivotal event in which Maggie Campion, the eldest daughter, breaks off her engagement — widely understood as a sacrifice made to stay home and care for her widowed mother.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "sacrifice",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:maggie-broken-engagement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "mays-marriage",
+          "label": "her own marriage"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family duty"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "the gender system"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        }
+      ]
+    },
+    {
+      "id": "maggie-campion",
+      "type": "person",
+      "label": "Maggie Campion",
+      "description": "The eldest Campion daughter — capable, devoted, and self-sacrificing, whose broken engagement to Edward Post and lifelong caretaking of Mamma embody the novel's central theme of love that consumes rather than liberates.",
+      "aliases": [
+        "Maggie",
+        "Margaret Campion"
+      ],
+      "tags": [
+        "person",
+        "campion-sister"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:maggie-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "edward",
+          "label": "Edward Post"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "their broken engagement"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family duty"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perpetual bachelorhood"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily Campion"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        }
+      ]
+    },
+    {
+      "id": "maggies-health-crisis",
+      "type": "event",
+      "label": "Maggie's Health Crisis",
+      "description": "A period of serious illness that befalls Maggie Campion in young adulthood — a physical collapse that mirrors the emotional cost of her self-sacrificing role within the family.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "illness",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:maggies-health-crisis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "Maggie's Broken Engagement"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "mamma-campion",
+      "type": "person",
+      "label": "Mamma (Margaret Campion)",
+      "description": "The beautiful, dreamy, self-centered matriarch of the Campion family — widowed early, she pours all her devotion into her only son Victor, whose arrested life becomes the consequence of her smothering love.",
+      "aliases": [
+        "Mamma",
+        "Margaret Campion",
+        "Margaret Southmayd",
+        "Mrs. Campion"
+      ],
+      "tags": [
+        "person",
+        "matriarch",
+        "mother"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:mamma-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "papa-campion",
+          "label": "Papa"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's Death"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "southern-womanhood",
+          "label": "Southern womanhood"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perennial bachelorhood"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender-roles"
+        }
+      ]
+    },
+    {
+      "id": "market-street",
+      "type": "place",
+      "label": "Market Street",
+      "description": "Wilmington's primary shopping district, representing commerce, fashion, and the public sphere accessible to the Campion women.",
+      "aliases": [
+        "market street"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:market-street",
+      "relations": []
+    },
+    {
+      "id": "martha",
+      "type": "person",
+      "label": "Martha",
+      "description": "A domestic worker at The Maples who assists with household labor alongside Chloe — part of the quiet economy of service that sustains the Campion family.",
+      "aliases": [
+        "Martha"
+      ],
+      "tags": [
+        "person",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:martha",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chloe",
+          "label": "Chloe"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "campion-household-staff",
+          "label": "campion-household-staff"
+        }
+      ]
+    },
+    {
+      "id": "material-culture",
+      "type": "concept",
+      "label": "Material Culture",
+      "description": "Fashion, décor, food, and domestic objects as markers of time, class, and character in The Perennial Bachelor.",
+      "aliases": [
+        "fashion",
+        "décor",
+        "domestic objects",
+        "material world"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:material-culture",
+      "relations": []
+    },
+    {
+      "id": "may-campion",
+      "type": "person",
+      "label": "May Campion",
+      "description": "The beautiful middle Campion daughter — graceful, sensitive, and the only sister to marry, whose escape from The Maples through marriage remains shadowed by guilt and family obligation.",
+      "aliases": [
+        "May",
+        "May Campion"
+      ],
+      "tags": [
+        "person",
+        "campion-sister"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:may-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "mays-marriage",
+          "label": "marriage"
+        },
+        {
+          "type": "related",
+          "target": "alfred-lacey",
+          "label": "Mr. Lacey"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily Campion"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "the-perennial-bachelor"
+        }
+      ]
+    },
+    {
+      "id": "mays-marriage",
+      "type": "event",
+      "label": "May's Marriage",
+      "description": "The marriage of May Campion — the only one of the Campion daughters to wed, her departure from The Maples represents both escape and the persistence of family bonds that marriage cannot sever.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "marriage",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mays-marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May Campion"
+        },
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's death"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "Maggie's broken engagement"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "memory-and-nostalgia",
+      "type": "concept",
+      "label": "Memory and Nostalgia",
+      "description": "The role of memory, nostalgia, and the gap between recollection and reality in shaping the emotional landscape of The Perennial Bachelor.",
+      "aliases": [
+        "memory",
+        "nostalgia",
+        "remembering",
+        "the past"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:memory-and-nostalgia",
+      "relations": []
+    },
+    {
+      "id": "miss-hawthorn",
+      "type": "person",
+      "label": "Miss Hawthorn",
+      "description": "Daughter of Mr. and Mrs. Hawthorn — a young woman in Wilmington society whose family forms part of the social landscape navigated by the Campion sisters and Victor Campion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-hawthorn",
+      "relations": []
+    },
+    {
+      "id": "miss-hessie-farley",
+      "type": "person",
+      "label": "Miss Hessie Farley",
+      "description": "A Sunday school teacher and enthusiastic participant in church tableaux at St. Stephen's — a woman whose dramatic aspirations and social anxieties enliven the parish life of Wilmington.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-hessie-farley",
+      "relations": []
+    },
+    {
+      "id": "miss-hopper",
+      "type": "person",
+      "label": "Miss Hopper",
+      "description": "A thin, unmarried townswoman who attends Campion family gatherings, takes photographs, and shares the quiet disappointments of spinsterhood with Miss Snaith.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-hopper",
+      "relations": []
+    },
+    {
+      "id": "miss-martin",
+      "type": "person",
+      "label": "Miss Martin",
+      "description": "The church organist of St. Stephen's Episcopal Church — a small, grey, mouse-like woman who also gives music lessons to the town's children.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-martin",
+      "relations": []
+    },
+    {
+      "id": "miss-perry",
+      "type": "person",
+      "label": "Miss Perry",
+      "description": "A seamstress in the town whose mock-orange bushes scent the summer air and whose livelihood suffers when the Campion sisters' fortunes decline.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-perry",
+      "relations": []
+    },
+    {
+      "id": "miss-snaith",
+      "type": "person",
+      "label": "Miss Snaith",
+      "description": "A minor figure in the Campion social world — one of the many single women whose presence in the novel's margins illuminates the ubiquity of spinsterhood in post-Civil War American society.",
+      "aliases": [
+        "Miss Snaith"
+      ],
+      "tags": [
+        "person",
+        "minor-character"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:miss-snaith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "miss-martin",
+          "label": "miss-martin"
+        },
+        {
+          "type": "related",
+          "target": "miss-perry",
+          "label": "miss-perry"
+        },
+        {
+          "type": "related",
+          "target": "miss-hessie-farley",
+          "label": "miss-hessie-farley"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        }
+      ]
+    },
+    {
+      "id": "mount-pleasant",
+      "type": "place",
+      "label": "Mount Pleasant",
+      "description": "Cemetery and site of military burials near the Campion family's town, associated with memory, mortality, and the Civil War dead.",
+      "aliases": [
+        "mount pleasant"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mount-pleasant",
+      "relations": []
+    },
+    {
+      "id": "mr-bates",
+      "type": "person",
+      "label": "Mr. Bates",
+      "description": "A booming-voiced member of St. Stephen's choir who sings \"Break, break, break\" at the Tennyson Tableaux and drowns out the rest of the choir at Sunday services until Miss Martin resolves to speak to him.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mr-bates",
+      "relations": []
+    },
+    {
+      "id": "mr-marshall",
+      "type": "person",
+      "label": "Mr. Marshall",
+      "description": "A potential suitor for Lily Campion, first met at Hessie Farley's Valentine euchre party — a man whose calls at the Campion house motivate Lily's weekly visits to old Mrs. Clark.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mr-marshall",
+      "relations": []
+    },
+    {
+      "id": "mr-neff",
+      "type": "person",
+      "label": "Mr. Neff",
+      "description": "A boarder at the Campion family home who photographs the household, christens teddy bears \"Theodore,\" and serves as a confidant to Mrs. Mittendorf about May Campion's troubling behavior.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mr-neff",
+      "relations": []
+    },
+    {
+      "id": "mr-page",
+      "type": "person",
+      "label": "Mr. Page",
+      "description": "The elderly schoolmaster and clergyman who runs a school for boys at the Rectory, appearing in Victor Campion's childhood memories of reluctant scholarship and Sunday school discipline.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mr-page",
+      "relations": []
+    },
+    {
+      "id": "mr-thompson",
+      "type": "person",
+      "label": "Mr. Thompson",
+      "description": "A jovial fellow passenger aboard the Hiawatha during the Atlantic crossing — \"awfully jolly,\" full of fun, but ultimately revealed to be \"not a gentleman\" when he presumes upon acquaintance at Hampton Court.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mr-thompson",
+      "relations": []
+    },
+    {
+      "id": "mrs-allen",
+      "type": "person",
+      "label": "Mrs. Allen",
+      "description": "A Wilmington society matron who reads Tennyson at theatrical evenings and hosts Fourth of July gatherings — part of the Campions' extended social circle through Edward Post and Henry Allen.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-allen",
+      "relations": []
+    },
+    {
+      "id": "mrs-clark",
+      "type": "person",
+      "label": "Mrs. Clark",
+      "description": "An elderly widowed neighbor near The Maples, visited by Lily Campion on Saturday evenings — a figure of loneliness whose husband's grave receives weekly floral tribute.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-clark",
+      "relations": []
+    },
+    {
+      "id": "mrs-detweiler",
+      "type": "person",
+      "label": "Mrs. Detweiler",
+      "description": "A well-to-do Wilmington neighbor of the Campions, owner of a phonograph and hostess of social gatherings, known for her infectious laughter and elaborate garden.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-detweiler",
+      "relations": []
+    },
+    {
+      "id": "mrs-farley",
+      "type": "person",
+      "label": "Mrs. Farley",
+      "description": "A Wilmington townswoman and mother of Hessie Farley; she helps behind the scenes at church tableaux and hosts a Valentine euchre party memorable for its heart-shaped sandwiches and geranium-blossom decorations.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:mrs-farley",
+      "relations": []
+    },
+    {
+      "id": "mrs-hawthorn",
+      "type": "person",
+      "label": "Mrs. Hawthorn",
+      "description": "Lucy Hawthorn's wealthy, socially ambitious mother from New York, who hosts afternoon teas with a French maid and guards her daughter's access to eligible suitors.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-hawthorn",
+      "relations": []
+    },
+    {
+      "id": "mrs-hopper",
+      "type": "person",
+      "label": "Mrs. Hopper",
+      "description": "An elderly boarder at the Campion household, mother of Miss Hopper, whose chief contributions to the boarding-house scenes are yawns, complaints about the cold, and a teddy bear with a blue ribbon.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-hopper",
+      "relations": []
+    },
+    {
+      "id": "mrs-jenkins",
+      "type": "person",
+      "label": "Mrs. Jenkins",
+      "description": "The formidable director of the theatrical production in Chapter 27 — a stern taskmaster who orchestrates the Campion household's amateur performance of \"The Bachelor's Revery.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-jenkins",
+      "relations": []
+    },
+    {
+      "id": "mrs-kelsey",
+      "type": "person",
+      "label": "Mrs. Kelsey",
+      "description": "A Wilmington society matron who attends May's debutante ball wearing gold antennæ with diamond dangles and later appears in the local newspaper advertising for a cook — a figure of established provincial wealth and occasional domestic inconvenience.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:mrs-kelsey",
+      "relations": []
+    },
+    {
+      "id": "mrs-leaf",
+      "type": "person",
+      "label": "Mrs. Leaf",
+      "description": "The mother of Fannie and Robert Leaf, a socially ambitious Wilmington hostess who uses Mrs. Hawthorn's visit to elevate her status while the Campion sisters endure her thinly veiled condescension.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-leaf",
+      "relations": []
+    },
+    {
+      "id": "mrs-mittendorf",
+      "type": "person",
+      "label": "Mrs. Mittendorf",
+      "description": "A boarder at the Campion household who serves as Mr. Neff's confidant, a warm, rocking maternal presence whose memories of her dead husband surface amid the boarding-house chatter.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-mittendorf",
+      "relations": []
+    },
+    {
+      "id": "mrs-spear",
+      "type": "person",
+      "label": "Mrs. Spear",
+      "description": "The wealthy new owner of The Maples after the Campion family is forced to sell; though polite and gracious on the surface, her renovations and bridge-party dismissals underscore the gulf between old gentility and new money.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-spear",
+      "relations": []
+    },
+    {
+      "id": "mrs-webster",
+      "type": "person",
+      "label": "Mrs. Webster",
+      "description": "A singer in Wilmington society whose tremolo-laden performances of \"Sweet and Low\" and \"Tears, Idle Tears\" — often in duet with Mr. Bates — provide the musical backdrop to key social gatherings in the novel.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:mrs-webster",
+      "relations": []
+    },
+    {
+      "id": "new-generation-arrival",
+      "type": "event",
+      "label": "The Arrival of the New Generation",
+      "description": "The births and early years of the next generation of Campion descendants — children whose arrival briefly promises renewal before the family pattern of decline reasserts itself.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "family",
+        "generation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:new-generation-arrival",
+      "relations": [
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "a perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsters"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "new-years-day",
+      "type": "event",
+      "label": "New Year's Day",
+      "description": "The first day of the year as observed in mid-19th-century Paris — a holiday of gift-giving, family gatherings, and, for the attic philosopher, an occasion to reflect on the unequal distribution of joy among the city's rich and poor",
+      "aliases": [
+        "January 1st",
+        "New-Year's Day",
+        "jour de l'an"
+      ],
+      "tags": [
+        "holiday",
+        "celebration",
+        "paris",
+        "19th-century",
+        "annual"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:new-years-day",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-carnival",
+          "label": "the-carnival"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "type": "place",
+      "label": "New York",
+      "description": "The distant metropolis associated with Papa's business travels and the broader world beyond Delaware, representing ambition, commerce, and the masculine sphere in The Perennial Bachelor.",
+      "aliases": [
+        "New York City",
+        "NYC",
+        "Manhattan"
+      ],
+      "tags": [
+        "place",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:new-york",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "victor-campion"
+        }
+      ]
+    },
+    {
+      "id": "organization-index",
+      "type": "list",
+      "label": "Organization Index",
+      "description": "Complete index of all institutions, organizations, and formal groups in The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "organization",
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:organization-index",
+      "relations": []
+    },
+    {
+      "id": "papa-campion",
+      "type": "person",
+      "label": "Papa (Mr. Campion)",
+      "description": "The impractical, warm-hearted patriarch of The Maples whose premature death leaves the Campion family adrift — his absence shaping the arrested lives of his wife and children more powerfully than his presence ever did.",
+      "aliases": [
+        "Papa",
+        "Mr. Campion",
+        "Victor Campion Sr."
+      ],
+      "tags": [
+        "person",
+        "patriarch"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:papa-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's Death"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family-duty-and-sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "papas-death",
+      "type": "event",
+      "label": "Papa's Death",
+      "description": "The death of Mr. Campion — the founding absence that reshapes the family's emotional geography, intensifying Mamma's devotion to Victor and setting the Campion daughters on their paths toward sacrifice and spinsterhood.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "death",
+        "family-turning-point"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:papas-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "edward",
+          "label": "Edward Post"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "papa-campion",
+          "label": "Papa (Mr. Campion)"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family-duty-and-sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Person Index",
+      "description": "Complete index of all characters in The Perennial Bachelor, sorted alphabetically with quality ratings and reference counts.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "person",
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:person-index",
+      "relations": []
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "Place Index",
+      "description": "Complete index of all locations and settings in The Perennial Bachelor, sorted alphabetically.",
+      "aliases": [],
+      "tags": [
+        "list",
+        "place",
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "the-perennial-bachelor:place-index",
+      "relations": []
+    },
+    {
+      "id": "prentice-page",
+      "type": "person",
+      "label": "Prentice Page",
+      "description": "A young man in the Campions' social circle who performs in the tableaux vivants, plays tennis, and later marries Fannie Leaf.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:prentice-page",
+      "relations": []
+    },
+    {
+      "id": "prince-wales-marriage",
+      "type": "event",
+      "label": "Marriage of the Prince and Princess of Wales",
+      "description": "A royal wedding that serves as a distant cultural reference point in the novel — the public event against which the private dramas of the Campion family's romantic lives are implicitly measured.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "royal",
+        "cultural-reference"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:prince-wales-marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mays-marriage",
+          "label": "May's Marriage"
+        },
+        {
+          "type": "related",
+          "target": "lacey-courtship",
+          "label": "Mr. Lacey's Courtship"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "Maggie's Broken Engagement"
+        }
+      ]
+    },
+    {
+      "id": "raymond-line",
+      "type": "organization",
+      "label": "Raymond Line",
+      "description": "A shipping or transportation company mentioned in the novel — one of the commercial enterprises that connects the Campion family's insular world to the broader economy of trade and travel.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "shipping",
+        "commerce"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:raymond-line",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-local-store",
+          "label": "the-local-store"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "wilmington"
+        },
+        {
+          "type": "related",
+          "target": "wilmington-real-estate",
+          "label": "Wilmington Real Estate Companies"
+        }
+      ]
+    },
+    {
+      "id": "readers-guide",
+      "type": "overview",
+      "label": "\"Reader's Guide\"",
+      "description": "A guided introduction to navigating this wiki — how to explore characters, themes, events, and places in The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:readers-guide",
+      "relations": []
+    },
+    {
+      "id": "religion-and-faith",
+      "type": "concept",
+      "label": "Religion and Faith",
+      "description": "The role of the Episcopal Church in the moral and emotional lives of the Campion family and their community in The Perennial Bachelor.",
+      "aliases": [
+        "religion",
+        "faith",
+        "church",
+        "Episcopal",
+        "Christianity"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:religion-and-faith",
+      "relations": []
+    },
+    {
+      "id": "robert-leaf",
+      "type": "person",
+      "label": "Robert Leaf",
+      "description": "Fannie Leaf's brother, who appears briefly in the tableaux vivants and later marries Isabel and has a son.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:robert-leaf",
+      "relations": []
+    },
+    {
+      "id": "sam-blow",
+      "type": "person",
+      "label": "Sam Blow",
+      "description": "Lizzie Campion's husband — a man she married out of spite after Victor Campion chose Margaret Southmayd, whose presence spans the novel from hunting expeditions to domestic tension.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:sam-blow",
+      "relations": []
+    },
+    {
+      "id": "sibling-relationships",
+      "type": "concept",
+      "label": "Sibling Relationships",
+      "description": "The bonds of loyalty, rivalry, and mutual dependence among the Campion siblings — Maggie, May, Lily, and Victor — as a microcosm of family dynamics in The Perennial Bachelor.",
+      "aliases": [
+        "siblings",
+        "brother and sister",
+        "sisterhood",
+        "family bonds"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:sibling-relationships",
+      "relations": []
+    },
+    {
+      "id": "small-town-society",
+      "type": "concept",
+      "label": "Small-Town Society",
+      "description": "The social world of the small town near Wilmington as a closed system of observation, judgment, and collective memory that shapes the lives of all its inhabitants.",
+      "aliases": [
+        "small town",
+        "provincial life",
+        "community",
+        "gossip",
+        "social control"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:small-town-society",
+      "relations": []
+    },
+    {
+      "id": "social-class-and-gentility",
+      "type": "concept",
+      "label": "Social Class and Gentility",
+      "description": "The structures of class, the performance of gentility, and the economic anxieties of the declining gentry in a small post-Civil War American town.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:social-class-and-gentility",
+      "relations": []
+    },
+    {
+      "id": "southern-womanhood",
+      "type": "concept",
+      "label": "Southern Womanhood",
+      "description": "The idealized and contested construction of feminine identity in the post-Civil War American South, as embodied and subverted by the women of The Perennial Bachelor.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:southern-womanhood",
+      "relations": []
+    },
+    {
+      "id": "spinsterhood",
+      "type": "concept",
+      "label": "Spinsterhood",
+      "description": "The social condition of unmarried women in the post-Civil War era — a fate that defines multiple Campion women as both personal tragedy and systemic critique of a society that offered women no independent identity outside marriage.",
+      "aliases": [],
+      "tags": [
+        "concept",
+        "gender",
+        "marriage"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:spinsterhood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily Campion"
+        },
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "lizzies-spiritualist-turn",
+          "label": "spiritualist turn"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "civil-war-battles",
+          "label": "Civil War"
+        },
+        {
+          "type": "related",
+          "target": "century-club",
+          "label": "Century Club"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender-roles"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "courtship-and-marriage"
+        },
+        {
+          "type": "related",
+          "target": "family-duty-and-sacrifice",
+          "label": "family-duty-and-sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "southern-womanhood",
+          "label": "southern-womanhood"
+        }
+      ]
+    },
+    {
+      "id": "st-stephens-church",
+      "type": "place",
+      "label": "St. Stephen's Church",
+      "description": "The local Episcopal parish — center of religious life, social gathering, and moral formation for the Campion family.",
+      "aliases": [
+        "st. stephen's church"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:st-stephens-church",
+      "relations": []
+    },
+    {
+      "id": "st-stephens-episcopal",
+      "type": "organization",
+      "label": "St. Stephen's Episcopal Church",
+      "description": "The Episcopal church in Wilmington where the Campion family worshipped — a site of social performance, spiritual routine, and the rituals that bound the town's gentility together.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "church",
+        "religion"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:st-stephens-episcopal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "religion-and-faith",
+          "label": "religion and faith"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "christmas-at-the-maples",
+          "label": "Christmas at The Maples"
+        },
+        {
+          "type": "related",
+          "target": "cousin-lizzie-blow",
+          "label": "Cousin Lizzie Blow"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma (Margaret Campion)"
+        },
+        {
+          "type": "related",
+          "target": "small-town-society",
+          "label": "small-town-society"
+        }
+      ]
+    },
+    {
+      "id": "standard-ebooks",
+      "type": "organization",
+      "label": "Standard Ebooks",
+      "description": "The digital publisher responsible for the modern ebook edition of The Perennial Bachelor — the institutional context for the novel's contemporary readership.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "publisher",
+        "digital"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:standard-ebooks",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "the-perennial-bachelor"
+        }
+      ]
+    },
+    {
+      "id": "stewy-grant",
+      "type": "person",
+      "label": "Stewy Grant",
+      "description": "A choir member at St. Stephen's Episcopal Church who performs as Sir Lancelot in the tableaux vivants and whose little boy appears in Lily Campion's Sunday school class.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:stewy-grant",
+      "relations": []
+    },
+    {
+      "id": "the-carnival",
+      "type": "event",
+      "label": "The Carnival",
+      "description": "The pre-Lenten festival that frames the second chapter of Souvestre's sketches — a day of masks, revelry, and social inversion through which the philosopher examines the costumes that men wear not only in the street but throughout their lives",
+      "aliases": [
+        "Carnival",
+        "Mardi Gras",
+        "Shrove Tuesday"
+      ],
+      "tags": [
+        "festival",
+        "paris",
+        "19th-century",
+        "annual",
+        "masquerade"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:the-carnival",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-years-day",
+          "label": "new-years-day"
+        }
+      ]
+    },
+    {
+      "id": "the-garden",
+      "type": "place",
+      "label": "The Garden at The Maples",
+      "description": "Cultivated outdoor space at the Campion home, site of childhood play, seasonal rhythms, and natural beauty juxtaposed against domestic constraints.",
+      "aliases": [
+        "the garden at the maples"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:the-garden",
+      "relations": []
+    },
+    {
+      "id": "the-local-store",
+      "type": "organization",
+      "label": "The Local Store",
+      "description": "The Wilmington general store that serves as a commercial and social hub for the community surrounding The Maples — a place where the Campion family's domestic world intersects with the broader town economy.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "commerce",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:the-local-store",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        },
+        {
+          "type": "related",
+          "target": "market-street",
+          "label": "market-street"
+        }
+      ]
+    },
+    {
+      "id": "the-maples",
+      "type": "place",
+      "label": "The Maples",
+      "description": "The Campion family home in Wilmington — an old plantation house that serves as the novel's central setting, its decline mirroring the family's fortunes across three generations.",
+      "aliases": [
+        "Maples",
+        "the old plantation"
+      ],
+      "tags": [
+        "place",
+        "home",
+        "plantation"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:the-maples",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-garden",
+          "label": "The Garden"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma"
+        },
+        {
+          "type": "related",
+          "target": "the-parlor",
+          "label": "The Parlor"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "christmas-at-the-maples",
+          "label": "the family's celebrations"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "domestic ideology"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "may-campion",
+          "label": "May"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "the-maples-decline",
+          "label": "The Decline of The Maples"
+        }
+      ]
+    },
+    {
+      "id": "the-maples-decline",
+      "type": "event",
+      "label": "The Decline of The Maples",
+      "description": "The gradual physical and social deterioration of the Campion family estate — a slow-motion collapse that mirrors the family's internal dissolution across the decades of the novel.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "decline",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:the-maples-decline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's death"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "lily-campion",
+          "label": "Lily"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "material-culture",
+          "label": "material-culture"
+        }
+      ]
+    },
+    {
+      "id": "the-parlor",
+      "type": "place",
+      "label": "The Parlor at The Maples",
+      "description": "The formal front room of the Campion home — stage for courtship visits, social calls, and the performance of gentility.",
+      "aliases": [
+        "the parlor at the maples"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:the-parlor",
+      "relations": []
+    },
+    {
+      "id": "the-perennial-bachelor",
+      "type": "concept",
+      "label": "The Perennial Bachelor",
+      "description": "The novel's title concept — the figure of the man who never marries, embodied in Victor Campion, serving as both a personal tragedy and a diagnosis of a social order that produced men incapable of adult life.",
+      "aliases": [],
+      "tags": [
+        "concept",
+        "bachelor",
+        "gender",
+        "title-theme"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:the-perennial-bachelor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "southern-womanhood",
+          "label": "Southern code of gentility"
+        },
+        {
+          "type": "related",
+          "target": "gender-roles",
+          "label": "gender-roles"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "courtship-and-marriage"
+        }
+      ]
+    },
+    {
+      "id": "the-river",
+      "type": "place",
+      "label": "The River",
+      "description": "Recurring natural setting near The Maples, associated with childhood memory, natural beauty, and the passage of time.",
+      "aliases": [
+        "the river"
+      ],
+      "tags": [
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:the-river",
+      "relations": []
+    },
+    {
+      "id": "timeline",
+      "type": "overview",
+      "label": "\"Chronological Timeline\"",
+      "description": "A chronological overview of major events in The Perennial Bachelor, from the Campion sisters' youth through the WWI era.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:timeline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "TOC",
+          "label": "Table of Contents"
+        }
+      ]
+    },
+    {
+      "id": "uncle-willie",
+      "type": "person",
+      "label": "Uncle Willie",
+      "description": "Papa's sardonic, financially pragmatic brother who tries — and fails — to impose order on the Campion family's affairs after Papa's death.",
+      "aliases": [
+        "Uncle Willie",
+        "Willie Campion"
+      ],
+      "tags": [
+        "person",
+        "uncle"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:uncle-willie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "aunt-priscilla",
+          "label": "Aunt Priscilla"
+        },
+        {
+          "type": "related",
+          "target": "papa-campion",
+          "label": "Papa (Mr. Campion)"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "victor-campion",
+      "type": "person",
+      "label": "Victor Campion",
+      "description": "The \"perennial bachelor\" of the novel's title — only son of the Campion family, sent to Harvard but unable to launch into adult life, whose failed romance with Lucy Hawthorn defines his arrested destiny.",
+      "aliases": [
+        "Victor",
+        "Vic",
+        "Mr. Victor Campion",
+        "little Victor"
+      ],
+      "tags": [
+        "person",
+        "bachelor",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:victor-campion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "Wilmington"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "the-maples-decline",
+          "label": "its decline"
+        },
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "the perennial bachelor"
+        },
+        {
+          "type": "related",
+          "target": "century-club",
+          "label": "Century Club"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "domestic-space-and-the-home",
+          "label": "domestic ideology"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie Campion"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "broken engagement"
+        },
+        {
+          "type": "related",
+          "target": "courtship-and-marriage",
+          "label": "courtship-and-marriage"
+        }
+      ]
+    },
+    {
+      "id": "victors-career-changes",
+      "type": "event",
+      "label": "Victor's Career Changes",
+      "description": "The series of professional shifts and false starts that mark Victor Campion's adult life — each change representing a failed attempt to establish independence from the gravitational pull of The Maples.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "career",
+        "independence"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:victors-career-changes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-perennial-bachelor",
+          "label": "perpetual bachelorhood"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor Campion"
+        },
+        {
+          "type": "related",
+          "target": "mamma-campion",
+          "label": "Mamma Campion"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "wadsworth-robinson",
+      "type": "person",
+      "label": "Wadsworth Robinson",
+      "description": "A suitor of May Campion whom Victor helps dissuade, remembered years later by May as the man Victor \"kept me from marrying.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:wadsworth-robinson",
+      "relations": []
+    },
+    {
+      "id": "war-and-social-change",
+      "type": "concept",
+      "label": "War and Social Change",
+      "description": "The impact of the Civil War and the First World War as catalysts of social transformation in the world of The Perennial Bachelor, spanning the 1860s to the 1920s.",
+      "aliases": [
+        "war",
+        "social change",
+        "Civil War",
+        "World War I",
+        "modernization"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:war-and-social-change",
+      "relations": []
+    },
+    {
+      "id": "war-committees",
+      "type": "organization",
+      "label": "WWI War Committees",
+      "description": "The volunteer organizations through which the Campion women — particularly Maggie — contribute to the war effort, finding in wartime service a temporary expansion of their circumscribed domestic lives.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "war-effort",
+        "volunteer"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:war-committees",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "armistice-celebrations",
+          "label": "Armistice"
+        },
+        {
+          "type": "related",
+          "target": "wwi-home-front",
+          "label": "WWI Home Front"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        }
+      ]
+    },
+    {
+      "id": "washington",
+      "type": "person",
+      "label": "Washington",
+      "description": "Aunt Priscilla's fat, elderly Black servant who avoids work on hot afternoons and mimics his mistress under his breath.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:washington",
+      "relations": []
+    },
+    {
+      "id": "wilmington",
+      "type": "place",
+      "label": "Wilmington",
+      "description": "The Delaware town that forms the novel's geographic setting — a small community of old families, market streets, and social rituals against which the Campion family's slow decline unfolds.",
+      "aliases": [
+        "Wilmington",
+        "Delaware"
+      ],
+      "tags": [
+        "place",
+        "town",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "the-perennial-bachelor:wilmington",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "The Maples"
+        },
+        {
+          "type": "related",
+          "target": "market-street",
+          "label": "Market Street"
+        },
+        {
+          "type": "related",
+          "target": "delaware-avenue",
+          "label": "Delaware Avenue"
+        },
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "victor-campion",
+          "label": "Victor"
+        },
+        {
+          "type": "related",
+          "target": "lucy-hawthorn",
+          "label": "Lucy Hawthorn"
+        },
+        {
+          "type": "related",
+          "target": "new-york",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "small-town-society",
+          "label": "small-town society"
+        },
+        {
+          "type": "related",
+          "target": "maggie-broken-engagement",
+          "label": "maggie-broken-engagement"
+        }
+      ]
+    },
+    {
+      "id": "wilmington-real-estate",
+      "type": "organization",
+      "label": "Wilmington Real Estate Companies",
+      "description": "The real estate firms operating in Wilmington during the period of the novel — part of the economic landscape that shaped the Campion family's financial circumstances after Papa's death.",
+      "aliases": [],
+      "tags": [
+        "organization",
+        "real-estate",
+        "commerce"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:wilmington-real-estate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "papas-death",
+          "label": "Papa's death"
+        },
+        {
+          "type": "related",
+          "target": "uncle-willie",
+          "label": "Uncle Willie"
+        },
+        {
+          "type": "related",
+          "target": "wilmington",
+          "label": "wilmington"
+        },
+        {
+          "type": "related",
+          "target": "the-maples",
+          "label": "the-maples"
+        }
+      ]
+    },
+    {
+      "id": "wwi-home-front",
+      "type": "event",
+      "label": "WWI Home Front",
+      "description": "The First World War as experienced from the perspective of The Maples — war committees, Red Cross work, and the distant echo of a conflict that accelerates the family's decline.",
+      "aliases": [],
+      "tags": [
+        "event",
+        "war",
+        "home-front"
+      ],
+      "quality": "standard",
+      "source_ref": "the-perennial-bachelor:wwi-home-front",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maggie-campion",
+          "label": "Maggie"
+        },
+        {
+          "type": "related",
+          "target": "war-committees",
+          "label": "war committees"
+        },
+        {
+          "type": "related",
+          "target": "armistice-celebrations",
+          "label": "Armistice celebrations"
+        },
+        {
+          "type": "related",
+          "target": "civil-war-battles",
+          "label": "Civil War Battles"
+        },
+        {
+          "type": "related",
+          "target": "war-and-social-change",
+          "label": "war-and-social-change"
+        }
+      ]
+    }
+  ]
+}

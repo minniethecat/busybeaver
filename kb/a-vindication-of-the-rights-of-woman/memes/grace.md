@@ -1,48 +1,42 @@
 ---
+description: "Wollstonecraft critiques the elevation of grace to a central feminine virtue — grace is a pleasing quality but it is not a moral quality, and an education that prioritizes grace over substance produces women who are ornamental rather than virtuous."
 id: grace
-label: Grace
+label: "Grace"
+tags: ["concept"]
 type: concept
-description: 'Wollstonecraft''s distinction between artificial feminine graces — cultivated to please — and the genuine grace that flows from rational virtue and strength of character'
-tags: ["femininity", "artificial", "critique", "beauty"]
 ---
 
-Wollstonecraft uses **grace** with deliberate ambivalence. When referring to "fascinating graces" (P03-008) and "artificial graces" (002-083), she condemns a performance cultivated to secure male admiration. But she also recognises a genuine grace — the "graceful pillars of modesty" (P02-005) — that flows naturally from virtuous character. The distinction between these two senses of grace is central to her critique of how eighteenth-century society trains women to value appearance over substance.
+# Grace
 
 ## Definition
 
-In its pejorative sense, Wollstonecraft's "graces" are the set of seductive behaviours women are taught to perform: "the winning graces of condescension" (002-067), "the slippery graces of politeness" (001-027), and "superficial graces" (002-069) that fade with youth. These are external ornaments, not internal qualities, and their purpose is to attract rather than to express genuine character.
+**Grace** in Wollstonecraft's analysis is one of the "personal accomplishments" that women are taught to cultivate as a substitute for genuine [[virtue]]. She does not condemn grace itself — it is a pleasing quality — but she condemns an [[education]] that makes grace its central object while neglecting the development of [[reason]] and moral character.
 
-The positive sense of grace appears less frequently but carries significant weight. When Wollstonecraft refers to cleanliness and domestic order as "the graceful pillars of modesty" (P02-005), she invokes a grace that is practical, rational, and substantive rather than decorative. This grace is the outward expression of an ordered mind — the elegance that accompanies competence, not the performance that substitutes for it.
+The critique of grace is part of Wollstonecraft's broader argument about the misdirection of female education. When women are taught to value grace above understanding, charm above wisdom, and pleasing above thinking — the result is a class of people who are ornamental but not useful, pleasing but not good.
 
-## Wollstonecraft's Argument
+## In Context
 
-Wollstonecraft's argument about grace is that it has been appropriated and corrupted by the system of female education. What should be the natural elegance of a well-regulated mind has been replaced by a repertoire of "artificial graces, that enable them to exercise a short-lived tyranny" (002-083). Women are taught to invest their identity in these graces because they have no other source of power or recognition — a situation Wollstonecraft finds degrading for both women and the society that produces it.
+### Grace as Accomplishment
 
-The tragedy, in her view, is that these graces are ephemeral. "For a few years they may render a woman pleasing" (002-069), but when youth and beauty fade — as they must — the woman who has built her identity on grace is left with nothing. Wollstonecraft contrasts this with the lasting satisfaction of cultivated understanding, which "graces the brow" (002-057) not as a tyrant's ornament but as the visible sign of a developed mind.
+In the eighteenth-century lexicon of female virtue, "grace" and "accomplishments" occupied the place that [[reason]] and [[judgment]] occupied in the education of men. A graceful woman was one who moved well, spoke pleasingly, and conducted herself with elegance — qualities that were entirely a matter of external performance. Wollstonecraft's point is not that grace is worthless but that it is not a substitute for moral development.
 
-She also critiques the aesthetic double standard. Men demand that women possess grace while exempting themselves from the requirement: Rousseau's ideal man needs only understanding, while "the graceful ivy, clasping the oak that supports it" (002-016) — the woman — exists only to ornament the male. Wollstonecraft sees this asymmetry as symptomatic of a broader refusal to recognise women as fully human.
+### The Hidden Cost of Grace
 
-### Contrast with Contemporary Views
+The cultivation of grace has a hidden cost that Wollstonecraft exposes: the time and attention devoted to graceful accomplishments is time and attention not devoted to the cultivation of the understanding. Every hour spent learning to move gracefully is an hour not spent learning to think clearly — and the cumulative effect of this misallocation across a lifetime is a mind that has never been called into action.
 
-The conduct-book tradition treated grace as a feminine accomplishment to be cultivated for its own sake. Rousseau's *Émile* presents Sophie's grace as the natural complement to Émile's strength — each sex has its proper qualities, and grace belongs to woman. Wollstonecraft rejects this division of virtues: the qualities that make a person graceful — composure, self-possession, ease — are not sex-specific but flow from rational self-cultivation available to all.
+### Artificial Grace versus True Grace
 
-## Key Passages
+Wollstonecraft draws a crucial distinction between "artificial grace" and what she terms "true grace." Artificial grace is the product of training — it is "female weakness and artificial grace" [005-072], cultivated as a performance for male approval. This kind of grace is entirely superficial: it concerns posture, demeanour, and the management of appearances. True grace, by contrast, arises from something deeper. "Grace must arise from something deeper than the surface" [004-065], Wollstonecraft insists — it is not a technique to be learned but an expression of a well-ordered soul. The woman who has cultivated her reason and her moral sense will naturally exhibit a grace that is the outward sign of inward harmony; the woman who has only cultivated her appearance will exhibit a grace that is hollow and fragile.
 
-> They have been decked with artificial graces, that enable them to exercise a short-lived tyranny. (002-083)
+> "Female weakness and artificial grace. I say artificial, for true grace arises from some kind of independence of mind." [005-072]
 
-> The graceful ivy, clasping the oak that supports it, forms a whole in which strength and beauty are equally conspicuous. (002-016)
+### Grace and the Language of Subordination
 
-> I shall not lay any stress on the art of pleasing, for I contend that it is woman's duty to cultivate her understanding. (002-069)
-
-## Related Concepts
-
-- [[Artificial]] — the category to which Wollstonecraft assigns cultivated graces
-- [[Beauty]] — the transient physical asset that grace is taught to supplement
-- [[Virtue]] — the substantive quality Wollstonecraft sets against superficial grace
-- [[Modesty]] — the rational virtue whose "graceful pillars" are cleanliness and order
+Wollstonecraft is attentive to the way the discourse of grace functions as a language of subordination. When women are described as "graceful ivy, clasping the oak that supports it" [002-030], the aesthetic compliment conceals a political claim: women are decorative parasites, dependent for their beauty — and indeed for their very existence — on the strength of men. Wollstonecraft rejects this botanical metaphor utterly, insisting that women, like men, are capable of standing upright on their own. The language of grace, in its conventional usage, is a language of diminishment disguised as praise.
 
 ## See Also
 
-- [[Jean-Jacques Rousseau]] — whose gendered division of grace and strength Wollstonecraft challenges
-- [[Accomplishments]] — the superficial attainments taught alongside graces in female education
-- [[Vanity]] — the motivation that drives women to cultivate artificial graces
+- [[beauty]] — the aesthetic quality of which grace is a subset
+- [[delicacy]] — the exaggerated refinement often confounded with grace
+- [[education]] — what should cultivate reason rather than mere grace
+- [[virtue]] — what grace can never substitute for

@@ -1,0 +1,5725 @@
+{
+  "book": "brewster-s-millions",
+  "title": "Brewster’s Millions",
+  "description": "Brewster’s Millions — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 126,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Brewster’s Millions\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'P01'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "brewster-s-millions:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-a-birthday-dinner",
+          "label": "ch01-a-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "ch02-shades-of-aladdin",
+          "label": "ch02-shades-of-aladdin"
+        },
+        {
+          "type": "related",
+          "target": "ch03-mrs-and-miss-gray",
+          "label": "ch03-mrs-and-miss-gray"
+        },
+        {
+          "type": "related",
+          "target": "ch04-a-second",
+          "label": "ch04-a-second"
+        },
+        {
+          "type": "related",
+          "target": "ch05-the-message-from-jones",
+          "label": "ch05-the-message-from-jones"
+        },
+        {
+          "type": "related",
+          "target": "ch06-monty-cristo",
+          "label": "ch06-monty-cristo"
+        },
+        {
+          "type": "related",
+          "target": "ch07-a-lesson-in-tact",
+          "label": "ch07-a-lesson-in-tact"
+        },
+        {
+          "type": "related",
+          "target": "ch08-the-forelock-of-time",
+          "label": "ch08-the-forelock-of-time"
+        },
+        {
+          "type": "related",
+          "target": "ch09-love-and-a-prizefight",
+          "label": "ch09-love-and-a-prizefight"
+        },
+        {
+          "type": "related",
+          "target": "ch10-napoleon-of-finance",
+          "label": "ch10-napoleon-of-finance"
+        },
+        {
+          "type": "related",
+          "target": "ch11-coals-of-fire",
+          "label": "ch11-coals-of-fire"
+        },
+        {
+          "type": "related",
+          "target": "ch12-christmas-despair",
+          "label": "ch12-christmas-despair"
+        },
+        {
+          "type": "related",
+          "target": "ch13-a-friend-in-need",
+          "label": "ch13-a-friend-in-need"
+        },
+        {
+          "type": "related",
+          "target": "ch14-mrs-demille-entertains",
+          "label": "ch14-mrs-demille-entertains"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-cut-direct",
+          "label": "ch15-the-cut-direct"
+        },
+        {
+          "type": "related",
+          "target": "ch16-in-the-sunny-south",
+          "label": "ch16-in-the-sunny-south"
+        },
+        {
+          "type": "related",
+          "target": "ch17-the-new-tenderfoot",
+          "label": "ch17-the-new-tenderfoot"
+        },
+        {
+          "type": "related",
+          "target": "ch18-the-prodigal-at-sea",
+          "label": "ch18-the-prodigal-at-sea"
+        },
+        {
+          "type": "related",
+          "target": "ch19-one-hero-and-another",
+          "label": "ch19-one-hero-and-another"
+        },
+        {
+          "type": "related",
+          "target": "ch20-le-roi-samuse",
+          "label": "ch20-le-roi-samuse"
+        },
+        {
+          "type": "related",
+          "target": "ch21-fairyland",
+          "label": "ch21-fairyland"
+        },
+        {
+          "type": "related",
+          "target": "ch22-prince-and-peasants",
+          "label": "ch22-prince-and-peasants"
+        },
+        {
+          "type": "related",
+          "target": "ch23-an-offer-of-marriage",
+          "label": "ch23-an-offer-of-marriage"
+        },
+        {
+          "type": "related",
+          "target": "ch24-the-sheiks-strategy",
+          "label": "ch24-the-sheiks-strategy"
+        },
+        {
+          "type": "related",
+          "target": "ch25-the-rescue-of-peggy",
+          "label": "ch25-the-rescue-of-peggy"
+        },
+        {
+          "type": "related",
+          "target": "ch26-mutiny",
+          "label": "ch26-mutiny"
+        },
+        {
+          "type": "related",
+          "target": "ch27-a-fair-traitor",
+          "label": "ch27-a-fair-traitor"
+        },
+        {
+          "type": "related",
+          "target": "ch28-a-catastrophe",
+          "label": "ch28-a-catastrophe"
+        },
+        {
+          "type": "related",
+          "target": "ch29-the-prodigals-return",
+          "label": "ch29-the-prodigals-return"
+        },
+        {
+          "type": "related",
+          "target": "ch30-the-promise-of-thrift",
+          "label": "ch30-the-promise-of-thrift"
+        },
+        {
+          "type": "related",
+          "target": "ch31-how-the-million-disappeared",
+          "label": "ch31-how-the-million-disappeared"
+        },
+        {
+          "type": "related",
+          "target": "ch32-the-night-before",
+          "label": "ch32-the-night-before"
+        },
+        {
+          "type": "related",
+          "target": "ch33-the-flight-of-jones",
+          "label": "ch33-the-flight-of-jones"
+        },
+        {
+          "type": "related",
+          "target": "ch34-the-last-word",
+          "label": "ch34-the-last-word"
+        },
+        {
+          "type": "related",
+          "target": "colophon",
+          "label": "colophon"
+        },
+        {
+          "type": "related",
+          "target": "uncopyright",
+          "label": "uncopyright"
+        },
+        {
+          "type": "related",
+          "target": "imprint",
+          "label": "imprint"
+        }
+      ]
+    },
+    {
+      "id": "appearance-and-reality",
+      "type": "concept",
+      "label": "Appearance and Reality",
+      "description": "The central dramatic irony of the novel: Montgomery Brewster appears to be a reckless spendthrift to New York society, while in reality he is bound by the strict conditions of Sedgwick's will — a gap between seeming and being that no one around him can perceive.",
+      "aliases": [
+        "public vs private",
+        "seeming and being",
+        "deception",
+        "social performance"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:appearance-and-reality",
+      "relations": []
+    },
+    {
+      "id": "barbara-drew",
+      "type": "person",
+      "label": "Barbara Drew",
+      "description": "A New York society beauty and Montgomery Brewster's primary romantic interest, whose affection is tested by his inexplicable year of profligate spending.",
+      "aliases": [
+        "Miss Drew",
+        "Miss Barbara Drew"
+      ],
+      "tags": [
+        "person",
+        "major",
+        "love-interest"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:barbara-drew",
+      "relations": []
+    },
+    {
+      "id": "brewster-family-tree",
+      "type": "list",
+      "label": "Brewster Family Tree",
+      "description": "Genealogical map of the Brewster and Sedgwick families, showing the inheritance lines that drive the plot of Brewster's Millions.",
+      "aliases": [
+        "family-tree",
+        "brewster-family",
+        "sedgwick-family"
+      ],
+      "tags": [
+        "index",
+        "family",
+        "genealogy"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:brewster-family-tree",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the-sedgwick-fortune"
+        },
+        {
+          "type": "related",
+          "target": "the-million-dollar-challenge",
+          "label": "the-million-dollar-challenge"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "inheritance"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-character",
+          "label": "wealth-and-character"
+        }
+      ]
+    },
+    {
+      "id": "brewster-proposes-to-barbara",
+      "type": "event",
+      "label": "\"Brewster Proposes to Barbara\"",
+      "description": "\"Montgomery Brewster's courtship of Barbara Drew culminates in a marriage proposal, complicated by his inheritance spending obligation and her father's opposition.\"",
+      "aliases": [
+        "the proposal",
+        "Monty proposes to Barbara Drew",
+        "courtship of Barbara Drew"
+      ],
+      "tags": [
+        "event",
+        "romance",
+        "proposal"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:brewster-proposes-to-barbara",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-charity-bazaar",
+          "label": "charity bazaar at the Astoria"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gray",
+          "label": "Mrs. Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-inheritance",
+          "label": "the-sedgwick-inheritance"
+        }
+      ]
+    },
+    {
+      "id": "butte-montana",
+      "type": "place",
+      "label": "Butte, Montana",
+      "description": "The Montana city where Swearengen Jones resides as executor of Sedgwicks will, from which his letters and telegrams provide the only external supervision of Brewsters spending.",
+      "aliases": [
+        "Montana",
+        "Butte",
+        "Joness Montana"
+      ],
+      "tags": [
+        "place",
+        "west",
+        "moral-center"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:butte-montana",
+      "relations": []
+    },
+    {
+      "id": "canary-islands",
+      "type": "place",
+      "label": "Canary Islands",
+      "description": "The intended destination for emergency repairs to the damaged yacht Flora Belle during Brewster's Mediterranean cruise, where a dead calm nearly costs him the Sedgwick inheritance.",
+      "aliases": [
+        "Canaries",
+        "the Canaries"
+      ],
+      "tags": [
+        "place",
+        "islands",
+        "Atlantic",
+        "cruise",
+        "emergency"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:canary-islands",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mediterranean",
+          "label": "The Mediterranean"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "The Flora Belle"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-million-dollar-challenge",
+          "label": "The Million Dollar Challenge"
+        }
+      ]
+    },
+    {
+      "id": "captain-abner-perry",
+      "type": "person",
+      "label": "Captain Abner Perry",
+      "description": "Captain of the yacht Flora Belle, who navigates Brewster and his party through a tumultuous Atlantic crossing marked by storms, a near-mutiny, and the sinking of the vessel.",
+      "aliases": [
+        "Captain Perry",
+        "Abner Perry"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "nautical"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:captain-abner-perry",
+      "relations": []
+    },
+    {
+      "id": "ch01-a-birthday-dinner",
+      "type": "chapter",
+      "label": "\"Chapter 1: A Birthday Dinner\"",
+      "description": "\"A Birthday Dinner\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch01-a-birthday-dinner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "The Little Sons of the Rich"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Oliver Harrison"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "pettingills-studio",
+          "label": "the studio"
+        }
+      ]
+    },
+    {
+      "id": "ch02-shades-of-aladdin",
+      "type": "chapter",
+      "label": "\"Chapter 2: Shades of Aladdin\"",
+      "description": "\"Shades of Aladdin\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch02-shades-of-aladdin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Oliver Harrison"
+        },
+        {
+          "type": "related",
+          "target": "robert-brewster",
+          "label": "Robert Brewster"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "the-brewster-mansion",
+          "label": "Brewster house"
+        },
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        }
+      ]
+    },
+    {
+      "id": "ch03-mrs-and-miss-gray",
+      "type": "chapter",
+      "label": "\"Chapter 3: Mrs. and Miss Gray\"",
+      "description": "\"Mrs. and Miss Gray\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch03-mrs-and-miss-gray",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Miss Gray"
+        },
+        {
+          "type": "related",
+          "target": "fortieth-street",
+          "label": "Fortieth Street"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "Uncle James"
+        }
+      ]
+    },
+    {
+      "id": "ch04-a-second",
+      "type": "chapter",
+      "label": "\"Chapter 4: A Second\"",
+      "description": "\"A Second\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch04-a-second",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "robert-brewster",
+          "label": "Robert Brewster"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "the-new-york-stock-exchange",
+          "label": "Wall Street"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        }
+      ]
+    },
+    {
+      "id": "ch05-the-message-from-jones",
+      "type": "chapter",
+      "label": "\"Chapter 5: The Message from Jones\"",
+      "description": "\"The Message from Jones\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch05-the-message-from-jones",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "Uncle James"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "Little Sons"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        }
+      ]
+    },
+    {
+      "id": "ch06-monty-cristo",
+      "type": "chapter",
+      "label": "\"Chapter 6: Monty Cristo\"",
+      "description": "\"Monty Cristo\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch06-monty-cristo",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Paul Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Miss Valentine"
+        },
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        }
+      ]
+    },
+    {
+      "id": "ch07-a-lesson-in-tact",
+      "type": "chapter",
+      "label": "\"Chapter 7: A Lesson in Tact\"",
+      "description": "\"A Lesson in Tact\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch07-a-lesson-in-tact",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        }
+      ]
+    },
+    {
+      "id": "ch08-the-forelock-of-time",
+      "type": "chapter",
+      "label": "\"Chapter 8: The Forelock of Time\"",
+      "description": "\"The Forelock of Time\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch08-the-forelock-of-time",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Margaret Gray"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        }
+      ]
+    },
+    {
+      "id": "ch09-love-and-a-prizefight",
+      "type": "chapter",
+      "label": "\"Chapter 9: Love and a Prizefight\"",
+      "description": "\"Love and a Prizefight\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch09-love-and-a-prizefight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        }
+      ]
+    },
+    {
+      "id": "ch10-napoleon-of-finance",
+      "type": "chapter",
+      "label": "\"Chapter 10: Napoleon of Finance\"",
+      "description": "\"Napoleon of Finance\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch10-napoleon-of-finance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "the-new-york-stock-exchange",
+          "label": "Wall Street"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        }
+      ]
+    },
+    {
+      "id": "ch11-coals-of-fire",
+      "type": "chapter",
+      "label": "\"Chapter 11: Coals of Fire\"",
+      "description": "\"Coals of Fire\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch11-coals-of-fire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-new-york-stock-exchange",
+          "label": "the Exchange"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "the-charity-bazaar",
+          "label": "charity bazaar at the Astoria"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        }
+      ]
+    },
+    {
+      "id": "ch12-christmas-despair",
+      "type": "chapter",
+      "label": "\"Chapter 12: Christmas Despair\"",
+      "description": "\"Christmas Despair\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch12-christmas-despair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "Little Sons"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        }
+      ]
+    },
+    {
+      "id": "ch13-a-friend-in-need",
+      "type": "chapter",
+      "label": "\"Chapter 13: A Friend in Need\"",
+      "description": "\"A Friend in Need\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch13-a-friend-in-need",
+      "relations": [
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "Manhattan"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty Brewster"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        }
+      ]
+    },
+    {
+      "id": "ch14-mrs-demille-entertains",
+      "type": "chapter",
+      "label": "\"Chapter 14: Mrs. DeMille Entertains\"",
+      "description": "\"Mrs. DeMille Entertains\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch14-mrs-demille-entertains",
+      "relations": [
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        }
+      ]
+    },
+    {
+      "id": "ch15-the-cut-direct",
+      "type": "chapter",
+      "label": "\"Chapter 15: The Cut Direct\"",
+      "description": "\"The Cut Direct\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch15-the-cut-direct",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cut-direct",
+          "label": "The Cut Direct"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "Little Sons"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-new-york-stock-exchange",
+          "label": "Stock Exchange"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        }
+      ]
+    },
+    {
+      "id": "ch16-in-the-sunny-south",
+      "type": "chapter",
+      "label": "\"Chapter 16: In the Sunny South\"",
+      "description": "\"In the Sunny South\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch16-in-the-sunny-south",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florida-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Drew"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        }
+      ]
+    },
+    {
+      "id": "ch17-the-new-tenderfoot",
+      "type": "chapter",
+      "label": "\"Chapter 17: The New Tenderfoot\"",
+      "description": "\"The New Tenderfoot\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch17-the-new-tenderfoot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Abner Perry"
+        }
+      ]
+    },
+    {
+      "id": "ch18-the-prodigal-at-sea",
+      "type": "chapter",
+      "label": "\"Chapter 18: The Prodigal at Sea\"",
+      "description": "\"The Prodigal at Sea\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch18-the-prodigal-at-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "florida-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-prodigals-return",
+          "label": "return to New York"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "reginald-vanderpool",
+          "label": "Reginald Vanderpool"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Paul Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        }
+      ]
+    },
+    {
+      "id": "ch19-one-hero-and-another",
+      "type": "chapter",
+      "label": "\"Chapter 19: One Hero and Another\"",
+      "description": "\"One Hero and Another\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch19-one-hero-and-another",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "reginald-vanderpool",
+          "label": "Reggy Vanderpool"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Miss Valentine"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        }
+      ]
+    },
+    {
+      "id": "ch20-le-roi-samuse",
+      "type": "chapter",
+      "label": "\"Chapter 20: Le Roi s’amuse\"",
+      "description": "\"Le Roi s’amuse\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch20-le-roi-samuse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        }
+      ]
+    },
+    {
+      "id": "ch21-fairyland",
+      "type": "chapter",
+      "label": "\"Chapter 21: Fairyland\"",
+      "description": "\"Fairyland\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch21-fairyland",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Mary Valentine"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        }
+      ]
+    },
+    {
+      "id": "ch22-prince-and-peasants",
+      "type": "chapter",
+      "label": "\"Chapter 22: Prince and Peasants\"",
+      "description": "\"Prince and Peasants\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch22-prince-and-peasants",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "the city"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        }
+      ]
+    },
+    {
+      "id": "ch23-an-offer-of-marriage",
+      "type": "chapter",
+      "label": "\"Chapter 23: An Offer of Marriage\"",
+      "description": "\"An Offer of Marriage\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch23-an-offer-of-marriage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Mary Valentine"
+        },
+        {
+          "type": "related",
+          "target": "brewster-proposes-to-barbara",
+          "label": "the proposal"
+        }
+      ]
+    },
+    {
+      "id": "ch24-the-sheiks-strategy",
+      "type": "chapter",
+      "label": "\"Chapter 24: The Sheik’s Strategy\"",
+      "description": "\"The Sheik’s Strategy\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch24-the-sheiks-strategy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Miss Valentine"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "the city"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        }
+      ]
+    },
+    {
+      "id": "ch25-the-rescue-of-peggy",
+      "type": "chapter",
+      "label": "\"Chapter 25: The Rescue of Peggy\"",
+      "description": "\"The Rescue of Peggy\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch25-the-rescue-of-peggy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty Brewster"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Butte, Montana"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        }
+      ]
+    },
+    {
+      "id": "ch26-mutiny",
+      "type": "chapter",
+      "label": "\"Chapter 26: Mutiny\"",
+      "description": "\"Mutiny\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch26-mutiny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        }
+      ]
+    },
+    {
+      "id": "ch27-a-fair-traitor",
+      "type": "chapter",
+      "label": "\"Chapter 27: A Fair Traitor\"",
+      "description": "\"A Fair Traitor\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch27-a-fair-traitor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reginald-vanderpool",
+          "label": "Reggie Vanderpool"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Miss Valentine"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Lotless"
+        }
+      ]
+    },
+    {
+      "id": "ch28-a-catastrophe",
+      "type": "chapter",
+      "label": "\"Chapter 28: A Catastrophe\"",
+      "description": "\"A Catastrophe\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch28-a-catastrophe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "legacy"
+        }
+      ]
+    },
+    {
+      "id": "ch29-the-prodigals-return",
+      "type": "chapter",
+      "label": "\"Chapter 29: The Prodigal’s Return\"",
+      "description": "\"The Prodigal’s Return\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch29-the-prodigals-return",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "captain-abner-perry",
+          "label": "Captain Perry"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "legacy"
+        },
+        {
+          "type": "related",
+          "target": "fortieth-street",
+          "label": "Fortieth Street"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "Little Sons"
+        }
+      ]
+    },
+    {
+      "id": "ch30-the-promise-of-thrift",
+      "type": "chapter",
+      "label": "\"Chapter 30: The Promise of Thrift\"",
+      "description": "\"The Promise of Thrift\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch30-the-promise-of-thrift",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Brewster"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "Sedgwick millions"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        }
+      ]
+    },
+    {
+      "id": "ch31-how-the-million-disappeared",
+      "type": "chapter",
+      "label": "\"Chapter 31: How the Million Disappeared\"",
+      "description": "\"How the Million Disappeared\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch31-how-the-million-disappeared",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Butte"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Butte"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "Grant and Ripley"
+        }
+      ]
+    },
+    {
+      "id": "ch32-the-night-before",
+      "type": "chapter",
+      "label": "\"Chapter 32: The Night Before\"",
+      "description": "\"The Night Before\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch32-the-night-before",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "the-little-sons-of-the-rich",
+          "label": "Little Sons"
+        },
+        {
+          "type": "related",
+          "target": "mary-valentine",
+          "label": "Mary Valentine"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        }
+      ]
+    },
+    {
+      "id": "ch33-the-flight-of-jones",
+      "type": "chapter",
+      "label": "\"Chapter 33: The Flight of Jones\"",
+      "description": "\"The Flight of Jones\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch33-the-flight-of-jones",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Grant"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Butte"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Butte"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "pettingills-studio",
+          "label": "the studio"
+        }
+      ]
+    },
+    {
+      "id": "ch34-the-last-word",
+      "type": "chapter",
+      "label": "\"Chapter 34: The Last Word\"",
+      "description": "\"The Last Word\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "brewster-s-millions:ch34-the-last-word",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "dan-demille",
+          "label": "Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Nopper Harrison"
+        }
+      ]
+    },
+    {
+      "id": "charity",
+      "type": "concept",
+      "label": "Charity",
+      "description": "The act of giving money to those in need, explicitly restricted by Sedgwick's will as a potential loophole through which Brewster might dispose of his fortune without genuine expenditure.",
+      "aliases": [
+        "philanthropy",
+        "giving",
+        "almsgiving",
+        "charitable donation"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:charity",
+      "relations": []
+    },
+    {
+      "id": "colonel-prentiss-drew",
+      "type": "person",
+      "label": "\"Colonel Prentiss Drew\"",
+      "description": "\"Colonel Prentiss Drew is a railroad magnate, bank director, and father of Barbara Drew — a formidable figure in New York society whose financial power and social standing make him a key obstacle in Montgomery Brewster's path.\"",
+      "aliases": [
+        "Colonel Drew",
+        "Prentiss Drew",
+        "Col. Drew"
+      ],
+      "tags": [
+        "person",
+        "major",
+        "railroad",
+        "finance",
+        "antagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:colonel-prentiss-drew",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "barbara-drew"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "grant-and-ripley"
+        },
+        {
+          "type": "related",
+          "target": "new-york-society",
+          "label": "new-york-society"
+        },
+        {
+          "type": "related",
+          "target": "mrs-dan-demille",
+          "label": "mrs-dan-demille"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "speculation"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the-yacht-flora-belle"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the-sedgwick-fortune"
+        }
+      ]
+    },
+    {
+      "id": "concepts-index",
+      "type": "list",
+      "label": "Concepts Index",
+      "description": "Complete index of all concepts and themes in Brewster's Millions, sorted alphabetically.",
+      "aliases": [
+        "concepts",
+        "themes"
+      ],
+      "tags": [
+        "index",
+        "concepts",
+        "themes"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:concepts-index",
+      "relations": []
+    },
+    {
+      "id": "dan-demille",
+      "type": "person",
+      "label": "Dan DeMille",
+      "description": "Dan DeMille is a fashionable New York socialite and the husband of Mrs. Dan DeMille, who joins Brewster's yacht cruise and becomes a key figure in the social circle surrounding the young millionaire.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:dan-demille",
+      "relations": []
+    },
+    {
+      "id": "dr-lotless",
+      "type": "person",
+      "label": "\"Dr. Lotless\"",
+      "description": "\"A physician in Montgomery Brewster's social circle who joins the yachting expedition aboard the Flora Belle and attends to passengers during the shipwreck.\"",
+      "aliases": [
+        "Lotless"
+      ],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:dr-lotless",
+      "relations": []
+    },
+    {
+      "id": "edwin-p-brewster",
+      "type": "person",
+      "label": "Edwin Peter Brewster",
+      "description": "Edwin Peter Brewster is Montgomery Brewster's deceased paternal grandfather, a wealthy industrialist who amassed a vast fortune in mining and left his grandson a million dollars with the stipulation that it be spent within a year.",
+      "aliases": [
+        "Edwin Brewster",
+        "Old Mr. Brewster"
+      ],
+      "tags": [
+        "person",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:edwin-p-brewster",
+      "relations": []
+    },
+    {
+      "id": "edwin-peter-brewster",
+      "type": "person",
+      "label": "\"Edwin Peter Brewster\"",
+      "description": "\"Montgomery Brewster's wealthy grandfather who disinherited his daughter for eloping, then took in his grandson after her death — his will sets the novel's central plot in motion.\"",
+      "aliases": [
+        "Edwin Brewster",
+        "old Mr. Brewster"
+      ],
+      "tags": [
+        "person",
+        "major"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:edwin-peter-brewster",
+      "relations": []
+    },
+    {
+      "id": "ellis",
+      "type": "person",
+      "label": "\"Ellis\"",
+      "description": "\"The footman in Montgomery Brewster's household who delivers messages, serves at the birthday dinner, and provides continuity of domestic service throughout the novel.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:ellis",
+      "relations": []
+    },
+    {
+      "id": "elon-gardner",
+      "type": "person",
+      "label": "Elon Gardner",
+      "description": "Montgomery Brewsters stockbroker friend who manages his market investments, inadvertently complicating the spending challenge when Brewsters speculative positions turn profitable.",
+      "aliases": [
+        "Gardner",
+        "Elon"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "finance"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:elon-gardner",
+      "relations": []
+    },
+    {
+      "id": "events-index",
+      "type": "list",
+      "label": "Events Index",
+      "description": "Complete index of all events in Brewster's Millions, sorted alphabetically with chapter references.",
+      "aliases": [
+        "events"
+      ],
+      "tags": [
+        "index",
+        "events"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:events-index",
+      "relations": []
+    },
+    {
+      "id": "fifth-avenue",
+      "type": "place",
+      "label": "Fifth Avenue",
+      "description": "The most expensive apartments in New York City, rented by Brewster for $23,000 as the headquarters of his spending campaign.",
+      "aliases": [
+        "Brewsters residence",
+        "the Fifth Avenue apartment"
+      ],
+      "tags": [
+        "place",
+        "new-york",
+        "residence"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:fifth-avenue",
+      "relations": []
+    },
+    {
+      "id": "fifty-ninth-street",
+      "type": "place",
+      "label": "Fifty-Ninth Street",
+      "description": "A New York City street mentioned as a meeting point where Montgomery Brewster arranges to travel with a companion — a modest urban landmark in a novel of extravagant locations.",
+      "aliases": [
+        "59th Street",
+        "Fifty-ninth"
+      ],
+      "tags": [
+        "place",
+        "street",
+        "New York",
+        "meeting-point"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:fifty-ninth-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        }
+      ]
+    },
+    {
+      "id": "florida-cottage",
+      "type": "place",
+      "label": "The Florida Cottage",
+      "description": "A lavish St. Augustine cottage leased by Montgomery Brewster for his winter convalescence, serving as a setting for key social and romantic tensions in the novel.",
+      "aliases": [
+        "St. Augustine cottage",
+        "Florida estate",
+        "the cottage"
+      ],
+      "tags": [
+        "location",
+        "residence",
+        "Florida",
+        "Brewster",
+        "Chapter 16"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:florida-cottage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Dr. Lotless"
+        },
+        {
+          "type": "related",
+          "target": "subway-smith",
+          "label": "\"Subway\" Smith"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gray",
+          "label": "Grays"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "\"Nopper\" Harrison"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "The Yacht Flora Belle"
+        }
+      ]
+    },
+    {
+      "id": "fortieth-street",
+      "type": "place",
+      "label": "Fortieth Street",
+      "description": "The New York City street where Mrs. Gray's boarding house is located, serving as Montgomery Brewster's modest home before and after his inheritance adventure.",
+      "aliases": [
+        "40th Street",
+        "Fortieth Street boarding house"
+      ],
+      "tags": [
+        "place",
+        "residence",
+        "new-york"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:fortieth-street",
+      "relations": []
+    },
+    {
+      "id": "grant-and-ripley",
+      "type": "organization",
+      "label": "Grant & Ripley",
+      "description": "The New York law firm retained by Swearengen Jones to administer James T. Sedgwicks estate and communicate the wills extraordinary conditions to Montgomery Brewster.",
+      "aliases": [
+        "Grant and Ripley",
+        "the law firm"
+      ],
+      "tags": [
+        "organization",
+        "legal",
+        "estate"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:grant-and-ripley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "the executor"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Mr. Grant"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        }
+      ]
+    },
+    {
+      "id": "inheritance",
+      "type": "concept",
+      "label": "Inheritance",
+      "description": "The transfer of wealth across generations through wills and estates, the legal and moral mechanism that frames the central conflict of the novel.",
+      "aliases": [
+        "wealth transfer",
+        "bequest",
+        "legacy",
+        "estate"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:inheritance",
+      "relations": []
+    },
+    {
+      "id": "james-t-sedgwick",
+      "type": "person",
+      "label": "James T. Sedgwick",
+      "description": "Late uncle of Montgomery Brewster whose seven-million-dollar estate, dispensed through a famously eccentric will, sets the novel's central plot in motion.",
+      "aliases": [
+        "James Sedgwick",
+        "Uncle James",
+        "Jim Sedgwick"
+      ],
+      "tags": [
+        "deceased",
+        "benefactor",
+        "sedgwick-family",
+        "montana"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:james-t-sedgwick",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "The Sedgwick Fortune"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin P. Brewster"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "Inheritance"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "The Million-Dollar Challenge"
+        }
+      ]
+    },
+    {
+      "id": "joe-bragdon",
+      "type": "person",
+      "label": "\"Joe Bragdon\"",
+      "description": "\"Joe Bragdon is Montgomery Brewster's loyal friend and private secretary, who manages the accounts of Brewster's spending spree and remains steadfast through every crisis — from the bank panic to the mutiny at sea.\"",
+      "aliases": [
+        "Joseph Bragdon"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "friend",
+        "loyalty"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:joe-bragdon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "elon-gardner"
+        },
+        {
+          "type": "related",
+          "target": "subway-smith",
+          "label": "subway-smith"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "the-lumber-and-fuel-episode"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "million-dollar-challenge"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "colonel-prentiss-drew"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the-yacht-flora-belle"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the-sedgwick-fortune"
+        }
+      ]
+    },
+    {
+      "id": "loyalty-and-friendship",
+      "type": "concept",
+      "label": "Loyalty and Friendship",
+      "description": "The steadfast loyalty of Montgomery Brewster's circle of friends — \"Subway\" Smith, \"Rip\" Van Winkle, and others — who remain by his side through his year of apparent madness, representing a form of wealth that cannot be spent.",
+      "aliases": [
+        "companionship",
+        "fidelity",
+        "the Brewster circle",
+        "friend group"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:loyalty-and-friendship",
+      "relations": []
+    },
+    {
+      "id": "luck-and-misfortune",
+      "type": "concept",
+      "label": "Luck and Misfortune",
+      "description": "The recurring role of chance and unexpected reversal in the novel, where Brewster's every attempt to lose money is thwarted by improbable good fortune and his investments refuse to fail.",
+      "aliases": [
+        "chance",
+        "fortune reversal",
+        "bad luck",
+        "perverse outcome"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:luck-and-misfortune",
+      "relations": []
+    },
+    {
+      "id": "mary-valentine",
+      "type": "person",
+      "label": "Mary Valentine",
+      "description": "A spirited member of Brewster's social circle aboard the Flora Belle cruise, the daughter of Mr. and Mrs. Valentine, who serves as a confidante and admirer of Brewster's conduct under pressure.",
+      "aliases": [
+        "Miss Valentine"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "social-circle"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:mary-valentine",
+      "relations": []
+    },
+    {
+      "id": "million-dollar-challenge",
+      "type": "concept",
+      "label": "The Million-Dollar Challenge",
+      "description": "The extraordinary condition in James T. Sedgwick's will requiring Montgomery Brewster to spend his grandfather's million-dollar inheritance within one year, penniless on his 26th birthday, in order to inherit a seven-million-dollar fortune.",
+      "aliases": [
+        "inheritance challenge",
+        "Sedgwick challenge",
+        "million-dollar condition",
+        "spending challenge"
+      ],
+      "tags": [
+        "concept",
+        "central-premise"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:million-dollar-challenge",
+      "relations": []
+    },
+    {
+      "id": "montana",
+      "type": "concept",
+      "label": "Montana",
+      "description": "The distant western state that serves as the novel's moral counterpoint to New York — the home of executor Swearengen Jones, whose letters from Butte, Montana, provide the only external supervision of Brewster's spending challenge.",
+      "aliases": [
+        "Butte",
+        "the West",
+        "frontier",
+        "Jones's Montana"
+      ],
+      "tags": [
+        "concept",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:montana",
+      "relations": []
+    },
+    {
+      "id": "montgomery-brewster",
+      "type": "person",
+      "label": "Montgomery Brewster",
+      "description": "The young New York heir who must spend his grandfather's million-dollar inheritance within one year to qualify for his uncle James Sedgwick's seven-million-dollar fortune.",
+      "aliases": [
+        "Monty Brewster",
+        "Monty",
+        "Mr. Brewster",
+        "Montgomery"
+      ],
+      "tags": [
+        "person",
+        "protagonist",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:montgomery-brewster",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-million-dollar-challenge",
+          "label": "the-million-dollar-challenge"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-character",
+          "label": "wealth-and-character"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "profligacy"
+        },
+        {
+          "type": "related",
+          "target": "the-september-23rd-deadline",
+          "label": "the-september-23rd-deadline"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "fifth-avenue"
+        },
+        {
+          "type": "related",
+          "target": "appearance-and-reality",
+          "label": "appearance-and-reality"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "luck-and-misfortune"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "inheritance"
+        }
+      ]
+    },
+    {
+      "id": "mr-and-mrs-valentine",
+      "type": "person",
+      "label": "Mr. and Mrs. Valentine",
+      "description": "The official chaperons aboard Brewster's Flora Belle cruise, whose presence lends social propriety to the voyage while their own reactions to the unfolding crisis reveal the strain beneath polite society.",
+      "aliases": [
+        "Mr. Valentine",
+        "Mrs. Valentine",
+        "the Valentines"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "chaperon",
+        "married-couple"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:mr-and-mrs-valentine",
+      "relations": []
+    },
+    {
+      "id": "mr-grant",
+      "type": "person",
+      "label": "\"Mr. Grant\"",
+      "description": "\"Senior partner at Grant & Ripley, the law firm that administers the Sedgwick estate and informs Montgomery Brewster of his unusual inheritance.\"",
+      "aliases": [
+        "Grant"
+      ],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:mr-grant",
+      "relations": []
+    },
+    {
+      "id": "mrs-dan-demille",
+      "type": "person",
+      "label": "Mrs. Dan DeMille",
+      "description": "A prominent New York society hostess who features in Brewster's social world, embodying the publicity and judgment of fashionable circles.",
+      "aliases": [
+        "Mrs. Dan",
+        "Mrs. DeMille"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:mrs-dan-demille",
+      "relations": []
+    },
+    {
+      "id": "mrs-gray",
+      "type": "person",
+      "label": "Mrs. Gray",
+      "description": "Mrs. Gray is Peggy Gray's mother and Montgomery Brewster's landlady, a widow of modest means who maintains a respectable boarding house in Fortieth Street, New York.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:mrs-gray",
+      "relations": []
+    },
+    {
+      "id": "new-york-city",
+      "type": "place",
+      "label": "\"New York City\"",
+      "description": "\"New York City is the primary setting of Brewster's Millions — the arena where Montgomery Brewster's inheritance challenge unfolds, from the clubs and ballrooms of high society to the banks of Wall Street.\"",
+      "aliases": [
+        "New York",
+        "Manhattan",
+        "the city"
+      ],
+      "tags": [
+        "place",
+        "featured",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:new-york-city",
+      "relations": [
+        {
+          "type": "related",
+          "target": "loyalty-and-friendship",
+          "label": "loyalty-and-friendship"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "colonel-prentiss-drew"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "joe-bragdon"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "fifth-avenue"
+        },
+        {
+          "type": "related",
+          "target": "new-york-society",
+          "label": "new-york-society"
+        },
+        {
+          "type": "related",
+          "target": "wall-street",
+          "label": "wall-street"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the-yacht-flora-belle"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the-sedgwick-fortune"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        }
+      ]
+    },
+    {
+      "id": "new-york-society",
+      "type": "concept",
+      "label": "New York Society",
+      "description": "The elite social world of turn-of-the-century New York City that forms the backdrop of the novel, a milieu of wealth, gossip, and social performance in which Brewster's spending challenge unfolds.",
+      "aliases": [
+        "high society",
+        "New York social world",
+        "society life",
+        "the Four Hundred"
+      ],
+      "tags": [
+        "concept",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:new-york-society",
+      "relations": []
+    },
+    {
+      "id": "nopper-harrison",
+      "type": "person",
+      "label": "\"Oliver \\\"Nopper\\\" Harrison\"",
+      "description": "\"Montgomery Brewster's friend and self-appointed 'superintendent of affairs' who manages logistics during Brewster's spending campaign, including leasing apartments and booking wagers.\"",
+      "aliases": [
+        "Oliver Harrison",
+        "Nopper Harrison",
+        "Harrison"
+      ],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:nopper-harrison",
+      "relations": []
+    },
+    {
+      "id": "oliver-harrison",
+      "type": "person",
+      "label": "\"Oliver Harrison\"",
+      "description": "\"Montgomery Brewster's close friend and personal secretary, nicknamed 「Nopper」, who manages the logistics of Brewster's spending campaign.\"",
+      "aliases": [
+        "Nopper Harrison",
+        "Nopper"
+      ],
+      "tags": [
+        "person",
+        "major"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:oliver-harrison",
+      "relations": []
+    },
+    {
+      "id": "organizations-index",
+      "type": "list",
+      "label": "Organizations Index",
+      "description": "Complete index of all organizations in Brewster's Millions, sorted alphabetically.",
+      "aliases": [
+        "organizations",
+        "institutions"
+      ],
+      "tags": [
+        "index",
+        "organizations"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:organizations-index",
+      "relations": []
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "Paris",
+      "description": "The centre of European luxury from which Brewster imports a French chef, automobiles, and chauffeurs in his campaign of extravagant spending.",
+      "aliases": [
+        "Paris",
+        "France"
+      ],
+      "tags": [
+        "place",
+        "international",
+        "luxury"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:paris",
+      "relations": []
+    },
+    {
+      "id": "peggy-gray",
+      "type": "person",
+      "label": "Peggy Gray",
+      "description": "A steadfast friend of Montgomery Brewster whose loyalty endures through his year of inexplicable profligacy, representing a love that is not conditional on wealth or social standing.",
+      "aliases": [
+        "Miss Gray",
+        "Margaret Gray",
+        "Peggy"
+      ],
+      "tags": [
+        "person",
+        "major",
+        "loyal-friend"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:peggy-gray",
+      "relations": []
+    },
+    {
+      "id": "pennilessness",
+      "type": "concept",
+      "label": "Pennilessness",
+      "description": "The state of possessing nothing — the required condition Montgomery Brewster must achieve on his twenty-sixth birthday to inherit the Sedgwick fortune, and a recurring thematic counterpoint to the novel's depiction of wealth.",
+      "aliases": [
+        "poverty",
+        "destitution",
+        "being penniless",
+        "pauperism"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:pennilessness",
+      "relations": []
+    },
+    {
+      "id": "persons-index",
+      "type": "list",
+      "label": "Character Index",
+      "description": "Complete index of all characters in Brewster's Millions, sorted alphabetically with quality indicators.",
+      "aliases": [
+        "characters",
+        "people"
+      ],
+      "tags": [
+        "index",
+        "characters"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:persons-index",
+      "relations": []
+    },
+    {
+      "id": "pettingill",
+      "type": "person",
+      "label": "\"Paul Pettingill\"",
+      "description": "\"Montgomery Brewster's artist friend who redecorates his apartment and is part of the birthday dinner party that sets the story in motion.\"",
+      "aliases": [
+        "Pettingill"
+      ],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:pettingill",
+      "relations": []
+    },
+    {
+      "id": "pettingills-studio",
+      "type": "place",
+      "label": "Pettingill's Studio",
+      "description": "The artist's studio belonging to Paul Pettingill, where Brewster's birthday dinner opens the novel and where the \"Little Sons of the Rich\" gather at the story's conclusion.",
+      "aliases": [
+        "Paul Pettingill's studio",
+        "the studio"
+      ],
+      "tags": [
+        "place",
+        "venue",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:pettingills-studio",
+      "relations": []
+    },
+    {
+      "id": "places-index",
+      "type": "list",
+      "label": "Places Index",
+      "description": "Complete index of all locations and places in Brewster's Millions, sorted alphabetically.",
+      "aliases": [
+        "locations",
+        "places"
+      ],
+      "tags": [
+        "index",
+        "places",
+        "locations"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:places-index",
+      "relations": []
+    },
+    {
+      "id": "ponce-de-leon",
+      "type": "place",
+      "label": "\"Ponce de Leon Hotel\"",
+      "description": "\"A hotel in St. Augustine, Florida where characters stay during the novel's events, mentioned in Chapter 16.\"",
+      "aliases": [
+        "the Ponce de Leon"
+      ],
+      "tags": [
+        "place",
+        "hotel"
+      ],
+      "quality": "stub",
+      "source_ref": "brewster-s-millions:ponce-de-leon",
+      "relations": []
+    },
+    {
+      "id": "profligacy",
+      "type": "concept",
+      "label": "Profligacy",
+      "description": "The reckless and extravagant expenditure of wealth, a central theme of the novel as Montgomery Brewster attempts to dispose of a million-dollar inheritance through unrestrained consumption.",
+      "aliases": [
+        "extravagance",
+        "reckless spending",
+        "spendthrift"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:profligacy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "inheritance"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the-yacht-flora-belle"
+        },
+        {
+          "type": "related",
+          "target": "wealth-and-character",
+          "label": "wealth-and-character"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "luck-and-misfortune"
+        },
+        {
+          "type": "related",
+          "target": "the-million-dollar-challenge",
+          "label": "the-million-dollar-challenge"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "speculation"
+        }
+      ]
+    },
+    {
+      "id": "reginald-vanderpool",
+      "type": "person",
+      "label": "Reginald Vanderpool",
+      "description": "Reginald \"Reggie\" Vanderpool is a fashionable young Englishman aboard Brewster's yacht cruise, known for his louche manner, his gambling, and his comic flair for amateur theatricals.",
+      "aliases": [
+        "Reggy Vanderpool",
+        "Reggie Vanderpool"
+      ],
+      "tags": [
+        "person",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:reginald-vanderpool",
+      "relations": []
+    },
+    {
+      "id": "rip-van-winkle",
+      "type": "person",
+      "label": "\"Rip\" Van Winkle",
+      "description": "A loyal member of Montgomery Brewsters inner circle, known for his steady character and interventions on Brewsters behalf.",
+      "aliases": [
+        "Van Winkle",
+        "Rip",
+        "Richard Van Winkle"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "friend-group"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:rip-van-winkle",
+      "relations": []
+    },
+    {
+      "id": "robert-brewster",
+      "type": "person",
+      "label": "Robert Brewster",
+      "description": "Robert Brewster is Montgomery Brewster's deceased father, the son of Edwin Peter Brewster and husband of Mrs. Brewster, both of whom died before the events of the novel.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:robert-brewster",
+      "relations": []
+    },
+    {
+      "id": "romance-and-wealth",
+      "type": "concept",
+      "label": "Romance and Wealth",
+      "description": "The intersection of romantic attachment and financial fortune, a recurring tension in the novel as Brewster's spending challenge complicates his relationships with Barbara Drew and Peggy Gray.",
+      "aliases": [
+        "love and money",
+        "courtship and fortune",
+        "marriage and inheritance"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:romance-and-wealth",
+      "relations": []
+    },
+    {
+      "id": "speculation",
+      "type": "concept",
+      "label": "Speculation",
+      "description": "The risky financial investment in stocks and markets, a key subplot in the novel as Brewster's attempt to lose money through speculation backfires when his investments unexpectedly prosper.",
+      "aliases": [
+        "financial speculation",
+        "stock market",
+        "investment risk",
+        "market gambling"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:speculation",
+      "relations": []
+    },
+    {
+      "id": "story-timeline",
+      "type": "list",
+      "label": "Story Timeline",
+      "description": "Chronological timeline of all major events in Brewster's Millions, ordered by chapter and paragraph number.",
+      "aliases": [
+        "timeline",
+        "chronological-events",
+        "plot-timeline"
+      ],
+      "tags": [
+        "index",
+        "timeline",
+        "events"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:story-timeline",
+      "relations": [
+        {
+          "type": "related",
+          "target": "events-index",
+          "label": "events-index"
+        },
+        {
+          "type": "related",
+          "target": "persons-index",
+          "label": "persons-index"
+        },
+        {
+          "type": "related",
+          "target": "places-index",
+          "label": "places-index"
+        },
+        {
+          "type": "related",
+          "target": "concepts-index",
+          "label": "concepts-index"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-september-23rd-deadline",
+          "label": "the-september-23rd-deadline"
+        },
+        {
+          "type": "related",
+          "target": "the-million-dollar-challenge",
+          "label": "the-million-dollar-challenge"
+        }
+      ]
+    },
+    {
+      "id": "subway-smith",
+      "type": "person",
+      "label": "\"Subway\" Smith",
+      "description": "A member of Montgomery Brewster's loyal circle of friends, known by his distinctive nickname, who provides comic commentary and steadfast companionship throughout Brewster's year of profligate spending.",
+      "aliases": [
+        "Smith",
+        "Subway"
+      ],
+      "tags": [
+        "person",
+        "supporting",
+        "friend-group"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:subway-smith",
+      "relations": []
+    },
+    {
+      "id": "swearengen-jones",
+      "type": "person",
+      "label": "Swearengen Jones",
+      "description": "The Montana-based executor of James T. Sedgwick's will, whose distant oversight and final judgment determine whether Montgomery Brewster inherits the seven-million-dollar Sedgwick fortune.",
+      "aliases": [
+        "Mr. Jones",
+        "Jones",
+        "the executor"
+      ],
+      "tags": [
+        "person",
+        "major",
+        "executor"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:swearengen-jones",
+      "relations": []
+    },
+    {
+      "id": "the-bank-run",
+      "type": "event",
+      "label": "\"The Bank Run\"",
+      "description": "\"A banking panic sweeps New York after a bank failure wipes out $100,000 of Brewster's deposits; when the Bank of Manhattan Island — led by Barbara's father Colonel Prentiss Drew — faces a depositor run, Brewster risks his entire remaining fortune to save it.\"",
+      "aliases": [
+        "Bank of Manhattan Island run",
+        "the banking panic",
+        "Colonel Drew's bank crisis"
+      ],
+      "tags": [
+        "event",
+        "chapter-13",
+        "financial-crisis"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-bank-run",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "Manhattan"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gray",
+          "label": "Mrs. Gray"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "spendthrift"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "barbara-drew"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "joe-bragdon"
+        },
+        {
+          "type": "related",
+          "target": "the-stock-market-plunge",
+          "label": "the-stock-market-plunge"
+        }
+      ]
+    },
+    {
+      "id": "the-birthday-dinner",
+      "type": "event",
+      "label": "\"The Birthday Dinner\"",
+      "description": "\"The birthday dinner celebrating Montgomery Brewster's twenty-fifth year is the novel's opening scene — a gathering of the 'Little Sons of the Rich' at which news of the Sedgwick inheritance arrives, transforming a night of celebration into the beginning of an extraordinary ordeal.\"",
+      "aliases": [
+        "Monty's birthday dinner",
+        "the opening dinner",
+        "Brewster's 25th birthday"
+      ],
+      "tags": [
+        "event",
+        "featured",
+        "celebration",
+        "turning-point"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:the-birthday-dinner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "the law firm"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "the-reading-of-the-will",
+          "label": "the-reading-of-the-will"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "million-dollar-challenge"
+        }
+      ]
+    },
+    {
+      "id": "the-brewster-mansion",
+      "type": "place",
+      "label": "The Brewster Mansion",
+      "description": "The gloomy old Brewster family mansion on Fifth Avenue, New York, inherited by a sister after old Mr. Brewster's death and occupied by Montgomery Brewster during the early chapters of the novel.",
+      "aliases": [
+        "Brewster house",
+        "Fifth Avenue house",
+        "the Brewster place"
+      ],
+      "tags": [
+        "location",
+        "residence",
+        "Fifth Avenue",
+        "Brewster",
+        "New York"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-brewster-mansion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "fortieth-street",
+          "label": "Mrs. Gray's boarding house"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "million-dollar challenge"
+        },
+        {
+          "type": "related",
+          "target": "ellis",
+          "label": "Ellis"
+        },
+        {
+          "type": "related",
+          "target": "pettingills-studio",
+          "label": "Pettingill's studio"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "florida-cottage",
+          "label": "Florida"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "Mediterranean cruise"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        }
+      ]
+    },
+    {
+      "id": "the-charity-bazaar",
+      "type": "event",
+      "label": "\"The Charity Bazaar\"",
+      "description": "\"A two-day charity bazaar at the Astoria Hotel where Brewster spends lavishly at Barbara Drew's booth and encounters a rival in Rodney Grimes, the Californian millionaire.\"",
+      "aliases": [
+        "Astoria charity bazaar",
+        "charity bazaar at the Astoria"
+      ],
+      "tags": [
+        "event",
+        "social",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-charity-bazaar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "new-york-society",
+          "label": "high society"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "the West"
+        },
+        {
+          "type": "related",
+          "target": "the-cut-direct",
+          "label": "The Cut Direct"
+        }
+      ]
+    },
+    {
+      "id": "the-christmas-party",
+      "type": "event",
+      "label": "\"The Christmas Party\"",
+      "description": "\"In Chapter 12, Brewster confronts Christmas as a spending crisis — dreading that holiday gifts will derail his million-dollar campaign, he embarks on a secretive two-week buying spree at Tiffany's and antique shops, only to find his gifts to Barbara Drew returned with cold thanks.\"",
+      "aliases": [
+        "Christmas despair",
+        "Brewster's Christmas",
+        "Christmas Eve gifts"
+      ],
+      "tags": [
+        "event",
+        "chapter-12"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-christmas-party",
+      "relations": [
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "mrs-dan-demille",
+          "label": "Mrs. Dan DeMille"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        }
+      ]
+    },
+    {
+      "id": "the-cut-direct",
+      "type": "event",
+      "label": "\"The Cut Direct\"",
+      "description": "\"The social ostracism Montgomery Brewster endures upon returning to New York after his disastrous yacht cruise, as former friends and society at large cut him following his apparent bankruptcy.\"",
+      "aliases": [
+        "society ostracism of Brewster",
+        "the social snub"
+      ],
+      "tags": [
+        "event",
+        "social",
+        "society",
+        "scandal"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-cut-direct",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-prodigals-return",
+          "label": "return to New York"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gray",
+          "label": "Mrs. Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "the-stock-market-plunge",
+          "label": "Lumber and Fuel speculation"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        }
+      ]
+    },
+    {
+      "id": "the-de-mille-ball",
+      "type": "event",
+      "label": "The De Mille Ball",
+      "description": "Mrs. De Mille hosts an extravagant society ball at Brewster's expense, forcing a tense reunion between Brewster and Barbara Drew after their romantic estrangement.",
+      "aliases": [
+        "mrs-demille-entertains",
+        "the-demille-ball"
+      ],
+      "tags": [
+        "event",
+        "chapter-14"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-de-mille-ball",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "the-cut-direct",
+          "label": "the-cut-direct"
+        }
+      ]
+    },
+    {
+      "id": "the-drew-residence",
+      "type": "place",
+      "label": "The Drew Residence",
+      "description": "The New York home of Colonel Prentiss Drew and his daughter Barbara, a frequent venue for society dinners and a key setting in Brewster's courtship.",
+      "aliases": [
+        "the Drews' house",
+        "Colonel Drew's home",
+        "Drew household"
+      ],
+      "tags": [
+        "location",
+        "residence",
+        "New York",
+        "Drew",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-drew-residence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-brewster-mansion",
+          "label": "The Brewster Mansion"
+        },
+        {
+          "type": "related",
+          "target": "fifth-avenue",
+          "label": "Fifth Avenue"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        }
+      ]
+    },
+    {
+      "id": "the-flight-of-jones",
+      "type": "event",
+      "label": "The Flight of Jones",
+      "description": "Swearengen Jones vanishes with Brewster's entire inheritance — stocks, bonds, mines, and cash — throwing the one-year spending challenge into catastrophic uncertainty.",
+      "aliases": [
+        "jones-disappearance",
+        "the-disappearance-of-jones"
+      ],
+      "tags": [
+        "event",
+        "chapter-33",
+        "featured-event"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-flight-of-jones",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "Grant & Ripley"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Butte, Montana"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-reading-of-the-will",
+          "label": "the-reading-of-the-will"
+        },
+        {
+          "type": "related",
+          "target": "the-stock-market-plunge",
+          "label": "the-stock-market-plunge"
+        },
+        {
+          "type": "related",
+          "target": "the-rescue-of-peggy",
+          "label": "the-rescue-of-peggy"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-florida-expedition",
+      "type": "event",
+      "label": "\"The Florida Expedition\"",
+      "description": "\"Exhausted by the pace of his spending campaign in New York, Brewster follows medical advice to recuperate in St. Augustine, Florida — where an attempt at rest becomes yet another episode of extravagant expenditure, including the acquisition of a Florida estate and the beginning of the Viennese orchestra debacle.\"",
+      "aliases": [
+        "St. Augustine trip",
+        "the Florida recuperation",
+        "Brewster in Florida"
+      ],
+      "tags": [
+        "event",
+        "chapter-15",
+        "chapter-16",
+        "chapter-17",
+        "travel"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-florida-expedition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Dr. Lotless"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "florida-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Prentiss Drew"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "barbara-drew"
+        },
+        {
+          "type": "related",
+          "target": "the-viennese-orchestra-tour",
+          "label": "the-viennese-orchestra-tour"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        }
+      ]
+    },
+    {
+      "id": "the-little-sons-of-the-rich",
+      "type": "organization",
+      "label": "\"The Little Sons of the Rich\"",
+      "description": "\"An informal social circle of wealthy young New Yorkers, including Montgomery Brewster, who gather at Pettingill's studio for suppers, celebrations, and commentary on Brewster's extravagant spending year.\"",
+      "aliases": [
+        "Little Sons",
+        "Sons of the Rich"
+      ],
+      "tags": [
+        "organization",
+        "club",
+        "social-circle"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-little-sons-of-the-rich",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "pettingills-studio",
+          "label": "the studio"
+        },
+        {
+          "type": "related",
+          "target": "pettingill",
+          "label": "Pettingill"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-cut-direct",
+          "label": "The Cut Direct"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        }
+      ]
+    },
+    {
+      "id": "the-lumber-and-fuel-episode",
+      "type": "event",
+      "label": "The Lumber and Fuel Episode",
+      "description": "Brewsters attempt to lose money through stock speculation in Lumber and Fuel, which backfires when the stock unexpectedly rises, complicating his spending challenge.",
+      "aliases": [
+        "Lumber and Fuel",
+        "the stock market episode"
+      ],
+      "tags": [
+        "event",
+        "financial",
+        "ch10-ch11"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-lumber-and-fuel-episode",
+      "relations": [
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        }
+      ]
+    },
+    {
+      "id": "the-mediterranean",
+      "type": "place",
+      "label": "The Mediterranean",
+      "description": "The destination of Brewster's extravagant Mediterranean cruise aboard the yacht Flora Belle, where he continues his spending campaign on the French Riviera.",
+      "aliases": [
+        "Mediterranean",
+        "Mediterranean Sea",
+        "the Riviera"
+      ],
+      "tags": [
+        "place",
+        "sea",
+        "cruise",
+        "international",
+        "travel"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:the-mediterranean",
+      "relations": [
+        {
+          "type": "related",
+          "target": "oliver-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "The Flora Belle"
+        },
+        {
+          "type": "related",
+          "target": "canary-islands",
+          "label": "Canary Islands"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-million-dollar-challenge",
+      "type": "concept",
+      "label": "The Million Dollar Challenge",
+      "description": "The core plot mechanism of Brewster's Millions: James Sedgwick's will requires Montgomery Brewster to spend his grandfather's million-dollar inheritance within one year, remaining penniless on his 26th birthday, in order to inherit the far larger Sedgwick fortune of seven million dollars.",
+      "aliases": [
+        "Sedgwick challenge",
+        "spending challenge",
+        "million-dollar challenge",
+        "spending condition"
+      ],
+      "tags": [
+        "concept",
+        "inheritance",
+        "plot-device",
+        "Sedgwick",
+        "Brewster"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:the-million-dollar-challenge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "the-reading-of-the-sedgwick-will",
+          "label": "The Reading of the Sedgwick Will"
+        },
+        {
+          "type": "related",
+          "target": "edwin-peter-brewster",
+          "label": "Edwin Peter Brewster"
+        },
+        {
+          "type": "related",
+          "target": "the-september-23rd-deadline",
+          "label": "The September 23rd Deadline"
+        }
+      ]
+    },
+    {
+      "id": "the-monte-carlo-episode",
+      "type": "event",
+      "label": "\"The Monte Carlo Episode\"",
+      "description": "\"During the Riviera leg of the yachting cruise, Brewster visits Monte Carlo intending to lose money at the gambling tables — but fortune perversely favors him, turning every bet into an unwanted profit and deepening his despair.\"",
+      "aliases": [
+        "Monte Carlo gambling",
+        "the roulette disaster",
+        "Brewster at Monte Carlo"
+      ],
+      "tags": [
+        "event",
+        "chapter-19",
+        "chapter-20",
+        "chapter-21",
+        "gambling"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-monte-carlo-episode",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pennilessness",
+          "label": "poverty"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "Mediterranean cruise"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "mrs-dan-demille",
+          "label": "mrs-dan-demille"
+        }
+      ]
+    },
+    {
+      "id": "the-mutiny",
+      "type": "event",
+      "label": "\"The Mutiny\"",
+      "description": "\"The crew of the Flora Belle mutinies during Brewster's Mediterranean cruise, threatening the lives of passengers and leading to a dramatic confrontation at sea.\"",
+      "aliases": [
+        "mutiny aboard the Flora Belle",
+        "the sailors' revolt"
+      ],
+      "tags": [
+        "event",
+        "mutiny",
+        "crisis"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-mutiny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "Flora Belle"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        },
+        {
+          "type": "related",
+          "target": "the-rescue-of-peggy",
+          "label": "the-rescue-of-peggy"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-new-york-stock-exchange",
+      "type": "organization",
+      "label": "\"The New York Stock Exchange\"",
+      "description": "\"The financial exchange where Montgomery Brewster speculates in Lumber and Fuel Common stock, inadvertently making a profit that threatens his goal of exhausting a million-dollar inheritance.\"",
+      "aliases": [
+        "Stock Exchange",
+        "Wall Street",
+        "the Exchange"
+      ],
+      "tags": [
+        "organization",
+        "financial",
+        "stock-market"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-new-york-stock-exchange",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "bad luck"
+        }
+      ]
+    },
+    {
+      "id": "the-prizefight",
+      "type": "event",
+      "label": "The Prizefight",
+      "description": "Brewster bets heavily on a San Francisco prizefight, convinced the underdog will win — a wager that ends in a miscalculated loss.",
+      "aliases": [
+        "the-prizefight-bet",
+        "san-francisco-prizefight"
+      ],
+      "tags": [
+        "event",
+        "chapter-9"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-prizefight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "the-lumber-and-fuel-episode"
+        },
+        {
+          "type": "related",
+          "target": "the-stock-market-plunge",
+          "label": "the-stock-market-plunge"
+        }
+      ]
+    },
+    {
+      "id": "the-prodigals-return",
+      "type": "event",
+      "label": "\"The Prodigal's Return\"",
+      "description": "\"Brewster returns to New York in late August after the yachting cruise, a physical and emotional wreck, to face the final weeks of his spending challenge — selling his furniture, weathering public scorn, and preparing his final accounting for Swearengen Jones with only $79.08 left to his name.\"",
+      "aliases": [
+        "return to New York",
+        "the homecoming",
+        "Brewster's return from the cruise"
+      ],
+      "tags": [
+        "event",
+        "chapter-29",
+        "turning-point"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-prodigals-return",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Gardner"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Miss Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "fortieth-street",
+          "label": "Fortieth Street"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Swearengen Jones"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "spending challenge"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        }
+      ]
+    },
+    {
+      "id": "the-reading-of-the-sedgwick-will",
+      "type": "event",
+      "label": "\"The Reading of the Sedgwick Will\"",
+      "description": "\"The pivotal scene at Grant & Ripley's office where Montgomery Brewster learns he is the sole heir to his uncle James T. Sedgwick's seven-million-dollar fortune — on the extraordinary condition that he first spend one million dollars in a year.\"",
+      "aliases": [
+        "the reading of James T. Sedgwick's will"
+      ],
+      "tags": [
+        "event",
+        "plot"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:the-reading-of-the-sedgwick-will",
+      "relations": []
+    },
+    {
+      "id": "the-reading-of-the-will",
+      "type": "event",
+      "label": "The Reading of the Will",
+      "description": "The pivotal scene in which James T. Sedgwicks will is read to Montgomery Brewster, revealing the extraordinary conditions attached to his seven-million-dollar inheritance.",
+      "aliases": [
+        "the will reading",
+        "Sedgwicks will revealed"
+      ],
+      "tags": [
+        "event",
+        "pivotal",
+        "ch04"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-reading-of-the-will",
+      "relations": [
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "Grant & Ripley"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Mr. Grant"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "edwin-p-brewster",
+          "label": "Edwin Brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-rescue-of-peggy",
+      "type": "event",
+      "label": "The Rescue of Peggy",
+      "description": "Peggy Gray is abducted by Arab crewmen during the Mediterranean yacht cruise; Brewster and a sailor named Conroy dive into the sea to save her in a daring rescue.",
+      "aliases": [
+        "peggy-gray-rescue",
+        "the-arab-abduction"
+      ],
+      "tags": [
+        "event",
+        "chapter-25",
+        "chapter-26"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-rescue-of-peggy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "Peggy Gray"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "dr-lotless",
+          "label": "Dr. Lotless"
+        },
+        {
+          "type": "related",
+          "target": "luck-and-misfortune",
+          "label": "chance"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "the-yacht-cruise"
+        },
+        {
+          "type": "related",
+          "target": "the-mutiny",
+          "label": "the-mutiny"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "joe-bragdon"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-savoy-hotel",
+      "type": "place",
+      "label": "The Savoy Hotel",
+      "description": "London's premier luxury hotel, referenced in Brewster's Millions as a symbol of cosmopolitan opulence and the transatlantic leisure class.",
+      "aliases": [
+        "Savoy",
+        "Savoy Hotel",
+        "the Savoy"
+      ],
+      "tags": [
+        "place",
+        "hotel",
+        "London",
+        "international",
+        "luxury"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:the-savoy-hotel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "The Flora Belle"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-sedgwick-brewster-feud",
+      "type": "concept",
+      "label": "The Sedgwick-Brewster Feud",
+      "description": "The bitter personal hatred between James T. Sedgwick and Edwin Peter Brewster, the animosity that shaped the extraordinary conditions of Sedgwick's will and set the novel's plot in motion.",
+      "aliases": [
+        "Sedgwick-Brewster enmity",
+        "family feud",
+        "Brewster-Sedgwick hatred"
+      ],
+      "tags": [
+        "concept",
+        "central-premise"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-sedgwick-brewster-feud",
+      "relations": []
+    },
+    {
+      "id": "the-sedgwick-fortune",
+      "type": "organization",
+      "label": "\"The Sedgwick Fortune\"",
+      "description": "\"The Sedgwick Fortune — seven million dollars amassed by James T. Sedgwick in Montana mining — is the engine of the novel's plot: an inheritance governed by a will that demands Brewster spend every cent of an initial million within one year, without retaining any assets.\"",
+      "aliases": [
+        "James T. Sedgwick estate",
+        "Sedgwick millions",
+        "the inheritance"
+      ],
+      "tags": [
+        "organization",
+        "featured",
+        "inheritance",
+        "finance",
+        "estate"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:the-sedgwick-fortune",
+      "relations": [
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "Montana"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "Grant & Ripley"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "the yacht"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "Jones"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-inheritance",
+          "label": "the Sedgwick fortune"
+        },
+        {
+          "type": "related",
+          "target": "million-dollar-challenge",
+          "label": "million-dollar-challenge"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "colonel-prentiss-drew"
+        }
+      ]
+    },
+    {
+      "id": "the-sedgwick-inheritance",
+      "type": "event",
+      "label": "\"The Sedgwick Inheritance\"",
+      "description": "\"Montgomery Brewster inherits $7 million from his uncle James T. Sedgwick under an extraordinary condition: he must spend every dollar within one year to claim the full estate.\"",
+      "aliases": [
+        "James T. Sedgwick will",
+        "the $7 million inheritance",
+        "the Sedgwick fortune"
+      ],
+      "tags": [
+        "event",
+        "inheritance",
+        "plot-twist"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-sedgwick-inheritance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "james-t-sedgwick",
+          "label": "James T. Sedgwick"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Montgomery Brewster"
+        },
+        {
+          "type": "related",
+          "target": "butte-montana",
+          "label": "Butte, Montana"
+        },
+        {
+          "type": "related",
+          "target": "inheritance",
+          "label": "estate"
+        },
+        {
+          "type": "related",
+          "target": "grant-and-ripley",
+          "label": "Grant & Ripley"
+        },
+        {
+          "type": "related",
+          "target": "mr-grant",
+          "label": "Mr. Grant"
+        },
+        {
+          "type": "related",
+          "target": "montana",
+          "label": "the West"
+        },
+        {
+          "type": "related",
+          "target": "swearengen-jones",
+          "label": "the executor"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-fortune",
+          "label": "the inheritance"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "charity",
+          "label": "giving"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "the-reading-of-the-will",
+          "label": "the-reading-of-the-will"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        }
+      ]
+    },
+    {
+      "id": "the-september-23rd-deadline",
+      "type": "concept",
+      "label": "\"The September 23rd Deadline\"",
+      "description": "\"The date of Montgomery Brewster's twenty-sixth birthday and the deadline by which he must have spent his entire one-million-dollar inheritance to qualify for his uncle's seven-million-dollar fortune.\"",
+      "aliases": [
+        "September 23rd",
+        "the 23rd of September",
+        "Brewster's deadline"
+      ],
+      "tags": [
+        "concept",
+        "plot"
+      ],
+      "quality": "basic",
+      "source_ref": "brewster-s-millions:the-september-23rd-deadline",
+      "relations": []
+    },
+    {
+      "id": "the-stock-market-plunge",
+      "type": "event",
+      "label": "\"The Stock Market Plunge\"",
+      "description": "\"Brewster attempts to lose money by speculating in Lumber and Fuel stock, only to watch in despair as his 'disastrous' investment yields an enormous profit.\"",
+      "aliases": [
+        "Lumber and Fuel speculation",
+        "Brewster's Wall Street disaster",
+        "the stock manipulation"
+      ],
+      "tags": [
+        "event",
+        "finance",
+        "Wall-Street"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-stock-market-plunge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lumber-and-fuel-episode",
+          "label": "Lumber and Fuel"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "speculation",
+          "label": "stock market"
+        },
+        {
+          "type": "related",
+          "target": "wall-street",
+          "label": "Wall Street"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "the-yacht-cruise",
+          "label": "Mediterranean cruise"
+        },
+        {
+          "type": "related",
+          "target": "the-sedgwick-inheritance",
+          "label": "the-sedgwick-inheritance"
+        }
+      ]
+    },
+    {
+      "id": "the-viennese-orchestra-tour",
+      "type": "event",
+      "label": "The Viennese Orchestra Tour",
+      "description": "Brewster hires a Viennese orchestra for $29,000 and sends them on an ill-fated American concert tour that loses over $56,000 — one of his most spectacular financial disasters.",
+      "aliases": [
+        "the-hungarian-orchestra-tour",
+        "the-concert-tour-disaster"
+      ],
+      "tags": [
+        "event",
+        "financial-disaster"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-viennese-orchestra-tour",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elon-gardner",
+          "label": "Elon Gardner"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "nopper-harrison",
+          "label": "Harrison"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "extravagance"
+        },
+        {
+          "type": "related",
+          "target": "the-birthday-dinner",
+          "label": "the-birthday-dinner"
+        },
+        {
+          "type": "related",
+          "target": "the-de-mille-ball",
+          "label": "the-de-mille-ball"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-yacht-cruise",
+      "type": "event",
+      "label": "\"The Yacht Cruise\"",
+      "description": "\"Brewster charters the yacht Flora Belle for an extended Mediterranean cruise with friends, a lavish spending venture that becomes the setting for shipwreck, mutiny, and romantic resolution.\"",
+      "aliases": [
+        "Mediterranean cruise",
+        "the Flora Belle voyage",
+        "yacht expedition"
+      ],
+      "tags": [
+        "event",
+        "travel",
+        "Mediterranean"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:the-yacht-cruise",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-yacht-flora-belle",
+          "label": "Flora Belle"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "barbara-drew",
+          "label": "Barbara Drew"
+        },
+        {
+          "type": "related",
+          "target": "mrs-gray",
+          "label": "Mrs. Gray"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "Joe Bragdon"
+        },
+        {
+          "type": "related",
+          "target": "the-mutiny",
+          "label": "the-mutiny"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "Colonel Drew"
+        },
+        {
+          "type": "related",
+          "target": "profligacy",
+          "label": "spendthrift"
+        },
+        {
+          "type": "related",
+          "target": "the-rescue-of-peggy",
+          "label": "the-rescue-of-peggy"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        }
+      ]
+    },
+    {
+      "id": "the-yacht-flora-belle",
+      "type": "place",
+      "label": "\"The Yacht Flora Belle\"",
+      "description": "\"The steam-yacht *Flitter* (also called *Flora Belle*) is the vessel chartered by Montgomery Brewster for an extravagant cruise — the setting for the novel's Mediterranean adventure, the mutiny, and Peggy Gray's rescue.\"",
+      "aliases": [
+        "the yacht",
+        "the Flitter",
+        "Flora Belle"
+      ],
+      "tags": [
+        "place",
+        "featured",
+        "yacht",
+        "cruise",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "brewster-s-millions:the-yacht-flora-belle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brewster",
+          "label": "montgomery-brewster"
+        },
+        {
+          "type": "related",
+          "target": "joe-bragdon",
+          "label": "joe-bragdon"
+        },
+        {
+          "type": "related",
+          "target": "peggy-gray",
+          "label": "peggy-gray"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "new-york-city"
+        },
+        {
+          "type": "related",
+          "target": "subway-smith",
+          "label": "subway-smith"
+        },
+        {
+          "type": "related",
+          "target": "colonel-prentiss-drew",
+          "label": "colonel-prentiss-drew"
+        }
+      ]
+    },
+    {
+      "id": "wall-street",
+      "type": "place",
+      "label": "Wall Street",
+      "description": "The financial heart of New York City, where Brewster's stock market operations cause \"a little excitement\" during his campaign of deliberate financial loss.",
+      "aliases": [
+        "the financial district",
+        "the Street"
+      ],
+      "tags": [
+        "place",
+        "finance",
+        "business"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:wall-street",
+      "relations": []
+    },
+    {
+      "id": "wealth-and-character",
+      "type": "concept",
+      "label": "Wealth and Character",
+      "description": "The central moral question of the novel: whether wealth reveals or corrupts character, tested through Montgomery Brewster's year-long ordeal of enforced profligacy under Sedgwick's exacting conditions.",
+      "aliases": [
+        "money and morality",
+        "the test of wealth",
+        "fortune and virtue"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "brewster-s-millions:wealth-and-character",
+      "relations": []
+    }
+  ]
+}

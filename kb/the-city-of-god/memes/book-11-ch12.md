@@ -1,0 +1,11 @@
+---
+description: "A comparison of the blessedness of the righteous, who have not yet received the divine reward, with that of our first parents in paradise."
+id: book-11-ch12
+label: "Book 11 — Ch. 12: XII"
+tags: ["chapter"]
+type: chapter
+---
+
+[312-001]A comparison of the blessedness of the righteous, who have not yet received the divine reward, with that of our first parents in paradise.
+
+[312-002]And the angels are not the only members of the rational and intellectual creation whom we call blessed. For who will take upon him to deny that those first men in Paradise were blessed previously to sin, although they were uncertain how long their blessedness was to last, and whether it would be eternal (and eternal it would have been had they not sinned)—who, I say, will do so, seeing that even now we not unbecomingly call those blessed whom we see leading a righteous and holy life in hope of immortality, who have no harrowing remorse of conscience, but obtain readily divine remission of the sins of their present infirmity? These, though they are certain that they shall be rewarded if they persevere, are not certain that they will persevere. For what man can know that he will persevere to the end in the exercise and increase of grace, unless he has been certified by some revelation from Him who, in His just and secret judgment, while He deceives none, informs few regarding this matter? Accordingly, so far as present comfort goes, the first man in Paradise was more blessed than any just man in this insecure state; but as regards the hope of future good, every man who not merely supposes, but certainly knows that he shall eternally enjoy the most high God in the company of angels, and beyond the reach of ill—this man, no matter what bodily torments afflict him, is more blessed than was he who, even in that great felicity of Paradise, was uncertain of his fate.468

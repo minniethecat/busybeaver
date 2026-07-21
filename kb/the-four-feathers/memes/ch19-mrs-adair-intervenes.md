@@ -1,0 +1,135 @@
+---
+description: "Mrs. Adair Intervenes — Chapter 19 of The Four Feathers by A. E. W. Mason"
+id: ch19-mrs-adair-intervenes
+label: "Chapter 19: Mrs. Adair Intervenes"
+tags: ["chapter"]
+type: "chapter"
+---
+
+[019-001][[ethne-eustace|Ethne]] had thought to escape quite unobserved. But Mrs. Adair was sitting upon the terrace in the shadow of the house, and not very far from the open window of the drawing-room. She saw Ethne lightly cross the terrace and run down the steps into the garden, and she wondered at the precipitancy of her movements. Ethne seemed to be taking flight, and in a sort of desperation. The incident was singular to Mrs. Adair. She had seen Ethne turn out the lamp, and the swift change in the room from light to dark, with its suggestion of secrecy and the private talk of lovers, had been a torture to her. But she had not fled from the torture. She had sat listening, and the music as it floated out upon the garden with its thrill of happiness, its accent of yearning, and the low, hushed conversation which followed upon its cessation in that darkened room, had struck upon a chord of imagination in her and had kindled her jealousy into a scorching flame. Then suddenly Ethne had taken flight. The possibility of a quarrel Mrs. Adair dismissed from her thoughts, for she knew very well that Ethne was not of the kind which quarrels.
+
+[019-002]But something still more singular occurred. [[jack-durrance|Durrance]] continued to speak in that room from which Ethne had escaped. The sound of his voice reached Mrs. Adair’s ears, though she could not distinguish the words. It was clear to her that he believed Ethne to be still with him. Mrs. Adair rose from her seat and, walking silently upon the tips of her toes, came close to the open window. She heard Durrance laugh light-heartedly, and she listened to the words he spoke. She could hear them plainly now, though she could not see the man who spoke them. He sat in the shadows.
+
+[019-003]“I began to find out,” he was saying, “even on that first afternoon at [[hill-street|Hill Street]] two months ago, that there was only friendship on your side. My blindness helped me. With your face and your eyes in view I should have believed without question just what you wished me to believe. But you had no longer those defences. I, on my side, had grown quicker. I began, in a word, to see. For the first time in my life I began to see.”
+
+[019-004]Mrs. Adair did not move. Durrance, upon his side, appeared to expect no answer or acknowledgment. He spoke with the voice of enjoyment which a man uses recounting difficulties which have ceased to hamper him, perplexities which have been long since unravelled. He was completely absorbed in saying clearly what was in his mind.
+
+[019-005]“I should have definitely broken off our engagement, I suppose, at once; for I still believed, and as firmly as ever, that there must be more than friendship on both sides. But I had grown selfish. I warned you, Ethne, selfishness was the blind man’s particular fault. I waited and deferred the time of marriage. I made excuses. I led you to believe that there was a chance of recovery when I knew there was none. For I hoped, as a man will, that with time your friendship might grow into more than friendship. So long as there was a chance of that, I—Ethne, I could not let you go. So, I listened for some new softness in your voice, some new buoyancy in your laughter, some new deep thrill of the heart in the music which you played, longing for it—how much! Well, tonight I have burnt my boats. I have admitted to you that I knew friendship limited your thoughts of me. I have owned to you that there is no hope my sight will be restored. I have even dared tonight to tell you what I have kept secret for so long—my meeting with [[harry-feversham|Harry Feversham]] and the peril he has run. And why? Because for the first time I have heard tonight just those signs for which I waited. The new softness, the new pride, in your voice, the buoyancy in your laughter—they have been audible to me all this evening. The restraint and the tension were gone from your manner. And when you played, it was as though someone with just your skill and knowledge played, but someone who let her heart speak resonantly through the music as until tonight you have never done. Ethne, Ethne!”
+
+[019-006]But at that moment Ethne was in the little enclosed garden whither she had led [[willoughby|Captain Willoughby]] that morning. Here she was private; [[dermod-eustace|Dermod]]’s collie dog had followed her; she had reached the solitude and the silence which had become necessities to her. A few more words from Durrance and her prudence would have broken beneath the strain. All that pretence of affection which during these last months she had so sedulously built up about him like a wall, and which he was never to look over, would have been struck down and levelled to the ground. Durrance, indeed, had already looked over the wall—was looking over it with amazed eyes at this instant; but that Ethne did not know. The moonlight slept in silver upon the creek, the tall trees stood dreaming to the stars; the lapping of the tide against the bank was no louder than the music of a river. She sat down upon the bench and strove to gather some of the quietude of that summer night into her heart, and to learn from the growing things of nature about her something of their patience and their extraordinary perseverance.
+
+[019-007]But the occurrences of the day had overtaxed her, and she could not. Only this morning, and in this very garden, the good news had come and she had regained Harry Feversham. For in that way she thought of Willoughby’s message. This morning she had regained him, and this evening the bad news had come and she had lost him—and most likely right to the very end of mortal life. Harry Feversham meant to pay for his fault to the uttermost scruple, and Ethne cried out against his thoroughness, which he had learned from no other than herself. “Surely,” she thought, “he might have been content. In redeeming his honour in the eyes of one of the three he has done enough—he has redeemed it in the eyes of all.”
+
+[019-008]But he had gone south to join [[colonel-trench|Colonel Trench]] in Omdurman. Of that squalid and shadowless town, of its hideous barbarities, of the horrors of its prison-house, Ethne knew nothing at all. But Captain Willoughby had hinted enough to fill her imagination with terrors. He had offered to explain to her what captivity in Omdurman implied, and she wrung her hands, as she remembered that she had refused to listen. What cruelties might not be practised? Even now, at that very hour perhaps, on this night of summer—. But she dared not let her thoughts wander that way. …
+
+[019-009]The lapping of the tide against the banks was like the music of a river. It brought to Ethne’s mind one particular river which had sung and babbled in her ears when, five years ago, she had watched out another summer night till dawn. Never had she so hungered for her own country and the companionship of its brown hills and streams. No, not even this afternoon, when she had sat at her window and watched the lights change upon the creek. [[donegal|Donegal]] had a sanctity for her, it seemed when she dwelled in it to set her, in a way, apart from and above earthly taints; and as her heart went out in a great longing towards it now, a sudden fierce loathing for the concealments, the shifts and maneuvers which she had practised, and still must practise, sprang up within her. A great weariness came upon her, too. But she did not change from her fixed resolve. Two lives were not to be spoilt because she lived in the world. Tomorrow she would gather up her strength and begin again. For Durrance must never know that there was another whom she placed before him in her thoughts. Meanwhile, however, Durrance within the drawing-room brought his confession to an end.
+
+[019-010]“So you see,” he said, “I could not speak of Harry Feversham until tonight; for I was afraid that what I had to tell you would hurt you very much. I was afraid that you still remembered him, in spite of those five years. I knew, of course, that you were my friend. But I doubted whether in your heart you were not more than that to him. Tonight, however, I could tell you without fear.”
+
+[019-011]Now at all events he expected an answer. Mrs. Adair, still standing by the window, heard him move in the shadows.
+
+[019-012]“Ethne!” he said, with some surprise in his voice. And since again no answer came, he rose, and walked towards the chair in which Ethne had sat. Mrs. Adair could see him now. His hands felt for and grasped the back of the chair. He bent over it, as though he thought Ethne was leaning forward with her hands upon her knees.
+
+[019-013]“Ethne!” he said again, and there was in this iteration of her name more trouble and doubt than surprise. It seemed to Mrs. Adair that he dreaded to find her silently weeping. He was beginning to speculate whether, after all, he had been right in his inference from Ethne’s recapture of her youth tonight—whether the shadow of Feversham did not, after all, fall between them. He leaned farther forward, feeling with his hand, and suddenly a string of Ethne’s violin twanged loud. She had left it lying on the chair, and his fingers had touched it.
+
+[019-014]Durrance drew himself up straight and stood quite motionless and silent, like a man who had suffered a shock and is bewildered. He passed his hand across his forehead once or twice, and then, without calling upon Ethne again, he advanced to the open window.
+
+[019-015]Mrs. Adair did not move, and she held her breath. There was just the width of the sill between them. The moonlight struck full upon Durrance, and she saw a comprehension gradually dawn in his face that someone was standing close to him.
+
+[019-016]“Ethne,” he said a third time. He stretched out a hand timidly and touched her dress.
+
+[019-017]“It is not Ethne,” he cried with a start.
+
+[019-018]“No, it is not Ethne,” Mrs. Adair answered quietly. Durrance drew back a step from the window, and for a little while was silent.
+
+[019-019]“Where has she gone?” he asked at length.
+
+[019-020]“Into the garden. She ran across the terrace and down the steps very quickly and silently. I saw her from my chair. Then I heard you speaking alone.”
+
+[019-021]“Can you see her now in the garden?”
+
+[019-022]“No; she went across the lawn towards the trees and their great shadows. There is only the moonlight in the garden now.”
+
+[019-023]Durrance stepped across the window sill and stood by the side of Mrs. Adair. The last slip which Ethne had made betrayed her inevitably to the man who had grown quick. There could be only one reason for her sudden, unexplained, and secret flight. He had told her that Feversham had wandered south from [[wadi-halfa|Wadi Halfa]] into the savage country, had spoken his fears as to Feversham’s fate without reserve, thinking that she had forgotten him, and indeed rather inclined to blame her for the callous indifference with which she received the news. The callousness was a mere mask, and she had fled because she no longer had the strength to hold it up before her face. His first suspicions had been right. Feversham still stood between Ethne and himself, and held them at arm’s length.
+
+[019-024]“She ran as though she was in great trouble and hardly knew what she was doing,” Mrs. Adair continued. “Did you cause that trouble?”
+
+[019-025]“Yes.”
+
+[019-026]“I thought so, from what I heard you say.”
+
+[019-027]Mrs. Adair wanted to hurt, and in spite of Durrance’s impenetrable face, she felt that she had succeeded. It was a small sort of compensation for the weeks of mortification which she had endured. There is something which might be said for Mrs. Adair; extenuations might be pleaded, even if no defence was made. For she, like Ethne, was overtaxed that night. That calm pale face of hers hid the quick passions of the south, and she had been racked by them to the limits of endurance. There had been something grotesque, something rather horrible, in that outbreak and confession by Durrance, after Ethne had fled from the room. He was speaking out his heart to an empty chair. She herself had stood without the window with a bitter longing that he had spoken so to her and a bitter knowledge that he never would. She was sunk deep in humiliation. The irony of the position tortured her; it was like a jest of grim selfish gods played off upon mortals to their hurt. And at the bottom of all her thoughts rankled that memory of the extinguished lamp and the low hushed voices speaking one to the other in darkness. Therefore she spoke to give pain, and was glad that she gave it, even though it was to the man whom she coveted.
+
+[019-028]“There’s one thing which I don’t understand,” said Durrance. “I mean the change which we both noticed in Ethne tonight. I mistook the cause of it. I was a fool. But there must have been a cause. The gift of laughter had been restored to her. She became just what she was five years ago.”
+
+[019-029]“Exactly,” Mrs. Adair answered. “Just what she was before Mr. Feversham disappeared from [[ramelton|Ramelton]]. You are so quick, Colonel Durrance. Ethne had good news of Mr. Feversham this morning.”
+
+[019-030]Durrance turned quickly towards her, and Mrs. Adair felt a pleasure at his abrupt movement. She had provoked the display of some emotion, and the display of emotion was preferable to his composure.
+
+[019-031]“Are you quite sure?” he asked.
+
+[019-032]“As sure as that you gave her bad news tonight,” she replied.
+
+[019-033]But Durrance did not need the answer. Ethne had made another slip that evening, and, though unnoticed at the time, it came back to Durrance’s memory now. She had declared that Feversham still drew an allowance from his father. “I heard it only today,” she had said.
+
+[019-034]“Yes, Ethne heard news of Feversham today,” he said slowly. “Did she make a mistake five years ago? There was some wrong thing Harry Feversham was supposed to have done. But was there really more misunderstanding than wrong? Did she misjudge him? Has she today learnt that she misjudged him?”
+
+[019-035]“I will tell you what I know. It is not very much. But I think it is fair that you should know it.”
+
+[019-036]“Wait a moment, please, Mrs. Adair,” said Durrance sharply. He had put his questions rather to himself than to his companion, and he was not sure that he wished her to answer them. He walked abruptly away from her and leaned upon the balustrade with his face towards the garden.
+
+[019-037]It seemed to him rather treacherous to allow Mrs. Adair to disclose what Ethne herself evidently intended to conceal. But he knew why Ethne wished to conceal it. She wished him never to suspect that she retained any love for Harry Feversham. On the other hand, however, he did not falter from his own [[faith|belief]]. Marriage between a man crippled like himself and a woman active and vigorous like Ethne could never be right unless both brought more than friendship. Here disloyalty seemed the truest of all. He turned back to Mrs. Adair.
+
+[019-038]“Tell me what you know, Mrs. Adair. Something might be done perhaps for Feversham. From [[assouan|Assouan]] or Suakin something might be done. This news—this good news came, I suppose, this afternoon when I was at home.”
+
+[019-039]“No, this morning when you were here. It was brought by a Captain Willoughby, who was once an officer in Mr. Feversham’s regiment.”
+
+[019-040]“He is now Deputy-Governor of Suakin,” said Durrance. “I know the man. For three years we were together in that town. And he brought news of Feversham? Well?”
+
+[019-041]“He sailed down from Kingsbridge. You and Ethne were walking across the lawn when he landed from the creek. Ethne left you and went forward to meet him. I saw them meet, because I happened to be looking out of this window at the moment.”
+
+[019-042]“Yes, Ethne went forward. There was a stranger whom she did not know. I remember.”
+
+[019-043]“They spoke for a few moments, and then Ethne led him towards the trees at once, without looking back. They went together into the little enclosed garden on the bank;” and Durrance started as she spoke. “Yes, you followed them,” continued Mrs. Adair, curiously. She had been puzzled as to how Durrance had failed to find them there.
+
+[019-044]“They were there then,” he said slowly, “on that seat, in the enclosure, all the while.”
+
+[019-045]Mrs. Adair waited for a more definite explanation of the mystery, but she got none.
+
+[019-046]“Well?” he asked.
+
+[019-047]“They stayed there for a long while. You had gone home across the fields before they came outside into the open. I was in the garden, and indeed happened to be actually upon the bank.”
+
+[019-048]“So you saw Captain Willoughby. Perhaps you spoke to him?”
+
+[019-049]“Yes. Ethne introduced him, but she would not let him stay. She hurried him into his boat and back to Kingsbridge at once.”
+
+[019-050]“Then how do you know Captain Willoughby brought good news of Harry Feversham?”
+
+[019-051]“Ethne told me that they had been talking of him. Her manner and her laugh showed me no less clearly that the news was good.”
+
+[019-052]“Yes,” said Durrance, and he nodded his head in assent. Captain Willoughby’s tidings had begotten that new pride and buoyancy in Ethne which he had so readily taken to himself. Signs of the necessary something more than friendship—so he had accounted them, and he was right so far. But it was not he who had inspired them. His very penetration and insight had led him astray. He was silent for a few minutes, and Mrs. Adair searched his face in the moonlight for some evidence that he resented Ethne’s secrecy. But she searched in vain.
+
+[019-053]“And that is all?” said Durrance.
+
+[019-054]“Not quite. Captain Willoughby brought a token from Mr. Feversham. Ethne carried it back to the house in her hand. Her eyes were upon it all the way, her lips smiled at it. I do not think there is anything half so precious to her in all the world.”
+
+[019-055]“A token?”
+
+[019-056]“A little [[the-white-feather|white feather]],” said Mrs. Adair, “all soiled and speckled with dust. Can you read the riddle of that feather?”
+
+[019-057]“Not yet,” Durrance replied. He walked once or twice along the terrace and back, lost in thought. Then he went into the house and fetched his cap from the hall. He came back to Mrs. Adair.
+
+[019-058]“It was kind of you to tell me this,” he said. “I want you to add to your kindness. When I was in the drawing-room alone and you came to the window, how much did you hear? What were the first words?”
+
+[019-059]Mrs. Adair’s answer relieved him of a fear. Ethne had heard nothing whatever of his confession.
+
+[019-060]“Yes,” he said, “she moved to the window to read a letter by the moonlight. She must have escaped from the room the moment she had read it. Consequently she did not hear that I had no longer any hope of recovering my sight, and that I merely used the pretence of a hope in order to delay our marriage. I am glad of that—very glad.” He shook hands with Mrs. Adair, and said good night. “You see,” he added absently, “if I hear that Harry Feversham is in Omdurman, something might perhaps be done—from Suakin or Assouan, something might be done. Which way did Ethne go?”
+
+[019-061]“Over to the water.”
+
+[019-062]“She had her dog with her, I hope?”
+
+[019-063]“The dog followed her,” said Mrs. Adair.
+
+[019-064]“I am glad,” said Durrance. He knew quite well what comfort the dog would be to Ethne in this bad hour, and perhaps he rather envied the dog. Mrs. Adair wondered that at a moment of such distress to him he could still spare a thought for so small an alleviation of Ethne’s trouble. She watched him cross the garden to the stile in the hedge. He walked steadily forward upon the path like a man who sees. There was nothing in his gait or bearing to reveal that the one thing left to him had that evening been taken away.

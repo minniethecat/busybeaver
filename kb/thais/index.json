@@ -1,0 +1,5322 @@
+{
+  "book": "thais",
+  "title": "Thais",
+  "description": "Thais — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 110,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"苔依丝\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "thais:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "Contents",
+      "description": "'Table of contents for Thaïs by Anatole France'",
+      "aliases": [
+        "Table of Contents",
+        "TOC"
+      ],
+      "tags": [
+        "navigation"
+      ],
+      "quality": "unknown",
+      "source_ref": "thais:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "le-banquet",
+          "label": "Le Banquet"
+        }
+      ]
+    },
+    {
+      "id": "ahmes",
+      "type": "person",
+      "label": "Ahmès",
+      "description": "'A Nubian slave who became Thaïs''s childhood spiritual mentor, later venerated as Saint Theodore the Nubian for his martyrdom.'",
+      "aliases": [
+        "Théodore",
+        "saint Théodore le Nubien"
+      ],
+      "tags": [
+        "person",
+        "christian",
+        "nubian",
+        "martyr",
+        "slave"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:ahmes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "vivantius",
+          "label": "Vivantius"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "lollius",
+          "label": "Lollius"
+        }
+      ]
+    },
+    {
+      "id": "albine",
+      "type": "person",
+      "label": "Albine",
+      "description": "'The abbess of a desert convent near Antinoé who receives Thaïs after her conversion and oversees her penitential enclosure.'",
+      "aliases": [
+        "Albina"
+      ],
+      "tags": [
+        "person",
+        "abbess",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:albine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "alexandrie",
+      "type": "place",
+      "label": "Alexandrie",
+      "description": "'The great Hellenistic city of Egypt, birthplace of Paphnuce and the setting of Thaïs''s worldly life — a cosmopolitan metropolis where pagan philosophy, Christian theology, and imperial power intersect in Anatole France''s novel.'",
+      "aliases": [
+        "Alexandria",
+        "Alexandria Egypt"
+      ],
+      "tags": [
+        "place",
+        "city",
+        "egypt",
+        "late-antiquity"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:alexandrie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "athens",
+          "label": "Athènes"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Empire"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "angel",
+      "type": "concept",
+      "label": "Angel",
+      "description": "'Celestial beings who serve as Godʼs messengers and warriors — in \"Thaïs,\" they appear in Paphnuceʼs visions, in the hymns of the desert monks, and as the antithesis of the demons that torment him.'",
+      "aliases": [
+        "Ange",
+        "Angelos",
+        "Divine Messenger"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "angelology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:angel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "paul-le-simple",
+          "label": "Paul le Simple"
+        }
+      ]
+    },
+    {
+      "id": "antinoe",
+      "type": "place",
+      "label": "Antinoé",
+      "description": "'The monastic seat of Abbot Paphnuce in the Egyptian Thebaid — a desert community of ascetics where the novel''s spiritual dramas find their starkest expression.'",
+      "aliases": [
+        "Antinoë",
+        "Antinoe",
+        "Antinopolis"
+      ],
+      "tags": [
+        "place",
+        "monastery",
+        "thebaid",
+        "desert"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:antinoe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        }
+      ]
+    },
+    {
+      "id": "antioch",
+      "type": "place",
+      "label": "Antioch",
+      "description": "'Ancient city on the Orontes River in Roman Syria, a major center of early Christianity and the setting of Thaïs''s early career as a dancer and courtesan.'",
+      "aliases": [
+        "Antioche",
+        "Antioch on the Orontes"
+      ],
+      "tags": [
+        "place",
+        "syria",
+        "city",
+        "early-christianity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:antioch",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Empire"
+        },
+        {
+          "type": "related",
+          "target": "syria",
+          "label": "Syria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Eros"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "antoine",
+      "type": "person",
+      "label": "Antoine",
+      "description": "'Saint Anthony the Great (c. 251–356 AD), the founder of Christian desert monasticism, whose life and teachings form the spiritual backdrop of the ascetic world Paphnuce inhabits.'",
+      "aliases": [
+        "Anthony the Great",
+        "Saint Anthony"
+      ],
+      "tags": [
+        "person",
+        "saint",
+        "desert-father",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:antoine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "Tentation"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "syria",
+          "label": "Syria"
+        }
+      ]
+    },
+    {
+      "id": "arabia",
+      "type": "place",
+      "label": "Arabia",
+      "description": "'Desert region east of Egypt, referenced in the novel as a source of precious aromatic gums and listed among the provinces where Christians suffered persecution under the Roman Empire.'",
+      "aliases": [
+        "Arabie",
+        "Arabian Peninsula"
+      ],
+      "tags": [
+        "place",
+        "arabia",
+        "incense",
+        "persecution"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:arabia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "syria",
+          "label": "Syria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "Sin"
+        },
+        {
+          "type": "related",
+          "target": "nicee",
+          "label": "Nicaea"
+        }
+      ]
+    },
+    {
+      "id": "aristee",
+      "type": "person",
+      "label": "Aristée",
+      "description": "'A physician in Alexandria, personal doctor to Nicias, who appears at the banquet in Part III of Anatole France''s Thaïs.'",
+      "aliases": [
+        "Aristee"
+      ],
+      "tags": [
+        "person",
+        "physician",
+        "banquet"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:aristee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "arius",
+      "type": "person",
+      "label": "Arius",
+      "description": "'A fourth-century Alexandrian priest whose teaching on the nature of Christ — Arianism — is referenced as a heresy threatening the Church in Anatole France''s Thaïs.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "heresy",
+        "arianism",
+        "theologian"
+      ],
+      "quality": "basic",
+      "source_ref": "thais:arius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicee",
+          "label": "Nicaea"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "arsinoitide",
+      "type": "place",
+      "label": "Arsinoïtide",
+      "description": "'Fertile nome (administrative district) in Middle Egypt, known in the novel for its fig trees laden with dew and its nectar-heavy bees — both used as metaphors for divine grace and spiritual fruitfulness.'",
+      "aliases": [
+        "Arsinoite",
+        "Arsinoite Nome",
+        "Fayyum"
+      ],
+      "tags": [
+        "place",
+        "egypt",
+        "agriculture"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:arsinoitide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "asceticism",
+      "type": "concept",
+      "label": "Asceticism",
+      "description": "'The practice of severe self-discipline and abstention from worldly pleasures, central to the desert fathers of the Thebaid in \"Thaïs\" by Anatole France.'",
+      "aliases": [
+        "Ascesis",
+        "Ascetic Practice",
+        "Askesis"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:asceticism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "type": "place",
+      "label": "Asia",
+      "description": "'Asia Minor, the wealthy and culturally influential Roman province, evoked in the novel as a source of luxury goods, exotic fashions, Asiatic cults, and the mythic landscape of the Trojan War.'",
+      "aliases": [
+        "Asie",
+        "Asia Minor"
+      ],
+      "tags": [
+        "place",
+        "asia-minor",
+        "luxury",
+        "classical-mythology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:asia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        }
+      ]
+    },
+    {
+      "id": "athens",
+      "type": "place",
+      "label": "Athens",
+      "description": "'Ancient Greek city-state, the cradle of Western philosophy and classical drama, invoked in the novel as a cultural benchmark for intellectual sophistication and theatrical tradition.'",
+      "aliases": [
+        "Athènes"
+      ],
+      "tags": [
+        "place",
+        "greece",
+        "philosophy",
+        "classical-antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:athens",
+      "relations": [
+        {
+          "type": "related",
+          "target": "greece",
+          "label": "Greece"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "cos",
+          "label": "Cos"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "baptism",
+      "type": "concept",
+      "label": "Baptism",
+      "description": "'The Christian sacrament of initiation by water — in \"Thaïs,\" the ritual that marks Thaïs''s formal entry into the faith and the novel''s central ceremonial set piece.'",
+      "aliases": [
+        "Baptême",
+        "Baptismal Rite",
+        "Christian Initiation"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "sacrament"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:baptism",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Théodore"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "jerusalem",
+          "label": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty",
+      "description": "'Physical and spiritual loveliness — in \"Thaïs,\" beauty is both a divine attribute and a mortal danger, the quality that makes Thaïs irresistible and the deceptive mask worn by demons.'",
+      "aliases": [
+        "Beauté",
+        "Pulchritude",
+        "Kallos"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "aesthetics",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:beauty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "bethleem",
+      "type": "place",
+      "label": "Bethléem",
+      "description": "'Town in Judea, birthplace of Jesus, invoked in the novel through two passages of tender Nativity imagery — the folk-gospel of Paul-le-Simple and the ecstatic vision of Paphnuce at the moment of Thaïs’s conversion.'",
+      "aliases": [
+        "Bethlehem",
+        "Bethléhem"
+      ],
+      "tags": [
+        "place",
+        "judea",
+        "christianity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:bethleem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "racotis",
+          "label": "Racotis"
+        },
+        {
+          "type": "related",
+          "target": "jerusalem",
+          "label": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "id": "callicrate",
+      "type": "person",
+      "label": "Callicrate",
+      "description": "\"A poet who appears at Nicias's banquet and in Alexandria, representing the aesthetic temperament in the novel's philosophical debates.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "poet"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:callicrate",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "catechetical-school-of-alexandria",
+      "type": "organization",
+      "label": "Catechetical School of Alexandria",
+      "description": "'The renowned Christian theological school of Alexandria, the intellectual backdrop to the theological debates that permeate \"Thaïs\" — a center of allegorical exegesis, Neoplatonic synthesis, and doctrinal controversy in the 4th-century Church.'",
+      "aliases": [
+        "School of Alexandria",
+        "Alexandrian School",
+        "Didascalée"
+      ],
+      "tags": [
+        "organization",
+        "school",
+        "theology",
+        "alexandria"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:catechetical-school-of-alexandria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandrie"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        }
+      ]
+    },
+    {
+      "id": "chaldee",
+      "type": "place",
+      "label": "Chaldée",
+      "description": "'Ancient region of southern Mesopotamia, homeland of the patriarch Abraham, invoked in the novel through Paphnuce’s self-identification with Abrahamic calling and Thaïs’s skeptical reference to Chaldean diviners.'",
+      "aliases": [
+        "Chaldea",
+        "Chaldaea"
+      ],
+      "tags": [
+        "place",
+        "mesopotamia",
+        "abraham"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:chaldee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "charity",
+      "type": "concept",
+      "label": "Charity",
+      "description": "'The theological virtue of supernatural love — the greatest of the three theological virtues; in \"Thaïs,\" the quality most conspicuously absent from Paphnuce''s spiritual arsenal.'",
+      "aliases": [
+        "Charité",
+        "Love",
+        "Caritas",
+        "Agape",
+        "Divine Charity"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:charity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "albine",
+          "label": "Albina"
+        }
+      ]
+    },
+    {
+      "id": "church-of-alexandria",
+      "type": "organization",
+      "label": "Church of Alexandria",
+      "description": "'The major ecclesiastical see of Egypt, led by Patriarch Athanasius during the 4th-century Arian controversy — the institutional backdrop for the theological world of Anatole France''s Thaïs.'",
+      "aliases": [
+        "See of Alexandria",
+        "Patriarchate of Alexandria",
+        "Alexandrian Church"
+      ],
+      "tags": [
+        "organization",
+        "religious_group",
+        "church",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:church-of-alexandria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        },
+        {
+          "type": "related",
+          "target": "vivantius",
+          "label": "Vivantius"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "arius",
+          "label": "Arius"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "le-banquet",
+          "label": "Nicias's banquet"
+        },
+        {
+          "type": "related",
+          "target": "monastery-of-antinoe",
+          "label": "Antinoé"
+        }
+      ]
+    },
+    {
+      "id": "cilicie",
+      "type": "place",
+      "label": "Cilicie",
+      "description": "'Ancient region on the southern coast of Asia Minor, referenced in the novel solely through its celebrated beer, which appears in the tavern of Thaïs’s childhood and later on the commercial signs of the stylite city.'",
+      "aliases": [
+        "Cilicia"
+      ],
+      "tags": [
+        "place",
+        "asia-minor",
+        "commerce"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:cilicie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "colzin",
+      "type": "place",
+      "label": "Mont Colzin",
+      "description": "'The mountain retreat of Saint Anthony the Great in the Egyptian Eastern Desert, from which the aged patriarch descends to bless his spiritual children in Anatole France''s Thaïs.'",
+      "aliases": [
+        "Mount Colzin",
+        "Colzin",
+        "Mont Kolzim"
+      ],
+      "tags": [
+        "place",
+        "mountain",
+        "monasticism",
+        "desert-fathers"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:colzin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony the Great"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Sérapion"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        }
+      ]
+    },
+    {
+      "id": "convent-of-albina",
+      "type": "organization",
+      "label": "Convent of Albina",
+      "description": "'The desert convent governed by the pious Albina where Thaïs is enclosed for penance after her conversion — the setting for her three years of mortification and eventual death.'",
+      "aliases": [
+        "Couvent d'Albine",
+        "House of Albina",
+        "Albina's Convent"
+      ],
+      "tags": [
+        "organization",
+        "monastery",
+        "convent",
+        "desert-fathers"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:convent-of-albina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "prise-de-voile",
+          "label": "Prise de Voile"
+        },
+        {
+          "type": "related",
+          "target": "mort-de-thais",
+          "label": "Mort de Thaïs"
+        }
+      ]
+    },
+    {
+      "id": "cos",
+      "type": "place",
+      "label": "Cos",
+      "description": "'A Greek island in the Aegean Sea, birthplace of the sceptical philosopher Timoclès who appears at Nicias''s banquet in *Thaïs*.'",
+      "aliases": [
+        "Kos",
+        "Cos Meropis"
+      ],
+      "tags": [
+        "place",
+        "greece",
+        "aegean",
+        "island"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:cos",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "asia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "greece",
+          "label": "Greece"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "cotta",
+      "type": "person",
+      "label": "Cotta",
+      "description": "'Roman prefect of the fleet who hosts the philosophical banquet in Part II of Thaïs.'",
+      "aliases": [
+        "Lucius Aurélius Cotta"
+      ],
+      "tags": [
+        "person",
+        "roman",
+        "official"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:cotta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        }
+      ]
+    },
+    {
+      "id": "damnation",
+      "type": "concept",
+      "label": "Damnation",
+      "description": "'The state of eternal punishment and separation from God — in \"Thaïs,\" damnation is the theological shadow that drives Paphnuce''s mission to save Thaïs, yet the novel''s irony lies in the possibility that the would-be savior ends up more imperiled than the sinner he seeks to redeem.'",
+      "aliases": [
+        "Damnation éternelle",
+        "Condamnation",
+        "Perdition"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "eschatology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:damnation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "damnation-de-paphnuce",
+      "type": "event",
+      "label": "Damnation de Paphnuce",
+      "description": "'The spiritual catastrophe of Paphnuce — his descent from saintly abbot to damned soul, culminating in his confession of carnal love at the deathbed of Thaïs.'",
+      "aliases": [
+        "Paphnuce's Damnation",
+        "The Damnation of Paphnuce"
+      ],
+      "tags": [
+        "event",
+        "damnation",
+        "tragedy",
+        "desire"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:damnation-de-paphnuce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "stylopolis",
+          "label": "Stylopolis"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "vision",
+          "label": "Vision"
+        }
+      ]
+    },
+    {
+      "id": "demon",
+      "type": "concept",
+      "label": "Demon",
+      "description": "'Malevolent spiritual beings that assault ascetics and possess sinners — in \"Thaïs,\" the invisible antagonists of the desert, whose most dangerous weapon is not terror but desire.'",
+      "aliases": [
+        "Démon",
+        "Devil",
+        "Evil Spirit",
+        "Unclean Spirit"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "demonology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:demon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "ethiopia",
+          "label": "Éthiopie"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "desire",
+      "type": "concept",
+      "label": "Desire",
+      "description": "'The powerful longing of the soul or body for what it lacks — in \"Thaïs,\" desire is the engine of both sanctity and sin, the force that drives Paphnuce into the desert and then pulls him back toward the world he fled.'",
+      "aliases": [
+        "Désir",
+        "Desiderium",
+        "Concupiscence",
+        "Epithumia"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:desire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        }
+      ]
+    },
+    {
+      "id": "dorion",
+      "type": "person",
+      "label": "Dorion",
+      "description": "\"An Epicurean philosopher who appears at Nicias's banquet, representing skeptical detachment and the doctrine that desire is formidable.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "philosopher",
+        "epicurean"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:dorion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "callicrate",
+          "label": "Callicrate"
+        },
+        {
+          "type": "related",
+          "target": "philina",
+          "label": "Philina"
+        },
+        {
+          "type": "related",
+          "target": "drose",
+          "label": "Drosé"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "drose",
+      "type": "person",
+      "label": "Drosé",
+      "description": "'A spirited courtesan at Cotta''s banquet in Part II of Thaïs, companion of Philina, whose outburst at the philosophical debates brings sensual reality crashing into abstract discourse.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "courtesan",
+        "banquet"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:drose",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "philina",
+          "label": "Philina"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "egypt",
+      "type": "place",
+      "label": "Egypt",
+      "description": "'The Roman province of Aegyptus, the setting of Anatole France''s Thaïs — the land of the Nile, the desert, and the flowering of early Christian monasticism in the fourth century.'",
+      "aliases": [
+        "Égypte"
+      ],
+      "tags": [
+        "place",
+        "egypt",
+        "region",
+        "roman-empire"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:egypt",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "silsile",
+          "label": "Silsilé"
+        },
+        {
+          "type": "related",
+          "target": "colzin",
+          "label": "Mont Colzin"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony the Great"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "ephrem",
+      "type": "person",
+      "label": "Ephrem",
+      "description": "'Co-abbot with Sérapion of a large monastery near Antinoé, author of admired spiritual rules, who commands a greater number of monks than Paphnuce in Anatole France''s Thaïs.'",
+      "aliases": [
+        "Ephraim",
+        "Ephrem et Sérapion"
+      ],
+      "tags": [
+        "person",
+        "abbot",
+        "monasticism",
+        "desert-father"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:ephrem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Sérapion"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        }
+      ]
+    },
+    {
+      "id": "eternity",
+      "type": "concept",
+      "label": "Eternity",
+      "description": "'The timeless state beyond death — in \"Thaïs,\" eternity is both the promised reward of the ascetic life and the ultimate horizon against which all earthly choices are measured, yet its nature proves ambiguous when the moment of reckoning arrives.'",
+      "aliases": [
+        "Éternité",
+        "Everlasting Life"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "eschatology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:eternity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "ethiopia",
+      "type": "place",
+      "label": "Ethiopia",
+      "description": "'The ancient African kingdom south of Egypt, referenced in Anatole France''s Thaïs through the presence of Ethiopian figures in the novel''s Alexandrian and monastic settings.'",
+      "aliases": [
+        "Éthiopie",
+        "Aethiopia"
+      ],
+      "tags": [
+        "place",
+        "ethiopia",
+        "africa",
+        "roman-empire"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:ethiopia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "philina",
+          "label": "Philina"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "eucrite",
+      "type": "person",
+      "label": "Eucrite",
+      "description": "'A Stoic philosopher at Nicias''s banquet, presented as \"the last of the Stoics,\" who defends virtue as conformity to cosmic reason and achieves a serene death.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "philosopher",
+        "stoic"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:eucrite",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "faith",
+      "type": "concept",
+      "label": "Faith",
+      "description": "'The theological virtue of belief and trust in God — in \"Thaïs,\" the contested ground between Paphnuce''s militant orthodoxy, Nicias''s ironic detachment, and Thaïs''s transformative spiritual awakening.'",
+      "aliases": [
+        "Foi",
+        "Christian Faith",
+        "Belief"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "soteriology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:faith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "fasting",
+      "type": "concept",
+      "label": "Fasting",
+      "description": "'The voluntary abstention from food as a spiritual discipline — in \"Thaïs,\" fasting is the most visible mark of Paphnuce''s ascetic rigor, yet the novel quietly questions whether extreme abstinence serves the soul or merely feeds spiritual pride.'",
+      "aliases": [
+        "Jeûne",
+        "Abstinence",
+        "Mortification"
+      ],
+      "tags": [
+        "concept",
+        "monasticism",
+        "asceticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:fasting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        },
+        {
+          "type": "related",
+          "target": "sin",
+          "label": "Sin"
+        }
+      ]
+    },
+    {
+      "id": "flavien",
+      "type": "person",
+      "label": "Flavien",
+      "description": "\"Deacon and disciple of Paphnuce who assumes leadership of the monastery during Paphnuce's absence.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "deacon",
+        "monk",
+        "disciple"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:flavien",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "monastery-of-antinoe",
+          "label": "Monastery of Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        }
+      ]
+    },
+    {
+      "id": "front-matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Front Matter\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "thais:front-matter",
+      "relations": []
+    },
+    {
+      "id": "grace",
+      "type": "concept",
+      "label": "Grace",
+      "description": "'The unmerited divine favour that enables salvation — in \"Thaïs,\" the invisible force Paphnuce invokes to convert Thaïs, which ultimately transforms him instead.'",
+      "aliases": [
+        "Grâce",
+        "Divine Grace",
+        "Gratia"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "soteriology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:grace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "greece",
+      "type": "place",
+      "label": "Greece",
+      "description": "'The Hellenic world, the fountainhead of classical philosophy and culture, invoked throughout the novel as the intellectual baseline against which Christianity and other wisdom traditions are measured.'",
+      "aliases": [
+        "Grèce",
+        "Hellas"
+      ],
+      "tags": [
+        "place",
+        "greece",
+        "philosophy",
+        "classical-antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:greece",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "cos",
+          "label": "Cos"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "Italy"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "athens",
+          "label": "Athens"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        }
+      ]
+    },
+    {
+      "id": "grotte-des-nymphes",
+      "type": "place",
+      "label": "Grotte des Nymphes",
+      "description": "'The artificial grotto in Alexandria that served as Thaïs''s private retreat — a lavishly decorated chamber of sensual beauty, ultimately destroyed by Paphnuce''s purifying fire.'",
+      "aliases": [
+        "Grotto of the Nymphs",
+        "Cave of the Nymphs"
+      ],
+      "tags": [
+        "place",
+        "setting",
+        "alexandria"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:grotte-des-nymphes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "Eros"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "hell",
+      "type": "concept",
+      "label": "Hell",
+      "description": "'The destination of the damned in Christian eschatology — a theological concept that Paphnuce wields as a rhetorical weapon and that France treats with characteristic ironic ambiguity in \"Thaïs.\"'",
+      "aliases": [
+        "Enfer",
+        "Damnation",
+        "Perdition"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "eschatology"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:hell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "nicee",
+          "label": "Nicaea"
+        }
+      ]
+    },
+    {
+      "id": "hermit",
+      "type": "concept",
+      "label": "Hermit",
+      "description": "'A religious solitary who withdraws from society to live in the desert — in \"Thaïs,\" the hermit tradition of the Thebaid provides the spiritual lineage Paphnuce inhabits, with Saint Anthony as the archetype.'",
+      "aliases": [
+        "Ermite",
+        "Anchorite",
+        "Solitary"
+      ],
+      "tags": [
+        "concept",
+        "monasticism",
+        "desert-fathers"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:hermit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        }
+      ]
+    },
+    {
+      "id": "hermodore",
+      "type": "person",
+      "label": "Hermodore",
+      "description": "'Grand priest of Serapis in Alexandria, a dignified pagan philosopher who debates Christian doctrine at Cotta''s banquet in Part II of Thaïs.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "priest",
+        "pagan",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:hermodore",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "philina",
+          "label": "Philina"
+        },
+        {
+          "type": "related",
+          "target": "drose",
+          "label": "Drosé"
+        }
+      ]
+    },
+    {
+      "id": "holiness",
+      "type": "concept",
+      "label": "Holiness",
+      "description": "'The quality of being sacred, set apart for God — in \"Thaïs,\" holiness is the visible goal of the ascetic life, yet the novel probes whether the external signs of sanctity (austerity, reputation, miraculous power) reliably indicate inward holiness or merely its performance.'",
+      "aliases": [
+        "Sainteté",
+        "Sanctity",
+        "Sacredness"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:holiness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timocles"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "type": "place",
+      "label": "India",
+      "description": "'The distant eastern land of the Ganges, Gymnosophists, and ascetic wisdom, invoked in Anatole France''s Thaïs as an exemplar of alternative spiritual traditions beyond the Hellenistic and Christian worlds.'",
+      "aliases": [
+        "Inde"
+      ],
+      "tags": [
+        "place",
+        "india",
+        "philosophy",
+        "classical-antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:india",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "greece",
+          "label": "Greece"
+        },
+        {
+          "type": "related",
+          "target": "cos",
+          "label": "Cos"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "Italy",
+      "description": "'The Italian peninsula, heartland of the Roman Empire, referenced in the novel as a destination of travel and the source of the urban elites who honor the stylite Paphnuce.'",
+      "aliases": [
+        "Italie",
+        "Italian Peninsula"
+      ],
+      "tags": [
+        "place",
+        "italy",
+        "roman-empire",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:italy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Empire"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "greece",
+          "label": "Greece"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        }
+      ]
+    },
+    {
+      "id": "jerusalem",
+      "type": "place",
+      "label": "Jerusalem",
+      "description": "'The holy city of Jerusalem, invoked in Anatole France''s Thaïs as a symbol of the celestial paradise — the heavenly city that stands in luminous contrast to the earthly desert.'",
+      "aliases": [
+        "Jérusalem"
+      ],
+      "tags": [
+        "place",
+        "jerusalem",
+        "holy-city",
+        "christianity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:jerusalem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        }
+      ]
+    },
+    {
+      "id": "la-conversion-de-thais",
+      "type": "event",
+      "label": "La Conversion de Thaïs",
+      "description": "'The pivotal event of \"Thaïs\" — Paphnuce''s journey to Alexandria to convert the courtesan Thaïs, her renunciation of worldly life, and her enclosure in a desert convent, setting the novel''s tragic irony in motion.'",
+      "aliases": [
+        "The Conversion of Thaïs",
+        "Thaïs's Conversion"
+      ],
+      "tags": [
+        "event",
+        "conversion",
+        "redemption",
+        "plot"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:la-conversion-de-thais",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "vision",
+          "label": "Vision"
+        },
+        {
+          "type": "related",
+          "target": "albine",
+          "label": "Albina"
+        }
+      ]
+    },
+    {
+      "id": "le-banquet",
+      "type": "event",
+      "label": "Le Banquet",
+      "description": "'The philosophical banquet at Nicias''s house in Alexandria — the intellectual centerpiece of \"Thaïs\" (Part II), where Stoics, Epicureans, Skeptics, and a Christian abbot debate the nature of virtue, pleasure, and truth.'",
+      "aliases": [
+        "The Banquet",
+        "Nicias's Banquet",
+        "The Alexandrian Banquet"
+      ],
+      "tags": [
+        "event",
+        "banquet",
+        "philosophy",
+        "dialogue"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:le-banquet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "eucrite",
+          "label": "Eucrite"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "lollius",
+      "type": "person",
+      "label": "Lollius",
+      "description": "'A noble Roman of Alexandria who became Thaïs''s lover in her early career, whose brief and passionate affair marks the threshold of her adult life.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "roman",
+        "noble",
+        "lover"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:lollius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        },
+        {
+          "type": "related",
+          "target": "vivantius",
+          "label": "Vivantius"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "'The complex human experience of desire, attachment, and devotion — in \"Thaïs,\" the novel explores the fatal confusion of divine love (agape) with earthly love (eros), a confusion that destroys Paphnuce and transfigures Thaïs.'",
+      "aliases": [
+        "Amour",
+        "Amor",
+        "Caritas",
+        "Eros"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "marcus",
+      "type": "person",
+      "label": "Marcus",
+      "description": "'Marcus the Arian, a Christian theologian described as \"the Plato of the Christians\" who debates at the banquet in Part II of Thaïs.'",
+      "aliases": [
+        "Marcus l'Arien"
+      ],
+      "tags": [
+        "person",
+        "theologian",
+        "arian"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:marcus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "arius",
+          "label": "Arius"
+        }
+      ]
+    },
+    {
+      "id": "martyr",
+      "type": "concept",
+      "label": "Martyr",
+      "description": "'One who bears witness to faith through suffering and death — in \"Thaïs,\" the martyrs of the early Church serve as exemplars of constancy against which Paphnuce measures his own spiritual endurance, with increasingly troubling results.'",
+      "aliases": [
+        "Martyrdom",
+        "Martyrs"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "history",
+        "early-church"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:martyr",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "vivantius",
+          "label": "Vivantius"
+        }
+      ]
+    },
+    {
+      "id": "meditation",
+      "type": "concept",
+      "label": "Meditation",
+      "description": "'The practice of focused, wordless attention to divine things — in \"Thaïs,\" meditation is the inner discipline that distinguishes the true contemplative from the merely rigorous ascetic, yet it proves no guarantee against spiritual delusion when desire disguises itself as divine vision.'",
+      "aliases": [
+        "Méditation",
+        "Contemplation",
+        "Contemplative Prayer"
+      ],
+      "tags": [
+        "concept",
+        "monasticism",
+        "spirituality"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:meditation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "milet",
+      "type": "place",
+      "label": "Milet",
+      "description": "'Ancient Greek city on the coast of Ionia, referenced in the novel as the origin of fine wool and as the birthplace of the renowned courtesan Aspasia.'",
+      "aliases": [
+        "Miletus",
+        "Miletos"
+      ],
+      "tags": [
+        "place",
+        "asia-minor",
+        "classical",
+        "trade"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:milet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "athens",
+          "label": "Athens"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "miracle",
+      "type": "concept",
+      "label": "Miracle",
+      "description": "'An extraordinary event attributed to divine intervention — in \"Thaïs,\" miracles proliferate around Paphnuce after his ascent onto the column, yet the novel maintains an ironic distance, presenting the miracle-working saint as a figure whose public power grows in inverse proportion to his private spiritual integrity.'",
+      "aliases": [
+        "Miracles",
+        "Wonders",
+        "Signs",
+        "Prodigy"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "narrative"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:miracle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "syria",
+          "label": "Syria"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "flavien",
+          "label": "Flavien"
+        }
+      ]
+    },
+    {
+      "id": "monastery-of-antinoe",
+      "type": "organization",
+      "label": "Monastery of Antinoé",
+      "description": "'The monastic community at Antinoé in Upper Egypt, governed by Abbot Paphnuce — the spiritual headquarters of the novel''s ascetic world and the stage for its most intense dramas of faith and temptation.'",
+      "aliases": [
+        "Community of Antinoé",
+        "Monks of Antinoé"
+      ],
+      "tags": [
+        "organization",
+        "monastery",
+        "monasticism",
+        "desert-fathers"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:monastery-of-antinoe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid desert"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Antoine"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Sérapion"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "fasting",
+          "label": "Fasting"
+        },
+        {
+          "type": "related",
+          "target": "spirit",
+          "label": "Spiritual"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        }
+      ]
+    },
+    {
+      "id": "mort-de-thais",
+      "type": "event",
+      "label": "Mort de Thaïs",
+      "description": "'The death of Thaïs in the desert convent, the novel''s climax — a scene of mystical serenity for the saint and of devastating spiritual collapse for Paphnuce.'",
+      "aliases": [
+        "Death of Thaïs",
+        "The Death of Thaïs"
+      ],
+      "tags": [
+        "event",
+        "death",
+        "climax",
+        "plot"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:mort-de-thais",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "albine",
+          "label": "Albina"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "stylopolis",
+          "label": "Stylopolis"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "vision",
+          "label": "Vision"
+        }
+      ]
+    },
+    {
+      "id": "nazareth",
+      "type": "place",
+      "label": "Nazareth",
+      "description": "'The Galilean town where Jesus spent his childhood, referenced in *Thaïs* exclusively through the epithet \"Jésus de Nazareth\" in two visually striking passages.'",
+      "aliases": [
+        "Nazareth",
+        "Jesus of Nazareth"
+      ],
+      "tags": [
+        "place",
+        "biblical",
+        "christianity",
+        "jesus"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:nazareth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "vivantius",
+          "label": "Vivantius"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        }
+      ]
+    },
+    {
+      "id": "nicee",
+      "type": "place",
+      "label": "Nicée",
+      "description": "'Ancient city in Bithynia, site of the First Council of Nicaea in 325 AD, whose creed and canons defined orthodox Christian doctrine and feature in the theological polemics of the novel.'",
+      "aliases": [
+        "Nicaea",
+        "Nikaia"
+      ],
+      "tags": [
+        "place",
+        "council",
+        "early-christianity",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:nicee",
+      "relations": [
+        {
+          "type": "related",
+          "target": "asia",
+          "label": "Asia Minor"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "arius",
+          "label": "Arius"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "nicias",
+      "type": "person",
+      "label": "Nicias",
+      "description": "'A wealthy Epicurean philosopher of Alexandria, former lover of Thaïs and old friend of Paphnuce, whose urbane detachment highlights the novel''s conflict between worldly pleasure and ascetic renunciation.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "philosopher",
+        "epicurean"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:nicias",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "nile",
+      "type": "place",
+      "label": "Nile",
+      "description": "'The great river that sustains Egyptian civilization and defines the geographic and symbolic landscape of Anatole France''s Thaïs.'",
+      "aliases": [
+        "Nil",
+        "The Nile",
+        "Nile River",
+        "le Nil"
+      ],
+      "tags": [
+        "place",
+        "river",
+        "geography",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:nile",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Sérapion"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "palemon",
+      "type": "person",
+      "label": "Palémon",
+      "description": "'An aged desert monk and spiritual elder near Antinoé whose wisdom and humility guide Paphnuce at crucial moments of his spiritual journey.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "monk",
+        "desert-father",
+        "elder"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:palemon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Antoine"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paul-le-simple",
+          "label": "Paul"
+        }
+      ]
+    },
+    {
+      "id": "paphnuce",
+      "type": "person",
+      "label": "Paphnuce",
+      "description": "'The abbot of Antinoé and protagonist of \"Thaïs\" — an ascetic monk whose attempt to save the courtesan Thaïs becomes a journey into temptation, pride, and spiritual ruin.'",
+      "aliases": [
+        "Abbé d'Antinoé",
+        "Abbot of Antinoé"
+      ],
+      "tags": [
+        "person",
+        "monk",
+        "ascetic",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:paphnuce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paul-le-simple",
+          "label": "Paul le Simple"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        },
+        {
+          "type": "related",
+          "target": "nicee",
+          "label": "Nicaea"
+        }
+      ]
+    },
+    {
+      "id": "paphnuce-le-stylite",
+      "type": "event",
+      "label": "Paphnuce le Stylite",
+      "description": "'The episode in Part III in which Paphnuce, tormented by desire for Thaïs, climbs a ruined temple column near the Nile and lives as a stylite for over a year, attracting pilgrims, founding the city of Stylopolis, and performing reputed miracles — all while remaining consumed by the obsession he sought to escape.'",
+      "aliases": [
+        "Paphnuce the Stylite",
+        "The Stylite Episode",
+        "Paphnuce on the Column"
+      ],
+      "tags": [
+        "event",
+        "asceticism",
+        "stylite",
+        "penance"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:paphnuce-le-stylite",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        },
+        {
+          "type": "related",
+          "target": "vision",
+          "label": "Dream"
+        },
+        {
+          "type": "related",
+          "target": "flavien",
+          "label": "Flavien"
+        },
+        {
+          "type": "related",
+          "target": "stylopolis",
+          "label": "Stylopolis"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Serapion"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        },
+        {
+          "type": "related",
+          "target": "miracle",
+          "label": "Miracles"
+        },
+        {
+          "type": "related",
+          "target": "temptation",
+          "label": "Temptation"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "aristee",
+          "label": "Aristée"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "part-1-le-lotus",
+      "type": "chapter",
+      "label": "\"Part I: Le Lotus\"",
+      "description": "\"Chapter 1: Part I: Le Lotus\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "thais:part-1-le-lotus",
+      "relations": []
+    },
+    {
+      "id": "part-2-le-papyrus",
+      "type": "chapter",
+      "label": "\"Part II: Le Papyrus\"",
+      "description": "\"Chapter 2: Part II: Le Papyrus\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "thais:part-2-le-papyrus",
+      "relations": []
+    },
+    {
+      "id": "part-3-euphorbe",
+      "type": "chapter",
+      "label": "\"Part III: L'Euphorbe\"",
+      "description": "\"Chapter 3: Part III: L'Euphorbe\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "thais:part-3-euphorbe",
+      "relations": []
+    },
+    {
+      "id": "paul-le-simple",
+      "type": "person",
+      "label": "Paul le Simple",
+      "description": "'A simple-minded desert monk whose childlike faith grants him the gift of spiritual vision, seeing what the learned Paphnuce cannot perceive.'",
+      "aliases": [
+        "Paul the Simple"
+      ],
+      "tags": [
+        "person",
+        "monk",
+        "desert-father",
+        "visionary"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:paul-le-simple",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Antoine"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "penance",
+      "type": "concept",
+      "label": "Penance",
+      "description": "'The practice of self-imposed suffering to atone for sin — in \"Thaïs,\" the ascetic framework that governs both Paphnuce''s desert discipline and Thaïs''s final transformation.'",
+      "aliases": [
+        "Pénitence",
+        "Penitence",
+        "Repentance"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:penance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid desert"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        }
+      ]
+    },
+    {
+      "id": "philina",
+      "type": "person",
+      "label": "Philina",
+      "description": "\"A courtesan who appears at the banquet scene, admiring Thaïs's beauty and later entangled in the evening's sensual chaos.\"",
+      "aliases": [],
+      "tags": [
+        "person",
+        "courtesan"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:philina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "drose",
+          "label": "Drosé"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "type": "concept",
+      "label": "Philosophy",
+      "description": "'The rational inquiry into truth, virtue, and the good life — in \"Thaïs,\" it is embodied by Nicias and the banquet guests, whose Hellenistic sophistication stands in ironic contrast to Paphnuceʼs ascetic certainty.'",
+      "aliases": [
+        "Philosophie",
+        "Philosophia"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "hellenism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:philosophy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "athens",
+          "label": "Athènes"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "eucrite",
+          "label": "Eucrite"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        }
+      ]
+    },
+    {
+      "id": "pleasure",
+      "type": "concept",
+      "label": "Pleasure",
+      "description": "'The sensory gratification that ascetic Christianity condemns and Epicurean philosophy examines — in \"Thaïs,\" the central force against which Paphnuce defines himself, and the life Thaïs must renounce.'",
+      "aliases": [
+        "Plaisir",
+        "Volupté",
+        "Hedonism"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:pleasure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        }
+      ]
+    },
+    {
+      "id": "prayer",
+      "type": "concept",
+      "label": "Prayer",
+      "description": "'The central monastic practice of direct address to God — in \"Thaïs,\" prayer is both a discipline of the Desert Fathers and the medium through which Paphnuce''s inner transformation becomes visible.'",
+      "aliases": [
+        "Prière",
+        "Orison",
+        "Supplication"
+      ],
+      "tags": [
+        "concept",
+        "monasticism",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:prayer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "prise-de-voile",
+      "type": "event",
+      "label": "Prise de Voile",
+      "description": "'The ceremony in which Thaïs, newly converted by Paphnuce, takes the veil at the desert convent governed by the abbess Albina — her formal entry into the monastic life.'",
+      "aliases": [
+        "Thaïs Takes the Veil",
+        "The Veiling of Thaïs"
+      ],
+      "tags": [
+        "event",
+        "ritual",
+        "conversion",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:prise-de-voile",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "albine",
+          "label": "Albina"
+        }
+      ]
+    },
+    {
+      "id": "purity",
+      "type": "concept",
+      "label": "Purity",
+      "description": "'The state of being free from moral or spiritual contamination — in \"Thaïs,\" purity is the ascetic ideal Paphnuce pursues through mortification, but the novel relentlessly reveals that physical abstinence does not guarantee spiritual cleanness, and may in fact obscure a deeper impurity of pride.'",
+      "aliases": [
+        "Pureté",
+        "Chastity",
+        "Cleanliness"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:purity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "siloam",
+          "label": "Siloé"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        }
+      ]
+    },
+    {
+      "id": "racotis",
+      "type": "place",
+      "label": "Racôtis",
+      "description": "'The ancient Egyptian quarter of Alexandria, built over the original fishing settlement of Rhakotis, where Thaïs lives in a luxurious house near the tomb of Alexander — the novel’s emblem of pre-Ptolemaic Egypt persisting within the Hellenistic metropolis.'",
+      "aliases": [
+        "Racotis"
+      ],
+      "tags": [
+        "place",
+        "alexandria",
+        "egypt"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:racotis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "hell",
+          "label": "Hell"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "redemption",
+      "type": "concept",
+      "label": "Redemption",
+      "description": "'The act of being saved from sin — in \"Thaïs,\" redemption is not a single event but a mystery unfolding across multiple souls, where the one who seeks to redeem another may be the one most in need of it.'",
+      "aliases": [
+        "Rédemption"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "soteriology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:redemption",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "type": "place",
+      "label": "Rome",
+      "description": "'The imperial capital of the Roman Empire, referenced in the novel as both the seat of the Christian community in the West and the source of the imperial power that alternately persecutes and protects the faithful.'",
+      "aliases": [
+        "Roma",
+        "Roman Empire"
+      ],
+      "tags": [
+        "place",
+        "rome",
+        "imperial-capital",
+        "christianity"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "sacrifice",
+      "type": "concept",
+      "label": "Sacrifice",
+      "description": "'The offering of something precious to God — in \"Thaïs,\" sacrifice appears in multiple registers: the ascetic''s self-denial, Christ''s crucifixion, and ultimately the question of whether Paphnuce''s sacrifice of human connection for spiritual purity is accepted or merely wasted.'",
+      "aliases": [
+        "Sacrifice méritoire",
+        "Holocauste",
+        "Offrande",
+        "Self-denial"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "soteriology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:sacrifice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "jerusalem",
+          "label": "Jerusalem"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "salvation",
+      "type": "concept",
+      "label": "Salvation",
+      "description": "'The deliverance from sin and its consequences — in \"Thaïs,\" the declared goal of Paphnuce''s mission and the contested meaning of the novel''s climactic events.'",
+      "aliases": [
+        "Salut",
+        "Redemption",
+        "Deliverance"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "soteriology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:salvation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "serapion",
+      "type": "person",
+      "label": "Sérapion",
+      "description": "'An abbot of a large monastery near Antinoé, who initially doubts Paphnuce''s pillar scheme before submitting to his authority in Anatole France''s Thaïs.'",
+      "aliases": [
+        "Serapion",
+        "Ephrem et Sérapion"
+      ],
+      "tags": [
+        "person",
+        "abbot",
+        "monasticism",
+        "desert-father"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:serapion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        }
+      ]
+    },
+    {
+      "id": "siloam",
+      "type": "place",
+      "label": "Siloam",
+      "description": "'The Pool of Siloam in Jerusalem, invoked in *Thaïs* as a metaphor for spiritual cleansing and renewal in Paphnuce''s address to Thaïs.'",
+      "aliases": [
+        "Siloé",
+        "Pool of Siloam",
+        "Fountain of Siloé"
+      ],
+      "tags": [
+        "place",
+        "biblical",
+        "jerusalem",
+        "water",
+        "metaphor"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:siloam",
+      "relations": [
+        {
+          "type": "related",
+          "target": "jerusalem",
+          "label": "Jerusalem"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "silsile",
+      "type": "place",
+      "label": "Silsilé",
+      "description": "'A narrow granite gorge on the Nile in Upper Egypt where Paphnuce pauses on his journey to Alexandria and has visionary encounters with the Sphinx in Anatole France''s Thaïs.'",
+      "aliases": [
+        "Silsileh",
+        "Gebel Silsila"
+      ],
+      "tags": [
+        "place",
+        "egypt",
+        "nile",
+        "gorge"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:silsile",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce's"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thébaïde"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "sin",
+      "type": "concept",
+      "label": "Sin",
+      "description": "'The central moral category of \"Thaïs\" — simultaneously a theological doctrine, a psychological obsession, and the engine of the novel''s narrative of temptation and redemption.'",
+      "aliases": [
+        "Péché",
+        "Transgression"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "morality"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:sin",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "solitude",
+      "type": "concept",
+      "label": "Solitude",
+      "description": "'The state of being alone — in \"Thaïs,\" the desert solitude that the anchorites seek as the condition for encountering God, yet which proves to be the breeding ground for demons and temptation.'",
+      "aliases": [
+        "Solitude (monastic)"
+      ],
+      "tags": [
+        "concept",
+        "monasticism",
+        "desert-fathers"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:solitude",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "soul",
+      "type": "concept",
+      "label": "Soul",
+      "description": "'The immaterial essence of a human being — in \"Thaïs,\" the soul is the contested territory where God and demons, grace and desire, fight for dominion, and whose fate in eternity hangs on the outcome.'",
+      "aliases": [
+        "Âme",
+        "Anima"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "anthropology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:soul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        }
+      ]
+    },
+    {
+      "id": "sparta",
+      "type": "place",
+      "label": "Sparta",
+      "description": "'Ancient Greek city-state referenced in *Thaïs* in two registers: a philosophical fable about expiation and the mythological identification of Thaïs with Helen of Troy.'",
+      "aliases": [
+        "Sparte",
+        "Lacedaemon"
+      ],
+      "tags": [
+        "place",
+        "greece",
+        "mythology",
+        "helen-of-troy"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:sparta",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "athens",
+          "label": "Athens"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "spirit",
+      "type": "concept",
+      "label": "Spirit",
+      "description": "'The immaterial, incorruptible dimension of human nature and divine presence — in \"Thaïs,\" spirit is claimed by every character but inhabited authentically by almost none.'",
+      "aliases": [
+        "Esprit",
+        "Holy Spirit",
+        "Pneuma",
+        "Spiritual"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:spirit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "thebaide",
+          "label": "Thebaid"
+        }
+      ]
+    },
+    {
+      "id": "stylopolis",
+      "type": "place",
+      "label": "Stylopolis",
+      "description": "'The \"City of the Stylites,\" a settlement that springs up around Paphnuce''s pillar on the banks of the Nile, visited by Cotta during his inspection of the canals.'",
+      "aliases": [
+        "City of the Stylites"
+      ],
+      "tags": [
+        "place",
+        "egypt",
+        "monasticism",
+        "stylite",
+        "city"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:stylopolis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "aristee",
+          "label": "Aristée"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "syria",
+          "label": "Syria"
+        }
+      ]
+    },
+    {
+      "id": "syria",
+      "type": "place",
+      "label": "Syria",
+      "description": "'Roman province in the eastern Mediterranean, encompassing the city of Antioch and serving as an important context for early Christian persecution and diverse religious traditions in the novel.'",
+      "aliases": [
+        "Syrie",
+        "Roman Syria"
+      ],
+      "tags": [
+        "place",
+        "syria",
+        "region",
+        "roman-empire"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:syria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roman Empire"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "arabia",
+          "label": "Arabia"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        }
+      ]
+    },
+    {
+      "id": "temptation",
+      "type": "concept",
+      "label": "Temptation",
+      "description": "'The spiritual trial by which demons test the resolve of the faithful — in \"Thaïs,\" the force that progressively consumes Paphnuce after Thaïs''s conversion, exposing the fragility of ascetic discipline.'",
+      "aliases": [
+        "Tentation",
+        "Trial",
+        "Spiritual Testing"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:temptation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        }
+      ]
+    },
+    {
+      "id": "thais",
+      "type": "person",
+      "label": "Thaïs",
+      "description": "'The Alexandrian courtesan and actress whose conversion by Paphnuce and subsequent saintly death form the central arc of Anatole France''s novel \"Thaïs.\"'",
+      "aliases": [
+        "The Courtesan",
+        "The Actress"
+      ],
+      "tags": [
+        "person",
+        "courtesan",
+        "actress",
+        "protagonist"
+      ],
+      "quality": "featured",
+      "source_ref": "thais:thais",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "albine",
+          "label": "Albina"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        }
+      ]
+    },
+    {
+      "id": "thebaide",
+      "type": "place",
+      "label": "Thébaïde",
+      "description": "'The holy desert of Upper Egypt — heartland of Christian monasticism and spiritual battlefield where angels and demons wage their nightly wars in Anatole France''s Thaïs.'",
+      "aliases": [
+        "Thebaid",
+        "Thebaïde",
+        "Thebaid desert",
+        "Saint désert"
+      ],
+      "tags": [
+        "place",
+        "desert",
+        "monasticism",
+        "thebaid"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:thebaide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "angel",
+          "label": "Angel"
+        },
+        {
+          "type": "related",
+          "target": "demon",
+          "label": "Demon"
+        },
+        {
+          "type": "related",
+          "target": "ethiopia",
+          "label": "Éthiopie"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "antinoe",
+          "label": "Antinoé"
+        },
+        {
+          "type": "related",
+          "target": "ephrem",
+          "label": "Ephrem"
+        },
+        {
+          "type": "related",
+          "target": "serapion",
+          "label": "Sérapion"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        },
+        {
+          "type": "related",
+          "target": "nile",
+          "label": "Nile"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Antoine"
+        },
+        {
+          "type": "related",
+          "target": "palemon",
+          "label": "Palémon"
+        }
+      ]
+    },
+    {
+      "id": "timaessa",
+      "type": "person",
+      "label": "Timaessa",
+      "description": "'A Carian woman mentioned in a parable within Anatole France''s Thaïs, whose unhappy marriage triggered a chain of familial tragedy.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "carian",
+        "family"
+      ],
+      "quality": "basic",
+      "source_ref": "thais:timaessa",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Antoine"
+        }
+      ]
+    },
+    {
+      "id": "timocles",
+      "type": "person",
+      "label": "Timoclès",
+      "description": "'An elderly philosopher from Cos, of the Academy, who debates Paphnuce in Part I of Thaïs.'",
+      "aliases": [
+        "Timocles",
+        "Timoclès de Cos"
+      ],
+      "tags": [
+        "person",
+        "philosopher",
+        "academic"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:timocles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "cos",
+          "label": "Cos"
+        }
+      ]
+    },
+    {
+      "id": "truth",
+      "type": "concept",
+      "label": "Truth",
+      "description": "'The object of knowledge claimed by multiple competing authorities — in \"Thaïs,\" truth is advanced by ascetics, Epicureans, and Gnostics alike, yet the novel declines to award it definitively to any of them.'",
+      "aliases": [
+        "Vérité",
+        "Veritas"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:truth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "zenothemis",
+          "label": "Zénothémis"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "antioch",
+          "label": "Antioch"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        }
+      ]
+    },
+    {
+      "id": "virtue",
+      "type": "concept",
+      "label": "Virtue",
+      "description": "'Moral excellence as conceived in both classical philosophy and Christian asceticism — in \"Thaïs,\" a contested ideal debated at Nicias''s banquet, embodied in the desert, and complicated by the novel''s ironic treatment of sanctity.'",
+      "aliases": [
+        "Vertu",
+        "Moral Excellence",
+        "Arete"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:virtue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timocles"
+        }
+      ]
+    },
+    {
+      "id": "vision",
+      "type": "concept",
+      "label": "Vision",
+      "description": "'A supernatural sensory experience, often during sleep or ecstasy, through which divine or demonic forces communicate — in \"Thaïs,\" visions are the primary medium of Paphnuce''s spiritual unraveling.'",
+      "aliases": [
+        "Visions",
+        "Dream",
+        "Songe",
+        "Apparition"
+      ],
+      "tags": [
+        "concept",
+        "theology",
+        "monasticism"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:vision",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "demon",
+          "label": "Devil"
+        },
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "paul-le-simple",
+          "label": "Paul the Simple"
+        }
+      ]
+    },
+    {
+      "id": "vivantius",
+      "type": "person",
+      "label": "Vivantius",
+      "description": "'An exiled bishop of the early Alexandrian Church who presided over Thaïs''s childhood baptism and whose hands bore the marks of persecution.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "bishop",
+        "christian",
+        "martyr"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:vivantius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alexandrie",
+          "label": "Alexandria"
+        },
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "ahmes",
+          "label": "Ahmès"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        }
+      ]
+    },
+    {
+      "id": "wisdom",
+      "type": "concept",
+      "label": "Wisdom",
+      "description": "'The capacity for sound judgment and deep understanding — in \"Thaïs,\" wisdom is claimed by nearly every character but possessed by few, as the novel systematically tests philosophical, theological, and poetic claims to wisdom against the realities of human desire and suffering.'",
+      "aliases": [
+        "Sagesse",
+        "Prudence",
+        "Sophia"
+      ],
+      "tags": [
+        "concept",
+        "philosophy",
+        "theology"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:wisdom",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "timocles",
+          "label": "Timoclès"
+        },
+        {
+          "type": "related",
+          "target": "india",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "marcus",
+          "label": "Marcus"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "zenothemis",
+      "type": "person",
+      "label": "Zénothémis",
+      "description": "'A philosopher at the banquet in Part II of Thaïs, representing Platonic idealism and mystical speculation.'",
+      "aliases": [
+        "Zenothemis"
+      ],
+      "tags": [
+        "person",
+        "philosopher",
+        "platonic"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:zenothemis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "dorion",
+          "label": "Dorion"
+        },
+        {
+          "type": "related",
+          "target": "nicias",
+          "label": "Nicias"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "philina",
+          "label": "Philina"
+        },
+        {
+          "type": "related",
+          "target": "cotta",
+          "label": "Cotta"
+        },
+        {
+          "type": "related",
+          "target": "callicrate",
+          "label": "Callicrate"
+        },
+        {
+          "type": "related",
+          "target": "hermodore",
+          "label": "Hermodore"
+        },
+        {
+          "type": "related",
+          "target": "rome",
+          "label": "Roma"
+        }
+      ]
+    },
+    {
+      "id": "zozime",
+      "type": "person",
+      "label": "Zozime",
+      "description": "'An abbot of desert solitaries who appears in Part III, offering practical and military-minded counsel to Paphnuce.'",
+      "aliases": [],
+      "tags": [
+        "person",
+        "monk",
+        "abbot"
+      ],
+      "quality": "standard",
+      "source_ref": "thais:zozime",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thais",
+          "label": "Thaïs"
+        },
+        {
+          "type": "related",
+          "target": "paphnuce",
+          "label": "Paphnuce"
+        },
+        {
+          "type": "related",
+          "target": "eucrite",
+          "label": "Eucrite"
+        },
+        {
+          "type": "related",
+          "target": "egypt",
+          "label": "Egypt"
+        },
+        {
+          "type": "related",
+          "target": "antoine",
+          "label": "Saint Anthony"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+---
+description: "Gian-Luca’s worst times were in the afternoons, for he never quite knew whether to go home. If he sat beside the bar the…"
+id: 0235-Adam’s-Breed-f2fd45a0-ch076
+label: "Adam’s Breed · Book I · XIII · V"
+tags: ["chapter"]
+type: chapter
+---
+
+# V
+
+[074-001][[gian-luca-boselli|Gian-Luca]]’s worst times were in the afternoons, for he never quite knew whether to go home. If he sat beside the bar the [[the-padrona|Padrona]] did not come, but if he left [[the-capo|the Capo]] he always thought that she might have come if he had remained. At home would be [[teresa-boselli|Teresa]] who detested the Padrona and said so between her rows of knitting. She would say it from the cash-desk, from the shop or from the parlor, whenever she could do so with discretion. In the shop there would be [[fabio-boselli|Fabio]] very jubilant and proud, relating for the hundredth time his interview with [[francesco-millo|Millo]]. [[rocca|Rocca]] might look in a moment, slap Gian-Luca on the back and say; “*Ecco*, you are grand now, Generale!” Then [[nerone|Nerone]], who was genuinely pleased about Gian-Luca, was forever stumping round to see his favorite. He loved the boy, and consequently only saw his virtues—by contrast he detested [[rosa-varese|Rosa]]’s children.
+
+[074-002]“You are lucky, you old brigand!” he said one day to Fabio. “Now my Rosa’s children are disgusting. That [[geppe|Geppe]] will not work and he steals my cigarettes, and when I leave he does not guard the shop. As for [[berta|Berta]], she is awful, she speaks only Cockney English and what she would have us think is French; our language is no longer good enough for her, it seems, and also she is very vain and ugly.”
+
+[074-003]He would ramble on and on, always cross, always complaining, and finally would try to pick a quarrel with his friend. “Your prices are too high—you no longer sell good food—that is why you grow so proud and rich, no doubt.” Sometimes Rosa appeared too, just to pass the time of day, and if it were a weekend she brought her Berta with her. Berta worked for [[madame-germaine|Madame Germaine]]—née Smith and wedded Bulgin—who sold exclusive models in her shop near Wardour Street. Berta ran all the errands and took models home to clients—one in every dozen costumes might, with any luck, be French. Berta was temperamental and thought she loved Gian-Luca; she was always making eyes—enormous eyes. Her hair had grown more frizzy and, if possible, more black, and she wore it in a heavy pompadour. She refused to speak Italian, but had learnt a little French from the sisters at her convent school; this she tried hard to remember so that she could plague Nerone who loathed the French because about a hundred years before they had stolen those bronze stallions from St. Mark’s. For the rest she spoke in English; not the rather stilted English of Gian-Luca who had never really learnt to clip his words, but in the English of the workrooms; and she spoke it without accent, that is, of course without a foreign accent.
+
+[074-004]Gian-Luca loathed and feared her; she was always edging close, and he lived in mortal terror that one day she would kiss him. Her hand was always waiting to be squeezed or stroked or cuddled; he felt sure of this whenever he observed it. And so, when Berta came, which was as often as she could, Gian-Luca would rush back to the Capo. The bar would be deserted until the dinner-hour, still, it was at least a sanctuary from Berta.

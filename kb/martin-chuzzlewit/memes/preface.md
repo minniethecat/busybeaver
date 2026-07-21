@@ -1,0 +1,27 @@
+---
+description: "What is exaggeration to one class of minds and perceptions, is plain truth to another. That which is commonly called a long-sight, perceives in a prospect innum"
+id: preface
+label: "Preface"
+tags: ["chapter"]
+type: chapter
+---
+
+# Preface
+
+## Preface
+
+[P03-001] What is exaggeration to one class of minds and perceptions, is plain truth to another. That which is commonly called a long-sight, perceives in a prospect innumerable features and bearings nonexistent to a shortsighted person. I sometimes ask myself whether there may occasionally be a difference of this kind between some writers and some readers; whether it is *always* the writer who colours highly, or whether it is now and then the reader whose eye for colour is a little dull?
+
+[P03-002] On this head of exaggeration I have a positive experience, more curious than the speculation I have just set down. It is this: I have never touched a character precisely from the life, but some counterpart of that character has incredulously asked me: “Now really, did I ever really, see one like it?”
+
+[P03-003] All the [[seth-pecksniff|Pecksniff]] family upon earth are quite agreed, I believe, that Mr. Pecksniff is an exaggeration, and that no such character ever existed. I will not offer any plea on his behalf to so powerful and genteel a body, but will make a remark on the character of [[jonas-chuzzlewit|Jonas Chuzzlewit]].
+
+[P03-004] I conceive that the sordid coarseness and brutality of Jonas would be unnatural, if there had been nothing in his early education, and in the precept and example always before him, to engender and develop the vices that make him odious. But, so born and so bred; admired for that which made him hateful, and justified from his cradle in cunning, treachery, and avarice; I claim him as the legitimate issue of the father upon whom those vices are seen to recoil. And I submit that their recoil upon that old man, in his unhonoured age, is not a mere piece of poetical justice, but is the extreme exposition of a direct truth.
+
+[P03-005] I make this comment and solicit the reader’s attention to it in his or her consideration of this tale, because nothing is more common in real life than a want of profitable reflection on the causes of many vices and crimes that awaken the general horror. What is substantially true of families in this respect, is true of a whole commonwealth. As we sow, we reap. Let the reader go into the children’s side of any prison in England, or, I grieve to add, of many workhouses, and judge whether those are monsters who [[shame|disgrace]] our streets, people our hulks and penitentiaries, and overcrowd our penal colonies, or are creatures whom we have deliberately suffered to be bred for misery and ruin.
+
+[P03-006] The American portion of this story is in no other respect a caricature than as it is an exhibition, for the most part (Mr. Bevan excepted), of a ludicrous side, *only*, of the American character—of that side which was, four-and-twenty years ago, from its nature, the most obtrusive, and the most likely to be seen by such travellers as Young [[martin-chuzzlewit-jr|Martin]] and [[mark-tapley|Mark Tapley]]. As I had never, in writing fiction, had any disposition to soften what is ridiculous or wrong at home, so I then hoped that the good-humored people of the United States would not be generally disposed to quarrel with me for carrying the same usage abroad. I am happy to believe that my [[trust|confidence]] in that great nation was not misplaced.
+
+[P03-007] When this book was first published, I was given to understand, by some authorities, that the Watertoast Association and eloquence were beyond all bounds of belief. Therefore I record the fact that all that portion of Martin Chuzzlewit’s experiences is a literal paraphrase of some reports of public proceedings in the United States (especially of the proceedings of a certain Brandywine Association), which were printed in the *Times* newspaper in June and July, 1843, at about the time when I was engaged in writing those parts of the book; and which remain on the file of the *Times* newspaper, of course.
+
+[P03-008] In all my writings, I hope I have taken every available opportunity of showing the want of sanitary improvements in the neglected dwellings of the poor. Mrs. [[sarah-gamp|Sarah Gamp]] was, four-and-twenty years ago, a fair representation of the hired attendant on the poor in sickness. The hospitals of [[london|London]] were, in many respects, noble Institutions; in others, very defective. I think it not the least among the instances of their mismanagement, that Mrs. Betsey Prig was a fair specimen of a Hospital Nurse; and that the Hospitals, with their means and funds, should have left it to private humanity and enterprise to enter on an attempt to improve that class of persons—since, greatly improved through the agency of good women.

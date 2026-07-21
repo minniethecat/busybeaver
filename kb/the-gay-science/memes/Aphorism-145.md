@@ -1,0 +1,40 @@
+---
+description: ""
+id: Aphorism-145
+label: "Aphorism 145"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 145.
+
+### 145.
+
+
+*Danger of Vegetarians.*—The immense prevalence
+
+of rice-eating impels to the use of opium
+
+and narcotics, in like manner as the immense
+
+prevalence of potato-eating impels to the use
+
+of brandy:—it also impels, however, in its more
+
+subtle after-effects to modes of thought and feeling
+
+which operate narcotically. This is in accord with
+
+the fact that those who promote narcotic modes of
+
+thought and feeling, like those Indian teachers,
+
+praise a purely vegetable diet, and would like to
+
+make it a law for the masses: they want thereby
+
+to call forth and augment the need which *they* are
+
+in a position to satisfy.

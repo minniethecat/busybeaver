@@ -1,0 +1,5782 @@
+{
+  "book": "the-song-of-the-lark",
+  "title": "The Song of the Lark",
+  "description": "The Song of the Lark — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 183,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"云雀之歌\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:About",
+      "relations": []
+    },
+    {
+      "id": "Book-TOC",
+      "type": "chapter",
+      "label": "\"Table of Contents\"",
+      "description": "\"Original table of contents from The Song of the Lark (1915 edition).\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:Book-TOC",
+      "relations": []
+    },
+    {
+      "id": "Epilogue",
+      "type": "chapter",
+      "label": "\"Epilogue\"",
+      "description": "\"Epilogue of The Song of the Lark by Willa Cather.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:Epilogue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lily-fisher",
+          "label": "Lily Fisher"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "Front-Matter",
+      "type": "chapter",
+      "label": "\"The Song of the Lark — Front Matter\"",
+      "description": "\"Title page, author, and edition of The Song of the Lark by Willa Cather (1915).\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:Front-Matter",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "the-song-of-the-lark:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "PART I. FRIENDS OF CHILDHOOD"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "PART II. THE SONG OF THE LARK"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "PART III. STUPID FACES"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "ch34",
+          "label": "ch34"
+        },
+        {
+          "type": "related",
+          "target": "ch35",
+          "label": "ch35"
+        },
+        {
+          "type": "related",
+          "target": "ch36",
+          "label": "ch36"
+        },
+        {
+          "type": "related",
+          "target": "ch37",
+          "label": "ch37"
+        },
+        {
+          "type": "related",
+          "target": "ch38",
+          "label": "PART IV. THE ANCIENT PEOPLE"
+        },
+        {
+          "type": "related",
+          "target": "ch39",
+          "label": "ch39"
+        },
+        {
+          "type": "related",
+          "target": "ch40",
+          "label": "ch40"
+        },
+        {
+          "type": "related",
+          "target": "ch41",
+          "label": "ch41"
+        },
+        {
+          "type": "related",
+          "target": "ch42",
+          "label": "ch42"
+        },
+        {
+          "type": "related",
+          "target": "ch43",
+          "label": "ch43"
+        },
+        {
+          "type": "related",
+          "target": "ch44",
+          "label": "ch44"
+        },
+        {
+          "type": "related",
+          "target": "ch45",
+          "label": "ch45"
+        },
+        {
+          "type": "related",
+          "target": "ch46",
+          "label": "PART V. DR. ARCHIE'S VENTURE"
+        },
+        {
+          "type": "related",
+          "target": "ch47",
+          "label": "ch47"
+        },
+        {
+          "type": "related",
+          "target": "ch48",
+          "label": "ch48"
+        },
+        {
+          "type": "related",
+          "target": "ch49",
+          "label": "ch49"
+        },
+        {
+          "type": "related",
+          "target": "ch50",
+          "label": "ch50"
+        },
+        {
+          "type": "related",
+          "target": "ch51",
+          "label": "PART VI. KRONBORG"
+        },
+        {
+          "type": "related",
+          "target": "ch52",
+          "label": "ch52"
+        },
+        {
+          "type": "related",
+          "target": "ch53",
+          "label": "ch53"
+        },
+        {
+          "type": "related",
+          "target": "ch54",
+          "label": "ch54"
+        },
+        {
+          "type": "related",
+          "target": "ch55",
+          "label": "ch55"
+        },
+        {
+          "type": "related",
+          "target": "ch56",
+          "label": "ch56"
+        },
+        {
+          "type": "related",
+          "target": "ch57",
+          "label": "ch57"
+        },
+        {
+          "type": "related",
+          "target": "ch58",
+          "label": "ch58"
+        },
+        {
+          "type": "related",
+          "target": "ch59",
+          "label": "ch59"
+        },
+        {
+          "type": "related",
+          "target": "ch60",
+          "label": "ch60"
+        },
+        {
+          "type": "related",
+          "target": "ch61",
+          "label": "ch61"
+        },
+        {
+          "type": "related",
+          "target": "Epilogue",
+          "label": "Epilogue"
+        }
+      ]
+    },
+    {
+      "id": "andersen-family",
+      "type": "person",
+      "label": "The Andersen Family",
+      "description": "The Swedish-American Andersen family whose widowed daughter-in-law Irene Andersen lives at Mrs. Lorch's boarding house in Chicago, where Thea Kronborg boards during her early Chicago years.",
+      "aliases": [
+        "Oscar Andersen",
+        "Irene Andersen"
+      ],
+      "tags": [
+        "family",
+        "Chicago",
+        "boarding-house",
+        "Swedish-American"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:andersen-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "kohler-family",
+          "label": "kohler-family"
+        },
+        {
+          "type": "related",
+          "target": "mrs-lorch",
+          "label": "mrs-lorch"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "andor-harsanyi",
+          "label": "andor-harsanyi"
+        },
+        {
+          "type": "related",
+          "target": "tillie-kronborg",
+          "label": "tillie-kronborg"
+        }
+      ]
+    },
+    {
+      "id": "andor-harsanyi",
+      "type": "person",
+      "label": "Andor Harsanyi",
+      "description": "Thea Kronborg's first piano teacher in Chicago, a discerning Hungarian musician who recognized her extraordinary talent and laid the technical foundation for her artistic development.",
+      "aliases": [
+        "Mr. Harsanyi"
+      ],
+      "tags": [
+        "teacher",
+        "pianist",
+        "mentor",
+        "Chicago"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:andor-harsanyi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "madison-bowers"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "kohler-family",
+          "label": "kohler-family"
+        }
+      ]
+    },
+    {
+      "id": "anna-kronborg",
+      "type": "person",
+      "label": "Anna Kronborg",
+      "description": "Thea Kronborg's sister, whose choice of conventional marriage and domestic life represents the path Thea rejects in pursuit of her artistic vocation.",
+      "aliases": [
+        "Anna",
+        "Anna Kronborg"
+      ],
+      "tags": [
+        "sister",
+        "family",
+        "domestic"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:anna-kronborg",
+      "relations": []
+    },
+    {
+      "id": "art-institute-of-chicago",
+      "type": "place",
+      "label": "Art Institute of Chicago",
+      "description": "The art museum on Michigan Avenue where Thea Kronborg first encounters serious visual art, expanding her aesthetic horizons beyond music into the broader realm of artistic expression.",
+      "aliases": [
+        "the Art Institute",
+        "Chicago Art Institute"
+      ],
+      "tags": [
+        "Chicago",
+        "art",
+        "museum",
+        "Michigan Avenue",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:art-institute-of-chicago",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "the-loop",
+          "label": "the-loop"
+        },
+        {
+          "type": "related",
+          "target": "chicago-boarding-house",
+          "label": "chicago-boarding-house"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "panther-canyon"
+        }
+      ]
+    },
+    {
+      "id": "artistic-vocation",
+      "type": "concept",
+      "label": "Artistic Vocation",
+      "description": "The central thematic concept of The Song of the Lark — the idea that true art demands total dedication, self-discovery, and a kind of rebirth that transforms the artist's entire being.",
+      "aliases": [
+        "vocation",
+        "artistic calling",
+        "artist's life"
+      ],
+      "tags": [
+        "art",
+        "theme",
+        "development"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:artistic-vocation",
+      "relations": []
+    },
+    {
+      "id": "axel-kronborg",
+      "type": "person",
+      "label": "Axel Kronborg",
+      "description": "One of Thea Kronborg's younger brothers in Moonstone, a fat, lazy-eyed boy who shares Thea's childhood adventures and later becomes a clerk in a dry-goods store.",
+      "aliases": [],
+      "tags": [
+        "Kronborg-family",
+        "Moonstone",
+        "brother",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:axel-kronborg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gunner-kronborg",
+          "label": "gunner-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "charley-kronborg",
+          "label": "charley-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "reverend-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "ray-kennedy"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "Beauty and Art",
+      "description": "The aesthetic ideal that guides Thea Kronborg's artistic development—beauty understood not as superficial prettiness but as the deep formal perfection toward which all genuine art strives.",
+      "aliases": [
+        "beauty",
+        "aesthetics",
+        "artistic beauty"
+      ],
+      "tags": [
+        "aesthetics",
+        "art",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:beauty",
+      "relations": []
+    },
+    {
+      "id": "captain-harris",
+      "type": "person",
+      "label": "Captain Harris",
+      "description": "An old captain and pioneer resident of Moonstone, tall and imposing in his Stetson hat, associated with persistent rumors of a hidden silver hoard in the region.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "pioneer",
+        "mining",
+        "legend"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:captain-harris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "henry-biltmer",
+          "label": "henry-biltmer"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "panther-canyon"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 1\"",
+      "description": "\"Dr. Howard Archie had just come up from a game of pool with the Jewish clothier\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 2\"",
+      "description": "\"For the next four days it seemed to Dr. Archie that his patient might slip\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 3\"",
+      "description": "\"Being sick was all very well, but Thea knew from experience that starting back\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 4\"",
+      "description": "\"“And it was Summer, beautiful Summer!” Those were the closing words\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 5\"",
+      "description": "\"The children in the primary grades were sometimes required to make relief maps\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 6\"",
+      "description": "\"Seen from a balloon, Moonstone would have looked like a Noah’s ark town\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 7\"",
+      "description": "\"Thea’s twelfth birthday had passed a few weeks before her memorable call\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 8\"",
+      "description": "\"Winter was long in coming that year. Throughout October the days were bathed in\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "moonstone-orchestra",
+          "label": "The Moonstone Orchestra"
+        },
+        {
+          "type": "related",
+          "target": "lily-fisher",
+          "label": "Lily Fisher"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 9\"",
+      "description": "\"Mr. Kronborg considered Thea a remarkable child; but so were all his children\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "lily-fisher",
+          "label": "Lily Fisher"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 10\"",
+      "description": "\"Wunsch and old Fritz and Spanish Johnny celebrated Christmas together, so\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 11\"",
+      "description": "\"One Saturday, late in June, Thea arrived early for her lesson. As she perched\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 12\"",
+      "description": "\"One July night, when the moon was full, Dr. Archie was coming up from the\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 13\"",
+      "description": "\"At the beginning of June, when school closed, Thea had told Wunsch that she\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 14\"",
+      "description": "\"“Mother,” said Peter Kronborg to his wife one morning about two\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 15\"",
+      "description": "\"By the time Thea’s fifteenth birthday came round, she was established as\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 16\"",
+      "description": "\"The pleasantest experience Thea had that summer was a trip that she and her\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 17\"",
+      "description": "\"The summer flew by. Thea was glad when Ray Kennedy had a Sunday in town and\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 18\"",
+      "description": "\"Mr. Kronborg was too fond of his ease and too sensible to worry his children\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 19\"",
+      "description": "\"It is well for its peace of mind that the traveling public takes railroads so\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Part 1, Chapter 20\"",
+      "description": "\"On Monday morning, the day after Ray Kennedy’s funeral, Dr. Archie called\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 1\"",
+      "description": "\"Thea and Dr. Archie had been gone from Moonstone four days. On the afternoon of\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 2\"",
+      "description": "\"So Thea did not go to a boarding-house after all. When Dr. Archie left Chicago\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 3\"",
+      "description": "\"Andor Harsanyi had never had a pupil in the least like Thea Kronborg. He had\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 4\"",
+      "description": "\"After that evening Thea’s work with Harsanyi changed somewhat. He\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch24",
+      "relations": []
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 5\"",
+      "description": "\"By the first of February Thea had been in Chicago almost four months, and she\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 6\"",
+      "description": "\"One afternoon in April, Theodore Thomas, the conductor of the Chicago Symphony\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 7\"",
+      "description": "\"All through the lesson Thea had felt that Harsanyi was restless and abstracted.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 8\"",
+      "description": "\"One warm damp June night the Denver Express was speeding westward across the\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 9\"",
+      "description": "\"Thea reached Moonstone in the late afternoon, and all the Kronborgs were there\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 10\"",
+      "description": "\"Spanish Johnny had no shop of his own, but he kept a table and an order-book in\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"Part 2, Chapter 11\"",
+      "description": "\"Mrs. Kronborg had said that Thea was not to be disturbed on Sunday morning, and\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 1\"",
+      "description": "\"So many grinning, stupid faces! Thea was sitting by the window in\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 2\"",
+      "description": "\"During that winter Thea lived in so many places that sometimes at night when\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "lily-fisher",
+          "label": "Lily Fisher"
+        }
+      ]
+    },
+    {
+      "id": "ch34",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 3\"",
+      "description": "\"While her living arrangements were so casual and fortuitous, Bowers’s\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch34",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch35",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 4\"",
+      "description": "\"Thea noticed that Bowers took rather more pains with her now that Fred\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch35",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        }
+      ]
+    },
+    {
+      "id": "ch36",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 5\"",
+      "description": "\"March began badly for Thea. She had a cold during the first week, and after she\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch36",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "ch37",
+      "type": "chapter",
+      "label": "\"Part 3, Chapter 6\"",
+      "description": "\"“Thea,” said Fred Ottenburg one drizzly afternoon in April, while\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch37",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch38",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 1\"",
+      "description": "\"The San Francisco Mountain lies in Northern Arizona, above Flagstaff, and its\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch38",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch39",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 2\"",
+      "description": "\"Thea’s life at the Ottenburg ranch was simple and full of light, like the\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch39",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "Music"
+        }
+      ]
+    },
+    {
+      "id": "ch40",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 3\"",
+      "description": "\"The faculty of observation was never highly developed in Thea Kronborg. A great\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch40",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "ch41",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 4\"",
+      "description": "\"Thea had a superstitious feeling about the potsherds, and liked better to leave\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch41",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        }
+      ]
+    },
+    {
+      "id": "ch42",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 5\"",
+      "description": "\"One Sunday afternoon late in July old Henry Biltmer was rheumatically\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch42",
+      "relations": []
+    },
+    {
+      "id": "ch43",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 6\"",
+      "description": "\"Day was breaking over Panther Canyon. The gulf was cold and full of heavy,\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch43",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch44",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 7\"",
+      "description": "\"From the day of Fred’s arrival, he and Thea were unceasingly active. They\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch44",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch45",
+      "type": "chapter",
+      "label": "\"Part 4, Chapter 8\"",
+      "description": "\"On the first day of September Fred Ottenburg and Thea Kronborg left Flagstaff\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch45",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch46",
+      "type": "chapter",
+      "label": "\"Part 5, Chapter 1\"",
+      "description": "\"Dr. Howard Archie had come down to Denver for a meeting of the stockholders in\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch46",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch47",
+      "type": "chapter",
+      "label": "\"Part 5, Chapter 2\"",
+      "description": "\"Fred Ottenburg, smartly dressed for the afternoon, with a long black coat and\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch47",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch48",
+      "type": "chapter",
+      "label": "\"Part 5, Chapter 3\"",
+      "description": "\"On Friday afternoon Thea Kronborg was walking excitedly up and down her\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch48",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        }
+      ]
+    },
+    {
+      "id": "ch49",
+      "type": "chapter",
+      "label": "\"Part 5, Chapter 4\"",
+      "description": "\"At nine o’clock that evening our three friends were seated in the balcony\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch49",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "ch50",
+      "type": "chapter",
+      "label": "\"Part 5, Chapter 5\"",
+      "description": "\"Thea was to sail on Tuesday, at noon, and on Saturday Fred Ottenburg arranged\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch50",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "ch51",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 1\"",
+      "description": "\"It is a glorious winter day. Denver, standing on her high plateau under a\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch51",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        }
+      ]
+    },
+    {
+      "id": "ch52",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 2\"",
+      "description": "\"When Ottenburg and his host reached the house on Colfax Avenue, they went\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch52",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dresden",
+          "label": "Dresden"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch53",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 3\"",
+      "description": "\"For the first four years after Thea went to Germany things went on as usual\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch53",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "dresden",
+          "label": "Dresden"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        }
+      ]
+    },
+    {
+      "id": "ch54",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 4\"",
+      "description": "\"One bright morning late in February Dr. Archie was breakfasting comfortably at\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch54",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera-house",
+          "label": "Metropolitan Opera House"
+        }
+      ]
+    },
+    {
+      "id": "ch55",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 5\"",
+      "description": "\"When Archie got back to his hotel at two o’clock in the morning, he found\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch55",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "dresden",
+          "label": "Dresden"
+        }
+      ]
+    },
+    {
+      "id": "ch56",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 6\"",
+      "description": "\"It was late on the morning after the night she sang Elsa, when Thea\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch56",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "dresden",
+          "label": "Dresden"
+        }
+      ]
+    },
+    {
+      "id": "ch57",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 7\"",
+      "description": "\"On Saturday night Dr. Archie went with Fred Ottenburg to hear\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch57",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch58",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 8\"",
+      "description": "\"The “Ring of the Niebelungs” was to be given at the Metropolitan on\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch58",
+      "relations": []
+    },
+    {
+      "id": "ch59",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 9\"",
+      "description": "\"When Archie and Ottenburg dined with Thea on Saturday evening, they were served\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch59",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "ch60",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 10\"",
+      "description": "\"Ottenburg dismissed his taxicab at the 91st Street entrance of the Park and\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch60",
+      "relations": [
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "dresden",
+          "label": "Dresden"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        }
+      ]
+    },
+    {
+      "id": "ch61",
+      "type": "chapter",
+      "label": "\"Part 6, Chapter 11\"",
+      "description": "\"Dr. Archie saw nothing of Thea during the following week. After several\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-song-of-the-lark:ch61",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        }
+      ]
+    },
+    {
+      "id": "charley-kronborg",
+      "type": "person",
+      "label": "Charley Kronborg",
+      "description": "One of Thea Kronborg's older brothers in Moonstone, a practical-minded young man who works in a feed store and later a grocery, and whose skepticism about Thea's Chicago ambitions reflects small-town attitudes toward artistic aspiration.",
+      "aliases": [],
+      "tags": [
+        "Kronborg-family",
+        "Moonstone",
+        "brother",
+        "commerce"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:charley-kronborg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "axel-kronborg",
+          "label": "axel-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "gunner-kronborg",
+          "label": "gunner-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "reverend-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "anna-kronborg",
+          "label": "anna-kronborg"
+        }
+      ]
+    },
+    {
+      "id": "chicago",
+      "type": "place",
+      "label": "Chicago",
+      "description": "The city where Thea Kronborg pursues her musical training—a bustling urban center at the turn of the twentieth century that represents both professional opportunity and the competitive pressures of the music world.",
+      "aliases": [
+        "Chicago",
+        "the city"
+      ],
+      "tags": [
+        "city",
+        "Illinois",
+        "training",
+        "urban",
+        "music"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:chicago",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg's"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "Madame Andor"
+        },
+        {
+          "type": "related",
+          "target": "chicago-boarding-house",
+          "label": "The Chicago Boarding House"
+        },
+        {
+          "type": "related",
+          "target": "the-loop",
+          "label": "The Chicago Loop"
+        },
+        {
+          "type": "related",
+          "target": "the-concert-in-chicago",
+          "label": "The Chicago Concert"
+        },
+        {
+          "type": "related",
+          "target": "chicago-symphony",
+          "label": "Chicago Symphony Orchestra"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "metropolitan-opera"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "chicago-conservatory",
+          "label": "chicago-conservatory"
+        }
+      ]
+    },
+    {
+      "id": "chicago-boarding-house",
+      "type": "place",
+      "label": "The Chicago Boarding House",
+      "description": "The modest boarding house where Thea Kronborg lives during her Chicago student years—a space of privation and independence that marks her first extended experience of life away from family.",
+      "aliases": [],
+      "tags": [
+        "Chicago boarding student"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:chicago-boarding-house",
+      "relations": []
+    },
+    {
+      "id": "chicago-conservatory",
+      "type": "organization",
+      "label": "The Chicago Conservatory",
+      "description": "The music conservatory in Chicago where Thea Kronborg pursues her formal musical education—an institution representing the professionalization of American musical training.",
+      "aliases": [],
+      "tags": [
+        "conservatory Chicago training education"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:chicago-conservatory",
+      "relations": []
+    },
+    {
+      "id": "chicago-music-teachers-association",
+      "type": "organization",
+      "label": "Chicago Music Teachers Association",
+      "description": "The professional association of music teachers in Chicago—an institutional network that connects Thea Kronborg to the city's musical pedagogy community.",
+      "aliases": [],
+      "tags": [
+        "teachers Chicago association professional"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:chicago-music-teachers-association",
+      "relations": []
+    },
+    {
+      "id": "chicago-symphony",
+      "type": "organization",
+      "label": "The Chicago Symphony Orchestra",
+      "description": "The major orchestral institution in Chicago—part of the musical ecosystem in which Thea Kronborg trains and against whose standards her talent is measured.",
+      "aliases": [],
+      "tags": [
+        "orchestra Chicago symphony music"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:chicago-symphony",
+      "relations": []
+    },
+    {
+      "id": "cottonwood-grove",
+      "type": "place",
+      "label": "Cottonwood Grove",
+      "description": "A recurrent landscape feature near Dr. Archie's house in Moonstone, Colorado—a grove of cottonwood trees that Thea Kronborg often passes and where she pauses for reflection.",
+      "aliases": [
+        "Beemer's cottonwood grove",
+        "the cottonwood grove"
+      ],
+      "tags": [
+        "Moonstone",
+        "landscape",
+        "nature",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:cottonwood-grove",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "sand-hills",
+          "label": "sand-hills"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "kronborg-house"
+        }
+      ]
+    },
+    {
+      "id": "death-and-mortality",
+      "type": "concept",
+      "label": "Death and Mortality",
+      "description": "The recurring presence of death and mortality in The Song of the Lark, which serves as both a counterpoint to Thea Kronborg's artistic vitality and a deepening force in her understanding of life and art.",
+      "aliases": [
+        "death",
+        "mortality",
+        "loss",
+        "grief"
+      ],
+      "tags": [
+        "death",
+        "mortality",
+        "theme",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:death-and-mortality",
+      "relations": []
+    },
+    {
+      "id": "denver",
+      "type": "place",
+      "label": "Denver, Colorado",
+      "description": "The Colorado city that serves as a way station between Moonstone and the wider world—where Thea's trunk of music is held and where connections to the East are made.",
+      "aliases": [],
+      "tags": [
+        "Colorado transit connection"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:denver",
+      "relations": []
+    },
+    {
+      "id": "dick-brisbane",
+      "type": "person",
+      "label": "Dick Brisbane",
+      "description": "A Kansas City socialite and friend of Fred Ottenburg, described as a \"ripping beauty\" whose attentions to Fred provoke Thea Kronborg's jealousy during a New York encounter.",
+      "aliases": [
+        "Brisbane",
+        "young Brisbane"
+      ],
+      "tags": [
+        "Kansas-City",
+        "society",
+        "Ottenburg-circle",
+        "beauty"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:dick-brisbane",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "edith-beers",
+          "label": "edith-beers"
+        },
+        {
+          "type": "related",
+          "target": "otto-ottenburg",
+          "label": "otto-ottenburg"
+        }
+      ]
+    },
+    {
+      "id": "dr-archie",
+      "type": "person",
+      "label": "Dr. Archie",
+      "description": "The town physician of Moonstone, Colorado, whose recognition of Thea Kronborg's exceptional nature and whose lifelong, disinterested patronage make him the novel's most constant figure of support and the first witness to her artistic destiny.",
+      "aliases": [
+        "Dr. Howard Archie",
+        "Archie",
+        "Doctor"
+      ],
+      "tags": [
+        "physician",
+        "patron",
+        "mentor",
+        "friend"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:dr-archie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg's"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "Madame Andor"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedys-death",
+          "label": "ray-kennedys-death"
+        }
+      ]
+    },
+    {
+      "id": "dresden",
+      "type": "place",
+      "label": "Dresden",
+      "description": "The German city where Thea Kronborg studies and performs—a center of European opera culture and Wagnerian tradition that represents her connection to the Old World musical establishment.",
+      "aliases": [],
+      "tags": [
+        "Germany opera Europe"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:dresden",
+      "relations": []
+    },
+    {
+      "id": "dresden-opera",
+      "type": "organization",
+      "label": "The Dresden Opera",
+      "description": "The renowned opera company in Dresden where Thea Kronborg performs during her European sojourn—a historic institution representing the Old World operatic tradition.",
+      "aliases": [],
+      "tags": [
+        "Dresden opera Germany international"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:dresden-opera",
+      "relations": []
+    },
+    {
+      "id": "dresden-performance",
+      "type": "event",
+      "label": "The Dresden Performance",
+      "description": "Thea Kronborg's performance in Dresden—her entry into the European opera world and a crucial step in her international career.",
+      "aliases": [],
+      "tags": [
+        "Dresden Europe opera international"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:dresden-performance",
+      "relations": []
+    },
+    {
+      "id": "drs-first-visit",
+      "type": "event",
+      "label": "Dr. Archie's First Visit",
+      "description": "The novel's opening scene—Dr. Archie's visit to treat the young Thea, during which he first witnesses her extraordinary absorption in music at the Kronborg piano.",
+      "aliases": [],
+      "tags": [
+        "Archie visit childhood recognition"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:drs-first-visit",
+      "relations": []
+    },
+    {
+      "id": "edith-beers",
+      "type": "person",
+      "label": "Edith Beers",
+      "description": "Fred Ottenburg's fiancée from St. Louis, a wealthy, conventional society girl whose engagement prevents Fred from marrying Thea Kronborg.",
+      "aliases": [
+        "Miss Beers"
+      ],
+      "tags": [
+        "St-Louis",
+        "society",
+        "Ottenburg-family",
+        "engagement"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:edith-beers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        }
+      ]
+    },
+    {
+      "id": "everett-house",
+      "type": "place",
+      "label": "Everett House",
+      "description": "A hotel on Union Square in New York City where Dr. Archie stays during his visits and has pivotal conversations with Fred Ottenburg about Thea Kronborg's career and future.",
+      "aliases": [
+        "the Everett House"
+      ],
+      "tags": [
+        "New York",
+        "hotel",
+        "Union Square",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:everett-house",
+      "relations": [
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "new-york-city"
+        },
+        {
+          "type": "related",
+          "target": "the-waldorf",
+          "label": "the-waldorf"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera-house",
+          "label": "metropolitan-opera-house"
+        }
+      ]
+    },
+    {
+      "id": "fred-ottenburg",
+      "type": "person",
+      "label": "Fred Ottenburg",
+      "description": "A wealthy patron and connoisseur who introduces Thea Kronborg to Wagner's operas and to the wider world of art and romantic possibility, becoming both her most significant romantic relationship and a crucial facilitator of her career.",
+      "aliases": [
+        "Ottenburg",
+        "Fred"
+      ],
+      "tags": [
+        "patron",
+        "lover",
+        "connoisseur",
+        "Wagnerian"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:fred-ottenburg",
+      "relations": []
+    },
+    {
+      "id": "friendship",
+      "type": "concept",
+      "label": "Friendship and Mentorship",
+      "description": "The role of friendships and mentoring relationships in Thea Kronborg's artistic development, from childhood bonds in Moonstone to professional connections in the wider musical world.",
+      "aliases": [
+        "friendship",
+        "mentorship",
+        "relationships",
+        "guidance"
+      ],
+      "tags": [
+        "relationships",
+        "mentorship",
+        "development"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:friendship",
+      "relations": []
+    },
+    {
+      "id": "fritz-kohler",
+      "type": "person",
+      "label": "Fritz Kohler",
+      "description": "Moonstone town tailor, one of the \"first settlers\" and a German immigrant who learned his trade under a master in Vienna; husband of Mrs. Kohler, whose household hosts Professor Wunsch and Thea Kronborg's first piano lessons.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "German-immigrant",
+        "tailor",
+        "craftsman",
+        "Kohler-family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:fritz-kohler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kohler",
+          "label": "mrs-kohler"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "andor-harsanyi",
+          "label": "andor-harsanyi"
+        }
+      ]
+    },
+    {
+      "id": "german-musical-culture",
+      "type": "concept",
+      "label": "German Musical Culture",
+      "description": "The Germanic musical tradition—from Professor Wunsch's teaching to Wagner's operas—that provides the aesthetic framework for Thea Kronborg's artistic development and eventual career as a Wagnerian soprano.",
+      "aliases": [
+        "German music",
+        "Wagnerian tradition",
+        "Germanic"
+      ],
+      "tags": [
+        "music",
+        "Germany",
+        "Wagner",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:german-musical-culture",
+      "relations": []
+    },
+    {
+      "id": "german-musical-society",
+      "type": "organization",
+      "label": "The German Musical Society",
+      "description": "An organization of German-American musicians and music lovers in Chicago that maintains connections to European musical traditions and provides performance opportunities for young artists.",
+      "aliases": [],
+      "tags": [
+        "German music society Chicago"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:german-musical-society",
+      "relations": []
+    },
+    {
+      "id": "grace-johnson",
+      "type": "person",
+      "label": "Grace Johnson",
+      "description": "Daughter of Mrs. Livery Johnson, a Moonstone girl of Thea Kronborg's generation whose reaction to Thea's Chicago departure lingers as a note of small-town envy.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "youth",
+        "Johnson-family",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:grace-johnson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-livery-johnson",
+          "label": "mrs-livery-johnson"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        }
+      ]
+    },
+    {
+      "id": "gunner-kronborg",
+      "type": "person",
+      "label": "Gunner Kronborg",
+      "description": "One of Thea Kronborg's brothers—a member of the large Kronborg family whose ordinary life in Moonstone contrasts with Thea's extraordinary trajectory.",
+      "aliases": [
+        "Gunner",
+        "Gunner Kronborg"
+      ],
+      "tags": [
+        "brother",
+        "family",
+        "Moonstone"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:gunner-kronborg",
+      "relations": []
+    },
+    {
+      "id": "henry-biltmer",
+      "type": "person",
+      "label": "Henry Biltmer",
+      "description": "The elderly caretaker of the ranch near Panther Canyon, Arizona, who drives Thea Kronborg to the ancient cliff-dwellings and becomes a quiet witness to her transformative summer among the ruins.",
+      "aliases": [
+        "Old Biltmer",
+        "Old Henry Biltmer"
+      ],
+      "tags": [
+        "Panther-Canyon",
+        "ranch",
+        "caretaker",
+        "Arizona",
+        "guide"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:henry-biltmer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "panther-canyon"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "spanish-johnny"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "ray-kennedy"
+        }
+      ]
+    },
+    {
+      "id": "jesse-darcey",
+      "type": "person",
+      "label": "Jessie Darcey",
+      "description": "A popular professional soprano originally from Moonstone who serves as Thea Kronborg's rival on a concert tour, embodying the tension between crowd-pleasing performance and genuine artistic achievement.",
+      "aliases": [
+        "Miss Darcey"
+      ],
+      "tags": [
+        "singer",
+        "soprano",
+        "rival",
+        "Moonstone"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:jesse-darcey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "lily-fisher",
+          "label": "lily-fisher"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        }
+      ]
+    },
+    {
+      "id": "kohler-family",
+      "type": "person",
+      "label": "The Kohler Family",
+      "description": "The German immigrant family in Moonstone who host Professor Wunsch and provide the setting for Thea Kronborg's early piano lessons—a household that serves as a bridge between provincial Colorado and European musical culture.",
+      "aliases": [
+        "Kohler",
+        "Mrs. Kohler",
+        "the Kohlers"
+      ],
+      "tags": [
+        "family",
+        "German",
+        "Moonstone",
+        "music"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:kohler-family",
+      "relations": []
+    },
+    {
+      "id": "kohler-house",
+      "type": "place",
+      "label": "The Kohler House",
+      "description": "The home of the Kohler family outside Moonstone where Professor Wunsch resides and where Thea takes her first piano lessons—a bridge between provincial Colorado and European musical culture.",
+      "aliases": [],
+      "tags": [
+        "Moonstone German music"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:kohler-house",
+      "relations": []
+    },
+    {
+      "id": "kronborg-house",
+      "type": "place",
+      "label": "The Kronborg House",
+      "description": "The Kronborg family home in Moonstone—the Swedish Lutheran parsonage where Thea grows up, centered around the upright piano that is the focus of her childhood musical devotion.",
+      "aliases": [
+        "Kronborg house",
+        "the parsonage",
+        "Kronborg home"
+      ],
+      "tags": [
+        "home",
+        "Moonstone",
+        "family",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:kronborg-house",
+      "relations": []
+    },
+    {
+      "id": "kronborg-musical-household",
+      "type": "organization",
+      "label": "The Kronborg Musical Household",
+      "description": "The informal musical culture of the Kronborg household—centered around the parlor piano and the family's Swedish musical traditions—that forms Thea's earliest artistic environment.",
+      "aliases": [],
+      "tags": [
+        "household music Kronborg family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:kronborg-musical-household",
+      "relations": []
+    },
+    {
+      "id": "laramie-plain",
+      "type": "place",
+      "label": "Laramie Plain",
+      "description": "Wyoming frontier region near Laramie, where Dr. Archie spent his early years as a railroad man traversing the wagon-trails of the 1850s–60s.",
+      "aliases": [
+        "Laramie Plains"
+      ],
+      "tags": [
+        "wyoming",
+        "frontier",
+        "railroad",
+        "dr-archie"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:laramie-plain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Howard Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "san-felipe-mine",
+          "label": "San Felipe Mine"
+        },
+        {
+          "type": "related",
+          "target": "sand-hills",
+          "label": "The Sand Hills"
+        },
+        {
+          "type": "related",
+          "target": "denver",
+          "label": "Denver, Colorado"
+        }
+      ]
+    },
+    {
+      "id": "lars-larsen",
+      "type": "person",
+      "label": "Lars Larsen",
+      "description": "The Swedish Reformed Church minister in Moonstone who gave Thea Kronborg her first violin lessons and recognized her musical potential, a gentle but limited figure whose artistic sensibilities were constrained by his provincial congregation.",
+      "aliases": [
+        "Reverend Lars Larsen",
+        "Mr. Larsen"
+      ],
+      "tags": [
+        "clergy",
+        "violinist",
+        "teacher",
+        "Moonstone",
+        "Swedish-American"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:lars-larsen",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "reverend-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "spanish-johnny"
+        }
+      ]
+    },
+    {
+      "id": "lily-fisher",
+      "type": "person",
+      "label": "Lily Fisher",
+      "description": "Thea Kronborg's childhood rival in Moonstone—a Baptist girl whose musical ambitions and social standing make her Thea's first competitor in the small world of local performance.",
+      "aliases": [
+        "Lily",
+        "Lily Fisher"
+      ],
+      "tags": [
+        "rival",
+        "child",
+        "Moonstone",
+        "Baptist"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:lily-fisher",
+      "relations": []
+    },
+    {
+      "id": "lily-fisher-rivalry",
+      "type": "event",
+      "label": "The Lily Fisher Rivalry",
+      "description": "The childhood rivalry between Thea Kronborg and Lily Fisher over who will sing at a local event—Thea's first experience of musical competition.",
+      "aliases": [],
+      "tags": [
+        "rivalry childhood performance church"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:lily-fisher-rivalry",
+      "relations": []
+    },
+    {
+      "id": "madame-andor",
+      "type": "person",
+      "label": "Madame Andor",
+      "description": "Thea Kronborg's most important voice teacher—a figure who combines technical mastery with profound understanding of the artist's inner life, representing the ideal synthesis of pedagogy and spiritual guidance.",
+      "aliases": [
+        "Andor",
+        "Madame Andor"
+      ],
+      "tags": [
+        "teacher",
+        "voice",
+        "mentor",
+        "Chicago"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:madame-andor",
+      "relations": []
+    },
+    {
+      "id": "madame-gloeckler",
+      "type": "person",
+      "label": "Madame Gloeckler",
+      "description": "An opera singer at the Metropolitan Opera whose indisposition gives Thea Kronborg her breakthrough opportunity to perform in Wagner's \"Ring\" cycle.",
+      "aliases": [
+        "Gloeckler"
+      ],
+      "tags": [
+        "opera",
+        "Metropolitan-Opera",
+        "singer",
+        "Ring-cycle",
+        "Wagner"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:madame-gloeckler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "metropolitan-opera"
+        }
+      ]
+    },
+    {
+      "id": "madison-bowers",
+      "type": "person",
+      "label": "Madison Bowers",
+      "description": "Thea Kronborg's voice teacher in Chicago—a competent professional whose systematic approach represents the commercial realities of music education and the limitations of purely technical pedagogy.",
+      "aliases": [
+        "Bowers",
+        "Madison Bowers"
+      ],
+      "tags": [
+        "teacher",
+        "voice",
+        "Chicago",
+        "professional"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:madison-bowers",
+      "relations": []
+    },
+    {
+      "id": "main-street-moonstone",
+      "type": "place",
+      "label": "Main Street (Moonstone)",
+      "description": "The primary commercial thoroughfare of Moonstone, Colorado, that divides the town socially and geographically between its prosperous west side and humbler east side.",
+      "aliases": [
+        "Main Street"
+      ],
+      "tags": [
+        "moonstone",
+        "colorado",
+        "commerce",
+        "small-town"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:main-street-moonstone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Howard Archie"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "tillie-kronborg",
+          "label": "Tillie Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "sylvester-street",
+          "label": "Sylvester Street"
+        },
+        {
+          "type": "related",
+          "target": "mexican-town",
+          "label": "Mexican Town"
+        },
+        {
+          "type": "related",
+          "target": "cottonwood-grove",
+          "label": "Cottonwood Grove"
+        }
+      ]
+    },
+    {
+      "id": "metropolitan-opera",
+      "type": "organization",
+      "label": "The Metropolitan Opera",
+      "description": "The premier opera company of the United States—the institutional pinnacle of Thea Kronborg's career and the setting for her greatest professional triumphs as a Wagnerian soprano.",
+      "aliases": [
+        "the Met",
+        "Metropolitan Opera House"
+      ],
+      "tags": [
+        "opera",
+        "institution",
+        "New York",
+        "performance",
+        "Wagnerian"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:metropolitan-opera",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg's"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "swedish-lutheran-church-moonstone",
+          "label": "Moonstone church"
+        },
+        {
+          "type": "related",
+          "target": "chicago-conservatory",
+          "label": "Chicago Conservatory"
+        },
+        {
+          "type": "related",
+          "target": "chicago-symphony",
+          "label": "Chicago Symphony"
+        },
+        {
+          "type": "related",
+          "target": "the-voice",
+          "label": "the-voice"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera-house",
+          "label": "metropolitan-opera-house"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "new-york-city"
+        }
+      ]
+    },
+    {
+      "id": "metropolitan-opera-debut",
+      "type": "event",
+      "label": "Metropolitan Opera Debut",
+      "description": "Thea Kronborg's debut at the Metropolitan Opera in New York—the crowning professional achievement of her career.",
+      "aliases": [],
+      "tags": [
+        "Met debut opera climax"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:metropolitan-opera-debut",
+      "relations": []
+    },
+    {
+      "id": "metropolitan-opera-house",
+      "type": "place",
+      "label": "Metropolitan Opera House",
+      "description": "The Metropolitan Opera House in New York City—the institutional pinnacle of American musical culture where Thea Kronborg achieves her greatest professional triumphs as a Wagnerian soprano.",
+      "aliases": [],
+      "tags": [
+        "opera Met performance"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:metropolitan-opera-house",
+      "relations": []
+    },
+    {
+      "id": "mexican-town",
+      "type": "place",
+      "label": "Mexican Town",
+      "description": "Culturally distinct Mexican settlement across the ravine from Moonstone, home to Spanish Johnny and a source of musical and cultural richness in Thea's childhood.",
+      "aliases": [
+        "Mexican settlement"
+      ],
+      "tags": [
+        "moonstone",
+        "colorado",
+        "mexican-american",
+        "music",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mexican-town",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "mrs-tellamantez",
+          "label": "Mrs. Tellamantez"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Howard Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "kohler-family",
+          "label": "The Kohlers"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "main-street-moonstone",
+          "label": "Main Street (Moonstone)"
+        },
+        {
+          "type": "related",
+          "target": "sylvester-street",
+          "label": "Sylvester Street"
+        },
+        {
+          "type": "related",
+          "target": "cottonwood-grove",
+          "label": "Cottonwood Grove"
+        },
+        {
+          "type": "related",
+          "target": "sand-hills",
+          "label": "The Sand Hills"
+        }
+      ]
+    },
+    {
+      "id": "miss-spencer",
+      "type": "person",
+      "label": "Miss Spencer",
+      "description": "The Moonstone dressmaker who sews Thea Kronborg's wardrobe for her departure to Chicago, her craft an expression of small-town pride and maternal hope.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "dressmaker",
+        "fashion",
+        "sewing",
+        "Chicago-wardrobe"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:miss-spencer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "smiley-family",
+          "label": "smiley-family"
+        }
+      ]
+    },
+    {
+      "id": "money-and-art",
+      "type": "concept",
+      "label": "Money and Art",
+      "description": "The economic realities of artistic life—the tension between commercial necessity and artistic integrity that shapes Thea Kronborg's career in The Song of the Lark.",
+      "aliases": [
+        "patronage",
+        "economics",
+        "financial support"
+      ],
+      "tags": [
+        "economics",
+        "patronage",
+        "society",
+        "vocation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:money-and-art",
+      "relations": []
+    },
+    {
+      "id": "moonstone",
+      "type": "place",
+      "label": "Moonstone, Colorado",
+      "description": "The small railroad town in Colorado where Thea Kronborg grows up—a provincial world whose limitations and hidden richness shape her early life and provide the enduring foundation of her artistic identity.",
+      "aliases": [
+        "Moonstone",
+        "the town"
+      ],
+      "tags": [
+        "town",
+        "Colorado",
+        "setting",
+        "childhood",
+        "frontier"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:moonstone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "swedish-american-identity",
+          "label": "Swedish immigrants"
+        },
+        {
+          "type": "related",
+          "target": "german-musical-culture",
+          "label": "German exiles"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "The Kronborgs"
+        },
+        {
+          "type": "related",
+          "target": "swedish-lutheran-church-moonstone",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "moonstone-church",
+          "label": "Swedish Lutheran Church"
+        },
+        {
+          "type": "related",
+          "target": "theas-church-performance",
+          "label": "Thea's church performance"
+        },
+        {
+          "type": "related",
+          "target": "moonstone-opera-house",
+          "label": "Moonstone Opera House"
+        },
+        {
+          "type": "related",
+          "target": "train-depot",
+          "label": "The Train Depot"
+        },
+        {
+          "type": "related",
+          "target": "kohler-house",
+          "label": "The Kohler House"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedys-death",
+          "label": "ray-kennedys-death"
+        }
+      ]
+    },
+    {
+      "id": "moonstone-baptist-church",
+      "type": "organization",
+      "label": "Moonstone Baptist Church",
+      "description": "The Baptist church in Moonstone—home congregation of Lily Fisher and her family, representing a social and denominational rival to the Kronborgs' Swedish Lutheran church.",
+      "aliases": [],
+      "tags": [
+        "Baptist church Moonstone rival"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:moonstone-baptist-church",
+      "relations": []
+    },
+    {
+      "id": "moonstone-church",
+      "type": "place",
+      "label": "Moonstone Swedish Lutheran Church",
+      "description": "The country church where Reverend Kronborg ministers to the Swedish immigrant community—the religious and moral center of Thea's childhood world.",
+      "aliases": [],
+      "tags": [
+        "church Swedish Lutheran"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:moonstone-church",
+      "relations": []
+    },
+    {
+      "id": "moonstone-opera-house",
+      "type": "place",
+      "label": "Moonstone Opera House",
+      "description": "The modest performance venue in Moonstone where Thea Kronborg first experiences the magic of the stage and where local musical events introduce her to the world of public performance.",
+      "aliases": [],
+      "tags": [
+        "Moonstone performance local"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:moonstone-opera-house",
+      "relations": []
+    },
+    {
+      "id": "moonstone-orchestra",
+      "type": "organization",
+      "label": "The Moonstone Orchestra",
+      "description": "The local amateur orchestra of Moonstone—a modest ensemble that provides Thea Kronborg with her earliest experience of ensemble music-making and public performance.",
+      "aliases": [],
+      "tags": [
+        "orchestra Moonstone local amateur"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:moonstone-orchestra",
+      "relations": []
+    },
+    {
+      "id": "moonstone-school",
+      "type": "organization",
+      "label": "Moonstone Public School",
+      "description": "The public school in Moonstone that Thea Kronborg attends as a child—representing the ordinary educational path from which her artistic destiny diverges.",
+      "aliases": [],
+      "tags": [
+        "school Moonstone education childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:moonstone-school",
+      "relations": []
+    },
+    {
+      "id": "mrs-archie",
+      "type": "person",
+      "label": "Mrs. Archie",
+      "description": "Dr. Archie's wife, a figure of domestic constraint in Moonstone whose difficult personality and eventual death shape the doctor's life and his relationship with Thea Kronborg.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "domestic",
+        "marriage"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-archie",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "dr-archie"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        }
+      ]
+    },
+    {
+      "id": "mrs-harsanyi",
+      "type": "person",
+      "label": "Mrs. Harsanyi",
+      "description": "The wife of pianist Andor Harsanyi, a kind and perceptive presence who supports Thea Kronborg during her early Chicago years through hospitality and quiet encouragement.",
+      "aliases": [],
+      "tags": [
+        "Chicago",
+        "music",
+        "patron",
+        "Harsanyi-family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-harsanyi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "andor-harsanyi",
+          "label": "andor-harsanyi"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "dr-archie"
+        },
+        {
+          "type": "related",
+          "target": "andersen-family",
+          "label": "andersen-family"
+        },
+        {
+          "type": "related",
+          "target": "mrs-lorch",
+          "label": "mrs-lorch"
+        }
+      ]
+    },
+    {
+      "id": "mrs-kohler",
+      "type": "person",
+      "label": "Mrs. Kohler",
+      "description": "Wife of Fritz Kohler the town tailor, hostess to Professor Wunsch, and keeper of the German household garden where Thea Kronborg takes her first piano lessons in Moonstone.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "German-immigrant",
+        "music",
+        "household",
+        "Kohler-family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-kohler",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fritz-kohler",
+          "label": "fritz-kohler"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "mrs-harsanyi",
+          "label": "mrs-harsanyi"
+        }
+      ]
+    },
+    {
+      "id": "mrs-kronborg",
+      "type": "person",
+      "label": "Mrs. Kronborg",
+      "description": "Thea Kronborg's mother—a woman of strong character and practical wisdom whose domestic life represents both the world Thea comes from and the conventional path she must transcend in pursuit of her artistic vocation.",
+      "aliases": [
+        "Mrs. Kronborg",
+        "Mrs. Kronberg",
+        "Thea's mother"
+      ],
+      "tags": [
+        "mother",
+        "family",
+        "domestic",
+        "Moonstone"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-kronborg",
+      "relations": []
+    },
+    {
+      "id": "mrs-livery-johnson",
+      "type": "person",
+      "label": "Mrs. Livery Johnson",
+      "description": "A prominent Baptist woman in Moonstone, community busybody and social rival of Mrs. Kronborg, representing small-town respectability and its undercurrent of judgment.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "Baptist",
+        "church",
+        "gossip",
+        "rival"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-livery-johnson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "reverend-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "dr-archie"
+        }
+      ]
+    },
+    {
+      "id": "mrs-lorch",
+      "type": "person",
+      "label": "Mrs. Lorch",
+      "description": "The kindly, fat, jolly German-American landlady who runs the boarding house in Chicago where Thea Kronborg lives during her early studies with Andor Harsanyi.",
+      "aliases": [],
+      "tags": [
+        "landlady",
+        "Chicago",
+        "boarding-house",
+        "German-American"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-lorch",
+      "relations": [
+        {
+          "type": "related",
+          "target": "andersen-family",
+          "label": "andersen-family"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "lars-larsen",
+          "label": "lars-larsen"
+        },
+        {
+          "type": "related",
+          "target": "andor-harsanyi",
+          "label": "andor-harsanyi"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        }
+      ]
+    },
+    {
+      "id": "mrs-nathanmeyer",
+      "type": "person",
+      "label": "Mrs. Nathanmeyer",
+      "description": "Wealthy Chicago patroness and wife of Henry Nathanmeyer, hostess of Thea Kronborg's debut concert at her mansion, a \"heavy, powerful old Jewess\" with a great library and influential musical salon.",
+      "aliases": [],
+      "tags": [
+        "Chicago",
+        "patron",
+        "music",
+        "society",
+        "Jewish-American",
+        "Nathanmeyer-family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-nathanmeyer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kohler",
+          "label": "mrs-kohler"
+        }
+      ]
+    },
+    {
+      "id": "mrs-priest",
+      "type": "person",
+      "label": "Mrs. Priest",
+      "description": "A Chicago singer, student of Madison Bowers, whose chronic lateness, mannered delivery, and professional rivalry with Thea Kronborg make her a recurring figure in Part 3 of the novel.",
+      "aliases": [
+        "Katharine Priest"
+      ],
+      "tags": [
+        "singer",
+        "soprano",
+        "Chicago",
+        "rival"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-priest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "madison-bowers"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "jesse-darcey",
+          "label": "jesse-darcey"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        }
+      ]
+    },
+    {
+      "id": "mrs-tellamantez",
+      "type": "person",
+      "label": "Mrs. Tellamantez",
+      "description": "The silent, dignified Mexican wife of Spanish Johnny in Moonstone — a figure of \"awe-inspiring\" patience who endures her husband's alcoholism with stoic forbearance and whose dark, still presence haunts the novel's early chapters.",
+      "aliases": [
+        "Juan Tellamantez's wife"
+      ],
+      "tags": [
+        "Mexican",
+        "Moonstone",
+        "Mexican-Town",
+        "neighbor"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:mrs-tellamantez",
+      "relations": [
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "spanish-johnny"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "ray-kennedy"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "professor-wunsch"
+        },
+        {
+          "type": "related",
+          "target": "mexican-town",
+          "label": "mexican-town"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "type": "concept",
+      "label": "Music",
+      "description": "The central artistic medium through which Thea Kronborg discovers and fulfills her vocation, shaping every phase of her life from childhood in Moonstone to international opera career.",
+      "aliases": [
+        "musical",
+        "musician",
+        "singing"
+      ],
+      "tags": [
+        "art",
+        "vocation",
+        "opera",
+        "Wagnerian"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:music",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg's"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "Kronborgs'"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "the-piano",
+          "label": "Piano"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Bowers"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "Andor"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "New York"
+        },
+        {
+          "type": "related",
+          "target": "swedish-lutheran-church-moonstone",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "the-voice",
+          "label": "the-voice"
+        },
+        {
+          "type": "related",
+          "target": "artistic-vocation",
+          "label": "artistic-vocation"
+        },
+        {
+          "type": "related",
+          "target": "german-musical-culture",
+          "label": "german-musical-culture"
+        }
+      ]
+    },
+    {
+      "id": "music-education",
+      "type": "concept",
+      "label": "Music Education",
+      "description": "The system of music training and pedagogy that shapes Thea Kronborg's development from a small-town piano student to a professional opera singer, encompassing both formal instruction and the deeper, less formal processes of artistic growth.",
+      "aliases": [
+        "music training",
+        "music lessons",
+        "music teaching"
+      ],
+      "tags": [
+        "education",
+        "music",
+        "training",
+        "teachers"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:music-education",
+      "relations": []
+    },
+    {
+      "id": "nathanmeyer",
+      "type": "person",
+      "label": "Henry Nathanmeyer",
+      "description": "A wealthy Chicago patron who hosts musicales at his mansion and whose wife Mrs. Nathanmeyer arranges Thea Kronborg's first major concert opportunity in Chicago society.",
+      "aliases": [
+        "Mr. Nathanmeyer"
+      ],
+      "tags": [
+        "patron",
+        "Chicago",
+        "businessman",
+        "music"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:nathanmeyer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "metropolitan-opera"
+        }
+      ]
+    },
+    {
+      "id": "necker",
+      "type": "person",
+      "label": "Necker",
+      "description": "A fellow opera singer and colleague of Thea Kronborg — an established artist who sings Elizabeth in Tannhäuser and Isolde, known for her temperamental nature and eventual gracious recognition of Thea's talent.",
+      "aliases": [
+        "Madame Necker"
+      ],
+      "tags": [
+        "opera",
+        "singer",
+        "soprano",
+        "colleague",
+        "Germany"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:necker",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "the-met-stage",
+          "label": "the-met-stage"
+        },
+        {
+          "type": "related",
+          "target": "oliver-landry",
+          "label": "oliver-landry"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "madame-andor"
+        }
+      ]
+    },
+    {
+      "id": "new-york-city",
+      "type": "place",
+      "label": "New York City",
+      "description": "The city where Thea Kronborg achieves her greatest professional triumphs—home to the Metropolitan Opera and the pinnacle of American musical culture at the turn of the twentieth century.",
+      "aliases": [
+        "New York",
+        "Manhattan",
+        "the metropolis"
+      ],
+      "tags": [
+        "city",
+        "New York",
+        "career",
+        "Metropolitan"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:new-york-city",
+      "relations": []
+    },
+    {
+      "id": "new-york-opera-company",
+      "type": "organization",
+      "label": "The New York Opera Company",
+      "description": "The opera company in New York that provides Thea Kronborg with her first major American engagements before her Metropolitan Opera debut.",
+      "aliases": [],
+      "tags": [
+        "opera New York company performance"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:new-york-opera-company",
+      "relations": []
+    },
+    {
+      "id": "nordquist",
+      "type": "person",
+      "label": "Nordquist",
+      "description": "A Swedish singer and musician, Thea Kronborg's colleague in Europe whom she seriously considered marrying before ultimately deciding against it.",
+      "aliases": [
+        "Fru Nordquist"
+      ],
+      "tags": [
+        "Swedish",
+        "singer",
+        "musician",
+        "Europe",
+        "marriage-consideration"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:nordquist",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "dr-archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "oliver-landry",
+          "label": "oliver-landry"
+        }
+      ]
+    },
+    {
+      "id": "oliver-landry",
+      "type": "person",
+      "label": "Oliver Landry",
+      "description": "Thea Kronborg's pianist and close friend during her years in Germany, a sensitive young musician who provides steady support and companionship in the later chapters of the novel.",
+      "aliases": [
+        "Mr. Landry"
+      ],
+      "tags": [
+        "pianist",
+        "accompanist",
+        "Germany",
+        "friend"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:oliver-landry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "dr-archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "ottenburgs-wagner-introduction",
+      "type": "event",
+      "label": "Ottenburg's Wagner Introduction",
+      "description": "The moment Fred Ottenburg introduces Thea Kronborg to Wagner's operas—a pivotal expansion of her musical horizons that sets the course for her mature artistic identity.",
+      "aliases": [],
+      "tags": [
+        "Wagner Ottenburg introduction opera"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:ottenburgs-wagner-introduction",
+      "relations": []
+    },
+    {
+      "id": "otto-ottenburg",
+      "type": "person",
+      "label": "Otto Ottenburg",
+      "description": "Fred Ottenburg's father, a wealthy beer magnate whose fortune and social position shape his son's world and constrain his romantic choices.",
+      "aliases": [
+        "old Otto Ottenburg",
+        "Mr. Otto Ottenburg"
+      ],
+      "tags": [
+        "beer",
+        "brewing",
+        "wealth",
+        "business",
+        "Ottenburg-family",
+        "father"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:otto-ottenburg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "fred-ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "edith-beers",
+          "label": "edith-beers"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "dick-brisbane",
+          "label": "dick-brisbane"
+        }
+      ]
+    },
+    {
+      "id": "panther-canyon",
+      "type": "place",
+      "label": "Panther Canyon",
+      "description": "The ancient cliff-dweller canyon in Arizona where Thea Kronborg spends a transformative summer—the novel's central symbol of artistic authenticity and the primal source from which she derives her mature artistic identity.",
+      "aliases": [
+        "the canyon",
+        "Panther Canyon",
+        "cliff-dweller ruins"
+      ],
+      "tags": [
+        "canyon",
+        "Arizona",
+        "transformation",
+        "nature"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:panther-canyon",
+      "relations": []
+    },
+    {
+      "id": "panther-canyon-epiphany",
+      "type": "event",
+      "label": "The Panther Canyon Epiphany",
+      "description": "The transformative summer in Panther Canyon, Arizona, where Thea Kronborg discovers ancient pottery among cliff-dwelling ruins and experiences her deepest artistic revelation—the recognition that art is a primal human impulse rooted in daily life.",
+      "aliases": [
+        "Panther Canyon summer",
+        "the canyon revelation"
+      ],
+      "tags": [
+        "epiphany",
+        "transformation",
+        "canyon",
+        "cliff-dwellings",
+        "art"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:panther-canyon-epiphany",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "panther-canyon"
+        },
+        {
+          "type": "related",
+          "target": "the-voice",
+          "label": "the-voice"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedys-death",
+          "label": "ray-kennedys-death"
+        },
+        {
+          "type": "related",
+          "target": "artistic-vocation",
+          "label": "artistic-vocation"
+        },
+        {
+          "type": "related",
+          "target": "the-desert",
+          "label": "the-desert"
+        }
+      ]
+    },
+    {
+      "id": "paulina",
+      "type": "person",
+      "label": "Paulina",
+      "description": "The German partner of Professor Wunsch, a gardener in Moonstone who shares the itinerant music teacher's humble domestic life and fears his violent rages.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "German-American",
+        "gardener",
+        "Wunsch-household"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:paulina",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "spanish-johnny"
+        },
+        {
+          "type": "related",
+          "target": "mrs-tellamantez",
+          "label": "mrs-tellamantez"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        }
+      ]
+    },
+    {
+      "id": "professor-wunsch",
+      "type": "person",
+      "label": "Professor Wunsch",
+      "description": "Thea Kronborg's first music teacher in Moonstone—a German exile and broken artist whose recognition of her exceptional gift provides the earliest external validation of her artistic vocation.",
+      "aliases": [
+        "Wunsch",
+        "Fritz Wunsch",
+        "the Professor"
+      ],
+      "tags": [
+        "teacher",
+        "musician",
+        "German",
+        "mentor"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:professor-wunsch",
+      "relations": []
+    },
+    {
+      "id": "ray-kennedy",
+      "type": "person",
+      "label": "Ray Kennedy",
+      "description": "A railroad man and admirer of Thea Kronborg whose tragic death provides the financial means for her first serious musical training in Chicago—a gift from beyond the grave that changes the course of her life.",
+      "aliases": [
+        "Ray",
+        "Kennedy"
+      ],
+      "tags": [
+        "suitor",
+        "railroad",
+        "benefactor",
+        "tragedy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:ray-kennedy",
+      "relations": []
+    },
+    {
+      "id": "ray-kennedys-death",
+      "type": "event",
+      "label": "Ray Kennedy's Death",
+      "description": "The railroad accident that kills Ray Kennedy and provides Thea, through his life insurance, the financial means to leave Moonstone and pursue her musical education in Chicago—the first great catalyst of her artistic journey.",
+      "aliases": [],
+      "tags": [
+        "death",
+        "railroad",
+        "insurance",
+        "sacrifice",
+        "catalyst"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:ray-kennedys-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "ray-kennedy"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon-epiphany",
+          "label": "panther-canyon-epiphany"
+        },
+        {
+          "type": "related",
+          "target": "train-depot",
+          "label": "train-depot"
+        }
+      ]
+    },
+    {
+      "id": "religion",
+      "type": "concept",
+      "label": "Religion in Moonstone",
+      "description": "The Protestant religious culture of Moonstone, Colorado, which forms the moral and social backdrop of Thea Kronborg's childhood and from which her artistic vocation represents both a departure and a transformation.",
+      "aliases": [
+        "church",
+        "faith",
+        "Christianity",
+        "Protestantism"
+      ],
+      "tags": [
+        "religion",
+        "society",
+        "Moonstone",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:religion",
+      "relations": []
+    },
+    {
+      "id": "reverend-kronborg",
+      "type": "person",
+      "label": "Reverend Kronborg",
+      "description": "The Swedish Lutheran minister of Moonstone and Thea Kronborg's father—a man whose faith, dignity, and limitations define the religious and moral atmosphere of Thea's childhood.",
+      "aliases": [
+        "Reverend Kronborg",
+        "Mr. Kronborg",
+        "the minister"
+      ],
+      "tags": [
+        "minister",
+        "father",
+        "Swedish",
+        "Lutheran"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:reverend-kronborg",
+      "relations": []
+    },
+    {
+      "id": "san-felipe-mine",
+      "type": "place",
+      "label": "San Felipe Mine",
+      "description": "Colorado silver mine that made Dr. Archie's fortune, transforming him from a small-town physician into a wealthy Denver mining magnate.",
+      "aliases": [
+        "San Felipe silver mine",
+        "San Felipe Mining Company"
+      ],
+      "tags": [
+        "colorado",
+        "mining",
+        "silver",
+        "dr-archie"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:san-felipe-mine",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Howard Archie"
+        },
+        {
+          "type": "related",
+          "target": "captain-harris",
+          "label": "Captain Harris"
+        },
+        {
+          "type": "related",
+          "target": "mrs-archie",
+          "label": "Mrs. Archie"
+        },
+        {
+          "type": "related",
+          "target": "denver",
+          "label": "Denver, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "laramie-plain",
+          "label": "Laramie Plain"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        }
+      ]
+    },
+    {
+      "id": "sand-hills",
+      "type": "place",
+      "label": "The Sand Hills",
+      "description": "The white sand hills east of Moonstone, Colorado, a recurrent natural landmark that Thea Kronborg gazes upon throughout her childhood and misses deeply after leaving for Chicago.",
+      "aliases": [
+        "sand hills",
+        "the sand hills"
+      ],
+      "tags": [
+        "Moonstone",
+        "Colorado",
+        "landscape",
+        "nature",
+        "childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:sand-hills",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "cottonwood-grove",
+          "label": "cottonwood-grove"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "panther-canyon"
+        }
+      ]
+    },
+    {
+      "id": "smiley-family",
+      "type": "person",
+      "label": "The Smiley Family",
+      "description": "A Moonstone family who run the town's millinery and notion store, a social hub for the women of the community and a fixture of small-town commercial life.",
+      "aliases": [
+        "Mrs. Smiley",
+        "Jenny Smiley"
+      ],
+      "tags": [
+        "Moonstone",
+        "business",
+        "millinery",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:smiley-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-livery-johnson",
+          "label": "mrs-livery-johnson"
+        },
+        {
+          "type": "related",
+          "target": "tillie-kronborg",
+          "label": "tillie-kronborg"
+        }
+      ]
+    },
+    {
+      "id": "spanish-johnny",
+      "type": "person",
+      "label": "Spanish Johnny",
+      "description": "A Mexican musician in Moonstone whose spontaneous, emotionally direct musical tradition offers Thea Kronborg an alternative to the formal Germanic training of her piano lessons—a glimpse of music as communal joy rather than disciplined practice.",
+      "aliases": [
+        "Spanish Johnny",
+        "Johnny",
+        "the Mexican"
+      ],
+      "tags": [
+        "musician",
+        "Mexican",
+        "Moonstone",
+        "folk music"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:spanish-johnny",
+      "relations": []
+    },
+    {
+      "id": "swedish-american-identity",
+      "type": "concept",
+      "label": "Swedish-American Identity",
+      "description": "The ethnic and cultural identity of Swedish immigrants in the American West, as embodied by the Kronborg family and their community in Moonstone, Colorado.",
+      "aliases": [
+        "Swedish",
+        "immigrant",
+        "Scandinavian"
+      ],
+      "tags": [
+        "identity",
+        "immigration",
+        "culture"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:swedish-american-identity",
+      "relations": []
+    },
+    {
+      "id": "swedish-lutheran-church-moonstone",
+      "type": "organization",
+      "label": "Swedish Lutheran Church of Moonstone",
+      "description": "The country church where Reverend Kronborg ministers—the religious and moral center of Thea Kronborg's childhood, the institutional heart of the Swedish immigrant community, and the site of her earliest musical experiences.",
+      "aliases": [
+        "Moonstone church",
+        "the Swedish church"
+      ],
+      "tags": [
+        "church",
+        "Swedish",
+        "Lutheran",
+        "Moonstone",
+        "community"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:swedish-lutheran-church-moonstone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "Reverend Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "Metropolitan Opera"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "religion",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "kronborg-house"
+        }
+      ]
+    },
+    {
+      "id": "sylvester-street",
+      "type": "place",
+      "label": "Sylvester Street",
+      "description": "A quiet residential street in Moonstone, Colorado—\"the third parallel with Main Street\"—where Tillie Kronborg lives and where the town's social boundaries are quietly observed.",
+      "aliases": [
+        "Sylvester Street"
+      ],
+      "tags": [
+        "Moonstone",
+        "street",
+        "residential",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:sylvester-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "main-street-moonstone",
+          "label": "main-street-moonstone"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "kronborg-house"
+        }
+      ]
+    },
+    {
+      "id": "the-concert-in-chicago",
+      "type": "event",
+      "label": "The Chicago Concert",
+      "description": "A significant concert performance in Chicago that advances Thea Kronborg's professional reputation and brings her to wider attention in the musical community.",
+      "aliases": [],
+      "tags": [
+        "concert Chicago performance breakthrough"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-concert-in-chicago",
+      "relations": []
+    },
+    {
+      "id": "the-desert",
+      "type": "concept",
+      "label": "The American Desert",
+      "description": "The harsh yet beautiful desert landscape of the American West that serves as both physical setting and spiritual catalyst for Thea Kronborg's artistic awakening.",
+      "aliases": [
+        "desert",
+        "the West",
+        "frontier landscape",
+        "Panther Canyon"
+      ],
+      "tags": [
+        "nature",
+        "setting",
+        "transformation",
+        "West"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-desert",
+      "relations": []
+    },
+    {
+      "id": "the-kronborg-family",
+      "type": "organization",
+      "label": "The Kronborg Family",
+      "description": "The large Swedish-American family headed by Reverend and Mrs. Kronborg—the primary social unit of Thea's childhood and the source of both support and the limitations she must transcend.",
+      "aliases": [],
+      "tags": [
+        "family Swedish immigrant household"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-kronborg-family",
+      "relations": []
+    },
+    {
+      "id": "the-loop",
+      "type": "place",
+      "label": "The Chicago Loop",
+      "description": "The central business and cultural district of Chicago where Thea encounters the full energy and complexity of urban American life during her years of musical training.",
+      "aliases": [],
+      "tags": [
+        "Chicago urban culture"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-loop",
+      "relations": []
+    },
+    {
+      "id": "the-meeting-with-andor",
+      "type": "event",
+      "label": "The Meeting with Madame Andor",
+      "description": "Thea Kronborg's first meeting with Madame Andor—the beginning of the most important pedagogical relationship of her artistic development.",
+      "aliases": [],
+      "tags": [
+        "Andor meeting mentorship voice"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-meeting-with-andor",
+      "relations": []
+    },
+    {
+      "id": "the-met-stage",
+      "type": "place",
+      "label": "The Metropolitan Opera Stage",
+      "description": "The stage of the Metropolitan Opera House—the physical space where Thea Kronborg's years of sacrifice and training culminate in public triumph as a Wagnerian soprano.",
+      "aliases": [],
+      "tags": [
+        "stage opera performance triumph"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-met-stage",
+      "relations": []
+    },
+    {
+      "id": "the-piano",
+      "type": "concept",
+      "label": "The Piano",
+      "description": "The upright piano in the Kronborg parlor—Thea Kronborg's first instrument, the object around which her childhood musical awakening occurs, and a recurring symbol of her artistic origins throughout the novel.",
+      "aliases": [
+        "piano",
+        "keyboard",
+        "instrument"
+      ],
+      "tags": [
+        "music",
+        "instrument",
+        "childhood",
+        "training"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-piano",
+      "relations": []
+    },
+    {
+      "id": "the-railroad-company",
+      "type": "organization",
+      "label": "The Railroad Company",
+      "description": "The railroad company that employs Ray Kennedy and defines the economic character of Moonstone—the iron link between the small desert town and the wider world.",
+      "aliases": [],
+      "tags": [
+        "railroad company employment Ray Kennedy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-railroad-company",
+      "relations": []
+    },
+    {
+      "id": "the-stage",
+      "type": "concept",
+      "label": "The Stage",
+      "description": "The performance stage as the ultimate destination of Thea Kronborg's artistic journey—the physical space where talent, training, and destiny converge in the act of public performance.",
+      "aliases": [
+        "stage",
+        "performance",
+        "opera stage",
+        "concert hall"
+      ],
+      "tags": [
+        "performance",
+        "opera",
+        "theater",
+        "career"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-stage",
+      "relations": []
+    },
+    {
+      "id": "the-train",
+      "type": "concept",
+      "label": "The Train",
+      "description": "The railroad as both literal transportation network and symbolic vehicle of destiny in The Song of the Lark—the iron link between provincial Moonstone and the cosmopolitan world of art that Thea Kronborg must traverse.",
+      "aliases": [
+        "train",
+        "railroad",
+        "railway",
+        "journey"
+      ],
+      "tags": [
+        "transportation",
+        "journey",
+        "setting",
+        "mobility"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-train",
+      "relations": []
+    },
+    {
+      "id": "the-voice",
+      "type": "concept",
+      "label": "The Voice",
+      "description": "The human voice as Thea Kronborg's ultimate artistic medium—the instrument through which she achieves her destiny as a Wagnerian soprano, and a symbol of authentic self-expression throughout The Song of the Lark.",
+      "aliases": [
+        "voice",
+        "singing voice",
+        "soprano",
+        "vocal art"
+      ],
+      "tags": [
+        "music",
+        "voice",
+        "performance",
+        "opera",
+        "Wagnerian"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:the-voice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg's"
+        },
+        {
+          "type": "related",
+          "target": "the-piano",
+          "label": "piano"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon-epiphany",
+          "label": "Panther Canyon experience"
+        },
+        {
+          "type": "related",
+          "target": "swedish-lutheran-church-moonstone",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "Metropolitan Opera"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "artistic-vocation",
+          "label": "artistic-vocation"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "madame-andor"
+        }
+      ]
+    },
+    {
+      "id": "the-waldorf",
+      "type": "place",
+      "label": "The Waldorf Hotel",
+      "description": "Luxury hotel in New York City where Dr. Archie stays during his visits to Thea, serving as a symbol of the gilded world of opera patronage and East Coast wealth.",
+      "aliases": [
+        "Waldorf Astoria",
+        "the Waldorf"
+      ],
+      "tags": [
+        "new-york-city",
+        "hotel",
+        "opera",
+        "luxury"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:the-waldorf",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Howard Archie"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "edith-beers",
+          "label": "Edith Beers"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "Thea Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "new-york-city",
+          "label": "New York City"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "Metropolitan Opera"
+        },
+        {
+          "type": "related",
+          "target": "everett-house",
+          "label": "Everett House"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        }
+      ]
+    },
+    {
+      "id": "thea-kronborg",
+      "type": "person",
+      "label": "Thea Kronborg",
+      "description": "The protagonist of The Song of the Lark — a Swedish-American girl from Moonstone, Colorado, who rises from provincial obscurity to become an internationally celebrated Wagnerian soprano, embodying Willa Cather's most ambitious portrait of the female artist.",
+      "aliases": [
+        "Thea",
+        "Kronborg",
+        "Miss Kronborg",
+        "Thea Kronberg"
+      ],
+      "tags": [
+        "protagonist",
+        "singer",
+        "soprano",
+        "artist",
+        "Wagnerian"
+      ],
+      "quality": "featured",
+      "source_ref": "the-song-of-the-lark:thea-kronborg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "Moonstone, Colorado"
+        },
+        {
+          "type": "related",
+          "target": "kronborg-house",
+          "label": "Kronborg family's"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "Chicago"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon",
+          "label": "Panther Canyon"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "Metropolitan Opera"
+        },
+        {
+          "type": "related",
+          "target": "reverend-kronborg",
+          "label": "Reverend Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "Mrs. Kronborg"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "dr-archie",
+          "label": "Dr. Archie"
+        },
+        {
+          "type": "related",
+          "target": "professor-wunsch",
+          "label": "Professor Wunsch"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedy",
+          "label": "Ray Kennedy"
+        },
+        {
+          "type": "related",
+          "target": "madison-bowers",
+          "label": "Madison Bowers"
+        },
+        {
+          "type": "related",
+          "target": "madame-andor",
+          "label": "Madame Andor"
+        },
+        {
+          "type": "related",
+          "target": "panther-canyon-epiphany",
+          "label": "Panther Canyon epiphany"
+        },
+        {
+          "type": "related",
+          "target": "theas-chicago-debut",
+          "label": "debut in Chicago"
+        },
+        {
+          "type": "related",
+          "target": "fred-ottenburg",
+          "label": "Fred Ottenburg"
+        },
+        {
+          "type": "related",
+          "target": "spanish-johnny",
+          "label": "Spanish Johnny"
+        },
+        {
+          "type": "related",
+          "target": "the-voice",
+          "label": "the-voice"
+        },
+        {
+          "type": "related",
+          "target": "ray-kennedys-death",
+          "label": "ray-kennedys-death"
+        },
+        {
+          "type": "related",
+          "target": "swedish-lutheran-church-moonstone",
+          "label": "swedish-lutheran-church-moonstone"
+        }
+      ]
+    },
+    {
+      "id": "theas-chicago-debut",
+      "type": "event",
+      "label": "Thea's Chicago Debut",
+      "description": "Thea Kronborg's first significant public performance in Chicago—a milestone that marks her transition from student to emerging professional singer.",
+      "aliases": [],
+      "tags": [
+        "Chicago debut performance voice"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theas-chicago-debut",
+      "relations": []
+    },
+    {
+      "id": "theas-church-performance",
+      "type": "event",
+      "label": "Thea's Church Performance",
+      "description": "Thea Kronborg's first public performance at her father's church—an early glimpse of the stage presence that will define her career.",
+      "aliases": [],
+      "tags": [
+        "church Moonstone performance childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theas-church-performance",
+      "relations": []
+    },
+    {
+      "id": "theas-first-piano-lesson",
+      "type": "event",
+      "label": "Thea's First Piano Lesson",
+      "description": "Thea Kronborg's first piano lesson with Professor Wunsch at the Kohler house—the beginning of her formal musical training.",
+      "aliases": [],
+      "tags": [
+        "piano lesson Wunsch childhood"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theas-first-piano-lesson",
+      "relations": []
+    },
+    {
+      "id": "theas-new-york-arrival",
+      "type": "event",
+      "label": "Thea's Arrival in New York",
+      "description": "Thea Kronborg's arrival in New York City—the beginning of the final chapter of her professional ascent and her entry into the highest echelon of American musical life.",
+      "aliases": [],
+      "tags": [
+        "New York arrival career transition"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theas-new-york-arrival",
+      "relations": []
+    },
+    {
+      "id": "theas-wagnerian-debut",
+      "type": "event",
+      "label": "Thea's Wagnerian Debut",
+      "description": "Thea Kronborg's debut in a Wagnerian role—the fulfillment of years of training and the moment she claims her identity as a dramatic soprano.",
+      "aliases": [],
+      "tags": [
+        "Wagner debut opera triumph"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theas-wagnerian-debut",
+      "relations": []
+    },
+    {
+      "id": "theodore-thomas",
+      "type": "person",
+      "label": "Theodore Thomas",
+      "description": "The renowned conductor of the Chicago Orchestra, a historical figure who appears in the novel as an arbiter of musical talent consulted about Thea Kronborg's potential.",
+      "aliases": [],
+      "tags": [
+        "Chicago",
+        "music",
+        "conductor",
+        "historical-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:theodore-thomas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "andor-harsanyi",
+          "label": "andor-harsanyi"
+        },
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "chicago",
+          "label": "chicago"
+        },
+        {
+          "type": "related",
+          "target": "music",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "metropolitan-opera",
+          "label": "metropolitan-opera"
+        }
+      ]
+    },
+    {
+      "id": "thor-kronborg",
+      "type": "person",
+      "label": "Thor Kronborg",
+      "description": "One of Thea Kronborg's brothers—a member of the large Kronborg family whose ordinary life in Moonstone contrasts with Thea's extraordinary trajectory.",
+      "aliases": [
+        "Thor",
+        "Thor Kronborg"
+      ],
+      "tags": [
+        "brother",
+        "family",
+        "Moonstone"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:thor-kronborg",
+      "relations": []
+    },
+    {
+      "id": "tillie-kronborg",
+      "type": "person",
+      "label": "Tillie Kronborg",
+      "description": "Thea Kronborg's aunt and Mrs. Kronborg's sister-in-law, a warmhearted, garrulous woman whose enthusiastic admiration of Thea provides comic relief and a foil to Thea's own seriousness.",
+      "aliases": [],
+      "tags": [
+        "Moonstone",
+        "Kronborg-family",
+        "comic-relief",
+        "aunt"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:tillie-kronborg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "thea-kronborg",
+          "label": "thea-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "mrs-kronborg",
+          "label": "mrs-kronborg"
+        },
+        {
+          "type": "related",
+          "target": "moonstone",
+          "label": "moonstone"
+        },
+        {
+          "type": "related",
+          "target": "andersen-family",
+          "label": "andersen-family"
+        },
+        {
+          "type": "related",
+          "target": "mrs-livery-johnson",
+          "label": "mrs-livery-johnson"
+        }
+      ]
+    },
+    {
+      "id": "train-depot",
+      "type": "place",
+      "label": "Moonstone Train Depot",
+      "description": "The railroad station where trains arrive from and depart for the wider world—the physical threshold between Thea Kronborg's provincial childhood and her artistic destiny.",
+      "aliases": [],
+      "tags": [
+        "railroad departure travel"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:train-depot",
+      "relations": []
+    },
+    {
+      "id": "wagner-society",
+      "type": "organization",
+      "label": "The Wagner Society",
+      "description": "A society of Wagner enthusiasts and patrons in New York who support performances of Wagner's operas and provide crucial backing for Thea Kronborg's career.",
+      "aliases": [],
+      "tags": [
+        "Wagner society patronage opera"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:wagner-society",
+      "relations": []
+    },
+    {
+      "id": "women-and-ambition",
+      "type": "concept",
+      "label": "Women and Ambition",
+      "description": "The novel's exploration of female ambition in a society that offered women limited paths to achievement, and Thea Kronborg's negotiation of gender expectations and artistic calling.",
+      "aliases": [
+        "female ambition",
+        "gender",
+        "women artists"
+      ],
+      "tags": [
+        "gender",
+        "feminism",
+        "ambition",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:women-and-ambition",
+      "relations": []
+    },
+    {
+      "id": "wunschs-recognition",
+      "type": "event",
+      "label": "Wunsch's Recognition",
+      "description": "The moment Professor Wunsch tells the Kronborg family that Thea possesses exceptional musical talent requiring serious training—the first external validation of her artistic destiny.",
+      "aliases": [],
+      "tags": [
+        "Wunsch recognition talent validation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-song-of-the-lark:wunschs-recognition",
+      "relations": []
+    }
+  ]
+}

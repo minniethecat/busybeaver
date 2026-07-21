@@ -1,0 +1,67 @@
+---
+description: "I. GENERAL GREATAUK, DUKE OF SKULL"
+id: I-GENERAL-GREATAUK-DUKE-OF-SKULL
+label: "I. GENERAL GREATAUK, DUKE OF SKULL"
+tags: ["chapter"]
+type: chapter
+---
+
+# I. GENERAL GREATAUK, DUKE OF SKULL
+
+[046-001]A short time after the flight of the Emiral, a middle-class Jew called Pyrot, desirous of associating with the aristocracy and wishing to serve his country, entered the Penguin army. The Minister of War, who at the time was Greatauk, Duke of Skull, could not endure him. He blamed him for his zeal, his hooked nose, his vanity, his fondness for study, his thick lips, and his exemplary conduct. Every time the author of any misdeed was looked for, Greatauk used to say:
+
+[046-002]“It must be Pyrot!”
+
+[046-003]One morning General Panther, the Chief of the Staff, informed Greatauk of a serious matter. Eighty thousand trusses of hay intended for the cavalry had disappeared and not a trace of them was to be found.
+
+[046-004]Greatauk exclaimed at once:
+
+[046-005]“It must be Pyrot who has stolen them!”
+
+[046-006]He remained in thought for some time and said: “The more I think of it the more I am convinced that Pyrot has stolen those eighty thousand trusses of hay. And I know it by this: he stole them in order that he might sell them to our bitter enemies the Porpoises. What an infamous piece of treachery!
+
+[046-007]“There is no doubt about it,” answered Panther; “it only remains to prove it.”
+
+[046-008]The same day, as he passed by a cavalry barracks, Prince des Boscénos heard the troopers as they were sweeping out the yard, singing:
+
+[046-009]Boscénos est un gros cochon;
+
+[046-010]On en va faire des andouilles,
+
+[046-011]Des saucisses et du jambon
+
+[046-012]Pour le réveillon des pauv’ bougres.
+
+[046-013]It seemed to him contrary to all discipline that soldiers should sing this domestic and revolutionary refrain which on days of riot had been uttered by the lips of jeering workmen. On this occasion he deplored the moral degeneration of the army, and thought with a bitter smile that his old comrade Greatauk, the head of this degenerate army, basely exposed him to the malice of an unpatriotic government. And he promised himself that he would make an improvement before long.
+
+[046-014]“That scoundrel Greatauk,” said he to himself, “will, not remain long a Minister.”
+
+[046-015]Prince des Boscénos was the most irreconcilable of the opponents of modern democracy, free thought, and the government which the Penguins had voluntarily given themselves. He had a vigorous and undisguised hatred for the Jews, and he worked in public and in private, night and day, for the restoration of the line of the Draconides. His ardent royalism was still further excited by the thought of his private affairs, which were in a bad way and were hourly growing worse. He had no hope of seeing an end to his pecuniary embarrassments until the heir of Draco the Great entered the city of [[alca|Alca]].
+
+[046-016]When he returned to his house, the prince took out of his safe a bundle of old letters consisting of a private correspondence of the most secret nature, which he had obtained from a treacherous secretary. They proved that his old comrade Greatauk, the Duke of Skull, had been guilty of jobbery regarding the military stores and had received a present of no great value from a manufacturer called Maloury. The very smallness of this present deprived the Minister who had accepted it of all excuse.
+
+[046-017]The prince re-read the letters with a bitter satisfaction, put them carefully back into his safe, and dashed to the Minister of War. He was a man of resolute character. On being told that the Minister could see no one he knocked down the ushers, swept aside the orderlies, trampled under foot the civil and military clerks, burst through the doors, and entered the room of the astonished Greatauk.
+
+[046-018]“I will not say much,” said he to him, “but I will speak to the point. You are a confounded cad. I have asked you to put a flea in the ear of General Mouchin, the tool of those Republicans, and you would not do it. I have asked you to give a command to General des Clapiers, who works for the Dracophils, and who has obliged me personally, and you would not do it. I have asked you to dismiss General Tandem, the commander of Port Alca, who robbed me of fifty louis at cards, and who had me handcuffed when I was brought before the High Court as Emiral Chatillon’s accomplice. You would not do it. I asked you for the hay and bran stores. You would not give them. I asked you to send me on a secret mission to Porpoisia. You refused. And not satisfied with these repeated refusals you have designated me to your Government colleagues as a dangerous person, who ought to be watched, and it is owing to you that I have been shadowed by the police. You old traitor! I ask nothing more from you and I have but one word to say to you: Clear out; you have bothered us too long. Besides, we will force the vile Republic to replace you by one of our own party. You know that I am a man of my word. If in twenty-four hours you have not handed in your resignation I will publish the Maloury *dossier* in the newspapers.”
+
+[046-019]But Greatauk calmly and serenely replied:
+
+[046-020]“Be quiet, you fool. I am just having a Jew transported. I am handing over Pyrot to justice as guilty of having stolen eighty thousand trusses of hay.”
+
+[046-021]Prince Boscénos, whose anger vanished like a dream, smiled.
+
+[046-022]“Is that true?”
+
+[046-023]“You will see.”
+
+[046-024]“My congratulations, Greatauk. But as one always needs to take precautions with you I shall immediately publish the good news. People will read this evening about Pyrot’s arrest in every newspaper in Alca . . . .”
+
+[046-025]And he went away muttering:
+
+[046-026]“That Pyrot! I suspected he would come to a bad end.”
+
+[046-027]A moment later General Panther appeared before Greatauk.
+
+[046-028]“Sir,” said he, “I have just examined the business of the eighty thousand trusses of hay. There is no evidence against Pyrot.”
+
+[046-029]“Let it be found,” answered Greatauk. “Justice requires it. Have Pyrot arrested at once.”

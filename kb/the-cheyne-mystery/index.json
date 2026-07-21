@@ -1,0 +1,6135 @@
+{
+  "book": "the-cheyne-mystery",
+  "title": "The Cheyne Mystery",
+  "description": "The Cheyne Mystery — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 122,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"The Cheyne Mystery\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "\"Colophon\"",
+      "description": "\"![The Standard Ebooks logo.](../images/logo.png)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:Colophon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        }
+      ]
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "\"Imprint\"",
+      "description": "\"![The Standard Ebooks logo.](../images/logo.png)\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:Imprint",
+      "relations": []
+    },
+    {
+      "id": "List-of-Illustrations",
+      "type": "chapter",
+      "label": "\"List of Illustrations\"",
+      "description": "\"Two diagrams of a flask, divided down the middle and containing liquids in both parts.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:List-of-Illustrations",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-the-episode-in-the-plymouth-hotel",
+          "label": "ch01-the-episode-in-the-plymouth-hotel"
+        },
+        {
+          "type": "related",
+          "target": "ch02-burglary",
+          "label": "ch02-burglary"
+        },
+        {
+          "type": "related",
+          "target": "ch03-the-launch-enid",
+          "label": "ch03-the-launch-enid"
+        },
+        {
+          "type": "related",
+          "target": "ch04-concerning-a-peerage",
+          "label": "ch04-concerning-a-peerage"
+        },
+        {
+          "type": "related",
+          "target": "ch05-an-amateur-sleuth",
+          "label": "ch05-an-amateur-sleuth"
+        },
+        {
+          "type": "related",
+          "target": "ch06-the-house-in-hopefield-avenue",
+          "label": "ch06-the-house-in-hopefield-avenue"
+        },
+        {
+          "type": "related",
+          "target": "ch07-miss-joan-merrill",
+          "label": "ch07-miss-joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "ch08-a-council-of-war",
+          "label": "ch08-a-council-of-war"
+        },
+        {
+          "type": "related",
+          "target": "ch09-mr-speedwell-plays-his-hand",
+          "label": "ch09-mr-speedwell-plays-his-hand"
+        },
+        {
+          "type": "related",
+          "target": "ch10-the-new-firm-gets-busy",
+          "label": "ch10-the-new-firm-gets-busy"
+        },
+        {
+          "type": "related",
+          "target": "ch11-otto-schulz-s-secret",
+          "label": "ch11-otto-schulz-s-secret"
+        },
+        {
+          "type": "related",
+          "target": "ch12-in-the-enemy-s-lair",
+          "label": "ch12-in-the-enemy-s-lair"
+        },
+        {
+          "type": "related",
+          "target": "ch13-inspector-french-takes-charge",
+          "label": "ch13-inspector-french-takes-charge"
+        },
+        {
+          "type": "related",
+          "target": "ch14-the-clue-of-the-clay-marked-shoe",
+          "label": "ch14-the-clue-of-the-clay-marked-shoe"
+        },
+        {
+          "type": "related",
+          "target": "ch15-the-torn-hotel-bill",
+          "label": "ch15-the-torn-hotel-bill"
+        },
+        {
+          "type": "related",
+          "target": "ch16-a-tale-of-two-cities",
+          "label": "ch16-a-tale-of-two-cities"
+        },
+        {
+          "type": "related",
+          "target": "ch17-on-the-flood-tide",
+          "label": "ch17-on-the-flood-tide"
+        },
+        {
+          "type": "related",
+          "target": "ch18-a-visitor-from-india",
+          "label": "ch18-a-visitor-from-india"
+        },
+        {
+          "type": "related",
+          "target": "ch19-the-message-of-the-tracing",
+          "label": "ch19-the-message-of-the-tracing"
+        },
+        {
+          "type": "related",
+          "target": "ch20-the-goal-of-the-l-escaut",
+          "label": "ch20-the-goal-of-the-l-escaut"
+        },
+        {
+          "type": "related",
+          "target": "List-of-Illustrations",
+          "label": "List-of-Illustrations"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "Titlepage",
+      "type": "chapter",
+      "label": "\"Titlepage\"",
+      "description": "\"ByFreeman Wills Crofts.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:Titlepage",
+      "relations": []
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "\"Uncopyright\"",
+      "description": "\"> May you do good and not evil. May you find forgiveness for yourself and forgive others. May you share freely, never taking more than you give.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "ackfield",
+      "type": "person",
+      "label": "Mr. Ackfield",
+      "description": "A Plymouth-based lawyer who represents the conspirators' legal interests in the Cheyne mystery.",
+      "aliases": [],
+      "tags": [
+        "person",
+        "minor-character",
+        "plymouth"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:ackfield",
+      "relations": [
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        }
+      ]
+    },
+    {
+      "id": "alwyn-road",
+      "type": "place",
+      "label": "Alwyn Road",
+      "description": "A crossroad adjacent to Hopefield Avenue, where Cheyne conducted his surveillance of the criminal gang.",
+      "aliases": [],
+      "tags": [
+        "street",
+        "location"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:alwyn-road",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "hopefield-avenue"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "laurel-lodge"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        }
+      ]
+    },
+    {
+      "id": "antwerp",
+      "type": "place",
+      "label": "\"Antwerp\"",
+      "description": "\"The Belgian port city that serves as the primary destination of Inspector French's continental investigation and the location of the shipping firm Merkel & Lowenthal.\"",
+      "aliases": [
+        "Antwerpen",
+        "Anvers"
+      ],
+      "tags": [
+        "location",
+        "belgium",
+        "port",
+        "investigation"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:antwerp",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "mr-merkel",
+          "label": "Merkel"
+        },
+        {
+          "type": "related",
+          "target": "mr-lowenthal",
+          "label": "Lowenthal"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price's cipher"
+        },
+        {
+          "type": "related",
+          "target": "brussels",
+          "label": "brussels"
+        },
+        {
+          "type": "related",
+          "target": "the-antwerp-investigation",
+          "label": "the-antwerp-investigation"
+        },
+        {
+          "type": "related",
+          "target": "ostend",
+          "label": "ostend"
+        }
+      ]
+    },
+    {
+      "id": "arnold-price",
+      "type": "person",
+      "label": "\"Arnold Price\"",
+      "description": "\"Arnold Price is the creator of the cipher at the heart of The Cheyne Mystery — a junior naval officer who encoded Otto Schulz's secret before his death.\"",
+      "aliases": [
+        "Price",
+        "Mr. Price"
+      ],
+      "tags": [
+        "character",
+        "cipher-creator",
+        "victim"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:arnold-price",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "cipher"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's original discovery"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        }
+      ]
+    },
+    {
+      "id": "arnold-price-cipher",
+      "type": "concept",
+      "label": "\"Arnold Price's Cipher\"",
+      "description": "\"The sealed envelope containing a coded document, left by Arnold Price to Maxwell Cheyne, which held the key to a buried German submarine treasure.\"",
+      "aliases": [
+        "the cipher",
+        "secret document",
+        "Arnold Price's document",
+        "sealed envelope"
+      ],
+      "tags": [
+        "cipher",
+        "secret",
+        "document",
+        "treasure"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:arnold-price-cipher",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "plymouth-drugging"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "Enid"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the-tracing"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the-lescaut"
+        }
+      ]
+    },
+    {
+      "id": "arthur-lamson",
+      "type": "person",
+      "label": "Arthur Lamson",
+      "description": "A key antagonist who drugged and abducted Maxwell Cheyne near Plymouth, later revealed to be Arnold Price's cousin and the mastermind behind the kidnapping plot.",
+      "aliases": [
+        "Lamson",
+        "Arnold Price",
+        "Dangle"
+      ],
+      "tags": [
+        "antagonist",
+        "disguise",
+        "Plymouth",
+        "kidnapper",
+        "alias",
+        "Price family"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:arthur-lamson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "arnold-price-cipher"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "plymouth-drugging"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        },
+        {
+          "type": "related",
+          "target": "lord-hull",
+          "label": "lord-hull"
+        }
+      ]
+    },
+    {
+      "id": "baker-street",
+      "type": "place",
+      "label": "Baker Street",
+      "description": "A major London street and underground station, from which Cheyne and Joan departed for Wembley Park.",
+      "aliases": [],
+      "tags": [
+        "London",
+        "street",
+        "underground",
+        "transport"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:baker-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "wembley-park",
+          "label": "wembley-park"
+        }
+      ]
+    },
+    {
+      "id": "belgium",
+      "type": "place",
+      "label": "\"Belgium\"",
+      "description": "\"The country that serves as the primary setting for Inspector French's continental investigation in The Cheyne Mystery.\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "country",
+        "investigation",
+        "continental"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:belgium",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price's cipher"
+        },
+        {
+          "type": "related",
+          "target": "bruges",
+          "label": "Bruges"
+        },
+        {
+          "type": "related",
+          "target": "brussels",
+          "label": "Brussels"
+        },
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "Antwerp"
+        }
+      ]
+    },
+    {
+      "id": "blessington",
+      "type": "person",
+      "label": "\"Blessington\"",
+      "description": "\"The primary antagonist of The Cheyne Mystery, who uses multiple aliases and leads the conspiracy to obtain Arnold Price's secret document.\"",
+      "aliases": [
+        "Hubert Parkes",
+        "Parkes",
+        "Mr. Parkes"
+      ],
+      "tags": [
+        "antagonist",
+        "conspirator",
+        "criminal"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:blessington",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        }
+      ]
+    },
+    {
+      "id": "bombay",
+      "type": "place",
+      "label": "\"Bombay\"",
+      "description": "\"The Indian port city where Arnold Price disappeared from his ship, marking a crucial turning point in the novel's backstory.\"",
+      "aliases": [
+        "Mumbai"
+      ],
+      "tags": [
+        "location",
+        "india",
+        "port"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:bombay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "arnold-price"
+        },
+        {
+          "type": "related",
+          "target": "lord-hull",
+          "label": "Hull barony"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "dangle"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Price's cipher"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the-conspiracy"
+        },
+        {
+          "type": "related",
+          "target": "rms-maurania",
+          "label": "rms-maurania"
+        }
+      ]
+    },
+    {
+      "id": "brixham",
+      "type": "place",
+      "label": "Brixham",
+      "description": "Small fishing port at the northeast corner of the Dartmouth peninsula, the first town searched by Cheyne in his pursuit of the Enid.",
+      "aliases": [],
+      "tags": [
+        "devon",
+        "coastal",
+        "pursuit",
+        "fishing-port"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:brixham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torquay",
+          "label": "torquay"
+        },
+        {
+          "type": "related",
+          "target": "paignton",
+          "label": "paignton"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        }
+      ]
+    },
+    {
+      "id": "bruges",
+      "type": "place",
+      "label": "\"Bruges\"",
+      "description": "\"The Belgian city where Inspector French traces the conspirators' movements via a hotel bill found among the cipher documents.\"",
+      "aliases": [
+        "Brugge"
+      ],
+      "tags": [
+        "location",
+        "belgium",
+        "investigation"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:bruges",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher documents"
+        },
+        {
+          "type": "related",
+          "target": "belgium",
+          "label": "belgium"
+        },
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "antwerp"
+        },
+        {
+          "type": "related",
+          "target": "brussels",
+          "label": "brussels"
+        }
+      ]
+    },
+    {
+      "id": "brussels",
+      "type": "place",
+      "label": "Brussels",
+      "description": "Capital of Belgium, used by Inspector French as a transit point and investigative base during the continental phase of the case.",
+      "aliases": [],
+      "tags": [
+        "belgium",
+        "investigation",
+        "transit"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:brussels",
+      "relations": [
+        {
+          "type": "related",
+          "target": "antwerp",
+          "label": "antwerp"
+        },
+        {
+          "type": "related",
+          "target": "ostend",
+          "label": "ostend"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "captain-amery",
+      "type": "person",
+      "label": "Captain Amery",
+      "description": "A sea captain who commanded the pursuit vessel and provided crucial nautical expertise during the final chase in the English Channel.",
+      "aliases": [
+        "Amery"
+      ],
+      "tags": [
+        "sea captain",
+        "witness",
+        "maritime"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:captain-amery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "captain-cheyne",
+      "type": "person",
+      "label": "Captain Cheyne",
+      "description": "The late father of Maxwell Cheyne, a navy commander who passed on his love of the sea and adventure to his son.",
+      "aliases": [
+        "Cheyne Sr."
+      ],
+      "tags": [
+        "family",
+        "navy",
+        "backstory",
+        "deceased"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:captain-cheyne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "mrs-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "miss-cheyne",
+          "label": "miss-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "warren-lodge"
+        },
+        {
+          "type": "related",
+          "target": "hubert-parkes",
+          "label": "hubert-parkes"
+        }
+      ]
+    },
+    {
+      "id": "ch01-the-episode-in-the-plymouth-hotel",
+      "type": "chapter",
+      "label": "\"Chapter I: The Episode in the Plymouth Hotel\"",
+      "description": "\"When the White Rabbit inAliceasked where he should begin to read the verses at the Knave’s trial the King replied: “Begin at the beginning; go on till you co...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch01-the-episode-in-the-plymouth-hotel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "captain-cheyne",
+          "label": "Captain Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "fenchurch-street",
+          "label": "Fenchurch Street"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Hubert Parkes"
+        },
+        {
+          "type": "related",
+          "target": "hubert-parkes",
+          "label": "Parkes"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "mr-pringle",
+          "label": "Mr. Pringle"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hazelton",
+          "label": "Hazelton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "Mrs. Cheyne"
+        }
+      ]
+    },
+    {
+      "id": "ch02-burglary",
+      "type": "chapter",
+      "label": "\"Chapter II: Burglary!\"",
+      "description": "\"The discovery that his pockets had been gone through while he was under the influence of the drug reduced Cheyne to a state of even more complete mystificati...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch02-burglary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Parkes"
+        },
+        {
+          "type": "related",
+          "target": "miss-hazelton",
+          "label": "Ethel Hazelton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hazelton",
+          "label": "Mrs. Hazelton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "Mrs. Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "miss-cheyne",
+          "label": "Agatha"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "ackfield",
+          "label": "Mr. Ackfield"
+        },
+        {
+          "type": "related",
+          "target": "hubert-parkes",
+          "label": "Parkes"
+        }
+      ]
+    },
+    {
+      "id": "ch03-the-launch-enid",
+      "type": "chapter",
+      "label": "\"Chapter III: The Launch Enid\"",
+      "description": "\"The LaunchEnid\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch03-the-launch-enid",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "horton",
+          "label": "Horton"
+        },
+        {
+          "type": "related",
+          "target": "lavender",
+          "label": "Lavender"
+        },
+        {
+          "type": "related",
+          "target": "horton-and-lavender-agency",
+          "label": "Private Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Parkes"
+        },
+        {
+          "type": "related",
+          "target": "hubert-parkes",
+          "label": "Parkes"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Arthur Lamson"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "Enid"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "Mrs. Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "fenchurch-street",
+          "label": "Fenchurch Street"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "sealed envelope"
+        }
+      ]
+    },
+    {
+      "id": "ch04-concerning-a-peerage",
+      "type": "chapter",
+      "label": "\"Chapter IV: Concerning a Peerage\"",
+      "description": "\"When Maxwell Cheyne’s paroxysm of fury diminished and he began once more to think collectedly about the unpleasant situation in which he found himself, a sta...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch04-concerning-a-peerage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Lamson"
+        },
+        {
+          "type": "related",
+          "target": "lord-hull",
+          "label": "Lord Hull"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "Mrs. Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        }
+      ]
+    },
+    {
+      "id": "ch05-an-amateur-sleuth",
+      "type": "chapter",
+      "label": "\"Chapter V: An Amateur Sleuth\"",
+      "description": "\"Cheyne’s great idea was that instead of proceeding directly to the police station and lodging an information against his captors, as he had at first intended...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch05-an-amateur-sleuth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "alwyn-road",
+          "label": "Alwyn Road"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "Laurel Lodge"
+        }
+      ]
+    },
+    {
+      "id": "ch06-the-house-in-hopefield-avenue",
+      "type": "chapter",
+      "label": "\"Chapter VI: The House in Hopefield Avenue\"",
+      "description": "\"The room was of medium size and plainly though comfortably furnished as a man’s study or smoking room.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch06-the-house-in-hopefield-avenue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Hubert Parkes"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "hubert-parkes",
+          "label": "Parkes"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-photograph",
+          "label": "the photographs"
+        }
+      ]
+    },
+    {
+      "id": "ch07-miss-joan-merrill",
+      "type": "chapter",
+      "label": "\"Chapter VII: Miss Joan Merrill\"",
+      "description": "\"After what seemed ages of forgetfulness a confused sense of pain began to make itself felt in Maxwell Cheyne’s being, growing in force and definition as he g...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch07-miss-joan-merrill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-hopefield-avenue-discovery",
+          "label": "Hopefield Avenue house"
+        },
+        {
+          "type": "related",
+          "target": "the-treasure",
+          "label": "buried treasure"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        }
+      ]
+    },
+    {
+      "id": "ch08-a-council-of-war",
+      "type": "chapter",
+      "label": "\"Chapter VIII: A Council of War\"",
+      "description": "\"Cheyne returned to his hotel that afternoon in a jubilant frame of mind.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch08-a-council-of-war",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "Laurel Lodge"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        }
+      ]
+    },
+    {
+      "id": "ch09-mr-speedwell-plays-his-hand",
+      "type": "chapter",
+      "label": "\"Chapter IX: Mr. Speedwell Plays His Hand\"",
+      "description": "\"Next morning Cheyne called at the offices of Messrs.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch09-mr-speedwell-plays-his-hand",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "horton",
+          "label": "Horton"
+        },
+        {
+          "type": "related",
+          "target": "lavender",
+          "label": "Lavender"
+        },
+        {
+          "type": "related",
+          "target": "horton-and-lavender-agency",
+          "label": "Private Detective Agency"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "Laurel Lodge"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood, Dalton Avenue, Wembley"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "Colton Street"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        }
+      ]
+    },
+    {
+      "id": "ch10-the-new-firm-gets-busy",
+      "type": "chapter",
+      "label": "\"Chapter X: The New Firm Gets Busy\"",
+      "description": "\"Cheyne and Joan Merrill took a Wembley Park train from Baker Street shortly beforeninethat evening, and a few minutes later alighted at the station whose nam...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch10-the-new-firm-gets-busy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "wembley-park",
+          "label": "Wembley Park"
+        },
+        {
+          "type": "related",
+          "target": "baker-street",
+          "label": "Baker Street"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "metropolis"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "Dalton Road"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "mrs-bryce",
+          "label": "Mrs. Bryce-Harris"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        }
+      ]
+    },
+    {
+      "id": "ch11-otto-schulz-s-secret",
+      "type": "chapter",
+      "label": "\"Chapter XI: Otto Schulz’s Secret\"",
+      "description": "\"Otto Schulz’s Secret\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch11-otto-schulz-s-secret",
+      "relations": [
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "frau-schulz",
+          "label": "Frau Schulz"
+        },
+        {
+          "type": "related",
+          "target": "mrs-price",
+          "label": "Mrs. Price"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "Dalton Road"
+        }
+      ]
+    },
+    {
+      "id": "ch12-in-the-enemy-s-lair",
+      "type": "chapter",
+      "label": "\"Chapter XII: In the Enemy’s Lair\"",
+      "description": "\"In the Enemy’s Lair\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch12-in-the-enemy-s-lair",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "frau-schulz",
+          "label": "Frau Schulz"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Mr. Price"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Schulz"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Miss Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "Dalton Road"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        }
+      ]
+    },
+    {
+      "id": "ch13-inspector-french-takes-charge",
+      "type": "chapter",
+      "label": "\"Chapter XIII: Inspector French Takes Charge\"",
+      "description": "\"Cheyne was ushered into a small, plainly furnished room, in which at a table-desk was seated a rather stout, clean-shaven man with a cheerful, good humored f...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch13-inspector-french-takes-charge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "Dalton Road"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "horton",
+          "label": "Horton"
+        },
+        {
+          "type": "related",
+          "target": "lavender",
+          "label": "Lavender"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "Colton Street"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-carter",
+          "label": "Carter"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "Mr. Sproule"
+        }
+      ]
+    },
+    {
+      "id": "ch14-the-clue-of-the-clay-marked-shoe",
+      "type": "chapter",
+      "label": "\"Chapter XIV: The Clue of the Clay-Marked Shoe\"",
+      "description": "\"“You know,Mr. French,” said Speedwell, “about my being called in by the manager of the Edgecombe in Plymouth when Mr. Cheyne was drugged?Mr. Cheyne has told ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch14-the-clue-of-the-clay-marked-shoe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Mr. French"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Mr. Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "Laurel Lodge"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hazelton",
+          "label": "Mrs. Hazelton"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sproule",
+          "label": "Mrs. Sproule"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        }
+      ]
+    },
+    {
+      "id": "ch15-the-torn-hotel-bill",
+      "type": "chapter",
+      "label": "\"Chapter XV: The Torn Hotel Bill\"",
+      "description": "\"On reaching the Yard next morning Inspector French began his day by compiling a list of the various points on which obvious investigations still remained to ...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch15-the-torn-hotel-bill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-carter",
+          "label": "Sergeant Carter"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "Colton Street"
+        },
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "Mr. Sproule"
+        },
+        {
+          "type": "related",
+          "target": "waterloo-station",
+          "label": "Waterloo Station"
+        },
+        {
+          "type": "related",
+          "target": "hackworth",
+          "label": "Hackworth"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sproule",
+          "label": "Mrs. Sproule"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        }
+      ]
+    },
+    {
+      "id": "ch16-a-tale-of-two-cities",
+      "type": "chapter",
+      "label": "\"Chapter XVI: A Tale of Two Cities\"",
+      "description": "\"Next morning French had an interview with his chief at the Yard at which he produced the torn hotel bill, and having demonstrated the methods by which he had...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch16-a-tale-of-two-cities",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-mitchell",
+          "label": "Chief Inspector Mitchell"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "hackworth",
+          "label": "Hackworth"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-burnett",
+          "label": "Sergeant Burnett"
+        },
+        {
+          "type": "related",
+          "target": "waterloo-station",
+          "label": "Waterloo Station"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "harwich",
+          "label": "Harwich-Zeebrugge boat"
+        },
+        {
+          "type": "related",
+          "target": "liverpool-street",
+          "label": "Liverpool Street"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "mr-jesse",
+          "label": "the manager"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "ch17-on-the-flood-tide",
+      "type": "chapter",
+      "label": "\"Chapter XVII: On the Flood Tide\"",
+      "description": "\"French was astir betimes next morning, and over his coffee and rolls and honey he laid his plans for the day.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch17-on-the-flood-tide",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "newcastle",
+          "label": "Newcastle"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "mr-merkel",
+          "label": "Merkel"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the gang"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "New Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "ch18-a-visitor-from-india",
+      "type": "chapter",
+      "label": "\"Chapter XVIII: A Visitor from India\"",
+      "description": "\"When French reached Victoria, the first person he saw on the platform was Maxwell Cheyne.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch18-a-visitor-from-india",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher"
+        },
+        {
+          "type": "related",
+          "target": "inspector-mitchell",
+          "label": "Chief Inspector Mitchell"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Mr. French"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Schulz"
+        }
+      ]
+    },
+    {
+      "id": "ch19-the-message-of-the-tracing",
+      "type": "chapter",
+      "label": "\"Chapter XIX: The Message of the Tracing\"",
+      "description": "\"Inspector French spread the photograph on his desk, and Cheyne and Price having drawn up chairs, all three gazed at it as if expecting that in the light of t...\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch19-the-message-of-the-tracing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Schulz"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Miss Merrill"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sam-pullar",
+          "label": "Sam Pullar"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-barnes",
+          "label": "Inspector Barnes"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "mr-merkel",
+          "label": "Merkel"
+        }
+      ]
+    },
+    {
+      "id": "ch20-the-goal-of-the-l-escaut",
+      "type": "chapter",
+      "label": "\"Chapter XX: The Goal of the L’Escaut\"",
+      "description": "\"The Goal of theL’Escaut\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "the-cheyne-mystery:ch20-the-goal-of-the-l-escaut",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "captain-amery",
+          "label": "Captain Amery"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arthur-lamson",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "mr-merkel",
+          "label": "Mr. Merkel"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "the cipher"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "the tracing"
+        }
+      ]
+    },
+    {
+      "id": "characters-index",
+      "type": "list",
+      "label": "Characters Index",
+      "description": "Complete index of all characters appearing in The Cheyne Mystery by Freeman Wills Crofts.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "characters",
+        "persons"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:characters-index",
+      "relations": []
+    },
+    {
+      "id": "colton-street",
+      "type": "place",
+      "label": "\"Colton Street\"",
+      "description": "\"A street in Putney, London, home to Mr. Sproule at No. 17 and William Sime at No. 12\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "setting",
+        "london"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:colton-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "Sproule"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sproule",
+          "label": "Mrs. Sproule"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "Horne Terrace"
+        }
+      ]
+    },
+    {
+      "id": "concepts-index",
+      "type": "list",
+      "label": "Concepts Index",
+      "description": "Index of all key concepts, ciphers, vessels, and thematic elements in The Cheyne Mystery.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "concepts"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:concepts-index",
+      "relations": []
+    },
+    {
+      "id": "dalton-road",
+      "type": "place",
+      "label": "\"Dalton Road\"",
+      "description": "\"A road in a London suburb, location of the gang's second hideout after they evacuated Laurel Lodge\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "setting",
+        "london"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:dalton-road",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "Earlswood"
+        }
+      ]
+    },
+    {
+      "id": "dangle",
+      "type": "person",
+      "label": "\"James Dangle\"",
+      "description": "\"James Dangle is the primary antagonist in The Cheyne Mystery, a criminal conspirator who orchestrates the theft of the cipher tracing and the abduction of Joan Merrill.\"",
+      "aliases": [
+        "Mr. Dangle",
+        "Dangle",
+        "James Dangle",
+        "james-dangle"
+      ],
+      "tags": [
+        "character",
+        "antagonist",
+        "criminal"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:dangle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        }
+      ]
+    },
+    {
+      "id": "dartmouth",
+      "type": "place",
+      "label": "\"Dartmouth\"",
+      "description": "\"The Devonshire port town near Warren Lodge, Maxwell Cheyne's home, and the setting for key events in the early chapters of The Cheyne Mystery.\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "devon",
+        "port",
+        "home"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:dartmouth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "plymouth"
+        }
+      ]
+    },
+    {
+      "id": "earlswood",
+      "type": "place",
+      "label": "\"Earlswood\"",
+      "description": "\"Secluded house on Dalton Road, Wembley, used as the gang's second hideout after evacuating Hopefield Avenue in The Cheyne Mystery.\"",
+      "aliases": [
+        "Earlswood",
+        "Dalton Avenue",
+        "Wembley"
+      ],
+      "tags": [
+        "location",
+        "wembley",
+        "hideout",
+        "house"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:earlswood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "dalton-road"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "laurel-lodge"
+        },
+        {
+          "type": "related",
+          "target": "the-earlswood-escape",
+          "label": "the-earlswood-escape"
+        }
+      ]
+    },
+    {
+      "id": "edgecombe-hotel",
+      "type": "place",
+      "label": "\"Edgecombe Hotel\"",
+      "description": "\"The hotel in Plymouth where Maxwell Cheyne is drugged by Blessington, setting the mystery in motion.\"",
+      "aliases": [
+        "The Edgecombe",
+        "Plymouth Hotel"
+      ],
+      "tags": [
+        "hotel",
+        "crime-scene",
+        "plymouth"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:edgecombe-hotel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        }
+      ]
+    },
+    {
+      "id": "events-index",
+      "type": "list",
+      "label": "Events Index",
+      "description": "Chronological index of all key events in The Cheyne Mystery by Freeman Wills Crofts.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "events",
+        "timeline"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:events-index",
+      "relations": []
+    },
+    {
+      "id": "exeter",
+      "type": "place",
+      "label": "\"Exeter\"",
+      "description": "\"The Devonshire city that serves as a key railway junction during the conspirators' train pursuit of Maxwell Cheyne.\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "england",
+        "railway",
+        "pursuit"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:exeter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dartmouth",
+          "label": "Dartmouth"
+        },
+        {
+          "type": "related",
+          "target": "lewisham",
+          "label": "Tom Lewisham"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        }
+      ]
+    },
+    {
+      "id": "fenchurch-street",
+      "type": "place",
+      "label": "Fenchurch Street",
+      "description": "A street in the City of London where the shipping firm that employed young Maxwell Cheyne was located.",
+      "aliases": [],
+      "tags": [
+        "London",
+        "street",
+        "workplace"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:fenchurch-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "arnold-price-cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "frau-schulz",
+      "type": "person",
+      "label": "Frau Schulz",
+      "description": "Widow of U-boat captain Otto Schulz, beneficiary of the secret treasure discovered by her late husband.",
+      "aliases": [
+        "Mrs. Schulz"
+      ],
+      "tags": [
+        "person",
+        "minor-character",
+        "chapter-11"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:frau-schulz",
+      "relations": [
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "The L'Escaut"
+        }
+      ]
+    },
+    {
+      "id": "hackworth",
+      "type": "person",
+      "label": "Mr. Hackworth",
+      "description": "A stout gentleman and garage proprietor interviewed by Inspector French during the investigation, who provided critical information about the yellow car.",
+      "aliases": [
+        "Hackworth",
+        "John Hackworth"
+      ],
+      "tags": [
+        "witness",
+        "garage owner",
+        "interview",
+        "French investigation",
+        "vehicle"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:hackworth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "sproule"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "sime"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "colton-street"
+        }
+      ]
+    },
+    {
+      "id": "harwich",
+      "type": "place",
+      "label": "\"Harwich\"",
+      "description": "\"Port town in Essex, England, serving as the departure point for the Harwich-Zeebrugge ferry to Belgium in The Cheyne Mystery.\"",
+      "aliases": [
+        "Harwich-Zeebrugge boat",
+        "Parkeston Quay"
+      ],
+      "tags": [
+        "location",
+        "port",
+        "essex",
+        "transport"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:harwich",
+      "relations": [
+        {
+          "type": "related",
+          "target": "liverpool-street",
+          "label": "Liverpool Street"
+        },
+        {
+          "type": "related",
+          "target": "belgium",
+          "label": "belgium"
+        }
+      ]
+    },
+    {
+      "id": "hopefield-avenue",
+      "type": "place",
+      "label": "\"Hopefield Avenue\"",
+      "description": "\"A residential street in the suburbs of London where Laurel Lodge is located, central to the early events of the story\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "setting",
+        "london"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:hopefield-avenue",
+      "relations": [
+        {
+          "type": "related",
+          "target": "alwyn-road",
+          "label": "alwyn-road"
+        },
+        {
+          "type": "related",
+          "target": "laurel-lodge",
+          "label": "laurel-lodge"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dalton-road",
+          "label": "dalton-road"
+        }
+      ]
+    },
+    {
+      "id": "horne-terrace",
+      "type": "place",
+      "label": "\"Horne Terrace\"",
+      "description": "\"A block of workers' flats in Burton Street, Chelsea, London — Joan Merrill's residence and a key location in the investigation\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "setting",
+        "london"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:horne-terrace",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-carter",
+          "label": "sergeant-carter"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "colton-street"
+        }
+      ]
+    },
+    {
+      "id": "horton",
+      "type": "person",
+      "label": "Mr. Horton",
+      "description": "Co-founder of Horton and Lavender's Private Detective Agency, deceased before the events of the story.",
+      "aliases": [
+        "Horton"
+      ],
+      "tags": [
+        "detective",
+        "agency founder",
+        "historical figure"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:horton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "lavender",
+          "label": "lavender"
+        },
+        {
+          "type": "related",
+          "target": "horton-and-lavender-agency",
+          "label": "horton-and-lavender-agency"
+        }
+      ]
+    },
+    {
+      "id": "horton-and-lavender-agency",
+      "type": "concept",
+      "label": "\"Horton and Lavender's Detective Agency\"",
+      "description": "\"Horton and Lavender's Private Detective Agency, the London firm employing Mr. Speedwell, engaged by Maxwell Cheyne to investigate the conspirators.\"",
+      "aliases": [
+        "Horton & Lavender",
+        "Private Detective Agency"
+      ],
+      "tags": [
+        "organization",
+        "detection"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:horton-and-lavender-agency",
+      "relations": [
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "speedwell"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "the-earlswood-escape",
+          "label": "the-earlswood-escape"
+        }
+      ]
+    },
+    {
+      "id": "hubert-parkes",
+      "type": "person",
+      "label": "Hubert Parkes",
+      "description": "A guest at the Edgecombe Hotel whose name appeared as a visitor to Maxwell Cheyne, later linked to the hotel incident.",
+      "aliases": [
+        "Parkes"
+      ],
+      "tags": [
+        "suspect",
+        "Edgecombe Hotel",
+        "witness"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:hubert-parkes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "edgecombe-hotel"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "plymouth-drugging"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        }
+      ]
+    },
+    {
+      "id": "inspector-barnes",
+      "type": "person",
+      "label": "Inspector Barnes",
+      "description": "A Scotland Yard inspector described as the Yard's authority on nautical matters, consulted by Inspector French during the Cheyne Mystery investigation.",
+      "aliases": [
+        "Barnes"
+      ],
+      "tags": [
+        "police",
+        "Scotland Yard",
+        "nautical expert",
+        "investigator"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:inspector-barnes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "inspector-mitchell",
+          "label": "inspector-mitchell"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "inspector-french",
+      "type": "person",
+      "label": "\"Inspector French\"",
+      "description": "\"Scotland Yard Inspector who takes charge of Cheyne's case. A methodical, genial, and highly competent detective whose systematic approach contrasts with Cheyne's impulsive amateur sleuthing.\"",
+      "aliases": [
+        "Joseph French",
+        "Mr. French"
+      ],
+      "tags": [
+        "detective",
+        "investigator",
+        "Scotland Yard"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:inspector-french",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "Mrs. Sproule"
+        },
+        {
+          "type": "related",
+          "target": "hackworth",
+          "label": "hackworth"
+        }
+      ]
+    },
+    {
+      "id": "inspector-french-takes-charge",
+      "type": "event",
+      "label": "Inspector French Takes Charge",
+      "description": "Inspector French of Scotland Yard formally takes charge of the Cheyne mystery investigation, marking the transition from amateur sleuthing to professional police work.",
+      "aliases": [
+        "French investigation",
+        "Scotland Yard investigation"
+      ],
+      "tags": [
+        "event",
+        "investigation",
+        "chapter-13"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:inspector-french-takes-charge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-hopefield-avenue-discovery",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the L'Escaut"
+        }
+      ]
+    },
+    {
+      "id": "inspector-mitchell",
+      "type": "person",
+      "label": "Chief Inspector Mitchell",
+      "description": "A Chief Inspector at Scotland Yard who supervised aspects of the Cheyne Mystery investigation and authorized French's trip to Belgium.",
+      "aliases": [
+        "Mitchell",
+        "Chief Inspector Mitchell"
+      ],
+      "tags": [
+        "police",
+        "Scotland Yard",
+        "senior officer",
+        "authority"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:inspector-mitchell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "inspector-barnes",
+          "label": "inspector-barnes"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-carter",
+          "label": "sergeant-carter"
+        }
+      ]
+    },
+    {
+      "id": "joan-merrill",
+      "type": "person",
+      "label": "\"Joan Merrill\"",
+      "description": "\"Joan Merrill is a key ally of Maxwell Cheyne in The Cheyne Mystery, whose abduction drives the latter half of the investigation.\"",
+      "aliases": [
+        "Miss Merrill",
+        "Joan"
+      ],
+      "tags": [
+        "character",
+        "ally",
+        "victim"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:joan-merrill",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "Dangle"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "speedwells-intervention",
+          "label": "speedwells-intervention"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "schulzs-secret"
+        }
+      ]
+    },
+    {
+      "id": "kingswear",
+      "type": "place",
+      "label": "\"Kingswear\"",
+      "description": "\"A village on the eastern bank of the River Dart in Devon, opposite Dartmouth, serving as a key transit point in the novel's Dart estuary chase sequence.\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "devon",
+        "dart-estuary"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:kingswear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dartmouth",
+          "label": "dartmouth"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "brixham",
+          "label": "brixham"
+        },
+        {
+          "type": "related",
+          "target": "paignton",
+          "label": "paignton"
+        },
+        {
+          "type": "related",
+          "target": "the-dart-chase",
+          "label": "the-dart-chase"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "laurel-lodge",
+      "type": "place",
+      "label": "\"Laurel Lodge\"",
+      "description": "\"A house on Hopefield Avenue occupied by James Dangle, central to the conspiracy and the burglary investigation\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "setting",
+        "residence"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:laurel-lodge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "hopefield-avenue"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "dangle"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "alwyn-road",
+          "label": "alwyn-road"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        }
+      ]
+    },
+    {
+      "id": "lavender",
+      "type": "person",
+      "label": "Mr. Lavender",
+      "description": "Co-founder of Horton and Lavender's Private Detective Agency, deceased before the events of the story.",
+      "aliases": [
+        "Lavender"
+      ],
+      "tags": [
+        "detective",
+        "agency founder",
+        "historical figure"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:lavender",
+      "relations": [
+        {
+          "type": "related",
+          "target": "horton",
+          "label": "Mr. Horton"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "horton-and-lavender-agency",
+          "label": "horton-and-lavender-agency"
+        }
+      ]
+    },
+    {
+      "id": "lewisham",
+      "type": "person",
+      "label": "\"Tom Lewisham\"",
+      "description": "\"A member of Blessington's gang who participated in the surveillance of Maxwell Cheyne during the train pursuit from Dartmouth to London.\"",
+      "aliases": [
+        "Lewisham"
+      ],
+      "tags": [
+        "person",
+        "conspirator",
+        "gang-member"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:lewisham",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "Enid"
+        },
+        {
+          "type": "related",
+          "target": "dartmouth",
+          "label": "Dartmouth"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Price"
+        },
+        {
+          "type": "related",
+          "target": "exeter",
+          "label": "Exeter"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "dangle"
+        }
+      ]
+    },
+    {
+      "id": "liverpool-street",
+      "type": "place",
+      "label": "\"Liverpool Street\"",
+      "description": "\"London railway terminus serving as departure point for Harwich and continental boat trains in The Cheyne Mystery.\"",
+      "aliases": [
+        "Liverpool Street Station"
+      ],
+      "tags": [
+        "location",
+        "london",
+        "railway-station"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:liverpool-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "harwich",
+          "label": "harwich"
+        },
+        {
+          "type": "related",
+          "target": "waterloo-station",
+          "label": "waterloo-station"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "type": "place",
+      "label": "\"London\"",
+      "description": "\"London serves as the central hub of investigation in The Cheyne Mystery, home to Scotland Yard and the setting for crucial developments including the pursuit of Dangle.\"",
+      "aliases": [
+        "metropolis",
+        "the City"
+      ],
+      "tags": [
+        "location",
+        "city",
+        "hub"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:london",
+      "relations": [
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth incident"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "plymouth"
+        }
+      ]
+    },
+    {
+      "id": "lord-hull",
+      "type": "person",
+      "label": "Lord Hull",
+      "description": "The elderly and wealthy present Baron Hull, whose title and fortune Arnold Price was believed to be heir to.",
+      "aliases": [
+        "Baron Hull",
+        "Francis Hull"
+      ],
+      "tags": [
+        "aristocrat",
+        "nobility",
+        "barony",
+        "Hull inheritance"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:lord-hull",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "arnold-price-cipher"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "maxwell-cheyne",
+      "type": "person",
+      "label": "\"Maxwell Cheyne\"",
+      "description": "\"Protagonist of The Cheyne Mystery, a twenty-nine-year-old former naval officer and amateur yachtsman drawn into a criminal conspiracy.\"",
+      "aliases": [
+        "Mr. Cheyne",
+        "Cheyne"
+      ],
+      "tags": [
+        "protagonist",
+        "victim",
+        "sailor",
+        "author"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:maxwell-cheyne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "miss-cheyne",
+      "type": "person",
+      "label": "Miss Cheyne (Agatha)",
+      "description": "Maxwell Cheyne's sister (or daughter), known as Agatha, resident of Warren Lodge.",
+      "aliases": [
+        "Agatha",
+        "Agatha Cheyne"
+      ],
+      "tags": [
+        "family",
+        "Cheyne household",
+        "Warren Lodge"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:miss-cheyne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "mrs-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "warren-lodge"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        }
+      ]
+    },
+    {
+      "id": "miss-hazelton",
+      "type": "person",
+      "label": "Miss Hazelton (Ethel)",
+      "description": "Ethel Hazelton, the grown-up daughter of Mrs. Hazelton, who assisted in relaying urgent messages during the Warren Lodge crisis.",
+      "aliases": [
+        "Ethel Hazelton",
+        "Ethel"
+      ],
+      "tags": [
+        "neighbor",
+        "telephone",
+        "witness"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:miss-hazelton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-hazelton",
+          "label": "mrs-hazelton"
+        },
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "mrs-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        }
+      ]
+    },
+    {
+      "id": "most-referenced-pages",
+      "type": "list",
+      "label": "Most Referenced Pages",
+      "description": "Statistical ranking of the most cross-referenced entries in The Cheyne Mystery wiki, by total backlink count.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "statistics",
+        "rankings"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:most-referenced-pages",
+      "relations": []
+    },
+    {
+      "id": "mr-jesse",
+      "type": "person",
+      "label": "Mr. Jesse",
+      "description": "The manager of the Edgecombe Hotel in Plymouth, who assisted Maxwell Cheyne after he was drugged and hired a private detective on the hotel's behalf.",
+      "aliases": [
+        "Jesse",
+        "the manager"
+      ],
+      "tags": [
+        "hotel",
+        "Plymouth",
+        "Edgecombe Hotel",
+        "witness"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mr-jesse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "speedwell"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "plymouth-drugging"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "edgecombe-hotel"
+        }
+      ]
+    },
+    {
+      "id": "mr-lowenthal",
+      "type": "person",
+      "label": "Mr. Lowenthal",
+      "description": "Junior partner of the Merkel & Lowenthal shipping firm in Antwerp, interviewed by Inspector French during his investigation of Dangle's disappearance.",
+      "aliases": [],
+      "tags": [
+        "antwerp",
+        "shipping",
+        "suspect"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mr-lowenthal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "arnold-price"
+        },
+        {
+          "type": "related",
+          "target": "mr-merkel",
+          "label": "mr-merkel"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "mr-merkel",
+      "type": "person",
+      "label": "Mr. Merkel",
+      "description": "Head of the Antwerp shipping firm Merkel & Lowenthal, whose vessel the L'Escaut was used by the conspirators to transport gold bullion",
+      "aliases": [
+        "Merkel",
+        "M. Merkel"
+      ],
+      "tags": [
+        "minor-character",
+        "business",
+        "shipping",
+        "chapter-17"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mr-merkel",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "mr-lowenthal",
+          "label": "M. Lowenthal"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        }
+      ]
+    },
+    {
+      "id": "mr-pringle",
+      "type": "person",
+      "label": "Mr. Pringle",
+      "description": "City analyst in Plymouth who conducted the chemical analysis of the drugged coffee, confirming the presence of a drug",
+      "aliases": [
+        "Pringle"
+      ],
+      "tags": [
+        "minor-character",
+        "professional",
+        "chapter-1"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mr-pringle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Chapter 1"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        }
+      ]
+    },
+    {
+      "id": "mrs-bryce",
+      "type": "person",
+      "label": "Mrs. Bryce",
+      "description": "A fictional name used by Joan Merrill as a pretext when scouting Blessington's house at Earlswood.",
+      "aliases": [
+        "Bryce-Harris",
+        "Mrs. Bryce-Harris"
+      ],
+      "tags": [
+        "minor character",
+        "alias",
+        "cover story"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mrs-bryce",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        },
+        {
+          "type": "related",
+          "target": "earlswood",
+          "label": "earlswood"
+        }
+      ]
+    },
+    {
+      "id": "mrs-cheyne",
+      "type": "person",
+      "label": "Mrs. Cheyne",
+      "description": "Maxwell Cheyne's mother, resident of Warren Lodge, who purchased the estate and maintained the household.",
+      "aliases": [
+        "Cheyne's mother"
+      ],
+      "tags": [
+        "family",
+        "Warren Lodge",
+        "Cheyne household"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mrs-cheyne",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "miss-cheyne",
+          "label": "miss-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "warren-lodge"
+        },
+        {
+          "type": "related",
+          "target": "mrs-hazelton",
+          "label": "mrs-hazelton"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        }
+      ]
+    },
+    {
+      "id": "mrs-hazelton",
+      "type": "person",
+      "label": "Mrs. Hazelton",
+      "description": "A neighbor of the Cheyne family who owned a telephone and relayed messages between Maxwell Cheyne and Warren Lodge.",
+      "aliases": [
+        "Hazelton",
+        "the Hazeltons"
+      ],
+      "tags": [
+        "neighbor",
+        "telephone",
+        "Warren Lodge"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mrs-hazelton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-cheyne",
+          "label": "mrs-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "miss-hazelton",
+          "label": "miss-hazelton"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "warren-lodge"
+        }
+      ]
+    },
+    {
+      "id": "mrs-price",
+      "type": "person",
+      "label": "Mrs. Price",
+      "description": "Arnold Price's wife, who stood to benefit from the recovered cipher documents alongside other interested parties.",
+      "aliases": [
+        "Price's wife"
+      ],
+      "tags": [
+        "family",
+        "beneficiary",
+        "Arnold Price"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mrs-price",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "arnold-price"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "arnold-price-cipher"
+        },
+        {
+          "type": "related",
+          "target": "frau-schulz",
+          "label": "frau-schulz"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "otto-schulz"
+        }
+      ]
+    },
+    {
+      "id": "mrs-sproule",
+      "type": "person",
+      "label": "Mrs. Sproule",
+      "description": "The wife of Mr. Sproule of 17 Colton Street, an invalid who provided key witness information to Inspector French.",
+      "aliases": [
+        "Sproule"
+      ],
+      "tags": [
+        "wife",
+        "witness",
+        "Colton Street",
+        "invalid household"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:mrs-sproule",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sproule",
+          "label": "sproule"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "colton-street"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "sime"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "newcastle",
+      "type": "place",
+      "label": "\"Newcastle\"",
+      "description": "\"Port city in northeast England, mentioned as a shipping destination in The Cheyne Mystery.\"",
+      "aliases": [
+        "Newcastle upon Tyne"
+      ],
+      "tags": [
+        "location",
+        "port",
+        "england"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:newcastle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "belgium",
+          "label": "belgium"
+        }
+      ]
+    },
+    {
+      "id": "newton-abbot",
+      "type": "place",
+      "label": "\"Newton Abbot\"",
+      "description": "\"A market town in Devonshire and key railway junction on the Great Western Railway line, featured in the conspirators' train pursuit of Maxwell Cheyne.\"",
+      "aliases": [],
+      "tags": [
+        "location",
+        "devon",
+        "railway",
+        "pursuit"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:newton-abbot",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "exeter",
+          "label": "Exeter"
+        },
+        {
+          "type": "related",
+          "target": "dartmouth",
+          "label": "dartmouth"
+        }
+      ]
+    },
+    {
+      "id": "ostend",
+      "type": "place",
+      "label": "\"Ostend\"",
+      "description": "\"A Belgian port city on the North Sea coast, serving as a key transit point for Inspector French's continental investigation in the novel.\"",
+      "aliases": [
+        "Oostende",
+        "Ostende"
+      ],
+      "tags": [
+        "location",
+        "belgium",
+        "port",
+        "travel"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:ostend",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "harwich",
+          "label": "harwich"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price's cipher"
+        },
+        {
+          "type": "related",
+          "target": "brussels",
+          "label": "brussels"
+        },
+        {
+          "type": "related",
+          "target": "the-antwerp-investigation",
+          "label": "the-antwerp-investigation"
+        }
+      ]
+    },
+    {
+      "id": "otto-schulz",
+      "type": "person",
+      "label": "\"Otto Schulz\"",
+      "description": "\"Otto Schulz was a German U-boat captain during the First World War whose discovery of a valuable secret — later encoded by Arnold Price — is the hidden treasure at the heart of The Cheyne Mystery.\"",
+      "aliases": [
+        "Schulz",
+        "Captain Schulz"
+      ],
+      "tags": [
+        "character",
+        "secret-keeper",
+        "backstory"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:otto-schulz",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "frau-schulz",
+          "label": "Frau Schulz"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's Secret"
+        }
+      ]
+    },
+    {
+      "id": "paignton",
+      "type": "place",
+      "label": "Paignton",
+      "description": "Coastal town on Tor Bay in South Devon, one of the possible landing sites searched by Cheyne during his pursuit of the Enid.",
+      "aliases": [],
+      "tags": [
+        "devon",
+        "coastal",
+        "pursuit"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:paignton",
+      "relations": [
+        {
+          "type": "related",
+          "target": "torquay",
+          "label": "torquay"
+        },
+        {
+          "type": "related",
+          "target": "brixham",
+          "label": "brixham"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        }
+      ]
+    },
+    {
+      "id": "places-index",
+      "type": "list",
+      "label": "Places Index",
+      "description": "Complete index of all locations appearing in The Cheyne Mystery by Freeman Wills Crofts.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "places",
+        "locations"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:places-index",
+      "relations": []
+    },
+    {
+      "id": "plymouth",
+      "type": "place",
+      "label": "\"Plymouth\"",
+      "description": "\"Plymouth is the city where the opening events of The Cheyne Mystery unfold, including Maxwell Cheyne's drugging at the Edgecombe Hotel.\"",
+      "aliases": [
+        "Plymouth Hotel",
+        "Edgecombe Hotel"
+      ],
+      "tags": [
+        "location",
+        "city",
+        "crime-scene"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:plymouth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth drugging"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "london"
+        }
+      ]
+    },
+    {
+      "id": "plymouth-drugging",
+      "type": "event",
+      "label": "\"The Plymouth Drugging\"",
+      "description": "\"The inciting incident of The Cheyne Mystery -- Maxwell Cheyne is drugged by Blessington at the Edgecombe Hotel in Plymouth, setting the entire adventure in motion.\"",
+      "aliases": [
+        "Edgecombe drugging",
+        "the drugging incident"
+      ],
+      "tags": [
+        "crime",
+        "inciting-incident",
+        "conspiracy"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:plymouth-drugging",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "the burglary at Warren Lodge"
+        }
+      ]
+    },
+    {
+      "id": "rms-maurania",
+      "type": "concept",
+      "label": "\"RMS Maurania\"",
+      "description": "\"An eight-thousand-ton ocean liner on which Arnold Price served as third officer and where the pivotal St. John Price incident occurred.\"",
+      "aliases": [
+        "Maurania",
+        "S.S. Maurania",
+        "the Maurania"
+      ],
+      "tags": [
+        "ship",
+        "ocean-liner",
+        "backstory"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:rms-maurania",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "arnold-price"
+        },
+        {
+          "type": "related",
+          "target": "st-john-price",
+          "label": "st-john-price"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "bombay",
+          "label": "Bombay"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "dangle"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the-conspiracy"
+        }
+      ]
+    },
+    {
+      "id": "sam-pullar",
+      "type": "person",
+      "label": "Sam Pullar",
+      "description": "Contact at Lloyd's Record Department who provided Inspector French with crucial shipping data about the sinking of the Silurian",
+      "aliases": [
+        "Pullar"
+      ],
+      "tags": [
+        "minor-character",
+        "professional",
+        "chapter-19"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:sam-pullar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "inspector-barnes",
+          "label": "Inspector Barnes"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "schulzs-secret",
+      "type": "event",
+      "label": "\"Otto Schulz's Secret\"",
+      "description": "\"Otto Schulz's secret -- a discovery made aboard a German U-boat during the Great War -- is the hidden truth behind the cipher and the driving motivation for Dangle's criminal pursuit.\"",
+      "aliases": [
+        "Schulz's Discovery",
+        "The U-boat Secret"
+      ],
+      "tags": [
+        "plot",
+        "secret",
+        "backstory"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:schulzs-secret",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "otto-schulz"
+        },
+        {
+          "type": "related",
+          "target": "speedwells-intervention",
+          "label": "speedwells-intervention"
+        }
+      ]
+    },
+    {
+      "id": "scotland-yard",
+      "type": "place",
+      "label": "\"Scotland Yard\"",
+      "description": "\"Headquarters of the Metropolitan Police in London, where Inspector French conducts his investigation of Cheyne's case.\"",
+      "aliases": [
+        "The Yard",
+        "New Scotland Yard",
+        "Metropolitan Police"
+      ],
+      "tags": [
+        "police",
+        "london",
+        "headquarters"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:scotland-yard",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        }
+      ]
+    },
+    {
+      "id": "sergeant-burnett",
+      "type": "person",
+      "label": "Sergeant Burnett",
+      "description": "Police sergeant assigned by Inspector French to surveillance duty at Waterloo Station, who successfully identified the taxi used by the suspects",
+      "aliases": [
+        "Burnett"
+      ],
+      "tags": [
+        "police",
+        "minor-character",
+        "chapter-16"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:sergeant-burnett",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "waterloo-station",
+          "label": "waterloo-station"
+        }
+      ]
+    },
+    {
+      "id": "sergeant-carter",
+      "type": "person",
+      "label": "Sergeant Carter",
+      "description": "A police sergeant at Scotland Yard who assisted Inspector French in searches and investigations during the Cheyne Mystery case.",
+      "aliases": [
+        "Carter"
+      ],
+      "tags": [
+        "police",
+        "investigator",
+        "Scotland Yard",
+        "French team"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:sergeant-carter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "sime"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "colton-street"
+        },
+        {
+          "type": "related",
+          "target": "horne-terrace",
+          "label": "horne-terrace"
+        }
+      ]
+    },
+    {
+      "id": "sime",
+      "type": "person",
+      "label": "\"Sime\"",
+      "description": "\"Sime is a criminal associate of James Dangle, serving as the muscle in the Dangle-Sime-Blessington conspiracy in The Cheyne Mystery.\"",
+      "aliases": [
+        "Mr. Sime"
+      ],
+      "tags": [
+        "character",
+        "criminal",
+        "accomplice"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:sime",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's secret"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "burglary at Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the Enid"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        }
+      ]
+    },
+    {
+      "id": "speedwell",
+      "type": "person",
+      "label": "\"Mr. Speedwell\"",
+      "description": "\"Mr. Speedwell is a private inquiry agent from Horton and Lavender's Agency who provides professional investigative support to Maxwell Cheyne.\"",
+      "aliases": [
+        "Speedwell"
+      ],
+      "tags": [
+        "character",
+        "investigator",
+        "ally"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:speedwell",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth drugging"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "speedwells-intervention",
+          "label": "speedwells-intervention"
+        }
+      ]
+    },
+    {
+      "id": "speedwells-intervention",
+      "type": "event",
+      "label": "\"Speedwell's Intervention\"",
+      "description": "\"Mr. Speedwell's intervention marks the moment when professional investigative resources are brought to bear on the Cheyne mystery, shifting the balance of power against Dangle's criminal gang.\"",
+      "aliases": [
+        "Mr. Speedwell's Investigation",
+        "Speedwell's Gambit"
+      ],
+      "tags": [
+        "plot",
+        "investigation",
+        "turning-point"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:speedwells-intervention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth drugging"
+        },
+        {
+          "type": "related",
+          "target": "plymouth",
+          "label": "Plymouth"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "burglary at Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "schulzs-secret"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "sproule",
+      "type": "person",
+      "label": "Mr. Sproule",
+      "description": "A resident of 17 Colton Street, Putney, who contacted Inspector French with critical witness testimony about a motor-car seen outside Sime's house, helping establish the timeline of Joan Merrill's abduction.",
+      "aliases": [
+        "Sproule"
+      ],
+      "tags": [
+        "witness",
+        "neighbor",
+        "Colton Street",
+        "informant"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:sproule",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "sime"
+        },
+        {
+          "type": "related",
+          "target": "colton-street",
+          "label": "colton-street"
+        },
+        {
+          "type": "related",
+          "target": "mrs-sproule",
+          "label": "mrs-sproule"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "hackworth",
+          "label": "hackworth"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        }
+      ]
+    },
+    {
+      "id": "st-john-price",
+      "type": "person",
+      "label": "\"St. John Price\"",
+      "description": "\"A diplomat and genealogist whose discoveries about the Hull barony succession drive the novel's central conspiracy — later revealed to be a fabrication of James Dangle's gang.\"",
+      "aliases": [
+        "St. John",
+        "John Price"
+      ],
+      "tags": [
+        "character",
+        "backstory",
+        "fabrication",
+        "price-family"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:st-john-price",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "arnold-price"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "dangle"
+        },
+        {
+          "type": "related",
+          "target": "lord-hull",
+          "label": "lord-hull"
+        },
+        {
+          "type": "related",
+          "target": "the-conspiracy",
+          "label": "the-conspiracy"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "arnold-price-cipher"
+        }
+      ]
+    },
+    {
+      "id": "susan-dangle",
+      "type": "person",
+      "label": "\"Susan Dangle\"",
+      "description": "\"Susan Dangle is the sister and active accomplice of James Dangle, participating in the conspiracy through impersonation and intelligence-gathering.\"",
+      "aliases": [
+        "Miss Dangle",
+        "Susan"
+      ],
+      "tags": [
+        "character",
+        "criminal",
+        "impersonator"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:susan-dangle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        }
+      ]
+    },
+    {
+      "id": "the-antwerp-investigation",
+      "type": "event",
+      "label": "\"The Antwerp Investigation\"",
+      "description": "\"Inspector French's investigation in Antwerp, Belgium, tracing James Dangle's movements and uncovering the conspirators' maritime expedition plans.\"",
+      "aliases": [
+        "French's Belgian Investigation",
+        "Antwerp Inquiry"
+      ],
+      "tags": [
+        "plot",
+        "investigation",
+        "police"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:the-antwerp-investigation",
+      "relations": []
+    },
+    {
+      "id": "the-conspiracy",
+      "type": "concept",
+      "label": "The Conspiracy",
+      "description": "The organized criminal conspiracy led by James Dangle to seize the Arnold Price cipher and recover Otto Schulz's hidden treasure by any means necessary.",
+      "aliases": [
+        "criminal conspiracy",
+        "Dangle's gang",
+        "the gang"
+      ],
+      "tags": [
+        "concept",
+        "crime",
+        "plot"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:the-conspiracy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "the-treasure",
+          "label": "Otto Schulz's hidden treasure"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth hotel"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "Warren Lodge burglary"
+        },
+        {
+          "type": "related",
+          "target": "the-hopefield-avenue-discovery",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french-takes-charge",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        }
+      ]
+    },
+    {
+      "id": "the-dart-chase",
+      "type": "event",
+      "label": "\"The Dart Chase\"",
+      "description": "\"Cheyne's pursuit of Dangle, Price, and Lewisham from Dartmouth across Devon to London after their escape from the L'Escaut.\"",
+      "aliases": [
+        "Dartmouth Pursuit",
+        "The Devon Chase"
+      ],
+      "tags": [
+        "plot",
+        "pursuit",
+        "chase"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:the-dart-chase",
+      "relations": []
+    },
+    {
+      "id": "the-earlswood-escape",
+      "type": "event",
+      "label": "\"The Earlswood Escape\"",
+      "description": "\"Cheyne's break-in at Dangle's house (Earlswood, Dalton Road, Wembley) to recover the linen tracing, and his dramatic escape when discovered.\"",
+      "aliases": [
+        "Break-in at Earlswood",
+        "Escape from Dalton Road"
+      ],
+      "tags": [
+        "plot",
+        "break-in",
+        "escape"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:the-earlswood-escape",
+      "relations": []
+    },
+    {
+      "id": "the-enid",
+      "type": "concept",
+      "label": "\"The Enid\"",
+      "description": "\"The steam launch used by Blessington to kidnap Maxwell Cheyne and hold him prisoner during the conspiracy to obtain Arnold Price's cipher.\"",
+      "aliases": [
+        "Enid",
+        "the launch Enid",
+        "Enid yacht"
+      ],
+      "tags": [
+        "vessel",
+        "launch",
+        "crime-scene"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:the-enid",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price's cipher"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "plymouth-drugging"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "warren-lodge-burglary"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the-lescaut"
+        }
+      ]
+    },
+    {
+      "id": "the-hopefield-avenue-discovery",
+      "type": "event",
+      "label": "The Hopefield Avenue Discovery",
+      "description": "Maxwell Cheyne discovers and investigates the conspirators' hideout on Hopefield Avenue, a key breakthrough in tracing the gang.",
+      "aliases": [
+        "Laurel Lodge discovery",
+        "Hopefield Avenue house"
+      ],
+      "tags": [
+        "event",
+        "investigation",
+        "chapter-5",
+        "chapter-6",
+        "chapter-7"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:the-hopefield-avenue-discovery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "cipher"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "speedwell",
+          "label": "Mr. Speedwell"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french-takes-charge",
+          "label": "Inspector French took charge"
+        }
+      ]
+    },
+    {
+      "id": "the-lescaut",
+      "type": "concept",
+      "label": "\"The L'Escaut\"",
+      "description": "\"The L'Escaut is the tramp steamer that serves as the ultimate destination in The Cheyne Mystery — the vessel linked to the resolution of Schulz's secret and the final confrontation with Dangle.\"",
+      "aliases": [
+        "L'Escaut",
+        "the Escaut",
+        "the tramp steamer"
+      ],
+      "tags": [
+        "vessel",
+        "goal",
+        "resolution"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:the-lescaut",
+      "relations": [
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's secret"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "cipher"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "london",
+          "label": "London"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        }
+      ]
+    },
+    {
+      "id": "the-lescaut-voyage",
+      "type": "event",
+      "label": "\"The L'Escaut Voyage\"",
+      "description": "\"The conspirators' maritime expedition aboard the L'Escaut from Antwerp to recover Otto Schulz's sunken gold, with Joan Merrill held captive aboard.\"",
+      "aliases": [
+        "Voyage of the L'Escaut",
+        "The Antwerp Expedition"
+      ],
+      "tags": [
+        "plot",
+        "voyage",
+        "maritime"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:the-lescaut-voyage",
+      "relations": []
+    },
+    {
+      "id": "the-photograph",
+      "type": "concept",
+      "label": "The Photograph",
+      "description": "Key photographic evidence used by both the conspirators and the investigators to document the linen tracing and the Arnold Price cipher.",
+      "aliases": [
+        "photographic evidence",
+        "the photographs"
+      ],
+      "tags": [
+        "concept",
+        "evidence",
+        "investigation"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:the-photograph",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-tracing",
+          "label": "linen tracing"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "the-hopefield-avenue-discovery",
+          "label": "Hopefield Avenue house"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french-takes-charge",
+          "label": "Inspector French took charge"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        }
+      ]
+    },
+    {
+      "id": "the-tracing",
+      "type": "concept",
+      "label": "\"The Linen Tracing\"",
+      "description": "\"The linen tracing is the key physical document in The Cheyne Mystery — a sheet of tracing linen that encodes the solution to the Arnold Price cipher and the location of Schulz's secret.\"",
+      "aliases": [
+        "the tracing",
+        "tracing linen",
+        "cipher tracing"
+      ],
+      "tags": [
+        "object",
+        "clue",
+        "cipher"
+      ],
+      "quality": "featured",
+      "source_ref": "the-cheyne-mystery:the-tracing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's secret"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge-burglary",
+          "label": "burglary at Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "hopefield-avenue",
+          "label": "Hopefield Avenue"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        },
+        {
+          "type": "related",
+          "target": "sime",
+          "label": "Sime"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan Dangle"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        }
+      ]
+    },
+    {
+      "id": "the-treasure",
+      "type": "concept",
+      "label": "The Treasure",
+      "description": "The hidden treasure discovered by U-boat captain Otto Schulz during World War I, whose location was encoded in the Arnold Price cipher — the central MacGuffin of the Cheyne mystery.",
+      "aliases": [
+        "sunken treasure",
+        "Schulz's treasure",
+        "buried treasure"
+      ],
+      "tags": [
+        "concept",
+        "treasure",
+        "plot-device"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:the-treasure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "otto-schulz",
+          "label": "Otto Schulz"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price cipher"
+        },
+        {
+          "type": "related",
+          "target": "dangle",
+          "label": "James Dangle"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "Inspector French"
+        },
+        {
+          "type": "related",
+          "target": "the-lescaut",
+          "label": "the L'Escaut"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "Joan Merrill"
+        },
+        {
+          "type": "related",
+          "target": "frau-schulz",
+          "label": "Frau Schulz"
+        },
+        {
+          "type": "related",
+          "target": "arnold-price",
+          "label": "Arnold Price"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "schulzs-secret",
+          "label": "Otto Schulz's Secret"
+        }
+      ]
+    },
+    {
+      "id": "torquay",
+      "type": "place",
+      "label": "Torquay",
+      "description": "Coastal resort town in South Devon, landing place of the Enid during the conspirators' escape and key location in Cheyne's pursuit.",
+      "aliases": [],
+      "tags": [
+        "devon",
+        "coastal",
+        "pursuit"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:torquay",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paignton",
+          "label": "paignton"
+        },
+        {
+          "type": "related",
+          "target": "brixham",
+          "label": "brixham"
+        },
+        {
+          "type": "related",
+          "target": "the-enid",
+          "label": "the-enid"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        }
+      ]
+    },
+    {
+      "id": "warren-lodge",
+      "type": "place",
+      "label": "\"Warren Lodge\"",
+      "description": "\"Maxwell Cheyne's family home, a small Georgian house on the estuary of the River Dart near Dartmouth, Devonshire.\"",
+      "aliases": [
+        "Cheyne's home",
+        "Dartmouth house"
+      ],
+      "tags": [
+        "residence",
+        "devonshire",
+        "dartmouth"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:warren-lodge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "edgecombe-hotel",
+          "label": "Edgecombe Hotel"
+        },
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "Blessington"
+        }
+      ]
+    },
+    {
+      "id": "warren-lodge-burglary",
+      "type": "event",
+      "label": "\"The Warren Lodge Burglary\"",
+      "description": "\"The burglary of Maxwell Cheyne's safe at Warren Lodge, the second crime in the conspiracy to obtain Arnold Price's secret document.\"",
+      "aliases": [
+        "the burglary",
+        "safe burglary"
+      ],
+      "tags": [
+        "crime",
+        "burglary",
+        "break-in"
+      ],
+      "quality": "standard",
+      "source_ref": "the-cheyne-mystery:warren-lodge-burglary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "arnold-price-cipher",
+          "label": "Arnold Price's secret document"
+        },
+        {
+          "type": "related",
+          "target": "plymouth-drugging",
+          "label": "Plymouth drugging"
+        },
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "Maxwell Cheyne's"
+        },
+        {
+          "type": "related",
+          "target": "warren-lodge",
+          "label": "Warren Lodge"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "French"
+        },
+        {
+          "type": "related",
+          "target": "susan-dangle",
+          "label": "Susan"
+        },
+        {
+          "type": "related",
+          "target": "scotland-yard",
+          "label": "Scotland Yard"
+        }
+      ]
+    },
+    {
+      "id": "waterloo-station",
+      "type": "place",
+      "label": "Waterloo Station",
+      "description": "Major London railway terminus used by the criminals to switch vehicles during their escape.",
+      "aliases": [
+        "Waterloo"
+      ],
+      "tags": [
+        "London",
+        "transport",
+        "railway-station"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:waterloo-station",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blessington",
+          "label": "blessington"
+        },
+        {
+          "type": "related",
+          "target": "inspector-french",
+          "label": "inspector-french"
+        },
+        {
+          "type": "related",
+          "target": "sergeant-burnett",
+          "label": "sergeant-burnett"
+        },
+        {
+          "type": "related",
+          "target": "hackworth",
+          "label": "hackworth"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        }
+      ]
+    },
+    {
+      "id": "wembley-park",
+      "type": "place",
+      "label": "Wembley Park",
+      "description": "A park and railway station in northwest London, where Cheyne and Joan took a train during their investigation.",
+      "aliases": [],
+      "tags": [
+        "London",
+        "park",
+        "police-investigation"
+      ],
+      "quality": "basic",
+      "source_ref": "the-cheyne-mystery:wembley-park",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxwell-cheyne",
+          "label": "maxwell-cheyne"
+        },
+        {
+          "type": "related",
+          "target": "joan-merrill",
+          "label": "joan-merrill"
+        },
+        {
+          "type": "related",
+          "target": "baker-street",
+          "label": "baker-street"
+        }
+      ]
+    }
+  ]
+}

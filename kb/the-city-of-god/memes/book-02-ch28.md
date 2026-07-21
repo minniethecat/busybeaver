@@ -1,0 +1,11 @@
+---
+description: "That the Christian religion is health-giving."
+id: book-02-ch28
+label: "Book 2 — Ch. 28: XXVIII"
+tags: ["chapter"]
+type: chapter
+---
+
+[067-001]That the Christian religion is health-giving.
+
+[067-002]They, then, are but abandoned and ungrateful wretches, in deep and fast bondage to that malign spirit, who complain and murmur that men are rescued by the name of Christ from the hellish thraldom of these unclean spirits, and from a participation in their punishment, and are brought out of the night of pestilential ungodliness into the light of most healthful piety. Only such men could murmur that the masses flock to the churches and their chaste acts of worship, where a seemly separation of the sexes is observed; where they learn how they may so spend this earthly life, as to merit a blessed eternity hereafter; where Holy Scripture and instruction in righteousness are proclaimed from a raised platform in presence of all, that both they who do the word may hear to their salvation, and they who do it not may hear to judgment. And though some enter who scoff at such precepts, all their petulance is either quenched by a sudden change, or is restrained through fear or shame. For no filthy and wicked action is there set forth to be gazed at or to be imitated; but either the precepts of the true God are recommended, His miracles narrated, His gifts praised, or His benefits implored.

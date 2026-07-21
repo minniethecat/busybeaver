@@ -1,0 +1,101 @@
+---
+description: "XXXIII: At the Morgue XXXIII At the Morgue It was midnight when John Treverton went upstairs to his study, where there were lighted candles, and a..."
+id: ch33-at-the-morgue
+label: "Chapter 33: At the Morgue"
+tags: ["chapter"]
+type: chapter
+---
+
+## XXXIII: At the Morgue
+
+#### XXXIII
+
+[033-001]At the Morgue
+
+[033-002]It was midnight when [[john-treverton|John Treverton]] went upstairs to his study, where there were lighted candles, and a newly-replenished fire; for it was one of his habits to read or write late at night. This evening he was in no mood for sleep. He lifted the curtain that hung between the two rooms, and looked into the bedroom. Laura had sobbed herself to sleep. The disordered hair, the hand convulsively clasped upon the pillow, told how far from peace her thoughts had been when she sank into the slumber of mental exhaustion. John Treverton bent down and kissed the tear-stained cheek, and then turned from the bed with a sigh.
+
+[033-003]“My sins have fallen heavily upon you, my poor girl,” he said to himself, as he went back to his study and sat down by the fire to think over his position, with all its perplexities and entanglements.
+
+[033-004]Sleep was out of the question. He could only sit and stare at the fire, and review his past life and its manifold follies.
+
+[033-005]How lightly had he flung away the treasure of liberty. Without a thought of the future he had bound himself to a woman for whom he had but the transient liking born of a young man’s fancy—of whom he knew so little, that looking back now, he was unable to recall anything beyond the barest outline of her history. Well, he was paying dearly for that brief infatuation—he was paying a heavy forfeit for those careless days in which he had lived among men without principle, and had sunk almost to as low a level as his companions. He tried to remember anything that his wife had ever told him of her childhood and youth; but he could only remember that she had been very silent as to the past. Once, and once only, on a summer Sabbath night, when they two had been driving home alone together from a dinner in the Bois, and when Zaïre’s tongue had been loosened by champagne and curaçoa, she had talked of her journey to Paris; that long, lonely journey, during which she had so little money in her pocket that she could not even afford to give herself an occasional stage in a diligence, but had been content to get a gratuitous lift now and then in an empty wagon, or on the top of a load of buckwheat. She told him how she had entered Paris faint and thirsty, white with dust from head to foot, as if she had come out of a flour-mill; and how the great city—with its myriad lamps and voices, and the thunder of its wheels—had made her dazed and giddy as she stood at the junction of two great boulevards, looking down the endless vista, where the lights dwindled to a point on the edge of the dark sky. She told him of her career in Paris—how she had begun as a laundress on the quay, and how one Sunday night at the Château des Fleurs a man had come up to her after one of the quadrilles—a fat man with a gray moustache and a large white waistcoat—and had asked her where she had learned to dance; and how she had told him, laughingly, that she had never learned at all—that came naturally to her, like eating and drinking and sleeping—and then he had asked her whether she would like to be a dancer at one of the theatres, and wear a petticoat of golden tissue and white satin boots embroidered with gold—such as she might have seen in the last great spectacle of the *Hind in the Wood*—and she had told him yes, such a life would suit her exactly; whereupon the [[class-and-status|gentleman]] in the white waistcoat told her to present herself at eleven o’clock next morning at a certain big theatre on the Boulevard. She obeyed, saw the gentleman in his private room at the theatre, was engaged as one of a hundred and fifty figurantes, at a salary of twenty francs a week. “And from that to the time when I was the rage at the Students’ Theatre, it was easy,” said [[la-chicot|La Chicot]], with an insolent smile upon her full, red lips. “If I had any other man for my husband I should be the rage at one of the Boulevard Theatres, and the *Figaro* would have an article about me every other week.”
+
+[033-006]“You have never had any fancy for going back to Auray, to see your old friends?” asked the husband once, wondering at the cold egotism of the creature.
+
+[033-007]“I never had a friend in Brittany for whom I cared that,” answered Zaïre, snapping her fingers. “Everyone ill-treated me. My father was a perambulating cider-vat, my poor mother—well, I can pity her, because she was so miserable—whined and whimpered. It was a mercy to all of us when the good God took her.”
+
+[033-008]“And you never had anyone else to care for?” asked Jack, in a speculative mood. “No lover, for instance?”
+
+[033-009]“Lover,” cried La Chicot, her great eyes flashing upon him angrily. “What had I to do with a lover? I was but nineteen when I left that hole.”
+
+[033-010]“Lovers have been heard of even at that early age,” suggested Jack, in his quietest tone; and after that his wife said no more about her past history.
+
+[033-011]Tonight, sitting in idle despondency, looking into the fire, John Treverton, master of [[hazlehurst-manor|Hazlehurst Manor]], husband of a wife he adored, utterly dissociated from that reckless, happy-go-lucky Jack Chicot of Bohemian surroundings, for whom the good and evil of each day had been all-sufficient, and who had never dared to look forward to the inevitable tomorrow, let his thoughts slip back to the bygone days, and saw, as in a picture, those scenes of the past which had impressed themselves most vividly upon his mind when they happened.
+
+[033-012]There was one incident in his married life which had made him wonder, for his wife had not been a woman of a sensitive temper, or easily moved to strong emotion, save when her own pleasure or her own interest was at stake. Yet in this particular instance, she had shown herself as susceptible to pity and terror as a girl of seventeen, fresh from a convent school.
+
+[033-013]They two, husband and wife, had been strolling one summer afternoon upon the quays and bridges, loitering to look at the traffic on the river, sitting to rest under the trees, or turning over the leaves of the old books upon the stalls, and so sauntering carelessly on till they came to the Pont Neuf.
+
+[033-014]“Let us go across and look at Notre Dame,” said the husband, for whom the old church had an inexhaustible charm.
+
+[033-015]“Bah!” cried the wife. “What a fancy you have for staring at old stones.”
+
+[033-016]They crossed the bridge, and sauntered to the front of the noble old cathedral, where already the hand of improvement was beginning to clear away the houses that surrounded and overshadowed its beauty. Jack Chicot was looking up at the glorious western door, built by Philip Augustus, thickly-wrought with fleurs-de-lys, where in days of old had appeared the sculptured images of all the kings of Judah, shrined in niches of stonework, as delicate as lace or spring foliage. His wife’s eyes roved right and left, and all around, seeking some diversion for a mind prone to weariness, when not stimulated by amusement or dissipation,
+
+[033-017]“See, my friend,” she cried, suddenly, clutching her husband’s arm. “There is something! Look, what a crowd of people. Is it a procession or an accident?”
+
+[033-018]“An accident, I think,” answered Chicot, looking down the street facing them, along which a closely packed crowd was hastening, rolling towards them like a mighty wave of black water. “We had better get out of the way.”
+
+[033-019]“But, no,” cried the wife, eagerly. “If there is something to see, let us see it. Life is not too full of distractions.”
+
+[033-020]“It may be something unpleasant,” suggested Jack. “I am afraid they are carrying some poor creature to the Morgue.”
+
+[033-021]“That matters nothing. We may as well see.”
+
+[033-022]So they waited, and fell in among the hurrying crowd, and heard many voices discussing the thing that had happened, every voice offering a different version of the same ghastly story.
+
+[033-023]A man had been run over on the Boulevard—a seafaring man from the provinces—knocked down by the horses of a huge wagon. The horses had kicked him, the wheels had gone over his body. “He was dead when they picked him up,” said one. “No, he spoke, and hardly seemed conscious he was hurt,” said another. “He died while they were waiting for the *brancard* on which to carry him to the hospital,” said a third.
+
+[033-024]And now they were taking him to the Morgue, the famous dead-house of the city, down by the river yonder. He was being carried in the midst of that dense crowd, which had been gathering ever since the bearers started with their ghastly burden, from the Porte St. Denis, where the accident happened. He was there in the centre of that mass of human life, an awful figure, covered from head to foot, and hidden from all those curious eyes.
+
+[033-025]Jack and his wife were borne along with the rest, past the great cathedral, down by the river, to the doors of the dead-house.
+
+[033-026]Here they all came to a stop, no one was allowed to enter save the dead man and his bearers, and three or four *sergents de ville*.
+
+[033-027]“We must wait till they have made his toilet,” said La Chicot to her husband, “and then we can go in and see him.”
+
+[033-028]“What!” cried Jack, “surely you would not wish to look at a piece of shattered humanity. He must be a dreadful sight, poor creature.”
+
+[033-029]“On the contrary, monsieur,” said someone near them in the crowd. “The poor man’s face was not injured. He is a handsome fellow, tanned by the sun, a seafaring man, a fine fellow.”
+
+[033-030]“Let go in and see him,” urged La Chicot, and when La Chicot wanted to do a thing she always did it.
+
+[033-031]So they waited amongst the crowd, close packed still, though about two-thirds of the people had dropped off and gone back to their business or their pleasure; not because they shrank from looking upon death in its most awful aspect; but because the toilet might be long, and the spectacle was not worth the trouble of waiting a weary half hour in the summer sun.
+
+[033-032]La Chicot waited with a dogged patience which was a part of her character, when she had made up her mind about anything. Jack waited patiently, too; for he was watching the faces in the crowd, and had an artistic delight in studying these various specimens of a somewhat debased humanity. Thus the half-hour wore itself out, the doors were opened, and the crowd poured into the dead-house, just as it would have poured into a theatre or a circus.
+
+[033-033]There he lay, the newcomer, with the summer light shining on him, a calm figure behind a sheet of glass, a brave, bronzed face, bearded, with strongly-marked brows, and close-cropped black hair, gold rings in the ears, and on one bare arm, the arm which had escaped the wagon wheel, an inscription tattooed in purple and red.
+
+[033-034]Jack Chicot, after contemplating the dead man’s face with curious interest, fixing the well-marked features in his mind, bent down to look at the tattooed device and inscription.
+
+[033-035]There were a ship, a rose, and these words, “Dedicated to Saint Anne of Auray.”
+
+[033-036]The man was doubtless a native of Auray, La Chicot’s birthplace.
+
+[033-037]Jack turned to remark this to his wife. She was standing close at his elbow, livid as the corpse behind the glass, her face convulsed, big tears rolling down her cheeks.
+
+[033-038]“Do you know him?” asked Jack. “Is it anyone you remember?”
+
+[033-039]“No, no!” she sobbed; “but it is too dreadful. Take me away—take me out of this place, or I shall drop down in a fit.”
+
+[033-040]He hurried her out through the crowd, pushing his way into the open air.
+
+[033-041]“You overrated your strength of nerve,” he said, vexed at the folly which had exposed her to such a shock. “You should not have a fancy for such horrid sights.”
+
+[033-042]“I shall be better presently,” answered La Chicot. “It is nothing.”
+
+[033-043]She was not better presently. She was hysterical all the rest of the day, and at night had no sooner closed her eyes than she started up from her pillow, sobbing violently, and holding her hands before her face.
+
+[033-044]“Don’t let me see him!” she cried, passionately. “Jack, why are you so cruel as to make me see him? You are holding me against the glass—you are forcing me to look at him. Take me away.”
+
+[033-045]Pondering tonight upon this strange scene of five years ago, John Treverton asked himself if there might not have been some kind of link between this man and Zaïre Chicot.

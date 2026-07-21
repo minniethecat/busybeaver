@@ -1,0 +1,47 @@
+---
+description: "Driven Back to Eden — Chapter 10: Scenes on the Wharf"
+id: chapter-10
+label: "Chapter 10: Scenes on the Wharf"
+tags: ["chapter"]
+type: chapter
+---
+
+# X: Scenes on the Wharf
+
+## X
+
+(010-001) Scenes on the Wharf
+
+(010-002) The last night in [[new-york-city|the city]] flat was in truth like camping out, the fatigues of the day brought us sound sleep, and we looked and felt like emigrants. But in the morning we rose with the dawn, from our shakedowns on the floor, to begin eagerly and hopefully our final preparations for departure. In response to my letters [[john-jones|John Jones]] had promised to meet us at the [[maizeville-landing|Maizeville Landing]] with his strong covered rockaway, and to have a fire in the old farmhouse. Load after load was despatched to the boat, for I preferred to deal with one trusty truckman. When all had been taken away, we said goodbye to our [[community|neighbors]] and took the horsecar to the boat, making our quiet exit in the least costly way. I knew the boat would be warm and comfortable, and proposed that we should eat our lunch there.
+
+(010-003) The prospect, however, of seeing the wharves, the boats, and [[the-hudson-river|the river]] destroyed even the children’s appetites. We soon reached the crowded dock. The great steamer appeared to be a part of it, lying along its length with several gangways, over which boxes, barrels, and packages were being hustled on board with perpetual din. The younger children were a little awed at first by the noise and apparent confusion. [[mousie|Mousie]] kept close to my side, and even [[bobsey|Bobsey]] clung to his mother’s hand. The extended upper cabin had staterooms opening along its sides, and was as comfortable as a floating parlor with its arm and rocking chairs. Here, not far from the great heater, I established our headquarters. I made the children locate the spot carefully, and said: “From this point we’ll make excursions. In the first place, [[merton|Merton]], you come with me and see that all our [[family|household]] effects are together and in good order. You must learn to travel and look after things like a man.”
+
+(010-004) We spent a little time in arranging our goods so that they would be safer and more compact. Then we went to the captain and laughingly told him we were emigrants to Maizeville, and hoped before long to send a good deal of produce by his boat. We therefore wished him to “lump” us, goods, children, and all, and deliver us safely at the Maizeville wharf for as small a sum as possible.
+
+(010-005) He good-naturedly agreed, and I found that the chief stage of our journey would involve less outlay than I had expected.
+
+(010-006) Thus far all had gone so well that I began to fear that a change must take place soon, in order that our experience should be more like the common lot of humanity. When at last I took all the children out on the afterdeck, to remove the first edge of their curiosity, I saw that there was at least an ominous change in the weather. The morning had been mild, with a lull in the usual March winds. Now a scud of clouds was drifting swiftly in from the eastward, and chilly, fitful gusts began to moan and sigh about us. A storm was evidently coming, and my hope was that we might reach our haven before it began. I kept my fears to myself, and we watched the long lines of carts converging toward the gangplanks of our own and other steamboats.
+
+(010-007) “See, youngsters,” I cried, “all this means commerce. These loads and loads of things will soon be at stores and homes up the river, supplying the various needs of the people. Tomorrow the residents along the river will bring what they have to sell to this same boat, and by daylight next morning carts will be carrying country produce and manufactured articles all over the city. Thus you see commerce is made by people supplying themselves and each other with what they need. Just as soon as we can bring down a crate of berries and send it to Mr. [[mr-bogart|Bogart]] we shall be adding to the commerce of the world in the best way. We shall become what are called the ‘producers,’ and but for this class the world would soon come to an end.”
+
+(010-008) “ ’Rah!” cried Bobsey, “I’m goin’ to be a p’oducer.”
+
+(010-009) He promised, however, to be a consumer for a long time to come, especially of patience. His native fearlessness soon asserted itself, and he wanted to go everywhere and see everything, asking questions about machinery, navigation, river craft, the contents of every box, bale, or barrel we saw, till I felt that I was being used like a town pump. I pulled him back to the cabin, resolving to stop his mouth for a time at least with the contents of our lunch basket.
+
+(010-010) [[winnie|Winnie]] was almost as bad, or as good, perhaps I should say; for, however great the drain and strain on me might be, I knew that these active little brains were expanding to receive a host of new ideas.
+
+(010-011) Mousie was quiet as usual, and made no trouble, but I saw with renewed hope that this excursion into the world awakened in her a keen and natural interest. Ever since the project of country life had been decided upon, her listless, weary look had been giving place to one of greater animation. The hope of flowers and a garden had fed her life like a deep, hidden spring.
+
+(010-012) To Merton I had given larger liberty, and had said: “It is not necessary for you to stay with me all the time. Come and go on the boat and wharf as you wish. Pick up what knowledge you can. All I ask is that you will use good sense in keeping out of trouble and danger.”
+
+(010-013) I soon observed that he was making acquaintances here and there, and asking questions which would go far to make good his loss of [[education|schooling]] for a time. Finding out about what one sees is, in my belief, one of the best ways of getting an education. The trouble with most of us is that we accept what we see, without inquiry or knowledge.
+
+(010-014) The children were much interested in scenes witnessed from the side of the boat farthest from the wharf. Here in the enclosed water space were several kinds of craft, but the most curious in their eyes was a group of canal boats—“queer travelling houses” Mousie called them; for it was evident that each one had a family on board, and the little entrance to the hidden cabin resembled a hole from which men, women, and children came like rabbits out of a burrow. Tough, hardy, barefooted children were everywhere. While we were looking, one frowsy-headed little girl popped up from her burrow in the boat, and, with legs and feet as red as a boiled lobster, ran along the guards like a squirrel along a fence.
+
+(010-015) “O dear!” sighed Mousie, “I’d rather live in a city flat than in such a house.”
+
+(010-016) “I think it would be splendid,” protested Winnie, “to live in a travelling house. You could go all over and still stay at home.”
+
+(010-017) I was glad on our return to find [[mrs-durham|my wife]] dozing in her chair. She was determined to spend in rest the hours on the boat, and had said that Mousie also must be quiet much of the afternoon.
+
+(010-018) Between three and four the crush on the wharf became very great. Horses and drays were so mixed up that to inexperienced eyes it looked as if they could never be untangled. People of every description, loaded down with parcels, were hurrying on board, and it would seem from our point of view that American women shared with their French sisters an aptness for trade, for among the passengers were not a few substantial, matronly persons who appeared as if they could look the world in the face and get the better of it.

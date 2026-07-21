@@ -1,0 +1,249 @@
+---
+description: "A Chapter of Accidents “Wherein I [speak] of most disastrous chances, Of moving accidents by flood and field, Of hair-breadth ’scapes.” Shakespeare When Tom…"
+id: ch09-a-chapter-of-accidents
+label: "Chapter 9: A Chapter of Accidents"
+tags: ["chapter"]
+type: chapter
+---
+
+### IX
+
+[009-001] A Chapter of Accidents
+
+> “Wherein I [speak] of most disastrous chances,
+
+> Of moving accidents by flood and field,
+
+> Of hair-breadth ’scapes.”
+
+> Shakespeare
+
+[009-002] When [[tom-brown|Tom]] came back into school after a couple of days in the sickroom, he found matters much changed for the better, as [[harry-east|East]] had led him to expect. [[flashman|Flashman]]’s brutality had disgusted most even of his intimate friends, and his cowardice had once more been made plain to the house; for [[diggs-the-mucker|Diggs]] had encountered him on the morning after the lottery, and after high words on both sides, had struck him, and the blow was not returned. However, Flashey was not unused to this sort of thing, and had lived through as awkward affairs before, and, as Diggs had said, fed and toadied himself back into favour again. Two or three of the boys who had helped to roast Tom came up and begged his pardon, and thanked him for not telling anything. Morgan sent for him, and was inclined to take the matter up warmly, but Tom begged him not to do it; to which he agreed, on Tom’s promising to come to him at once in future—a promise which, I regret to say, he didn’t keep. Tom kept Harkaway all to himself, and won the second prize in the lottery, some thirty shillings, which he and East contrived to spend in about three days in the purchase of pictures for their [[the-studies|study]], two new bats and a cricket-ball—all the best that could be got—and a supper of sausages, kidneys, and beefsteak pies to all the rebels. Light come, light go; they wouldn’t have been comfortable with money in their pockets in the middle of the half.
+
+[009-003] The embers of Flashman’s wrath, however, were still smouldering, and burst out every now and then in sly blows and taunts, and they both felt that they hadn’t quite done with him yet. It wasn’t long, however, before the last act of that drama came, and with it the end of [[bullying-at-rugby|bullying]] for Tom and East at Rugby. They now often stole out into the [[the-hall|hall]] at nights, incited thereto partly by the hope of finding Diggs there and having a talk with him, partly by the excitement of doing something which was against rules; for, sad to say, both of our youngsters, since their loss of character for steadiness in their form, had got into the habit of doing things which were forbidden, as a matter of adventure—just in the same way, I should fancy, as men fall into smuggling, and for the same sort of reasons—thoughtlessness in the first place. It never occurred to them to consider why such and such rules were laid down: the reason was nothing to them, and they only looked upon rules as a sort of challenge from the rule-makers, which it would be rather bad [[courage|pluck]] in them not to accept; and then again, in the lower parts of [[the-great-school|the school]] they hadn’t enough to do. The work of the form they could manage to get through pretty easily, keeping a good enough place to get their regular yearly remove; and not having much ambition beyond this, their whole superfluous steam was available for games and scrapes. Now, one rule of the house which it was a daily pleasure of all such boys to break was that after supper all [[fagging|fags]], except the three on duty in the passages, should remain in their own studies until nine o’clock; and if caught about the passages or hall, or in one another’s studies, they were liable to punishments or caning. The rule was stricter than its observance; for most of the sixth spent their evenings in the fifth-form room, where the library was, and the lessons were learnt in common. Every now and then, however, a praepostor would be seized with a fit of district visiting, and would make a tour of the passages and hall and the fags’ studies. Then, if the owner were entertaining a friend or two, the first kick at the door and ominous “Open here” had the effect of the shadow of a hawk over a chicken-yard: everyone cut to cover—one small boy diving under the sofa, another under the table, while the owner would hastily pull down a book or two and open them, and cry out in a meek voice, “Hullo, who’s there?” casting an anxious eye round to see that no protruding leg or elbow could betray the hidden boys. “Open, sir, directly; it’s Snooks.” “Oh, I’m very sorry; I didn’t know it was you, Snooks.” And then with well-feigned zeal the door would be opened, young hopeful praying that that beast Snooks mightn’t have heard the scuffle caused by his coming. If a study was empty, Snooks proceeded to draw the passages and hall to find the truants.
+
+[009-004] Well, one evening, in forbidden hours, Tom and East were in the hall. They occupied the seats before the fire nearest the door, while Diggs sprawled as usual before the farther fire. He was busy with a copy of verses, and East and Tom were chatting together in whispers by the light of the fire, and splicing a favourite old fives bat which had sprung. Presently a step came down the bottom passage. They listened a moment, assured themselves that it wasn’t a praepostor, and then went on with their work, and the door swung open, and in walked Flashman. He didn’t see Diggs, and thought it a good chance to keep his hand in; and as the boys didn’t move for him, struck one of them, to make them get out of his way.
+
+[009-005] “What’s that for?” growled the assaulted one.
+
+[009-006] “Because I choose. You’ve no business here. Go to your study.”
+
+[009-007] “You can’t send us.”
+
+[009-008] “Can’t I? Then I’ll thrash you if you stay,” said Flashman savagely.
+
+[009-009] “I say, you two,” said Diggs, from the end of the hall, rousing up and resting himself on his elbow—“you’ll never get rid of that fellow till you lick him. Go in at him, both of you. I’ll see fair play.”
+
+[009-010] Flashman was taken aback, and retreated two steps. East looked at Tom. “Shall we try!” said he. “Yes,” said Tom desperately. So the two advanced on Flashman, with clenched fists and [[flogging|beating]] hearts. They were about up to his shoulder, but tough boys of their age, and in perfect training; while he, though strong and big, was in poor condition from his monstrous habit of stuffing and want of exercise. Coward as he was, however, Flashman couldn’t swallow such an insult as this; besides, he was confident of having easy work, and so faced the boys, saying, “You impudent young blackguards!” Before he could finish his abuse, they rushed in on him, and began pummelling at all of him which they could reach. He hit out wildly and savagely; but the full force of his blows didn’t tell—they were too near to him. It was long odds, though, in point of strength; and in another minute Tom went spinning backwards over a form, and Flashman turned to demolish East with a savage grin. But now Diggs jumped down from the table on which he had seated himself. “Stop there,” shouted he; “the round’s over—half-minute time allowed.”
+
+[009-011] “What the—is it to you?” faltered Flashman, who began to lose heart.
+
+[009-012] “I’m going to see fair, I tell you,” said Diggs, with a grin, and snapping his great red fingers; “ ’taint fair for you to be [[the-fight|fighting]] one of them at a time.—Are you ready, Brown? Time’s up.”
+
+[009-013] The small boys rushed in again. Closing, they saw, was their best chance, and Flashman was wilder and more flurried than ever: he caught East by the throat, and tried to force him back on the iron-bound table. Tom grasped his waist, and remembering the old throw he had learned in [[vale-of-white-horse|the Vale]] from Harry Winburn, crooked his leg inside Flashman’s, and threw his whole weight forward. The three tottered for a moment, and then over they went on to the floor, Flashman striking his head against a form in the hall.
+
+[009-014] The two youngsters sprang to their legs, but he lay there still. They began to be frightened. Tom stooped down, and then cried out, scared out of his wits, “He’s bleeding awfully. Come here, East! Diggs, he’s dying!”
+
+[009-015] “Not he,” said Diggs, getting leisurely off the table; “it’s all sham; he’s only afraid to fight it out.”
+
+[009-016] East was as frightened as Tom. Diggs lifted Flashman’s head, and he groaned.
+
+[009-017] “What’s the matter?” shouted Diggs.
+
+[009-018] “My skull’s fractured,” sobbed Flashman.
+
+[009-019] “Oh, let me run for the housekeeper!” cried Tom. “What shall we do?”
+
+[009-020] “Fiddlesticks! It’s nothing but the skin broken,” said the relentless Diggs, feeling his head. “Cold water and a bit of rag’s all he’ll want.”
+
+[009-021] “Let me go,” said Flashman surlily, sitting up; “I don’t want your help.”
+
+[009-022] “We’re really very sorry—” began East.
+
+[009-023] “Hang your sorrow!” answered Flashman, holding his handkerchief to the place; “you shall pay for this, I can tell you, both of you.” And he walked out of the hall.
+
+[009-024] “He can’t be very bad,” said Tom, with a deep sigh, much relieved to see his enemy march so well.
+
+[009-025] “Not he,” said Diggs; “and you’ll see you won’t be troubled with him any more. But, I say, your head’s broken too; your collar is covered with blood.”
+
+[009-026] “Is it though?” said Tom, putting up his hand; “I didn’t know it.”
+
+[009-027] “Well, mop it up, or you’ll have your jacket spoilt. And you have got a nasty eye, Scud. You’d better go and bathe it well in cold water.”
+
+[009-028] “Cheap enough too, if we’re done with our old friend Flashey,” said East, as they made off upstairs to bathe their wounds.
+
+[009-029] They had done with Flashman in one sense, for he never laid finger on either of them again; but whatever harm a spiteful heart and venomous tongue could do them, he took care should be done. Only throw dirt enough, and some of it is sure to stick; and so it was with the [[the-forms|fifth form]] and the bigger boys in general, with whom he associated more or less, and they not at all. Flashman managed to get Tom and East into disfavour, which did not wear off for some time after the author of it had disappeared from the School world. This event, much prayed for by the small fry in general, took place a few months after the above encounter. One fine summer evening Flashman had been regaling himself on gin-punch, at Brownsover; and, having exceeded his usual limits, started home uproarious. He fell in with a friend or two coming back from bathing, proposed a glass of beer, to which they assented, the weather being hot, and they thirsty souls, and unaware of the quantity of drink which Flashman had already on board. The short result was, that Flashey became beastly drunk. They tried to get him along, but couldn’t; so they chartered a hurdle and two men to carry him. One of the masters came upon them, and they naturally enough fled. The flight of the rest raised the master’s suspicions, and the good angel of the fags incited him to examine the freight, and, after examination, to convoy the hurdle himself up to [[schoolhouse|the Schoolhouse]]; and [[the-doctor|the Doctor]], who had long had his eye on Flashman, arranged for his withdrawal next morning.
+
+[009-030] The evil that men and boys too do lives after them: Flashman was gone, but our boys, as hinted above, still felt the effects of his hate. Besides, they had been the movers of the strike against unlawful fagging. The cause was righteous—the result had been triumphant to a great extent; but the best of the fifth—even those who had never fagged the small boys, or had given up the practice cheerfully—couldn’t help feeling a small grudge against the first rebels. After all, their form had been defied, on just grounds, no doubt—so just, indeed, that they had at once acknowledged the wrong, and remained passive in the strife. Had they sided with Flashman and his set, the rebels must have given way at once. They couldn’t help, on the whole, being glad that they had so acted, and that the resistance had been successful against such of their own form as had shown fight; they felt that law and order had gained thereby, but the ringleaders they couldn’t quite pardon at once. “Confoundedly coxy those young rascals will get, if we don’t mind,” was the general feeling.
+
+[009-031] So it is, and must be always, my dear boys. If the angel Gabriel were to come down from heaven, and head a successful rise against the most abominable and unrighteous vested interest which this poor old world groans under, he would most certainly lose his character for many years, probably for centuries, not only with the upholders of said vested interest, but with the respectable mass of the people whom he had delivered. They wouldn’t ask him to dinner, or let their names appear with his in the papers; they would be very careful how they spoke of him in the Palaver, or at their clubs. What can we expect, then, when we have only poor gallant blundering men like Kossuth, Garibaldi, Mazzini, and righteous causes which do not triumph in their hands—men who have holes enough in their armour, God knows, easy to be hit by respectabilities sitting in their lounging chairs, and having large balances at their bankers’? But you are brave, gallant boys, who hate easy-chairs, and have no balances or bankers. You only want to have your heads set straight, to take the right side; so bear in mind that majorities, especially respectable ones, are nine times out of ten in the wrong; and that if you see a man or boy striving earnestly on the weak side, however wrongheaded or blundering he may be, you are not to go and join the cry against him. If you can’t join him and help him, and make him wiser, at any rate remember that he has found something in the world which he will fight and suffer for, which is just what you have got to do for yourselves; and so think and speak of him tenderly.
+
+[009-032] So East and Tom, [[tadpole|the Tadpole]], and one or two more, became a sort of young Ishmaelites, their hands against everyone, and everyone’s hand against them. It has been already told how they got to war with the masters and the fifth form, and with the sixth it was much the same. They saw the [[praepostor|praepostors]] cowed by or joining with the fifth and shirking their own duties; so they didn’t respect them, and rendered no willing obedience. It had been one thing to clean out studies for sons of heroes like [[old-brooke|old Brooke]], but was quite another to do the like for Snooks and [[green|Green]], who had never faced a good scrummage at [[football-at-rugby|football]], and couldn’t keep the passages in order at night. So they only slurred through their fagging just well enough to escape a licking, and not always that, and got the character of sulky, unwilling fags. In the fifth-form room, after supper, when such matters were often discussed and arranged, their names were forever coming up.
+
+[009-033] “I say, Green,” Snooks began one night, “isn’t that new boy, Harrison, your fag?”
+
+[009-034] “Yes; why?”
+
+[009-035] “Oh, I know something of him at home, and should like to excuse him. Will you swap?”
+
+[009-036] “Who will you give me?”
+
+[009-037] “Well, let’s see. There’s Willis, Johnson. No, that won’t do. Yes, I have it. There’s young East; I’ll give you him.”
+
+[009-038] “Don’t you wish you may get it?” replied Green. “I’ll give you two for Willis, if you like.”
+
+[009-039] “Who, then?” asked Snooks. “Hall and Brown.”
+
+[009-040] “Wouldn’t have ’em at a gift.”
+
+[009-041] “Better than East, though; for they ain’t quite so sharp,” said Green, getting up and leaning his back against the mantelpiece. He wasn’t a bad fellow, and couldn’t help not being able to put down the unruly fifth form. His eye twinkled as he went on, “Did I ever tell you how the young vagabond sold me last half?”
+
+[009-042] “No; how?”
+
+[009-043] “Well, he never half cleaned my study out—only just stuck the candlesticks in the cupboard, and swept the crumbs on to the floor. So at last I was mortal angry, and had him up, and made him go through the whole performance under my eyes. The dust the young scamp made nearly choked me, and showed that he hadn’t swept the carpet before. Well, when it was all finished, ‘Now, young [[gentleman-ideal|gentleman]],’ says I, ‘mind, I expect this to be done every morning—floor swept, tablecloth taken off and shaken, and everything dusted.’ ‘Very well,’ grunts he. Not a bit of it though. I was quite sure, in a day or two, that he never took the tablecloth off even. So I laid a trap for him. I tore up some paper, and put half a dozen bits on my table one night, and the cloth over them as usual. Next morning after breakfast up I came, pulled off the cloth, and, sure enough, there was the paper, which fluttered down on to the floor. I was in a towering rage. ‘I’ve got you now,’ thought I, and sent for him, while I got out my cane. Up he came as cool as you please, with his hands in his pockets. ‘Didn’t I tell you to shake my tablecloth every morning?’ roared I. ‘Yes,’ says he. ‘Did you do it this morning?’ ‘Yes.’ ‘You young liar! I put these pieces of paper on the table last night, and if you’d taken the tablecloth off you’d have seen them, so I’m going to give you a good licking.’ Then my youngster takes one hand out of his pocket, and just stoops down and picks up two of the bits of paper, and holds them out to me. There was written on each, in great round text, ‘Harry East, his mark.’ The young rogue had found my trap out, taken away my paper, and put some of his there, every bit earmarked. I’d a great mind to lick him for his impudence; but, after all, one has no right to be laying traps, so I didn’t. Of course I was at his mercy till the end of the half, and in his weeks my study was so frowzy I couldn’t sit in it.”
+
+[009-044] “They spoil one’s things so, too,” chimed in a third boy. “Hall and Brown were night-fags last week. I called ‘fag,’ and gave them my candlesticks to clean. Away they went, and didn’t appear again. When they’d had time enough to clean them three times over, I went out to look after them. They weren’t in the passages so down I went into the hall, where I heard music; and there I found them sitting on the table, listening to Johnson, who was playing the flute, and my candlesticks stuck between the bars well into the fire, red-hot, clean spoiled. They’ve never stood straight since, and I must get some more. However, I gave them a good licking; that’s one comfort.”
+
+[009-045] Such were the sort of scrapes they were always getting into; and so, partly by their own faults, partly from circumstances, partly from the faults of others, they found themselves outlaws, ticket-of-leave men, or what you will in that line—in short, dangerous parties—and lived the sort of hand-to-mouth, wild, reckless life which such parties generally have to put up with. Nevertheless they never quite lost favour with young Brooke, who was now the cock of the house, and just getting into the sixth; and Diggs stuck to them like a man, and gave them store of good advice, by which they never in the least profited.
+
+[009-046] And even after the house mended, and law and order had been restored, which soon happened after young Brooke and Diggs got into the sixth, they couldn’t easily or at once return into the paths of steadiness, and many of the old, wild, out-of-bounds habits stuck to them as firmly as ever. While they had been quite little boys, the scrapes they got into in the School hadn’t much mattered to anyone; but now they were in the upper school, all wrongdoers from which were sent up straight to the Doctor at once. So they began to come under his notice; and as they were a sort of leaders in a small way amongst their own contemporaries, his eye, which was everywhere, was upon them.
+
+[009-047] It was a toss-up whether they turned out well or ill, and so they were just the boys who caused most anxiety to such a master. You have been told of the first occasion on which they were sent up to the Doctor, and the remembrance of it was so pleasant that they had much less fear of him than most boys of their standing had. “It’s all his look,” Tom used to say to East, “that frightens fellows. Don’t you remember, he never said anything to us my first half-year for being an hour late for locking-up?”
+
+[009-048] The next time that Tom came before him, however, the interview was of a very different kind. It happened just about the time at which we have now arrived, and was the first of a series of scrapes into which our hero managed now to tumble.
+
+[009-049] The river Avon at Rugby is a slow and not very clear stream, in which chub, dace, roach, and other coarse fish are (or were) plentiful enough, together with a fair sprinkling of small jack, but no fish worth sixpence either for sport or food. It is, however, a capital river for bathing, as it has many nice small pools and several good reaches for swimming, all within about a mile of one another, and at an easy twenty minutes’ walk from the school. This mile of water is rented, or used to be rented, for bathing purposes by the trustees of the School, for the boys. The footpath to Brownsover crosses the river by “the Planks,” a curious old single-plank bridge running for fifty or sixty yards into the flat meadows on each side of the river—for in the winter there are frequent floods. Above the Planks were the bathing-places for the smaller boys—Sleath’s, the first bathing-place, where all new boys had to begin, until they had proved to the bathing men (three steady individuals, who were paid to attend daily through the summer to prevent accidents) that they could swim pretty decently, when they were allowed to go on to Anstey’s, about one hundred and fifty yards below. Here there was a hole about six feet deep and twelve feet across, over which the puffing urchins struggled to the opposite side, and thought no small beer of themselves for having been out of their depths. Below the Planks came larger and deeper holes, the first of which was Wratislaw’s, and the last Swift’s, a famous hole, ten or twelve feet deep in parts, and thirty yards across, from which there was a fine swimming reach right down to the mill. Swift’s was reserved for the sixth and fifth forms, and had a spring board and two sets of steps: the others had one set of steps each, and were used indifferently by all the lower boys, though each house addicted itself more to one hole than to another. The Schoolhouse at this time affected Wratislaw’s hole, and Tom and East, who had learnt to swim like fishes, were to be found there as regular as the clock through the summer, always twice, and often three times a day.
+
+[009-050] Now the boys either had, or fancied they had, a right also to fish at their pleasure over the whole of this part of the river, and would not understand that the right (if any) only extended to the Rugby side. As ill-luck would have it, the gentleman who owned the opposite bank, after allowing it for some time without interference, had ordered his keepers not to let the boys fish on his side—the consequence of which had been that there had been first wranglings and then fights between the keepers and boys; and so keen had the quarrel become that the landlord and his keepers, after a ducking had been inflicted on one of the latter, and a fierce fight ensued thereon, had been up to the great school at calling-over to identify the delinquents, and it was all the Doctor himself and five or six masters could do to keep the peace. Not even his authority could prevent the hissing; and so strong was the feeling that the four praepostors of the week walked up the school with their canes, shouting “S-s-s-s-i-lenc-c-c-c-e” at the top of their voices. However, the chief offenders for the time were flogged and kept in bounds; but the victorious party had brought a nice hornet’s nest about their ears. The landlord was hissed at the School-gates as he rode past, and when he charged his horse at the mob of boys, and tried to thrash them with his whip, was driven back by cricket-bats and wickets, and pursued with pebbles and fives balls; while the wretched keepers’ lives were a burden to them, from having to watch the waters so closely.
+
+[009-051] The Schoolhouse boys of Tom’s standing, one and all, as a protest against this tyranny and cutting short of their lawful amusements, took to fishing in all ways, and especially by means of night-lines. The little tacklemaker at the bottom of the town would soon have made his fortune had the rage lasted, and several of the barbers began to lay in fishing-tackle. The boys had this great advantage over their enemies, that they spent a large portion of the day in nature’s garb by the riverside, and so, when tired of swimming, would get out on the other side and fish, or set night-lines, till the keepers hove in sight, and then plunge in and swim back and mix with the other bathers, and the keepers were too wise to follow across the stream.
+
+[009-052] While things were in this state, one day Tom and three or four others were bathing at Wratislaw’s, and had, as a matter of course, been taking up and resetting night-lines. They had all left the water, and were sitting or standing about at their toilets, in all costumes, from a shirt upwards, when they were aware of a man in a velveteen shooting-coat approaching from the other side. He was a new keeper, so they didn’t recognize or notice him, till he pulled up right opposite, and began:
+
+[009-053] “I see’d some of you young gentlemen over this side a-fishing just now.”
+
+[009-054] “Hullo! who are you? What business is that of yours, old Velveteens?”
+
+[009-055] “I’m the new under-keeper, and master’s told me to keep a sharp lookout on all o’ you young chaps. And I tells ’ee I means business, and you’d better keep on your own side, or we shall fall out.”
+
+[009-056] “Well, that’s right, Velveteens; speak out, and let’s know your mind at once.”
+
+[009-057] “Look here, old boy,” cried East, holding up a miserable, coarse fish or two and a small jack; “would you like to smell ’em and see which bank they lived under?”
+
+[009-058] “I’ll give you a bit of advice, keeper,” shouted Tom, who was sitting in his shirt paddling with his feet in the river: “you’d better go down there to Swift’s, where the big boys are; they’re beggars at setting lines, and’ll put you up to a wrinkle or two for catching the five-pounders.” Tom was nearest to the keeper, and that officer, who was getting angry at the chaff, fixed his eyes on our hero, as if to take a note of him for future use. Tom returned his gaze with a steady stare, and then broke into a laugh, and struck into the middle of a favourite Schoolhouse song—
+
+> “As I and my companions
+
+> Were setting of a snare
+
+> The gamekeeper was watching us;
+
+> For him we did not care:
+
+> For we can wrestle and fight, my boys,
+
+> And jump out anywhere.
+
+> For it’s my delight of a likely night,
+
+> In the season of the year.”
+
+[009-059] The chorus was taken up by the other boys with shouts of laughter, and the keeper turned away with a grunt, but evidently bent on mischief. The boys thought no more of the matter.
+
+[009-060] But now came on the Mayfly season; the soft, hazy summer weather lay sleepily along the rich meadows by Avon side, and the green and gray flies flickered with their graceful, lazy up-and-down flight over the reeds and the water and the meadows, in myriads upon myriads. The Mayflies must surely be the lotus-eaters of the ephemerae—the happiest, laziest, carelessest fly that dances and dreams out his few hours of sunshiny life by English rivers.
+
+[009-061] Every little pitiful, coarse fish in the Avon was on the alert for the flies, and gorging his wretched carcass with hundreds daily, the gluttonous rogues! and every lover of the gentle craft was out to avenge the poor Mayflies.
+
+[009-062] So one fine Thursday afternoon, Tom, having borrowed East’s new rod, started by himself to the river. He fished for some time with small success—not a fish would rise at him; but as he prowled along the bank, he was presently aware of mighty ones feeding in a pool on the opposite side, under the shade of a huge willow-tree. The stream was deep here, but some fifty yards below was a shallow, for which he made off hotfoot; and forgetting landlords, keepers, solemn prohibitions of the Doctor, and everything else, pulled up his trousers, plunged across, and in three minutes was creeping along on all fours towards the clump of willows.
+
+[009-063] It isn’t often that great chub, or any other coarse fish, are in earnest about anything; but just then they were thoroughly bent on feeding, and in half an hour Master Tom had deposited three thumping fellows at the foot of the giant willow. As he was baiting for a fourth pounder, and just going to throw in again, he became aware of a man coming up the bank not one hundred yards off. Another look told him that it was the under-keeper. Could he reach the shallow before him? No, not carrying his rod. Nothing for it but the tree. So Tom laid his bones to it, shinning up as fast as he could, and dragging up his rod after him. He had just time to reach and crouch along upon a huge branch some ten feet up, which stretched out over the river, when the keeper arrived at the clump. Tom’s heart beat fast as he came under the tree; two steps more and he would have passed, when, as ill-luck would have it, the gleam on the scales of the dead fish caught his eye, and he made a dead point at the foot of the tree. He picked up the fish one by one; his eye and touch told him that they had been alive and feeding within the hour. Tom crouched lower along the branch, and heard the keeper beating the clump. “If I could only get the rod hidden,” thought he, and began gently shifting it to get it alongside of him; “willowtrees don’t throw out straight hickory shoots twelve feet long, with no leaves, worse luck.” Alas! the keeper catches the rustle, and then a sight of the rod, and then of Tom’s hand and arm.
+
+[009-064] “Oh, be up ther’, be ’ee?” says he, running under the tree. “Now you come down this minute.”
+
+[009-065] “Tree’d at last,” thinks Tom, making no answer, and keeping as [[the-close|close]] as possible, but working away at the rod, which he takes to pieces. “I’m in for it, unless I can starve him out.” And then he begins to meditate getting along the branch for a plunge, and scramble to the other side; but the small branches are so thick, and the opposite bank so difficult, that the keeper will have lots of time to get round by the ford before he can get out, so he gives that up. And now he hears the keeper beginning to scramble up the trunk. That will never do; so he scrambles himself back to where his branch joins the trunk; and stands with lifted rod.
+
+[009-066] “Hullo, Velveteens; mind your fingers if you come any higher.”
+
+[009-067] The keeper stops and looks up, and then with a grin says, “Oh! be you, be it, young measter? Well, here’s luck. Now I tells ’ee to come down at once, and ’t’ll be best for ’ee.”
+
+[009-068] “Thank ’ee, Velveteens; I’m very comfortable,” said Tom, shortening the rod in his hand, and preparing for battle.
+
+[009-069] “Werry well; please yourself,” says the keeper, descending, however, to the ground again, and taking his seat on the bank. “I bean’t in no hurry, so you may take your time. I’ll l’arn ’ee to gee honest folk names afore I’ve done with ’ee.”
+
+[009-070] “My luck as usual,” thinks Tom; “what a fool I was to give him a black! If I’d called him ‘keeper,’ now, I might get off. The return match is all his way.”
+
+[009-071] The keeper quietly proceeded to take out his pipe, fill, and light it, keeping an eye on Tom, who now sat disconsolately across the branch, looking at keeper—a pitiful sight for men and fishes. The more he thought of it the less he liked it. “It must be getting near second calling-over,” thinks he. Keeper smokes on stolidly. “If he takes me up, I shall be flogged safe enough. I can’t sit here all night. Wonder if he’ll rise at silver.”
+
+[009-072] “I say, keeper,” said he meekly, “let me go for two bob?”
+
+[009-073] “Not for twenty neither,” grunts his persecutor.
+
+[009-074] And so they sat on till long past second calling-over, and the sun came slanting in through the willow-branches, and telling of locking-up near at hand.
+
+[009-075] “I’m coming down, keeper,” said Tom at last, with a sigh, fairly tired out. “Now what are you going to do?”
+
+[009-076] “Walk ’ee up to School, and give ’ee over to the Doctor; them’s my orders,” says Velveteens, knocking the ashes out of his fourth pipe, and standing up and shaking himself.
+
+[009-077] “Very good,” said Tom; “but hands off, you know. I’ll go with you quietly, so no collaring or that sort of thing.”
+
+[009-078] Keeper looked at him a minute. “Werry good,” said he at last. And so Tom descended, and wended his way drearily by the side of the keeper, up to the Schoolhouse, where they arrived just at locking-up. As they passed the School-gates, the Tadpole and several others who were standing there caught the state of things, and rushed out, crying, “Rescue!” But Tom shook his head; so they only followed to the Doctor’s gate, and went back sorely puzzled.
+
+[009-079] How changed and stern the Doctor seemed from the last time that Tom was up there, as the keeper told the story, not omitting to state how Tom had called him blackguard names. “Indeed, sir,” broke in the culprit, “it was only Velveteens.” The Doctor only asked one question.
+
+[009-080] “You know the rule about the banks, Brown?”
+
+[009-081] “Yes, sir.”
+
+[009-082] “Then wait for me tomorrow, after first lesson.”
+
+[009-083] “I thought so,” muttered Tom.
+
+[009-084] “And about the rod, sir?” went on the keeper. “Master’s told we as we might have all the rods—”
+
+[009-085] “Oh, please, sir,” broke in Tom, “the rod isn’t mine.”
+
+[009-086] The Doctor looked puzzled; but the keeper, who was a good-hearted fellow, and melted at Tom’s evident distress, gave up his claim. Tom was flogged next morning, and a few days afterwards met Velveteens, and presented him with half a crown for giving up the rod claim, and they became sworn friends; and I regret to say that Tom had many more fish from under the willow that Mayfly season, and was never caught again by Velveteens.
+
+[009-087] It wasn’t three weeks before Tom, and now East by his side, were again in the awful presence. This time, however, the Doctor was not so terrible. A few days before, they had been fagged at fives to fetch the balls that went off the court. While standing watching the game, they saw five or six nearly new balls hit on the top of the School. “I say, Tom,” said East, when they were dismissed, “couldn’t we get those balls somehow?”
+
+[009-088] “Let’s try, anyhow.”
+
+[009-089] So they reconnoitred the walls carefully, borrowed a coal-hammer from old Stumps, bought some big nails, and after one or two attempts, scaled the Schools, and possessed themselves of huge quantities of fives balls. The place pleased them so much that they spent all their spare time there, scratching and cutting their names on the top of every tower; and at last, having exhausted all other places, finished up with inscribing H. East, T. Brown, on the minute-hand of the great clock; in the doing of which they held the minute-hand, and disturbed the clock’s economy. So next morning, when masters and boys came trooping down to prayers, and entered the quadrangle, the injured minute-hand was indicating three minutes to the hour. They all pulled up, and took their time. When the hour struck, doors were closed, and half the school late. Thomas being set to make inquiry, discovers their names on the minute-hand, and reports accordingly; and they are sent for, a knot of their friends making derisive and pantomimic allusions to what their fate will be as they walk off.
+
+[009-090] But the Doctor, after hearing their story, doesn’t make much of it, and only gives them thirty lines of Homer to learn by heart, and a lecture on the likelihood of such exploits ending in broken bones.
+
+[009-091] Alas! almost the next day was one of the great fairs in the town; and as several rows and other disagreeable accidents had of late taken place on these occasions, the Doctor gives out, after prayers in the morning, that no boy is to go down into the town. Wherefore East and Tom, for no earthly pleasure except that of doing what they are told not to do, start away, after second lesson, and making a short circuit through the fields, strike a back lane which leads into the town, go down it, and run plump upon one of the masters as they emerge into the High Street. The master in question, though a very clever, is not a righteous man. He has already caught several of his own pupils, and gives them lines to learn, while he sends East and Tom, who are not his pupils, up to the Doctor, who, on learning that they had been at prayers in the morning, flogs them soundly.
+
+[009-092] The flogging did them no good at the time, for the injustice of their captor was rankling in their minds; but it was just the end of the half, and on the next evening but one Thomas knocks at their door, and says the Doctor wants to see them. They look at one another in silent dismay. What can it be now? Which of their countless wrongdoings can he have heard of officially? However, it’s no use delaying, so up they go to the study. There they find the Doctor, not angry, but very graver. “He has sent for them to speak to very seriously before they go home. They have each been flogged several times in the half-year for direct and wilful breaches of rules. This cannot go on. They are doing no good to themselves or others, and now they are getting up in the School, and have influence. They seem to think that rules are made capriciously, and for the pleasure of the masters; but this is not so. They are made for the good of the whole School, and must and shall be obeyed. Those who thoughtlessly or wilfully break them will not be allowed to stay at the School. He should be sorry if they had to leave, as the School might do them both much good, and wishes them to think very seriously in the holidays over what he has said. Good night.”
+
+[009-093] And so the two hurry off horribly scared; the idea of having to leave has never crossed their minds, and is quite unbearable.
+
+[009-094] As they go out, they meet at the door old Holmes, a sturdy, cheery praepostor of another house, who goes in to the Doctor; and they hear his genial, hearty greeting of the newcomer, so different to their own reception, as the door closes, and return to their study with heavy hearts, and tremendous resolves to break no more rules.
+
+[009-095] Five minutes afterwards the master of their form—a late arrival and a model young master—knocks at the Doctor’s study-door. “Come in!” And as he enters, the Doctor goes on, to Holmes—“You see, I do not know anything of the case officially, and if I take any notice of it at all, I must publicly expel the boy. I don’t wish to do that, for I think there is some good in him. There’s nothing for it but a good sound thrashing.” He paused to shake hands with the master, which Holmes does also, and then prepares to leave.
+
+[009-096] “I understand. Good night, sir.”
+
+[009-097] “Good night, Holmes. And remember,” added the Doctor, emphasizing the words, “a good sound thrashing before the whole house.”
+
+[009-098] The door closed on Holmes; and the Doctor, in answer to the puzzled look of his lieutenant, explained shortly. “A gross case of bullying. Wharton, the head of the house, is a very good fellow, but slight and weak, and severe physical pain is the only way to deal with such a case; so I have asked Holmes to take it up. He is very careful and trustworthy, and has plenty of strength. I wish all the sixth had as much. We must have it here, if we are to keep order at all.”
+
+[009-099] Now I don’t want any wiseacres to read this book, but if they should, of course they will prick up their long ears, and howl, or rather bray, at the above story. Very good—I don’t object; but what I have to add for you boys is this, that Holmes called a levy of his house after breakfast next morning, made them a speech on the case of bullying in question, and then gave the bully a “good sound thrashing;” and that years afterwards, that boy sought out Holmes, and thanked him, saying it had been the kindest act which had ever been done upon him, and the turning-point in his character; and a very good fellow he became, and a credit to his School.
+
+[009-100] After some other talk between them, the Doctor said, “I want to speak to you about two boys in your form, East and Brown. I have just been speaking to them. What do you think of them?”
+
+[009-101] “Well, they are not hard workers, and very thoughtless and full of spirits; but I can’t help liking them. I think they are sound, good fellows at the bottom.”
+
+[009-102] “I’m glad of it. I think so too: But they make me very uneasy. They are taking the lead a good deal amongst the fags in my house, for they are very active, bold fellows. I should be sorry to lose them, but I shan’t let them stay if I don’t see them gaining character and manliness. In another year they may do great harm to all the younger boys.”
+
+[009-103] “Oh, I hope you won’t send them away,” pleaded their master.
+
+[009-104] “Not if I can help it. But now I never feel sure, after any half-holiday, that I shan’t have to flog one of them next morning, for some foolish, thoughtless scrape. I quite dread seeing either of them.”
+
+[009-105] They were both silent for a minute. Presently the Doctor began again:—
+
+[009-106] “They don’t feel that they have any duty or work to do in the school, and how is one to make them feel it?”
+
+[009-107] “I think if either of them had some little boy to take care of, it would steady them. Brown is the most reckless of the two, I should say. East wouldn’t get into so many scrapes without him.”
+
+[009-108] “Well,” said the Doctor, with something like a sigh, “I’ll think of it.” And they went on to talk of other subjects.

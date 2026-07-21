@@ -1,61 +1,83 @@
 ---
+description: >
 id: body
 label: Body
+tags: []
 type: concept
-description: "Wollstonecraft's concept of the body as the neglected foundation of women's rational capacity — arguing that physical weakness is socially produced, that bodily dependence produces mental dependence, and that the strengthening of the body is essential to the cultivation of the mind"
-tags: ["body-mind", "education", "gender", "health", "physical-culture"]
 ---
 
-The **body** in Wollstonecraft's *Vindication* is not merely the physical vessel of the mind but a site of political and educational contestation. She argues that women's bodies have been deliberately weakened by a system of education that confines them to "useless postures" (003-011), and that this physical enfeeblement produces the mental dependence that passes for feminine virtue.
-
-Her insistence on physical education for women is among the most radical dimensions of her argument. "Strengthen the female mind by enlarging it," she writes, "and there will be an end to blind obedience; but as blind obedience is ever sought for by power, tyrants and sensualists will endeavour to keep women in the dark" (002-052) — and the darkening begins with the body.
+# Body
 
 ## Definition
 
-Wollstonecraft treats the body in the context of the eighteenth-century mind-body dualism that she both inherits and complicates. On one hand, she accepts the hierarchy that subordinates body to mind: humanity is kin to God "by his spirit" and to beasts "by his body" (002-005). On the other hand, she insists that the body cannot be neglected without damaging the mind that depends on it.
+In Wollstonecraft's philosophy, the **body** is not opposed to the mind but is
+its necessary foundation. A weak, sickly body cannot support a strong, active
+mind. Her insistence on physical education for women is grounded in this
+conviction: bodily health and strength are prerequisites for intellectual
+development and moral agency.
 
-The concept of "dependence of body" (003-021) is central to her analysis. She argues that physical dependence — the inability to move, act, and labour independently — "naturally produces dependence of mind" (003-021). Women who are physically weak become mentally weak, not because weakness is natural to them but because the body that houses the mind is systematically enfeebled.
+## Body and Mind
 
-The ideal she proposes is the simultaneous strengthening of body and mind. "The woman who strengthens her body and exercises her mind will, by managing her family and practising various virtues, become the friend, and not the humble dependent of her husband" (002-052). Physical strength is not an end in itself but the condition of rational independence.
+Wollstonecraft pairs body and mind throughout the *Vindication*, arguing that the
+two develop — or degenerate — together:
 
-## Wollstonecraft's Argument
+> "to acquire strength, both of mind and body" (P03-008)
 
-Wollstonecraft's argument about the body proceeds through three interconnected claims. First, she argues that women's physical weakness is not natural but produced — the result of an education that "prevents the body from attaining" (002-019) the strength and grace that nature intends. The "false notions of modesty" (002-019) that confine girls to sedentary pursuits are, she insists, a mechanism of control.
+The neglect of women's physical education is, in her analysis, part of a broader
+system designed to keep women weak and dependent. If women are taught only to be
+delicate — corseted, sedentary, sheltered from fresh air and exercise — their
+bodies will be as weak as their minds.
 
-Second, she argues that bodily weakness produces mental weakness. "Dependence of body naturally produces dependence of mind" (003-021) — the mind, habituated to the body's passivity, "shapes itself to the body, and, roaming round its gilt cage, only seeks to adorn its prison" (003-025). The metaphor of the body as prison is deliberate: women are "caged in a human body" (002-072) that has been made weak by a culture that prefers them so.
+## The Critique of Female Delicacy
 
-Third, she argues that the reform of women's condition must begin with the body. If "to render the human body and mind more perfect" (P02-008) is the aim of education, then physical education must precede intellectual education — just as it does for boys. The body must be "strengthened" (003-010) before the mind can be "enlarged."
+The cult of female delicacy — the idealization of physical weakness, pallor, and
+fragility in women — comes under sustained attack. Wollstonecraft identifies this
+aesthetic preference as a form of tyranny: men desire physically weak women because
+weak women are easier to control.
 
-The theological dimension of the body-mind relation is significant. "Flesh and spirit, they make the most perfect" being (004-045) — the body is not a temporary prison from which the soul must escape but an integral part of the human person whose perfection requires the cultivation of both.
+> "strength of body and mind are sacrificed to libertine notions of beauty"
+> (P03-012)
 
-### Contrast with Contemporary Views
+This "libertine" standard of beauty — which prizes a wasp waist, a pale
+complexion, and a languid bearing — is literally disabling. It produces women
+who are too weak to nurse their own children, to walk any distance, or to sustain
+the demands of an active intellectual life.
 
-Wollstonecraft's emphasis on physical education for women was a direct challenge to the prevailing ideal of feminine delicacy. The conduct-book tradition, exemplified by Gregory and Fordyce, had celebrated physical frailty as a mark of refinement. Wollstonecraft inverts this valuation: "superior strength of body" (003-003), far from being unfeminine, is the natural accompaniment of "natural soundness of constitution."
+## Physical Education
 
-Against the Rousseauian emphasis on Sophie's physical education as preparation for motherhood, Wollstonecraft insists that the purpose of strengthening the body is the cultivation of independence — the capacity to "stand erect, supported by their own industry" (002-044). The body strengthened by rational exercise is the body of a citizen, not merely a mother.
+Wollstonecraft's proposed remedy is straightforward: women should receive the
+same physical education as men. They should run, jump, play outdoors, and
+develop bodily strength and agility. A strong body supports a strong mind;
+physical courage supports moral courage. The girl who is taught to fear physical
+exertion will grow into the woman who fears everything.
 
-## Key Passages
+## Body and Motherhood
 
-> Dependence of body naturally produces dependence of mind. (003-021)
+Wollstonecraft extends her argument about bodily strength to the domain of
+motherhood, contending that a woman weakened by neglect of her physical
+constitution cannot adequately perform maternal duties. A wife and mother who
+has allowed her body to deteriorate through inactivity cannot sustain the
+demands of nursing, child-rearing, and household management:
 
-> The mind shapes itself to the body, and, roaming round its gilt cage, only seeks to adorn its prison. (003-025)
+> "must a wife, who, by the exercise of her mind and body, whilst she was
+> discharging the duties of a daughter, wife, and mother, has allowed her
+> constitution to retain its natural strength" (002-059)
 
-> The woman who strengthens her body and exercises her mind will, by managing her family and practising various virtues, become the friend, and not the humble dependent of her husband. (002-052)
+The bodily weakness encouraged by the cult of delicacy thus has
+intergenerational consequences. Weak mothers raise weak children, and the cycle
+of physical debility perpetuates itself across generations. Wollstonecraft
+foresees that only women whose constitutions are "strengthened by exercise" can
+fulfill the demanding responsibilities of both domestic life and civic
+participation (003-044).
 
-> False notions of modesty… the body is prevented from attaining that grace and beauty which relaxed half-formed limbs never exhibit. (002-019)
+## Body and Health from Infancy
 
-> If strength of body be, with some show of reason, the boast of men, why are women so infatuated as to be proud of a defect? (003-007)
-
-## Related Concepts
-
-- [[Mind]] — body and mind are complementary; the neglect of either damages the other
-- [[Spirit]] — "flesh and spirit, they make the most perfect" being (004-045)
-- [[Strength]] — physical strength as the foundation of mental independence
-- [[Education]] — the deliberate cultivation of body and mind together
-- [[Independence]] — physical independence is the precondition of moral independence
-
-## See Also
-
-- [[Jean-Jacques Rousseau]] — whose *Émile* theorises physical education but directs it toward gendered ends
-- [[Mary Wollstonecraft]] — who argued that "strength of body and mind are sacrificed to libertine notions of beauty" (P03-012)
-- [[John Milton]] — whose *Paradise Lost* provides the theological framework for Wollstonecraft's body-spirit dualism
+Wollstonecraft grounds her argument for bodily health in the earliest stages of
+life. The "inattention to health during infancy and youth" produces effects that
+"extend" throughout a woman's entire life (003-018). She insists that physical
+education must begin in childhood: girls should be encouraged to run, play
+outdoors, and develop the same bodily hardiness that boys are permitted. A
+constitution weakened in youth cannot be fully restored in adulthood, and the
+woman who was raised to prize delicacy over strength enters the world already
+disabled — her mind as constrained as her body by the habits formed in the
+nursery.

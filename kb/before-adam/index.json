@@ -1,0 +1,6124 @@
+{
+  "book": "before-adam",
+  "title": "Before Adam",
+  "description": "Before Adam — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 146,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Before Adam\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "before-adam:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-before-adam",
+          "label": "ch01-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch02-before-adam",
+          "label": "ch02-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch03-before-adam",
+          "label": "ch03-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch04-before-adam",
+          "label": "ch04-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch05-before-adam",
+          "label": "ch05-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch06-before-adam",
+          "label": "ch06-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch07-before-adam",
+          "label": "ch07-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch08-before-adam",
+          "label": "ch08-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch09-before-adam",
+          "label": "ch09-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch10-before-adam",
+          "label": "ch10-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch11-before-adam",
+          "label": "ch11-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch12-before-adam",
+          "label": "ch12-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch13-before-adam",
+          "label": "ch13-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch14-before-adam",
+          "label": "ch14-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch15-before-adam",
+          "label": "ch15-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch16-before-adam",
+          "label": "ch16-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch17-before-adam",
+          "label": "ch17-before-adam"
+        },
+        {
+          "type": "related",
+          "target": "ch18-before-adam",
+          "label": "ch18-before-adam"
+        }
+      ]
+    },
+    {
+      "id": "adventure-journey",
+      "type": "concept",
+      "label": "The Adventure-Journey",
+      "description": "The long expedition undertaken by Big-Tooth (the narrator) and Lop-Ear, lasting through the fall and serving as a narrative epoch marker in the Folk's chronology.",
+      "aliases": [
+        "the long journey",
+        "Big-Tooth's expedition",
+        "the wandering"
+      ],
+      "tags": [
+        "expedition",
+        "exploration",
+        "narrative"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:adventure-journey",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourds"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry-swamp"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "the Swift One"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        }
+      ]
+    },
+    {
+      "id": "all-entities",
+      "type": "list",
+      "label": "All Entities (A–Z)",
+      "description": "Complete alphabetical directory of every entry in the Before Adam wiki — people, places, events, concepts, groups, and species.",
+      "aliases": [
+        "Directory",
+        "Master Index",
+        "A-Z Index",
+        "Site Map"
+      ],
+      "tags": [
+        "list",
+        "directory",
+        "index",
+        "reference"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:all-entities",
+      "relations": [
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "People"
+        },
+        {
+          "type": "related",
+          "target": "place-index",
+          "label": "Places"
+        },
+        {
+          "type": "related",
+          "target": "event-index",
+          "label": "Events"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "Concepts"
+        },
+        {
+          "type": "related",
+          "target": "group-index",
+          "label": "Groups"
+        },
+        {
+          "type": "related",
+          "target": "species-index",
+          "label": "Species"
+        }
+      ]
+    },
+    {
+      "id": "arboreal-advantage",
+      "type": "concept",
+      "label": "The Arboreal Advantage",
+      "description": "The Folk's defining survival strategy — retreating into trees to escape ground-based predators, taunting them from the safety of branches, and using the vertical dimension of the forest as both refuge and vantage point.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:arboreal-advantage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbing"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        }
+      ]
+    },
+    {
+      "id": "asymmetric-warfare",
+      "type": "concept",
+      "label": "Asymmetric Warfare",
+      "description": "The fundamental military asymmetry between the Folk and the Fire People — a conflict in which ranged weapons (bows and arrows) against teeth and fists produced devastating one-sided results, illustrating how technological advantage shapes the outcome of inter-group competition in human evolution.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:asymmetric-warfare",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-as-weapon",
+          "label": "fire as a weapon"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "fire"
+        }
+      ]
+    },
+    {
+      "id": "atavism",
+      "type": "concept",
+      "label": "Atavism",
+      "description": "In evolutionary biology, the reappearance of ancestral traits lost in more recent evolutionary stages — a central concept in Jack London's understanding of human nature and the organizing theme of Before Adam.",
+      "aliases": [
+        "throwback",
+        "evolutionary-reversion"
+      ],
+      "tags": [
+        "evolution",
+        "anthropology",
+        "heredity"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:atavism",
+      "relations": []
+    },
+    {
+      "id": "big-face",
+      "type": "person",
+      "label": "Big-Face",
+      "description": "A member of the Folk who participated in the council against Red-Eye and became a sudden ally in the climactic fight, only to be killed by Saber-Tooth during the conflict.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "ally",
+        "council"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:big-face",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "the Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        }
+      ]
+    },
+    {
+      "id": "big-tooth",
+      "type": "person",
+      "label": "Big-Tooth",
+      "description": "The protagonist and first-person narrator of Before Adam — a modern man who experiences vivid ancestral dreams of his Pleistocene-era hominid self, also called Big-Tooth, a member of the Folk.",
+      "aliases": [
+        "the narrator",
+        "my other-self"
+      ],
+      "tags": [
+        "protagonist",
+        "narrator",
+        "Folk"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:big-tooth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "racial memory"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbing"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourds"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "evolution",
+          "label": "evolutionary"
+        },
+        {
+          "type": "related",
+          "target": "family",
+          "label": "family"
+        },
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "adventure"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "territory",
+          "label": "territory"
+        },
+        {
+          "type": "related",
+          "target": "migration",
+          "label": "flight"
+        },
+        {
+          "type": "related",
+          "target": "the-river-crossing",
+          "label": "river crossing"
+        }
+      ]
+    },
+    {
+      "id": "big-tooth-and-lop-ear",
+      "type": "concept",
+      "label": "Big-Tooth and Lop-Ear",
+      "description": "The foundational friendship between Big-Tooth and Lop-Ear — a bond forged in shared childhood adventures that transcended mere survival and represented the first stirrings of loyalty beyond blood kinship among the Folk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:big-tooth-and-lop-ear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "chatterer",
+          "label": "Chatterer"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "the-forest",
+          "label": "forest"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        }
+      ]
+    },
+    {
+      "id": "big-tooth-and-swift-one",
+      "type": "concept",
+      "label": "Big-Tooth and the Swift One",
+      "description": "The romantic partnership between Big-Tooth and the Swift One — a bond that transcends the dominance-based mating of the horde, representing the emergence of choice, tenderness, and genuine companionship in human evolution.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:big-tooth-and-swift-one",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        }
+      ]
+    },
+    {
+      "id": "blueberry-swamp",
+      "type": "concept",
+      "label": "Blueberry Swamp",
+      "description": "A recurring foraging ground and territorial landmark east of the caves — the swamp where Big-Tooth first ventured as a child and later returned with Lop-Ear, becoming the site of navigation experiments and a refuge from the Fire People.",
+      "aliases": [
+        "berry-swamp",
+        "the-swamp",
+        "slough"
+      ],
+      "tags": [
+        "territory",
+        "place-ref",
+        "survival"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:blueberry-swamp",
+      "relations": []
+    },
+    {
+      "id": "bow-and-arrow",
+      "type": "concept",
+      "label": "Bow and Arrow",
+      "description": "The signature weapon of the Fire People that makes them \"the most terrible of all the hunting animals\" — a projectile technology that can \"annihilate distance\" and kill from a hundred feet, representing the decisive technological gap between the three hominid groups.",
+      "aliases": [
+        "arrow",
+        "bow",
+        "fire-weapon"
+      ],
+      "tags": [
+        "technology",
+        "weapon",
+        "fire-people"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:bow-and-arrow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        }
+      ]
+    },
+    {
+      "id": "broken-tooth",
+      "type": "person",
+      "label": "Broken-Tooth",
+      "description": "A young member of the Folk in Before Adam — a playful child who lived apart from the main horde with his mother and was killed by the Fire People in a tragic arrow attack, witnessed by Big-Tooth and Lop-Ear.",
+      "aliases": [],
+      "tags": [
+        "child",
+        "Folk",
+        "victim"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:broken-tooth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "tree-climbing"
+        }
+      ]
+    },
+    {
+      "id": "broken-tooth-killing",
+      "type": "event",
+      "label": "The Killing of Broken-Tooth",
+      "description": "The killing of the child Broken-Tooth by a Fire-Man scout with bow and arrow — witnessed by Big-Tooth from a tree branch — the traumatic childhood event that recurs throughout the narrator's dream-memories as the primal scene of the conflict between Folk and Fire People.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:broken-tooth-killing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Man"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow and arrow"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "broken-tooth",
+          "label": "Broken-Tooth"
+        }
+      ]
+    },
+    {
+      "id": "catamaran",
+      "type": "concept",
+      "label": "Catamaran",
+      "description": "The accidental proto-raft invented by Big-Tooth and Lop-Ear — two small logs held together by hands and feet for stability while paddling — which the narrator calls \"the most primitive catamaran\" and which the Fire People have independently developed with rope lashings.",
+      "aliases": [
+        "log-raft",
+        "floating-logs",
+        "primitive-boat"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "navigation"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:catamaran",
+      "relations": []
+    },
+    {
+      "id": "catamaran-theft",
+      "type": "event",
+      "label": "The Catamaran Theft",
+      "description": "The theft of a catamaran from the Fire People's settlement — the first successful appropriation of Fire People technology by the Folk, used to escape down the river while laughing at their technologically superior enemies.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:catamaran-theft",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-imitation",
+          "label": "imitation of fire"
+        }
+      ]
+    },
+    {
+      "id": "caves",
+      "type": "place",
+      "label": "The Caves",
+      "description": "Natural limestone caves in cliff faces above a river — the primary settlement of the narrator's horde, offering permanent shelter from predators and weather.",
+      "aliases": [
+        "cliff-caves",
+        "limestone-caves"
+      ],
+      "tags": [
+        "settlement",
+        "shelter",
+        "geology"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:caves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "tree-shelters"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        }
+      ]
+    },
+    {
+      "id": "ch00-front-matter",
+      "type": "chapter",
+      "label": "\"Front Matter\"",
+      "description": "\"Table of contents and prefatory material\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch00-front-matter",
+      "relations": []
+    },
+    {
+      "id": "ch01-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER I\"",
+      "description": "\"Pictures and dreams of the Younger World\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch01-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch02-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER II\"",
+      "description": "\"The earliest memories of a pre-human past\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch02-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch03-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER III\"",
+      "description": "\"Life among the Folk in the trees\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch03-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch04-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER IV\"",
+      "description": "\"The Fire People and the first encounters\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch04-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch05-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER V\"",
+      "description": "\"The hunting cry and the chase\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch05-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch06-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER VI\"",
+      "description": "\"The sabre-tooth tiger and terror by the river\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch06-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch07-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER VII\"",
+      "description": "\"The affair of the wild dogs and Lop-Ear\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch07-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch08-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER VIII\"",
+      "description": "\"Discovery of fire and the first migration\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch08-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch09-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER IX\"",
+      "description": "\"The new home in the caves\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch09-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch10-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER X\"",
+      "description": "\"Swimming and the adventure with Swift-One\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch10-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch11-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XI\"",
+      "description": "\"The Fire-Man and the early domestication\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch11-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch12-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XII\"",
+      "description": "\"Conflict with the Fire People escalates\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch12-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch13-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XIII\"",
+      "description": "\"The raid and the death of the Fire-Man\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch13-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch14-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XIV\"",
+      "description": "\"Life after the raid — a new equilibrium\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch14-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch15-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XV\"",
+      "description": "\"The sabre-tooth returns — a narrow escape\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch15-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch16-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XVI\"",
+      "description": "\"Journey to the marshes and the shambling creatures\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch16-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch17-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XVII\"",
+      "description": "\"The great flood and the final migration\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch17-before-adam",
+      "relations": []
+    },
+    {
+      "id": "ch18-before-adam",
+      "type": "chapter",
+      "label": "\"CHAPTER XVIII\"",
+      "description": "\"The last memories — into the present\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "before-adam:ch18-before-adam",
+      "relations": []
+    },
+    {
+      "id": "chatterer",
+      "type": "person",
+      "label": "Chatterer",
+      "description": "The stepfather of Big-Tooth, a cowardly and malicious member of the Folk who terrorized the narrator during his childhood.",
+      "aliases": [],
+      "tags": [
+        "antagonist",
+        "family",
+        "folk"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:chatterer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        }
+      ]
+    },
+    {
+      "id": "chatterer-abandonment",
+      "type": "event",
+      "label": "The Chatterer's Abandonment",
+      "description": "The Chatterer's deliberate abandonment of young Big-Tooth from the family nest — seizing the moment when Big-Tooth's mother was away to chase the boy out of the tree, an act of cruelty that ended Big-Tooth's childhood and began his independent life in the forest.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:chatterer-abandonment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "chatterer",
+          "label": "Chatterer"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "tree-shelters"
+        }
+      ]
+    },
+    {
+      "id": "chronology",
+      "type": "list",
+      "label": "Chronology",
+      "description": "All major events in Before Adam ordered by narrative sequence — from the discovery of fire to the final migration to the sea.",
+      "aliases": [
+        "Timeline",
+        "Event Order",
+        "Narrative Sequence"
+      ],
+      "tags": [
+        "list",
+        "timeline",
+        "event",
+        "chronology"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:chronology",
+      "relations": []
+    },
+    {
+      "id": "cliff-defensive-architecture",
+      "type": "concept",
+      "label": "Cliff Defensive Architecture",
+      "description": "The natural defensive architecture of the cliffs — how verticality reversed the predator-prey dynamic, allowing the Folk to fight from safety above while forcing ground-based attackers to climb under fire, a strategy that worked against Saber-Tooth but failed against the Fire People's bows and fire.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:cliff-defensive-architecture",
+      "relations": [
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "arboreal-advantage",
+          "label": "arboreal advantage"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "fire-as-weapon",
+          "label": "fire as a weapon"
+        }
+      ]
+    },
+    {
+      "id": "climbing",
+      "type": "concept",
+      "label": "Climbing",
+      "description": "The primary mode of locomotion and escape for the Folk — an innate arboreal skill that defines their ecological niche and distinguishes them from ground-adapted hominins like the Fire People.",
+      "aliases": [
+        "tree-climbing",
+        "arboreal-locomotion"
+      ],
+      "tags": [
+        "locomotion",
+        "arboreal",
+        "survival"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:climbing",
+      "relations": []
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concept Index",
+      "description": "Conceptual vocabulary of the pre-Adamic world — tools, behaviors, social patterns, and archetypes.",
+      "aliases": [
+        "Concepts",
+        "Ideas",
+        "Terms"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "concept"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:concept-index",
+      "relations": []
+    },
+    {
+      "id": "conflict",
+      "type": "concept",
+      "label": "Conflict",
+      "description": "The recurring pattern of violent confrontation between hominid groups in the Pleistocene world — from individual dominance struggles to organized inter-group warfare — shaping the survival and social dynamics of the Folk.",
+      "aliases": [
+        "violence",
+        "warfare",
+        "inter-group hostility"
+      ],
+      "tags": [
+        "conflict",
+        "survival",
+        "Fire People"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:conflict",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "Hee-Hee Council"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "fire"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bows and arrows"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-sea",
+          "label": "the sea"
+        }
+      ]
+    },
+    {
+      "id": "conflict-and-evolution",
+      "type": "concept",
+      "label": "Conflict and Evolution",
+      "description": "Inter-group violence as an evolutionary mechanism — how warfare between hominid groups drove technological acquisition, social adaptation, and population displacement, with the Folk surviving not through superior violence but through adaptability and social cohesion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:conflict-and-evolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "hee-hee-council",
+          "label": "Hee-Hee Council"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "fire-imitation",
+          "label": "imitation of fire"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bows"
+        }
+      ]
+    },
+    {
+      "id": "cooperation",
+      "type": "concept",
+      "label": "Cooperation",
+      "description": "The Folk's evolving capacity for cooperative action — the gregarious impulse toward united effort, its limits in the absence of language, and its expression through rhythm and councils.",
+      "aliases": [
+        "collective action",
+        "united action",
+        "cooperative impulse"
+      ],
+      "tags": [
+        "cooperation",
+        "social",
+        "survival",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:cooperation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "language",
+          "label": "language"
+        },
+        {
+          "type": "related",
+          "target": "conflict",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "tribe",
+          "label": "tribe"
+        },
+        {
+          "type": "related",
+          "target": "cooperation",
+          "label": "Art and Cooperation"
+        }
+      ]
+    },
+    {
+      "id": "council",
+      "type": "concept",
+      "label": "Hee-Hee Council",
+      "description": "A communal vocal ritual of the Folk involving chanted rhythmic sounds — part entertainment, part social bonding, and a precursor to the discursive functions of language.",
+      "aliases": [
+        "hee-hee council",
+        "tribal council",
+        "gibbering councils"
+      ],
+      "tags": [
+        "social",
+        "communication",
+        "ritual"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:council",
+      "relations": []
+    },
+    {
+      "id": "crooked-leg",
+      "type": "person",
+      "label": "Crooked-Leg",
+      "description": "The husband of the Singing One, a quiet and non-combative member of the Folk who died heroically defending his mate from Red-Eye.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "hero",
+        "victim"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:crooked-leg",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "the Singing One"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        }
+      ]
+    },
+    {
+      "id": "crooked-leg-hero",
+      "type": "concept",
+      "label": "Crooked-Leg's Heroism",
+      "description": "The quiet heroism of Crooked-Leg — a small, unaggressive male who, when Red-Eye came to seize his mate the Singing One, stood his ground knowing death was certain, becoming the novel's purest example of courage in the face of overwhelming force.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:crooked-leg-hero",
+      "relations": [
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "the open space"
+        },
+        {
+          "type": "related",
+          "target": "hee-hee-council",
+          "label": "hee-hee council"
+        }
+      ]
+    },
+    {
+      "id": "dawn-attack",
+      "type": "event",
+      "label": "The Dawn Attack",
+      "description": "The opening phase of the Fire People Massacre — a dawn surprise attack on the caves that caught the Folk sleeping, beginning with a volley of arrows and ending with the deployment of fire to smoke out the inhabitants tier by tier.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:dawn-attack",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "fire-as-weapon",
+          "label": "fire as a weapon"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "The narrator"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "Death",
+      "description": "The ever-present reality of death in the Younger World — by predator, by violence, by starvation — that shapes every decision and defines the fragility of existence.",
+      "aliases": [
+        "Mortality",
+        "Killing",
+        "Dying",
+        "Extinction"
+      ],
+      "tags": [
+        "death",
+        "mortality",
+        "survival",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliffs"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "carrot patch ambush"
+        },
+        {
+          "type": "related",
+          "target": "the-sea",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "red-eye-takes-singing-one",
+          "label": "red-eye-takes-singing-one"
+        }
+      ]
+    },
+    {
+      "id": "double-cave",
+      "type": "place",
+      "label": "The Double-Cave",
+      "description": "A unique cave formation with two entrances connected by a narrow passage, where the narrator slept for many nights after being displaced from his original cave by Lop-Ear and his mate.",
+      "aliases": [
+        "the connecting passage",
+        "the two caves"
+      ],
+      "tags": [
+        "dwelling",
+        "shelter",
+        "cave-system"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:double-cave",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "chatterer",
+          "label": "the Chatterer"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "old Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People massacre"
+        }
+      ]
+    },
+    {
+      "id": "double-cave-attack",
+      "type": "event",
+      "label": "The Double-Cave Attack",
+      "description": "The narrator's most harrowing encounter with wild dogs — trapped in the connecting passage of the double-cave, he escaped with a dog's teeth in his thigh, climbed the cliff, and throttled the animal to death, converting a near-fatal attack into a communal meal shared with Lop-Ear.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:double-cave-attack",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        }
+      ]
+    },
+    {
+      "id": "drinking-place",
+      "type": "concept",
+      "label": "Drinking-Place",
+      "description": "The riverside watering holes of the Folk, accessed by run-ways from the cliff caves — a central social hub where the horde gathers at day's end, making it a natural arena for both community bonding and predator ambush.",
+      "aliases": [
+        "drinking-places",
+        "water-place"
+      ],
+      "tags": [
+        "territory",
+        "social",
+        "survival"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:drinking-place",
+      "relations": []
+    },
+    {
+      "id": "entity-by-refs",
+      "type": "list",
+      "label": "Top Entities by References",
+      "description": "All non-chapter entries ranked by cross-reference count — the most interconnected entities in the wiki.",
+      "aliases": [
+        "Most Referenced",
+        "Top Pages",
+        "Citation Ranking"
+      ],
+      "tags": [
+        "list",
+        "ranking",
+        "cross-reference"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:entity-by-refs",
+      "relations": []
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Index",
+      "description": "Key events and narrative episodes in Before Adam, from encounters to migrations.",
+      "aliases": [
+        "Events",
+        "Episodes",
+        "Incidents"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "event"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:event-index",
+      "relations": []
+    },
+    {
+      "id": "evolution",
+      "type": "concept",
+      "label": "Evolution",
+      "description": "The scientific framework that Jack London uses to structure Before Adam — the gradual biological and social development of hominids toward modern humanity.",
+      "aliases": [
+        "evolutionary-progression",
+        "natural-development"
+      ],
+      "tags": [
+        "evolution",
+        "biology",
+        "science"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:evolution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "atavism",
+          "label": "atavism"
+        },
+        {
+          "type": "related",
+          "target": "mid-pleistocene",
+          "label": "mid-pleistocene"
+        },
+        {
+          "type": "related",
+          "target": "tribe",
+          "label": "tribe"
+        },
+        {
+          "type": "related",
+          "target": "technology",
+          "label": "technology"
+        }
+      ]
+    },
+    {
+      "id": "evolution-of-migration",
+      "type": "concept",
+      "label": "The Evolution of Migration",
+      "description": "Migration as an evolutionary mechanism — how the Folk's forced departure from the caves, though catastrophic, became the engine of their transformation, exposing survivors to new environments, new peoples, and new technologies that accelerated their development.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:evolution-of-migration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fire-migration",
+          "label": "Fire People's expansion"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        }
+      ]
+    },
+    {
+      "id": "expedition",
+      "type": "concept",
+      "label": "Expedition",
+      "description": "The exploratory ventures undertaken by characters in Before Adam — from the narrator's childhood journeys to the great adventure-journey with Lop-Ear — each expanding the Folk's knowledge of their world.",
+      "aliases": [
+        "exploration",
+        "adventure-journey",
+        "scouting"
+      ],
+      "tags": [
+        "narrative",
+        "journey",
+        "exploration"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:expedition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "adventure-journey"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "catamaran",
+          "label": "catamaran"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "type": "concept",
+      "label": "Family",
+      "description": "The primal kinship unit in Before Adam — primarily the mother-child bond, as fathers held no recognized role in the social structure of the Folk.",
+      "aliases": [
+        "kinship",
+        "mother-child-bond"
+      ],
+      "tags": [
+        "social",
+        "family",
+        "kinship"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "tribe",
+          "label": "tribe"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "big-tooth"
+        },
+        {
+          "type": "related",
+          "target": "family",
+          "label": "Childhood in the Horde"
+        }
+      ]
+    },
+    {
+      "id": "far-lake",
+      "type": "place",
+      "label": "Far Lake",
+      "description": "The second of two mountain lakes encountered during the Folk's migration — a place where they found a sleeping calf on the shore and later, at its outlet stream, salmon packed thick from the sea.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:far-lake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        }
+      ]
+    },
+    {
+      "id": "fear",
+      "type": "concept",
+      "label": "Fear",
+      "description": "The dominant emotion of the Younger World — \"the fear that reigned supreme in that period known as the Mid-Pleistocene\" (001-011). Fear shapes every decision, every relationship, and every night.",
+      "aliases": [
+        "Terror",
+        "Dread",
+        "The Reign of Fear"
+      ],
+      "tags": [
+        "fear",
+        "survival",
+        "emotion",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:fear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "The narrator"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "saber-toothed cats"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "sleep",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "atavism",
+          "label": "atavism"
+        }
+      ]
+    },
+    {
+      "id": "fire",
+      "type": "concept",
+      "label": "Fire",
+      "description": "A pivotal discovery in early hominin evolution — fire provides warmth, protection from predators, and eventually enables cooking, transforming the dietary and social landscape of proto-human communities.",
+      "aliases": [
+        "mastery-of-fire"
+      ],
+      "tags": [
+        "technology",
+        "survival",
+        "Fire People"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:fire",
+      "relations": []
+    },
+    {
+      "id": "fire-as-weapon",
+      "type": "concept",
+      "label": "Fire as a Weapon",
+      "description": "The use of fire as an offensive weapon — a strategic innovation that gave the Fire People decisive military advantage over the Folk, who knew fire only as a terrifying natural force to be fled.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:fire-as-weapon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "Bow"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        }
+      ]
+    },
+    {
+      "id": "fire-discovery",
+      "type": "event",
+      "label": "The Discovery of Fire",
+      "description": "The pivotal encounter in which the narrator and Big-Fat first observe fire at a Fire Man's camp, learn the rudiments of fire-tending, and inadvertently start a wildfire — marking the Folk's first step toward mastering fire.",
+      "aliases": [
+        "first fire",
+        "fire encounter"
+      ],
+      "tags": [
+        "technology",
+        "discovery",
+        "Fire People"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:fire-discovery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "fire-imitation",
+      "type": "concept",
+      "label": "Fire Imitation",
+      "description": "The moment when Big-Tooth and Lop-Ear, having watched the Fire People tend their campfire, attempted to imitate what they had seen — an act of pure mimicry that started a catastrophic forest fire but also planted the seed of technological acquisition in the Folk's cultural memory.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:fire-imitation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "broken-tooth",
+          "label": "Broken-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "the-forest-fire",
+          "label": "forest fire"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        }
+      ]
+    },
+    {
+      "id": "fire-man",
+      "type": "person",
+      "label": "Fire-Man",
+      "description": "A scout of the Fire People encountered by Big-Tooth and Lop-Ear, distinguished by his bearskin clothing, bow-and-arrow weaponry, and less ape-like physique.",
+      "aliases": [
+        "Fire-Men"
+      ],
+      "tags": [
+        "antagonist",
+        "fire-people",
+        "scout"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:fire-man",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow and arrow"
+        },
+        {
+          "type": "related",
+          "target": "broken-tooth",
+          "label": "Broken-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "catamaran",
+          "label": "catamaran"
+        }
+      ]
+    },
+    {
+      "id": "fire-people",
+      "type": "group",
+      "label": "Fire People",
+      "description": "A more technologically advanced hominin group who possess the knowledge of fire-making — their encounters with the Folk catalyze one of the novel's major evolutionary transitions.",
+      "aliases": [
+        "Fire-Men"
+      ],
+      "tags": [
+        "tribe",
+        "technology",
+        "fire-users"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:fire-people",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "technology",
+          "label": "technology"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "conflict",
+          "label": "conflict"
+        },
+        {
+          "type": "related",
+          "target": "territory",
+          "label": "territory"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "dogs"
+        },
+        {
+          "type": "related",
+          "target": "hunting",
+          "label": "hunting"
+        },
+        {
+          "type": "related",
+          "target": "evolution",
+          "label": "evolutionary"
+        }
+      ]
+    },
+    {
+      "id": "fire-people-expansion",
+      "type": "concept",
+      "label": "Fire People Expansion",
+      "description": "The population-driven territorial expansion of the Fire People from their peninsula stronghold — a slow demographic pressure that the narrator identifies as the force that destroyed the Folk, representing an early instance of competitive exclusion between hominin populations.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:fire-people-expansion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "fire-as-weapon",
+          "label": "fire as a weapon"
+        }
+      ]
+    },
+    {
+      "id": "fire-people-settlement",
+      "type": "place",
+      "label": "The Fire People Settlement",
+      "description": "The peninsula stronghold of the Fire People — protected on three sides by the curving river, a \"splendid strategic selection\" whose security allowed them to prosper, multiply, and eventually expand outward into Folk territory.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:fire-people-settlement",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "The narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-forest-fire",
+          "label": "forest fire"
+        }
+      ]
+    },
+    {
+      "id": "folk-social-structure",
+      "type": "concept",
+      "label": "Folk Social Structure",
+      "description": "The loose social organization of the Folk — a dominance hierarchy without formal leadership, rudimentary marriage customs without enforced monogamy, and collective processes (the hee-hee council) without the conceptual vocabulary for true cooperation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:folk-social-structure",
+      "relations": [
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "hair-face",
+          "label": "Hair-Face"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        }
+      ]
+    },
+    {
+      "id": "forest-as-dreamscape",
+      "type": "concept",
+      "label": "The Forest as Dreamscape",
+      "description": "The forest in the narrator's dreams — not a place but a psychological state, an involuntary return to pre-human consciousness through \"endless forests\" of \"horror-haunted gloom\" that carry ancestral fear across evolutionary time.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:forest-as-dreamscape",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "sleep",
+          "label": "dreams"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "type": "list",
+      "label": "Glossary",
+      "description": "Alphabetical listing of all concepts and terms in Before Adam — from Atavism to the Younger World.",
+      "aliases": [
+        "Terminology",
+        "Dictionary",
+        "Concepts A-Z"
+      ],
+      "tags": [
+        "list",
+        "reference",
+        "concept",
+        "glossary"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:glossary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "Concept Index"
+        }
+      ]
+    },
+    {
+      "id": "gourd",
+      "type": "concept",
+      "label": "Gourd",
+      "description": "The first technological invention of the Folk — hollowed gourds used initially for water storage (devised by old Marrow-Bone) and later adapted for carrying berries, nuts, and roots, representing the nascent material culture and capacity for innovation within the horde.",
+      "aliases": [
+        "gourds",
+        "water-gourd",
+        "carrying-receptacle"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "material-culture"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:gourd",
+      "relations": []
+    },
+    {
+      "id": "group-index",
+      "type": "list",
+      "label": "Group Index",
+      "description": "All social groups and tribes documented in Before Adam, ordered by content quality and depth.",
+      "aliases": [
+        "Tribes",
+        "Clans",
+        "Social Groups"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "group"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:group-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "Horde"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        }
+      ]
+    },
+    {
+      "id": "hair-face",
+      "type": "person",
+      "label": "Hair-Face",
+      "description": "A member of the Folk who fled the Fire People's extermination campaign with his wife, joining Big-Tooth's group during the desperate escape through the great swamp.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "supporting",
+        "expedition"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:hair-face",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "the Swift One"
+        }
+      ]
+    },
+    {
+      "id": "hairless-one",
+      "type": "person",
+      "label": "Hairless One",
+      "description": "The son of Marrow-Bone, father of Long-Lip and the Singing One, and owner of the cave where Marrow-Bone resided — a member of the Folk killed in the Fire People's ambush.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "family",
+        "supporting"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:hairless-one",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "the Singing One"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourd"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        }
+      ]
+    },
+    {
+      "id": "hairless-one-family",
+      "type": "concept",
+      "label": "The Hairless One's Family",
+      "description": "The most documented family lineage in the horde — Marrow-Bone, his son the Hairless One, and his grandchildren Long-Lip and the Singing One — representing the earliest form of family-based role transmission and filial duty among the Folk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:hairless-one-family",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourd"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "Carrot Patch Ambush"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        }
+      ]
+    },
+    {
+      "id": "hee-hee-council",
+      "type": "concept",
+      "label": "Hee-Hee Council",
+      "description": "The rudimentary form of collective deliberation practiced by the Folk — a gathering where members gibber and gesture to reach consensus, representing the earliest glimmer of deliberative governance in hominin social evolution.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:hee-hee-council",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        }
+      ]
+    },
+    {
+      "id": "horde-customs",
+      "type": "concept",
+      "label": "Horde Customs",
+      "description": "The informal customs and shared practices of the Folk — body disposal rituals, shelter-building, stone-throwing defense, and the imitative instinct that spread innovations through the horde without formal teaching or instruction.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:horde-customs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "cliff-defensive-architecture",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "the-forest-fire",
+          "label": "forest fire"
+        }
+      ]
+    },
+    {
+      "id": "hub-pages",
+      "type": "list",
+      "label": "Navigation Hubs",
+      "description": "The most interconnected pages in the Before Adam wiki — start here to explore the narrative network.",
+      "aliases": [
+        "Hub Pages",
+        "Most Connected",
+        "Link Network",
+        "Central Pages"
+      ],
+      "tags": [
+        "list",
+        "hub",
+        "cross-reference",
+        "navigation"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:hub-pages",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the Cliffs"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "fire"
+        }
+      ]
+    },
+    {
+      "id": "hunting",
+      "type": "concept",
+      "label": "Hunting",
+      "description": "The methods by which the Folk acquired meat — stalking prey, cooperative hunting, and the constant competition with predators for the same resources.",
+      "aliases": [
+        "Food Acquisition",
+        "Prey",
+        "Stalking",
+        "Meat"
+      ],
+      "tags": [
+        "hunting",
+        "food",
+        "survival",
+        "skill"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:hunting",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bows"
+        },
+        {
+          "type": "related",
+          "target": "the-forest",
+          "label": "the forest"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "Wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliffs"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "technology",
+          "label": "technology"
+        }
+      ]
+    },
+    {
+      "id": "hyena",
+      "type": "species",
+      "label": "Hyena",
+      "description": "A persistent scavenger-predator of the Younger World that followed the Folk and fed on their kills and carcasses.",
+      "aliases": [
+        "miserable hyena"
+      ],
+      "tags": [
+        "predator",
+        "scavenger",
+        "pleistocene"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:hyena",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "lion",
+          "label": "lion"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "Wild Dogs"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        },
+        {
+          "type": "related",
+          "target": "cooperation",
+          "label": "cooperation"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "shelter"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        }
+      ]
+    },
+    {
+      "id": "invention",
+      "type": "concept",
+      "label": "Invention",
+      "description": "The creative process by which the Folk gradually developed tools and techniques — from gourds to catamarans — each invention representing a step toward human technological capability.",
+      "aliases": [
+        "innovation",
+        "technological-discovery"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "innovation"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:invention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourds"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "catamaran",
+          "label": "catamaran"
+        },
+        {
+          "type": "related",
+          "target": "technology",
+          "label": "technology"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "fire"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "type": "concept",
+      "label": "Language",
+      "description": "The proto-linguistic communication of the Folk — a borderland between animal cries and human speech, where meaning emerges from gesture, intonation, and the first spoken names.",
+      "aliases": [
+        "Speech",
+        "Communication",
+        "Proto-Language",
+        "Gibbering"
+      ],
+      "tags": [
+        "language",
+        "communication",
+        "evolution",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:language",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "councils"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "the Swift One"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye-takes-singing-one",
+          "label": "hee-hee council"
+        },
+        {
+          "type": "related",
+          "target": "tribe",
+          "label": "tribe"
+        },
+        {
+          "type": "related",
+          "target": "evolution",
+          "label": "evolution"
+        },
+        {
+          "type": "related",
+          "target": "cooperation",
+          "label": "cooperation"
+        }
+      ]
+    },
+    {
+      "id": "lion",
+      "type": "species",
+      "label": "Lion",
+      "description": "One of the great predators of the Younger World, a constant source of terror in the ancestral memories of the Folk.",
+      "aliases": [
+        "tawny one",
+        "great cat"
+      ],
+      "tags": [
+        "predator",
+        "pleistocene",
+        "fear"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:lion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "snake",
+          "label": "snakes"
+        },
+        {
+          "type": "related",
+          "target": "evolution",
+          "label": "evolution"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "Wild Dogs"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        }
+      ]
+    },
+    {
+      "id": "long-lake",
+      "type": "place",
+      "label": "Long Lake",
+      "description": "One of two mountain lakes encountered during the Folk's migration over the mountains — a place of hunger relieved by the chance discovery of a sleeping calf in a thicket on its shore.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:long-lake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "River"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "far-lake",
+          "label": "Far Lake"
+        },
+        {
+          "type": "related",
+          "target": "the-thicket",
+          "label": "the thickets"
+        }
+      ]
+    },
+    {
+      "id": "long-lip",
+      "type": "person",
+      "label": "Long-Lip",
+      "description": "The son of the Hairless One, grandson of Marrow-Bone, and the first designated water-carrier among the Folk — mortally wounded during the Fire People's attack on the caves.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "family",
+        "supporting",
+        "youth"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:long-lip",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "the Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "the Singing One"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourd"
+        }
+      ]
+    },
+    {
+      "id": "lop-ear",
+      "type": "person",
+      "label": "Lop-Ear",
+      "description": "The narrator Big-Tooth's closest boyhood companion — a nimble, playful member of the Folk distinguished by a permanently limp ear, who shares the narrator's early adventures and dangers in the Younger World.",
+      "aliases": [
+        "the one-eared one"
+      ],
+      "tags": [
+        "companion",
+        "friend",
+        "Folk",
+        "supporting-character"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:lop-ear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the-horde"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "cave"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "shelter"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "big-tooth"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "swift-one"
+        },
+        {
+          "type": "related",
+          "target": "the-forest",
+          "label": "the-forest"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbing"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        }
+      ]
+    },
+    {
+      "id": "marrow-bone",
+      "type": "person",
+      "label": "Marrow-Bone",
+      "description": "The oldest member of the Folk, inventor of gourd-based water storage, father of the Hairless One, and grandfather of both Long-Lip and the Singing One.",
+      "aliases": [
+        "Old Marrow-Bone"
+      ],
+      "tags": [
+        "elder",
+        "folk",
+        "inventor"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:marrow-bone",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-place"
+        },
+        {
+          "type": "related",
+          "target": "fire-discovery",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourds"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "the Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "the Singing One"
+        }
+      ]
+    },
+    {
+      "id": "marrow-bone-invention",
+      "type": "concept",
+      "label": "Marrow-Bone's Invention",
+      "description": "Old Marrow-Bone's innovation of using gourds to store drinking water — the Folk's first technological invention, driven by the necessity of old age in a world where physical frailty meant death, and spread through the horde by the powerful force of imitation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:marrow-bone-invention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "gourds"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-place"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "type": "concept",
+      "label": "Memory",
+      "description": "The inherited experience that links the modern narrator to his Pleistocene ancestor Big-Tooth — memories carried in the blood across millennia.",
+      "aliases": [
+        "Ancestral Memory",
+        "Racial Memory",
+        "Inherited Experience"
+      ],
+      "tags": [
+        "memory",
+        "evolution",
+        "dreams",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:memory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliffs"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "sleep",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-forest-fire",
+          "label": "forest fire"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "horde"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "massacre"
+        },
+        {
+          "type": "related",
+          "target": "atavism",
+          "label": "atavism"
+        },
+        {
+          "type": "related",
+          "target": "evolution",
+          "label": "evolution"
+        }
+      ]
+    },
+    {
+      "id": "mid-pleistocene",
+      "type": "concept",
+      "label": "Mid-Pleistocene",
+      "description": "The geological epoch approximately 780,000 to 126,000 years ago, during which the ancestral memories of the narrator's dreams take place; a period when early hominids lived in constant fear of predators in a young and dangerous world.",
+      "aliases": [
+        "the Younger World",
+        "the Pleistocene epoch",
+        "the ice age"
+      ],
+      "tags": [
+        "geology",
+        "epoch",
+        "prehistory",
+        "setting"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:mid-pleistocene",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "saber-tooth cats"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        }
+      ]
+    },
+    {
+      "id": "migration",
+      "type": "concept",
+      "label": "Migration",
+      "description": "The recurring pattern of population movement among the Folk — from seasonal ranging to the epoch-defining Great Migration — reflecting the interplay of environmental pressure, resource scarcity, and inter-group conflict.",
+      "aliases": [
+        "the great journey",
+        "population movement"
+      ],
+      "tags": [
+        "migration",
+        "survival",
+        "turning-point"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:migration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "the-sea",
+          "label": "sea"
+        },
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "The Adventure-Journey"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "The Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People massacre"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "Hee-Hee Council"
+        }
+      ]
+    },
+    {
+      "id": "mountain-passage",
+      "type": "event",
+      "label": "The Mountain Passage",
+      "description": "The Folk's passage through the mountain ranges between Long Lake and Far Lake — the bleakest period of the migration, marked by starvation, cold, and the fragmentary nature of the narrator's memories, which suggest a period of such sustained hardship that memory itself shut down.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:mountain-passage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "great migration"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        },
+        {
+          "type": "related",
+          "target": "far-lake",
+          "label": "Far Lake"
+        }
+      ]
+    },
+    {
+      "id": "open-space-social-arena",
+      "type": "concept",
+      "label": "The Open Space as Social Arena",
+      "description": "The Open Space as the stage upon which the entire social drama of the Folk unfolded — from children's play to predator confrontations, from Red-Eye's dominance displays to the final siege — making it the most consequential piece of ground in their territory.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:open-space-social-arena",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "hee-hee-council",
+          "label": "hee-hee council"
+        }
+      ]
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Person Index",
+      "description": "All persons and characters in Before Adam, ordered by content depth and quality.",
+      "aliases": [
+        "People",
+        "Characters",
+        "Individuals"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "person"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:person-index",
+      "relations": []
+    },
+    {
+      "id": "place-index",
+      "type": "list",
+      "label": "Place Index",
+      "description": "All geographic locations in Before Adam, from caves and swamps to rivers and hunting grounds.",
+      "aliases": [
+        "Places",
+        "Locations",
+        "Geography"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "place"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:place-index",
+      "relations": []
+    },
+    {
+      "id": "predator-ecosystem",
+      "type": "concept",
+      "label": "The Predator Ecosystem",
+      "description": "The layered system of predation that defined the Folk's world — a hierarchy of carnivores from Saber-Tooth at the apex to jackals at the periphery, in which escaping one threat often meant exposure to another, and survival required constant recalculation of risk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:predator-ecosystem",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "double-cave-attack",
+          "label": "double-cave attack"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        }
+      ]
+    },
+    {
+      "id": "red-eye",
+      "type": "person",
+      "label": "Red-Eye",
+      "description": "The primary antagonist of Before Adam — a physically massive, brutally aggressive member of the Folk who represents an atavistic throwback to an earlier, more violent evolutionary stage.",
+      "aliases": [
+        "the atavism"
+      ],
+      "tags": [
+        "antagonist",
+        "Folk",
+        "brute"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:red-eye",
+      "relations": []
+    },
+    {
+      "id": "red-eye-last-stand",
+      "type": "event",
+      "label": "Red-Eye's Last Stand",
+      "description": "Red-Eye's desperate battle against the Fire People during the massacre — cornered in a hollow tree, he killed multiple attackers in hand-to-hand combat before escaping into a thicket, in a final display of the ferocity that defined his life.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:red-eye-last-stand",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "The narrator"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        }
+      ]
+    },
+    {
+      "id": "red-eye-takes-singing-one",
+      "type": "event",
+      "label": "Red-Eye Takes the Singing One",
+      "description": "Red-Eye's murder of Crooked-Leg and seizure of the Singing One — the most outrageous act of the atavism's reign, which provoked the Folk's first impulse toward collective action but ended, as always, in the rhythmic forgetfulness of a hee-hee council.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:red-eye-takes-singing-one",
+      "relations": [
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "singing-one"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "hairless-one"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "the open space before the caves"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "atavism",
+          "label": "throwback"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "hee-hee council"
+        }
+      ]
+    },
+    {
+      "id": "red-eye-tyranny",
+      "type": "concept",
+      "label": "Red-Eye's Tyranny",
+      "description": "The reign of terror that Red-Eye imposed on the Folk through pure physical dominance — a regime of fear that could not be resisted collectively because the Folk lacked the cooperative vocabulary to organize opposition, representing the dead end of governance by brute force.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:red-eye-tyranny",
+      "relations": [
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "hee-hee-council",
+          "label": "hee-hee council"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "massacre"
+        }
+      ]
+    },
+    {
+      "id": "river-as-boundary",
+      "type": "concept",
+      "label": "The River as Boundary",
+      "description": "The River as psychological and physical boundary in the Folk's world — a threshold that, once crossed, marked an irreversible departure from the familiar into unknown territory, embodying the tension between safety and growth that defines evolutionary progress.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:river-as-boundary",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        }
+      ]
+    },
+    {
+      "id": "run-way",
+      "type": "concept",
+      "label": "Run-Way",
+      "description": "The steep earthen paths carved by erosion into the riverbank, connecting the cliff caves to the drinking-places — the vital infrastructure of the horde's territory and a stage for social hierarchy, predator encounters, and daily ritual.",
+      "aliases": [
+        "run-ways",
+        "path",
+        "slide"
+      ],
+      "tags": [
+        "territory",
+        "infrastructure",
+        "survival"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:run-way",
+      "relations": []
+    },
+    {
+      "id": "saber-tooth",
+      "type": "species",
+      "label": "Saber-Tooth",
+      "description": "The apex predator of the Pleistocene world depicted in Before Adam — a massive saber-toothed cat that poses the greatest individual threat to the Folk's survival.",
+      "aliases": [
+        "Saber-Tooth Tiger",
+        "tiger",
+        "Smilodon"
+      ],
+      "tags": [
+        "predator",
+        "megafauna",
+        "Pleistocene"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:saber-tooth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "younger-world",
+          "label": "Pleistocene"
+        }
+      ]
+    },
+    {
+      "id": "salmon-stream-discovery",
+      "type": "concept",
+      "label": "The Salmon Stream Discovery",
+      "description": "The discovery of the salmon-filled stream flowing from Far Lake — a providential food source during the hunger of the mountain passage that signaled the journey's end was near, as the salmon had come up from the sea to spawn.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:salmon-stream-discovery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "far-lake",
+          "label": "Far Lake"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        }
+      ]
+    },
+    {
+      "id": "shelter",
+      "type": "concept",
+      "label": "Shelter",
+      "description": "The Folk's primary defensive adaptation — tree-shelters built in the branches provide refuge from carnivorous predators and represent an early form of constructed habitat in proto-human evolution.",
+      "aliases": [
+        "tree-shelter",
+        "tree-shelters"
+      ],
+      "tags": [
+        "survival",
+        "arboreal",
+        "habitat"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:shelter",
+      "relations": []
+    },
+    {
+      "id": "singing-one",
+      "type": "person",
+      "label": "Singing One",
+      "description": "The granddaughter of Marrow-Bone and daughter of the Hairless One, a young woman of the Folk known for singing at twilight — forcibly claimed by Red-Eye after he killed her husband Crooked-Leg.",
+      "aliases": [],
+      "tags": [
+        "folk",
+        "victim",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:singing-one",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "the Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-place"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "the Swift One"
+        }
+      ]
+    },
+    {
+      "id": "singing-one-song",
+      "type": "concept",
+      "label": "The Singing One's Song",
+      "description": "The Singing One's habit of singing at the mouth of her cave in the twilight — an act of beauty and self-expression in a world governed by survival, representing the earliest glimmer of aesthetic impulse among the Folk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:singing-one-song",
+      "relations": [
+        {
+          "type": "related",
+          "target": "singing-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "type": "concept",
+      "label": "Sleep",
+      "description": "In Before Adam, sleep operates as a liminal gateway between the narrator's modern consciousness and his prehistoric ancestral memory — it is during sleep that his racial past comes alive as vivid, terrifying visions.",
+      "aliases": [
+        "dreams",
+        "nocturnal"
+      ],
+      "tags": [
+        "consciousness",
+        "memory",
+        "psychology"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:sleep",
+      "relations": []
+    },
+    {
+      "id": "snake",
+      "type": "species",
+      "label": "Snake",
+      "description": "A primordial source of terror in the ancestral memories of the Folk — snakes lurked in forest glades, underfoot, and in the tree-tops.",
+      "aliases": [
+        "serpent",
+        "deadly snake"
+      ],
+      "tags": [
+        "predator",
+        "reptile",
+        "fear"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:snake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lion",
+          "label": "lions"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbing"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        }
+      ]
+    },
+    {
+      "id": "species-index",
+      "type": "list",
+      "label": "Species Index",
+      "description": "All animal species documented in the world of Before Adam, ordered by content depth and quality.",
+      "aliases": [
+        "Animals",
+        "Creatures",
+        "Fauna"
+      ],
+      "tags": [
+        "list",
+        "index",
+        "species"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:species-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "Wild Dogs"
+        }
+      ]
+    },
+    {
+      "id": "survival",
+      "type": "concept",
+      "label": "Survival",
+      "description": "The fundamental struggle to stay alive in the hostile Pleistocene environment — the central existential condition driving every aspect of life for the Folk.",
+      "aliases": [],
+      "tags": [
+        "survival",
+        "theme",
+        "daily-life"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:survival",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild-dogs"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "fire attack on the caves"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "fire"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bows and arrows"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "shelter"
+        }
+      ]
+    },
+    {
+      "id": "survival-strategies",
+      "type": "concept",
+      "label": "Survival Strategies",
+      "description": "The diverse survival strategies employed by the Folk — climbing, stone-throwing, shelter-building, collective alarm-calling — representing a toolkit of behaviors that compensated for their physical weakness against Pleistocene predators.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:survival-strategies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "wild-dogs",
+          "label": "wild dogs"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "Climbing"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone-invention",
+          "label": "gourd water-storage"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "the-forest-fire",
+          "label": "forest fire"
+        }
+      ]
+    },
+    {
+      "id": "swift-one",
+      "type": "person",
+      "label": "Swift One",
+      "description": "The love interest of Big-Tooth in Before Adam — a swift, agile female member of the Folk who becomes the narrator's mate and teacher of climbing.",
+      "aliases": [
+        "the-Swift-One",
+        "Swift-One"
+      ],
+      "tags": [
+        "love-interest",
+        "Folk",
+        "climber"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:swift-one",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbing"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "sea encounter"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        }
+      ]
+    },
+    {
+      "id": "tagged-index",
+      "type": "list",
+      "label": "Tagged Index",
+      "description": "Browse all 74 wiki entries grouped by thematic tags across the world of Before Adam.",
+      "aliases": [
+        "tag cloud",
+        "tag directory",
+        "thematic index"
+      ],
+      "tags": [
+        "navigation",
+        "index",
+        "meta"
+      ],
+      "quality": "basic",
+      "source_ref": "before-adam:tagged-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "all-entities",
+          "label": "All Entities (A-Z)"
+        },
+        {
+          "type": "related",
+          "target": "hub-pages",
+          "label": "Navigation Hubs"
+        },
+        {
+          "type": "related",
+          "target": "glossary",
+          "label": "Glossary"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "type": "concept",
+      "label": "Technology",
+      "description": "The progression of tool-making and material culture among the Folk — from gourds and fire to bows and catamarans — marking the most significant adaptive advantage in the Pleistocene world.",
+      "aliases": [
+        "tool-making",
+        "invention",
+        "technological-progress"
+      ],
+      "tags": [
+        "technology",
+        "invention",
+        "tools"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:technology",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "gourd",
+          "label": "Gourds"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "Bow and Arrow"
+        },
+        {
+          "type": "related",
+          "target": "catamaran",
+          "label": "Catamaran"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        }
+      ]
+    },
+    {
+      "id": "territory",
+      "type": "concept",
+      "label": "Territory",
+      "description": "The spatial dimension of hominid existence in the Pleistocene — the lands claimed, contested, and abandoned by the Folk across their migratory journey, and the forces that shaped territorial boundaries.",
+      "aliases": [
+        "range",
+        "domain",
+        "homeland",
+        "hunting-ground"
+      ],
+      "tags": [
+        "territory",
+        "survival",
+        "conflict"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:territory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "the-sea",
+          "label": "sea"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "The Cliffs"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "Blueberry Swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "The Open Space"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People massacre"
+        },
+        {
+          "type": "related",
+          "target": "memory",
+          "label": "memory"
+        },
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "adventure-journey"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        }
+      ]
+    },
+    {
+      "id": "territory-and-identity",
+      "type": "concept",
+      "label": "Territory and Identity",
+      "description": "The deep connection between territory and identity for the Folk — how their sense of self was rooted in familiar places, and how the forced abandonment of their cave territory represented not just a practical loss but a rupture in collective continuity.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:territory-and-identity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "open space"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "adventure-journey"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        }
+      ]
+    },
+    {
+      "id": "the-carrot-patch-ambush",
+      "type": "event",
+      "label": "The Carrot Patch Ambush",
+      "description": "The Fire People's ambush at the carrot patch — a surprise arrow attack during a morning feeding that killed the Hairless One and the narrator's sister, wounded Lop-Ear, and marked the beginning of the end for the Folk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-carrot-patch-ambush",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "hairless-one"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-migration",
+          "label": "Fire Migration"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "the open space before the caves"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff-wall"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "run-ways"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        }
+      ]
+    },
+    {
+      "id": "the-cliffs",
+      "type": "place",
+      "label": "The Cliffs",
+      "description": "The towering rock face where the caves of the Folk were situated — home, refuge, and final defensive redoubt.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-cliffs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "Open Space"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "great swamp"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "path"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        }
+      ]
+    },
+    {
+      "id": "the-fire-migration",
+      "type": "event",
+      "label": "The Fire Migration",
+      "description": "The territorial expansion of the Fire People that drove the Folk from their ancestral caves — a population-driven migration that the narrator identifies as the event that \"set back our evolution for centuries\" and brought about the near-destruction of the Folk.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-fire-migration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "the massacre at the caves"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "path"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "the migration"
+        },
+        {
+          "type": "related",
+          "target": "the-carrot-patch-ambush",
+          "label": "carrot patch"
+        },
+        {
+          "type": "related",
+          "target": "hairless-one",
+          "label": "Hairless One"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "the open space before the caves"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff-wall"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "the-fire-people-massacre",
+      "type": "event",
+      "label": "The Fire People Massacre",
+      "description": "The systematic extermination of the Folk by the Fire People — a dawn attack on the caves using fire to smoke out each tier, resulting in near-total destruction of the horde and forcing the survivors into the great swamp.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-fire-people-massacre",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "the Swift One"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "broken-tooth",
+          "label": "Broken-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the swamp"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Man"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "hair-face",
+          "label": "Hair-Face"
+        },
+        {
+          "type": "related",
+          "target": "long-lip",
+          "label": "Long-Lip"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "chatterer",
+          "label": "Chatterer"
+        }
+      ]
+    },
+    {
+      "id": "the-folk",
+      "type": "concept",
+      "label": "The Folk",
+      "description": "The Folk is the collective term used throughout Before Adam to refer to the hominid people — the narrator's own kind, a pre-human species living in the Pleistocene era.",
+      "aliases": [
+        "the people",
+        "the tribe",
+        "the horde"
+      ],
+      "tags": [
+        "collective",
+        "society",
+        "hominid",
+        "species"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:the-folk",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        }
+      ]
+    },
+    {
+      "id": "the-forest",
+      "type": "place",
+      "label": "The Forest",
+      "description": "The dense primordial woodland surrounding the river valley — the Folk's primary hunting territory, refuge from predators, and the landscape that shaped their arboreal way of life.",
+      "aliases": [],
+      "tags": [
+        "territory",
+        "hunting-ground",
+        "arboreal-habitat"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:the-forest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "sleep",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "climbers"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "younger-world",
+          "label": "the Younger World"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "Caves"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "fire-discovery",
+          "label": "fire-discovery"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "shelter"
+        }
+      ]
+    },
+    {
+      "id": "the-forest-fire",
+      "type": "event",
+      "label": "The Forest Fire",
+      "description": "The accidental forest fire started by the narrator and Lop-Ear when, imitating the Fire People, they fed a campfire until it grew into an uncontrollable conflagration that swept eastward and drove them into Fire People territory.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-forest-fire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "broken-tooth",
+          "label": "Broken-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "climbing",
+          "label": "Climbing"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "fire-discovery",
+          "label": "first fire"
+        }
+      ]
+    },
+    {
+      "id": "the-great-migration",
+      "type": "event",
+      "label": "The Great Migration",
+      "description": "The Folk's departure from the caves and the long wandering that followed — a multi-chapter journey that took the narrator and Lop-Ear from their ancestral territory across the River, through the mountains, past Long Lake and Far Lake, and ultimately to the sea and the lands beyond.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-great-migration",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-river-crossing",
+          "label": "River Crossing"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "shelter",
+          "label": "tree-shelter"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        },
+        {
+          "type": "related",
+          "target": "far-lake",
+          "label": "Far Lake"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "slough"
+        }
+      ]
+    },
+    {
+      "id": "the-great-swamp",
+      "type": "place",
+      "label": "The Great Swamp",
+      "description": "The vast swamp extending westward from the caves — a treacherous barrier that became the Folk's escape route and the setting of their darkest wanderings.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-great-swamp",
+      "relations": [
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "path"
+        }
+      ]
+    },
+    {
+      "id": "the-horde",
+      "type": "group",
+      "label": "The Horde",
+      "description": "The primary tribal group of the narrative — a small hominin horde living in the caves above the river, loosely organized with rudimentary social customs, councils, and leadership patterns, whose gradual technological and social evolution forms the central arc of the story.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-horde",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "hee-hee council"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "crooked-leg",
+          "label": "Crooked-Leg"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Singing One"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "bow"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "the sea"
+        }
+      ]
+    },
+    {
+      "id": "the-mountain",
+      "type": "place",
+      "label": "The Mountain",
+      "description": "The mountain ranges that the Folk traversed during their long wanderings — bleak, inhospitable heights that tested their endurance and marked the farthest reach of their migration.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-mountain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "great swamp"
+        }
+      ]
+    },
+    {
+      "id": "the-open-space",
+      "type": "place",
+      "label": "The Open Space",
+      "description": "The central open area before the caves where the Folk gathered, played, and faced danger together — the social heart of their territory.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-open-space",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "run-ways"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-plain",
+          "label": "the open ground"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "fire",
+          "label": "Fire"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "blueberry swamp"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        }
+      ]
+    },
+    {
+      "id": "the-plain",
+      "type": "place",
+      "label": "The Plain",
+      "description": "The open, level ground stretching between the forest's edge and the base of the cliffs — a zone of exposure that the Folk crossed with caution.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-plain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "Open Space"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        }
+      ]
+    },
+    {
+      "id": "the-ridge",
+      "type": "place",
+      "label": "The Ridge",
+      "description": "A low, elevated crest of ground near the caves that offered a vantage point over the surrounding terrain.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-ridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "Open Space"
+        },
+        {
+          "type": "related",
+          "target": "the-plain",
+          "label": "plain"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "run-ways"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        }
+      ]
+    },
+    {
+      "id": "the-river",
+      "type": "place",
+      "label": "The River",
+      "description": "The river that flowed past the caves — at once a source of water, a territorial boundary, a hazard to be crossed, and the highway that carried the Folk into unknown lands.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-river",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "cliffs"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "Open Space"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "run-ways"
+        },
+        {
+          "type": "related",
+          "target": "drinking-place",
+          "label": "drinking-places"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "mountains"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        }
+      ]
+    },
+    {
+      "id": "the-river-crossing",
+      "type": "event",
+      "label": "The River Crossing",
+      "description": "The accidental crossing of the River by the narrator and Lop-Ear — swept from a slough into the main current on drifting logs, they became the first of the Folk to reach the north bank and, in doing so, learned how to cross a river.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:the-river-crossing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "blueberry-swamp",
+          "label": "slough"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "bow-and-arrow",
+          "label": "arrow"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "the wandering"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "the-sea-encounter",
+          "label": "arrival at the sea"
+        }
+      ]
+    },
+    {
+      "id": "the-sea",
+      "type": "concept",
+      "label": "The Sea",
+      "description": "The ultimate destination and final home of the Folk after their great migration; a coastal environment where the river meets the ocean.",
+      "aliases": [
+        "ocean",
+        "the primeval sea",
+        "coast"
+      ],
+      "tags": [
+        "geography",
+        "destination",
+        "migration"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:the-sea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "Folk"
+        },
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "great migration"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "river"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "adventure-journey",
+          "label": "adventure-journey"
+        }
+      ]
+    },
+    {
+      "id": "the-sea-encounter",
+      "type": "event",
+      "label": "The Sea Encounter",
+      "description": "The arrival of the surviving Folk at the sea — after weeks of wandering through the great swamp, they emerged at the river's mouth where the ocean boomed on the bar, and settled into sandstone caves to begin a harsh coastal existence.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-sea-encounter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "the-river",
+          "label": "the river"
+        },
+        {
+          "type": "related",
+          "target": "fire-man",
+          "label": "Fire-Men"
+        },
+        {
+          "type": "related",
+          "target": "swift-one",
+          "label": "Swift One"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        }
+      ]
+    },
+    {
+      "id": "the-thicket",
+      "type": "place",
+      "label": "The Thicket",
+      "description": "A dense patch of vegetation near the caves that served as a hiding place and ambush site for the Folk and their prey.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:the-thicket",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        },
+        {
+          "type": "related",
+          "target": "far-lake",
+          "label": "Far Lake"
+        },
+        {
+          "type": "related",
+          "target": "the-open-space",
+          "label": "Open Space"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "mountains"
+        },
+        {
+          "type": "related",
+          "target": "the-cliffs",
+          "label": "the cliff"
+        },
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        }
+      ]
+    },
+    {
+      "id": "tree-people",
+      "type": "group",
+      "label": "Tree People",
+      "description": "A ferocious arboreal hominin group dwelling in the forest between Long Lake and the mountains — physically adapted to life in the trees, hostile to the Folk, and yet recognizably related, representing an alternative evolutionary branch of the same ancestral stock.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "before-adam:tree-people",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "the narrator"
+        },
+        {
+          "type": "related",
+          "target": "the-river-crossing",
+          "label": "crossing the river"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "run-way",
+          "label": "path"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "the-fire-people-massacre",
+          "label": "Fire People Massacre"
+        },
+        {
+          "type": "related",
+          "target": "the-great-swamp",
+          "label": "the great swamp"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        }
+      ]
+    },
+    {
+      "id": "tree-people-chase",
+      "type": "event",
+      "label": "The Tree People Chase",
+      "description": "The hours-long pursuit of Big-Tooth and Lop-Ear by the Tree People through the forest — a consequence of the two Folk's casual cruelty toward an old Tree-Man, which triggered a coordinated tribal response that drove the travelers into the mountains.",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "before-adam:tree-people-chase",
+      "relations": [
+        {
+          "type": "related",
+          "target": "big-tooth",
+          "label": "Big-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "Tree People"
+        },
+        {
+          "type": "related",
+          "target": "long-lake",
+          "label": "Long Lake"
+        },
+        {
+          "type": "related",
+          "target": "the-mountain",
+          "label": "the mountains"
+        },
+        {
+          "type": "related",
+          "target": "the-horde",
+          "label": "the Folk"
+        }
+      ]
+    },
+    {
+      "id": "tree-shelter",
+      "type": "concept",
+      "label": "Tree-Shelter",
+      "description": "The arboreal sleeping platforms constructed by the Folk in the forest — an intermediate technology bridging the ancestral tree-nest of infancy and the permanent cave dwelling, used when the characters range away from the cliff territory.",
+      "aliases": [
+        "tree-shelters",
+        "tree-nest",
+        "arboreal-shelter"
+      ],
+      "tags": [
+        "technology",
+        "shelter",
+        "survival"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:tree-shelter",
+      "relations": []
+    },
+    {
+      "id": "tribe",
+      "type": "concept",
+      "label": "Tribe",
+      "description": "The fundamental social unit of hominid life in Before Adam — a cooperative band bound by kinship, shared danger, and collective survival.",
+      "aliases": [
+        "the-horde",
+        "tribal-organization"
+      ],
+      "tags": [
+        "social",
+        "tribe",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:tribe",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-great-migration",
+          "label": "Great Migration"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "marrow-bone",
+          "label": "Old Marrow-Bone"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the-folk"
+        },
+        {
+          "type": "related",
+          "target": "tree-people",
+          "label": "tree-people"
+        },
+        {
+          "type": "related",
+          "target": "council",
+          "label": "council"
+        }
+      ]
+    },
+    {
+      "id": "wild-boar",
+      "type": "species",
+      "label": "Wild Boar",
+      "description": "A dangerous tusked animal of the Younger World — though not a dedicated predator, wild boars posed a serious threat when encountered on the forest floor.",
+      "aliases": [
+        "wild pig",
+        "tusked pig"
+      ],
+      "tags": [
+        "prey-animal",
+        "omnivore",
+        "pleistocene"
+      ],
+      "quality": "standard",
+      "source_ref": "before-adam:wild-boar",
+      "relations": [
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "Saber-Tooth"
+        },
+        {
+          "type": "related",
+          "target": "lion",
+          "label": "lion"
+        },
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "younger-world",
+          "label": "Younger World"
+        },
+        {
+          "type": "related",
+          "target": "the-forest",
+          "label": "The Forest"
+        },
+        {
+          "type": "related",
+          "target": "survival",
+          "label": "survival"
+        }
+      ]
+    },
+    {
+      "id": "wild-dogs",
+      "type": "species",
+      "label": "Wild Dogs",
+      "description": "A predatory canine species that hunted the Folk across open spaces and penetrated their cave refuges — a persistent, intelligent threat that occupied a distinct ecological niche alongside the saber-tooth cat.",
+      "aliases": [
+        "jackals",
+        "wolves",
+        "hunting dogs"
+      ],
+      "tags": [
+        "predator",
+        "fauna",
+        "threat"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:wild-dogs",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-folk",
+          "label": "the Folk"
+        },
+        {
+          "type": "related",
+          "target": "saber-tooth",
+          "label": "saber-tooth"
+        },
+        {
+          "type": "related",
+          "target": "caves",
+          "label": "caves"
+        },
+        {
+          "type": "related",
+          "target": "double-cave",
+          "label": "double-cave"
+        },
+        {
+          "type": "related",
+          "target": "lop-ear",
+          "label": "Lop-Ear"
+        },
+        {
+          "type": "related",
+          "target": "red-eye",
+          "label": "Red-Eye"
+        },
+        {
+          "type": "related",
+          "target": "fire-people",
+          "label": "Fire People"
+        },
+        {
+          "type": "related",
+          "target": "fire-discovery",
+          "label": "the domestication of the dog"
+        },
+        {
+          "type": "related",
+          "target": "hunting",
+          "label": "hunting"
+        }
+      ]
+    },
+    {
+      "id": "younger-world",
+      "type": "concept",
+      "label": "Younger World",
+      "description": "The narrator's lyrical proper name for the Pleistocene epoch as experienced through his ancestral memories — a framing device that contrasts the primeval past with modernity throughout the novel.",
+      "aliases": [
+        "the Younger World",
+        "Pleistocene"
+      ],
+      "tags": [
+        "world-building",
+        "framing-device",
+        "evolution",
+        "time"
+      ],
+      "quality": "featured",
+      "source_ref": "before-adam:younger-world",
+      "relations": []
+    }
+  ]
+}

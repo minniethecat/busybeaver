@@ -1,65 +1,39 @@
 ---
+description: "Wollstonecraft's ambivalent assessment of civilization — critiqued as 'very partial' in its benefits yet defended against Rousseau's primitivism as the necessary condition for moral and intellectual progress."
 id: civilization
-label: Civilization
+label: "Civilization"
+tags: ["concept", "politics"]
 type: concept
-description: "Wollstonecraft's ambivalent treatment of civilization as both the precondition for rational progress and a source of artificial corruption — particularly in its imposition of sexual privileges and the refinement that softens rather than strengthens character"
-tags: ["society", "progress", "gender", "morality", "education"]
 ---
-
-**Civilization** occupies an ambivalent position in Wollstonecraft's thought. On the one hand, it is the precondition for the rational improvement of humanity — the movement away from barbarism toward the exercise of reason, the cultivation of manners, the establishment of law. On the other hand, the civilization "which has hitherto taken place" (P03-001) has been, in crucial respects, a corruption rather than a genuine advance — a refinement of vice rather than a cultivation of virtue.
-
-The ambiguity is captured in her distinction between being "softened" and being "refined" by civilization. The civilization she observes has "softened rather than refined" women (004-100): it has made them more delicate without making them more rational, more polished without making them more virtuous.
 
 ## Definition
 
-Wollstonecraft inherits the eighteenth-century discourse of civilization as a stadial concept — a stage in human history beyond savagery and barbarism. But she subjects this discourse to searching critique. The "civilization of the bulk of the people of Europe" (001-011) is, she argues, very partial: it has improved the condition of men while leaving women in a state of artificial degradation.
+Wollstonecraft's treatment of civilization is [[character]]istically double-edged. On one hand, she is a critic of "civilization" as it actually exists: "the civilization of the bulk of the people of Europe, is very partial" [001-011], she declares, observing that the benefits of civil society have been distributed unequally, with women particularly excluded. The civilization she sees around her has produced "artificial fools" [001-013], hereditary privilege, and the degradation of women — hardly a triumphant progress.
 
-The concept carries a double valence in her work. Civilization in the abstract — the progress of reason, the extension of sympathy, the establishment of just institutions — is an unambiguous good. But civilization as it has actually developed — "the civilization which has hitherto taken place" — is a mixed phenomenon, one that has "prevented that intercourse which produces genuine refinement" (012-069) even as it has multiplied the forms of politeness.
+On the other hand, she rejects [[rousseau|Rousseau]]'s primitivism, insisting that the answer to civilization's failures is not a return to a [[nature|state of nature]] but a more complete and equitable civilization. Against [[rousseau|Rousseau]]'s claim "that a [[nature|state of nature]] is preferable to civilization in all its possible perfection," Wollstonecraft responds that this "is, in other words, to arraign supreme [[knowledge|wisdom]]" [001-014]. The problem is not civilization as such but its partial, corrupted form — a civilization that has advanced for some while leaving others behind.
 
-Crucially, Wollstonecraft insists that the defects of existing civilization are not arguments for returning to a state of nature. The "state of nature" is not "preferable to civilization in all its possible perfection" (001-015); the problem is not civilization as such but the specific form civilization has taken — a form shaped by "certain sexual privileges" (004-025) that have distorted its development.
+## In Context
 
-## Wollstonecraft's Argument
+The concept of civilization is threaded through the *Vindication* from the Introduction onward. In the Introduction, Wollstonecraft laments that "the civilization, which has hitherto taken place in the world, has been very partial" [P03-001], establishing her dual stance of critique and reform. Chapter I contains her most sustained engagement with the concept, as she debates [[rousseau|Rousseau]]'s state-of-[[nature]] thesis across multiple paragraphs [001-013 through 001-019].
 
-Wollstonecraft's argument about civilization is that it has been perverted by inequality. The "blessed effects of civilization" (009-034) are distributed unequally: men enjoy the fruits of rational progress while women are consigned to a condition that combines the worst features of savagery — dependence, ignorance, subordination to force — with the worst features of corrupt civilization — artificiality, dissimulation, the refinement of vice.
-
-The "politeness of civilization" (004-015) is, in her account, a double-edged phenomenon. It moderates the brutality of direct force, but it also provides cover for more insidious forms of domination. The civilized man does not beat his wife; he merely denies her education, excludes her from citizenship, and reduces her to economic dependence — all while congratulating himself on his politeness.
-
-The argument reaches its sharpest formulation in the claim that civilization can become "a curse" (009-014). When the "distinctions of rank" that civilization produces divide society into mutually uncomprehending classes, and when the "sexual privileges" it entrenches divide humanity into rulers and ruled, civilization ceases to be an engine of progress and becomes an apologist for oppression.
-
-The remedy is not the abandonment of civilization but its extension — the inclusion of women in its benefits. "Let woman share the advantages of education and government with man" (012-048): this is the demand that would transform civilization from a partial into a universal good.
-
-### Contrast with Contemporary Views
-
-Wollstonecraft's ambivalent treatment of civilization distinguishes her from both the optimistic progressivism of Condorcet and the primitivism of Rousseau. Against Condorcet, she insists that the progress of civilization has been profoundly uneven, leaving women in a condition that belies the rhetoric of enlightenment. Against Rousseau, she refuses the conclusion that the defects of civilization justify nostalgia for a pre-civilised state.
-
-Her position is closest to that of Adam Smith and the Scottish Enlightenment, who shared her sense that commercial civilization brought both gains and losses. But Wollstonecraft adds a gendered dimension absent from Smith's analysis: the "losses" of civilization have been borne disproportionately by women.
+In Chapter II, Wollstonecraft connects the partial [[nature]] of civilization to the condition of women, arguing that "as sound politics diffuse liberty, mankind, including woman, will become more wise and virtuous" [002-094] — a vision of civilization completed rather than abandoned. In Chapter V she examines how the specific institutions of civil society, particularly marriage and property, shape women's [[character]].
 
 ## Key Passages
 
-> After considering the moral effects, resulting from the progress of civilization, I shall only observe, that the civilization which has hitherto taken place in the world, has been very partial. (P03-001)
+> "...the civilization, which has hitherto taken place in the world, has been very partial." [P03-001]
 
-> The civilization of the bulk of the people of Europe, is very far from being complete; and reason has made little progress, because the mass of mankind have not been allowed to think. (001-011)
+> "The civilization of the bulk of the people of Europe, is very partial; nay, it may be made a question, whether they have acquired any virtues in exchange for innocence, equivalent to the misery produced by the vices that have been plastered over unsightly ignorance." [001-011]
 
-> Women are, therefore, to be considered either as moral beings, or so weak that they must be entirely subjected to the superior faculties of men. Let them share the advantages of education and government with man, see whether they will become better, as they grow wiser and freer. (012-048)
-
-> Women have been softened rather than refined by civilization; and till a greater degree of refinement takes place, it is to be feared, that the character of the sex, in general, will not be much improved. (004-100)
+> "...to assert that a state of nature is preferable to civilization in all its possible perfection, is, in other words, to arraign supreme wisdom." [001-014]
 
 ## Related Concepts
 
-- [[Reason]] — the faculty whose development marks genuine civilization, as distinct from mere politeness
+- [[nature]] — Wollstonecraft rejects both the idealization of [[nature]] and the unqualified celebration of civilization
+- [[reason]] — civilization properly understood is the progressive unfolding of [[reason]] in social institutions
+- [[education]] — [[education]] is the mechanism by which civilization's benefits are extended to all
+- [[equality]] — the partiality of civilization consists in its un[[equality|equal]] distribution of liberty and opportunity
+- [[liberty]] — the diffusion of liberty is the measure of civilization's completeness
 
-- [[Refinement]] — the quality Wollstonecraft distinguishes from mere softening; the true fruit of civilization
+## Related Persons
 
-- [[Society]] — the domain in which civilization operates, and whose corruption reveals civilization's limits
-
-- [[Rank]] — one of the "distinctions" that render civilization a curse by dividing humanity into artificial hierarchies
-
-- [[Modesty]] — a virtue that, properly understood, is the product of a genuinely civilized character
-
-## See Also
-
-- [[Mary Wollstonecraft]] — who argued that civilization must be extended to women if it is to deserve the name
-
-- [[Jean-Jacques Rousseau]] — whose ambivalence about civilization Wollstonecraft shares but redirects toward a feminist end
-
-- [[Marquis de Condorcet]] — whose faith in the progress of civilization Wollstonecraft admired but qualified with her insistence on its gendered limits
+- [[rousseau]] — Wollstonecraft's primary interlocutor on the value of civilization vs. the [[nature|state of nature]]

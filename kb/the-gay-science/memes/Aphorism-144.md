@@ -1,0 +1,34 @@
+---
+description: ""
+id: Aphorism-144
+label: "Aphorism 144"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 144.
+
+### 144.
+
+
+*Religious Wars.*—The greatest advance of the
+
+masses hitherto has been religious war, for it proves
+
+that the masses have begun to deal reverently with
+
+conceptions of things. Religious wars only result,
+
+when human reason generally has been refined by
+
+the subtle disputes of sects; so that even the populace
+
+becomes punctilious and regards trifles as
+
+important, actually thinking it possible that the
+
+"eternal salvation of the soul" may depend upon
+
+minute distinctions of concepts.

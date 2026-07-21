@@ -1,0 +1,105 @@
+---
+description: "Letter XXXIV"
+id: Letter-XXXIV
+label: "Letter XXXIV"
+tags: ["chapter"]
+type: chapter
+---
+
+[034-001] Evelina in Continuation
+
+[034-002] Howard Grove, May 15.
+
+[034-003] This insatiable Captain, if left to himself, would not, I believe, rest, till he had tormented Madame Duval into a fever. He seems to have no delight but in terrifying or provoking her; and all his thoughts apparently turn upon inventing such methods as may do it most effectually.
+
+[034-004] She had her breakfast again in bed yesterday morning: but during ours, the Captain, with a very significant look at Sir Clement, gave us to understand, that he thought she had now rested long enough to bear the hardships of a fresh campaign.
+
+[034-005] His meaning was obvious; and, therefore, I resolved to endeavour immediately to put a stop to his intended exploits. When breakfast was over, I followed Mrs. Mirvan out of the parlour, and begged her to lose no time in pleading the cause of Madame Duval with the Captain. “My love,” answered she, “I have already expostulated with him; but all I can say is fruitless, while his favourite, Sir Clement, contrives to urge him on.”
+
+[034-006] “Then I will go and speak to Sir Clement,” said I, “for I know he will desist if I request him.”
+
+[034-007] “Have a care, my dear!” said she, smiling; “it is sometimes dangerous to make requests to men who are too desirous of receiving them.”
+
+[034-008] “Well, then, my dear Madam, will you give me leave to speak myself to the Captain?”
+
+[034-009] “Willingly; nay, I will accompany you to him.”
+
+[034-010] I thanked her, and we went to seek him. He was walking in the garden with Sir Clement. Mrs. Mirvan most obligingly made an opening for my purpose, by saying, “Mr. Mirvan, I have brought a petitioner with me.”
+
+[034-011] “Why, what’s the matter now?” cried he.
+
+[034-012] I was fearful of making him angry, and stammered very much, when I told him, I hoped he had no new plan for alarming Madame Duval.
+
+[034-013] “*New* plan!” cried he; “why, you don’t suppose the *old* one would do again, do you? Not but what it was a very good one, only I doubt she wouldn’t bite.”
+
+[034-014] “Indeed, Sir,” said I, “she has already suffered too much; and I hope you will pardon me, if I take the liberty of telling you, that I think it my duty to do all in my power to prevent her being again so much terrified.”
+
+[034-015] A sullen gloominess instantly clouded his face, and, turning short from me, he said, I might do as I pleased, but that I should much sooner repent than repair my officiousness.
+
+[034-016] I was too much disconcerted at this rebuff to attempt making any answer; and finding that Sir Clement warmly espoused my cause, I walked away, and left them to discuss the point together.
+
+[034-017] Mrs. Mirvan, who never speaks to the Captain when he is out of humour, was glad to follow me, and with her usual sweetness made a thousand apologies for her husband’s ill-manners.
+
+[034-018] When I left her, I went to Madame Duval, who was just risen, and employed in examining the clothes she had on the day of her ill usage.
+
+[034-019] “Here’s a sight!” she cried. “Come, here child—only look—*Pardi*, so long as I’ve lived, I never see so much before! Why, all my things are spoilt; and what’s worse, my sacque was as good as new. Here’s the second negligee I’ve used in this manner!—I’m sure I was a fool to put it on in such a lonesome place as this; however if I stay here these ten years, I’ll never put on another good gown, that I’m resolved.”
+
+[034-020] “Will you let the maid try if she can iron it out, or clean it, Ma’am?”
+
+[034-021] “No, she’ll only make bad worse.—But look here, now, here’s a cloak! *Mon Dieu!* why it looks like a dish-clout! Of all the unluckiness that ever I met, this is the worst! for, do you know, I bought it but the day before I left Paris!—Besides, into the bargain, my cap’s quite gone: where the villain twitched it, I don’t know; but I never see no more of it from that time to this. Now you must know that this was the becomingest cap I had in the world, for I’ve never another with pink ribbon in it; and, to tell you the truth, if I hadn’t thought to have seen M. Du Bois, I’d no more have put it on than I’d have flown; for as to what one wears in such a stupid place as this, it signifies no more than nothing at all.”
+
+[034-022] She then told me, that she had been thinking all night of a contrivance to hinder the Captain from finding out her loss of curls; which was having a large gauge handkerchief pinned over her head as a hood, and saying she had the toothache.
+
+[034-023] “To tell you the truth,” added she, “I believe that Captain is one of the worst men in the world; he’s always making a joke of me; and as to his being a gentleman, he has no more manners than a bear, for he’s always upon the grin when one’s in distress; and, I declare I’d rather be done anything to than laughed at, for, to my mind, it’s one or other the disagreeablest thing in the world.”
+
+[034-024] Mrs. Mirvan, I found, had been endeavouring to dissuade her from the design she had formed of having recourse to the law, in order to find out the supposed robbers; for she dreads a discovery of the Captain, during Madame Duval’s stay at Howard Grove, as it could not fail being productive of infinite commotion. She has, therefore, taken great pains to show the inutility of applying to justice, unless she were more able to describe the offenders against whom she would appear; and has assured her, that as she neither heard their voices, nor saw their faces, she cannot possibly swear to their persons, or obtain any redress.
+
+[034-025] Madame Duval, in telling me this, extremely lamented her hard fate, that she was thus prevented from revenging her injuries; which, however, she vowed she would not be persuaded to *pocket tamely*: “because,” added she, “if such villains as these are let to have their own way, and nobody takes no notice of their impudence, they’ll make no more ado than nothing at all of tying people in ditches, and such things as that: however, I shall consult with M. Du Bois, as soon as I can ferret out where he’s hid himself. I’m sure I’ve a right to his advice, for it’s all along of his gaping about at the Tower that I’ve met with these misfortunes.”
+
+[034-026] “M. Du Bois,” said I, “will, I am sure, be very sorry when he hears what has happened.”
+
+[034-027] “And what good will that do now?—that won’t unspoil all my clothes; I can tell him, I a’n’t much obliged to him, though it’s no fault of his;—yet it i’n’t the less provokinger for that. I’m sure, if he had been there, to have seen me served in that manner, and put neck and heels into a ditch, he’d no more have thought it was me than the Pope of Rome. I’ll promise you, whatever you may think of it, I shan’t have no rest, night nor day, till I find out that rogue.”
+
+[034-028] “I have no doubt, Madam, but you will soon discover him.”
+
+[034-029] “*Pardi*, if I do, I’ll hang him, as sure as fate!—but what’s the oddest, is, that he should take such a special spite against *me* above all the rest! it was as much for nothing as could be; for I don’t know what I had done, so particular bad, to be used in that manner: I’m sure, I hadn’t given no offence, as I know of, for I never see his face all the time; and as to screaming a little, I think it’s very hard if one mustn’t do such a thing as that, when one’s put in fear of one’s life.”
+
+[034-030] During this conversation, she endeavoured to adjust her headdress, but could not at all please herself. Indeed, had I not been present, I should have thought it impossible for a woman, at her time of life, to be so very difficult in regard to dress. What she may have in view, I cannot imagine, but the labour of the toilette seems the chief business of her life.
+
+[034-031] When I left her, in my way downstairs, I met Sir Clement; who with great earnestness, said he must not be denied the honour of a moment’s conversation with me; and then, without waiting for an answer, he led me to the garden; at the door of which, however, I absolutely insisted upon stopping.
+
+[034-032] He seemed very serious, and said, in a grave tone of voice, “At length, Miss Anville, I flatter myself I have hit upon an expedient that will oblige you; and therefore, though it is death to myself, I will put in practice.”
+
+[034-033] I begged him to explain himself.
+
+[034-034] “I saw your desire of saving Madame Duval, and scarce could I refrain giving the brutal Captain my real opinion of his savage conduct; but I am unwilling to quarrel with him, lest I should be denied entrance into a house which you inhabit; I have been endeavouring to prevail with him to give up his absurd new scheme, but I find him impenetrable:—I have therefore determined to make a pretense for suddenly leaving this place, dear as it is to me, and containing all I most admire and adore;—and I will stay in town till the violence of this boobyish humour is abated.”
+
+[034-035] He stopped; but I was silent, for I knew not what I ought to say. He took my hand, which he pressed to his lips, saying, “And must I then, Miss Anville, must I quit you—sacrifice voluntarily my greatest felicity;—and yet not be honoured with one word, one look of approbation?”
+
+[034-036] I withdrew my hand, and said with half a laugh, “You know so well, Sir Clement, the value of the favours you confer, that it would be superfluous for me to point it out.”
+
+[034-037] “Charming, charming girl! how does your wit, your understanding, rise upon me daily; and must I, can I part with you?—will no other method—”
+
+[034-038] “O, Sir, do you so soon repent the good office you had planned for Madame Duval?”
+
+[034-039] “For Madame Duval!—cruel creature, and will you not even suffer me to place to your account the sacrifice I am about to make?”
+
+[034-040] “You must place it, Sir, to what account you please; but I am too much in haste now to stay here any longer.”
+
+[034-041] And then I would have left him; but he held me, and rather impatiently said, “If, then, I cannot be so happy as to oblige *you*, Miss Anville, you must not be surprised should I seek to oblige myself. If my scheme is not honoured with your approbation, for which alone it was formed, why should I, to my own infinite dissatisfaction, pursue it?”
+
+[034-042] We were then, for a few minutes, both silent; I was really unwilling he should give up a plan which would so effectually break into the Captain’s designs, and, at the same time, save me the pain of disobliging him; and I should instantly and thankfully have accepted his offered civility, had not Mrs. Mirvan’s caution made me fearful. However, when he pressed me to speak, I said, in an ironical voice, “I had thought, Sir, that the very strong sense you have yourself of the favour you propose to me, would sufficiently have repaid you; but, as I was mistaken, I must thank you myself. And now,” making a low courtesy, “I hope, Sir, you are satisfied.”
+
+[034-043] “Loveliest of thy sex—” he began; but I forced myself from him and ran upstairs.
+
+[034-044] Soon after Miss Mirvan told me that Sir Clement had just received a letter, which obliged him instantly to leave the Grove, and that he had actually ordered a chaise. I then acquainted her with the real state of the affair. Indeed, I conceal nothing from her; she is so gentle and sweet-tempered, that it gives me great pleasure to place an entire confidence in her.
+
+[034-045] At dinner, I must own, we all missed him; for though the flightiness of his behaviour to me, when we are by ourselves is very distressing; yet, in large companies, and general conversation, he is extremely entertaining and agreeable. As to the Captain, he has been so much chagrined at his departure, that he has scarce spoken a word since he went: but Madame Duval, who made her first public appearance since her accident, was quite in raptures that she escaped seeing him.
+
+[034-046] The money which we left at the farmhouse has been returned to us. What pains the Captain must have taken to arrange and manage the adventures which he chose we should meet with! Yet he must certainly be discovered; for Madame Duval is already very much perplexed, at having received a letter this morning from M. Du Bois, in which he makes no mention of his imprisonment. However, she has so little suspicion, that she imputes his silence upon the subject to his fears that the letter might be intercepted.
+
+[034-047] Not one opportunity could I meet with, while Sir Clement was here, to enquire after his friend Lord Orville: but I think it was strange he should never mention him unasked. Indeed, I rather wonder that Mrs. Mirvan herself did not introduce the subject, for she always seemed particularly attentive to him.
+
+[034-048] And now, once more, all my thoughts involuntarily turn upon the letter I so soon expect from Paris. This visit of Sir Clement has, however, somewhat diverted my fears; and, therefore, I am very glad he made it at this time. Adieu, my dear Sir.
+
+### Letter XXXV: Sir John Belmont to Lady Howard

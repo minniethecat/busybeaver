@@ -1,0 +1,92 @@
+---
+description: "Act I, Scene I"
+id: act-1-scene-1
+label: "Act I, Scene I"
+tags: ["chapter", "scene"]
+type: "chapter"
+---
+
+[002-001]**[[anton-antonovich|Anton Antonovich]]**, the Governor, [[artemy-zemlianika|Artemy Zemlianika]], the [[artemy-zemlianika|Superintendent of Charities]], [[luka-khlopov|Luka Lukich Khlopov]], the [[luka-khlopov|Inspector of Schools]], [[ammos-liapkin-tiapkin|Ammos Liapkin-Tiapkin]], [[ammos-liapkin-tiapkin|the Judge]], [[stepan-ukhovertov|Stepan Ukhovertov]], [[christian-hubner|Christian Hubner]], the Doctor, and two **Police Sergeants**.
+
+::: table pn=002-002
+
+|  |  |
+
+| --- | --- |
+
+| Governor | I have called you together, gentlemen, to tell you an unpleasant piece of news. An Inspector General is coming. |
+
+| Ammos Fiodorovich | What, an Inspector General? |
+
+| Artemy Filippovich | What, an Inspector General? |
+
+| Governor | Yes, an Inspector from St. Petersburg, incognito. And with secret instructions, too. |
+
+| Ammos | A pretty how-do-you-do! |
+
+| Artemy | As if we hadn’t enough trouble without an Inspector! |
+
+| Luka Lukich | Good Lord! With secret instructions! |
+
+| Governor | I had a sort of presentiment of it. Last night I kept dreaming of two rats—regular monsters! Upon my word, I never saw the likes of them—black and supernaturally big. They came in, sniffed, and then went away.—Here’s a letter I’ll read to you—from Andrey Ivanovich. You know him, Artemy Filippovich. Listen to what he writes: “My dear friend, godfather and benefactor—*He mumbles, glancing rapidly down the page.*—and to let you know”—Ah, that’s it—“I hasten to let you know, among other things, that an official has arrived here with instructions to inspect the whole government, and your district especially. *Raises his finger significantly.* I have learned of his being here from highly trustworthy sources, though he pretends to be a private person. So, as you have your little peccadilloes, you know, like everybody else—you are a sensible man, and you don’t let the good things that come your way slip by—” *Stopping.* H’m, that’s his junk—“I advise you to take precautions, as he may arrive any hour, if he hasn’t already, and is not staying somewhere incognito.—Yesterday—” The rest are family matters. “Sister Anna Krillovna is here visiting us with her husband. Ivan Krillovich has grown very fat and is always playing the fiddle”—et cetera, et cetera. So there you have the situation we are confronted with, gentlemen. |
+
+| Ammos | An extraordinary situation, most extraordinary! Something behind it, I am sure. |
+
+| Luka | But why, Anton Antonovich? What for? Why should we have an Inspector? |
+
+| Governor | It’s fate, I suppose. *Sighs.* Till now, thank goodness, they have been nosing about in other towns. Now our turn has come. |
+
+| Ammos | My opinion is, Anton Antonovich, that the cause is a deep one and rather political in character. It means this, that Russia—yes—that Russia intends to go to war, and the Government has secretly commissioned an official to find out if there is any treasonable activity anywhere. |
+
+| Governor | The wise man has hit on the very thing. Treason in this little country town! As if it were on the frontier! Why, you might gallop three years away from here and reach nowhere. |
+
+| Ammos | No, you don’t catch on—you don’t—The Government is shrewd. It makes no difference that our town is so remote. The Government is on the lookout all the same— |
+
+| Governor | *Cutting him short.* On the lookout, or not on the lookout, anyhow, gentlemen, I have given you warning. I have made some arrangements for myself, and I advise you to do the same. You especially, Artemy Filippovich. This official, no doubt, will want first of all to inspect your department. So you had better see to it that everything is in order, that the nightcaps are clean, and the patients don’t go about as they usually do, looking as grimy as blacksmiths. |
+
+| Artemy | Oh, that’s a small matter. We can get nightcaps easily enough. |
+
+| Governor | And over each bed you might hang up a placard stating in Latin or some other language—that’s your end of it, Christian Ivanovich—the name of the disease, when the patient fell ill, the day of the week and the month. And I don’t like your invalids to be smoking such strong tobacco. It makes you sneeze when you come in. It would be better, too, if there weren’t so many of them. If there are a large number, it will instantly be ascribed to bad supervision or incompetent medical treatment. |
+
+| Artemy | Oh, as to treatment, Christian Ivanovich and I have worked out our own system. Our rule is: the nearer to nature the better. We use no expensive medicines. A man is a simple affair. If he dies, he’d die anyway. If he gets well, he’d get well anyway. Besides, the doctor would have a hard time making the patients understand him. He doesn’t know a word of Russian. |
+
+|  | *The **Doctor** gives forth a sound intermediate between *M* and *A*.* |
+
+| Governor | And you, Ammos Fiodorovich, had better look to the courthouse. The attendants have turned the entrance hall where the petitioners usually wait into a poultry yard, and the geese and goslings go poking their beaks between people’s legs. Of course, setting up housekeeping is commendable, and there is no reason why a porter shouldn’t do it. Only, you see, the courthouse is not exactly the place for it. I had meant to tell you so before, but somehow it escaped my memory. |
+
+| Ammos | Well, I’ll have them all taken into the kitchen today. Will you come and dine with me? |
+
+| Governor | Then, too, it isn’t right to have the courtroom littered up with all sorts of rubbish—to have a hunting-crop lying right among the papers on your desk. You’re fond of sport, I know, still it’s better to have the crop removed for the present. When the Inspector is gone, you may put it back again. As for your assessor, he’s an educated man, to be sure, but he reeks of spirits, as if he had just emerged from a distillery. That’s not right either. I had meant to tell you so long ago, but something or other drove the thing out of my mind. If his odor is really a congenital defect, as he says, then there are ways of remedying it. You might advise him to eat onion or garlic, or something of the sort. Christian Ivanovich can help him out with some of his nostrums. |
+
+|  | *The **Doctor** makes the same sound as before.* |
+
+| Ammos | No, there’s no cure for it. He says his nurse struck him when he was a child, and ever since he has smelt of vodka. |
+
+| Governor | Well, I just wanted to call your attention to it. As regards the internal administration and what Andrey Ivanovich in his letter calls “little peccadilloes,” I have nothing to say. Why, of course, there isn’t a man living who hasn’t some sins to answer for. That’s the way God made the world, and the Voltairean freethinkers can talk against it all they like, it won’t do any good. |
+
+| Ammos | What do you mean by sins? Anton Antonovich? There are sins and sins. I tell everyone plainly that I take bribes. I make no bones about it. But what kind of bribes? White greyhound puppies. That’s quite a different matter. |
+
+| Governor | H’m. Bribes are bribes, whether puppies or anything else. |
+
+| Ammos | Oh, no, Anton Antonovich. But if one has a fur overcoat worth five hundred rubles, and one’s wife a shawl— |
+
+| Governor | *Testily.* And supposing greyhound puppies are the only bribes you take? You’re an atheist, you never go to church, while I at least am a firm believer and go to church every Sunday. You—oh, I know you. When you begin to talk about the Creation it makes my flesh creep. |
+
+| Ammos | Well, it’s a conclusion I’ve reasoned out with my own brain. |
+
+| Governor | Too much brain is sometimes worse than none at all.—However, I merely mentioned the courthouse. I dare say nobody will ever look at it. It’s an enviable place. God Almighty Himself seems to watch over it. But you, Luka Lukich, as inspector of schools, ought to have an eye on the teachers. They are very learned gentlemen, no doubt, with a college education, but they have funny habits—inseparable from the profession, I know. One of them, for instance, the man with the fat face—I forget his name—is sure, the moment he takes his chair, to screw up his face like this. *Imitates him.* And then he has a trick of sticking his hand under his necktie and smoothing down his beard. It doesn’t matter, of course, if he makes a face at the pupils; perhaps it’s even necessary. I’m no judge of that. But you yourself will admit that if he does it to a visitor, it may turn out very badly. The Inspector, or anyone else, might take it as meant for himself, and then the deuce knows what might come of it. |
+
+| Luka | But what can I do? I have told him about it time and again. Only the other day when the marshal of the nobility came into the classroom, he made such a face at him as I had never in my life seen before. I dare say it was with the best intentions; But I get reprimanded for permitting radical ideas to be instilled in the minds of the young. |
+
+| Governor | And then I must call your attention to the history teacher. He has a lot of learning in his head and a store of facts. That’s evident. But he lectures with such ardor that he quite forgets himself. Once I listened to him. As long as he was talking about the Assyrians and Babylonians, it was not so bad. But when he reached Alexander of Macedon, I can’t describe what came over him. Upon my word, I thought a fire had broken out. He jumped down from the platform, picked up a chair and dashed it to the floor. Alexander of Macedon was a hero, it is true. But that’s no reason for breaking chairs. The state must bear the cost. |
+
+| Luka | Yes, he is a hot one. I have spoken to him about it several times. He only says: “As you please, but in the cause of learning I will even sacrifice my life.” |
+
+| Governor | Yes, it’s a mysterious law of fate. Your clever man is either a drunkard, or he makes such grimaces that you feel like running away. |
+
+| Luka | Ah, Heaven save us from being in the educational department! One’s afraid of everything. Everybody meddles and wants to show that he is as clever as you. |
+
+| Governor | Oh, that’s nothing. But this cursed incognito! All of a sudden he’ll look in: “Ah, so you’re here, my dear fellows! And who’s the judge here?” says he. “Liapkin-Tiapkin.” “Bring Liapkin-Tiapkin here.—And who is the Superintendent of Charities?” “Zemlianika.”—“Bring Zemlianika here!”—That’s what’s bad. |
+
+<!-- -->
+:::

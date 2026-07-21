@@ -1,94 +1,51 @@
 ---
+description: "Wollstonecraft's radical critique of property as the root of social corruption; the respect paid to property, rather than to virtue or talent, constitutes the primary source of moral and political evil."
 id: property
-label: Property
+label: "Property"
+tags: ["concept"]
 type: concept
-description: "The institution of private wealth that Wollstonecraft identifies as both a source of social corruption and a barrier to the independence of women — property substitutes for merit and undermines virtue"
-tags: ["economics", "gender", "law", "independence", "social-class"]
 ---
 
 # Property
 
-In _[[A Vindication of the Rights of Woman]]_, **property** is both a social institution and a moral problem. [[Mary Wollstonecraft]] argues that the pursuit and possession of property corrupts character and substitutes wealth for merit.
-
-Critically for women, property-based economic dependence makes genuine [[Virtue]] impossible. The term appears in 7 passages spanning Chapters 1, 3, 4, 9, and 11. Though less frequent than [[Reason]] or [[Education]], property is central to Wollstonecraft's analysis of power.
-
 ## Definition
 
-Wollstonecraft treats property as a morally ambiguous institution. Legitimate as the fruit of industry, it becomes corrupting when hereditary or pursued for its own sake:
+For Wollstonecraft, "property" signifies not merely material possessions or land, but the entire system of inherited wealth, titles, and social prestige that structures eighteenth-century society. She uses the term to denote the artificial distinctions that corrupt both individual character and collective morality. Property, in her analysis, is the primary solvent of virtue: it confers respect that ought to be earned through talent and moral conduct, thereby inverting the proper relationship between merit and reward. Throughout the *Vindication*, she traces how the desire for property -- and the deference society accords it -- generates idleness, tyranny, and the degradation of women [009-002], [009-003].
 
-> "Hereditary property sophisticates the mind, and the unfortunate victims to it." (009-002)
+Wollstonecraft's concept of property is inseparable from her critique of hereditary rank. She argues that "birth, riches, and every intrinsic advantage that exalt a man above his fellows, without any mental exertion, sink him in reality below them" [003-023]. Property, unearned by personal virtue or labour, thus becomes a mechanism of moral decay rather than a neutral economic fact. The radical implication is that society's organising principle -- respect for property -- is the poisoned well from which all other social vices flow.
 
-The word "sophisticates" is chosen carefully: hereditary property makes the mind artificial, substituting inherited status for cultivated merit. This is the same critique she levels at the aristocracy.
+## In Context
 
-Property is also a practical obstacle to virtue: "an aristocracy, founded on property, or sterling talents, will ever sweep before it the alternately timid and ferocious slaves of the multitude" (004-071). Property-based hierarchy is incompatible with moral equality.
+The concept of property reaches its most concentrated and polemical treatment in Chapter IX ("Of the Pernicious Effects Which Arise from the Unnatural Distinctions Established in Society"), where Wollstonecraft opens with one of the most famous declarations in the entire *Vindication*:
 
-## Wollstonecraft's Argument
+> "From the respect paid to property flow, as from a poisoned fountain, most of the evils and vices which render this world such a dreary scene to the contemplative mind." [009-002]
 
-### Property as a Substitute for Merit
+She proceeds to argue that "one class presses on another; for all are aiming to procure respect on account of their property: and property, once gained, will procure the respect due only to talents and virtue" [009-003]. Property thus corrupts not only the wealthy -- who lapse into "habitual idleness" produced by "hereditary wealth and titles" [009-004] -- but also the aspiring classes who scramble to imitate them, sacrificing integrity for advancement [009-026].
 
-Wollstonecraft argues that property has replaced merit as the basis of social esteem:
-
-> "Men will... pay respect on account of their property: and property, once gained, will procure the respect due only to talents and virtue." (009-001)
-
-This substitution is morally catastrophic. When wealth commands the respect due to virtue, the incentive to cultivate virtue disappears. Why become good when one can simply become rich?
-
-### Property and the Dependence of Women
-
-For women, the property problem is particularly acute. Women of Wollstonecraft's class typically could not own property independently. Economic dependence is the material foundation of broader subordination:
-
-> "She has never thought... of securing her property." (003-045)
-
-Women are taught to cultivate charms rather than economic competence. Even a woman with legal property lacks the understanding to manage it — remaining dependent on male guardians regardless of entitlement.
-
-### Hereditary Property and Aristocratic Vice
-
-Wollstonecraft's most pointed critique targets hereditary wealth:
-
-> "Hereditary property sophisticates the mind." (009-002)
-
-The hereditary principle — wealth passing regardless of merit — is the structural opposite of Enlightenment values. It is the social expression of the same arbitrary authority she critiques in despotism and domestic tyranny.
-
-### Property and Parental Authority
-
-Wollstonecraft connects the corruption of property to the corruption of family. In Chapter 11, she argues that "a selfish respect for property" (011-007) often masquerades as parental duty. Fathers demanding obedience on grounds of property rather than reason teach servility instead of virtue.
+In Chapter III, Wollstonecraft extends the argument to women's condition: property is the basis of patriarchal power, and women's lack of independent property renders them dependent, cunning, and incapable of virtue. A widow who "has never thought, much less acted for herself" is abruptly charged to "form their principles and secure their property," but lacks the education to do so [003-038]. In Chapter XI, she observes that filial "respect for parents is, generally speaking, a much more debasing principle; it is only a selfish respect for property" [011-009], showing how property corrupts even the most intimate domestic relations. Throughout the work, property appears as the antithesis of the rational independence and self-earned virtue that Wollstonecraft champions as the foundation of a just society.
 
 ## Key Passages
 
-> "Hereditary property sophisticates the mind, and the unfortunate victims to it." (009-002)
+> "From the respect paid to property flow, as from a poisoned fountain, most of the evils and vices which render this world such a dreary scene to the contemplative mind." [009-002]
 
-> "Men will... pay respect on account of their property: and property, once gained, will procure the respect due only to talents and virtue." (009-001)
+> "One class presses on another; for all are aiming to procure respect on account of their property: and property, once gained, will procure the respect due only to talents and virtue." [009-003]
 
-> "An aristocracy, founded on property, or sterling talents, will ever sweep before it the alternately timid and ferocious slaves of the multitude." (004-071)
+> "But what habitual idleness can hereditary wealth and titles produce? For man is so constituted that he can only attain a proper use of his faculties by exercising them, and will not exercise them unless necessity, of some kind, first set the wheels in motion." [009-004]
 
-> "She has never thought... of securing her property." (003-045)
+> "But, respect for parents is, generally speaking, a much more debasing principle; it is only a selfish respect for property. The father who is blindly obeyed, is obeyed from sheer weakness, or from motives that degrade the human character." [011-009]
 
-### Property Across the Vindication
+## Related Concepts
 
-| Context | Key Claim | PN |
-|---------|-----------|-----|
-| Moral corruption | Hereditary property "sophisticates the mind" | 009-002 |
-| Merit displaced | Property procures "respect due only to talents and virtue" | 009-001 |
-| Aristocracy | "Aristocracy, founded on property" sweeps aside the multitude | 004-071 |
-| Dependence of women | Women never taught to secure their property | 003-045 |
-| Parental authority | "A selfish respect for property" masquerades as duty | 011-007 |
+- [[virtue]] -- property corrupts virtue by displacing merit as the basis of social respect [009-003], [009-006]
+- [[wealth]] -- synonymous in Wollstonecraft's usage with property and its corrupting influence [009-004], [009-008]
+- [[rank]] -- hereditary rank is the social expression of property; both degrade character without mental exertion [003-023], [009-015]
+- [[morality]] -- "when poverty is more disgraceful than even vice, is not morality cut to the quick?" [009-023]
+- [[independence]] -- women's lack of property renders them dependent, and "how can a being be generous who has nothing of its own? or, virtuous, who is not free?" [009-021]
+- [[despotism]] -- property-based power mirrors the arbitrary authority of despots, degrading both master and subject [003-022], [003-023]
+- [[respect]] -- the respect paid to property, rather than to virtue, is the engine of social corruption [009-002], [004-024]
 
-## Relationship to Other Concepts
+## Related Persons
 
-Property is the material basis of the hierarchy that Wollstonecraft's egalitarian arguments seek to dismantle. It stands in tension with [[Virtue]] — pursuit of property displaces moral excellence — and with [[Equality]] — property distinctions create artificial hierarchy.
-
-Property is the economic dimension of [[Independence]]. Intellectual and moral independence require material foundation: a woman dependent on a man for subsistence cannot exercise [[Rights]] freely, however formally recognized.
-
-The critique of property connects to Wollstonecraft's analysis of [[Power]]: property perpetuates arbitrary power. The reform of property relations — though less radical than her educational proposals — is a necessary complement to the reform of morals.
-
-## See Also
-
-- [[Independence]]
-- [[Equality]]
-- [[Virtue]]
-- [[Power]]
-- [[Rights]]
-- [[Education]]
-- [[Marriage]]
-- [[Rank]]
-- [[Liberty]]
-- [[Mary Wollstonecraft]]
+- [[jean-jacques-rousseau]] -- Wollstonecraft contests Rousseau's vision of the natural order, which she sees as justifying property-based hierarchies; she counters his educational philosophy by insisting that virtue, not inherited station, must shape character [003-011], [001-031]
+- [[john-locke]] -- Locke's philosophy of property and natural rights forms part of the intellectual background Wollstonecraft both draws from and radicalises, particularly regarding women's civil existence [011-015]
+- [[catharine-macaulay]] -- Macaulay's republican virtue ethics provide an alternative model of respect based on merit, which Wollstonecraft invokes against property-based deference [005-129]

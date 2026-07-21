@@ -1,0 +1,31 @@
+---
+description: 
+id: Postscript
+label: "Postscript"
+tags: ["chapter"]
+type: chapter
+---
+
+## Postscript
+
+[030-001][[caleb|Caleb]] of Mariaba (Saba), joint proprietor of [[hermes-house|the Great Diversorium]], the [[hermes-trismegistus|Hermes]] House, at [[alexandria|Alexandria]], near the Canopian Gate, to the ever noble Lord [[lucius|Publius Lucius Sabinus]], sculptor, at Cos.
+
+[030-002]“Written at Alexandria, at the second hour of the fourteenth day of the month of Pacothi, in the ninth year of the benevolent reign of our gracious [[tiberius|Emperor Tiberius]] Augustus.
+
+[030-003]My ever noble Lord, greeting!
+
+[030-004]“It is a pleasure to me, Caleb of Mariaba, to inform you by this letter, entrusted to Alexandros of Alexandria, master of the merchant trireme *Berenice*, that by chance and great good fortune I have succeeded in disposing of the valuable quadrireme, the pleasure-ship *[[aphrodite|Aphrodite]]*, once your property, noble lord, and in the presence of witnesses, free men, transferred to me at Cape Dire, by the Pillars of Sesostris6 … selling her at Arsinoe, previous to the passage through the Nechao Canal (which would probably have been liable to legal objections), at the very profitable price (as, considering all the circumstances, it appears to me, your most obedient, humble servant, friend, guide and companion in the chase) of (after deducting my commission and all my expenses) 900,000 (say, nine hundred thousand) sesterces, a sum reckoned according to the Roman value, item that noble quadrireme *Aphrodite* and three hundred rowers (slaves), item all the necessary and most complete equipment, item costly furniture, carpets, plate and treasures of art, which would probably have produced large sums had it been possible to sell them separately, without danger of seizure in the name of our gracious Emperor Tiberius Augustus, but the separate sale of which would, in the circumstances aforesaid, have entailed innumerable drawbacks;
+
+[030-005]“Whereas I, Caleb of Mariaba, acting and appearing on my own behalf, as actual owner of the noble quadrireme *Aphrodite*, have been able to sell this magnificent pleasure-ship to the noble Lord Baabab, a Persian satrap, residing at Susa;
+
+[030-006]“Wishing, my noble Lord Lucius, companion of the chase and friend, to act to your ever noble advantage, I propose, in order to reduce to a minimum all risks of shipwreck and piracy and other fatal accidents (such as a jealous fate keeps ever hanging over the heads of us poor mortals), to remit to you at frequent intervals, by the intermediary of a master of merchant-vessels, one trusted by all and personally known to myself and sailing to and fro between Alexandria and the Archipelago, a small sum in gold coin or bar, with account and settlement, so that you, my noble lord, may at the earliest moment possess your whole capital in your own hands.
+
+[030-007]“And I also send you, in memory of your most beautiful ship, a few pieces of furniture and valuables (withheld and smuggled away), including two bronze bedsteads, a citron-wood table, a Babylonian carpet, some Ethiopian ostrich-feather coverings, the silver statue of Aphrodite, patroness of your ship, and a few minor trifles of taste and convenience.
+
+[030-008]“I take advantage of the opportunity, my noble lord, dear friend and stout companion of the chase, to tell you that at Mariaba, during a temporary stay in my beloved country, Sabaea, I bought myself a most beautiful slave, a Greek like [[cora|Cora]] and excelling in many gifts, which slave, in order to bind her with greater certainty to my affection, I set free at Mariaba, leaving her, however, as my wife in my house in that city, where I hope one day, after achieving my fortune, to enjoy a life of bliss, fearing lest my brother [[ghizla|Ghizla]] might allow his rights on her to prevail (according to the manners of our country) and hoping to visit her each time that my conduct of noble lords shall bring me to the pillars of Sesostris, from which my beloved country is easily reached.
+
+[030-009]“Wishing you, my noble lord and friend and companion of the chase, the blessing of the gods upon your house, upon your new work and your household, upon your wife and your servants, the wise [[thrasyllus|Thrasyllus]] and the faithful [[tarrar|Tarrar]], together with an always possible change of fortune, I bow low before you, in all humility and friendship, with one hand on my heart and one hand on my lips.
+
+[030-010]“Your ever most obedient, humble servant and guide and friend and companion of the chase,
+
+[030-011]“**Caleb of Mariaba (Saba)**, joint proprietor of the Great Diversorium, the Hermes House, at Alexandria, near the Canopian Gate.”

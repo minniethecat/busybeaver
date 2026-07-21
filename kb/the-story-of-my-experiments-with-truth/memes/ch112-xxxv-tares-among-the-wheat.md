@@ -1,0 +1,25 @@
+---
+description: "It was at Tolstoy Farm that Mr. Kallenbach drew my attention to a problem that had never before struck me. As I have ..."
+id: ch112-xxxv-tares-among-the-wheat
+label: "Chapter 112: XXXV: Tares Among the Wheat"
+tags: ["chapter"]
+type: chapter
+---
+
+# XXXV: Tares Among the Wheat
+
+[112-001] It was at [[tolstoy-farm|Tolstoy Farm]] that Mr. [[hermann-kallenbach|Kallenbach]] drew my attention to a problem that had never before struck me. As I have already said, some of the boys at the Farm were bad and unruly. There were loafers, too, amongst them. With these my three boys came in daily contact, as also did other children of the same type as my own sons. This troubled Mr. Kallenbach, but his attention was centred on the impropriety of keeping *my* boys with these unruly youngsters.
+
+[112-002] One day he spoke out: “Your way of mixing your own boys with the bad ones does not appeal to me. It can have only one result. They will become demoralized through this bad company.”
+
+[112-003] I do not remember whether the question puzzled me at the moment, but I recollect what I said to him:
+
+[112-004] “How can I distinguish between my boys and the loafers? I am equally responsible for both. The youngsters have come because I invited them. If I were to dismiss them with some money, they would immediately run off to [[johannesburg|Johannesburg]] and fall back into their old ways. To tell you the truth, it is quite likely that they and their guardians believe that, by having come here, they have laid me under an obligation. That they have to put up with a good deal of inconvenience here, you and I know very well. But my duty is clear. I must have them here, and therefore my boys also must needs live with them. And surely you do not want me to teach my boys to feel from today that they are superior to other boys. To put that sense of superiority into their heads would be to lead them astray. This association with other boys will be a good discipline for them. They will, of their own accord, learn to discriminate between good and evil. Why should we not believe that, if there is really anything good in them, it is bound to react on their companions? However that may be, I cannot help keeping them here, and if that means some risk, we must run it.”
+
+[112-005] Mr. Kallenbach shook his head.
+
+[112-006] The result, I think, cannot be said to have been bad. I do not consider my sons were any the worse for the experiment. On the contrary I can see that they gained something. If there was the slightest trace of superiority in them, it was destroyed and they learnt to mix with all kinds of children. They were tested and disciplined.
+
+[112-007] This and similar experiments have shown me that, if good children are taught together with bad ones and thrown into their company, they will lose nothing, provided the experiment is conducted under the watchful care of their parents and guardians.
+
+[112-008] Children wrapped up in cottonwool are not always proof against all temptation or contamination. It is true, however, that when boys and girls of all kinds of upbringing are kept and taught together, the parents and the teachers are put to the severest test. They have constantly to be on the alert.

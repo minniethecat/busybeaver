@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-214
+label: "Aphorism 214"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book III
+
+### 214.
+
+### 214.
+
+
+*Faith Saves.*—Virtue gives happiness and a state
+
+of blessedness only to those who have a strong
+
+faith in their virtue:—not, however, to the more
+
+refined souls whose virtue consists of a profound
+
+distrust of themselves and of all virtue. After all,
+
+therefore, it is "faith that saves" here also!—and
+
+be it well observed, *not* virtue!

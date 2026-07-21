@@ -1,0 +1,152 @@
+---
+description: "Chapter 19 of Point Counter Point by Aldous Huxley"
+id: chapter-19
+label: "Chapter 19"
+tags: ["chapter"]
+type: chapter
+---
+
+# XIX
+
+
+## XIX
+
+[019-001] Little Phil was lying on his bed. The room was in an orange twilight. A thin needle of sunshine came probing in between the drawn curtains. Phil was more than usually restless.
+
+[019-002] “What’s the time?” he shouted at last, though he had shouted before and been told to keep quiet.
+
+[019-003] “Not time for you to get up,” Miss Fulkes called back from across the passage. Her voice came muffled, for she was halfway into her blue frock, her head involved in silken darkness, her arms struggling blindly to find the entrance to their respective sleeves. Phil’s parents were arriving today; they would be at [[gattenden|Gattenden]] for lunch. Miss Fulkes’s blue best was imperatively called for.
+
+[019-004] “But what’s the *time*?” the child shouted back angrily. “On your watch, I mean.”
+
+[019-005] Miss Fulkes’s head came through into the light. “Twenty to one,” she called back. “You must be quiet.”
+
+[019-006] “Why isn’t it one?”
+
+[019-007] “Because it isn’t. Now I shan’t answer you any more. And if you shout again I shall tell your mother how naughty you’ve been.”
+
+[019-008] “Naughty!” Phil retorted, putting a tearful fury into his voice—but so softly that Miss Fulkes hardly heard him. “I hate you!” He didn’t, of course. But he had made his protest; honour was saved.
+
+[019-009] Miss Fulkes went on with her toilet. She felt agitated, afraid, painfully excited. What would they think of Phil—*her* Phil, the Phil she had made. “I hope he’ll be good,” she thought. “I hope he’ll be good.” He could be an angel, so enchanting when he chose. And when he wasn’t an angel, there was always a [[science-and-art|reason]]; but one had to know him, one had to understand him in order to see the reason. Probably they wouldn’t be able to see the reason. They had been away so long; they might have forgotten what he was like. And in any case, they couldn’t know what he was like now, what he had grown into during these last months. She alone knew *that* Phil. Knew him and loved him—so much, so much. She alone. And one day she would have to leave him. She had no rights over him, no claim to him; she only loved him. They could take him away from her whenever they wanted. The image of herself in the glass wavered and was lost in a rainbow of fog, and suddenly the tears overflowed onto her cheeks.
+
+[019-010] The train was punctual, the car in attendance. Philip and Elinor climbed in.
+
+[019-011] “Isn’t it wonderful to be here?” Elinor took her husband’s hand. Her eyes shone. “But, good Lord,” she added, in a tone of horror and without waiting for his answer, “they’re building a lot of new houses on the hill there. How dare they?”
+
+[019-012] Philip looked. “Rather garden city, isn’t it?” he said. “It’s a pity the English love the country so much,” he added. “They’re killing it with kindness.”
+
+[019-013] “But how lovely it still is, all the same. Aren’t you tremendously excited?”
+
+[019-014] “Excited?” he questioned, cautiously. “Well …”
+
+[019-015] “Aren’t you even pleased that you’re going to see your son again?”
+
+[019-016] “Of course.”
+
+[019-017] “Of course!” Elinor repeated the words derisively. “And in *that* tone of voice. I never thought there was any ‘of course’ about it; but now the time has come, I’ve never been so excited in my life.”
+
+[019-018] There was a silence; the car drove on windingly, down the lanes. The road mounted; they climbed through beechwoods to a wooden plateau. At the end of a long green vista the most colossal monument of Tantamount grandeur, the palace of the Marquess of Gattenden, basked far off in the sun. The flag flew; his lordship was in residence. “We must go and call on the old madman one day,” said Philip. The fallow deer browsed in the park.
+
+[019-019] “Why does one ever travel?” said Elinor, as she looked at them.
+
+[019-020] Miss Fulkes and little Phil were waiting on the steps. “I believe I hear the car,” said Miss Fulkes. Her rather lumpy face was very pale; her heart was beating with more than ordinary force. “No,” she added, after a moment of intent listening. What she had heard was only the sound of her own anxiety.
+
+[019-021] Little Phil moved about uncomfortably, conscious only of a violent [[love|desire]] to “go somewhere.” Anticipation had lodged a hedgehog in his entrails.
+
+[019-022] “Aren’t you *happy*?” asked Miss Fulkes, with assumed enthusiasm, self-sacrificingly determined that the child should show himself wild with joy to see his parents again. “Aren’t you *tremendously* excited?” But they could take him away from her if they wanted to, take him away and never let her see him again.
+
+[019-023] “Yes,” little Phil replied rather vaguely. He was preoccupied exclusively with the approach of visceral events.
+
+[019-024] Miss Fulkes was disappointed by the flatness of his tone. She looked at him enquiringly. “Phil?” She had noticed his uneasy Charleston. The child nodded. She took his hand and hurried him into the house.
+
+[019-025] A minute later Philip and Elinor drove up to a deserted porch. Elinor couldn’t help feeling disappointed. She had so clearly visualized the scene—Phil on the step frantically waving—she had so plainly, in anticipation, heard his shouting. And the steps were a blank.
+
+[019-026] “Nobody to meet us,” she said, and her tone was mournful.
+
+[019-027] “You could hardly expect them to hang about, waiting,” Philip replied. He hated anything in the nature of a fuss. For him, the perfect homecoming would have been in a cloak of invisibility. This was a good second best.
+
+[019-028] They got out of the car. The front door was open. They entered. In the silent, empty hall three and a half centuries of life had gone to sleep. The sunlight stared through flat-arched windows. The panelling had been painted pale green in the Eighteenth Century. All ancient oak and highlights, the staircase climbed up, out of sight, toward the higher floors. A smell of potpourri faintly haunted the air; it was as though one apprehended the serene old silence through another sense.
+
+[019-029] Elinor looked round her, she took a deep breath, she drew her finger tips along the polished walnut wood of a table, with the knuckle of a bent forefinger she rapped the round Venetian bowl that stood on it; the glassy bell note lingered sweetly on the perfumed silence.
+
+[019-030] “Like the Sleeping [[beauty|Beauty]],” she said. But even as she spoke the words, the spell was broken. Suddenly, as though the ringing glass had called the house back to life, there was sound and movement. Somewhere upstairs a door opened, through the sanitary noise of rushing water came the sound of Phil’s piercing young voice, small feet thudded along the carpet of the corridor, clattered like little hoofs on the naked oak of the stairs. At the same moment a door on the ground floor flew open and the enormous form of Dobbs, the parlour maid, hastened into the hall.
+
+[019-031] “Why, Miss Elinor, I never heard you. …”
+
+[019-032] Little Phil rounded the last turn of the staircase. At the sight of his parents he gave a shout, he quickened his pace; he almost slid from step to step.
+
+[019-033] “Not so fast, not so fast!” his mother called anxiously, and ran toward him.
+
+[019-034] “Not so fast!” echoed Miss Fulkes, hurrying down the stairs behind. And suddenly, from the morning room, which had a door leading out into the garden, Mrs. [[walter-bidlake|Bidlake]] appeared, white and silent and with floating veils, like an imposing phantom. In a little basket she carried a bunch of cut tulips; her gardening scissors dangled at the end of a yellow ribbon. T’ang the Third followed her, barking. There was a confusion of embracing and handshaking. Mrs. Bidlake’s greetings had the majesty of ritual, the solemn grace of an ancient and sacred dance. Miss Fulkes writhed with shyness and excitement, stood first on one leg and then on the other, went into the attitudes of fashion plates and mannequins, and from time to time piercingly laughed. When she shook hands with Philip, she writhed so violently that she almost lost her balance.
+
+[019-035] “Poor creature!” Elinor had time to think between the answering and asking of questions, “How urgently she needs marrying! Much worse than when we left.”
+
+[019-036] “But how he’s grown!” she said aloud. “And how he’s changed!” She held the child at arm’s length with the gesture of a connoisseur who stands back to examine a picture. “He used to be the image of Phil. But now …” She shook her head. Now the broad face had lengthened, the short straight nose (the comical “cat’s nose” which in Philip’s face she had always laughed at and so much loved) had grown finer and faintly aquiline, the hair had darkened. “Now he’s exactly like Walter. Don’t you think so?” Mrs. Bidlake remotely nodded. “Except when he laughs,” she added. “His laugh’s pure Phil.”
+
+[019-037] “What have you brought me?” asked little Phil almost anxiously. When people went away and came back again, they always brought him something. “Where’s my present?”
+
+[019-038] “What a question!” Miss Fulkes protested, blushing with vicarious shame and writhing.
+
+[019-039] But Elinor and Philip only laughed.
+
+[019-040] “He’s Walter when he’s serious,” said Elinor.
+
+[019-041] “Or you.” Philip looked from one to the other.
+
+[019-042] “The first minute your father and mother arrive!” Miss Fulkes continued her reproaches.
+
+[019-043] “Naughty!” the child retorted, and threw back his head with a little movement of anger and pride.
+
+[019-044] Elinor, who had been looking at him, almost laughed aloud. That sudden lifting of the chin—why it was the parody of old Mr. Quarles’s gesture of superiority. For a moment the child was her father-in-law, her absurd, deplorable father-in-law, caricatured and in miniature. It was comic, but at the same time it was somehow no joke. She wanted to laugh, but she was oppressed by a sudden realization of the mysteries and complexities of life, the terrible inscrutabilities of the future. Here was her child—but he was also Philip, he was also herself, he was also Walter, her father, her mother, and now, with that upward tilting of the chin, he had suddenly revealed himself as the deplorable Mr. Quarles. And he might be hundreds of other people too. Might be? He certainly was. He was aunts and cousins she hardly ever saw; grandfathers and great-uncles she had only known as a child and utterly forgotten; ancestors who had died long ago, back to the beginning of things. A whole population of strangers inhabited and shaped that little body, lived in that mind and controlled its wishes, dictated its thoughts and would go on dictating and controlling. Phil, little Phil—the name was an abstraction, a title arbitrarily given, like “France” or “England,” to a collection, never long the same, of many individuals who were born, lived, and died within him, as the inhabitants of a country appear and disappear, but keep alive in their passage the identity of the nation to which they belong. She looked at the child with a kind of terror. What a responsibility!
+
+[019-045] “I call that cupboard love,” Miss Fulkes was still going on. “And you musn’t say ‘naughty’ to me like that.”
+
+[019-046] Elinor gave a little sigh, shook herself out of her reverie, and, picking up the child in her arms, pressed him against her. “Never mind,” she said, half to the reproving Miss Fulkes, half to her own apprehensive self. “Never mind.” She kissed him.
+
+[019-047] Philip was looking at his watch. “Perhaps we ought to go and wash and brush up a bit before lunch,” he said. He had the sentiment of punctuality.
+
+[019-048] “But first,” said Elinor, to whom it seemed that meals were made for man, not man for meals, “first we simply *must* run into the kitchen and say how do you do to Mrs. Inman. It would be unforgivable if we didn’t. Come.” Still carrying the child, she led the way through the dining room. The smell of roast duck grew stronger and stronger as they advanced.
+
+[019-049] Fretted a little by his consciousness of unpunctuality, and a little uneasy at having to risk himself, even with Elinor for dragoman, in the kitchen among the servants, Philip reluctantly followed her.
+
+[019-050] At luncheon, little Phil celebrated the occasion by behaving atrociously.
+
+[019-051] “The excitement has been too much for him,” poor Miss Fulkes kept repeating, trying to excuse the child and indirectly to justify herself. She would have liked to cry. “You’ll see when he’s got used to your being here, Mrs. Quarles,” she said, turning to Elinor. “You’ll see; he can be such an angel. It’s the excitement.”
+
+[019-052] She had come to love the child so much that his triumphs and humiliations, his virtues and his crimes made her exult or mourn, feel self-satisfaction or shame, as if they had been her own. Besides, there was her professional pride. She had been alone responsible for him all these months, teaching him the social virtues and why the triangle of India is painted crimson on the map; she had made him, had moulded him. And now, when this object of tenderest love, this product of her skill and patience, screamed at table, spat out mouthfuls of half-masticated food, and spilt the water, Miss Fulkes not only blushed with agonizing shame, as though it were she who had screamed, had spat, had spilled, but experienced at the same time all the humiliation of the conjurer whose long-prepared trick fails to come off in public, the inventor of the ideal flying machine which simply refuses to leave the ground.
+
+[019-053] “After all,” said Elinor, consolingly, “it’s only to be expected.” She felt genuinely sorry for the poor girl. She looked at the child. He was crying—and she had expected (how unreasonably!) that it would be quite different now, that she would find him entirely rational and grown up. Her heart sank. She loved him, but children were terrible, terrible. And he was still a child. “Now, Phil,” she said severely, “you must eat. No more nonsense.”
+
+[019-054] The child howled louder. He would have liked to behave well, but he did not know how to stop behaving badly. He had voluntarily worked up this mood of rebellious misery within himself; but now the emotion was his master and stronger than his will. It was impossible for him, even though he desired it, to return by the way he had come. Besides, he had always rather disliked roast duck; and having now, for five minutes, thought of roast duck with concentrated disgust and horror, he loathed it. The sight, the smell, the taste of it really and genuinely made him sick.
+
+[019-055] Mrs. Bidlake meanwhile preserved her metaphysical calm. Her soul swam on steadily, like a great ship through a choppy sea; or perhaps it was more like a balloon, drifting high above the waters in the serene and windless world of fancy. She had been talking to Philip about Buddhism (Mrs. Bidlake had a special weakness for Buddhism). At the first screams, she had not even turned round to see what was the matter, contenting herself with raising her voice so as to make it audible above the tumult. The yelling was renewed, was continued. Mrs. Bidlake was silent and shut her eyes. A cross-legged Buddha, serene and golden, appeared against the red background of her closed lids; she saw the yellow-robed priests around him, each in the attitude of the [[religion|god]] and plunged in ecstatic meditation.
+
+[019-056] “Maya,” she said with a sigh, as though to herself. “Maya—the eternal illusion.” She opened her eyes again. “It *is* rather tough,” she added, addressing herself to Elinor and Miss Fulkes, who were desperately trying to make the child eat.
+
+[019-057] Little Phil seized the excuse which she had thus gratuitously given him. “It’s tough,” he shouted tearfully, pushing away the fork on which Miss Fulkes, her hand trembling with the excess of painful emotions, was offering him a shred of roast duck and half a new potato.
+
+[019-058] Mrs. Bidlake shut her eyes again for a moment, then turned to Philip and went on discussing the Eightfold Way.
+
+---
+
+[019-059] That evening Philip wrote at some length in the notebook, in which he recorded, pell-mell, thoughts and events, conversations, things heard and seen. “The Kitchen in the Old House,” was how he headed the page.
+
+[019-060] > You can render it easily enough. The Tudor casements reflected in the bottoms of the copper pots. The huge black range with its polished steel trimmings and the fire peeping out through the half-opened porthole in the top. The mignonette in the window boxes. The cat, an enormous ginger eunuch, dozing in its basket by the dresser. The kitchen table so worn with time and constant scrubbing that the graining stands out above the softer wood—as though an engraver had prepared a wood-block of some gigantic finger print. The beams in the low ceiling. The brown beechwood chairs. The raw pastry in process of rolling. The smell of cookery. The leaning column of yellow sunlight full of motes. And finally old Mrs. Inman, the cook: small, frail, indomitable, the authoress of how many thousand meals! Work that up a little, and you’d have your picture. But I want something more. A sketch of the kitchen in time as well as space, a hint of its significance in the general human cosmos. I write one sentence: “Summer after summer, from the time when Shakespeare was a boy till now, ten generations of cooks have employed infrared radiations to break up the protein molecules of spitted ducklings; (‘Thou wast not born for death, immortal bird, etc.’).” One sentence, and I am already involved in history, art, and all the sciences. The whole story of the universe is implicit in any part of it. The meditative eye can look through any single object and see, as through a window, the entire cosmos. Make the smell of roast duck in an old kitchen diaphanous and you will have a glimpse of everything, from the spiral nebulae to Mozart’s music and the stigmata of St. Francis of Assisi. The artistic problem is to produce diaphanousness in spots, selecting the spots so as to reveal only the most humanly significant of distant vistas behind the near familiar object. But in all cases, the things seen at the end of the vista must be strange enough to make the familiar seem fantastically mysterious. Question: can this be achieved without pedantry, and without spinning out the work interminably? It needs a great deal of thinking about.
+
+[019-061] > Meanwhile, how charming the kitchen is! How sympathetic its inhabitants! Mrs. Inman has been in the house as long as Elinor. A miracle of aged beauty. And how serene, how aristocratically commanding! When one has been monarch of all one surveys for thirty years, one looks the royal part, even when all one surveys is only the kitchen. And then there is Dobbs, the parlour maid, Dobbs has only been in the house since a little before the war. An invention of Rabelais. Six feet high and proportionately thick. And the enormous body houses Gargantua’s spirit. What broad humours, what a relish for life, what anecdotes, what facile and enormous laughter! Dobbs’s laughter is almost terrifying. And on a shelf of the pantry dresser I noticed, when we went to pay our respects, a green bottle, half full of pills—but pills like good-sized marbles, such as one blows down the throats of horses from a rubber hose. What Homeric indigestions they imply!
+
+[019-062] > The kitchen is good; but so is the drawing room. We came in from our afternoon walk to find the vicar and his wife talking Art over the teacups. Yes, Art. For it was their first call since their visit to the Academy.
+
+[019-063] > It is an annual affair. Every year on the day following Ascension Day they take the 8:52 to town and pay the tribute that even Religion owes to Art—Established Religion and Established Art. They scour every corner of Burlington House, annotating the catalogue as they go round, humorously, wherever humour is admissible—for Mr. Truby (who looks rather like Noah in a child’s ark) is one of those facetious churchmen who crack jokes in order to show that, in spite of the black coat and the reversed collar, they are “human,” “good chaps,” etc.
+
+[019-064] > Plumply pretty Mrs. Truby is less uproariously waggish than her husband, but is none the less what upper middle class readers of *Punch* would call a “thoroughly cheery soul,” up to any amount of innocent fun and full of quaint remarks. I looked on and listened, fascinated, while Elinor drew them out about the parish and the Academy, feeling like Fabre among the coleoptera. Every now and then some word of the conversation would cross the spiritual abysses separating Elinor’s mother from her surroundings, would penetrate her reverie and set up a curious reaction. Oracularly, disconcertingly, with a seriousness that was almost appalling in the midst of the Truby waggeries, she would speak out of another world. And outside, meanwhile, the garden is green and flowery. Old Stokes, the gardener, has a beard and looks like Father Time. The sky is pale blue. There is a noise of birds. The place is good. How good, one must have circumnavigated the globe to discover. Why not stay? Take root? But roots are chains. I have a terror of losing my freedom. Free, without ties, unpossessed by any possessions, free to do as one will, to go at a moment’s notice wherever the fancy may suggest—it is good. But so is this place. Might it not be better? To gain freedom one sacrifices something—the house, Mrs. Inman, Dobbs, facetious Truby from the parsonage, the tulips in the garden, and all that these things and people signify. One sacrifices something—for a greater gain in knowledge, in understanding, in intensified living? I sometimes wonder.
+
+---
+
+[019-065] Lord Edward and his brother were taking the air in Gattenden Park. Lord Edward took it walking. The fifth Marquess took it in a bath chair drawn by a large grey donkey. He was a cripple. “Which luckily doesn’t prevent the mind from running,” he was fond of saying. It had been running, mazily, hither and thither, all his life. Meanwhile, the grey ass only walked, very slowly. Before the two brothers and behind stretched Gattenden Broad Walk. A mile in front of them at the end of the straight vista stood a model of Trajan’s column in Portland stone, with a bronze statue of the first Marquess on the top and an inscription in large letters round the pedestal setting forth his claims to fame. He had been, among other things, Viceroy of Ireland and the Father of Scientific Agriculture. At the end of the Broad Walk, a mile behind the brothers, rose the fantastic towers and pinnacles of Gattenden Castle, built for the second Marquess by James Wyatt in the most extravagant style of Strawberry Hill Gothic, and looking more medieval than anything that the real chronological Middle Ages had ever dreamt of. The Marquess lived permanently at Gattenden. Not that he particularly liked the house or the surrounding scenery. He was hardly aware of them. When he wasn’t reading, he was thinking about what he had read; the world of appearances, as he liked, platonically, to call visible and tangible reality, did not interest him. This lack of interest was his revenge on the universe for having made him a cripple. He inhabited Gattenden because it was only at Gattenden that he could safely go for drives in his bath chair. [[pall-mall|Pall Mall]] is no place for grey donkeys and paralytic old gentlemen who read and meditate as they drive. He had made over Tantamount House to his brother and continued to drive his ass through the beechwoods of Gattenden Park.
+
+[019-066] The ass had halted to browse at the wayside. The fifth Marquess and his brother were having an argument about God. Time passed. They were still talking about God when, half an hour later, Philip and Elinor, who had been taking their afternoon walk in the park, emerged from the beechwood and unexpectedly came upon the Marquess’s bath chair.
+
+[019-067] “Poor old creatures!” was Philip’s comment when they were once more out of earshot. “What else have they got to talk about? Too old to want to talk about love—too old and much too good. Too rich to talk about money. Too highbrow to talk about people and too hermit-like to know any people to talk about. Too shy to talk about themselves, too blankly inexperienced to talk about life or even literature. What is there left for the poor old wretches to talk about? Nothing—only God.”
+
+[019-068] “And at the present rate of [[modernity|progress]],” said Elinor, “you’ll be exactly like them ten years from now.”

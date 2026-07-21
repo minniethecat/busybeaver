@@ -1,0 +1,95 @@
+---
+description: "Part I, Chapter 4 of Victory by Joseph Conrad."
+id: Part-I-Chapter-4
+label: "Part I, Chapter 4: IV"
+tags: ["chapter"]
+type: chapter
+---
+
+[004-001] A few of us who were sufficiently interested went to Davidson for details. These were not many. He told us that he passed to the north of Samburan on purpose to see what was going on. At first, it looked as if that side of the island had been altogether abandoned. This was what he expected. Presently, above the dense mass of vegetation that Samburan presents to view, he saw the head of the flagstaff without a flag. Then, while steaming across the slight indentation which for a time was known officially as Black Diamond Bay, he made out with his glass the white figure on the coaling-wharf. It could be no one but Heyst.
+
+[004-002] “I thought for certain he wanted to be taken off, so I steamed in. He made no signs. However, I lowered a boat. I could not see another living being anywhere. Yes. He had a book in his hand. He looked exactly as we have always seen him—very neat, white shoes, cork helmet. He explained to me that he had always had a taste for solitude. It was the first I ever heard of it, I told him. He only smiled. What could I say? He isn’t the sort of man one can speak familiarly to. There’s something in him. One doesn’t care to.
+
+[004-003] “ ‘But what’s the object? Are you thinking of keeping possession of the mine?’ I asked him.
+
+[004-004] “ ‘Something of the sort,’ he says. ‘I am keeping hold.’
+
+[004-005] “ ‘But all this is as dead as Julius Caesar,’ I cried. ‘In fact, you have nothing worth holding on to, Heyst.’
+
+[004-006] “ ‘Oh, I am done with facts,’ says he, putting his hand to his helmet sharply with one of his short bows.”
+
+[004-007] Thus dismissed, Davidson went on board his ship, swung her out, and as he was steaming away he watched from the bridge Heyst walking shoreward along the wharf. He marched into the long grass and vanished—all but the top of his white cork helmet, which seemed to swim in a green sea. Then that too disappeared, as if it had sunk into the living depths of the tropical vegetation, which is more jealous of men’s conquests than the ocean, and which was about to close over the last vestiges of the liquidated Tropical Belt Coal Company—A. Heyst, manager in the East.
+
+[004-008] Davidson, a good, simple fellow in his way, was strangely affected. It is to be noted that he knew very little of Heyst. He was one of those whom Heyst’s finished courtesy of attitude and intonation most strongly disconcerted. He himself was a fellow of fine feeling, I think, though of course he had no more polish than the rest of us. We were naturally a hail-fellow-well-met crowd, with standards of our own—no worse, I daresay, than other people’s; but polish was not one of them. Davidson’s fineness was real enough to alter the course of the steamer he commanded. Instead of passing to the south of Samburan, he made it his practice to take the passage along the north shore, within about a mile of the wharf.
+
+[004-009] “He can see us if he likes to see us,” remarked Davidson. Then he had an afterthought: “I say! I hope he won’t think I am intruding, eh?”
+
+[004-010] We reassured him on the point of correct behaviour. The sea is open to all.
+
+[004-011] This slight deviation added some ten miles to Davidson’s round trip, but as that was sixteen hundred miles it did not matter much.
+
+[004-012] “I have told my owner of it,” said the conscientious commander of the *Sissie*.
+
+[004-013] His owner had a face like an ancient lemon. He was small and wizened—which was strange, because generally a Chinaman, as he grows in prosperity, puts on inches of girth and stature. To serve a Chinese firm is not so bad. Once they become convinced you deal straight by them, their confidence becomes unlimited. You can do no wrong. So Davidson’s old Chinaman squeaked hurriedly:
+
+[004-014] “All right, all right, all right. You do what you like, captain.”
+
+[004-015] And there was an end of the matter; not altogether, though. From time to time the Chinaman used to ask Davidson about the white man. He was still there, eh?
+
+[004-016] “I never see him,” Davidson had to confess to his owner, who would peer at him silently through round, horn-rimmed spectacles, several sizes too large for his little old face. “I never see him.”
+
+[004-017] To me, on occasions, he would say:
+
+[004-018] “I haven’t a doubt he’s there. He hides. It’s very unpleasant.” Davidson was a little vexed with Heyst. “Funny thing,” he went on. “Of all the people I speak to, nobody ever asks after him but that Chinaman of mine—and Schomberg,” he added after a while.
+
+[004-019] Yes, Schomberg, of course. He was asking everybody about everything, and arranging the information into the most scandalous shape his imagination could invent. From time to time he would step up, his blinking, cushioned eyes, his thick lips, his very chestnut beard, looking full of malice.
+
+[004-020] “ ’Evening, gentlemen. Have you got all you want? So! Good! Well, I am told the jungle has choked the very sheds in Black Diamond Bay. Fact. He’s a hermit in the wilderness now. But what can this manager get to eat there? It beats me.”
+
+[004-021] Sometimes a stranger would inquire with natural curiosity:
+
+[004-022] “Who? What manager?”
+
+[004-023] “Oh, a certain Swede,”—with a sinister emphasis, as if he were saying “a certain brigand.” “Well known here. He’s turned hermit from shame. That’s what the devil does when he’s found out.”
+
+[004-024] Hermit. This was the latest of the more or less witty labels applied to Heyst during his aimless pilgrimage in this section of the tropical belt, where the inane clacking of Schomberg’s tongue vexed our ears.
+
+[004-025] But apparently Heyst was not a hermit by temperament. The sight of his kind was not invincibly odious to him. We must believe this, since for some reason or other he did come out from his retreat for a while. Perhaps it was only to see whether there were any letters for him at the Tesmans. I don’t know. No one knows. But this reappearance shows that his detachment from the world was not complete. And incompleteness of any sort leads to trouble. Axel Heyst ought not to have cared for his letters—or whatever it was that brought him out after something more than a year and a half in Samburan. But it was of no use. He had not the hermit’s vocation! That was the trouble, it seems.
+
+[004-026] Be this as it may, he suddenly reappeared in the world, broad chest, bald forehead, long moustaches, polite manner, and all—the complete Heyst, even to the kindly, sunken eyes on which there still rested the shadow of Morrison’s death. Naturally, it was Davidson who had given him a lift out of his forsaken island. There were no other opportunities, unless some native craft were passing by—a very remote and unsatisfactory chance to wait for. Yes, he came out with Davidson, to whom he volunteered the statement that it was only for a short time—a few days, no more. He meant to go back to Samburan.
+
+[004-027] Davidson expressing his horror and incredulity of such foolishness, Heyst explained that when the company came into being he had his few belongings sent out from Europe.
+
+[004-028] To Davidson, as to any of us, the idea of Heyst, the wandering, drifting, unattached Heyst, having any belongings of the sort that can furnish a house was startlingly novel. It was grotesquely fantastic. It was like a bird owning real property.
+
+[004-029] “Belongings? Do you mean chairs and tables?” Davidson asked with unconcealed astonishment.
+
+[004-030] Heyst did mean that. “My poor father died in London. It has been all stored there ever since,” he explained.
+
+[004-031] “For all these years?” exclaimed Davidson, thinking how long we all had known Heyst flitting from tree to tree in a wilderness.
+
+[004-032] “Even longer,” said Heyst, who had understood very well.
+
+[004-033] This seemed to imply that he had been wandering before he came under our observation. In what regions? At what early age? Mystery. Perhaps he was a bird that had never had a nest.
+
+[004-034] “I left school early,” he remarked once to Davidson, on the passage. “It was in England. A very good school. I was not a shining success there.”
+
+[004-035] The confessions of Heyst. Not one of us—with the probable exception of Morrison, who was dead—had ever heard so much of his history. It looks as if the experience of hermit life had the power to loosen one’s tongue, doesn’t it?
+
+[004-036] During that memorable passage, in the *Sissie*, which took about two days, he volunteered other hints—for you could not call it information—about his history. And Davidson was interested. He was interested not because the hints were exciting but because of that innate curiosity about our fellows which is a trait of human nature. Davidson’s existence too, running the *Sissie* along the Java Sea and back again, was distinctly monotonous and, in a sense, lonely. He never had any sort of company on board. Native deck-passengers in plenty, of course, but never a white man, so the presence of Heyst for two days must have been a godsend. Davidson was telling us all about it afterward. Heyst said that his father had written a lot of books. He was a philosopher.
+
+[004-037] “Seems to me he must have been something of a crank, too,” was Davidson’s comment. “Apparently he had quarrelled with his people in Sweden. Just the sort of father you would expect Heyst to have. Isn’t he a bit of a crank himself? He told me that directly his father died he lit out into the wide world on his own, and had been on the move till he fetched up against this famous coal business. Fits the son of his father somehow, don’t you think?”
+
+[004-038] For the rest, Heyst was as polite as ever. He offered to pay for his passage; but when Davidson refused to hear of it he seized him heartily by the hand, gave one of his courtly bows, and declared that he was touched by his friendly proceedings.
+
+[004-039] “I am not alluding to this trifling amount which you decline to take,” he went on, giving a shake to Davidson’s hand. “But I am touched by your humanity.” Another shake. “Believe me, I am profoundly aware of having been an object of it.” Final shake of the hand. All this meant that Heyst understood in a proper sense the little *Sissie*’s periodical appearance in sight of his hermitage.
+
+[004-040] “He’s a genuine gentleman,” Davidson said to us. “I was really sorry when he went ashore.”
+
+[004-041] We asked him where he had left Heyst.
+
+[004-042] “Why, in Sourabaya—where else?”
+
+[004-043] The Tesmans had their principal countinghouse in Sourabaya. There had long existed a connection between Heyst and the Tesmans. The incongruity of a hermit having agents did not strike us, nor yet the absurdity of a forgotten cast-off, derelict manager of a wrecked, collapsed, vanished enterprise, having business to attend to. We said Sourabaya, of course, and took it for granted that he would stay with one of the Tesmans. One of us even wondered what sort of reception he would get; for it was known that Julius Tesman was unreasonably bitter about the Tropical Belt Coal fiasco. But Davidson set us right. It was nothing of the kind. Heyst went to stay in Schomberg’s hotel, going ashore in the hotel launch. Not that Schomberg would think of sending his launch alongside a mere trader like the *Sissie*. But she had been meeting a coasting mail-packet, and had been signalled to. Schomberg himself was steering her.
+
+[004-044] “You should have seen Schomberg’s eyes bulge out when Heyst jumped in with an ancient brown leather bag!” said Davidson. “He pretended not to know who it was—at first, anyway. I didn’t go ashore with them. We didn’t stay more than a couple of hours altogether. Landed two thousand coconuts and cleared out. I have agreed to pick him up again on my next trip in twenty days’ time.”

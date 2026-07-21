@@ -1,0 +1,21 @@
+---
+description: There were quite a few wise boys in Little Italy who thought that Rico’s sensational rise was a fluke. The matter was talked about a good deal and he was...
+id: part-5-ch-i
+label: Part V, Ch. I
+tags: ["chapter"]
+type: chapter
+---
+
+### I
+
+(032-001)There were quite a few wise boys in [[little-italy|Little Italy]] who thought that [[rico-bandello|Rico]]’s sensational rise was a fluke. The matter was talked about a good deal and he was unfavourably compared with Nig Po and Monk de Angelo, former leaders, and there were even those who considered him inferior to [[killer-pepi|Killer Pepi]], [[ottavio-vettori|Ottavio Vettori]], and [[joe-sansone|Joe Sansone]]. This confusion arose because Rico was not understood. He had none of the outward signs of greatness. Neither the great strength and hairiness of Pepi, nor the dash and effrontery of Ottavio Vettori, nor the maniacal temper of [[joe-massara|Joe]] Sansone. He was small, pale and quiet. In spite of his new finery he wasn’t much to look at. He did not swagger, he seldom raised his voice, he never bragged. In other words, the general run of Little Italians could find nothing in him to exaggerate.
+
+(032-002)Rico was brave enough, but he did not flaunt his bravery like Kid Bean. Rico was cunning enough, but cunning was not an obsession with him as it was with [[sam-vettori|Sam Vettori]]. Rico was capable of sudden audacity, but even his audacity had a sort of precision and was entirely without the dash of Ottavio’s.
+
+(032-003)Rico, while he was small and pale, was capable of great endurance, but this endurance of his was nothing compared to Killer Pepi’s inhuman vitality. Rico’s great strength lay in his singlemindedness, his energy and his self-discipline. The Little Italians could not appreciate qualities so abstract.
+
+(032-004)The men that were considered his rivals were really not to be compared with him. Killer Pepi was strong and courageous, but he was very erratic and a drug-addict. Ottavio Vettori was daring enough and cool in a tight place, he could shoot straight and he feared nothing, but he was light-minded, dissipated his energies on all sorts of follies, and ran after every woman that looked at him. Joe Sansone, though brave enough and dependable when it came to a sudden action, was a periodic drunkard, and, generally speaking, nervous and unreliable. Sam Vettori, a good man once, had let his congenital lethargy and his congenital love of trickery overcome him; he had become petty and had entirely lost the initiative which, years ago, had put him at the head of the gang. Now he was not even taken seriously by the men he had once led, and but for Rico’s authority, he would have sunken into obscurity.
+
+(032-005)The case of Sam Vettori was a strange one, without its parallel in gang annals. In Little Italy there is no such thing as abdication unless it is accompanied by flight. The old gang leader who is superseded has two alternatives: flight or death. Sam had escaped both. His growing inability to make decisions had lost him his power, but it had also saved his life. Rico did not consider him dangerous. But that was not all. Rico considered him useful. That saved him from flight. With the proper guidance, Sam Vettori was an asset to any gang. He was wise and he knew the ropes.
+
+(032-006)Sam was docile; not that his hatred for Rico had abated; but things were breaking good, money was rolling in, and Sam loved money above all things. The Vettori gang had never known such prosperity before. Sam was quick to see where his advantage lay. Rico could be killed. [[scabby|Scabby]], who hated Rico for some fancied slight and who, for this reason, was faithful to Sam, would have done it. But what would have been the good of that? Sam knew that he was through as a gang leader. With Rico dead, there would be a mad scramble for leadership. Besides, Rico had the devil’s own luck, and Scabby might fail. If he failed, Scabby’s life and his own wouldn’t be worth a plugged dime. No, Sam Vettori accepted a somewhat odd situation philosophically and prospered.

@@ -1,0 +1,15 @@
+---
+description: XXIV — Part IV: Winter
+id: winter-xxiv
+label: Part IV: Winter — XXIV
+tags: []
+type: chapter
+---
+
+# XXIV
+
+?xml version="1.0" encoding="utf-8"?
+
+### XXIV
+
+Time is money﻿—says the vulgarest saw known to any age or people. Turn it round about, and you get a precious truth﻿—money is time. I think of it on these dark, mist-blinded mornings, as I come down to find a glorious fire crackling and leaping in my study. Suppose I were so poor that I could not afford that heartsome blaze, how different the whole day would be! Have I not lost many and many a day of my life for lack of the material comfort which was necessary to put my mind in tune? Money is time. With money I buy for cheerful use the hours which otherwise would not in any sense be mine; nay, which would make me their miserable bondsman. Money is time, and, heaven be thanked, there needs so little of it for this sort of purchase. He who has overmuch is wont to be as badly off in regard to the true use of money, as he who has not enough. What are we doing all our lives but purchasing, or trying to purchase, time? And most of us, having grasped it with one hand, throw it away with the other.

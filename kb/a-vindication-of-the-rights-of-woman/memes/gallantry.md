@@ -1,49 +1,54 @@
 ---
+description: A system of exaggerated male politeness and attentiveness toward women that Wollstonecraft identifies as a disguised form of despotism, masking women's subordination beneath a veneer of deference.
 id: gallantry
 label: Gallantry
+tags: []
 type: concept
-description: 'Wollstonecraft''s critique of gallantry as a system of male performance that substitutes flattering deference for genuine respect, masking despotism beneath the appearance of homage'
-tags: ["critique", "gender", "power", "manners", "gallantry"]
 ---
-
-**Gallantry** is for Wollstonecraft one of the most insidious mechanisms of gender domination — precisely because it presents as its opposite. When she writes of "imposing gallantry" (P01-013), the "homage of gallantry" (002-044), or "the cold unmeaning intercourse of gallantry" (005-078), she exposes a system in which men perform deference to women while denying them the substance of respect: intellectual equality, moral autonomy, and political standing. Gallantry is the velvet glove on the iron hand.
 
 ## Definition
 
-Wollstonecraft defines gallantry as a social code that regulates male-female interaction by casting men as flattering protectors and women as objects of homage. But this apparent elevation is, in her analysis, a form of contempt. "The imposing gallantry, which, while it affects to consider woman as a superior being, denies her the rights of reason" (P01-013) — the verb "affects" exposes the performance, and the contrast between "superior being" and "denies her the rights of reason" reveals the transaction: women receive empty compliments while surrendering their claim to rational equality.
+In _A Vindication of the Rights of Woman_, gallantry denotes the elaborate system of male politeness, flattery, and deferential attention directed toward women in eighteenth-century society. Wollstonecraft analyzes gallantry not as genuine respect but as a sophisticated mechanism of control — a "mixture of gallantry and despotism" [002-038] that keeps women intellectually subordinate while allowing them the illusion of power. Gallantry, in her account, is the velvet glove on the iron fist of patriarchal authority.
 
-The term is structurally linked to despotism. "Gallantry and despotism" (002-027) are not opposites but partners: men rule in public while performing devotion in private, and the performance makes the rule more tolerable. Women "are cruelly neglected" while being "convinced by the homage of gallantry" (002-044) that they are valued — the cruelty lies in the deception, which keeps women satisfied with tokens while denying them substance.
+## In Context
 
-## Wollstonecraft's Argument
+Wollstonecraft introduces gallantry early in the Vindication as a symptom of a corrupted social order. She argues that the apparent homage paid to women through gallant manners is not evidence of their elevated status but rather proof of their degradation. The gallant man treats women as objects of aesthetic appreciation and sensual pleasure, never as rational companions or moral equals.
 
-Wollstonecraft argues that gallantry is a system of mutual corruption. Men learn to perform feeling they do not possess; women learn to accept performance in place of respect. "The business of their lives is gallantry" (002-025) — this is not a description of a few rakes but of an entire social order in which male-female relations are structured around seduction rather than friendship, reason, or virtue.
+In Chapter II, Wollstonecraft identifies idleness as the source of this phenomenon: "idleness has produced a mixture of gallantry and despotism in society, which leads the very men who are the slaves of their mistresses, to tyrannize over their sisters, wives, and daughters" [002-038]. The gallant lover, she observes, is simultaneously a tyrant — his deference is contingent on women remaining pleasing objects.
 
-She distinguishes gallantry sharply from genuine respect. The "libidinous mockery of gallantry" (007-013) and "the impudent dross of gallantry, thought so manly" (007-012) reduce what should be moral relations between equals to a game of pursuit and surrender. The word "mockery" is key: gallantry does not elevate women; it mocks them, and their acceptance of the mockery is the measure of their degradation.
+Wollstonecraft contrasts gallantry with genuine respect grounded in recognition of shared reason and virtue. In Chapter IV, she groups gallantry with other sensory distractions — "Novels, music, poetry and gallantry, all tend to make women the creatures of sensation" [004-040] — arguing that it perpetuates women's confinement to the realm of feeling rather than thought.
 
-The social consequences are far-reaching. Gallantry "shuts out" (012-054) the possibility of genuine friendship between the sexes. Because gallantry treats every male-female interaction as a potential seduction, it forecloses the rational companionship that Wollstonecraft considers essential to moral improvement. "Cold unmeaning intercourse of gallantry rendered vain and useless" (005-078) — the three adjectives pile up to describe a social world emptied of genuine human connection.
+The culmination of her critique appears in Chapter VIII, where she challenges the very notion of "innocent gallantry" [008-032], arguing that women who truly respected virtue would reject the entire system of gallant attention as incompatible with their dignity as rational beings.
 
-### Contrast with Contemporary Views
+### Gallantry and the Spectacle of the Female Body
 
-The eighteenth-century aristocratic culture celebrated gallantry as the refinement of male manners — the transformation of crude desire into elegant courtship. Chesterfield's letters epitomise this tradition. Wollstonecraft rejects the entire framework: gallantry is not an elevation of desire but a disguise for it. Where the courtesy-book tradition treats gallantry as the mark of a gentleman, Wollstonecraft treats it as the mark of a fraud — a man who performs respect but practices domination.
+A dimension of Wollstonecraft's critique that deserves particular attention is her analysis of the visual dimension of gallantry. "What is more disgusting than that impudent dross of gallantry, thought so manly, which makes many men stare insultingly at every female they meet?" [007-015] she asks with undisguised revulsion. The gallant gaze — the stare that pretends admiration while in fact consuming women as visual objects — reveals the predatory core beneath gallantry's polished surface. Wollstonecraft recognizes that the apparently harmless "look" is itself an assertion of power: the man who stares at a woman without her consent is demonstrating that her body is public property, not her own.
+
+> "What is more disgusting than that impudent dross of gallantry, thought so manly, which makes many men stare insultingly at every female they meet?" [007-015]
+
+### Gallantry as Degradation of Both Sexes
+
+Wollstonecraft's critique of gallantry is notable for insisting that it degrades men as well as women. The gallant man, for all his apparent power, is diminished by his participation in the system: "the cold unmeaning intercourse of gallantry rendered vain and useless" [005-093] produces not happiness but mutual corruption. The man who flatters women insincerely undermines his own capacity for honesty; the man who treats women as objects of aesthetic appreciation stunts his own capacity for genuine friendship and intellectual companionship. Wollstonecraft's vision of reformed relations between the sexes involves the abolition of gallantry in favour of something more radical: sincere friendship grounded in mutual respect and shared rational purpose.
 
 ## Key Passages
 
-> The imposing gallantry, which, while it affects to consider woman as a superior being, denies her the rights of reason. (P01-013)
+> "Idleness has produced a mixture of gallantry and despotism in society, which leads the very men who are the slaves of their mistresses, to tyrannize over their sisters, wives, and daughters." [002-038]
 
-> The business of their lives is gallantry. They were taught to please, and they only live to please. (002-025)
+> "Novels, music, poetry and gallantry, all tend to make women the creatures of sensation, and their character is thus formed during the time they are acquiring accomplishments." [004-040]
 
-> A mixture of gallantry and despotism in society, which leads men to treat women as a kind of subordinate beings. (002-027)
+> "What is more disgusting than that impudent dross of gallantry, thought so manly, which makes many men stare insultingly at every female they meet?" [007-015]
+
+> "Did women really respect virtue, the greater number would turn with contempt from the ridicule which is attached to the idea of a female philosopher, and from the usage of what is called innocent gallantry." [008-032]
 
 ## Related Concepts
 
-- [[Coquetry]] — the female counterpart to gallantry; women's reciprocal performance of seduction
-- [[Despotism]] — gallantry's political correlative; both substitute performance for justice
-- [[Accomplishments]] — the female attainments that gallantry rewards
-- [[Friendship]] — the rational relation between equals that gallantry forecloses
-- [[Modesty]] — the genuine virtue that gallantry parodies in its performance of deference
+- [[despotism]] — gallantry is despotic authority disguised as deference
+- [[coquetry]] — the female counterpart to gallantry; women's instrumental use of charm
+- [[sensibility]] — gallantry reinforces women's confinement to the sensory realm
+- [[virtue]] — true virtue is incompatible with the gallantry system
+- [[modesty]] — distorted by gallantry into a performative sexual display
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose romanticisation of male devotion Wollstonecraft exposes as gallantry in philosophical dress
-- [[Marriage]] — the institution within which gallantry does its most sustained damage
-- [[Sentiment]] — the emotional register gallantry appropriates for its performances
+- [[jean-jacques-rousseau]] — whose sentimental view of male-female relations underpins the gallantry system
+- [[john-gregory]] — whose conduct advice perpetuates gallant social conventions

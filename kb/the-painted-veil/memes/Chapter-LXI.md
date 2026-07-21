@@ -1,0 +1,21 @@
+---
+description: "Chapter LXI — The Painted Veil by W. Somerset Maugham"
+id: Chapter-LXI
+label: "Chapter LXI"
+tags: ["chapter"]
+type: chapter
+---
+
+# Chapter LXI
+
+[061-001][[walter-fane|Walter]] did not come back to [[the-dinner-party|dinner]] that evening. [[kitty-fane|Kitty]] waited for him a little, for when he was detained in the city he always managed to send her word, but at last she sat down. She made no more than a pretence of eating the many courses which the Chinese cook, with his regard for propriety notwithstanding [[cholera|pestilence]] and the difficulty of provisioning, invariably set before her; and then, sinking into the long rattan chair by the open window, surrendered herself to the beauty of the starry night. The silence rested her.
+
+[061-002]She did not try to read. Her thoughts floated upon the surface of her mind like little white clouds reflected on a still lake. She was too tired to seize upon one, follow it up and absorb herself in its attendant train. She wondered vaguely what there was for her in the various impressions which her conversations with the nuns had left upon her. It was singular that, though their way of life so profoundly moved her, the faith which occasioned it left her untouched. She could not envisage the possibility that she might at any time be captured by the ardour of [[faith|belief]]. She gave a little sigh: perhaps it would make everything easier if that great white light should illuminate her soul. Once or twice she had had the [[passion|desire]] to tell [[mother-superior|the Mother Superior]] of her unhappiness and its cause; but she dared not: she could not bear that this austere woman should think ill of her. To her what she had done would naturally seem a grievous sin. The odd thing was that she herself could not regard it as wicked so much as stupid and ugly.
+
+[061-003]Perhaps it was due to an obtuseness in herself that she looked upon her connection with [[charles-townsend|Townsend]] as regrettable and shocking even, but to be forgotten rather than to be repented of. It was like making a blunder at a party; there was nothing to do about it, it was dreadfully mortifying, but it showed a lack of sense to ascribe too much importance to it. She shuddered as she thought of Charlie with his large frame too well covered, the vagueness of his jaw and the way he had of standing with his chest thrown out so that he might not seem to have a paunch. His sanguine temperament showed itself in the little red veins which soon would form a network on his ruddy cheeks. She had liked his bushy eyebrows: there was to her in them now something animal and repulsive.
+
+[061-004]And the future? It was curious how indifferent it left her; she could not see into it at all. Perhaps she would die when her baby was born. Her sister [[doris-dennison|Doris]] had always been much stronger than she, and [[doris-garstin|Doris]] had nearly died. (She had done her duty and produced an heir to the new baronetcy; Kitty smiled as she thought of her mother’s satisfaction.) If the future was so vague it meant perhaps that she was destined never to see it. Walter would probably ask her mother to take care of the child—if the child survived; and she knew him well enough to be sure that, however uncertain of his paternity, he would treat it with kindness. Walter could be trusted under any circumstances to behave admirably.
+
+[061-005]It was a [[compassion|pity]] that with his great qualities, his unselfishness and honour, his intelligence and sensibility, he should be so unlovable. She was not in the least frightened of him now, but sorry for him, and at the same time she could not help thinking him slightly absurd. The depth of his emotion made him vulnerable and she had a feeling that somehow and at some time she so could work upon it as to induce him to [[forgiveness|forgive]] her. The thought haunted her now that in thus giving him peace of mind she would make the only possible amends for the anguish she had caused him. It was a [[compassion|pity]] he had so little sense of humour: she could see them both, some day, laughing together at the way they had tormented themselves.
+
+[061-006]She was tired. She took the lamp into her room and undressed. She went to bed and presently fell asleep.

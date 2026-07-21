@@ -1,0 +1,47 @@
+---
+description: "Driven Back to Eden — Chapter 8: Telling About Eden"
+id: chapter-8
+label: "Chapter 8: Telling About Eden"
+tags: ["chapter"]
+type: chapter
+---
+
+# VIII: Telling About Eden
+
+## VIII
+
+(008-001) Telling About Eden
+
+(008-002) Never was a traveller from a remote foreign clime listened to with more breathless interest than I as I related my adventures at our late supper after my return. [[mousie|Mousie]] looked almost feverish in her excitement, and [[winnie|Winnie]] and [[bobsey|Bobsey]] exploded with merriment over the name of the mountain that would be one of our nearest [[community|neighbors]]. They dubbed the place “Schunemunks” at once. [[merton|Merton]] put on serious and sportsmanlike airs as he questioned me, and it was evident that he expected to add largely to our income from the game he should kill. I did not take much pains to dispel his illusions, knowing that one day’s tramp would do this, and that he would bring back increased health and strength if nothing else.
+
+(008-003) No fairy tale had ever absorbed the children like the description of that old house and its surroundings; and when at last they were induced to retire I said to [[mrs-durham|my wife]], after explaining more in practical detail the pros and cons to be considered: “It all depends on you. If you wish I will take you up the first pleasant day, so that you can see for yourself before we decide.”
+
+(008-004) She laughed as she said, “I decided two minutes after you arrived.”
+
+(008-005) “How is that?”
+
+(008-006) “I saw you had the place in your eyes. La, Robert! I can read you like a book. You give in to me in little things, and that pleases a woman, you know. You must decide a question like this, for it is a question of support for us all, and you can do better on a place that suits you than on one never quite to your mind. It has grown more and more clear to me all the evening that you have fallen in love with the old place, and that settles it.”
+
+(008-007) “Well, you women have a way of your own of deciding a question.”
+
+(008-008) My wife was too shrewd not to make a point in her favor, and she remarked, with a complacent nod, “*I* have a way of my own, but there are women in the world who would have insisted on a smart new house.”
+
+(008-009) “Little wife,” I said, laughing, “there was another girl that I was a little sweet on before I met you. I’m glad you are not the other girl.”
+
+(008-010) She put her head a little to one side with the old roguish look which used to be so distracting when the question of questions with me was whether pretty Winnie Barlow would give half a dozen young fellows the go-by for my sake, and she said, “Perhaps the other girl is glad too.”
+
+(008-011) “I’ve no doubt she is,” I sighed, “for her husband is getting rich. I don’t care how glad she is if my girl is not sorry.”
+
+(008-012) “You do amuse me so, Robert! You’d like to pass for something of a philosopher, with your brown studies into the hidden causes and reasons for things, yet you don’t half know yet that when a woman sets her heart on something, she hasn’t much left with which to long for anything else. That is, if she has a heart, which seems to be left out of some women.”
+
+(008-013) “I think it is, and others get a double allowance. I should be content, for I was rich the moment I won yours.”
+
+(008-014) “I’ve been more than content; I’ve been happy—happy all these years in city flats. Even in my tantrums and bad days I knew I was happy, deep in my heart.”
+
+(008-015) “I only hope you will remain as blind about your plodding old husband who couldn’t make a fortune in [[new-york-city|the city]].”
+
+(008-016) “I’ve seen men who made fortunes, and I’ve seen their wives too.”
+
+(008-017) I thanked God for the look on her face—a look which had been there when she was a bride, and which had survived many straitened years.
+
+(008-018) So we chose our country home. The small patrimony to which we had added but little—(indeed we had often denied ourselves in order not to diminish it)—was nearly all to be invested in the farm, and a debt to be incurred, besides. While yielding to my fancy, I believed that I had at the same time chosen wisely, for, as [[john-jones|John Jones]] said, the mature fruit trees of the place would begin to bring returns very soon.

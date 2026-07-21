@@ -1,0 +1,6798 @@
+{
+  "book": "magnificent-obsession",
+  "title": "Magnificent Obsession",
+  "description": "Magnificent Obsession — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 125,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Magnificent Obsession\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:About",
+      "relations": []
+    },
+    {
+      "id": "Dedication",
+      "type": "chapter",
+      "label": "\"Dedication\"",
+      "description": "\"Dedication — To Betty and Virginia\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:Dedication",
+      "relations": [
+        {
+          "type": "related",
+          "target": "betty-sealback",
+          "label": "Betty"
+        }
+      ]
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "magnificent-obsession:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Dedication",
+          "label": "Dedication"
+        },
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        }
+      ]
+    },
+    {
+      "id": "ann-arbor",
+      "type": "place",
+      "label": "\"Ann Arbor\"",
+      "description": "\"Home of the University of Michigan Medical School where Bobby Merrick trains as a surgeon.\"",
+      "aliases": [
+        "University of Michigan",
+        "medical school town"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:ann-arbor",
+      "relations": [
+        {
+          "type": "related",
+          "target": "university-of-michigan-medical-school",
+          "label": "University of Michigan Medical School"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "type": "concept",
+      "label": "\"Beauty\"",
+      "description": "\"The aesthetic dimension of the novel's world — physical beauty, artistic beauty, and the beauty of character that the Magnificent Obsession philosophy cultivates.\"",
+      "aliases": [
+        "aesthetics",
+        "loveliness",
+        "grace"
+      ],
+      "tags": [
+        "philosophy",
+        "aesthetics",
+        "emotion"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:beauty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "influence"
+        }
+      ]
+    },
+    {
+      "id": "betty-sealback",
+      "type": "person",
+      "label": "\"Betty Sealback\"",
+      "description": "\"A member of Dr. McLaren's congregation who participates in the theological discussions that frame the novel's redefinition of Christianity as practical spirituality.\"",
+      "aliases": [
+        "Betty",
+        "Mrs. Sealback"
+      ],
+      "tags": [
+        "character",
+        "tertiary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:betty-sealback",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "Dr. McLaren"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        }
+      ]
+    },
+    {
+      "id": "boating-accident",
+      "type": "event",
+      "label": "\"The Boating Accident\"",
+      "description": "\"Bobby Merrick's near-fatal boating accident on Lake Saginack, in which he is knocked unconscious by a jibbing boom — the event that fatally diverts the resuscitator from Dr. Wayne Hudson, setting the entire novel in motion.\"",
+      "aliases": [
+        "Bobby Merrick's boating accident",
+        "the drowning accident",
+        "the Lake Saginack accident",
+        "Merrick's accident"
+      ],
+      "tags": [
+        "plot-event",
+        "crisis",
+        "inciting-incident",
+        "turning-point"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:boating-accident",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Robert \"Bobby\" Merrick"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "Lake Saginack"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "Hudson cottage"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Dr. Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Perry Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "ann-arbor",
+          "label": "Ann Arbor"
+        },
+        {
+          "type": "related",
+          "target": "merrick-industrial-empire",
+          "label": "Merrick industrial fortune"
+        },
+        {
+          "type": "related",
+          "target": "delta-omega-fraternity",
+          "label": "Delta Omega fraternity house"
+        },
+        {
+          "type": "related",
+          "target": "perry-ruggles",
+          "label": "Perry Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "dying"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-wards",
+          "label": "Brightwood ward"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-journal",
+          "label": "Hudson journal"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "secret philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "experiment",
+          "label": "experiment"
+        },
+        {
+          "type": "related",
+          "target": "electrical-scalpel-invention",
+          "label": "surgical innovations"
+        },
+        {
+          "type": "related",
+          "target": "bobbys-medical-school-enrollment",
+          "label": "enrollment in medical school"
+        },
+        {
+          "type": "related",
+          "target": "helens-brain-surgery",
+          "label": "his operation on Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "hudsons-death",
+          "label": "Death of Dr. Hudson"
+        }
+      ]
+    },
+    {
+      "id": "bobby-merrick",
+      "type": "person",
+      "label": "\"Bobby Merrick\"",
+      "description": "\"The protagonist of Magnificent Obsession — a wealthy young heir who transforms from a dissolute playboy into a pioneering brain surgeon and secret philanthropist following the death of Dr. Wayne Hudson.\"",
+      "aliases": [
+        "Robert Merrick",
+        "young Merrick",
+        "Doctor Merrick",
+        "Bob"
+      ],
+      "tags": [
+        "character",
+        "protagonist",
+        "surgeon",
+        "philanthropist"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:bobby-merrick",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "anonymous philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "piedmont-square",
+          "label": "Merrick mansion on Piedmont Square"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nicholas Merrick"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-journal",
+          "label": "Hudson's journal"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "electrical-scalpel-invention",
+          "label": "Invention of the electrical scalpel"
+        },
+        {
+          "type": "related",
+          "target": "helens-brain-surgery",
+          "label": "Helen's brain surgery"
+        },
+        {
+          "type": "related",
+          "target": "tony-casselli",
+          "label": "Tom Masterson"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "boating-accident"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "the-lake"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "Hudson cottage"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "merrick-industrial-empire",
+          "label": "the Merrick Industrial Empire"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson-death",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "university-of-michigan-medical-school",
+          "label": "medical school"
+        },
+        {
+          "type": "related",
+          "target": "bobbys-professional-recognition",
+          "label": "professional recognition"
+        }
+      ]
+    },
+    {
+      "id": "bobbys-medical-school-enrollment",
+      "type": "event",
+      "label": "\"Bobby Merrick Enters Medical School\"",
+      "description": "\"Bobby Merrick's decision to enter medical school, marking his commitment to professional transformation.\"",
+      "aliases": [
+        "Ann Arbor",
+        "medical training"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:bobbys-medical-school-enrollment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "bobbys-preparatory-school",
+      "type": "organization",
+      "label": "\"Bobby's Military Academy\"",
+      "description": "\"The military academy where Bobby was sent as a teenager — a 'ritzy reform school' that failed to reform him.\"",
+      "aliases": [
+        "the military academy",
+        "reform school"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:bobbys-preparatory-school",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "bobbys-professional-recognition",
+      "type": "event",
+      "label": "\"Bobby Merrick's Professional Recognition\"",
+      "description": "\"Bobby Merrick's recognition by the international surgical community following his invention of the electrical scalpel.\"",
+      "aliases": [
+        "international acclaim",
+        "the new scalpel"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:bobbys-professional-recognition",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "bobbys-secret-financial-aid",
+      "type": "event",
+      "label": "\"Bobby's Secret Financial Rescue of Helen\"",
+      "description": "\"Bobby Merrick's secret purchase of Helen Hudson's hospital stock to rescue her from financial distress.\"",
+      "aliases": [
+        "helping Helen",
+        "the stock purchase"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:bobbys-secret-financial-aid",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        }
+      ]
+    },
+    {
+      "id": "brain-surgery",
+      "type": "concept",
+      "label": "\"Brain Surgery\"",
+      "description": "\"The medical specialty central to the novel Magnificent Obsession, practiced by Dr. Wayne Hudson and later by Bobby Merrick, representing the pinnacle of surgical skill and the novel's thematic exploration of life, death, and redemptive power.\"",
+      "aliases": [
+        "neurosurgery",
+        "cerebral surgery",
+        "brain operation"
+      ],
+      "tags": [
+        "medicine",
+        "profession",
+        "science"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:brain-surgery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "brightwood-hospital"
+        }
+      ]
+    },
+    {
+      "id": "brightwood-hospital",
+      "type": "place",
+      "label": "\"Brightwood Hospital\"",
+      "description": "\"The private hospital and brain surgery clinic founded by Dr. Wayne Hudson near Detroit — the novel's central setting, where Bobby Merrick is treated, transformed, and ultimately returns as a pioneering surgeon.\"",
+      "aliases": [
+        "Hudson's Clinic",
+        "the hospital",
+        "Brightwood"
+      ],
+      "tags": [
+        "place",
+        "hospital",
+        "setting",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:brightwood-hospital",
+      "relations": [
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Hudson's Clinic"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "anonymous philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "operating-room",
+          "label": "operating rooms"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-wards",
+          "label": "wards"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "McLaren"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "recovery"
+        },
+        {
+          "type": "related",
+          "target": "electrical-scalpel-invention",
+          "label": "Electrical scalpel"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "neurosurgery"
+        },
+        {
+          "type": "related",
+          "target": "experiment",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Dr. Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Jennings"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Watson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "Carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "McDermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-aldrich",
+          "label": "Aldrich"
+        },
+        {
+          "type": "related",
+          "target": "doctor-gram",
+          "label": "Gram"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-nursing-staff",
+          "label": "nursing staff"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Jack Dawson"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion Dawson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "boating accident"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-journal",
+          "label": "discovery of Hudson's encrypted journal"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "Conscience"
+        }
+      ]
+    },
+    {
+      "id": "brightwood-hospital-institution",
+      "type": "organization",
+      "label": "\"Brightwood Hospital Institution\"",
+      "description": "\"Brightwood Hospital as a medical institution and center of Dr. Wayne Hudson's experimental surgical practice, which becomes a mecca for brain surgery and the institutional stage for the novel's philosophy of secret philanthropy.\"",
+      "aliases": [
+        "Brightwood Hospital",
+        "Hudson's Clinic",
+        "the experimental hospital",
+        "the hospital",
+        "Brightwood"
+      ],
+      "tags": [
+        "organization",
+        "hospital",
+        "brain-surgery",
+        "institution",
+        "philanthropy"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:brightwood-hospital-institution",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain surgery"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "anonymous philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "Personality"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Dr. Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Jennings"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Watson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "Carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-aldrich",
+          "label": "Aldrich"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "McDermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-gram",
+          "label": "Gram"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-wards",
+          "label": "wards"
+        },
+        {
+          "type": "related",
+          "target": "operating-room",
+          "label": "operating room"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "boating-accident"
+        },
+        {
+          "type": "related",
+          "target": "hudsons-death",
+          "label": "Hudson's death"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "guilt"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "cure"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Mrs. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "experiment",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "bobbys-secret-financial-aid",
+          "label": "secret sale of Helen's Brightwood stock"
+        },
+        {
+          "type": "related",
+          "target": "electrical-scalpel-invention",
+          "label": "invention of the electrical scalpel"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-nursing-staff",
+          "label": "Brightwood Nursing Staff"
+        },
+        {
+          "type": "related",
+          "target": "the-surgical-profession",
+          "label": "The Surgical Profession"
+        },
+        {
+          "type": "related",
+          "target": "university-of-michigan-medical-school",
+          "label": "university-of-michigan-medical-school"
+        }
+      ]
+    },
+    {
+      "id": "brightwood-nursing-staff",
+      "type": "organization",
+      "label": "\"Brightwood Nursing Staff\"",
+      "description": "\"The nursing staff of Brightwood Hospital, whose competence and discretion sustain the institution's reputation.\"",
+      "aliases": [
+        "the nurses",
+        "hospital staff"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:brightwood-nursing-staff",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        }
+      ]
+    },
+    {
+      "id": "brightwood-wards",
+      "type": "place",
+      "label": "\"Brightwood Hospital Wards\"",
+      "description": "\"The patient rooms and wards of Brightwood Hospital where Bobby Merrick recovers from his accident and begins his transformation.\"",
+      "aliases": [
+        "patient rooms",
+        "convalescent ward"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:brightwood-wards",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Chapter I\"",
+      "description": "\"The clinic buzzes with rumors of the chief's collapse\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "Carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-aldrich",
+          "label": "Aldrich"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "McDermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Watson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-gram",
+          "label": "Gram"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Jennings"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Doctor Pyle"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "young Merrick"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nick Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Brent"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Montgomery Brent"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "perry-ruggles",
+          "label": "Perry Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "herman-bliss",
+          "label": "Doctor Herman Bliss"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "Hope"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Chapter II\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "young Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Doctor Watson"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "fortitude"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "cure"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "vocation"
+        },
+        {
+          "type": "related",
+          "target": "piedmont-square",
+          "label": "Piedmont Square"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "ann-arbor",
+          "label": "Ann Arbor"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "helping"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Chapter III\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "vocation"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Chapter IV\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Grandpère"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Chapter V\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "the Hudson cottage"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Chapter VI\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Montgomery Brent"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "young Merrick"
+        },
+        {
+          "type": "related",
+          "target": "ann-arbor",
+          "label": "Ann Arbor"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Chapter VII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "the little black book"
+        },
+        {
+          "type": "related",
+          "target": "tony-casselli",
+          "label": "Tony"
+        },
+        {
+          "type": "related",
+          "target": "ann-arbor",
+          "label": "Ann Arbor"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "grace"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "helping"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Chapter VIII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "renunciation"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "calling"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Watson"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "effect"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "Personality"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Chapter IX\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Grandpère"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Chapter X\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "experiment",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "effect"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "loss"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "charity"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Chapter XI\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "medical profession"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Dawson"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion Dawson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "cure"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Chapter XII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "recovery"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Doctor Merrick"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Doctor Pyle"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Dawson"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "affection"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "remorse"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "courage"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Chapter XIII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Monty"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality projection"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "loss"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "effect"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "restoration"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Chapter XIV\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Doctor Pyle"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Grandpère"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "Personality"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "Death"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "helping"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "the hospital"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Chapter XV\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Doctor Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "Doctor Carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "the redheaded Watson boy"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Chapter XVI\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "expectation"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Chapter XVII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "bond"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Doctor Merrick"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "effect"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "the hospital"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Chapter XVIII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "Doctor McLaren"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Robert Merrick"
+        },
+        {
+          "type": "related",
+          "target": "mclarens-church",
+          "label": "Grace Church"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "vocation"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "belief"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Doctor Pyle"
+        },
+        {
+          "type": "related",
+          "target": "betty-sealback",
+          "label": "Betty"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "scientific approach"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "the Church"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "availing prayer"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "duty"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "Personality"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "aspiration"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Chapter XIX\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Dawson"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "companionship"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Chapter XX\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "doctor-donelli",
+          "label": "Doctor Donelli"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "vocation"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "beauty",
+          "label": "loveliness"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Chapter XXI\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Doctor Merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-donelli",
+          "label": "Donelli"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion Dawson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "recovery"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Chapter XXII\"",
+      "description": "",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "magnificent-obsession:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Dawson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Doctor Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        }
+      ]
+    },
+    {
+      "id": "christianity",
+      "type": "concept",
+      "label": "\"Christianity\"",
+      "description": "\"The treatment of Christianity in Magnificent Obsession — a progressive reinterpretation that distinguishes the practical power of Christ's teachings from the institutional forms of organized religion.\"",
+      "aliases": [
+        "Christian faith",
+        "the Church",
+        "institutional religion"
+      ],
+      "tags": [
+        "religion",
+        "philosophy",
+        "society"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:christianity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "doctor-mclaren"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        }
+      ]
+    },
+    {
+      "id": "claude-cummings",
+      "type": "person",
+      "label": "Claude Cummings",
+      "description": "A capable surgeon in whose home Wayne Hudson worked as an errand boy during his youth.",
+      "aliases": [
+        "Doctor Claude Cummings",
+        "Dr. Cummings"
+      ],
+      "tags": [
+        "doctor",
+        "chapter-1",
+        "chapter-3",
+        "mentioned"
+      ],
+      "quality": "basic",
+      "source_ref": "magnificent-obsession:claude-cummings",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        }
+      ]
+    },
+    {
+      "id": "conscience",
+      "type": "concept",
+      "label": "\"Conscience\"",
+      "description": "\"The moral faculty that drives the ethical action in Magnificent Obsession — the internal voice that awakens Bobby Merrick to his obligations and sustains his commitment to the philosophy of secret philanthropy.\"",
+      "aliases": [
+        "guilt",
+        "remorse",
+        "moral awareness"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:conscience",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "courage",
+      "type": "concept",
+      "label": "\"Courage\"",
+      "description": "\"The central virtue in Dr. Hudson's philosophy — the practice of living above fear, which the novel presents as the prerequisite for personality development and effective service.\"",
+      "aliases": [
+        "bravery",
+        "fearlessness",
+        "fortitude"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "virtue"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:courage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "hope"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "responsibility"
+        }
+      ]
+    },
+    {
+      "id": "dawson-medical-school-crisis",
+      "type": "event",
+      "label": "\"Dawson's Medical School Crisis\"",
+      "description": "\"Doctor Dawson's crisis in medical school and Bobby's secret intervention to help him continue his studies.\"",
+      "aliases": [
+        "Dawson",
+        "struggling student"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:dawson-medical-school-crisis",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Doctor Dawson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "type": "concept",
+      "label": "\"Death\"",
+      "description": "\"The existential fact that drives much of the moral action in Magnificent Obsession — the deaths that catalyze transformation and the question of immortality that underlies the novel's spiritual inquiry.\"",
+      "aliases": [
+        "mortality",
+        "dying",
+        "loss"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "existential"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "hope"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        }
+      ]
+    },
+    {
+      "id": "delta-omega-fraternity",
+      "type": "organization",
+      "label": "\"Delta Omega Fraternity\"",
+      "description": "\"The college fraternity where Bobby Merrick's charming irresponsibility made him a social asset but a moral danger to his peers.\"",
+      "aliases": [
+        "the fraternity",
+        "Delta Omega house"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:delta-omega-fraternity",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "detroit",
+      "type": "place",
+      "label": "\"Detroit\"",
+      "description": "\"The major Michigan city near Brightwood Hospital where key characters live and work, serving as the novel's primary urban anchor and the hub of its professional and social world.\"",
+      "aliases": [
+        "the city",
+        "Detroit area"
+      ],
+      "tags": [
+        "urban",
+        "setting",
+        "midwest"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:detroit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine"
+        },
+        {
+          "type": "related",
+          "target": "ann-arbor",
+          "label": "Ann Arbor"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        }
+      ]
+    },
+    {
+      "id": "discovery-of-journal",
+      "type": "event",
+      "label": "\"Discovery of Hudson's Journal\"",
+      "description": "\"Bobby Merrick's discovery and decoding of Dr. Hudson's encrypted journal, revealing the secret philosophy.\"",
+      "aliases": [
+        "finding the journal",
+        "the little black book"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:discovery-of-journal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "doctor-aldrich",
+      "type": "person",
+      "label": "Doctor Aldrich",
+      "description": "\"A doctor at Wayne Hudson's hospital who participates in the staff meeting about Hudson's health and is later entrusted with news of Hudson's departure.\"",
+      "aliases": [
+        "Aldrich"
+      ],
+      "tags": [
+        "character",
+        "doctor",
+        "colleague"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-aldrich",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "doctor-carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "doctor-mcdermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "doctor-watson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-gram",
+          "label": "doctor-gram"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "doctor-jennings"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "malcolm-pyle"
+        }
+      ]
+    },
+    {
+      "id": "doctor-carter",
+      "type": "person",
+      "label": "Doctor Carter",
+      "description": "\"Internal medicine specialist at Brightwood Hospital, present at the Christmas Eve staff meeting, who nervously suggests deputizing Jennings to confront Hudson.\"",
+      "aliases": [
+        "Carter",
+        "internal-medicine Carter"
+      ],
+      "tags": [
+        "character",
+        "internist",
+        "Brightwood-staff"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-carter",
+      "relations": [
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Doctor Jennings"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "Doctor McDermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Doctor Watson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson Brent"
+        }
+      ]
+    },
+    {
+      "id": "doctor-dawson",
+      "type": "person",
+      "label": "\"Doctor Dawson\"",
+      "description": "\"A struggling medical student whom Bobby Merrick secretly helps, representing the practical application of the philosophy — and later a successful surgeon.\"",
+      "aliases": [
+        "Dawson",
+        "Jack Dawson"
+      ],
+      "tags": [
+        "character",
+        "secondary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-dawson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "vienna",
+          "label": "Vienna"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion Dawson"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        }
+      ]
+    },
+    {
+      "id": "doctor-donelli",
+      "type": "person",
+      "label": "\"Doctor Donelli\"",
+      "description": "\"A surgeon at Brightwood Hospital who assists Bobby Merrick during the climactic brain surgery on Helen Hudson.\"",
+      "aliases": [
+        "Donelli"
+      ],
+      "tags": [
+        "character",
+        "tertiary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-donelli",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain surgery"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        }
+      ]
+    },
+    {
+      "id": "doctor-gram",
+      "type": "person",
+      "label": "Doctor Gram",
+      "description": "\"A doctor at the hospital where Wayne Hudson works, known for his impatient and irritable temperament.\"",
+      "aliases": [
+        "Gram"
+      ],
+      "tags": [
+        "character",
+        "doctor",
+        "colleague"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-gram",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "doctor-carter"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mcdermott",
+          "label": "doctor-mcdermott"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "doctor-watson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-aldrich",
+          "label": "doctor-aldrich"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "doctor-jennings"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "nancy-ashford"
+        }
+      ]
+    },
+    {
+      "id": "doctor-jennings",
+      "type": "person",
+      "label": "Doctor Jennings",
+      "description": "\"Cynical, middle-aged bachelor bacteriologist at Brightwood Hospital, known for his rasping banter and infuriating impudences, kept on staff only by his professional skill.\"",
+      "aliases": [
+        "Jennings",
+        "blood-and-skin Jennings"
+      ],
+      "tags": [
+        "character",
+        "bacteriologist",
+        "Brightwood-staff"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-jennings",
+      "relations": [
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-watson",
+          "label": "Doctor Watson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        }
+      ]
+    },
+    {
+      "id": "doctor-mcdermott",
+      "type": "person",
+      "label": "Doctor McDermott",
+      "description": "\"Eye-ear-nose-and-throat specialist at Brightwood Hospital, uneasy about confronting Dr. Hudson, who nervously nominates Pyle to be the messenger.\"",
+      "aliases": [
+        "McDermott",
+        "eye-ear-nose-and-throat McDermott"
+      ],
+      "tags": [
+        "character",
+        "ENT-specialist",
+        "Brightwood-staff"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-mcdermott",
+      "relations": [
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "doctor-carter",
+          "label": "Doctor Carter"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Doctor Jennings"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        }
+      ]
+    },
+    {
+      "id": "doctor-mclaren",
+      "type": "person",
+      "label": "\"Doctor McLaren\"",
+      "description": "\"A progressive clergyman and pastor of Grace Church whose intellectual honesty, warm friendship with Bobby Merrick, and candid acknowledgment of institutional religion's limitations make him the novel's most sympathetic religious figure.\"",
+      "aliases": [
+        "McLaren",
+        "Rev. Bruce McLaren",
+        "Bruce McLaren"
+      ],
+      "tags": [
+        "character",
+        "secondary",
+        "clergy"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-mclaren",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "betty-sealback",
+          "label": "Mrs. Sealback"
+        }
+      ]
+    },
+    {
+      "id": "doctor-watson",
+      "type": "person",
+      "label": "Doctor Watson",
+      "description": "\"Young red-headed surgeon at Brightwood Hospital, who assists Dr. Hudson in operations and cares for Bobby Merrick after the boating accident.\"",
+      "aliases": [
+        "Watson",
+        "Watty",
+        "the redheaded Watson boy"
+      ],
+      "tags": [
+        "character",
+        "surgeon",
+        "Brightwood-staff"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:doctor-watson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Doctor Jennings"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson Brent"
+        }
+      ]
+    },
+    {
+      "id": "dr-mclarens-church",
+      "type": "place",
+      "label": "\"Dr. McLaren's Church\"",
+      "description": "\"The progressive church led by Dr. McLaren, where theological discussions about the philosophy take place.\"",
+      "aliases": [
+        "the church",
+        "progressive church"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:dr-mclarens-church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "McLaren"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "type": "concept",
+      "label": "\"Education\"",
+      "description": "\"The role of formal education and self-directed learning in Magnificent Obsession — the disciplined acquisition of knowledge as both professional preparation and moral development.\"",
+      "aliases": [
+        "learning",
+        "study",
+        "academic training",
+        "medical education"
+      ],
+      "tags": [
+        "society",
+        "knowledge",
+        "medicine"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:education",
+      "relations": [
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "electrical-scalpel-invention",
+      "type": "event",
+      "label": "\"Invention of the Electrical Scalpel\"",
+      "description": "\"Bobby Merrick's invention of an electrical scalpel that revolutionizes brain surgery.\"",
+      "aliases": [
+        "the new device",
+        "the electrical knife"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:electrical-scalpel-invention",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "experiment",
+      "type": "concept",
+      "label": "\"Experiment\"",
+      "description": "\"The experimental approach to spiritual development in Magnificent Obsession — the treatment of the personality-expansion philosophy as a hypothesis to be tested through disciplined practice rather than accepted on faith.\"",
+      "aliases": [
+        "experimental method",
+        "trial",
+        "testing",
+        "experimental approach"
+      ],
+      "tags": [
+        "science",
+        "philosophy",
+        "method"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:experiment",
+      "relations": [
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "faith",
+      "type": "concept",
+      "label": "\"Faith\"",
+      "description": "\"The religious and spiritual dimension of the Magnificent Obsession philosophy — a practical faith expressed through action rather than ritual, conceived as 'a science relating to the expansion and development of the human personality.'\"",
+      "aliases": [
+        "religious faith",
+        "spiritual belief",
+        "belief",
+        "practical faith"
+      ],
+      "tags": [
+        "religion",
+        "spirituality",
+        "philosophy",
+        "core-concept"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:faith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "Dr. McLaren"
+        },
+        {
+          "type": "related",
+          "target": "mclarens-church",
+          "label": "progressive church"
+        },
+        {
+          "type": "related",
+          "target": "mclaren-theological-discussion",
+          "label": "theological conversations with Bobby"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        }
+      ]
+    },
+    {
+      "id": "fear",
+      "type": "concept",
+      "label": "\"Fear\"",
+      "description": "\"Dr. Hudson's theory of fear in Magnificent Obsession — the conviction that fear damages personality and must be systematically eliminated as a condition of spiritual power.\"",
+      "aliases": [
+        "courage",
+        "fearlessness",
+        "overcoming fear"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "character"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:fear",
+      "relations": [
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "flintridge",
+      "type": "place",
+      "label": "\"Flintridge\"",
+      "description": "\"Dr. Hudson's remote cottage retreat, where he sought solitude and where his sister Martha maintained the property.\"",
+      "aliases": [
+        "the cottage",
+        "the retreat"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:flintridge",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "friendship",
+      "type": "concept",
+      "label": "\"Friendship\"",
+      "description": "\"The sustaining relational bond in Magnificent Obsession — the network of friendships that supports characters through transformation and gives the novel its warmth.\"",
+      "aliases": [
+        "companionship",
+        "camaraderie",
+        "bond"
+      ],
+      "tags": [
+        "relationships",
+        "social",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:friendship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "service"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "doctor-mclaren"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "influence"
+        }
+      ]
+    },
+    {
+      "id": "genius",
+      "type": "concept",
+      "label": "Genius",
+      "description": "A concept discussed by Doctor Hudson regarding exceptional individuals and their social obligations.",
+      "aliases": [
+        "天才",
+        "Genius Theory"
+      ],
+      "tags": [
+        "philosophical-concept",
+        "chapter-1",
+        "chapter-8"
+      ],
+      "quality": "basic",
+      "source_ref": "magnificent-obsession:genius",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "healing",
+      "type": "concept",
+      "label": "\"Healing\"",
+      "description": "\"The dual concept of healing in Magnificent Obsession — both the physical restoration achieved through surgery and the spiritual and psychological recovery enabled by the practice of secret philanthropy.\"",
+      "aliases": [
+        "cure",
+        "restoration",
+        "recovery",
+        "medical healing"
+      ],
+      "tags": [
+        "medicine",
+        "philosophy",
+        "spirituality"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:healing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "nancy-ashford"
+        }
+      ]
+    },
+    {
+      "id": "helen-brent",
+      "type": "person",
+      "label": "\"Helen Brent\"",
+      "description": "\"The legal name of Helen Hudson following her brief and unsuccessful marriage — a biographical detail that underscores the novel's treatment of identity, independence, and the hidden dimensions of personal history.\"",
+      "aliases": [
+        "Helen Hudson"
+      ],
+      "tags": [
+        "character",
+        "tertiary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:helen-brent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Doctor Dawson"
+        }
+      ]
+    },
+    {
+      "id": "helen-hudson",
+      "type": "person",
+      "label": "\"Helen Hudson\"",
+      "description": "\"Dr. Wayne Hudson's daughter in Magnificent Obsession — a woman of intelligence and integrity who becomes Bobby Merrick's love interest and, in the novel's climax, his patient in a life-saving brain surgery.\"",
+      "aliases": [
+        "Miss Hudson",
+        "Helen Brent"
+      ],
+      "tags": [
+        "character",
+        "love-interest",
+        "daughter"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:helen-hudson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropic"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain surgery"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "Helen Brent"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "marion-dawson",
+          "label": "Marion Dawson"
+        }
+      ]
+    },
+    {
+      "id": "helen-meets-bobby",
+      "type": "event",
+      "label": "\"Helen Hudson Meets Bobby Merrick\"",
+      "description": "\"The first meeting between Helen Hudson and Bobby Merrick, initiating the relationship that becomes central to the novel.\"",
+      "aliases": [
+        "first meeting",
+        "introduction"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:helen-meets-bobby",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "helens-brain-surgery",
+      "type": "event",
+      "label": "\"Helen Hudson's Brain Surgery\"",
+      "description": "\"The climactic brain surgery in which Bobby Merrick operates on Helen Hudson — the ultimate test of professional discipline.\"",
+      "aliases": [
+        "the operation",
+        "brain surgery on Helen"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:helens-brain-surgery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "herman-bliss",
+      "type": "person",
+      "label": "Herman Bliss",
+      "description": "A doctor in Seattle who read about the boating accident and commented on its circumstances.",
+      "aliases": [
+        "Doctor Herman Bliss",
+        "Dr. Herman Bliss"
+      ],
+      "tags": [
+        "doctor",
+        "chapter-1",
+        "tertiary"
+      ],
+      "quality": "basic",
+      "source_ref": "magnificent-obsession:herman-bliss",
+      "relations": [
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "The Boating Accident"
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "type": "concept",
+      "label": "\"Hope\"",
+      "description": "\"A driving emotional force in Magnificent Obsession — the forward-looking attitude that sustains characters through adversity and fuels the novel's philosophy of personal transformation.\"",
+      "aliases": [
+        "optimism",
+        "aspiration",
+        "expectation"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "emotion"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:hope",
+      "relations": [
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        }
+      ]
+    },
+    {
+      "id": "hudson-cottage",
+      "type": "place",
+      "label": "\"Hudson's Lakeside Cottage (Flintridge)\"",
+      "description": "\"Dr. Wayne Hudson's remote lakeside cottage named Flintridge — an isolated retreat on Lake Saginack where he entertained visiting surgeons, kept the resuscitator that would become central to the novel's tragedy, and where the caretakers Perry and Martha Ruggles maintained a vigil of devotion.\"",
+      "aliases": [
+        "Flintridge",
+        "the Hudson cottage",
+        "the cottage",
+        "the lake cottage",
+        "Hudson's summer place",
+        "Hudson's retreat"
+      ],
+      "tags": [
+        "place",
+        "cottage",
+        "lake",
+        "setting"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:hudson-cottage",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "Lake Saginack"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Perry and Martha Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "devotion"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "perry-ruggles",
+          "label": "Perry Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "Martha Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Tom Masterson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "bond"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "boating accident"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "learning"
+        },
+        {
+          "type": "related",
+          "target": "piedmont-square",
+          "label": "Detroit home"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "loss"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        }
+      ]
+    },
+    {
+      "id": "hudsons-death",
+      "type": "event",
+      "label": "\"Death of Dr. Hudson\"",
+      "description": "\"The drowning of Dr. Wayne Hudson on a Saturday afternoon in early August — the event that catalyzes the entire plot, linking Bobby Merrick's survival to Hudson's death through the shared use of a single resuscitator, and setting in motion the novel's central themes of guilt, redemption, and secret philanthropy.\"",
+      "aliases": [
+        "the drowning of Doctor Hudson",
+        "Hudson's drowning",
+        "the fatal Saturday",
+        "the Lake Saginack tragedy"
+      ],
+      "tags": [
+        "plot-event",
+        "crisis",
+        "catalyst",
+        "death",
+        "turning-point"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:hudsons-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "flintridge",
+          "label": "Flintridge"
+        },
+        {
+          "type": "related",
+          "target": "inhalator",
+          "label": "inhalator"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "obligation"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain surgeon"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Dr. Malcolm Pyle"
+        },
+        {
+          "type": "related",
+          "target": "death",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Brent"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "the cottage"
+        },
+        {
+          "type": "related",
+          "target": "perry-ruggles",
+          "label": "Perry Ruggles"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "aid"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "genius"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "anonymous philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "remorse"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson-death",
+          "label": "Joyce herself"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "university-of-michigan-medical-school",
+          "label": "medical school"
+        },
+        {
+          "type": "related",
+          "target": "helens-brain-surgery",
+          "label": "Helen Hudson herself"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Montgomery Brent"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "bond"
+        },
+        {
+          "type": "related",
+          "target": "healing",
+          "label": "restoration"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "fearlessness"
+        },
+        {
+          "type": "related",
+          "target": "electrical-scalpel-invention",
+          "label": "surgical achievements"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "calling"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "boating-accident"
+        },
+        {
+          "type": "related",
+          "target": "hudsons-funeral",
+          "label": "hudsons-funeral"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "the-lake"
+        }
+      ]
+    },
+    {
+      "id": "hudsons-funeral",
+      "type": "event",
+      "label": "\"Dr. Hudson's Funeral\"",
+      "description": "\"The funeral of Dr. Wayne Hudson, attended by colleagues and beneficiaries who begin to reveal his secret life.\"",
+      "aliases": [
+        "the funeral",
+        "memorial service"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:hudsons-funeral",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "influence",
+      "type": "concept",
+      "label": "\"Influence\"",
+      "description": "\"The subtle force through which personalities shape one another in Magnificent Obsession — Hudson's influence on Bobby, Bobby's on those he serves, and the chain of influence that defines the novel's moral economy.\"",
+      "aliases": [
+        "impact",
+        "effect",
+        "shaping"
+      ],
+      "tags": [
+        "philosophy",
+        "psychology",
+        "social"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:influence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "service"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "friendship"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "responsibility"
+        }
+      ]
+    },
+    {
+      "id": "inhalator",
+      "type": "concept",
+      "label": "Inhalator",
+      "description": "A super-type respirator device owned by Doctor Hudson, used for respiratory emergencies.",
+      "aliases": [
+        "吸入器",
+        "Hudson's Inhalator"
+      ],
+      "tags": [
+        "medical-device",
+        "respiratory",
+        "chapter-1"
+      ],
+      "quality": "basic",
+      "source_ref": "magnificent-obsession:inhalator",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Doctor Hudson"
+        },
+        {
+          "type": "related",
+          "target": "hudson-cottage",
+          "label": "Hudson's cottage on the lake"
+        },
+        {
+          "type": "related",
+          "target": "boating-accident",
+          "label": "The Boating Accident"
+        }
+      ]
+    },
+    {
+      "id": "journal",
+      "type": "concept",
+      "label": "\"The Journal\"",
+      "description": "\"Dr. Hudson's encrypted journal in Magnificent Obsession — the physical document that transmits the secret philosophy of personality expansion from Hudson to Bobby Merrick after the surgeon's death.\"",
+      "aliases": [
+        "Hudson's journal",
+        "the secret journal",
+        "the cipher journal",
+        "the little black book"
+      ],
+      "tags": [
+        "object",
+        "philosophy",
+        "narrative-device"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:journal",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "nancy-ashford"
+        }
+      ]
+    },
+    {
+      "id": "joyce-hudson",
+      "type": "person",
+      "label": "\"Joyce Hudson\"",
+      "description": "\"Dr. Wayne Hudson's second wife in Magnificent Obsession — a woman of volatile temperament whose early death shaped Hudson's turn toward the secret philosophy and left a lasting imprint on her daughter Helen.\"",
+      "aliases": [
+        "Mrs. Hudson",
+        "Joyce",
+        "Mrs. Wayne Hudson"
+      ],
+      "tags": [
+        "character",
+        "secondary",
+        "Hudson family"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:joyce-hudson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "secret philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "washington-girls-school",
+          "label": "Washington Girls' School"
+        },
+        {
+          "type": "related",
+          "target": "discovery-of-journal",
+          "label": "understanding of Hudson's life"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "nancy-ashford"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "the-hudson-household",
+          "label": "The Hudson Household"
+        }
+      ]
+    },
+    {
+      "id": "joyce-hudson-death",
+      "type": "event",
+      "label": "\"Death of Joyce Hudson\"",
+      "description": "\"The death of Joyce Hudson, Dr. Hudson's second wife, which preceded and shaped his openness to the philosophy.\"",
+      "aliases": [
+        "Joyce",
+        "Mrs. Hudson death"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:joyce-hudson-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "\"Love\"",
+      "description": "\"A central relational force in Magnificent Obsession — romantic love, selfless devotion, and the love that motivates the novel's philosophy of secret service.\"",
+      "aliases": [
+        "romantic love",
+        "devotion",
+        "affection"
+      ],
+      "tags": [
+        "emotion",
+        "relationships",
+        "philosophy"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "sacrifice"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "service"
+        },
+        {
+          "type": "related",
+          "target": "friendship",
+          "label": "friendship"
+        }
+      ]
+    },
+    {
+      "id": "malcolm-pyle",
+      "type": "person",
+      "label": "Malcolm Pyle",
+      "description": "\"Senior abdominal surgeon at Brightwood Hospital, second in seniority to Dr. Hudson, and the colleague deputized to confront him about his health.\"",
+      "aliases": [
+        "Doctor Pyle",
+        "Dr. Malcolm Pyle"
+      ],
+      "tags": [
+        "character",
+        "surgeon",
+        "Brightwood-staff"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:malcolm-pyle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "doctor-jennings",
+          "label": "Doctor Jennings"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        }
+      ]
+    },
+    {
+      "id": "marion-dawson",
+      "type": "person",
+      "label": "\"Marion Dawson\"",
+      "description": "\"Doctor Dawson's wife and Helen Hudson's close friend, whose well-intentioned but misguided interference in Helen's affairs creates complications that Bobby must secretly resolve.\"",
+      "aliases": [
+        "Marion"
+      ],
+      "tags": [
+        "character",
+        "secondary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:marion-dawson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Jack Dawson"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        }
+      ]
+    },
+    {
+      "id": "martha-ruggles",
+      "type": "person",
+      "label": "Martha Ruggles",
+      "description": "\"The devoted housekeeper at Flintridge, twin sister of Perry Ruggles, who tends Wayne Hudson's remote cottage with maternal care.\"",
+      "aliases": [
+        "Martha"
+      ],
+      "tags": [
+        "character",
+        "caretaker",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:martha-ruggles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "perry-ruggles",
+          "label": "perry-ruggles"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "joyce-hudson"
+        },
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "helen-brent"
+        }
+      ]
+    },
+    {
+      "id": "maxine-merrick",
+      "type": "person",
+      "label": "\"Maxine Merrick\"",
+      "description": "\"Bobby Merrick's mother, resident in Paris, whose absence from her son's life contributes to his aimlessness and lack of guidance.\"",
+      "aliases": [
+        "Mrs. Merrick",
+        "Maxine"
+      ],
+      "tags": [
+        "character",
+        "secondary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:maxine-merrick",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "service"
+        }
+      ]
+    },
+    {
+      "id": "mclaren-theological-discussion",
+      "type": "event",
+      "label": "\"The McLaren Theological Discussion\"",
+      "description": "\"The extended dinner conversation in which Dr. McLaren, Bobby, and Betty discuss prayer, Christianity, and the new philosophy.\"",
+      "aliases": [
+        "dinner with McLaren",
+        "the religious debate"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:mclaren-theological-discussion",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "McLaren"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "betty-sealback",
+          "label": "Betty"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "Christianity"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "mclarens-church",
+      "type": "organization",
+      "label": "\"Dr. McLaren's Progressive Church\"",
+      "description": "\"The progressive Christian congregation led by the Rev. Bruce McLaren, Ph.D. — the novel's representative of institutional religion attempting to reconcile faith with a scientific age, and the setting for the central theological debate between modernism and experiential spirituality.\"",
+      "aliases": [
+        "Grace Church",
+        "McLaren's congregation",
+        "the progressive church",
+        "the forward-looking church"
+      ],
+      "tags": [
+        "religion",
+        "institution",
+        "modernism",
+        "featured"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:mclarens-church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "McLaren"
+        },
+        {
+          "type": "related",
+          "target": "christianity",
+          "label": "institutional religion"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Dr. Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "betty-sealback",
+          "label": "Betty McLaren"
+        },
+        {
+          "type": "related",
+          "target": "the-social-congress",
+          "label": "Social Congress"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood"
+        },
+        {
+          "type": "related",
+          "target": "service",
+          "label": "ministry"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "study"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "aspiration"
+        },
+        {
+          "type": "related",
+          "target": "influence",
+          "label": "effect"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "mclaren-theological-discussion",
+          "label": "The McLaren Theological Discussion"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "science",
+          "label": "science"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "nicholas-merrick"
+        }
+      ]
+    },
+    {
+      "id": "merrick-industrial-empire",
+      "type": "organization",
+      "label": "\"The Merrick Industrial Empire\"",
+      "description": "\"The industrial fortune built by Nicholas Merrick, representing the old model of wealth creation that Bobby inherits and must transform.\"",
+      "aliases": [
+        "Merrick business",
+        "Nicholas company"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:merrick-industrial-empire",
+      "relations": [
+        {
+          "type": "related",
+          "target": "experiment",
+          "label": "trial"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nicholas Merrick"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "montgomery-brent",
+      "type": "person",
+      "label": "Montgomery Brent",
+      "description": "\"Helen Brent's older cousin, a former jazz musician turned brokerage employee, whom Helen idealizes as 'Brother Monty' despite his rakish reputation.\"",
+      "aliases": [
+        "Montgomery",
+        "Monty",
+        "Brother Monty"
+      ],
+      "tags": [
+        "character",
+        "family",
+        "cousin"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:montgomery-brent",
+      "relations": [
+        {
+          "type": "related",
+          "target": "helen-brent",
+          "label": "helen-brent"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "nancy-ashford",
+      "type": "person",
+      "label": "\"Nancy Ashford\"",
+      "description": "\"The superintendent of Brightwood Hospital in Magnificent Obsession — Dr. Hudson's closest professional confidante and the guardian of his secret journal, who guides Bobby Merrick in discovering the philosophy of anonymous philanthropy.\"",
+      "aliases": [
+        "Mrs. Ashford",
+        "Miss Brent"
+      ],
+      "tags": [
+        "character",
+        "nurse",
+        "guardian",
+        "confidante"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:nancy-ashford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrets"
+        }
+      ]
+    },
+    {
+      "id": "nicholas-merrick",
+      "type": "person",
+      "label": "\"Nicholas Merrick\"",
+      "description": "\"Bobby Merrick's grandfather in Magnificent Obsession — a retired industrialist whose respect Bobby must earn through his moral and professional transformation.\"",
+      "aliases": [
+        "old Merrick",
+        "Grandpère",
+        "grandfather Merrick",
+        "Nick Merrick"
+      ],
+      "tags": [
+        "character",
+        "industrialist",
+        "grandfather",
+        "mentor"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:nicholas-merrick",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "windymere",
+          "label": "Windymere"
+        },
+        {
+          "type": "related",
+          "target": "the-lake",
+          "label": "the lake"
+        },
+        {
+          "type": "related",
+          "target": "malcolm-pyle",
+          "label": "Pyle"
+        },
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        }
+      ]
+    },
+    {
+      "id": "nicholas-merrick-acceptance",
+      "type": "event",
+      "label": "\"Nicholas Merrick Accepts Bobby's Transformation\"",
+      "description": "\"The moment when Nicholas Merrick acknowledges and blesses his grandson Bobby's genuine transformation.\"",
+      "aliases": [
+        "grandfather",
+        "approval",
+        "blessing"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:nicholas-merrick-acceptance",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nicholas Merrick"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        }
+      ]
+    },
+    {
+      "id": "operating-room",
+      "type": "place",
+      "label": "\"The Operating Room\"",
+      "description": "\"The operating room at Brightwood Hospital where Dr. Hudson and later Bobby Merrick perform brain surgeries.\"",
+      "aliases": [
+        "surgery",
+        "surgical theater"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:operating-room",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "type": "place",
+      "label": "\"Paris\"",
+      "description": "\"The European city where Bobby Merrick's mother Maxine resides after leaving America, symbolizing the distant old-world sophistication from which Bobby is emotionally and morally disconnected.\"",
+      "aliases": [
+        "France",
+        "European residence"
+      ],
+      "tags": [
+        "urban",
+        "europe",
+        "residence"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:paris",
+      "relations": [
+        {
+          "type": "related",
+          "target": "maxine-merrick",
+          "label": "Maxine Merrick"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "detroit",
+          "label": "Detroit"
+        },
+        {
+          "type": "related",
+          "target": "piedmont-square",
+          "label": "Piedmont Square"
+        }
+      ]
+    },
+    {
+      "id": "paris-social-circle",
+      "type": "organization",
+      "label": "\"Maxine Merrick's Paris Circle\"",
+      "description": "\"The expatriate social circle in Paris where Bobby's mother Maxine lives, disconnected from her son.\"",
+      "aliases": [
+        "Paris society",
+        "Maxine social"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:paris-social-circle",
+      "relations": [
+        {
+          "type": "related",
+          "target": "paris",
+          "label": "Paris"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "perry-ruggles",
+      "type": "person",
+      "label": "Perry Ruggles",
+      "description": "\"The devoted caretaker of Flintridge, Wayne Hudson's remote retreat, who attempts to rescue Hudson from drowning.\"",
+      "aliases": [
+        "Perry",
+        "old Perry"
+      ],
+      "tags": [
+        "character",
+        "caretaker",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:perry-ruggles",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "martha-ruggles",
+          "label": "martha-ruggles"
+        }
+      ]
+    },
+    {
+      "id": "personality",
+      "type": "concept",
+      "label": "\"Personality\"",
+      "description": "\"The central metaphysical concept in Magnificent Obsession — the belief that one's personality can be expanded and empowered by secretly investing oneself in the rehabilitation of other people's lives.\"",
+      "aliases": [
+        "personality projection",
+        "expansion of personality",
+        "investing in personalities"
+      ],
+      "tags": [
+        "philosophy",
+        "spirituality",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:personality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "philanthropy",
+      "type": "concept",
+      "label": "\"Philanthropy\"",
+      "description": "\"The practice of anonymous, unconditional giving that forms the central moral philosophy of Lloyd C. Douglas's Magnificent Obsession, as practiced by Dr. Wayne Hudson and later by Bobby Merrick.\"",
+      "aliases": [
+        "charity",
+        "benevolence",
+        "secret philanthropy",
+        "anonymous giving"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "wealth"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:philanthropy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "wealth",
+          "label": "wealth"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "piedmont-square",
+      "type": "place",
+      "label": "\"Piedmont Square\"",
+      "description": "\"The Merrick family's former residence in the city, sold after Bobby's father's death.\"",
+      "aliases": [
+        "the big house",
+        "Merrick family home"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:piedmont-square",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        }
+      ]
+    },
+    {
+      "id": "prayer",
+      "type": "concept",
+      "label": "\"Prayer\"",
+      "description": "\"The concept of prayer in Magnificent Obsession — redefined not as petitionary ritual but as a deliberate act of aligning oneself with the 'Major Personality' to receive power for service to others.\"",
+      "aliases": [
+        "spiritual petition",
+        "communion",
+        "availing prayer"
+      ],
+      "tags": [
+        "religion",
+        "spirituality",
+        "practice"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:prayer",
+      "relations": [
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "doctor-mclaren"
+        }
+      ]
+    },
+    {
+      "id": "profession",
+      "type": "concept",
+      "label": "\"Profession\"",
+      "description": "\"The concept of professional vocation in Magnificent Obsession — the disciplined pursuit of a calling as both personal fulfillment and an instrument of service to others, embodied in the medical careers of Dr. Hudson and Bobby Merrick.\"",
+      "aliases": [
+        "vocation",
+        "calling",
+        "professional calling",
+        "medical profession"
+      ],
+      "tags": [
+        "medicine",
+        "philosophy",
+        "ethics"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:profession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "education"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "doctor-dawson"
+        }
+      ]
+    },
+    {
+      "id": "randolph",
+      "type": "person",
+      "label": "\"Randolph\"",
+      "description": "\"The sculptor who first articulates the philosophy that becomes Dr. Hudson's 'Magnificent Obsession' — a reclusive artist whose teachings about personality expansion, transmitted during a single all-night conversation, provide the theoretical foundation for the novel's entire ethical system.\"",
+      "aliases": [
+        "Philip Randolph",
+        "Clive Randolph",
+        "the sculptor"
+      ],
+      "tags": [
+        "character",
+        "tertiary",
+        "mentor",
+        "philosopher"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:randolph",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        }
+      ]
+    },
+    {
+      "id": "randolphs-studio",
+      "type": "place",
+      "label": "\"Randolph's Studio\"",
+      "description": "\"The studio where the sculptor Randolph works and where he first reveals the philosophy to Dr. Hudson.\"",
+      "aliases": [
+        "the sculptor studio",
+        "artist workspace"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:randolphs-studio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "the sculptor"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "randolphs-teaching",
+      "type": "event",
+      "label": "\"Randolph's Teachings to Hudson\"",
+      "description": "\"The transformative conversation in which the sculptor Randolph reveals the philosophy to a despairing Dr. Hudson.\"",
+      "aliases": [
+        "the sculptor",
+        "the philosophy revealed"
+      ],
+      "tags": [
+        "pilot",
+        "event"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:randolphs-teaching",
+      "relations": [
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "the sculptor"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "responsibility",
+      "type": "concept",
+      "label": "\"Responsibility\"",
+      "description": "\"The moral burden that drives the central action of Magnificent Obsession — the recognition that one's gifts and privileges impose obligations toward others, expressed through secret service.\"",
+      "aliases": [
+        "duty",
+        "obligation",
+        "accountability"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "psychology"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:responsibility",
+      "relations": [
+        {
+          "type": "related",
+          "target": "service",
+          "label": "service"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "hope",
+          "label": "hope"
+        }
+      ]
+    },
+    {
+      "id": "sacrifice",
+      "type": "concept",
+      "label": "\"Sacrifice\"",
+      "description": "\"The hidden cost of the Magnificent Obsession philosophy — the willingness to give up recognition, gratitude, and personal attachment as conditions for the practice of secret philanthropy to function.\"",
+      "aliases": [
+        "self-sacrifice",
+        "self-denial",
+        "renunciation",
+        "cost of giving"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "core-concept"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:sacrifice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick's"
+        },
+        {
+          "type": "related",
+          "target": "helen-hudson",
+          "label": "Helen Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobbys-secret-financial-aid",
+          "label": "secret aid to the Hudsons"
+        },
+        {
+          "type": "related",
+          "target": "helens-brain-surgery",
+          "label": "Helen's brain surgery"
+        },
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nicholas Merrick"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "randolph"
+        },
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secrecy"
+        },
+        {
+          "type": "related",
+          "target": "fear",
+          "label": "fear"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Wayne Hudson"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "type": "concept",
+      "label": "\"Science\"",
+      "description": "\"The framing of the Magnificent Obsession philosophy as a science — a testable, repeatable method for expanding human personality — reflecting the novel's engagement with early twentieth-century scientific rationalism.\"",
+      "aliases": [
+        "scientific method",
+        "scientific approach",
+        "experimental science"
+      ],
+      "tags": [
+        "philosophy",
+        "medicine",
+        "knowledge"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:science",
+      "relations": [
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "prayer",
+          "label": "prayer"
+        },
+        {
+          "type": "related",
+          "target": "brain-surgery",
+          "label": "brain-surgery"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "secrecy",
+      "type": "concept",
+      "label": "\"Secrecy\"",
+      "description": "\"The absolute requirement of secrecy in the Magnificent Obsession philosophy — the conviction that anonymous philanthropy loses its transformative power if the donor's identity is revealed.\"",
+      "aliases": [
+        "secret",
+        "anonymity",
+        "hidden philanthropy",
+        "confidentiality"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "practice"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:secrecy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality"
+        },
+        {
+          "type": "related",
+          "target": "conscience",
+          "label": "conscience"
+        },
+        {
+          "type": "related",
+          "target": "faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "profession"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "wayne-hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "bobby-merrick"
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "type": "concept",
+      "label": "\"Service\"",
+      "description": "\"The practical expression of the Magnificent Obsession philosophy — secret acts of service performed to expand personality and access spiritual power.\"",
+      "aliases": [
+        "helping",
+        "ministry",
+        "aid"
+      ],
+      "tags": [
+        "philosophy",
+        "ethics",
+        "action"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:service",
+      "relations": [
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropy"
+        },
+        {
+          "type": "related",
+          "target": "responsibility",
+          "label": "responsibility"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "the-club",
+      "type": "place",
+      "label": "\"The Club\"",
+      "description": "\"The gentlemen's club where Hudson's colleagues discuss his philosophy and the hospital's affairs.\"",
+      "aliases": [
+        "the gentlemen club",
+        "Pyle club"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-club",
+      "relations": [
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "the hospital"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "the-hudson-foundation",
+      "type": "organization",
+      "label": "\"The Hudson Beneficiary Network\"",
+      "description": "\"The informal network of people whose lives were secretly transformed by Dr. Hudson's anonymous philanthropy.\"",
+      "aliases": [
+        "the secret society",
+        "Hudson beneficiaries"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-hudson-foundation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "secrecy",
+          "label": "secret"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "the-hudson-household",
+      "type": "organization",
+      "label": "\"The Hudson Household\"",
+      "description": "\"Dr. Hudson's troubled domestic household, strained by Joyce's erratic personality and the pressures of his professional life.\"",
+      "aliases": [
+        "Hudson family",
+        "Hudson domestic"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-hudson-household",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "the-jazz-market",
+      "type": "organization",
+      "label": "\"The Jazz Market\"",
+      "description": "\"The popular music business where Joyce Hudson's brother Montgomery took his saxophone — representing the modern world's alternatives to traditional profession.\"",
+      "aliases": [
+        "Monty",
+        "the music business"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-jazz-market",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "montgomery-brent",
+          "label": "Montgomery"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "the-lake",
+      "type": "place",
+      "label": "\"The Lake\"",
+      "description": "\"The lake where Bobby Merrick's near-fatal boating accident occurs — the site of the novel's opening crisis.\"",
+      "aliases": [
+        "Lake",
+        "the water",
+        "shore"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-lake",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        }
+      ]
+    },
+    {
+      "id": "the-social-congress",
+      "type": "organization",
+      "label": "\"The Social Congress\"",
+      "description": "\"The civic organization that programmed a discussion of Birth Control, at which Dr. McLaren was asked to offer the invocation.\"",
+      "aliases": [
+        "the civic organization",
+        "Social Congress"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-social-congress",
+      "relations": [
+        {
+          "type": "related",
+          "target": "doctor-mclaren",
+          "label": "McLaren"
+        },
+        {
+          "type": "related",
+          "target": "profession",
+          "label": "vocation"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "the-surgical-profession",
+      "type": "organization",
+      "label": "\"The International Surgical Community\"",
+      "description": "\"The international community of brain surgeons who recognize Dr. Hudson's and later Bobby Merrick's achievements.\"",
+      "aliases": [
+        "the surgical profession",
+        "surgeons"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:the-surgical-profession",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "tony-casselli",
+      "type": "person",
+      "label": "\"Tony Casselli\"",
+      "description": "\"An Italian laborer and former patient of Dr. Hudson, whose story of recovery and gratitude illustrates the practical impact of Hudson's philanthropy on ordinary lives.\"",
+      "aliases": [
+        "Tony",
+        "Casselli"
+      ],
+      "tags": [
+        "character",
+        "tertiary"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:tony-casselli",
+      "relations": [
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Dr. Hudson"
+        }
+      ]
+    },
+    {
+      "id": "university-of-michigan-medical-school",
+      "type": "organization",
+      "label": "\"University of Michigan Medical School\"",
+      "description": "\"The medical school where Bobby Merrick and Doctor Dawson train as surgeons — the institution that transforms Bobby's moral awakening into professional competence.\"",
+      "aliases": [
+        "the medical school",
+        "Ann Arbor medical"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:university-of-michigan-medical-school",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "doctor-dawson",
+          "label": "Doctor Dawson"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "vienna",
+      "type": "place",
+      "label": "\"Vienna\"",
+      "description": "\"The city where European surgical clinics take interest in Bobby's electrical scalpel invention — center of medical learning.\"",
+      "aliases": [
+        "Austria",
+        "European clinic"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:vienna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        },
+        {
+          "type": "related",
+          "target": "education",
+          "label": "learning"
+        }
+      ]
+    },
+    {
+      "id": "vienna-medical-clinics",
+      "type": "organization",
+      "label": "\"Vienna Medical Clinics\"",
+      "description": "\"The European medical institutions that recognize Bobby Merrick's electrical scalpel invention, representing international validation of his professional achievement.\"",
+      "aliases": [
+        "the European clinics",
+        "Vienna hospitals"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:vienna-medical-clinics",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "washington-girls-school",
+      "type": "organization",
+      "label": "\"The Washington Girls' School\"",
+      "description": "\"The girls' school in Washington where Joyce Hudson was educated — mentioned in the novel's opening chapter.\"",
+      "aliases": [
+        "Joyce school",
+        "Washington school"
+      ],
+      "tags": [
+        "pilot",
+        "organization"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:washington-girls-school",
+      "relations": [
+        {
+          "type": "related",
+          "target": "joyce-hudson",
+          "label": "Joyce Hudson"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "wayne-hudson",
+          "label": "Wayne Hudson"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital",
+          "label": "Brightwood Hospital"
+        }
+      ]
+    },
+    {
+      "id": "wayne-hudson",
+      "type": "person",
+      "label": "\"Wayne Hudson\"",
+      "description": "\"The celebrated brain surgeon whose death catalyzes the events of Magnificent Obsession and whose secret philosophy of anonymous philanthropy becomes Bobby Merrick's life purpose.\"",
+      "aliases": [
+        "Doctor Hudson",
+        "Dr. Hudson",
+        "the chief"
+      ],
+      "tags": [
+        "character",
+        "surgeon",
+        "philanthropist",
+        "mentor"
+      ],
+      "quality": "featured",
+      "source_ref": "magnificent-obsession:wayne-hudson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "brightwood-hospital-institution",
+          "label": "Brightwood Hospital"
+        },
+        {
+          "type": "related",
+          "target": "philanthropy",
+          "label": "philanthropist"
+        },
+        {
+          "type": "related",
+          "target": "university-of-michigan-medical-school",
+          "label": "the University of Michigan"
+        },
+        {
+          "type": "related",
+          "target": "randolph",
+          "label": "Randolph"
+        },
+        {
+          "type": "related",
+          "target": "personality",
+          "label": "personality expansion"
+        },
+        {
+          "type": "related",
+          "target": "journal",
+          "label": "journal"
+        },
+        {
+          "type": "related",
+          "target": "nancy-ashford",
+          "label": "Nancy Ashford"
+        }
+      ]
+    },
+    {
+      "id": "wealth",
+      "type": "concept",
+      "label": "Wealth",
+      "description": "Material affluence as a social marker and moral burden in the novel's thematic framework.",
+      "aliases": [
+        "财富",
+        "Riches"
+      ],
+      "tags": [
+        "social-concept",
+        "chapter-1",
+        "chapter-11"
+      ],
+      "quality": "basic",
+      "source_ref": "magnificent-obsession:wealth",
+      "relations": [
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bobby Merrick"
+        },
+        {
+          "type": "related",
+          "target": "genius",
+          "label": "Genius"
+        },
+        {
+          "type": "related",
+          "target": "sacrifice",
+          "label": "Sacrifice"
+        }
+      ]
+    },
+    {
+      "id": "windymere",
+      "type": "place",
+      "label": "\"Windymere\"",
+      "description": "\"The estate of Nicholas Merrick, Bobby's grandfather, on the shore of the lake — a symbol of the wealth and privilege Bobby must transcend.\"",
+      "aliases": [
+        "the Merrick estate",
+        "grandfather house"
+      ],
+      "tags": [
+        "pilot",
+        "place"
+      ],
+      "quality": "standard",
+      "source_ref": "magnificent-obsession:windymere",
+      "relations": [
+        {
+          "type": "related",
+          "target": "nicholas-merrick",
+          "label": "Nicholas Merrick"
+        },
+        {
+          "type": "related",
+          "target": "bobby-merrick",
+          "label": "Bob"
+        }
+      ]
+    }
+  ]
+}

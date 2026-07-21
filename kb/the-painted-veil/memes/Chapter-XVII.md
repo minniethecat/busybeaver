@@ -1,0 +1,31 @@
+---
+description: "Chapter XVII — The Painted Veil by W. Somerset Maugham"
+id: Chapter-XVII
+label: "Chapter XVII"
+tags: ["chapter"]
+type: chapter
+---
+
+# Chapter XVII
+
+[017-001]Of course it was not certain yet that [[walter-fane|Walter]] knew the truth, and if he didn’t it was better perhaps to leave well alone; but if he did, well, in the end it would be the best thing for all of them. At first she had been, if not satisfied, at least resigned to seeing Charlie only by stealth; but time had increased her [[love|passion]] and for some while now she had been increasingly impatient of the obstacles which prevented them from being always together. He had told her so often that he cursed his position which forced him to be so discreet, the ties which bound him, and the ties which bound her: how marvellous it would have been, he said, if they were both free! She saw his point of view; no one wanted a scandal, and of course it required a good deal of thinking over before you changed the course of your life; but if freedom were thrust upon them, ah, then, how simple everything would be!
+
+[017-002]It was not as though anyone would suffer very much. She knew exactly what his relations were with his wife. She was a cold woman and there had been no love between them for years. It was habit that held them together, convenience, and of course the children. It was easier for Charlie than for her: Walter loved her; but after all, he was absorbed in his work; and a man always had his club, he might be upset at first, but he would get over it; there was no reason why he should not marry somebody else. Charlie had told her that he could not make out how she came to throw herself away on Walter Fane.
+
+[017-003]She wondered, half smiling, why a little while before she had been terrified at the thought that Walter had caught them. Of course it was startling to see the handle of the door slowly turn. But after all they knew the worst that Walter could do, and they were ready for it. Charlie would feel as great a relief as she that what they both desired more than anything in the world should be thus forced upon them.
+
+[017-004]Walter was a gentleman, she would do him the justice to acknowledge that, and he loved her; he would do the right thing and allow her to divorce him. They had made a mistake and the lucky thing was that they had found it out before it was too late. She made up her mind exactly what she was going to say to him and how she would treat him. She would be kind, smiling, and firm. There was no need for them to quarrel. Later on she would always be glad to see him. She hoped honestly that the two years they had spent together would remain with him as a priceless memory.
+
+[017-005]“I don’t suppose [[dorothy-townsend|Dorothy Townsend]] will mind divorcing Charlie a bit,” she thought. “Now the youngest boy is going back to [[london|England]] it will be much nicer for her to be in England too. There’s absolutely nothing for her to do in [[hong-kong|Hong Kong]]. She’ll be able to spend all the holidays with her boys. And then she’s got her father and mother in England.”
+
+[017-006]It was all very simple and everything could be managed without scandal or [[resentment|ill-feeling]]. And then she and Charlie could marry. [[kitty-fane|Kitty]] drew a long sigh. They would be very happy. It was worth going through a certain amount of bother to achieve that. Confusedly, one picture jostling another, she thought of the life they would lead together, of the fun they would have and the little journeys they would take together, the house they would live in, the positions he would rise to and the help she would be to him. He would be very proud of her and she, she adored him.
+
+[017-007]But through all these daydreams ran a current of apprehension. It was funny: it was as though the wood and the strings of an orchestra played Arcadian melodies and in the bass the drums, softly but with foreboding, beat a grim tattoo. Sooner or later Walter must come home and her heart beat fast at the thought of meeting him. It was strange that he had gone away that afternoon without saying a word to her. Of course she was not frightened of him; after all what could he do, she repeated to herself; but she could not quite allay her uneasiness. Once more she repeated what she would say to him. What was the good of making a scene? She was very sorry, Heaven knew she didn’t want to cause him pain, but she couldn’t help it if she didn’t love him. It was no good pretending and it was always better to tell the truth. She hoped he wouldn’t be unhappy, but they had made a mistake and the only sensible thing was to acknowledge it. She would always think kindly of him.
+
+[017-008]But even as she said this to herself a sudden gust of fear made the sweat start out in the palms of her hands. And because she was frightened she grew angry with him. If he wanted to make a scene, that was his lookout; he must not be surprised if he got more than he bargained for. She would tell him that she had never cared two pins for him and that not a day had passed since their marriage without her regretting it. He was dull. Oh, how he’d bored her, bored her, bored her! He thought himself so much better than anyone else, it was laughable; he had no sense of humour; she hated his supercilious air, his coldness, and his self-control. It was easy to be self-controlled when you were interested in nothing and nobody but yourself. He was repulsive to her. She hated to let him kiss her. What had he to be so conceited about? He danced rottenly, he was a wet blanket at a party, he couldn’t play or sing, he couldn’t play polo and his tennis was no better than anybody else’s. Bridge? Who cared about bridge?
+
+[017-009]Kitty worked herself up into a towering [[desire|passion]]. Let him dare to reproach her. All that had happened was his own fault. She was thankful that he knew the truth at last. She hated him and wished never to see him again. Yes, she was thankful that it was all over. Why couldn’t he leave her alone? He had pestered her into marrying him and now she was fed up.
+
+[017-010]“Fed up,” she repeated aloud, trembling with anger. “Fed up! Fed up!”
+
+[017-011]She heard the car draw up to the gate of their garden. He was coming up the stairs.

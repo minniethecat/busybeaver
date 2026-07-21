@@ -1,0 +1,29 @@
+---
+description: "I have described in the last chapter how Kasturbai’s illness was instrumental in bringing about some changes in my di..."
+id: ch107-xxx-towards-self-restraint
+label: "Chapter 107: XXX: Towards Self-Restraint"
+tags: ["chapter"]
+type: chapter
+---
+
+# XXX: Towards Self-Restraint
+
+[107-001] I have described in the last chapter how [[kasturba-gandhi|Kasturbai]]’s illness was instrumental in bringing about some changes in my diet. At a later stage more changes were introduced for the sake of supporting brahmacharya.
+
+[107-002] The first of these was the giving up of milk. It was from [[raychandbhai|Raychandbhai]] that I first learnt that milk stimulated animal passion. Books on vegetarianism strengthened the idea, but so long as I had not taken the brahmacharya vow I could not make up my mind to forego milk. I had long realized that milk was not necessary for supporting the body, but it was not easy to give it up. While the necessity for avoiding milk in the interests of self-restraint was growing upon me, I happened to come across some literature from [[calcutta|Calcutta]], describing the tortures to which cows and buffaloes were subjected by their keepers. This had a wonderful effect on me. I discussed it with Mr. [[hermann-kallenbach|Kallenbach]].
+
+[107-003] Though I have introduced Mr. Kallenbach to the readers of the history of satyagraha in South Africa, and referred to him in a previous chapter, I think it necessary to say something more about him here. We met quite by accident. He was a friend of Mr. Khan’s, and as the latter had discovered deep down in him a vein of otherworldliness he introduced him to me.
+
+[107-004] When I came to know him I was startled at his love of luxury and extravagance. But at our very first meeting, he asked searching questions concerning matters of religion. We incidentally talked of Gautama Buddha’s renunciation. Our acquaintance soon ripened into very close friendship, so much so that we thought alike, and he was convinced that he must carry out in his life the changes I was making in mine.
+
+[107-005] At that time he was single, and was expending Rs. 1,200 monthly on himself, over and above house rent. Now he reduced himself to such simplicity that his expenses came to Rs. 120 per month. After the breaking up of my household and my first release from jail, we began to live together. It was a fairly hard life that we led.
+
+[107-006] It was during this time that we had the discussion about milk. Mr. Kallenbach said, “We constantly talk about the harmful effeas of milk. Why then do not we give it up? It is certainly not necessary.” I was agreeably surprised at the suggestion, which I warmly welcomed, and both of us pledged ourselves to abjure milk there and then. This was at [[tolstoy-farm|Tolstoy Farm]] in the year 1912.
+
+[107-007] But this denial was not enough to satisfy me. Soon after this I decided to live on a pure fruit diet, and that too composed of the cheapest fruit possible. Our ambition was to live the life of the poorest people.
+
+[107-008] The fruit diet turned out to be very convenient also. Cooking was practically done away with. Raw groundnuts, bananas, dates, lemons, and olive oil composed our usual diet.
+
+[107-009] I must here utter a warning for the aspirants of brahmacharya. Though I have made out an intimate connection between diet and brahmacharya, it is certain that mind is the principal thing. A mind consciously unclean cannot be cleansed by fasting. Modifications in diet have no effect on it. The concupiscence of the mind cannot be rooted out except by intense self-examination, surrender to [[truth|God]], and lastly, grace. But there is an intimate connection between the mind and the body, and the carnal mind always lusts for delicacies and luxuries. To obviate this tendency dietetic restrictions and fasting would appear to be necessary. The carnal mind, instead of controlling the senses, becomes their slave, and therefore the body always needs clean non-stimulating foods and periodical fasting.
+
+[107-010] Those who make light of dietetic restrictions and fasting are as much in error as those who stake their all on them. My experience teaches me that, for those whose minds are working towards self-restraint, dietetic restrictions and fasting are very helpful. In fact without their help concupiscence cannot be completely rooted out of the mind.

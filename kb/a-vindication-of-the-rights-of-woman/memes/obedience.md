@@ -1,49 +1,40 @@
 ---
+description: "Wollstonecraft's critique of obedience as a demanded female virtue — the expectation that women should submit without question to male authority, which she argues is incompatible with rational agency and genuine moral development."
 id: obedience
-label: Obedience
+label: "Obedience"
+tags: ["concept", "ethics"]
 type: concept
-description: 'Wollstonecraft''s critique of blind obedience as a false virtue imposed on women, which she contrasts with the rational submission to duty grounded in understanding'
-tags: ["virtue", "critique", "education", "authority", "women"]
 ---
-
-Throughout the *Vindication*, Wollstonecraft mounts a sustained attack on **obedience** — specifically "blind obedience" (002-027) and "passive obedience" (002-072) — as the defining demand placed upon women by a society that denies them reason. She argues that demanding obedience without cultivating understanding degrades both the obedient and those who command, replacing the moral relationship of rational beings with the coercive relationship of master and subject.
 
 ## Definition
 
-Wollstonecraft distinguishes critically between two forms of obedience: the blind, passive obedience demanded of women as a social virtue, and the rational submission to duty that arises from understanding and conviction. The former she condemns as a mechanism of subordination; the latter she affirms as consistent with moral agency. "Blind obedience," she writes, "is ever sought for by power" (011-002), exposing the political function of this supposedly moral demand.
+Obedience, in Wollstonecraft's analysis, is one of the primary [[virtue|virtues]] demanded of women — and one of the most corrosive. She critiques "docile blind obedience" [002-004] as a posture that degrades women to "gentle, domestic brutes" [002-005], denying them the rational agency necessary for moral development. The expectation of obedience is not neutral: it is embedded in a broader system of male authority that Wollstonecraft traces from [[john-milton|Milton]]'s Eve ("God is thy law, thou mine" [002-010]) to the conduct books of her own day.
 
-She traces how women are trained from childhood in "notions of passive obedience" (002-072), absorbing the lesson that compliance, not understanding, is their highest duty. This training, she argues, produces women incapable of genuine moral action because they have never been permitted to exercise the judgment that distinguishes right from wrong. As she notes pointedly, "obedience, unconditional obedience, is the catch-word of tyrants" (010-001) — a formulation that equates the demand for female obedience with political despotism.
+Wollstonecraft particularly objects to the formulation that women should "govern by obeying" — the idea that feminine influence is exercised through strategic submission. She calls this "winning softness... that governs by obeying" [002-005] a set of "childish expressions," asking rhetorically: "how insignificant is the being — can it be an immortal one? who will condescend to govern by such sinister methods!" The phrase captures her core argument: obedience, even when strategically deployed, cannot substitute for genuine moral agency.
 
-## Wollstonecraft's Argument
+## In Context
 
-Wollstonecraft's argument against obedience operates through a series of escalating critiques. At its foundation is the claim that blind obedience is incompatible with moral agency: a being who merely obeys cannot be said to act virtuously because virtue requires understanding and choice. She declares that "there will be an end to blind obedience" (002-027) when women are educated to reason, linking the disappearance of coerced compliance directly to the emergence of female rationality.
+The critique of obedience is most concentrated in Chapter II, where Wollstonecraft dissects the prevailing opinion of [[character|sexual character]]. She quotes [[john-milton|Milton]]'s Eve — "Unargued I obey; so God ordains" [002-010] — as the archetypal expression of female submission, then counters: these "are exactly the arguments that I have used to children" [002-012]. The implication is clear: demanding obedience from adult women is to treat them as perpetual children.
 
-The second level of her critique is social. Wollstonecraft observes how the demand for obedience corrupts relationships between the sexes. When a wife is expected to give "slavish obedience" (009-039), marriage becomes a relation of command and submission rather than rational companionship. She argues that men, too, are degraded by this arrangement: exercising arbitrary power over women prevents them from developing the qualities of a genuinely rational companion.
-
-The third level is structural. Wollstonecraft identifies the patriarchal family as a training ground for political tyranny: "they demand blind obedience, because they do not merit a reasonable compliance" (011-002). The demand for obedience, in her analysis, reveals not the virtue of the obeyer but the inadequacy of those who must compel what they cannot earn through reason and merit.
-
-### Contrast with Contemporary Views
-
-Wollstonecraft's treatment of obedience directly inverts Rousseau's prescription in *Émile*, where Sophie is educated to obey. Rousseau insisted that "the grand lesson" for women is obedience (002-031), and Wollstonecraft quotes him directly to expose the tyrannical implications of this pedagogy. She also counters the broader eighteenth-century assumption that female obedience is natural, arguing instead that it is "inculcated" (002-072) through systematic training. Her alternative — that women should obey only what reason and conscience command — places her in direct opposition to the entire conduct-book tradition that equated female virtue with compliance.
+In Chapter III she connects the demand for obedience to the physical confinement of women's bodies, and in Chapter IV she traces how the habit of obedience corrupts [[character]], producing the very "follies and caprices" [002-003] that men then cite as evidence of women's inferiority.
 
 ## Key Passages
 
-> There will be an end to blind obedience; but, as blind obedience is ever sought for by power, tyrants and sensualists are in the right when they endeavour to keep women in the dark. (002-027)
+> "...though when he tells us that women are formed for softness and sweet attractive grace, I cannot comprehend his meaning, unless, in the true Muhammadan strain, he meant to deprive us of souls, and insinuate that we were beings only designed by sweet attractive grace, and docile blind obedience, to gratify the senses of man." [002-004]
 
-> Obedience, unconditional obedience, is the catch-word of tyrants of every denomination. (010-001)
+> "How grossly do they insult us, who thus advise us only to render ourselves gentle, domestic brutes! For instance, the winning softness, so warmly, and frequently recommended, that governs by obeying." [002-005]
 
-> They demand blind obedience, because they do not merit a reasonable compliance. (011-002)
+> "These are exactly the arguments that I have used to children; but I have added, 'Your reason is now gaining strength, and, till it arrives at some degree of maturity, you must look up to me for advice: then you ought to think, and only rely on God.'" [002-012]
 
 ## Related Concepts
 
-- [[Reason]] — the faculty that must replace blind obedience as the guide to conduct
-- [[Duty]] — the rational obligation that Wollstonecraft distinguishes from enforced obedience
-- [[Liberty]] — the condition of moral agents, opposed to the servitude of blind obedience
-- [[Education]] — the means by which women can be freed from the demand for passive compliance
-- [[Power]] — the social relation that demands obedience as its instrument
+- [[tyranny]] — the demand for obedience is an expression of domestic tyranny
+- [[reason]] — obedience without [[reason]] is the condition of brutes, not rational beings
+- [[virtue]] — genuine [[virtue]] cannot coexist with enforced obedience; it requires free moral choice
+- [[education]] — proper [[education]] cultivates independent judgment, not obedience
+- [[strength]] — the habit of obedience weakens the mind, just as the cultivation of [[reason]] strengthens it
 
-## See Also
+## Related Persons
 
-- [[Jean-Jacques Rousseau]] — whose prescription of female obedience Wollstonecraft directly refutes
-- [[Marriage]] — the institution within which Wollstonecraft critiques the demand for wifely obedience
-- [[Tyranny]] — the political analogue to domestic demand for blind obedience
+- [[john-milton]] — his depiction of Eve's obedience in *[[paradise-lost|Paradise Lost]]* is Wollstonecraft's primary target
+- [[rousseau]] — his [[education]]al philosophy reinforces the expectation of female obedience

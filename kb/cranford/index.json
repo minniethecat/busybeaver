@@ -1,0 +1,5408 @@
+{
+  "book": "cranford",
+  "title": "Cranford",
+  "description": "Cranford — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 134,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Cranford\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "cranford:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "chapter",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "cranford:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01",
+          "label": "ch01"
+        },
+        {
+          "type": "related",
+          "target": "ch02",
+          "label": "ch02"
+        },
+        {
+          "type": "related",
+          "target": "ch03",
+          "label": "ch03"
+        },
+        {
+          "type": "related",
+          "target": "ch04",
+          "label": "ch04"
+        },
+        {
+          "type": "related",
+          "target": "ch05",
+          "label": "ch05"
+        },
+        {
+          "type": "related",
+          "target": "ch06",
+          "label": "ch06"
+        },
+        {
+          "type": "related",
+          "target": "ch07",
+          "label": "ch07"
+        },
+        {
+          "type": "related",
+          "target": "ch08",
+          "label": "ch08"
+        },
+        {
+          "type": "related",
+          "target": "ch09",
+          "label": "ch09"
+        },
+        {
+          "type": "related",
+          "target": "ch10",
+          "label": "ch10"
+        },
+        {
+          "type": "related",
+          "target": "ch11",
+          "label": "ch11"
+        },
+        {
+          "type": "related",
+          "target": "ch12",
+          "label": "ch12"
+        },
+        {
+          "type": "related",
+          "target": "ch13",
+          "label": "ch13"
+        },
+        {
+          "type": "related",
+          "target": "ch14",
+          "label": "ch14"
+        },
+        {
+          "type": "related",
+          "target": "ch15",
+          "label": "ch15"
+        },
+        {
+          "type": "related",
+          "target": "ch16",
+          "label": "ch16"
+        },
+        {
+          "type": "related",
+          "target": "ch17",
+          "label": "ch17"
+        },
+        {
+          "type": "related",
+          "target": "ch18",
+          "label": "ch18"
+        },
+        {
+          "type": "related",
+          "target": "ch19",
+          "label": "ch19"
+        },
+        {
+          "type": "related",
+          "target": "ch20",
+          "label": "ch20"
+        },
+        {
+          "type": "related",
+          "target": "ch21",
+          "label": "ch21"
+        },
+        {
+          "type": "related",
+          "target": "ch22",
+          "label": "ch22"
+        },
+        {
+          "type": "related",
+          "target": "ch23",
+          "label": "ch23"
+        },
+        {
+          "type": "related",
+          "target": "ch24",
+          "label": "ch24"
+        },
+        {
+          "type": "related",
+          "target": "ch25",
+          "label": "ch25"
+        },
+        {
+          "type": "related",
+          "target": "ch26",
+          "label": "ch26"
+        },
+        {
+          "type": "related",
+          "target": "ch27",
+          "label": "ch27"
+        },
+        {
+          "type": "related",
+          "target": "ch28",
+          "label": "ch28"
+        },
+        {
+          "type": "related",
+          "target": "ch29",
+          "label": "ch29"
+        },
+        {
+          "type": "related",
+          "target": "ch30",
+          "label": "ch30"
+        },
+        {
+          "type": "related",
+          "target": "ch31",
+          "label": "ch31"
+        },
+        {
+          "type": "related",
+          "target": "ch32",
+          "label": "ch32"
+        },
+        {
+          "type": "related",
+          "target": "ch33",
+          "label": "ch33"
+        },
+        {
+          "type": "related",
+          "target": "ch34",
+          "label": "ch34"
+        }
+      ]
+    },
+    {
+      "id": "aristocracy-in-cranford",
+      "type": "concept",
+      "label": "Aristocracy in Cranford",
+      "description": "Cranford's complex relationship with the aristocracy — reverence, fascination, and the quiet democratic argument that character matters more than rank",
+      "aliases": [
+        "aristocracy",
+        "nobility",
+        "aristocratic connection",
+        "titled persons"
+      ],
+      "tags": [
+        "social-class",
+        "identity",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:aristocracy-in-cranford",
+      "relations": []
+    },
+    {
+      "id": "arley-hall",
+      "type": "place",
+      "label": "Arley Hall",
+      "description": "Arley Hall, the estate of Sir Peter Arley — the aristocratic model against which Miss Jenkyns measured the rectory, and a symbol of the county society that exists beyond Cranford's horizon.",
+      "aliases": [
+        "Sir Peter Arley's"
+      ],
+      "tags": [
+        "aristocracy",
+        "estate",
+        "aspiration",
+        "social-model"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:arley-hall",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-rectory",
+          "label": "the-rectory"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "bank-failure-of-cranford",
+      "type": "event",
+      "label": "bank-failure-of-cranford",
+      "description": "The collapse of the Town and County Bank in Drumble was the central economic crisis of the novel, reducing Miss Matty Jenkyns from modest independence to near-destitution and testing the community's capacity for collective support.",
+      "aliases": [
+        "the bank failure",
+        "Miss Matty's ruin"
+      ],
+      "tags": [
+        "banking",
+        "economic crisis",
+        "Drumble",
+        "Miss Matty",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:bank-failure-of-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "drumble",
+          "label": "Drumble"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel way of life"
+        }
+      ]
+    },
+    {
+      "id": "candlelight",
+      "type": "concept",
+      "label": "Candlelight",
+      "description": "The Cranford practice of managing candles as a core expression of elegant economy and social self-presentation — a system of \"many devices to use as few as possible.\"",
+      "aliases": [
+        "candle economy",
+        "candle management",
+        "lighting economy"
+      ],
+      "tags": [
+        "economy",
+        "social-custom",
+        "domestic-life"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:candlelight",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "parties-in-cranford",
+          "label": "parties-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "captain-brown",
+      "type": "person",
+      "label": "Captain Brown",
+      "description": "A retired army captain whose arrival in Cranford and sudden death by railway accident are pivotal events in the novel's early chapters.",
+      "aliases": [],
+      "tags": [
+        "military",
+        "newcomer",
+        "tragedy"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:captain-brown",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "miss-jessie-brown",
+          "label": "miss-jessie-brown"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        }
+      ]
+    },
+    {
+      "id": "captain-brown-death",
+      "type": "event",
+      "label": "The Death of Captain Brown",
+      "description": "The sudden and heroic death of Captain Brown, killed by a train while saving a child — the novel's first major tragedy, a moment that transforms Cranford's attitude toward the railway, and the event that reveals the town's capacity for collective mourning.",
+      "aliases": [
+        "Captain Brown's death",
+        "the railway accident"
+      ],
+      "tags": [
+        "death",
+        "tragedy",
+        "heroism",
+        "railway",
+        "sacrifice",
+        "reading"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:captain-brown-death",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "reading-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "death-in-cranford",
+          "label": "death-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-jessie-brown",
+          "label": "miss-jessie-brown"
+        }
+      ]
+    },
+    {
+      "id": "ch01",
+      "type": "chapter",
+      "label": "\"Section 1\"",
+      "description": "\"CRANFORD by Elizabeth Cleghorn Gaskell  With twenty-five coloured illustrations by C. E. Brock  1904 London. J. M.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "parties-in-cranford",
+          "label": "evening parties"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "servants-in-cranford",
+          "label": "maid-servants"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinster"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "the Honourable Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "elegant economy"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        }
+      ]
+    },
+    {
+      "id": "ch02",
+      "type": "chapter",
+      "label": "\"Section 2\"",
+      "description": "\"It was on this subject: An old lady had an Alderney cow, which she looked upon as a daughter.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-cranford-cow",
+          "label": "Alderney cow"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        }
+      ]
+    },
+    {
+      "id": "ch03",
+      "type": "chapter",
+      "label": "\"Section 3\"",
+      "description": "\"“I should be very sorry for him to exchange his style for any such pompous writing,” said Captain Brown.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matilda Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "ch04",
+      "type": "chapter",
+      "label": "\"Section 4\"",
+      "description": "\"“She suffers a great deal, and she must suffer more: we do what we can to alleviate her pain;—God’s will be done!” He to.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        }
+      ]
+    },
+    {
+      "id": "ch05",
+      "type": "chapter",
+      "label": "\"Section 5\"",
+      "description": "\"She was conscious of her sister’s presence, though not, I think, of ours.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Mrs Gordon"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "correspondence"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        }
+      ]
+    },
+    {
+      "id": "ch06",
+      "type": "chapter",
+      "label": "\"Section 6\"",
+      "description": "\"My visit to Miss Pole was very quiet.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "ceremony"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "ch07",
+      "type": "chapter",
+      "label": "\"Section 7\"",
+      "description": "\"“Leave me, leave me to repose.” And now I come to the love affair.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Thomas Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "woodley",
+          "label": "Woodley"
+        },
+        {
+          "type": "related",
+          "target": "cranford-high-street",
+          "label": "High Street"
+        },
+        {
+          "type": "related",
+          "target": "shire-lane",
+          "label": "Shire Lane"
+        },
+        {
+          "type": "related",
+          "target": "love-and-courtship",
+          "label": "romance"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea-time"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        }
+      ]
+    },
+    {
+      "id": "ch08",
+      "type": "chapter",
+      "label": "\"Section 8\"",
+      "description": "\"When the ducks and green peas came, we looked at each other in dismay; we had only two-pronged, black-handled forks.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        }
+      ]
+    },
+    {
+      "id": "ch09",
+      "type": "chapter",
+      "label": "\"Section 9\"",
+      "description": "\"I went to see Miss Pole the next day, and took her completely by surprise, for she had not been to see Miss Matilda for.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Thomas Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea-time"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "arley-hall",
+          "label": "Arley Hall"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widows"
+        },
+        {
+          "type": "related",
+          "target": "candlelight",
+          "label": "candle economy"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "letters-and-correspondence",
+          "label": "old letters"
+        }
+      ]
+    },
+    {
+      "id": "ch10",
+      "type": "chapter",
+      "label": "\"Section 10\"",
+      "description": "\"The earliest set of letters were two bundles tied together, and ticketed (in Miss Jenkyns’s handwriting) “Letters interc.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matty"
+        },
+        {
+          "type": "related",
+          "target": "arley-hall",
+          "label": "Arley Hall"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "ceremony"
+        }
+      ]
+    },
+    {
+      "id": "ch11",
+      "type": "chapter",
+      "label": "\"Section 11\"",
+      "description": "\"I can’t quite remember the date, but I think it was in 1805 that Miss Jenkyns wrote the longest series of letters—on occ.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "Peter Marmaduke Arley Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        }
+      ]
+    },
+    {
+      "id": "ch12",
+      "type": "chapter",
+      "label": "\"Section 12\"",
+      "description": "\"“My dear, that boy’s trick, on that sunny day, when all seemed going straight and well, broke my mother’s heart, and cha.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "the-jenkyns-rectory",
+          "label": "the rectory"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        }
+      ]
+    },
+    {
+      "id": "ch13",
+      "type": "chapter",
+      "label": "\"Section 13\"",
+      "description": "\"“But, you see, he saw what we did not—that it was killing my mother.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letter-writing"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-barker",
+          "label": "Miss Barker"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocratic connection"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        }
+      ]
+    },
+    {
+      "id": "ch14",
+      "type": "chapter",
+      "label": "\"Section 14\"",
+      "description": "\"“Yes. Mrs Jamieson most kindly and condescendingly said she would be happy to come.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "the-cranford-ladies",
+          "label": "Cranford society"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinster"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-barker",
+          "label": "Miss Barker"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "the tea-tray"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "benevolence"
+        }
+      ]
+    },
+    {
+      "id": "ch15",
+      "type": "chapter",
+      "label": "\"Section 15\"",
+      "description": "\"“It is very gratifying to me,” whispered Miss Barker at the card-table to her three opponents, whom, notwithstanding he.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-barker",
+          "label": "Miss Barker"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "literature"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        }
+      ]
+    },
+    {
+      "id": "ch16",
+      "type": "chapter",
+      "label": "\"Section 16\"",
+      "description": "\"“Hush, Martha!” said Miss Matty, “that’s not respectful.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "miss-barker",
+          "label": "Miss Barker"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "literature"
+        }
+      ]
+    },
+    {
+      "id": "ch17",
+      "type": "chapter",
+      "label": "\"Section 17\"",
+      "description": "\"We were all very silent at first.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "charity"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "the Cranford Assembly Rooms"
+        }
+      ]
+    },
+    {
+      "id": "ch18",
+      "type": "chapter",
+      "label": "\"Section 18\"",
+      "description": "\"I was very glad to accept the invitation from my dear Miss Matty, independently of the conjuror, and most particularly a.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "the Assembly Room"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        }
+      ]
+    },
+    {
+      "id": "ch19",
+      "type": "chapter",
+      "label": "\"Section 19\"",
+      "description": "\"We stopped short at the second front row; I could hardly understand why, until I heard Miss Pole ask a stray waiter if a.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsters"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "robberies"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "bravery"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "the-george-inn",
+          "label": "George Inn"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        }
+      ]
+    },
+    {
+      "id": "ch20",
+      "type": "chapter",
+      "label": "\"Section 20\"",
+      "description": "\"Really I do not know how much was true or false in the reports which flew about like wildfire just at this time; but it.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "bravery"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "servants-in-cranford",
+          "label": "maid-servants"
+        }
+      ]
+    },
+    {
+      "id": "ch21",
+      "type": "chapter",
+      "label": "\"Section 21\"",
+      "description": "\"If Miss Pole was delighted to recount the events of that afternoon to all inquirers, others were not so proud of their a.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "the-cranford-ladies",
+          "label": "Cranford society"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "darkness-lane",
+          "label": "Darkness Lane"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "church-in-cranford",
+          "label": "religion"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        }
+      ]
+    },
+    {
+      "id": "ch22",
+      "type": "chapter",
+      "label": "\"Section 22\"",
+      "description": "\"We preserved a discreet silence as to the headless lady while we were putting on our things to go home, for there was no.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "darkness-lane",
+          "label": "Darkness Lane"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matty"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        }
+      ]
+    },
+    {
+      "id": "ch23",
+      "type": "chapter",
+      "label": "\"Section 23\"",
+      "description": "\"I found Miss Matty covering her penny ball—the ball that she used to roll under her bed—with gay-coloured worsted in rai.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "robberies"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "ch24",
+      "type": "chapter",
+      "label": "\"Section 24\"",
+      "description": "\"“And you reached Calcutta safely at last?” “Yes, safely! Oh! when I knew I had only two days’ journey more before me, I.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "Aga Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "pets-in-cranford",
+          "label": "animals"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        }
+      ]
+    },
+    {
+      "id": "ch25",
+      "type": "chapter",
+      "label": "\"Section 25\"",
+      "description": "\"‘Set her on the Tintock tap, The wind will blaw a man till her.’” “That was because ‘Tibbie Fowler’ was rich, I think.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "the-cranford-ladies",
+          "label": "Cranford society"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsters"
+        },
+        {
+          "type": "related",
+          "target": "cranford-high-street",
+          "label": "High Street"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the panic"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "bravery"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "Aga Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "ceremony"
+        }
+      ]
+    },
+    {
+      "id": "ch26",
+      "type": "chapter",
+      "label": "\"Section 26\"",
+      "description": "\"I have wandered a long way from the two letters that awaited us on the breakfast-table that Tuesday morning.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "Town and County Bank"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        }
+      ]
+    },
+    {
+      "id": "ch27",
+      "type": "chapter",
+      "label": "\"Section 27\"",
+      "description": "\"“I will give you five sovereigns for your note, my good man,” said Miss Matty.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "Town and County Bank"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "Aga Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        }
+      ]
+    },
+    {
+      "id": "ch28",
+      "type": "chapter",
+      "label": "\"Section 28\"",
+      "description": "\"“I’ll never leave her! No; I won’t.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "ch29",
+      "type": "chapter",
+      "label": "\"Section 29\"",
+      "description": "\"“Please, ma’am, he’s only Jem Hearn,” said Martha, by way of an introduction; and so out of breath was she that I imagin.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matilda Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        }
+      ]
+    },
+    {
+      "id": "ch30",
+      "type": "chapter",
+      "label": "\"Section 30\"",
+      "description": "\"When the ceremony had been gone through, I rose to depart; but each lady seemed to wish to have a private conference wit.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "ceremony"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "arley-hall",
+          "label": "Arley Hall"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "the-rectory",
+          "label": "the old rectory"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "Town and County Bank"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        }
+      ]
+    },
+    {
+      "id": "ch31",
+      "type": "chapter",
+      "label": "\"Section 31\"",
+      "description": "\"CHAPTER XV. A HAPPY RETURN BEFORE I left Miss Matty at Cranford everything had been comfortably arranged for her.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Lady Glenmire"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "the-jenkyns-rectory",
+          "label": "the rectory"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "books"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "id": "ch32",
+      "type": "chapter",
+      "label": "\"Section 32\"",
+      "description": "\"But I was right. I think that must be an hereditary quality, for my father says he is scarcely ever wrong.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        }
+      ]
+    },
+    {
+      "id": "ch33",
+      "type": "chapter",
+      "label": "\"Section 33\"",
+      "description": "\"I don’t believe Mr Peter came home from India as rich as a nabob; he even considered himself poor, but neither he nor Mi.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "mrs-forrester",
+          "label": "Mrs Forrester"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "Mr Hoggins"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "Mr Holbrook"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "Martha"
+        },
+        {
+          "type": "related",
+          "target": "woodley",
+          "label": "Woodley"
+        },
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letters"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Mrs Gordon"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "Captain Brown"
+        }
+      ]
+    },
+    {
+      "id": "ch34",
+      "type": "chapter",
+      "label": "\"Section 34\"",
+      "description": "\"But when I arrived in Cranford, nothing was as yet ascertained of Mrs Jamieson’s own intentions; would the honourable la.\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "cranford:ch34",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "Miss Pole"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "Mrs Gordon"
+        },
+        {
+          "type": "related",
+          "target": "mrs-fitz-adam",
+          "label": "Mrs Fitz-Adam"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "widowhood-in-cranford",
+          "label": "widow"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "the Assembly Room"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "pets-in-cranford",
+          "label": "animals"
+        },
+        {
+          "type": "related",
+          "target": "the-cranford-ladies",
+          "label": "Cranford society"
+        }
+      ]
+    },
+    {
+      "id": "characters-index",
+      "type": "list",
+      "label": "Characters Index",
+      "description": "Complete index of all characters appearing in Elizabeth Gaskell's Cranford, dynamically generated from the wiki knowledge base.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "characters"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:characters-index",
+      "relations": []
+    },
+    {
+      "id": "christmas-in-cranford",
+      "type": "concept",
+      "label": "christmas-in-cranford",
+      "description": "The observance of Christmas in Cranford — a blend of genteel tradition, neighbourly charity, and quiet domestic ritual that reflects the town's distinctive social character.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:christmas-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sunday-in-cranford",
+          "label": "sunday-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "reading-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "church-in-cranford",
+      "type": "concept",
+      "label": "Church in Cranford",
+      "description": "The role of the parish church in Cranford — as social stage, moral anchor, and site of community display",
+      "aliases": [
+        "religion",
+        "parish-church",
+        "Sunday-worship"
+      ],
+      "tags": [
+        "church",
+        "religion",
+        "Sunday",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:church-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sunday-in-cranford",
+          "label": "sunday-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "kindness-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "concepts-index",
+      "type": "list",
+      "label": "Concepts Index",
+      "description": "Index of social customs, cultural practices, and thematic concepts explored in Elizabeth Gaskell's Cranford.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "concepts"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:concepts-index",
+      "relations": []
+    },
+    {
+      "id": "courage",
+      "type": "concept",
+      "label": "Courage",
+      "description": "The peculiar forms of courage practiced by the Cranford ladies — from confronting the fear of cow-invasion to the moral bravery of facing financial ruin with dignity",
+      "aliases": [
+        "bravery",
+        "fortitude",
+        "moral courage",
+        "Cranford courage"
+      ],
+      "tags": [
+        "morality",
+        "gender",
+        "social-custom"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:courage",
+      "relations": []
+    },
+    {
+      "id": "cranford-high-street",
+      "type": "place",
+      "label": "Cranford High Street",
+      "description": "Cranford's High Street, the town's central urban artery — site of the fashion show-room, Gordon's shop, chance encounters, and the public theatre of Cranford social life.",
+      "aliases": [
+        "High Street",
+        "the main street"
+      ],
+      "tags": [
+        "urban-space",
+        "commerce",
+        "fashion",
+        "social-stage",
+        "street"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:cranford-high-street",
+      "relations": [
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "fashion-in-cranford",
+          "label": "fashion-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "mr-holbrook"
+        }
+      ]
+    },
+    {
+      "id": "cranford-town",
+      "type": "place",
+      "label": "Cranford",
+      "description": "The fictional English town that is the primary setting of Elizabeth Gaskell's novel",
+      "aliases": [
+        "Cranford town"
+      ],
+      "tags": [
+        "setting",
+        "town",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:cranford-town",
+      "relations": []
+    },
+    {
+      "id": "curiosity",
+      "type": "concept",
+      "label": "Curiosity",
+      "description": "The Cranford ladies' intense appetite for news, visitors, and secrets — curiosity as social currency and community glue",
+      "aliases": [
+        "inquisitiveness",
+        "news-hunger",
+        "Cranford curiosity"
+      ],
+      "tags": [
+        "social-custom",
+        "communication",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:curiosity",
+      "relations": []
+    },
+    {
+      "id": "darkness-lane",
+      "type": "place",
+      "label": "Darkness Lane",
+      "description": "A dark and lonely lane in Cranford, notorious among the ladies for its dangers real and imagined, serving as a test of courage and loyalty.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:darkness-lane",
+      "relations": []
+    },
+    {
+      "id": "death-in-cranford",
+      "type": "concept",
+      "label": "Death in Cranford",
+      "description": "The role of death as narrative catalyst and community event in Cranford — how mortality shapes the novel's emotional landscape and drives character development",
+      "aliases": [
+        "mortality",
+        "bereavement",
+        "death-watch"
+      ],
+      "tags": [
+        "death",
+        "mourning",
+        "community",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:death-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mourning-customs",
+          "label": "mourning-customs"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "female-friendship",
+          "label": "female-friendship"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "kindness-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "drumble",
+      "type": "place",
+      "label": "drumble",
+      "description": "The neighbouring commercial town of Drumble, twenty miles from Cranford, served as the necessary counterpoint to village gentility — the place where banks failed, turbans were unavailable, and the narrator herself resided between visits.",
+      "aliases": [
+        "the neighbouring commercial town"
+      ],
+      "tags": [
+        "Cranford",
+        "town",
+        "commerce",
+        "geography",
+        "contrast"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:drumble",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        }
+      ]
+    },
+    {
+      "id": "duty",
+      "type": "concept",
+      "label": "Duty",
+      "description": "The Victorian concept of duty as it governs the lives of Cranford's inhabitants — from Miss Matty's self-sacrifice to the town's collective obligation to one another",
+      "aliases": [
+        "obligation",
+        "moral duty",
+        "social responsibility"
+      ],
+      "tags": [
+        "social-custom",
+        "morality",
+        "gender",
+        "economics"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:duty",
+      "relations": []
+    },
+    {
+      "id": "elegant-economy",
+      "type": "concept",
+      "label": "Elegant Economy",
+      "description": "The Cranford philosophy of genteel frugality — a collective pretense that transforms financial necessity into a matter of taste and refinement.",
+      "aliases": [
+        "Cranford economy",
+        "genteel frugality"
+      ],
+      "tags": [
+        "class",
+        "economy",
+        "social-custom",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:elegant-economy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        },
+        {
+          "type": "related",
+          "target": "candlelight",
+          "label": "candlelight"
+        }
+      ]
+    },
+    {
+      "id": "etiquette",
+      "type": "concept",
+      "label": "Etiquette",
+      "description": "The elaborate and often comic code of social rules governing Cranford life — etiquette as both a mark of gentility and a source of anxiety",
+      "aliases": [
+        "social rules",
+        "ceremony",
+        "protocol",
+        "Cranford etiquette"
+      ],
+      "tags": [
+        "social-custom",
+        "class",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:etiquette",
+      "relations": []
+    },
+    {
+      "id": "events-index",
+      "type": "list",
+      "label": "Events Index",
+      "description": "Index of significant events in Elizabeth Gaskell's Cranford, from social gatherings to moments of crisis and change.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "events"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:events-index",
+      "relations": []
+    },
+    {
+      "id": "fashion-in-cranford",
+      "type": "concept",
+      "label": "Fashion in Cranford",
+      "description": "The role of dress, fashion, and sartorial codes in shaping Cranford's social identity and its paradoxical relationship with metropolitan trends.",
+      "aliases": [
+        "Cranford dress codes",
+        "clothing in Cranford"
+      ],
+      "tags": [
+        "clothing",
+        "social-custom",
+        "class",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:fashion-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        }
+      ]
+    },
+    {
+      "id": "female-friendship",
+      "type": "concept",
+      "label": "Female Friendship",
+      "description": "The bonds of friendship among the Cranford spinsters — a community sustained by mutual care, shared rituals, and the quiet heroism of women looking after one another",
+      "aliases": [
+        "women's friendship",
+        "spinster community",
+        "sisterhood"
+      ],
+      "tags": [
+        "gender",
+        "community",
+        "social-custom"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:female-friendship",
+      "relations": []
+    },
+    {
+      "id": "followers",
+      "type": "concept",
+      "label": "Followers",
+      "description": "The Cranford term for suitors and romantic admirers, a social category fraught with class anxiety and comic tension.",
+      "aliases": [
+        "suitors",
+        "beaux",
+        "admirers"
+      ],
+      "tags": [
+        "courtship",
+        "class",
+        "servants",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:followers",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire",
+          "label": "lady-glenmire"
+        }
+      ]
+    },
+    {
+      "id": "food-and-dining-in-cranford",
+      "type": "concept",
+      "label": "food-and-dining-in-cranford",
+      "description": "The distinctive food customs of Cranford — from oranges sucked in solitude to ceremonial suppers — which reveal the town's elaborate code of genteel behaviour and its anxieties about class and propriety.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:food-and-dining-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "parties-in-cranford",
+          "label": "parties-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "gardens-in-cranford",
+      "type": "concept",
+      "label": "Gardens in Cranford",
+      "description": "Gardens in Cranford as expressions of domestic pride, gentility, and the town's relationship with nature",
+      "aliases": [
+        "horticulture",
+        "flower-gardens",
+        "gardening"
+      ],
+      "tags": [
+        "garden",
+        "domestic-life",
+        "nature",
+        "gentility"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:gardens-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea-drinking"
+        }
+      ]
+    },
+    {
+      "id": "genteel-poverty",
+      "type": "concept",
+      "label": "Genteel Poverty",
+      "description": "The Cranford social practice of maintaining upper-class appearances on minimal income — what the ladies themselves call \"elegant economy.\"",
+      "aliases": [
+        "elegant economy",
+        "reduced circumstances",
+        "economical gentility"
+      ],
+      "tags": [
+        "social-class",
+        "economy",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:genteel-poverty",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        }
+      ]
+    },
+    {
+      "id": "gentility",
+      "type": "concept",
+      "label": "Gentility",
+      "description": "The Cranford obsession with maintaining and recognizing gentility — the social marker that defines status, governs behaviour, and fuels the town's comic anxieties",
+      "aliases": [
+        "gentle status",
+        "social rank",
+        "being genteel",
+        "Cranford gentility"
+      ],
+      "tags": [
+        "social-class",
+        "identity",
+        "gender"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:gentility",
+      "relations": []
+    },
+    {
+      "id": "honour-and-reputation",
+      "type": "concept",
+      "label": "Honour and Reputation",
+      "description": "Honour and reputation as Cranford's social currency — how good name is earned, maintained, and threatened in the novel's micro-society",
+      "aliases": [
+        "social-credit",
+        "good-name",
+        "honourable-conduct"
+      ],
+      "tags": [
+        "honour",
+        "reputation",
+        "social-status",
+        "morality"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:honour-and-reputation",
+      "relations": [
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "courage"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "kindness-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "india-in-cranford",
+      "type": "place",
+      "label": "india-in-cranford",
+      "description": "India served as a distant but constant presence in the imaginative geography of Cranford — the source of exotic goods, the destination of lost sons, and the backdrop against which the novel's themes of departure, return, and imperial wealth were played out.",
+      "aliases": [
+        "India",
+        "the East Indies",
+        "Indian connection"
+      ],
+      "tags": [
+        "colonial",
+        "India",
+        "empire",
+        "Cranford",
+        "geography"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:india-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "jem-hearn",
+      "type": "person",
+      "label": "jem-hearn",
+      "description": "A steady young joiner of Cranford, Martha's sweetheart, who earns three-and-sixpence a day and stands six foot one in his stocking-feet.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:jem-hearn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "martha"
+        },
+        {
+          "type": "related",
+          "target": "servants-in-cranford",
+          "label": "servants-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        }
+      ]
+    },
+    {
+      "id": "kindness-in-cranford",
+      "type": "concept",
+      "label": "Kindness in Cranford",
+      "description": "Kindness as Cranford's defining moral virtue — how practical benevolence sustains the community through poverty, bereavement, and change",
+      "aliases": [
+        "charity",
+        "benevolence",
+        "Christian-kindness"
+      ],
+      "tags": [
+        "kindness",
+        "community",
+        "morality",
+        "virtue"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:kindness-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "female-friendship",
+          "label": "female-friendship"
+        },
+        {
+          "type": "related",
+          "target": "honour-and-reputation",
+          "label": "honour-and-reputation"
+        },
+        {
+          "type": "related",
+          "target": "courage",
+          "label": "courage"
+        }
+      ]
+    },
+    {
+      "id": "knitting-in-cranford",
+      "type": "concept",
+      "label": "knitting-in-cranford",
+      "description": "Knitting as both a social ritual and a means of economic survival in Cranford — a practice that unites the ladies of the town and ultimately saves Miss Matty from destitution.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:knitting-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        }
+      ]
+    },
+    {
+      "id": "lady-arley",
+      "type": "person",
+      "label": "lady-arley",
+      "description": "An aristocratic figure in the Cranford neighbourhood, wife of Sir Peter Arley — a distant model of proper address and social form that the Cranford ladies both admire and measure themselves against.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:lady-arley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sir-peter-arley",
+          "label": "sir-peter-arley"
+        },
+        {
+          "type": "related",
+          "target": "arley-hall",
+          "label": "arley-hall"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        }
+      ]
+    },
+    {
+      "id": "lady-glenmire",
+      "type": "person",
+      "label": "Lady Glenmire",
+      "description": "The widowed sister-in-law of Mrs Jamieson, whose arrival in Cranford upends social protocols and who ultimately marries the surgeon Mr Hoggins",
+      "aliases": [
+        "Mrs Gordon"
+      ],
+      "tags": [
+        "minor-character",
+        "female",
+        "aristocrat"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:lady-glenmire",
+      "relations": []
+    },
+    {
+      "id": "lady-glenmire-visit",
+      "type": "event",
+      "label": "Lady Glenmire's Visit",
+      "description": "Lady Glenmire's visit to her sister-in-law Mrs Jamieson — a social event that convulses Cranford with aristocratic anxiety, and culminates in the scandalous marriage that shatters the town's class assumptions.",
+      "aliases": [
+        "Lady Glenmire's arrival",
+        "Lady Glenmire's marriage"
+      ],
+      "tags": [
+        "aristocracy",
+        "marriage",
+        "visit",
+        "social-upheaval",
+        "class",
+        "etiquette"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:lady-glenmire-visit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "mr-hoggins"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "love-and-courtship",
+          "label": "love-and-courtship"
+        }
+      ]
+    },
+    {
+      "id": "letter-writing",
+      "type": "concept",
+      "label": "letter-writing",
+      "description": "Letter-writing was both a defining social practice and a structural narrative device in Cranford — the medium through which news traveled, family history was preserved, and the novel's deepest emotional revelations were transmitted across time.",
+      "aliases": [
+        "letters",
+        "correspondence",
+        "epistolary"
+      ],
+      "tags": [
+        "social custom",
+        "Cranford",
+        "narrative",
+        "family history",
+        "communication"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:letter-writing",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Deborah Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea-drinking"
+        }
+      ]
+    },
+    {
+      "id": "letters-and-correspondence",
+      "type": "concept",
+      "label": "letters-and-correspondence",
+      "description": "",
+      "aliases": [
+        "old letters",
+        "family correspondence",
+        "letter-writing"
+      ],
+      "tags": [
+        "cranford",
+        "letters",
+        "correspondence",
+        "family-history",
+        "epistolary"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:letters-and-correspondence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "reading-in-cranford",
+          "label": "reading-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "visiting-in-cranford",
+          "label": "visiting-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "love-and-courtship",
+      "type": "concept",
+      "label": "Love and Courtship",
+      "description": "Romantic love and courtship in Cranford — the quiet, often thwarted love stories that underpin the novel's emotional core",
+      "aliases": [
+        "romance",
+        "romantic-love",
+        "courtship-in-cranford"
+      ],
+      "tags": [
+        "love",
+        "marriage",
+        "gender",
+        "family"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:love-and-courtship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "death-in-cranford",
+          "label": "death-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "spinsterhood",
+          "label": "spinsterhood"
+        },
+        {
+          "type": "related",
+          "target": "female-friendship",
+          "label": "female-friendship"
+        }
+      ]
+    },
+    {
+      "id": "major-gordon",
+      "type": "person",
+      "label": "major-gordon",
+      "description": "A tall, frank-looking military officer who served with Captain Brown, married Jessie Brown, and represents the redemptive power of love — the \"silver lining\" to the clouds of Captain Brown's death.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:major-gordon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "miss-jessie-brown",
+          "label": "miss-jessie-brown"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "death-in-cranford",
+          "label": "death-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "martha",
+      "type": "person",
+      "label": "Martha",
+      "description": "Miss Matty Jenkyns's loyal, blunt-spoken maid, whose devotion anchors Miss Matty through financial ruin",
+      "aliases": [],
+      "tags": [
+        "minor-character",
+        "female",
+        "servant"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:martha",
+      "relations": []
+    },
+    {
+      "id": "masculinity-in-cranford",
+      "type": "concept",
+      "label": "Masculinity in Cranford",
+      "description": "The role and perception of men in Cranford's female-dominated social world, where masculine presence is both rare and disruptive.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:masculinity-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "mr-holbrook"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "peter-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "mr-hoggins"
+        }
+      ]
+    },
+    {
+      "id": "medicine-in-cranford",
+      "type": "concept",
+      "label": "medicine-in-cranford",
+      "description": "Medical practice in Cranford, centred on Mr Hoggins the surgeon — a profession that occupies an uneasy middle ground between genteel respectability and trade, mirroring the town's own social ambiguities.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:medicine-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-hoggins",
+          "label": "mr-hoggins"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire-visit",
+          "label": "lady-glenmire-visit"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        }
+      ]
+    },
+    {
+      "id": "memory-and-nostalgia-in-cranford",
+      "type": "concept",
+      "label": "Memory and Nostalgia in Cranford",
+      "description": "The role of collective and personal memory in Cranford's backward-looking community, where the past exercises a stronger claim than the present.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:memory-and-nostalgia-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "peter-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "mr-holbrook"
+        }
+      ]
+    },
+    {
+      "id": "miss-barker",
+      "type": "person",
+      "label": "Miss Barker",
+      "description": "A Cranford lady who runs a millinery shop and hosts social gatherings, navigating the town's delicate class boundaries.",
+      "aliases": [
+        "Miss Barkers"
+      ],
+      "tags": [
+        "cranford-ladies",
+        "hostess",
+        "millinery"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:miss-barker",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "miss-jenkyns-deborah",
+      "type": "person",
+      "label": "miss-jenkyns-deborah",
+      "description": "Elder daughter of the late Rector of Cranford, Miss Deborah Jenkyns governed the household and her younger sister Matty with firm principles until her death, which sets the novel's opening circumstance in motion.",
+      "aliases": [
+        "Miss Jenkyns",
+        "Deborah Jenkyns"
+      ],
+      "tags": [
+        "character",
+        "Cranford",
+        "Jenkyns family",
+        "spinster",
+        "rector"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:miss-jenkyns-deborah",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "miss-jessie-brown",
+      "type": "person",
+      "label": "miss-jessie-brown",
+      "description": "Captain Brown's younger daughter — round-faced and dimpled with a childlike charm, \"ten years younger than her sister, and twenty shades prettier\" [002-035], who later marries Major Gordon.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:miss-jessie-brown",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown-death",
+          "label": "captain-brown-death"
+        },
+        {
+          "type": "related",
+          "target": "major-gordon",
+          "label": "major-gordon"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        },
+        {
+          "type": "related",
+          "target": "love-and-courtship",
+          "label": "love-and-courtship"
+        }
+      ]
+    },
+    {
+      "id": "miss-matty-and-mr-holbrook",
+      "type": "event",
+      "label": "\"Miss Matty and Mr Holbrook\"",
+      "description": "\"Miss Matty's rekindled childhood romance with Thomas Holbrook — a poignant episode of renewed affection, pastoral courtship, and sudden loss in Cranford.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:miss-matty-and-mr-holbrook",
+      "relations": []
+    },
+    {
+      "id": "miss-matty-jenkyns",
+      "type": "person",
+      "label": "Miss Matty Jenkyns",
+      "description": "Central character of Cranford — the gentle, timid, and kind-hearted daughter of the former rector",
+      "aliases": [
+        "Matilda Jenkyns",
+        "Miss Matty",
+        "Matty"
+      ],
+      "tags": [
+        "main-character",
+        "female",
+        "spinster"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:miss-matty-jenkyns",
+      "relations": []
+    },
+    {
+      "id": "miss-matty-shop",
+      "type": "place",
+      "label": "Miss Matty's Tea Shop",
+      "description": "Miss Matty's tea shop — the genteel commercial venture that rescues her from genteel poverty, transforming a passive spinster into an active participant in Cranford's economy while preserving her dignity.",
+      "aliases": [
+        "Miss Matilda's tea shop",
+        "the tea agency",
+        "the little shop"
+      ],
+      "tags": [
+        "commerce",
+        "tea",
+        "economy",
+        "domestic-space",
+        "redemption"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:miss-matty-shop",
+      "relations": [
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant economy"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "kindness-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "miss-pole",
+      "type": "person",
+      "label": "Miss Pole",
+      "description": "A central figure in Cranford society, known for her curiosity, love of gossip, and active role in the town's social life.",
+      "aliases": [],
+      "tags": [
+        "cranford-ladies",
+        "gossip"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:miss-pole",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "mourning-customs",
+      "type": "concept",
+      "label": "Mourning Customs",
+      "description": "The elaborate rituals of Victorian mourning as practiced by the Cranford ladies — dress codes, social withdrawal, and the delicate etiquette of grief",
+      "aliases": [
+        "mourning rituals",
+        "Victorian mourning",
+        "grief customs",
+        "condolence"
+      ],
+      "tags": [
+        "social-custom",
+        "death",
+        "gender",
+        "ritual"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:mourning-customs",
+      "relations": []
+    },
+    {
+      "id": "mr-hoggins",
+      "type": "person",
+      "label": "Mr Hoggins",
+      "description": "The Cranford surgeon, a plain-spoken professional man whose social rise embodies the changing class dynamics of provincial England",
+      "aliases": [],
+      "tags": [
+        "minor-character",
+        "male",
+        "surgeon"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:mr-hoggins",
+      "relations": []
+    },
+    {
+      "id": "mr-holbrook",
+      "type": "person",
+      "label": "Mr Holbrook",
+      "description": "A gentleman farmer who was once Miss Matty's suitor, known for his love of books, old-fashioned hospitality, and his quiet, unassuming character.",
+      "aliases": [
+        "Thomas Holbrook"
+      ],
+      "tags": [
+        "suitor",
+        "bachelor",
+        "farmer"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:mr-holbrook",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "miss-pole"
+        }
+      ]
+    },
+    {
+      "id": "mr-johnson",
+      "type": "person",
+      "label": "mr-johnson",
+      "description": "Cranford shopkeeper who sells \"everything\" — tea, fashions, and dry goods — and whose kindness to Miss Matty during the Town and County Bank crisis exemplifies Cranford's spirit of mutual aid.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:mr-johnson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        }
+      ]
+    },
+    {
+      "id": "mr-mulliner",
+      "type": "person",
+      "label": "mr-mulliner",
+      "description": "Butler to the Honourable Mrs Jamieson, an imposing and taciturn figure who inspires awe among the Cranford ladies — a \"sulky cockatoo\" of a man whose wooden face never relaxes.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:mr-mulliner",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "servants-in-cranford",
+          "label": "servants-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "lady-glenmire-visit",
+          "label": "lady-glenmire-visit"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        }
+      ]
+    },
+    {
+      "id": "mrs-fitz-adam",
+      "type": "person",
+      "label": "Mrs Fitz-Adam",
+      "description": "The widowed sister of Cranford's surgeon, whose return as a wealthy widow challenges the town's rigid social hierarchy",
+      "aliases": [
+        "Mary Hoggins"
+      ],
+      "tags": [
+        "minor-character",
+        "female",
+        "newcomer"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:mrs-fitz-adam",
+      "relations": []
+    },
+    {
+      "id": "mrs-forrester",
+      "type": "person",
+      "label": "Mrs Forrester",
+      "description": "A gentle, shabbily-dressed Cranford lady, known for her credulous nature, her deafness, and her unshakeable belief in the supernatural.",
+      "aliases": [],
+      "tags": [
+        "cranford-ladies",
+        "gentility",
+        "superstition"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:mrs-forrester",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "miss-pole"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "mrs-jamieson",
+      "type": "person",
+      "label": "mrs-jamieson",
+      "description": "The highest-ranking resident of Cranford, an aristocratic widow whose presence — and occasional sleepiness — defined the town's social pecking order. Her title and manner established the ceiling of gentility the other ladies aspired to.",
+      "aliases": [
+        "Mrs Jamieson",
+        "the Honourable Mrs Jamieson"
+      ],
+      "tags": [
+        "character",
+        "Cranford",
+        "aristocracy",
+        "widow",
+        "social hierarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:mrs-jamieson",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "economic means"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Miss Deborah Jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty Jenkyns"
+        }
+      ]
+    },
+    {
+      "id": "mrs-jamiesons-party",
+      "type": "event",
+      "label": "\"Mrs Jamieson's Party\"",
+      "description": "\"The Honourable Mrs Jamieson's party — the social apex event of Cranford, where invitation politics, class distinction, and the intricate etiquette of a female-dominated society converge.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:mrs-jamiesons-party",
+      "relations": []
+    },
+    {
+      "id": "music-in-cranford",
+      "type": "concept",
+      "label": "music-in-cranford",
+      "description": "The role of musical performance and appreciation in Cranford society — from Miss Jenkyns's genteel accomplishments to Signor Brunoni's exotic entertainments.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:music-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        }
+      ]
+    },
+    {
+      "id": "neighbourhood-and-community",
+      "type": "concept",
+      "label": "Neighbourhood and Community",
+      "description": "The web of neighbourly relations that defines Cranford — mutual observation, social obligation, and the collective identity of a small town",
+      "aliases": [
+        "community",
+        "neighbourly-relations",
+        "Cranford-society"
+      ],
+      "tags": [
+        "community",
+        "neighbourhood",
+        "society",
+        "gossip"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:neighbourhood-and-community",
+      "relations": [
+        {
+          "type": "related",
+          "target": "curiosity",
+          "label": "curiosity"
+        },
+        {
+          "type": "related",
+          "target": "kindness-in-cranford",
+          "label": "kindness-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "organizations-index",
+      "type": "list",
+      "label": "Organizations Index",
+      "description": "Index of organizations, institutions, and social groups in Elizabeth Gaskell's Cranford, from the rectory to the ladies' assembly.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "organizations"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:organizations-index",
+      "relations": []
+    },
+    {
+      "id": "parties-in-cranford",
+      "type": "concept",
+      "label": "parties-in-cranford",
+      "description": "",
+      "aliases": [
+        "cranford parties",
+        "evening parties",
+        "card parties"
+      ],
+      "tags": [
+        "cranford",
+        "social-life",
+        "parties",
+        "card-games",
+        "gentility"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:parties-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "preference",
+          "label": "preference"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "the-assembly-rooms"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        },
+        {
+          "type": "related",
+          "target": "food-and-dining-in-cranford",
+          "label": "food-and-dining-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "peter-jenkyns",
+      "type": "person",
+      "label": "Peter Jenkyns",
+      "description": "Miss Matty's long-lost brother, whose youthful prank ended in disgrace and exile to India, and whose eventual return brings the novel to its joyful conclusion",
+      "aliases": [
+        "Peter Marmaduke Arley Jenkyns",
+        "Poor Peter",
+        "Aga Jenkyns"
+      ],
+      "tags": [
+        "minor-character",
+        "male",
+        "brother"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:peter-jenkyns",
+      "relations": []
+    },
+    {
+      "id": "peter-jenkyns-departure",
+      "type": "event",
+      "label": "\"Peter Jenkyns's Departure\"",
+      "description": "\"Peter Jenkyns's fateful practical joke, his father's severe punishment, and his departure for India — the defining family rupture that shaped the Jenkyns household for decades.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:peter-jenkyns-departure",
+      "relations": []
+    },
+    {
+      "id": "peter-jenkyns-return",
+      "type": "event",
+      "label": "Peter Jenkyns's Return",
+      "description": "The climactic event of the novel — Peter Jenkyns's unexpected return from India to Cranford, restoring the broken Jenkyns family and transforming the town's social world.",
+      "aliases": [
+        "Peter's homecoming",
+        "the return of Peter"
+      ],
+      "tags": [
+        "reunion",
+        "family",
+        "climax",
+        "resolution",
+        "India",
+        "reconciliation"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:peter-jenkyns-return",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-george-inn",
+          "label": "George Inn"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "Assembly Rooms"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "the-rectory",
+          "label": "the-rectory"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "india-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni-visit",
+          "label": "signor-brunoni-visit"
+        }
+      ]
+    },
+    {
+      "id": "pets-in-cranford",
+      "type": "concept",
+      "label": "pets-in-cranford",
+      "description": "",
+      "aliases": [
+        "animals",
+        "carlo-the-dog",
+        "miss-barkers-cow"
+      ],
+      "tags": [
+        "cranford",
+        "animals",
+        "pets",
+        "carlo",
+        "alderney-cow",
+        "social-markers"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:pets-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-barker",
+          "label": "miss-barker"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        },
+        {
+          "type": "related",
+          "target": "servants-in-cranford",
+          "label": "servants-in-cranford"
+        }
+      ]
+    },
+    {
+      "id": "places-index",
+      "type": "list",
+      "label": "Places Index",
+      "description": "Complete index of all locations in Elizabeth Gaskell's Cranford, from the town itself to surrounding villages and referenced places abroad.",
+      "aliases": [],
+      "tags": [
+        "index",
+        "places"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:places-index",
+      "relations": []
+    },
+    {
+      "id": "practical-joking",
+      "type": "concept",
+      "label": "Practical Joking",
+      "description": "The Cranford social currency of practical joking — Peter Jenkyns's downfall and the town's ambivalent relationship with humour",
+      "aliases": [
+        "practical jokes",
+        "Peter's jokes",
+        "humorous mischief"
+      ],
+      "tags": [
+        "social-custom",
+        "humor",
+        "gender",
+        "narrative-theme"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:practical-joking",
+      "relations": []
+    },
+    {
+      "id": "preference",
+      "type": "concept",
+      "label": "Preference (Card Game)",
+      "description": "The card game preference as the centrepiece of Cranford's social gatherings — a ritual that enforces hierarchy, civility, and gentle competition",
+      "aliases": [
+        "preference card game",
+        "whist",
+        "card parties"
+      ],
+      "tags": [
+        "social-custom",
+        "entertainment",
+        "domestic-life"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:preference",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "mrs-jamieson"
+        },
+        {
+          "type": "related",
+          "target": "parties-in-cranford",
+          "label": "parties-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        }
+      ]
+    },
+    {
+      "id": "reading-in-cranford",
+      "type": "concept",
+      "label": "Reading in Cranford",
+      "description": "The role of books and reading in Cranford — literacy as social marker, moral currency, and community activity",
+      "aliases": [
+        "books",
+        "literature",
+        "reading-aloud"
+      ],
+      "tags": [
+        "reading",
+        "books",
+        "culture",
+        "education"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:reading-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "letter-writing",
+          "label": "letter-writing"
+        },
+        {
+          "type": "related",
+          "target": "curiosity",
+          "label": "curiosity"
+        },
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        }
+      ]
+    },
+    {
+      "id": "regiment-in-cranford",
+      "type": "organization",
+      "label": "The Regiment in Cranford",
+      "description": "The military regiment that connects several male characters in Cranford, representing masculine institutional presence in the town's otherwise female-dominated social world.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:regiment-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        },
+        {
+          "type": "related",
+          "target": "major-gordon",
+          "label": "major-gordon"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "peter-jenkyns"
+        }
+      ]
+    },
+    {
+      "id": "servants-in-cranford",
+      "type": "concept",
+      "label": "Servants in Cranford",
+      "description": "The role of domestic servants in Cranford — the hidden labour that sustains the town's genteel surface and the social anxieties servants embody",
+      "aliases": [
+        "domestic-service",
+        "maid-servants",
+        "servant-class"
+      ],
+      "tags": [
+        "servant",
+        "class",
+        "domestic-life",
+        "labour"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:servants-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        },
+        {
+          "type": "related",
+          "target": "followers",
+          "label": "followers"
+        }
+      ]
+    },
+    {
+      "id": "shire-lane",
+      "type": "place",
+      "label": "Shire Lane",
+      "description": "A side lane off Cranford's High Street where Miss Matty, catching sight of her former suitor Mr Holbrook, darts away in an involuntary gesture of old feeling.",
+      "aliases": [],
+      "tags": [
+        "street",
+        "memory",
+        "romance",
+        "avoidance"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:shire-lane",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "mr-holbrook"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-high-street",
+          "label": "cranford-high-street"
+        }
+      ]
+    },
+    {
+      "id": "signor-brunoni",
+      "type": "person",
+      "label": "signor-brunoni",
+      "description": "An itinerant magician whose visit to Cranford sets off a chain of events including the Great Cranford Panic — a mysterious foreign figure who speaks \"broken English\" and becomes the centre of wild speculation.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:signor-brunoni",
+      "relations": [
+        {
+          "type": "related",
+          "target": "signor-brunoni-visit",
+          "label": "signor-brunoni-visit"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        },
+        {
+          "type": "related",
+          "target": "miss-jessie-brown",
+          "label": "miss-jessie-brown"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "the-assembly-rooms",
+          "label": "the-assembly-rooms"
+        },
+        {
+          "type": "related",
+          "target": "the-george-inn",
+          "label": "the-george-inn"
+        }
+      ]
+    },
+    {
+      "id": "signor-brunoni-visit",
+      "type": "event",
+      "label": "signor-brunoni-visit",
+      "description": "The visit of the travelling conjuror Signor Brunoni to Cranford triggered a sequence of comic misunderstanding, genuine fear, and unexpected revelation — one of the novel's most sustained set-pieces and the catalyst for Peter Jenkyns's return.",
+      "aliases": [
+        "the conjuror's visit",
+        "Signor Brunoni's performance"
+      ],
+      "tags": [
+        "conjuror",
+        "magic",
+        "entertainment",
+        "mystery",
+        "Cranford"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:signor-brunoni-visit",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "India"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty Jenkyns"
+        }
+      ]
+    },
+    {
+      "id": "sir-peter-arley",
+      "type": "person",
+      "label": "sir-peter-arley",
+      "description": "An aristocrat of the Cranford neighbourhood, owner of Arley Hall, godfather to Peter Jenkyns — a distant figure of rank and patronage whose name is invoked as a model of proper form.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:sir-peter-arley",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lady-arley",
+          "label": "lady-arley"
+        },
+        {
+          "type": "related",
+          "target": "arley-hall",
+          "label": "arley-hall"
+        },
+        {
+          "type": "related",
+          "target": "peter-jenkyns",
+          "label": "peter-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        }
+      ]
+    },
+    {
+      "id": "social-anxiety-in-cranford",
+      "type": "concept",
+      "label": "Social Anxiety in Cranford",
+      "description": "The persistent nervous undercurrent beneath Cranford's placid surface — a community perpetually anxious about money, propriety, and social standing.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:social-anxiety-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-pole",
+          "label": "miss-pole"
+        },
+        {
+          "type": "related",
+          "target": "captain-brown",
+          "label": "captain-brown"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni",
+          "label": "signor-brunoni"
+        }
+      ]
+    },
+    {
+      "id": "spinsterhood",
+      "type": "concept",
+      "label": "Spinsterhood",
+      "description": "The defining demographic condition of Cranford — a community of unmarried women whose spinsterhood shapes the town's values, economics, and social rituals",
+      "aliases": [
+        "spinster",
+        "spinsters",
+        "unmarried women",
+        "old maids"
+      ],
+      "tags": [
+        "gender",
+        "social-class",
+        "identity",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:spinsterhood",
+      "relations": []
+    },
+    {
+      "id": "sunday-in-cranford",
+      "type": "concept",
+      "label": "Sunday in Cranford",
+      "description": "The weekly rhythm of Sunday in Cranford — church attendance, social display, and the temporal structure of community life",
+      "aliases": [
+        "Sabbath",
+        "Sunday-observance",
+        "Lord's-Day"
+      ],
+      "tags": [
+        "Sunday",
+        "religion",
+        "social-rhythm",
+        "time"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:sunday-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "church-in-cranford",
+          "label": "church-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "gentility",
+          "label": "gentility"
+        }
+      ]
+    },
+    {
+      "id": "tea-drinking",
+      "type": "concept",
+      "label": "tea-drinking",
+      "description": "The ritual of tea-drinking was the central social ceremony of Cranford life — a daily and formal occasion that ordered the day, structured hospitality, and encoded the economic tensions of a community practicing genteel poverty.",
+      "aliases": [
+        "tea",
+        "tea-time",
+        "the tea-tray"
+      ],
+      "tags": [
+        "social custom",
+        "Cranford",
+        "hospitality",
+        "domestic life",
+        "ritual"
+      ],
+      "quality": "featured",
+      "source_ref": "cranford:tea-drinking",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Miss Matty"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "the Honourable Mrs Jamieson"
+        }
+      ]
+    },
+    {
+      "id": "the-assembly-rooms",
+      "type": "place",
+      "label": "The Assembly Rooms",
+      "description": "The Cranford Assembly Rooms, attached to the George Inn — a historic venue for county balls and Signor Brunoni's magic show, whose faded grandeur embodies Cranford's relationship with its aristocratic past.",
+      "aliases": [
+        "the Cranford Assembly Rooms",
+        "the Assembly Room"
+      ],
+      "tags": [
+        "social-space",
+        "entertainment",
+        "history",
+        "decline",
+        "aristocracy"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-assembly-rooms",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        },
+        {
+          "type": "related",
+          "target": "the-george-inn",
+          "label": "the-george-inn"
+        },
+        {
+          "type": "related",
+          "target": "signor-brunoni-visit",
+          "label": "signor-brunoni-visit"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        }
+      ]
+    },
+    {
+      "id": "the-barker-millinery",
+      "type": "organization",
+      "label": "The Barker Millinery",
+      "description": "Miss Barkers' select millinery — the most exclusive shop in Cranford, where caps and ribbons are sold only to customers with a pedigree, embodying the town's aspirational relationship with aristocracy through the medium of headgear.",
+      "aliases": [
+        "Miss Barkers' shop",
+        "the select millinery"
+      ],
+      "tags": [
+        "commerce",
+        "fashion",
+        "aristocracy",
+        "class",
+        "caps",
+        "millinery"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-barker-millinery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "fashion-in-cranford",
+          "label": "fashion-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-shop",
+          "label": "miss-matty-shop"
+        }
+      ]
+    },
+    {
+      "id": "the-cranford-benefit-society",
+      "type": "organization",
+      "label": "The Cranford Benefit Society",
+      "description": "A charitable organisation founded by Miss Jenkyns's mother to aid the poor of Cranford, representing institutional philanthropy in the novel's social fabric.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:the-cranford-benefit-society",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "martha",
+          "label": "martha"
+        }
+      ]
+    },
+    {
+      "id": "the-cranford-cow",
+      "type": "concept",
+      "label": "The Cranford Cow",
+      "description": "The Alderney cow as a symbol of respectability, community care, and gentle absurdity in Cranford society.",
+      "aliases": [
+        "Alderney cow",
+        "Miss Betsy Barker's cow",
+        "Cranford cow"
+      ],
+      "tags": [
+        "animals",
+        "social-status",
+        "economy"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-cranford-cow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        }
+      ]
+    },
+    {
+      "id": "the-cranford-ladies",
+      "type": "organization",
+      "label": "the-cranford-ladies",
+      "description": "The informal collective of gentlewomen who governed Cranford's social life through an unwritten code of visiting, tea-drinking, and mutual surveillance — a female oligarchy that maintained gentility in the absence of men and money.",
+      "aliases": [
+        "the Cranford circle",
+        "Cranford society"
+      ],
+      "tags": [
+        "Cranford",
+        "ladies",
+        "society",
+        "social code",
+        "visiting"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-cranford-ladies",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "tea-drinking",
+          "label": "tea-drinking"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamieson",
+          "label": "The Honourable Mrs Jamieson"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "the-cranford-panic-robberies",
+      "type": "event",
+      "label": "\"The Cranford Panic Robberies\"",
+      "description": "\"A string of rumoured robberies that terrorized Cranford — a precursor to the Great Panic, revealing how fear, gossip, and supernatural anxiety could grip a small community.\"",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:the-cranford-panic-robberies",
+      "relations": []
+    },
+    {
+      "id": "the-east-india-tea-company",
+      "type": "organization",
+      "label": "The East India Tea Company",
+      "description": "The East India Tea Company, the commercial organization whose agency provides Miss Matty with the means of economic survival after the bank failure — a real-world institution whose Cranford outpost transforms a spinster's gentility into dignified independence.",
+      "aliases": [
+        "the East India Company",
+        "the Tea Company"
+      ],
+      "tags": [
+        "commerce",
+        "tea",
+        "empire",
+        "India",
+        "economics"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-east-india-tea-company",
+      "relations": [
+        {
+          "type": "related",
+          "target": "town-and-county-bank",
+          "label": "town-and-county-bank"
+        },
+        {
+          "type": "related",
+          "target": "india-in-cranford",
+          "label": "india-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-shop",
+          "label": "miss-matty-shop"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        }
+      ]
+    },
+    {
+      "id": "the-george-inn",
+      "type": "place",
+      "label": "The George Inn",
+      "description": "The George Inn, Cranford's principal public house and social gathering place — site of anxious vigils during the panic, Signor Brunoni's lodgings, and the reconciliatory luncheon for the Gordons.",
+      "aliases": [
+        "the George",
+        "George Inn"
+      ],
+      "tags": [
+        "social-space",
+        "inn",
+        "public-house",
+        "gathering-place"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-george-inn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "signor-brunoni-visit",
+          "label": "signor-brunoni-visit"
+        },
+        {
+          "type": "related",
+          "target": "the-great-cranford-panic",
+          "label": "the-great-cranford-panic"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "cranford-town"
+        }
+      ]
+    },
+    {
+      "id": "the-great-cranford-panic",
+      "type": "concept",
+      "label": "The Great Cranford Panic",
+      "description": "The extended comic sequence (Chapters 20–23) in which Cranford is swept by fears of robberies, ghosts, and night intruders — the novel's most sustained exploration of collective anxiety and rumour",
+      "aliases": [
+        "the Cranford panic",
+        "the panic",
+        "robberies",
+        "ghost scare"
+      ],
+      "tags": [
+        "narrative-theme",
+        "social-custom",
+        "humour",
+        "community"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-great-cranford-panic",
+      "relations": []
+    },
+    {
+      "id": "the-jenkyns-rectory",
+      "type": "organization",
+      "label": "the-jenkyns-rectory",
+      "description": "The Jenkyns rectory was both a physical dwelling and the institutional centre of Cranford's social memory — the former home of the Rector, then the residence of his daughters, and finally a symbol of the continuity that survived economic ruin.",
+      "aliases": [
+        "the rectory",
+        "the Jenkyns household",
+        "the rector's house"
+      ],
+      "tags": [
+        "Jenkyns",
+        "rectory",
+        "household",
+        "domestic",
+        "Cranford"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-jenkyns-rectory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cranford-town",
+          "label": "Cranford"
+        },
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "Deborah"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "Matty"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "the-rectory",
+      "type": "place",
+      "label": "The Rectory",
+      "description": "The Jenkyns family rectory — the childhood home of Deborah, Matty, and Peter Jenkyns, an ancient house whose loss marks the family's fall into genteel poverty.",
+      "aliases": [
+        "the Jenkyns rectory",
+        "the old rectory"
+      ],
+      "tags": [
+        "domestic-space",
+        "family",
+        "childhood",
+        "memory"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:the-rectory",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-jenkyns-deborah",
+          "label": "miss-jenkyns-deborah"
+        },
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "mr-holbrook",
+          "label": "mr-holbrook"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        }
+      ]
+    },
+    {
+      "id": "town-and-county-bank",
+      "type": "concept",
+      "label": "Town and County Bank",
+      "description": "The bank whose failure precipitates Miss Matty's financial ruin and forces Cranford's community to rally around her.",
+      "aliases": [
+        "Town & County Bank",
+        "bank failure"
+      ],
+      "tags": [
+        "economy",
+        "class",
+        "crisis",
+        "Miss-Matty"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:town-and-county-bank",
+      "relations": [
+        {
+          "type": "related",
+          "target": "miss-matty-jenkyns",
+          "label": "miss-matty-jenkyns"
+        },
+        {
+          "type": "related",
+          "target": "genteel-poverty",
+          "label": "genteel-poverty"
+        },
+        {
+          "type": "related",
+          "target": "elegant-economy",
+          "label": "elegant-economy"
+        },
+        {
+          "type": "related",
+          "target": "the-cranford-cow",
+          "label": "the-cranford-cow"
+        }
+      ]
+    },
+    {
+      "id": "visiting-in-cranford",
+      "type": "concept",
+      "label": "visiting-in-cranford",
+      "description": "",
+      "aliases": [
+        "social visits",
+        "morning calls",
+        "calling customs"
+      ],
+      "tags": [
+        "cranford",
+        "social-customs",
+        "visiting",
+        "calling-hours",
+        "etiquette"
+      ],
+      "quality": "basic",
+      "source_ref": "cranford:visiting-in-cranford",
+      "relations": [
+        {
+          "type": "related",
+          "target": "etiquette",
+          "label": "etiquette"
+        },
+        {
+          "type": "related",
+          "target": "parties-in-cranford",
+          "label": "parties-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "neighbourhood-and-community",
+          "label": "neighbourhood-and-community"
+        },
+        {
+          "type": "related",
+          "target": "aristocracy-in-cranford",
+          "label": "aristocracy-in-cranford"
+        },
+        {
+          "type": "related",
+          "target": "mrs-jamiesons-party",
+          "label": "mrs-jamiesons-party"
+        }
+      ]
+    },
+    {
+      "id": "vulgarity-in-cranford",
+      "type": "concept",
+      "label": "Vulgarity in Cranford",
+      "description": "\"Vulgarity\" — Cranford's \"tremendous word\" that enforces social boundaries, defines what is unacceptable, and exposes the ladies' class anxieties",
+      "aliases": [
+        "vulgar",
+        "vulgarity",
+        "vulgar behaviour"
+      ],
+      "tags": [
+        "social-class",
+        "identity",
+        "gender",
+        "language"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:vulgarity-in-cranford",
+      "relations": []
+    },
+    {
+      "id": "widowhood-in-cranford",
+      "type": "concept",
+      "label": "Widowhood in Cranford",
+      "description": "The social role and status of widows in Cranford — how widowhood shaped rank, respectability, and remarriage in the novel's female-centred world",
+      "aliases": [
+        "widow",
+        "widows",
+        "widowed status"
+      ],
+      "tags": [
+        "social-class",
+        "gender",
+        "marriage"
+      ],
+      "quality": "standard",
+      "source_ref": "cranford:widowhood-in-cranford",
+      "relations": []
+    },
+    {
+      "id": "woodley",
+      "type": "place",
+      "label": "Woodley",
+      "description": "The pastoral estate of Thomas Holbrook (Cousin Thomas), located between Cranford and Misselton, site of Miss Matty's rekindled childhood romance and a symbol of the rural world beyond Cranford's Amazonian society.",
+      "aliases": [],
+      "tags": [],
+      "quality": "basic",
+      "source_ref": "cranford:woodley",
+      "relations": []
+    }
+  ]
+}

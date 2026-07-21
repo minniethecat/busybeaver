@@ -1,0 +1,25 @@
+---
+description: "Directions for Actors"
+id: directions-for-actors
+label: "Directions for Actors"
+tags: ["chapter"]
+type: "chapter"
+---
+
+[P03-001]**The [[anton-antonovich|Governor]]**.—A man grown old in the service, by no means a fool in his own way. Though he takes [[bribery|bribes]], he carries himself with dignity. He is of a rather serious turn and even given somewhat to ratiocination. He speaks in a voice neither too loud nor too low and says neither too much nor too little. Every word of his counts. He has the typical hard stern features of the official who has worked his way up from the lowest [[table-of-ranks|rank]] in the arduous [[civil-service|government service]]. Coarse in his inclinations, he passes rapidly from fear to joy, from servility to arrogance. He is dressed in uniform with frogs and wears Hessian boots with spurs. His hair with a sprinkling of gray is close-cropped.
+
+[P03-002]**[[anna-andreyevna|Anna Andreyevna]]**.—A provincial coquette, still this side of middle age, educated on novels and albums and on fussing with household affairs and [[domestic-service|servants]]. She is highly inquisitive and has streaks of vanity. Sometimes she gets the upper hand over her husband, and he gives in simply because at the moment he cannot find the right thing to say. Her ascendency, however, is confined to mere trifles and takes the form of lecturing and twitting. She changes her dress four times in the course of the play.
+
+[P03-003]**[[ivan-khlestakov|Khlestakov]]**.—A skinny young man of about twenty-three, rather stupid, being, as they say, “without a czar in his head,” one of those persons called an “empty vessel” in the government offices. He speaks and acts without stopping to think and utterly lacks the power of concentration. The words burst from his mouth unexpectedly. The more naivete and ingenousness the actor puts into the character the better will he sustain the role. Khlestakov is dressed in the latest fashion.
+
+[P03-004]**[[osip|Osip]]**.—A typical middle-aged servant, grave in his address, with eyes always a bit lowered. He is argumentative and loves to read sermons directed at his master. His voice is usually monotonous. To his master his tone is blunt and sharp, with even a touch of rudeness. He is the cleverer of the two and grasps a situation more quickly. But he does not like to talk. He is a silent, uncommunicative rascal. He wears a shabby gray or blue coat.
+
+[P03-005]**Bobchinsky and Dobchinsky**.—Short little fellows, strikingly like each other. Both have small paunches, and talk rapidly, with emphatic gestures of their hands, features and bodies. Dobchinsky is slightly the taller and more subdued in manner. Bobchinsky is freer, easier and livelier. They are both exceedingly inquisitive.
+
+[P03-006][[ammos-liapkin-tiapkin|Ammos Liapkin-Tiapkin]].—He has read four or five books and so is a bit of a freethinker. He is always seeing a hidden meaning in things and therefore puts weight into every word he utters. The actor should preserve an expression of importance throughout. He speaks in a bass voice, with a prolonged rattle and wheeze in his throat, like an old-fashioned clock, which buzzes before it strikes.
+
+[P03-007][[artemy-zemlianika|Artemy Zemlianika]].—Very fat, slow and awkward; but for all that a sly, cunning scoundrel. He is very obliging and officious.
+
+[P03-008][[ivan-shpekin|Ivan Shpekin]].—Guileless to the point of simplemindedness. The other characters require no special explanation, as their originals can be met almost anywhere.
+
+[P03-009]The actors should pay especial attention to the last scene. The last word uttered must strike all at once, suddenly, like an electric shock. The whole group should change its position at the same instant. The ladies must all burst into a simultaneous cry of astonishment, as if with one throat. The neglect of these directions may ruin the whole effect.

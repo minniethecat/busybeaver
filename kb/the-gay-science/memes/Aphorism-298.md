@@ -1,0 +1,28 @@
+---
+description: ""
+id: Aphorism-298
+label: "Aphorism 298"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 298.
+
+### 298.
+
+
+*A Sigh.*—I caught this notion on the way, and
+
+rapidly took the readiest, poor words to hold it fast,
+
+so that it might not again fly away. And now it
+
+has died in these dry words, and hangs and flaps
+
+about in them—and I hardly know now, when I
+
+look upon it, how I could have had such happiness
+
+when I caught this bird.

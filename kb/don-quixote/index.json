@@ -1,0 +1,4053 @@
+{
+  "book": "don-quixote",
+  "title": "Don Quixote",
+  "description": "Don Quixote — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 170,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A knowledge wiki for \"Don Quixote\" — this page is auto-generated from book metadata",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "don-quixote:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Table of Contents'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "don-quixote:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ch01-which-treats-of-the-character-and-pursuits-of",
+          "label": "ch01-which-treats-of-the-character-and-pursuits-of"
+        },
+        {
+          "type": "related",
+          "target": "ch02-which-treats-of-the-first-sally-the-ingenious",
+          "label": "ch02-which-treats-of-the-first-sally-the-ingenious"
+        },
+        {
+          "type": "related",
+          "target": "ch03-wherein-is-related-the-droll-way-in-which",
+          "label": "ch03-wherein-is-related-the-droll-way-in-which"
+        },
+        {
+          "type": "related",
+          "target": "ch04-of-what-happened-to-our-knight-when-he",
+          "label": "ch04-of-what-happened-to-our-knight-when-he"
+        },
+        {
+          "type": "related",
+          "target": "ch05-in-which-the-narrative-of-our-knights-mishap",
+          "label": "ch05-in-which-the-narrative-of-our-knights-mishap"
+        },
+        {
+          "type": "related",
+          "target": "ch06-of-the-diverting-and-important-scrutiny-which-the",
+          "label": "ch06-of-the-diverting-and-important-scrutiny-which-the"
+        },
+        {
+          "type": "related",
+          "target": "ch07-of-the-second-sally-of-our-worthy-knight",
+          "label": "ch07-of-the-second-sally-of-our-worthy-knight"
+        },
+        {
+          "type": "related",
+          "target": "ch08-of-the-good-fortune-which-the-valiant-don",
+          "label": "ch08-of-the-good-fortune-which-the-valiant-don"
+        },
+        {
+          "type": "related",
+          "target": "ch09-in-which-is-concluded-and-finished-the-terrific",
+          "label": "ch09-in-which-is-concluded-and-finished-the-terrific"
+        },
+        {
+          "type": "related",
+          "target": "ch10-of-the-pleasant-discourse-that-passed-between-don",
+          "label": "ch10-of-the-pleasant-discourse-that-passed-between-don"
+        },
+        {
+          "type": "related",
+          "target": "ch11-what-befell-don-quixote-with-certain-goatherds",
+          "label": "ch11-what-befell-don-quixote-with-certain-goatherds"
+        },
+        {
+          "type": "related",
+          "target": "ch12-of-what-a-goatherd-related-to-those-with",
+          "label": "ch12-of-what-a-goatherd-related-to-those-with"
+        },
+        {
+          "type": "related",
+          "target": "ch13-in-which-is-ended-the-story-of-the",
+          "label": "ch13-in-which-is-ended-the-story-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch14-wherein-are-inserted-the-despairing-verses-of-the",
+          "label": "ch14-wherein-are-inserted-the-despairing-verses-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch15-in-which-is-related-the-unfortunate-adventure-that",
+          "label": "ch15-in-which-is-related-the-unfortunate-adventure-that"
+        },
+        {
+          "type": "related",
+          "target": "ch16-of-what-happened-to-the-ingenious-gentleman-in",
+          "label": "ch16-of-what-happened-to-the-ingenious-gentleman-in"
+        },
+        {
+          "type": "related",
+          "target": "ch17-in-which-are-contained-the-innumerable-troubles-which",
+          "label": "ch17-in-which-are-contained-the-innumerable-troubles-which"
+        },
+        {
+          "type": "related",
+          "target": "ch18-in-which-is-related-the-discourse-sancho-panza",
+          "label": "ch18-in-which-is-related-the-discourse-sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "ch19-of-the-shrewd-discourse-which-sancho-held-with",
+          "label": "ch19-of-the-shrewd-discourse-which-sancho-held-with"
+        },
+        {
+          "type": "related",
+          "target": "ch20-of-the-unexampled-and-unheardof-adventure-which-was",
+          "label": "ch20-of-the-unexampled-and-unheardof-adventure-which-was"
+        },
+        {
+          "type": "related",
+          "target": "ch21-which-treats-of-the-exalted-adventure-and-rich",
+          "label": "ch21-which-treats-of-the-exalted-adventure-and-rich"
+        },
+        {
+          "type": "related",
+          "target": "ch22-of-the-freedom-don-quixote-conferred-on-several",
+          "label": "ch22-of-the-freedom-don-quixote-conferred-on-several"
+        },
+        {
+          "type": "related",
+          "target": "ch23-of-what-befell-don-quixote-in-the-sierra",
+          "label": "ch23-of-what-befell-don-quixote-in-the-sierra"
+        },
+        {
+          "type": "related",
+          "target": "ch24-in-which-is-continued-the-adventure-of-the",
+          "label": "ch24-in-which-is-continued-the-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch25-which-treats-of-the-strange-things-that-happened",
+          "label": "ch25-which-treats-of-the-strange-things-that-happened"
+        },
+        {
+          "type": "related",
+          "target": "ch26-in-which-are-continued-the-refinements-wherewith-don",
+          "label": "ch26-in-which-are-continued-the-refinements-wherewith-don"
+        },
+        {
+          "type": "related",
+          "target": "ch27-of-how-the-curate-and-the-barber-proceeded",
+          "label": "ch27-of-how-the-curate-and-the-barber-proceeded"
+        },
+        {
+          "type": "related",
+          "target": "ch28-which-treats-of-the-strange-and-delightful-adventure",
+          "label": "ch28-which-treats-of-the-strange-and-delightful-adventure"
+        },
+        {
+          "type": "related",
+          "target": "ch29-which-treats-of-the-droll-device-and-method",
+          "label": "ch29-which-treats-of-the-droll-device-and-method"
+        },
+        {
+          "type": "related",
+          "target": "ch30-which-treats-of-address-displayed-by-the-fair",
+          "label": "ch30-which-treats-of-address-displayed-by-the-fair"
+        },
+        {
+          "type": "related",
+          "target": "ch31-of-the-delectable-discussion-between-don-quixote-and",
+          "label": "ch31-of-the-delectable-discussion-between-don-quixote-and"
+        },
+        {
+          "type": "related",
+          "target": "ch32-which-treats-of-what-befell-don-quixotes-party",
+          "label": "ch32-which-treats-of-what-befell-don-quixotes-party"
+        },
+        {
+          "type": "related",
+          "target": "ch33-in-which-is-related-the-novel-of-the",
+          "label": "ch33-in-which-is-related-the-novel-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch34-in-which-is-continued-the-novel-of-the",
+          "label": "ch34-in-which-is-continued-the-novel-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch35-which-treats-of-the-heroic-and-prodigious-battle",
+          "label": "ch35-which-treats-of-the-heroic-and-prodigious-battle"
+        },
+        {
+          "type": "related",
+          "target": "ch36-which-treats-of-more-curious-incidents-that-occurred",
+          "label": "ch36-which-treats-of-more-curious-incidents-that-occurred"
+        },
+        {
+          "type": "related",
+          "target": "ch37-in-which-is-continued-the-story-of-the",
+          "label": "ch37-in-which-is-continued-the-story-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch38-which-treats-of-the-curious-discourse-don-quixote",
+          "label": "ch38-which-treats-of-the-curious-discourse-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch39-wherein-the-captive-relates-his-life-and-adventures",
+          "label": "ch39-wherein-the-captive-relates-his-life-and-adventures"
+        },
+        {
+          "type": "related",
+          "target": "ch40-in-which-the-story-of-the-captive-is",
+          "label": "ch40-in-which-the-story-of-the-captive-is"
+        },
+        {
+          "type": "related",
+          "target": "ch41-in-which-the-captive-still-continues-his-adventures",
+          "label": "ch41-in-which-the-captive-still-continues-his-adventures"
+        },
+        {
+          "type": "related",
+          "target": "ch42-which-treats-of-what-further-took-place-in",
+          "label": "ch42-which-treats-of-what-further-took-place-in"
+        },
+        {
+          "type": "related",
+          "target": "ch43-wherein-is-related-the-pleasant-story-of-the",
+          "label": "ch43-wherein-is-related-the-pleasant-story-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch44-in-which-are-continued-the-unheardof-adventures-of",
+          "label": "ch44-in-which-are-continued-the-unheardof-adventures-of"
+        },
+        {
+          "type": "related",
+          "target": "ch45-in-which-the-doubtful-question-of-mambrinos-helmet",
+          "label": "ch45-in-which-the-doubtful-question-of-mambrinos-helmet"
+        },
+        {
+          "type": "related",
+          "target": "ch46-of-the-end-of-the-notable-adventure-of",
+          "label": "ch46-of-the-end-of-the-notable-adventure-of"
+        },
+        {
+          "type": "related",
+          "target": "ch47-of-the-strange-manner-in-which-don-quixote",
+          "label": "ch47-of-the-strange-manner-in-which-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch48-in-which-the-canon-pursues-the-subject-of",
+          "label": "ch48-in-which-the-canon-pursues-the-subject-of"
+        },
+        {
+          "type": "related",
+          "target": "ch49-which-treats-of-the-shrewd-conversation-which-sancho",
+          "label": "ch49-which-treats-of-the-shrewd-conversation-which-sancho"
+        },
+        {
+          "type": "related",
+          "target": "ch50-of-the-shrewd-controversy-which-don-quixote-and",
+          "label": "ch50-of-the-shrewd-controversy-which-don-quixote-and"
+        },
+        {
+          "type": "related",
+          "target": "ch51-which-deals-with-what-the-goatherd-told-those",
+          "label": "ch51-which-deals-with-what-the-goatherd-told-those"
+        },
+        {
+          "type": "related",
+          "target": "ch52-of-the-quarrel-that-don-quixote-had-with",
+          "label": "ch52-of-the-quarrel-that-don-quixote-had-with"
+        },
+        {
+          "type": "related",
+          "target": "ch53-of-the-interview-the-curate-and-the-barber",
+          "label": "ch53-of-the-interview-the-curate-and-the-barber"
+        },
+        {
+          "type": "related",
+          "target": "ch54-which-treats-of-the-notable-altercation-which-sancho",
+          "label": "ch54-which-treats-of-the-notable-altercation-which-sancho"
+        },
+        {
+          "type": "related",
+          "target": "ch55-of-the-laughable-conversation-that-passed-between-don",
+          "label": "ch55-of-the-laughable-conversation-that-passed-between-don"
+        },
+        {
+          "type": "related",
+          "target": "ch56-in-which-sancho-panza-gives-a-satisfactory-reply",
+          "label": "ch56-in-which-sancho-panza-gives-a-satisfactory-reply"
+        },
+        {
+          "type": "related",
+          "target": "ch57-of-the-shrewd-and-droll-conversation-that-passed",
+          "label": "ch57-of-the-shrewd-and-droll-conversation-that-passed"
+        },
+        {
+          "type": "related",
+          "target": "ch58-of-what-took-place-between-don-quixote-and",
+          "label": "ch58-of-what-took-place-between-don-quixote-and"
+        },
+        {
+          "type": "related",
+          "target": "ch59-of-what-passed-between-don-quixote-and-his",
+          "label": "ch59-of-what-passed-between-don-quixote-and-his"
+        },
+        {
+          "type": "related",
+          "target": "ch60-wherein-is-related-what-befell-don-quixote-on",
+          "label": "ch60-wherein-is-related-what-befell-don-quixote-on"
+        },
+        {
+          "type": "related",
+          "target": "ch61-wherein-is-related-what-will-be-seen-there",
+          "label": "ch61-wherein-is-related-what-will-be-seen-there"
+        },
+        {
+          "type": "related",
+          "target": "ch62-wherein-is-related-the-crafty-device-sancho-adopted",
+          "label": "ch62-wherein-is-related-the-crafty-device-sancho-adopted"
+        },
+        {
+          "type": "related",
+          "target": "ch63-of-the-strange-adventure-which-the-valiant-don",
+          "label": "ch63-of-the-strange-adventure-which-the-valiant-don"
+        },
+        {
+          "type": "related",
+          "target": "ch64-of-the-strange-adventure-which-befell-the-valiant",
+          "label": "ch64-of-the-strange-adventure-which-befell-the-valiant"
+        },
+        {
+          "type": "related",
+          "target": "ch65-in-which-is-continued-the-adventure-of-the",
+          "label": "ch65-in-which-is-continued-the-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch66-wherein-is-continued-the-adventure-of-the-knight",
+          "label": "ch66-wherein-is-continued-the-adventure-of-the-knight"
+        },
+        {
+          "type": "related",
+          "target": "ch67-wherein-it-is-told-and-known-who-the",
+          "label": "ch67-wherein-it-is-told-and-known-who-the"
+        },
+        {
+          "type": "related",
+          "target": "ch68-of-what-befell-don-quixote-with-a-discreet",
+          "label": "ch68-of-what-befell-don-quixote-with-a-discreet"
+        },
+        {
+          "type": "related",
+          "target": "ch69-wherein-is-shown-the-furthest-and-highest-point",
+          "label": "ch69-wherein-is-shown-the-furthest-and-highest-point"
+        },
+        {
+          "type": "related",
+          "target": "ch70-of-what-happened-don-quixote-in-the-castle",
+          "label": "ch70-of-what-happened-don-quixote-in-the-castle"
+        },
+        {
+          "type": "related",
+          "target": "ch71-in-which-is-related-the-adventure-of-the",
+          "label": "ch71-in-which-is-related-the-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch72-wherein-an-account-is-given-of-the-wedding",
+          "label": "ch72-wherein-an-account-is-given-of-the-wedding"
+        },
+        {
+          "type": "related",
+          "target": "ch73-in-which-camachos-wedding-is-continued-with-other",
+          "label": "ch73-in-which-camachos-wedding-is-continued-with-other"
+        },
+        {
+          "type": "related",
+          "target": "ch74-wherein-is-related-the-grand-adventure-of-the",
+          "label": "ch74-wherein-is-related-the-grand-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch75-of-the-wonderful-things-the-incomparable-don-quixote",
+          "label": "ch75-of-the-wonderful-things-the-incomparable-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch76-wherein-are-related-a-thousand-trifling-matters-as",
+          "label": "ch76-wherein-are-related-a-thousand-trifling-matters-as"
+        },
+        {
+          "type": "related",
+          "target": "ch77-wherein-is-set-down-the-braying-adventure-and",
+          "label": "ch77-wherein-is-set-down-the-braying-adventure-and"
+        },
+        {
+          "type": "related",
+          "target": "ch78-wherein-is-continued-the-droll-adventure-of-the",
+          "label": "ch78-wherein-is-continued-the-droll-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch79-wherein-it-is-shown-who-master-pedro-and",
+          "label": "ch79-wherein-it-is-shown-who-master-pedro-and"
+        },
+        {
+          "type": "related",
+          "target": "ch80-of-matters-that-benengeli-says-he-who-reads",
+          "label": "ch80-of-matters-that-benengeli-says-he-who-reads"
+        },
+        {
+          "type": "related",
+          "target": "ch81-of-the-famous-adventure-of-the-enchanted-bark",
+          "label": "ch81-of-the-famous-adventure-of-the-enchanted-bark"
+        },
+        {
+          "type": "related",
+          "target": "ch82-of-don-quixotes-adventure-with-a-fair-huntress",
+          "label": "ch82-of-don-quixotes-adventure-with-a-fair-huntress"
+        },
+        {
+          "type": "related",
+          "target": "ch83-which-treats-of-many-and-great-matters",
+          "label": "ch83-which-treats-of-many-and-great-matters"
+        },
+        {
+          "type": "related",
+          "target": "ch84-of-the-reply-don-quixote-gave-his-censurer",
+          "label": "ch84-of-the-reply-don-quixote-gave-his-censurer"
+        },
+        {
+          "type": "related",
+          "target": "ch85-of-the-delectable-discourse-which-the-duchess-and",
+          "label": "ch85-of-the-delectable-discourse-which-the-duchess-and"
+        },
+        {
+          "type": "related",
+          "target": "ch86-which-relates-how-they-learned-the-way-in",
+          "label": "ch86-which-relates-how-they-learned-the-way-in"
+        },
+        {
+          "type": "related",
+          "target": "ch87-wherein-is-continued-the-instruction-given-to-don",
+          "label": "ch87-wherein-is-continued-the-instruction-given-to-don"
+        },
+        {
+          "type": "related",
+          "target": "ch88-wherein-is-related-the-strange-and-undreamtof-adventure",
+          "label": "ch88-wherein-is-related-the-strange-and-undreamtof-adventure"
+        },
+        {
+          "type": "related",
+          "target": "ch89-wherein-is-continued-the-notable-adventure-of-the",
+          "label": "ch89-wherein-is-continued-the-notable-adventure-of-the"
+        },
+        {
+          "type": "related",
+          "target": "ch90-wherein-is-told-the-distressed-duennas-tale-of",
+          "label": "ch90-wherein-is-told-the-distressed-duennas-tale-of"
+        },
+        {
+          "type": "related",
+          "target": "ch91-in-which-the-trifaldi-continues-her-marvellous-and",
+          "label": "ch91-in-which-the-trifaldi-continues-her-marvellous-and"
+        },
+        {
+          "type": "related",
+          "target": "ch92-of-matters-relating-and-belonging-to-this-adventure",
+          "label": "ch92-of-matters-relating-and-belonging-to-this-adventure"
+        },
+        {
+          "type": "related",
+          "target": "ch93-of-the-arrival-of-clavileño-and-the-end",
+          "label": "ch93-of-the-arrival-of-clavileño-and-the-end"
+        },
+        {
+          "type": "related",
+          "target": "ch94-of-the-counsels-which-don-quixote-gave-sancho",
+          "label": "ch94-of-the-counsels-which-don-quixote-gave-sancho"
+        },
+        {
+          "type": "related",
+          "target": "ch95-of-the-second-set-of-counsels-don-quixote",
+          "label": "ch95-of-the-second-set-of-counsels-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch96-how-sancho-panza-was-conducted-to-his-government",
+          "label": "ch96-how-sancho-panza-was-conducted-to-his-government"
+        },
+        {
+          "type": "related",
+          "target": "ch97-of-how-the-great-sancho-panza-took-possession",
+          "label": "ch97-of-how-the-great-sancho-panza-took-possession"
+        },
+        {
+          "type": "related",
+          "target": "ch98-of-the-terrible-bell-and-cat-fright-that",
+          "label": "ch98-of-the-terrible-bell-and-cat-fright-that"
+        },
+        {
+          "type": "related",
+          "target": "ch99-wherein-is-continued-the-account-of-how-sancho",
+          "label": "ch99-wherein-is-continued-the-account-of-how-sancho"
+        },
+        {
+          "type": "related",
+          "target": "ch100-of-what-befell-don-quixote-with-doña-rodriguez",
+          "label": "ch100-of-what-befell-don-quixote-with-doña-rodriguez"
+        },
+        {
+          "type": "related",
+          "target": "ch101-of-what-happened-sancho-in-making-the-round",
+          "label": "ch101-of-what-happened-sancho-in-making-the-round"
+        },
+        {
+          "type": "related",
+          "target": "ch102-wherein-is-set-forth-who-the-enchanters-and",
+          "label": "ch102-wherein-is-set-forth-who-the-enchanters-and"
+        },
+        {
+          "type": "related",
+          "target": "ch103-of-the-progress-of-sanchos-government-and-other",
+          "label": "ch103-of-the-progress-of-sanchos-government-and-other"
+        },
+        {
+          "type": "related",
+          "target": "ch104-wherein-is-related-the-adventure-of-the-second",
+          "label": "ch104-wherein-is-related-the-adventure-of-the-second"
+        },
+        {
+          "type": "related",
+          "target": "ch105-of-the-troublous-end-and-termination-sancho-panzas",
+          "label": "ch105-of-the-troublous-end-and-termination-sancho-panzas"
+        },
+        {
+          "type": "related",
+          "target": "ch106-which-deals-with-matters-relating-to-this-history",
+          "label": "ch106-which-deals-with-matters-relating-to-this-history"
+        },
+        {
+          "type": "related",
+          "target": "ch107-of-what-befell-sancho-on-the-road-and",
+          "label": "ch107-of-what-befell-sancho-on-the-road-and"
+        },
+        {
+          "type": "related",
+          "target": "ch108-of-the-prodigious-and-unparalleled-battle-that-took",
+          "label": "ch108-of-the-prodigious-and-unparalleled-battle-that-took"
+        },
+        {
+          "type": "related",
+          "target": "ch109-which-treats-of-how-don-quixote-took-leave",
+          "label": "ch109-which-treats-of-how-don-quixote-took-leave"
+        },
+        {
+          "type": "related",
+          "target": "ch110-which-tells-how-adventures-came-crowding-on-don",
+          "label": "ch110-which-tells-how-adventures-came-crowding-on-don"
+        },
+        {
+          "type": "related",
+          "target": "ch111-wherein-is-related-the-strange-thing-which-may",
+          "label": "ch111-wherein-is-related-the-strange-thing-which-may"
+        },
+        {
+          "type": "related",
+          "target": "ch112-of-what-happened-don-quixote-on-his-way",
+          "label": "ch112-of-what-happened-don-quixote-on-his-way"
+        },
+        {
+          "type": "related",
+          "target": "ch113-of-what-happened-don-quixote-on-entering-barcelona",
+          "label": "ch113-of-what-happened-don-quixote-on-entering-barcelona"
+        },
+        {
+          "type": "related",
+          "target": "ch114-which-deals-with-the-adventure-of-the-enchanted",
+          "label": "ch114-which-deals-with-the-adventure-of-the-enchanted"
+        },
+        {
+          "type": "related",
+          "target": "ch115-of-the-mishap-that-befell-sancho-panza-through",
+          "label": "ch115-of-the-mishap-that-befell-sancho-panza-through"
+        },
+        {
+          "type": "related",
+          "target": "ch116-treating-of-the-adventure-which-gave-don-quixote",
+          "label": "ch116-treating-of-the-adventure-which-gave-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch117-wherein-is-made-known-who-the-knight-of",
+          "label": "ch117-wherein-is-made-known-who-the-knight-of"
+        },
+        {
+          "type": "related",
+          "target": "ch118-which-treats-of-what-he-who-reads-will",
+          "label": "ch118-which-treats-of-what-he-who-reads-will"
+        },
+        {
+          "type": "related",
+          "target": "ch119-of-the-resolution-don-quixote-formed-to-turn",
+          "label": "ch119-of-the-resolution-don-quixote-formed-to-turn"
+        },
+        {
+          "type": "related",
+          "target": "ch120-of-the-bristly-adventure-that-befell-don-quixote",
+          "label": "ch120-of-the-bristly-adventure-that-befell-don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "ch121-of-the-strangest-and-most-extraordinary-adventure-that",
+          "label": "ch121-of-the-strangest-and-most-extraordinary-adventure-that"
+        },
+        {
+          "type": "related",
+          "target": "ch122-which-follows-sixtynine-and-deals-with-matters-indispensable",
+          "label": "ch122-which-follows-sixtynine-and-deals-with-matters-indispensable"
+        },
+        {
+          "type": "related",
+          "target": "ch123-of-what-passed-between-don-quixote-and-his",
+          "label": "ch123-of-what-passed-between-don-quixote-and-his"
+        },
+        {
+          "type": "related",
+          "target": "ch124-of-how-don-quixote-and-sancho-reached-their",
+          "label": "ch124-of-how-don-quixote-and-sancho-reached-their"
+        },
+        {
+          "type": "related",
+          "target": "ch125-of-the-omens-don-quixote-had-as-he",
+          "label": "ch125-of-the-omens-don-quixote-had-as-he"
+        },
+        {
+          "type": "related",
+          "target": "ch126-of-how-don-quixote-fell-sick-and-of",
+          "label": "ch126-of-how-don-quixote-fell-sick-and-of"
+        }
+      ]
+    },
+    {
+      "id": "adventure-of-the-galley-slaves",
+      "type": "event",
+      "label": "Adventure of the Galley Slaves",
+      "description": "One of Don Quixote's most consequential and morally ambiguous adventures — he frees a chain of convicts being led to the galleys, asserting the knightly duty to liberate the oppressed, only to be attacked by the very men he freed.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:adventure-of-the-galley-slaves",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "gines-de-pasamonte",
+          "label": "gines-de-pasamonte"
+        },
+        {
+          "type": "related",
+          "target": "adventure-of-the-lions",
+          "label": "adventure-of-the-lions"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "justice"
+        }
+      ]
+    },
+    {
+      "id": "adventure-of-the-lions",
+      "type": "event",
+      "label": "Adventure of the Lions",
+      "description": "The adventure in Part II where Don Quixote confronts a cage of lions being transported to court. When the lion simply turns its back on him, he renames himself the Knight of the Lions — an anticlimax that is also a quiet triumph.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:adventure-of-the-lions",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "adventure-of-the-windmills",
+          "label": "adventure-of-the-windmills"
+        }
+      ]
+    },
+    {
+      "id": "adventure-of-the-windmills",
+      "type": "\"event\"",
+      "label": "\"Adventure of the Windmills\"",
+      "description": "\"Don Quixote's most famous adventure (Part I, Chapter 8): he charges a field of windmills believing them to be giants, is thrown by a rotating sail, and blames the enchanter Frestón for transforming the giants to rob him of glory — the iconic episode that gave the world the phrase 'tilting at windmills.'\"",
+      "aliases": [
+        "the windmill adventure",
+        "tilting at windmills",
+        "the giants episode"
+      ],
+      "tags": [
+        "event",
+        "adventure",
+        "perception"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:adventure-of-the-windmills",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "windmills",
+          "label": "windmills"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "amadis-de-gaula",
+      "type": "\"work\"",
+      "label": "\"Amadís de Gaula\"",
+      "description": "\"The chivalric romance by Garci Rodríguez de Montalvo (1508) that serves as Don Quixote's explicit model for knight-errantry and the novel's central intertextual reference point.\"",
+      "aliases": [
+        "Amadis of Gaul",
+        "Amadís of Gaul"
+      ],
+      "tags": [
+        "work",
+        "chivalric romance",
+        "literature"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:amadis-de-gaula",
+      "relations": [
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        }
+      ]
+    },
+    {
+      "id": "barataria",
+      "type": "concept",
+      "label": "Barataria",
+      "description": "Stub page for Showcase cross-reference. Content pending Phase 2.1-B expansion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "don-quixote:barataria",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "cardenio",
+      "type": "person",
+      "label": "Cardenio",
+      "description": "\"Cardenio is a young nobleman driven to madness by the betrayal of his friend Don Fernando, who stole his beloved Luscinda. Discovered by Don Quixote and Sancho in the Sierra Morena, Cardenio's story of love and betrayal forms one of the novel's central romantic subplots and provides a mirror of Quixote's own love-madness.\"",
+      "aliases": [
+        "Cardenio",
+        "the Ragged Knight",
+        "the Knight of the Sierra",
+        "El Roto de la Mala Figura"
+      ],
+      "tags": [
+        "part-i",
+        "sierra-morena",
+        "love",
+        "madness",
+        "interpolated-tale"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:cardenio",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        },
+        {
+          "type": "related",
+          "target": "luscinda",
+          "label": "Luscinda"
+        },
+        {
+          "type": "related",
+          "target": "juan-palomeque",
+          "label": "Juan Palomeque"
+        },
+        {
+          "type": "related",
+          "target": "dorotea",
+          "label": "Dorotea"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "id": "cervantes",
+      "type": "person",
+      "label": "Miguel de Cervantes",
+      "description": "\"Miguel de Cervantes Saavedra (1547–1616) is the author of Don Quixote. His own experience as a soldier at the Battle of Lepanto and as a captive in Algiers deeply informed the novel, particularly the Captive's Tale.\"",
+      "aliases": [
+        "Miguel de Cervantes Saavedra",
+        "Cervantes"
+      ],
+      "tags": [
+        "author",
+        "biography",
+        "captivity",
+        "algiers",
+        "lepanto"
+      ],
+      "quality": "stub",
+      "source_ref": "don-quixote:cervantes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "the-captive",
+          "label": "The Captive (Ruy Pérez de Viedma)"
+        },
+        {
+          "type": "related",
+          "target": "cide-hamete-benengeli",
+          "label": "Cide Hamete Benengeli"
+        }
+      ]
+    },
+    {
+      "id": "ch01-which-treats-of-the-character-and-pursuits-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 1: WHICH TREATS OF THE CHARACTER AND PURSUITS OF THE FAMOUS GENTLEMAN DON\"",
+      "description": "\"Part 1, Chapter 1: WHICH TREATS OF THE CHARACTER AND PURSUITS OF THE FAMOUS GENTLEMAN DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch01-which-treats-of-the-character-and-pursuits-of",
+      "relations": []
+    },
+    {
+      "id": "ch02-which-treats-of-the-first-sally-the-ingenious",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 2: WHICH TREATS OF THE FIRST SALLY THE INGENIOUS DON QUIXOTE MADE FROM\"",
+      "description": "\"Part 1, Chapter 2: WHICH TREATS OF THE FIRST SALLY THE INGENIOUS DON QUIXOTE MADE FROM\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch02-which-treats-of-the-first-sally-the-ingenious",
+      "relations": []
+    },
+    {
+      "id": "ch03-wherein-is-related-the-droll-way-in-which",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 3: WHEREIN IS RELATED THE DROLL WAY IN WHICH DON QUIXOTE HAD HIMSELF\"",
+      "description": "\"Part 1, Chapter 3: WHEREIN IS RELATED THE DROLL WAY IN WHICH DON QUIXOTE HAD HIMSELF\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch03-wherein-is-related-the-droll-way-in-which",
+      "relations": []
+    },
+    {
+      "id": "ch04-of-what-happened-to-our-knight-when-he",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 4: OF WHAT HAPPENED TO OUR KNIGHT WHEN HE LEFT THE INN\"",
+      "description": "\"Part 1, Chapter 4: OF WHAT HAPPENED TO OUR KNIGHT WHEN HE LEFT THE INN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch04-of-what-happened-to-our-knight-when-he",
+      "relations": []
+    },
+    {
+      "id": "ch05-in-which-the-narrative-of-our-knights-mishap",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 5: IN WHICH THE NARRATIVE OF OUR KNIGHT’S MISHAP IS CONTINUED\"",
+      "description": "\"Part 1, Chapter 5: IN WHICH THE NARRATIVE OF OUR KNIGHT’S MISHAP IS CONTINUED\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch05-in-which-the-narrative-of-our-knights-mishap",
+      "relations": []
+    },
+    {
+      "id": "ch06-of-the-diverting-and-important-scrutiny-which-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 6: OF THE DIVERTING AND IMPORTANT SCRUTINY WHICH THE CURATE AND THE BARBER\"",
+      "description": "\"Part 1, Chapter 6: OF THE DIVERTING AND IMPORTANT SCRUTINY WHICH THE CURATE AND THE BARBER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch06-of-the-diverting-and-important-scrutiny-which-the",
+      "relations": []
+    },
+    {
+      "id": "ch07-of-the-second-sally-of-our-worthy-knight",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 7: OF THE SECOND SALLY OF OUR WORTHY KNIGHT DON QUIXOTE OF LA MANCHA\"",
+      "description": "\"Part 1, Chapter 7: OF THE SECOND SALLY OF OUR WORTHY KNIGHT DON QUIXOTE OF LA MANCHA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch07-of-the-second-sally-of-our-worthy-knight",
+      "relations": []
+    },
+    {
+      "id": "ch08-of-the-good-fortune-which-the-valiant-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 8: OF THE GOOD FORTUNE WHICH THE VALIANT DON QUIXOTE HAD IN THE TERRIBLE\"",
+      "description": "\"Part 1, Chapter 8: OF THE GOOD FORTUNE WHICH THE VALIANT DON QUIXOTE HAD IN THE TERRIBLE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch08-of-the-good-fortune-which-the-valiant-don",
+      "relations": []
+    },
+    {
+      "id": "ch09-in-which-is-concluded-and-finished-the-terrific",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 9: IN WHICH IS CONCLUDED AND FINISHED THE TERRIFIC BATTLE BETWEEN THE\"",
+      "description": "\"Part 1, Chapter 9: IN WHICH IS CONCLUDED AND FINISHED THE TERRIFIC BATTLE BETWEEN THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch09-in-which-is-concluded-and-finished-the-terrific",
+      "relations": []
+    },
+    {
+      "id": "ch10-of-the-pleasant-discourse-that-passed-between-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 10: OF THE PLEASANT DISCOURSE THAT PASSED BETWEEN DON QUIXOTE AND HIS\"",
+      "description": "\"Part 1, Chapter 10: OF THE PLEASANT DISCOURSE THAT PASSED BETWEEN DON QUIXOTE AND HIS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch10-of-the-pleasant-discourse-that-passed-between-don",
+      "relations": []
+    },
+    {
+      "id": "ch100-of-what-befell-don-quixote-with-doña-rodriguez",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 100: OF WHAT BEFELL DON QUIXOTE WITH DOÑA RODRIGUEZ, THE DUCHESS’S DUENNA,\"",
+      "description": "\"Part 2, Chapter 48: OF WHAT BEFELL DON QUIXOTE WITH DOÑA RODRIGUEZ, THE DUCHESS’S DUENNA,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch100-of-what-befell-don-quixote-with-doña-rodriguez",
+      "relations": []
+    },
+    {
+      "id": "ch101-of-what-happened-sancho-in-making-the-round",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 101: OF WHAT HAPPENED SANCHO IN MAKING THE ROUND OF HIS ISLAND\"",
+      "description": "\"Part 2, Chapter 49: OF WHAT HAPPENED SANCHO IN MAKING THE ROUND OF HIS ISLAND\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch101-of-what-happened-sancho-in-making-the-round",
+      "relations": []
+    },
+    {
+      "id": "ch102-wherein-is-set-forth-who-the-enchanters-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 102: WHEREIN IS SET FORTH WHO THE ENCHANTERS AND EXECUTIONERS WERE WHO\"",
+      "description": "\"Part 2, Chapter 50: WHEREIN IS SET FORTH WHO THE ENCHANTERS AND EXECUTIONERS WERE WHO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch102-wherein-is-set-forth-who-the-enchanters-and",
+      "relations": []
+    },
+    {
+      "id": "ch103-of-the-progress-of-sanchos-government-and-other",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 103: OF THE PROGRESS OF SANCHO’S GOVERNMENT, AND OTHER SUCH ENTERTAINING\"",
+      "description": "\"Part 2, Chapter 51: OF THE PROGRESS OF SANCHO’S GOVERNMENT, AND OTHER SUCH ENTERTAINING\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch103-of-the-progress-of-sanchos-government-and-other",
+      "relations": []
+    },
+    {
+      "id": "ch104-wherein-is-related-the-adventure-of-the-second",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 104: WHEREIN IS RELATED THE ADVENTURE OF THE SECOND DISTRESSED OR AFFLICTED\"",
+      "description": "\"Part 2, Chapter 52: WHEREIN IS RELATED THE ADVENTURE OF THE SECOND DISTRESSED OR AFFLICTED\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch104-wherein-is-related-the-adventure-of-the-second",
+      "relations": []
+    },
+    {
+      "id": "ch105-of-the-troublous-end-and-termination-sancho-panzas",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 105: OF THE TROUBLOUS END AND TERMINATION SANCHO PANZA’S GOVERNMENT CAME TO\"",
+      "description": "\"Part 2, Chapter 53: OF THE TROUBLOUS END AND TERMINATION SANCHO PANZA’S GOVERNMENT CAME TO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch105-of-the-troublous-end-and-termination-sancho-panzas",
+      "relations": []
+    },
+    {
+      "id": "ch106-which-deals-with-matters-relating-to-this-history",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 106: WHICH DEALS WITH MATTERS RELATING TO THIS HISTORY AND NO OTHER\"",
+      "description": "\"Part 2, Chapter 54: WHICH DEALS WITH MATTERS RELATING TO THIS HISTORY AND NO OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch106-which-deals-with-matters-relating-to-this-history",
+      "relations": []
+    },
+    {
+      "id": "ch107-of-what-befell-sancho-on-the-road-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 107: OF WHAT BEFELL SANCHO ON THE ROAD, AND OTHER THINGS THAT CANNOT BE\"",
+      "description": "\"Part 2, Chapter 55: OF WHAT BEFELL SANCHO ON THE ROAD, AND OTHER THINGS THAT CANNOT BE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch107-of-what-befell-sancho-on-the-road-and",
+      "relations": []
+    },
+    {
+      "id": "ch108-of-the-prodigious-and-unparalleled-battle-that-took",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 108: OF THE PRODIGIOUS AND UNPARALLELED BATTLE THAT TOOK PLACE BETWEEN DON\"",
+      "description": "\"Part 2, Chapter 56: OF THE PRODIGIOUS AND UNPARALLELED BATTLE THAT TOOK PLACE BETWEEN DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch108-of-the-prodigious-and-unparalleled-battle-that-took",
+      "relations": []
+    },
+    {
+      "id": "ch109-which-treats-of-how-don-quixote-took-leave",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 109: WHICH TREATS OF HOW DON QUIXOTE TOOK LEAVE OF THE DUKE, AND OF WHAT\"",
+      "description": "\"Part 2, Chapter 57: WHICH TREATS OF HOW DON QUIXOTE TOOK LEAVE OF THE DUKE, AND OF WHAT\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch109-which-treats-of-how-don-quixote-took-leave",
+      "relations": []
+    },
+    {
+      "id": "ch11-what-befell-don-quixote-with-certain-goatherds",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 11: WHAT BEFELL DON QUIXOTE WITH CERTAIN GOATHERDS\"",
+      "description": "\"Part 1, Chapter 11: WHAT BEFELL DON QUIXOTE WITH CERTAIN GOATHERDS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch11-what-befell-don-quixote-with-certain-goatherds",
+      "relations": []
+    },
+    {
+      "id": "ch110-which-tells-how-adventures-came-crowding-on-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 110: WHICH TELLS HOW ADVENTURES CAME CROWDING ON DON QUIXOTE IN SUCH NUMBERS\"",
+      "description": "\"Part 2, Chapter 58: WHICH TELLS HOW ADVENTURES CAME CROWDING ON DON QUIXOTE IN SUCH NUMBERS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch110-which-tells-how-adventures-came-crowding-on-don",
+      "relations": []
+    },
+    {
+      "id": "ch111-wherein-is-related-the-strange-thing-which-may",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 111: WHEREIN IS RELATED THE STRANGE THING, WHICH MAY BE REGARDED AS AN\"",
+      "description": "\"Part 2, Chapter 59: WHEREIN IS RELATED THE STRANGE THING, WHICH MAY BE REGARDED AS AN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch111-wherein-is-related-the-strange-thing-which-may",
+      "relations": []
+    },
+    {
+      "id": "ch112-of-what-happened-don-quixote-on-his-way",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 112: OF WHAT HAPPENED DON QUIXOTE ON HIS WAY TO BARCELONA\"",
+      "description": "\"Part 2, Chapter 60: OF WHAT HAPPENED DON QUIXOTE ON HIS WAY TO BARCELONA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch112-of-what-happened-don-quixote-on-his-way",
+      "relations": []
+    },
+    {
+      "id": "ch113-of-what-happened-don-quixote-on-entering-barcelona",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 113: OF WHAT HAPPENED DON QUIXOTE ON ENTERING BARCELONA, TOGETHER WITH OTHER\"",
+      "description": "\"Part 2, Chapter 61: OF WHAT HAPPENED DON QUIXOTE ON ENTERING BARCELONA, TOGETHER WITH OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch113-of-what-happened-don-quixote-on-entering-barcelona",
+      "relations": []
+    },
+    {
+      "id": "ch114-which-deals-with-the-adventure-of-the-enchanted",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 114: WHICH DEALS WITH THE ADVENTURE OF THE ENCHANTED HEAD, TOGETHER WITH\"",
+      "description": "\"Part 2, Chapter 62: WHICH DEALS WITH THE ADVENTURE OF THE ENCHANTED HEAD, TOGETHER WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch114-which-deals-with-the-adventure-of-the-enchanted",
+      "relations": []
+    },
+    {
+      "id": "ch115-of-the-mishap-that-befell-sancho-panza-through",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 115: OF THE MISHAP THAT BEFELL SANCHO PANZA THROUGH THE VISIT TO THE\"",
+      "description": "\"Part 2, Chapter 63: OF THE MISHAP THAT BEFELL SANCHO PANZA THROUGH THE VISIT TO THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch115-of-the-mishap-that-befell-sancho-panza-through",
+      "relations": []
+    },
+    {
+      "id": "ch116-treating-of-the-adventure-which-gave-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 116: TREATING OF THE ADVENTURE WHICH GAVE DON QUIXOTE MORE UNHAPPINESS THAN\"",
+      "description": "\"Part 2, Chapter 64: TREATING OF THE ADVENTURE WHICH GAVE DON QUIXOTE MORE UNHAPPINESS THAN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch116-treating-of-the-adventure-which-gave-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch117-wherein-is-made-known-who-the-knight-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 117: WHEREIN IS MADE KNOWN WHO THE KNIGHT OF THE WHITE MOON WAS; LIKEWISE\"",
+      "description": "\"Part 2, Chapter 65: WHEREIN IS MADE KNOWN WHO THE KNIGHT OF THE WHITE MOON WAS; LIKEWISE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch117-wherein-is-made-known-who-the-knight-of",
+      "relations": []
+    },
+    {
+      "id": "ch118-which-treats-of-what-he-who-reads-will",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 118: WHICH TREATS OF WHAT HE WHO READS WILL SEE, OR WHAT HE WHO HAS IT READ\"",
+      "description": "\"Part 2, Chapter 66: WHICH TREATS OF WHAT HE WHO READS WILL SEE, OR WHAT HE WHO HAS IT READ\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch118-which-treats-of-what-he-who-reads-will",
+      "relations": []
+    },
+    {
+      "id": "ch119-of-the-resolution-don-quixote-formed-to-turn",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 119: OF THE RESOLUTION DON QUIXOTE FORMED TO TURN SHEPHERD AND TAKE TO A\"",
+      "description": "\"Part 2, Chapter 67: OF THE RESOLUTION DON QUIXOTE FORMED TO TURN SHEPHERD AND TAKE TO A\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch119-of-the-resolution-don-quixote-formed-to-turn",
+      "relations": []
+    },
+    {
+      "id": "ch12-of-what-a-goatherd-related-to-those-with",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 12: OF WHAT A GOATHERD RELATED TO THOSE WITH DON QUIXOTE\"",
+      "description": "\"Part 1, Chapter 12: OF WHAT A GOATHERD RELATED TO THOSE WITH DON QUIXOTE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch12-of-what-a-goatherd-related-to-those-with",
+      "relations": []
+    },
+    {
+      "id": "ch120-of-the-bristly-adventure-that-befell-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 120: OF THE BRISTLY ADVENTURE THAT BEFELL DON QUIXOTE\"",
+      "description": "\"Part 2, Chapter 68: OF THE BRISTLY ADVENTURE THAT BEFELL DON QUIXOTE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch120-of-the-bristly-adventure-that-befell-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch121-of-the-strangest-and-most-extraordinary-adventure-that",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 121: OF THE STRANGEST AND MOST EXTRAORDINARY ADVENTURE THAT BEFELL DON\"",
+      "description": "\"Part 2, Chapter 69: OF THE STRANGEST AND MOST EXTRAORDINARY ADVENTURE THAT BEFELL DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch121-of-the-strangest-and-most-extraordinary-adventure-that",
+      "relations": []
+    },
+    {
+      "id": "ch122-which-follows-sixtynine-and-deals-with-matters-indispensable",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 122: WHICH FOLLOWS SIXTY-NINE AND DEALS WITH MATTERS INDISPENSABLE FOR THE\"",
+      "description": "\"Part 2, Chapter 70: WHICH FOLLOWS SIXTY-NINE AND DEALS WITH MATTERS INDISPENSABLE FOR THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch122-which-follows-sixtynine-and-deals-with-matters-indispensable",
+      "relations": []
+    },
+    {
+      "id": "ch123-of-what-passed-between-don-quixote-and-his",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 123: OF WHAT PASSED BETWEEN DON QUIXOTE AND HIS SQUIRE SANCHO ON THE WAY TO\"",
+      "description": "\"Part 2, Chapter 71: OF WHAT PASSED BETWEEN DON QUIXOTE AND HIS SQUIRE SANCHO ON THE WAY TO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch123-of-what-passed-between-don-quixote-and-his",
+      "relations": []
+    },
+    {
+      "id": "ch124-of-how-don-quixote-and-sancho-reached-their",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 124: OF HOW DON QUIXOTE AND SANCHO REACHED THEIR VILLAGE\"",
+      "description": "\"Part 2, Chapter 72: OF HOW DON QUIXOTE AND SANCHO REACHED THEIR VILLAGE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch124-of-how-don-quixote-and-sancho-reached-their",
+      "relations": []
+    },
+    {
+      "id": "ch125-of-the-omens-don-quixote-had-as-he",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 125: OF THE OMENS DON QUIXOTE HAD AS HE ENTERED HIS OWN VILLAGE, AND OTHER\"",
+      "description": "\"Part 2, Chapter 73: OF THE OMENS DON QUIXOTE HAD AS HE ENTERED HIS OWN VILLAGE, AND OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch125-of-the-omens-don-quixote-had-as-he",
+      "relations": []
+    },
+    {
+      "id": "ch126-of-how-don-quixote-fell-sick-and-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 126: OF HOW DON QUIXOTE FELL SICK, AND OF THE WILL HE MADE, AND HOW HE DIED\"",
+      "description": "\"Part 2, Chapter 74: OF HOW DON QUIXOTE FELL SICK, AND OF THE WILL HE MADE, AND HOW HE DIED\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch126-of-how-don-quixote-fell-sick-and-of",
+      "relations": []
+    },
+    {
+      "id": "ch13-in-which-is-ended-the-story-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 13: IN WHICH IS ENDED THE STORY OF THE SHEPHERDESS MARCELA, WITH OTHER\"",
+      "description": "\"Part 1, Chapter 13: IN WHICH IS ENDED THE STORY OF THE SHEPHERDESS MARCELA, WITH OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch13-in-which-is-ended-the-story-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch14-wherein-are-inserted-the-despairing-verses-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 14: WHEREIN ARE INSERTED THE DESPAIRING VERSES OF THE DEAD SHEPHERD,\"",
+      "description": "\"Part 1, Chapter 14: WHEREIN ARE INSERTED THE DESPAIRING VERSES OF THE DEAD SHEPHERD,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch14-wherein-are-inserted-the-despairing-verses-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch15-in-which-is-related-the-unfortunate-adventure-that",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 15: IN WHICH IS RELATED THE UNFORTUNATE ADVENTURE THAT DON QUIXOTE FELL IN\"",
+      "description": "\"Part 1, Chapter 15: IN WHICH IS RELATED THE UNFORTUNATE ADVENTURE THAT DON QUIXOTE FELL IN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch15-in-which-is-related-the-unfortunate-adventure-that",
+      "relations": []
+    },
+    {
+      "id": "ch16-of-what-happened-to-the-ingenious-gentleman-in",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 16: OF WHAT HAPPENED TO THE INGENIOUS GENTLEMAN IN THE INN WHICH HE TOOK TO\"",
+      "description": "\"Part 1, Chapter 16: OF WHAT HAPPENED TO THE INGENIOUS GENTLEMAN IN THE INN WHICH HE TOOK TO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch16-of-what-happened-to-the-ingenious-gentleman-in",
+      "relations": []
+    },
+    {
+      "id": "ch17-in-which-are-contained-the-innumerable-troubles-which",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 17: IN WHICH ARE CONTAINED THE INNUMERABLE TROUBLES WHICH THE BRAVE DON\"",
+      "description": "\"Part 1, Chapter 17: IN WHICH ARE CONTAINED THE INNUMERABLE TROUBLES WHICH THE BRAVE DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch17-in-which-are-contained-the-innumerable-troubles-which",
+      "relations": []
+    },
+    {
+      "id": "ch18-in-which-is-related-the-discourse-sancho-panza",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 18: IN WHICH IS RELATED THE DISCOURSE SANCHO PANZA HELD WITH HIS MASTER,\"",
+      "description": "\"Part 1, Chapter 18: IN WHICH IS RELATED THE DISCOURSE SANCHO PANZA HELD WITH HIS MASTER,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch18-in-which-is-related-the-discourse-sancho-panza",
+      "relations": []
+    },
+    {
+      "id": "ch19-of-the-shrewd-discourse-which-sancho-held-with",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 19: OF THE SHREWD DISCOURSE WHICH SANCHO HELD WITH HIS MASTER, AND OF THE\"",
+      "description": "\"Part 1, Chapter 19: OF THE SHREWD DISCOURSE WHICH SANCHO HELD WITH HIS MASTER, AND OF THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch19-of-the-shrewd-discourse-which-sancho-held-with",
+      "relations": []
+    },
+    {
+      "id": "ch20-of-the-unexampled-and-unheardof-adventure-which-was",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 20: OF THE UNEXAMPLED AND UNHEARD-OF ADVENTURE WHICH WAS ACHIEVED BY THE\"",
+      "description": "\"Part 1, Chapter 20: OF THE UNEXAMPLED AND UNHEARD-OF ADVENTURE WHICH WAS ACHIEVED BY THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch20-of-the-unexampled-and-unheardof-adventure-which-was",
+      "relations": []
+    },
+    {
+      "id": "ch21-which-treats-of-the-exalted-adventure-and-rich",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 21: WHICH TREATS OF THE EXALTED ADVENTURE AND RICH PRIZE OF MAMBRINO’S\"",
+      "description": "\"Part 1, Chapter 21: WHICH TREATS OF THE EXALTED ADVENTURE AND RICH PRIZE OF MAMBRINO’S\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch21-which-treats-of-the-exalted-adventure-and-rich",
+      "relations": []
+    },
+    {
+      "id": "ch22-of-the-freedom-don-quixote-conferred-on-several",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 22: OF THE FREEDOM DON QUIXOTE CONFERRED ON SEVERAL UNFORTUNATES WHO\"",
+      "description": "\"Part 1, Chapter 22: OF THE FREEDOM DON QUIXOTE CONFERRED ON SEVERAL UNFORTUNATES WHO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch22-of-the-freedom-don-quixote-conferred-on-several",
+      "relations": []
+    },
+    {
+      "id": "ch23-of-what-befell-don-quixote-in-the-sierra",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 23: OF WHAT BEFELL DON QUIXOTE IN THE SIERRA MORENA, WHICH WAS ONE OF THE\"",
+      "description": "\"Part 1, Chapter 23: OF WHAT BEFELL DON QUIXOTE IN THE SIERRA MORENA, WHICH WAS ONE OF THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch23-of-what-befell-don-quixote-in-the-sierra",
+      "relations": []
+    },
+    {
+      "id": "ch24-in-which-is-continued-the-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 24: IN WHICH IS CONTINUED THE ADVENTURE OF THE SIERRA MORENA\"",
+      "description": "\"Part 1, Chapter 24: IN WHICH IS CONTINUED THE ADVENTURE OF THE SIERRA MORENA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch24-in-which-is-continued-the-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch25-which-treats-of-the-strange-things-that-happened",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 25: WHICH TREATS OF THE STRANGE THINGS THAT HAPPENED TO THE STOUT KNIGHT OF\"",
+      "description": "\"Part 1, Chapter 25: WHICH TREATS OF THE STRANGE THINGS THAT HAPPENED TO THE STOUT KNIGHT OF\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch25-which-treats-of-the-strange-things-that-happened",
+      "relations": []
+    },
+    {
+      "id": "ch26-in-which-are-continued-the-refinements-wherewith-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 26: IN WHICH ARE CONTINUED THE REFINEMENTS WHEREWITH DON QUIXOTE PLAYED THE\"",
+      "description": "\"Part 1, Chapter 26: IN WHICH ARE CONTINUED THE REFINEMENTS WHEREWITH DON QUIXOTE PLAYED THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch26-in-which-are-continued-the-refinements-wherewith-don",
+      "relations": []
+    },
+    {
+      "id": "ch27-of-how-the-curate-and-the-barber-proceeded",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 27: OF HOW THE CURATE AND THE BARBER PROCEEDED WITH THEIR SCHEME; TOGETHER\"",
+      "description": "\"Part 1, Chapter 27: OF HOW THE CURATE AND THE BARBER PROCEEDED WITH THEIR SCHEME; TOGETHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch27-of-how-the-curate-and-the-barber-proceeded",
+      "relations": []
+    },
+    {
+      "id": "ch28-which-treats-of-the-strange-and-delightful-adventure",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 28: WHICH TREATS OF THE STRANGE AND DELIGHTFUL ADVENTURE THAT BEFELL THE\"",
+      "description": "\"Part 1, Chapter 28: WHICH TREATS OF THE STRANGE AND DELIGHTFUL ADVENTURE THAT BEFELL THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch28-which-treats-of-the-strange-and-delightful-adventure",
+      "relations": []
+    },
+    {
+      "id": "ch29-which-treats-of-the-droll-device-and-method",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 29: WHICH TREATS OF THE DROLL DEVICE AND METHOD ADOPTED TO EXTRICATE OUR\"",
+      "description": "\"Part 1, Chapter 29: WHICH TREATS OF THE DROLL DEVICE AND METHOD ADOPTED TO EXTRICATE OUR\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch29-which-treats-of-the-droll-device-and-method",
+      "relations": []
+    },
+    {
+      "id": "ch30-which-treats-of-address-displayed-by-the-fair",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 30: WHICH TREATS OF ADDRESS DISPLAYED BY THE FAIR DOROTHEA, WITH OTHER\"",
+      "description": "\"Part 1, Chapter 30: WHICH TREATS OF ADDRESS DISPLAYED BY THE FAIR DOROTHEA, WITH OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch30-which-treats-of-address-displayed-by-the-fair",
+      "relations": []
+    },
+    {
+      "id": "ch31-of-the-delectable-discussion-between-don-quixote-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 31: OF THE DELECTABLE DISCUSSION BETWEEN DON QUIXOTE AND SANCHO PANZA, HIS\"",
+      "description": "\"Part 1, Chapter 31: OF THE DELECTABLE DISCUSSION BETWEEN DON QUIXOTE AND SANCHO PANZA, HIS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch31-of-the-delectable-discussion-between-don-quixote-and",
+      "relations": []
+    },
+    {
+      "id": "ch32-which-treats-of-what-befell-don-quixotes-party",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 32: WHICH TREATS OF WHAT BEFELL DON QUIXOTE’S PARTY AT THE INN\"",
+      "description": "\"Part 1, Chapter 32: WHICH TREATS OF WHAT BEFELL DON QUIXOTE’S PARTY AT THE INN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch32-which-treats-of-what-befell-don-quixotes-party",
+      "relations": []
+    },
+    {
+      "id": "ch33-in-which-is-related-the-novel-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 33: IN WHICH IS RELATED THE NOVEL OF “THE ILL-ADVISED CURIOSITY”\"",
+      "description": "\"Part 1, Chapter 33: IN WHICH IS RELATED THE NOVEL OF “THE ILL-ADVISED CURIOSITY”\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch33-in-which-is-related-the-novel-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch34-in-which-is-continued-the-novel-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 34: IN WHICH IS CONTINUED THE NOVEL OF “THE ILL-ADVISED CURIOSITY”\"",
+      "description": "\"Part 1, Chapter 34: IN WHICH IS CONTINUED THE NOVEL OF “THE ILL-ADVISED CURIOSITY”\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch34-in-which-is-continued-the-novel-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch35-which-treats-of-the-heroic-and-prodigious-battle",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 35: WHICH TREATS OF THE HEROIC AND PRODIGIOUS BATTLE DON QUIXOTE HAD WITH\"",
+      "description": "\"Part 1, Chapter 35: WHICH TREATS OF THE HEROIC AND PRODIGIOUS BATTLE DON QUIXOTE HAD WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch35-which-treats-of-the-heroic-and-prodigious-battle",
+      "relations": []
+    },
+    {
+      "id": "ch36-which-treats-of-more-curious-incidents-that-occurred",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 36: WHICH TREATS OF MORE CURIOUS INCIDENTS THAT OCCURRED AT THE INN\"",
+      "description": "\"Part 1, Chapter 36: WHICH TREATS OF MORE CURIOUS INCIDENTS THAT OCCURRED AT THE INN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch36-which-treats-of-more-curious-incidents-that-occurred",
+      "relations": []
+    },
+    {
+      "id": "ch37-in-which-is-continued-the-story-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 37: IN WHICH IS CONTINUED THE STORY OF THE FAMOUS PRINCESS MICOMICONA, WITH\"",
+      "description": "\"Part 1, Chapter 37: IN WHICH IS CONTINUED THE STORY OF THE FAMOUS PRINCESS MICOMICONA, WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch37-in-which-is-continued-the-story-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch38-which-treats-of-the-curious-discourse-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 38: WHICH TREATS OF THE CURIOUS DISCOURSE DON QUIXOTE DELIVERED ON ARMS AND\"",
+      "description": "\"Part 1, Chapter 38: WHICH TREATS OF THE CURIOUS DISCOURSE DON QUIXOTE DELIVERED ON ARMS AND\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch38-which-treats-of-the-curious-discourse-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch39-wherein-the-captive-relates-his-life-and-adventures",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 39: WHEREIN THE CAPTIVE RELATES HIS LIFE AND ADVENTURES\"",
+      "description": "\"Part 1, Chapter 39: WHEREIN THE CAPTIVE RELATES HIS LIFE AND ADVENTURES\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch39-wherein-the-captive-relates-his-life-and-adventures",
+      "relations": []
+    },
+    {
+      "id": "ch40-in-which-the-story-of-the-captive-is",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 40: IN WHICH THE STORY OF THE CAPTIVE IS CONTINUED.\"",
+      "description": "\"Part 1, Chapter 40: IN WHICH THE STORY OF THE CAPTIVE IS CONTINUED.\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch40-in-which-the-story-of-the-captive-is",
+      "relations": []
+    },
+    {
+      "id": "ch41-in-which-the-captive-still-continues-his-adventures",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 41: IN WHICH THE CAPTIVE STILL CONTINUES HIS ADVENTURES\"",
+      "description": "\"Part 1, Chapter 41: IN WHICH THE CAPTIVE STILL CONTINUES HIS ADVENTURES\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch41-in-which-the-captive-still-continues-his-adventures",
+      "relations": []
+    },
+    {
+      "id": "ch42-which-treats-of-what-further-took-place-in",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 42: WHICH TREATS OF WHAT FURTHER TOOK PLACE IN THE INN, AND OF SEVERAL\"",
+      "description": "\"Part 1, Chapter 42: WHICH TREATS OF WHAT FURTHER TOOK PLACE IN THE INN, AND OF SEVERAL\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch42-which-treats-of-what-further-took-place-in",
+      "relations": []
+    },
+    {
+      "id": "ch43-wherein-is-related-the-pleasant-story-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 43: WHEREIN IS RELATED THE PLEASANT STORY OF THE MULETEER, TOGETHER WITH\"",
+      "description": "\"Part 1, Chapter 43: WHEREIN IS RELATED THE PLEASANT STORY OF THE MULETEER, TOGETHER WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch43-wherein-is-related-the-pleasant-story-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch44-in-which-are-continued-the-unheardof-adventures-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 44: IN WHICH ARE CONTINUED THE UNHEARD-OF ADVENTURES OF THE INN\"",
+      "description": "\"Part 1, Chapter 44: IN WHICH ARE CONTINUED THE UNHEARD-OF ADVENTURES OF THE INN\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch44-in-which-are-continued-the-unheardof-adventures-of",
+      "relations": []
+    },
+    {
+      "id": "ch45-in-which-the-doubtful-question-of-mambrinos-helmet",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 45: IN WHICH THE DOUBTFUL QUESTION OF MAMBRINO’S HELMET AND THE PACK-SADDLE\"",
+      "description": "\"Part 1, Chapter 45: IN WHICH THE DOUBTFUL QUESTION OF MAMBRINO’S HELMET AND THE PACK-SADDLE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch45-in-which-the-doubtful-question-of-mambrinos-helmet",
+      "relations": []
+    },
+    {
+      "id": "ch46-of-the-end-of-the-notable-adventure-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 46: OF THE END OF THE NOTABLE ADVENTURE OF THE OFFICERS OF THE HOLY\"",
+      "description": "\"Part 1, Chapter 46: OF THE END OF THE NOTABLE ADVENTURE OF THE OFFICERS OF THE HOLY\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch46-of-the-end-of-the-notable-adventure-of",
+      "relations": []
+    },
+    {
+      "id": "ch47-of-the-strange-manner-in-which-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 47: OF THE STRANGE MANNER IN WHICH DON QUIXOTE OF LA MANCHA WAS CARRIED\"",
+      "description": "\"Part 1, Chapter 47: OF THE STRANGE MANNER IN WHICH DON QUIXOTE OF LA MANCHA WAS CARRIED\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch47-of-the-strange-manner-in-which-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch48-in-which-the-canon-pursues-the-subject-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 48: IN WHICH THE CANON PURSUES THE SUBJECT OF THE BOOKS OF CHIVALRY, WITH\"",
+      "description": "\"Part 1, Chapter 48: IN WHICH THE CANON PURSUES THE SUBJECT OF THE BOOKS OF CHIVALRY, WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch48-in-which-the-canon-pursues-the-subject-of",
+      "relations": []
+    },
+    {
+      "id": "ch49-which-treats-of-the-shrewd-conversation-which-sancho",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 49: WHICH TREATS OF THE SHREWD CONVERSATION WHICH SANCHO PANZA HELD WITH\"",
+      "description": "\"Part 1, Chapter 49: WHICH TREATS OF THE SHREWD CONVERSATION WHICH SANCHO PANZA HELD WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch49-which-treats-of-the-shrewd-conversation-which-sancho",
+      "relations": []
+    },
+    {
+      "id": "ch50-of-the-shrewd-controversy-which-don-quixote-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 50: OF THE SHREWD CONTROVERSY WHICH DON QUIXOTE AND THE CANON HELD,\"",
+      "description": "\"Part 1, Chapter 50: OF THE SHREWD CONTROVERSY WHICH DON QUIXOTE AND THE CANON HELD,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch50-of-the-shrewd-controversy-which-don-quixote-and",
+      "relations": []
+    },
+    {
+      "id": "ch51-which-deals-with-what-the-goatherd-told-those",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 51: WHICH DEALS WITH WHAT THE GOATHERD TOLD THOSE WHO WERE CARRYING OFF DON\"",
+      "description": "\"Part 1, Chapter 51: WHICH DEALS WITH WHAT THE GOATHERD TOLD THOSE WHO WERE CARRYING OFF DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch51-which-deals-with-what-the-goatherd-told-those",
+      "relations": []
+    },
+    {
+      "id": "ch52-of-the-quarrel-that-don-quixote-had-with",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 52: OF THE QUARREL THAT DON QUIXOTE HAD WITH THE GOATHERD, TOGETHER WITH\"",
+      "description": "\"Part 1, Chapter 52: OF THE QUARREL THAT DON QUIXOTE HAD WITH THE GOATHERD, TOGETHER WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-1"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch52-of-the-quarrel-that-don-quixote-had-with",
+      "relations": []
+    },
+    {
+      "id": "ch53-of-the-interview-the-curate-and-the-barber",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 53: OF THE INTERVIEW THE CURATE AND THE BARBER HAD WITH DON QUIXOTE ABOUT\"",
+      "description": "\"Part 2, Chapter 1: OF THE INTERVIEW THE CURATE AND THE BARBER HAD WITH DON QUIXOTE ABOUT\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch53-of-the-interview-the-curate-and-the-barber",
+      "relations": []
+    },
+    {
+      "id": "ch54-which-treats-of-the-notable-altercation-which-sancho",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 54: WHICH TREATS OF THE NOTABLE ALTERCATION WHICH SANCHO PANZA HAD WITH DON\"",
+      "description": "\"Part 2, Chapter 2: WHICH TREATS OF THE NOTABLE ALTERCATION WHICH SANCHO PANZA HAD WITH DON\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch54-which-treats-of-the-notable-altercation-which-sancho",
+      "relations": []
+    },
+    {
+      "id": "ch55-of-the-laughable-conversation-that-passed-between-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 55: OF THE LAUGHABLE CONVERSATION THAT PASSED BETWEEN DON QUIXOTE, SANCHO\"",
+      "description": "\"Part 2, Chapter 3: OF THE LAUGHABLE CONVERSATION THAT PASSED BETWEEN DON QUIXOTE, SANCHO\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch55-of-the-laughable-conversation-that-passed-between-don",
+      "relations": []
+    },
+    {
+      "id": "ch56-in-which-sancho-panza-gives-a-satisfactory-reply",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 56: IN WHICH SANCHO PANZA GIVES A SATISFACTORY REPLY TO THE DOUBTS AND\"",
+      "description": "\"Part 2, Chapter 4: IN WHICH SANCHO PANZA GIVES A SATISFACTORY REPLY TO THE DOUBTS AND\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch56-in-which-sancho-panza-gives-a-satisfactory-reply",
+      "relations": []
+    },
+    {
+      "id": "ch57-of-the-shrewd-and-droll-conversation-that-passed",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 57: OF THE SHREWD AND DROLL CONVERSATION THAT PASSED BETWEEN SANCHO PANZA\"",
+      "description": "\"Part 2, Chapter 5: OF THE SHREWD AND DROLL CONVERSATION THAT PASSED BETWEEN SANCHO PANZA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch57-of-the-shrewd-and-droll-conversation-that-passed",
+      "relations": []
+    },
+    {
+      "id": "ch58-of-what-took-place-between-don-quixote-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 58: OF WHAT TOOK PLACE BETWEEN DON QUIXOTE AND HIS NIECE AND HOUSEKEEPER;\"",
+      "description": "\"Part 2, Chapter 6: OF WHAT TOOK PLACE BETWEEN DON QUIXOTE AND HIS NIECE AND HOUSEKEEPER;\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch58-of-what-took-place-between-don-quixote-and",
+      "relations": []
+    },
+    {
+      "id": "ch59-of-what-passed-between-don-quixote-and-his",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 59: OF WHAT PASSED BETWEEN DON QUIXOTE AND HIS SQUIRE, TOGETHER WITH OTHER\"",
+      "description": "\"Part 2, Chapter 7: OF WHAT PASSED BETWEEN DON QUIXOTE AND HIS SQUIRE, TOGETHER WITH OTHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch59-of-what-passed-between-don-quixote-and-his",
+      "relations": []
+    },
+    {
+      "id": "ch60-wherein-is-related-what-befell-don-quixote-on",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 60: WHEREIN IS RELATED WHAT BEFELL DON QUIXOTE ON HIS WAY TO SEE HIS LADY\"",
+      "description": "\"Part 2, Chapter 8: WHEREIN IS RELATED WHAT BEFELL DON QUIXOTE ON HIS WAY TO SEE HIS LADY\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch60-wherein-is-related-what-befell-don-quixote-on",
+      "relations": []
+    },
+    {
+      "id": "ch61-wherein-is-related-what-will-be-seen-there",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 61: WHEREIN IS RELATED WHAT WILL BE SEEN THERE\"",
+      "description": "\"Part 2, Chapter 9: WHEREIN IS RELATED WHAT WILL BE SEEN THERE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch61-wherein-is-related-what-will-be-seen-there",
+      "relations": []
+    },
+    {
+      "id": "ch62-wherein-is-related-the-crafty-device-sancho-adopted",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 62: WHEREIN IS RELATED THE CRAFTY DEVICE SANCHO ADOPTED TO ENCHANT THE LADY\"",
+      "description": "\"Part 2, Chapter 10: WHEREIN IS RELATED THE CRAFTY DEVICE SANCHO ADOPTED TO ENCHANT THE LADY\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch62-wherein-is-related-the-crafty-device-sancho-adopted",
+      "relations": []
+    },
+    {
+      "id": "ch63-of-the-strange-adventure-which-the-valiant-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 63: OF THE STRANGE ADVENTURE WHICH THE VALIANT DON QUIXOTE HAD WITH THE CAR\"",
+      "description": "\"Part 2, Chapter 11: OF THE STRANGE ADVENTURE WHICH THE VALIANT DON QUIXOTE HAD WITH THE CAR\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch63-of-the-strange-adventure-which-the-valiant-don",
+      "relations": []
+    },
+    {
+      "id": "ch64-of-the-strange-adventure-which-befell-the-valiant",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 64: OF THE STRANGE ADVENTURE WHICH BEFELL THE VALIANT DON QUIXOTE WITH THE\"",
+      "description": "\"Part 2, Chapter 12: OF THE STRANGE ADVENTURE WHICH BEFELL THE VALIANT DON QUIXOTE WITH THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch64-of-the-strange-adventure-which-befell-the-valiant",
+      "relations": []
+    },
+    {
+      "id": "ch65-in-which-is-continued-the-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 65: IN WHICH IS CONTINUED THE ADVENTURE OF THE KNIGHT OF THE GROVE,\"",
+      "description": "\"Part 2, Chapter 13: IN WHICH IS CONTINUED THE ADVENTURE OF THE KNIGHT OF THE GROVE,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch65-in-which-is-continued-the-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch66-wherein-is-continued-the-adventure-of-the-knight",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 66: WHEREIN IS CONTINUED THE ADVENTURE OF THE KNIGHT OF THE GROVE\"",
+      "description": "\"Part 2, Chapter 14: WHEREIN IS CONTINUED THE ADVENTURE OF THE KNIGHT OF THE GROVE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch66-wherein-is-continued-the-adventure-of-the-knight",
+      "relations": []
+    },
+    {
+      "id": "ch67-wherein-it-is-told-and-known-who-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 67: WHEREIN IT IS TOLD AND KNOWN WHO THE KNIGHT OF THE MIRRORS AND HIS\"",
+      "description": "\"Part 2, Chapter 15: WHEREIN IT IS TOLD AND KNOWN WHO THE KNIGHT OF THE MIRRORS AND HIS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch67-wherein-it-is-told-and-known-who-the",
+      "relations": []
+    },
+    {
+      "id": "ch68-of-what-befell-don-quixote-with-a-discreet",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 68: OF WHAT BEFELL DON QUIXOTE WITH A DISCREET GENTLEMAN OF LA MANCHA\"",
+      "description": "\"Part 2, Chapter 16: OF WHAT BEFELL DON QUIXOTE WITH A DISCREET GENTLEMAN OF LA MANCHA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch68-of-what-befell-don-quixote-with-a-discreet",
+      "relations": []
+    },
+    {
+      "id": "ch69-wherein-is-shown-the-furthest-and-highest-point",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 69: WHEREIN IS SHOWN THE FURTHEST AND HIGHEST POINT WHICH THE UNEXAMPLED\"",
+      "description": "\"Part 2, Chapter 17: WHEREIN IS SHOWN THE FURTHEST AND HIGHEST POINT WHICH THE UNEXAMPLED\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch69-wherein-is-shown-the-furthest-and-highest-point",
+      "relations": []
+    },
+    {
+      "id": "ch70-of-what-happened-don-quixote-in-the-castle",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 70: OF WHAT HAPPENED DON QUIXOTE IN THE CASTLE OR HOUSE OF THE KNIGHT OF\"",
+      "description": "\"Part 2, Chapter 18: OF WHAT HAPPENED DON QUIXOTE IN THE CASTLE OR HOUSE OF THE KNIGHT OF\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch70-of-what-happened-don-quixote-in-the-castle",
+      "relations": []
+    },
+    {
+      "id": "ch71-in-which-is-related-the-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 71: IN WHICH IS RELATED THE ADVENTURE OF THE ENAMOURED SHEPHERD, TOGETHER\"",
+      "description": "\"Part 2, Chapter 19: IN WHICH IS RELATED THE ADVENTURE OF THE ENAMOURED SHEPHERD, TOGETHER\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch71-in-which-is-related-the-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch72-wherein-an-account-is-given-of-the-wedding",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 72: WHEREIN AN ACCOUNT IS GIVEN OF THE WEDDING OF CAMACHO THE RICH,\"",
+      "description": "\"Part 2, Chapter 20: WHEREIN AN ACCOUNT IS GIVEN OF THE WEDDING OF CAMACHO THE RICH,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch72-wherein-an-account-is-given-of-the-wedding",
+      "relations": []
+    },
+    {
+      "id": "ch73-in-which-camachos-wedding-is-continued-with-other",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 73: IN WHICH CAMACHO’S WEDDING IS CONTINUED, WITH OTHER DELIGHTFUL\"",
+      "description": "\"Part 2, Chapter 21: IN WHICH CAMACHO’S WEDDING IS CONTINUED, WITH OTHER DELIGHTFUL\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch73-in-which-camachos-wedding-is-continued-with-other",
+      "relations": []
+    },
+    {
+      "id": "ch74-wherein-is-related-the-grand-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 74: WHEREIN IS RELATED THE GRAND ADVENTURE OF THE CAVE OF MONTESINOS IN THE\"",
+      "description": "\"Part 2, Chapter 22: WHEREIN IS RELATED THE GRAND ADVENTURE OF THE CAVE OF MONTESINOS IN THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch74-wherein-is-related-the-grand-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch75-of-the-wonderful-things-the-incomparable-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 75: OF THE WONDERFUL THINGS THE INCOMPARABLE DON QUIXOTE SAID HE SAW IN THE\"",
+      "description": "\"Part 2, Chapter 23: OF THE WONDERFUL THINGS THE INCOMPARABLE DON QUIXOTE SAID HE SAW IN THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch75-of-the-wonderful-things-the-incomparable-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch76-wherein-are-related-a-thousand-trifling-matters-as",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 76: WHEREIN ARE RELATED A THOUSAND TRIFLING MATTERS, AS TRIVIAL AS THEY ARE\"",
+      "description": "\"Part 2, Chapter 24: WHEREIN ARE RELATED A THOUSAND TRIFLING MATTERS, AS TRIVIAL AS THEY ARE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch76-wherein-are-related-a-thousand-trifling-matters-as",
+      "relations": []
+    },
+    {
+      "id": "ch77-wherein-is-set-down-the-braying-adventure-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 77: WHEREIN IS SET DOWN THE BRAYING ADVENTURE, AND THE DROLL ONE OF THE\"",
+      "description": "\"Part 2, Chapter 25: WHEREIN IS SET DOWN THE BRAYING ADVENTURE, AND THE DROLL ONE OF THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch77-wherein-is-set-down-the-braying-adventure-and",
+      "relations": []
+    },
+    {
+      "id": "ch78-wherein-is-continued-the-droll-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 78: WHEREIN IS CONTINUED THE DROLL ADVENTURE OF THE PUPPET-SHOWMAN,\"",
+      "description": "\"Part 2, Chapter 26: WHEREIN IS CONTINUED THE DROLL ADVENTURE OF THE PUPPET-SHOWMAN,\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch78-wherein-is-continued-the-droll-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch79-wherein-it-is-shown-who-master-pedro-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 79: WHEREIN IT IS SHOWN WHO MASTER PEDRO AND HIS APE WERE, TOGETHER WITH\"",
+      "description": "\"Part 2, Chapter 27: WHEREIN IT IS SHOWN WHO MASTER PEDRO AND HIS APE WERE, TOGETHER WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch79-wherein-it-is-shown-who-master-pedro-and",
+      "relations": []
+    },
+    {
+      "id": "ch80-of-matters-that-benengeli-says-he-who-reads",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 80: OF MATTERS THAT BENENGELI SAYS HE WHO READS THEM WILL KNOW, IF HE READS\"",
+      "description": "\"Part 2, Chapter 28: OF MATTERS THAT BENENGELI SAYS HE WHO READS THEM WILL KNOW, IF HE READS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch80-of-matters-that-benengeli-says-he-who-reads",
+      "relations": []
+    },
+    {
+      "id": "ch81-of-the-famous-adventure-of-the-enchanted-bark",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 81: OF THE FAMOUS ADVENTURE OF THE ENCHANTED BARK\"",
+      "description": "\"Part 2, Chapter 29: OF THE FAMOUS ADVENTURE OF THE ENCHANTED BARK\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch81-of-the-famous-adventure-of-the-enchanted-bark",
+      "relations": []
+    },
+    {
+      "id": "ch82-of-don-quixotes-adventure-with-a-fair-huntress",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 82: OF DON QUIXOTE’S ADVENTURE WITH A FAIR HUNTRESS\"",
+      "description": "\"Part 2, Chapter 30: OF DON QUIXOTE’S ADVENTURE WITH A FAIR HUNTRESS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch82-of-don-quixotes-adventure-with-a-fair-huntress",
+      "relations": []
+    },
+    {
+      "id": "ch83-which-treats-of-many-and-great-matters",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 83: WHICH TREATS OF MANY AND GREAT MATTERS\"",
+      "description": "\"Part 2, Chapter 31: WHICH TREATS OF MANY AND GREAT MATTERS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch83-which-treats-of-many-and-great-matters",
+      "relations": []
+    },
+    {
+      "id": "ch84-of-the-reply-don-quixote-gave-his-censurer",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 84: OF THE REPLY DON QUIXOTE GAVE HIS CENSURER, WITH OTHER INCIDENTS, GRAVE\"",
+      "description": "\"Part 2, Chapter 32: OF THE REPLY DON QUIXOTE GAVE HIS CENSURER, WITH OTHER INCIDENTS, GRAVE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch84-of-the-reply-don-quixote-gave-his-censurer",
+      "relations": []
+    },
+    {
+      "id": "ch85-of-the-delectable-discourse-which-the-duchess-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 85: OF THE DELECTABLE DISCOURSE WHICH THE DUCHESS AND HER DAMSELS HELD WITH\"",
+      "description": "\"Part 2, Chapter 33: OF THE DELECTABLE DISCOURSE WHICH THE DUCHESS AND HER DAMSELS HELD WITH\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch85-of-the-delectable-discourse-which-the-duchess-and",
+      "relations": []
+    },
+    {
+      "id": "ch86-which-relates-how-they-learned-the-way-in",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 86: WHICH RELATES HOW THEY LEARNED THE WAY IN WHICH THEY WERE TO DISENCHANT\"",
+      "description": "\"Part 2, Chapter 34: WHICH RELATES HOW THEY LEARNED THE WAY IN WHICH THEY WERE TO DISENCHANT\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch86-which-relates-how-they-learned-the-way-in",
+      "relations": []
+    },
+    {
+      "id": "ch87-wherein-is-continued-the-instruction-given-to-don",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 87: WHEREIN IS CONTINUED THE INSTRUCTION GIVEN TO DON QUIXOTE TOUCHING THE\"",
+      "description": "\"Part 2, Chapter 35: WHEREIN IS CONTINUED THE INSTRUCTION GIVEN TO DON QUIXOTE TOUCHING THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch87-wherein-is-continued-the-instruction-given-to-don",
+      "relations": []
+    },
+    {
+      "id": "ch88-wherein-is-related-the-strange-and-undreamtof-adventure",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 88: WHEREIN IS RELATED THE STRANGE AND UNDREAMT-OF ADVENTURE OF THE\"",
+      "description": "\"Part 2, Chapter 36: WHEREIN IS RELATED THE STRANGE AND UNDREAMT-OF ADVENTURE OF THE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch88-wherein-is-related-the-strange-and-undreamtof-adventure",
+      "relations": []
+    },
+    {
+      "id": "ch89-wherein-is-continued-the-notable-adventure-of-the",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 89: WHEREIN IS CONTINUED THE NOTABLE ADVENTURE OF THE DISTRESSED DUENNA\"",
+      "description": "\"Part 2, Chapter 37: WHEREIN IS CONTINUED THE NOTABLE ADVENTURE OF THE DISTRESSED DUENNA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch89-wherein-is-continued-the-notable-adventure-of-the",
+      "relations": []
+    },
+    {
+      "id": "ch90-wherein-is-told-the-distressed-duennas-tale-of",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 90: WHEREIN IS TOLD THE DISTRESSED DUENNA’S TALE OF HER MISFORTUNES\"",
+      "description": "\"Part 2, Chapter 38: WHEREIN IS TOLD THE DISTRESSED DUENNA’S TALE OF HER MISFORTUNES\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch90-wherein-is-told-the-distressed-duennas-tale-of",
+      "relations": []
+    },
+    {
+      "id": "ch91-in-which-the-trifaldi-continues-her-marvellous-and",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 91: IN WHICH THE TRIFALDI CONTINUES HER MARVELLOUS AND MEMORABLE STORY\"",
+      "description": "\"Part 2, Chapter 39: IN WHICH THE TRIFALDI CONTINUES HER MARVELLOUS AND MEMORABLE STORY\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch91-in-which-the-trifaldi-continues-her-marvellous-and",
+      "relations": []
+    },
+    {
+      "id": "ch92-of-matters-relating-and-belonging-to-this-adventure",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 92: OF MATTERS RELATING AND BELONGING TO THIS ADVENTURE AND TO THIS\"",
+      "description": "\"Part 2, Chapter 40: OF MATTERS RELATING AND BELONGING TO THIS ADVENTURE AND TO THIS\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch92-of-matters-relating-and-belonging-to-this-adventure",
+      "relations": []
+    },
+    {
+      "id": "ch93-of-the-arrival-of-clavileño-and-the-end",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 93: OF THE ARRIVAL OF CLAVILEÑO AND THE END OF THIS PROTRACTED ADVENTURE\"",
+      "description": "\"Part 2, Chapter 41: OF THE ARRIVAL OF CLAVILEÑO AND THE END OF THIS PROTRACTED ADVENTURE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch93-of-the-arrival-of-clavileño-and-the-end",
+      "relations": []
+    },
+    {
+      "id": "ch94-of-the-counsels-which-don-quixote-gave-sancho",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 94: OF THE COUNSELS WHICH DON QUIXOTE GAVE SANCHO PANZA BEFORE HE SET OUT\"",
+      "description": "\"Part 2, Chapter 42: OF THE COUNSELS WHICH DON QUIXOTE GAVE SANCHO PANZA BEFORE HE SET OUT\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch94-of-the-counsels-which-don-quixote-gave-sancho",
+      "relations": []
+    },
+    {
+      "id": "ch95-of-the-second-set-of-counsels-don-quixote",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 95: OF THE SECOND SET OF COUNSELS DON QUIXOTE GAVE SANCHO PANZA\"",
+      "description": "\"Part 2, Chapter 43: OF THE SECOND SET OF COUNSELS DON QUIXOTE GAVE SANCHO PANZA\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch95-of-the-second-set-of-counsels-don-quixote",
+      "relations": []
+    },
+    {
+      "id": "ch96-how-sancho-panza-was-conducted-to-his-government",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 96: HOW SANCHO PANZA WAS CONDUCTED TO HIS GOVERNMENT, AND OF THE STRANGE\"",
+      "description": "\"Part 2, Chapter 44: HOW SANCHO PANZA WAS CONDUCTED TO HIS GOVERNMENT, AND OF THE STRANGE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch96-how-sancho-panza-was-conducted-to-his-government",
+      "relations": []
+    },
+    {
+      "id": "ch97-of-how-the-great-sancho-panza-took-possession",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 97: OF HOW THE GREAT SANCHO PANZA TOOK POSSESSION OF HIS ISLAND, AND OF HOW\"",
+      "description": "\"Part 2, Chapter 45: OF HOW THE GREAT SANCHO PANZA TOOK POSSESSION OF HIS ISLAND, AND OF HOW\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch97-of-how-the-great-sancho-panza-took-possession",
+      "relations": []
+    },
+    {
+      "id": "ch98-of-the-terrible-bell-and-cat-fright-that",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 98: OF THE TERRIBLE BELL AND CAT FRIGHT THAT DON QUIXOTE GOT IN THE COURSE\"",
+      "description": "\"Part 2, Chapter 46: OF THE TERRIBLE BELL AND CAT FRIGHT THAT DON QUIXOTE GOT IN THE COURSE\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch98-of-the-terrible-bell-and-cat-fright-that",
+      "relations": []
+    },
+    {
+      "id": "ch99-wherein-is-continued-the-account-of-how-sancho",
+      "type": "\"chapter\"",
+      "label": "\"Chapter 99: WHEREIN IS CONTINUED THE ACCOUNT OF HOW SANCHO PANZA CONDUCTED HIMSELF\"",
+      "description": "\"Part 2, Chapter 47: WHEREIN IS CONTINUED THE ACCOUNT OF HOW SANCHO PANZA CONDUCTED HIMSELF\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "part-2"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:ch99-wherein-is-continued-the-account-of-how-sancho",
+      "relations": []
+    },
+    {
+      "id": "chivalry",
+      "type": "concept",
+      "label": "Chivalry",
+      "description": "\"The chivalric code and its deconstruction in Miguel de Cervantes' Don Quixote\"",
+      "aliases": [
+        "Chivalric Code",
+        "Knight-errantry",
+        "Order of Chivalry"
+      ],
+      "tags": [
+        "concept",
+        "theme"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:chivalry",
+      "relations": [
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        }
+      ]
+    },
+    {
+      "id": "church",
+      "type": "organization",
+      "label": "The Church",
+      "description": "The institutional religious presence in Don Quixote's world — represented by the curate, the canon of Toledo, and the looming shadow of the Inquisition. The Church acts as both guardian of orthodoxy and unwitting enabler of the novel's metafictional play.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:church",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "holy-brotherhood",
+          "label": "holy-brotherhood"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "cide-hamete-benengeli",
+      "type": "\"person\"",
+      "label": "\"Cide Hamete Benengeli\"",
+      "description": "\"The fictional Arabic historian whose manuscript Cervantes claims to have had translated as the source text for Don Quixote — a metafictional device through which Cervantes playfully undermines the authority of his own narration and comments on truth, translation, and authorship.\"",
+      "aliases": [
+        "Cide Hamete",
+        "the supposed Arabic author",
+        "the Moorish chronicler"
+      ],
+      "tags": [
+        "person",
+        "narrator",
+        "metafiction",
+        "arabic"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:cide-hamete-benengeli",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "amadis-de-gaula",
+          "label": "amadis-de-gaula"
+        }
+      ]
+    },
+    {
+      "id": "don-fernando",
+      "type": "\"person\"",
+      "label": "\"Don Fernando\"",
+      "description": "\"A young and powerful nobleman who betrays Dorotea after seducing her, steals Luscinda from Cardenio on the eve of their wedding, and drives both lovers into the Sierra Morena — the novel's most morally complex antagonist, whose eventual redemption at the inn provides the emotional climax of Part I's interpolated narratives.\"",
+      "aliases": [
+        "Don Fernando of Aragon"
+      ],
+      "tags": [
+        "person",
+        "sierra-morena",
+        "villain",
+        "nobleman"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:don-fernando",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cardenio",
+          "label": "cardenio"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        }
+      ]
+    },
+    {
+      "id": "don-quixote",
+      "type": "person",
+      "label": "Don Quixote",
+      "description": "The protagonist of Cervantes' novel, Alonso Quixano — an aging gentleman from La Mancha who, maddened by reading too many books of chivalry, renames himself Don Quixote and sets out as a knight-errant to right wrongs and defend the helpless.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:don-quixote",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dulcinea-del-toboso",
+          "label": "dulcinea-del-toboso"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "rocinante",
+          "label": "rocinante"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "dorotea",
+      "type": "person",
+      "label": "Dorotea",
+      "description": "\"Dorotea is a young woman wronged by Don Fernando who appears in the Sierra Morena arc of Part I. At the curate's urging, she disguises herself as Princess Micomicona to help lure Don Quixote away from his mountain penance. Her own story of betrayal and eventual restoration forms one of the novel's most intricate romantic subplots.\"",
+      "aliases": [
+        "Dorothea",
+        "Princess Micomicona",
+        "Princess Micomicon"
+      ],
+      "tags": [
+        "part-i",
+        "sierra-morena",
+        "female-character",
+        "disguise",
+        "love"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:dorotea",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        },
+        {
+          "type": "related",
+          "target": "luscinda",
+          "label": "Luscinda"
+        },
+        {
+          "type": "related",
+          "target": "cardenio",
+          "label": "Cardenio"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "id": "dulcinea-del-toboso",
+      "type": "person",
+      "label": "Dulcinea del Toboso",
+      "description": "\"Dulcinea del Toboso is Don Quixote's idealized lady-love, whom he imagines as a peerless princess but who is, in reality, a farm girl named Aldonza Lorenzo from the village of El Toboso. She is the absent center around which all of Quixote's chivalric adventures revolve, and her non-appearance is one of the novel's most significant structural devices.\"",
+      "aliases": [
+        "Dulcinea del Toboso",
+        "Aldonza Lorenzo",
+        "the peerless Dulcinea"
+      ],
+      "tags": [
+        "part-i",
+        "part-ii",
+        "love-interest",
+        "idealization",
+        "female-character",
+        "topos"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:dulcinea-del-toboso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "el-toboso",
+          "label": "El Toboso"
+        },
+        {
+          "type": "related",
+          "target": "cide-hamete-benengeli",
+          "label": "Cide Hamete Benengeli"
+        }
+      ]
+    },
+    {
+      "id": "el-toboso",
+      "type": "place",
+      "label": "El Toboso",
+      "description": "The village in La Mancha that Don Quixote chooses as the home of his imaginary lady-love, Dulcinea del Toboso. Based on the real town of El Toboso in Toledo province, it is the destination of one of the novel's most poignant episodes in Part II.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:el-toboso",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dulcinea-del-toboso",
+          "label": "dulcinea-del-toboso"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "gines-de-pasamonte",
+      "type": "person",
+      "label": "Ginés de Pasamonte",
+      "description": "\"Ginés de Pasamonte is a galley slave freed by Don Quixote in Part I who later reappears in Part II disguised as Maese Pedro, a puppeteer. As the author of his own autobiography, he is one of Cervantes's most metafictional creations — a character who writes his own life.\"",
+      "aliases": [
+        "Ginés de Pasamonte",
+        "Ginesillo de Parapilla",
+        "Maese Pedro",
+        "Master Pedro"
+      ],
+      "tags": [
+        "part-i",
+        "part-ii",
+        "criminal",
+        "galley-slaves",
+        "puppeteer",
+        "metafiction"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:gines-de-pasamonte",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "adventure-of-the-galley-slaves",
+          "label": "adventure-of-the-galley-slaves"
+        },
+        {
+          "type": "related",
+          "target": "cide-hamete-benengeli",
+          "label": "Cide Hamete Benengeli"
+        }
+      ]
+    },
+    {
+      "id": "holy-brotherhood",
+      "type": "organization",
+      "label": "The Holy Brotherhood",
+      "description": "The Santa Hermandad — the armed peacekeeping force of early modern Spain — appears in Don Quixote as the secular authority that pursues the knight after he frees the galley slaves, representing the collision between chivalric idealism and legal reality.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:holy-brotherhood",
+      "relations": [
+        {
+          "type": "related",
+          "target": "adventure-of-the-galley-slaves",
+          "label": "adventure-of-the-galley-slaves"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "church",
+          "label": "church"
+        },
+        {
+          "type": "related",
+          "target": "justice",
+          "label": "justice"
+        }
+      ]
+    },
+    {
+      "id": "inn",
+      "type": "place",
+      "label": "The Inn",
+      "description": "The central spatial node of Part I of Don Quixote — a humble roadside inn that Don Quixote persistently mistakes for a castle, and where many of the novel's characters and plotlines converge.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:inn",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "el-toboso",
+          "label": "el-toboso"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "juan-palomeque",
+      "type": "person",
+      "label": "Juan Palomeque",
+      "description": "\"Juan Palomeque is the innkeeper of the inn near the Sierra Morena where the novel's principal romantic subplots converge. His establishment serves as the setting for the reunion of Cardenio, Luscinda, Don Fernando, and Dorotea, as well as the Captive's tale and the resolution of multiple narrative threads in Part I.\"",
+      "aliases": [
+        "the innkeeper",
+        "el ventero",
+        "Juan Palomeque el Zurdo"
+      ],
+      "tags": [
+        "part-i",
+        "innkeeper",
+        "sierra-morena",
+        "reunion"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:juan-palomeque",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "cardenio",
+          "label": "Cardenio"
+        },
+        {
+          "type": "related",
+          "target": "dorotea",
+          "label": "Dorotea"
+        },
+        {
+          "type": "related",
+          "target": "the-captive",
+          "label": "The Captive"
+        },
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "Justice",
+      "description": "Stub page for Showcase cross-reference. Content pending Phase 2.1-B expansion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "don-quixote:justice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "type": "concept",
+      "label": "Love",
+      "description": "The force that motivates Don Quixote's knighthood — courtly love modeled on chivalric romance, directed at the imaginary Dulcinea del Toboso, and contrasted with the real loves of the novel's inset stories.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:love",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "dulcinea-del-toboso",
+          "label": "dulcinea-del-toboso"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "cardenio",
+          "label": "cardenio"
+        }
+      ]
+    },
+    {
+      "id": "luscinda",
+      "type": "person",
+      "label": "Luscinda",
+      "description": "\"Luscinda is the beloved of Cardenio in the Sierra Morena arc of Part I. Her forced marriage to Don Fernando — and her dramatic resistance at the wedding — forms one of the novel's central romantic crises and ultimately leads to the restoration of all four lovers.\"",
+      "aliases": [
+        "Lucinda"
+      ],
+      "tags": [
+        "part-i",
+        "sierra-morena",
+        "female-character",
+        "love"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:luscinda",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cardenio",
+          "label": "Cardenio"
+        },
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        },
+        {
+          "type": "related",
+          "target": "juan-palomeque",
+          "label": "Juan Palomeque"
+        },
+        {
+          "type": "related",
+          "target": "dorotea",
+          "label": "Dorotea"
+        }
+      ]
+    },
+    {
+      "id": "madness",
+      "type": "concept",
+      "label": "Madness",
+      "description": "The central thematic engine of Don Quixote — Alonso Quixano's madness transforms a mundane world into a chivalric landscape, raising questions about the boundary between delusion and idealism, folly and wisdom.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:madness",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Alonso Quixano the Good"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "love",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        }
+      ]
+    },
+    {
+      "id": "mambrinos-helmet",
+      "type": "\"other\"",
+      "label": "\"Mambrino's Helmet\"",
+      "description": "\"A legendary golden helmet from chivalric romance that Don Quixote claims to have won in battle — in reality, a brass barber's basin. The novel's central symbol of the conflict between chivalric imagination and mundane reality.\"",
+      "aliases": [
+        "the barber's basin",
+        "el yelmo de Mambrino",
+        "the Golden Helmet"
+      ],
+      "tags": [
+        "other",
+        "artifact",
+        "perception"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:mambrinos-helmet",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "maritornes",
+      "type": "\"person\"",
+      "label": "\"Maritornes\"",
+      "description": "\"The Asturian serving-wench at Juan Palomeque's inn — a good-hearted but physically unglamorous figure who becomes entangled in a chaotic nocturnal farce when she agrees to secretly visit a muleteer and instead finds herself groped by a deluded Don Quixote in the dark.\"",
+      "aliases": [
+        "the Asturian wench",
+        "the Asturian maid"
+      ],
+      "tags": [
+        "person",
+        "inn",
+        "servant",
+        "comedy"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:maritornes",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "master-nicholas",
+      "type": "\"person\"",
+      "label": "\"Master Nicholas\"",
+      "description": "\"The barber of Don Quixote's unnamed village, close friend of the curate Pero Pérez, and one of the key allies who attempts to cure Alonso Quijano of his chivalric delusions — including the book-burning scrutiny of the library and the deceptive rescue mission to the Sierra Morena.\"",
+      "aliases": [
+        "the Barber",
+        "Maese Nicolás",
+        "the village barber"
+      ],
+      "tags": [
+        "person",
+        "barber",
+        "village",
+        "friend"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:master-nicholas",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        },
+        {
+          "type": "related",
+          "target": "mambrinos-helmet",
+          "label": "mambrinos-helmet"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "type": "concept",
+      "label": "Perception",
+      "description": "Stub page for Showcase cross-reference. Content pending Phase 2.1-B expansion.",
+      "aliases": [],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "don-quixote:perception",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        }
+      ]
+    },
+    {
+      "id": "preface",
+      "type": "\"chapter\"",
+      "label": "\"Preface & Front Matter\"",
+      "description": "\"Translator's introduction, author's prefaces, and dedications for Don Quixote\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "front-matter"
+      ],
+      "quality": "unknown",
+      "source_ref": "don-quixote:preface",
+      "relations": []
+    },
+    {
+      "id": "rocinante",
+      "type": "\"concept\"",
+      "label": "\"Rocinante\"",
+      "description": "\"Don Quixote's emaciated but faithful steed, whose name — a portmanteau of rocín (nag) and ante (before/former) — encapsulates the novel's ironic relationship with chivalric tradition: a broken-down workhorse elevated by nomenclature to knightly status.\"",
+      "aliases": [
+        "Rocinante",
+        "Don Quixote's horse"
+      ],
+      "tags": [
+        "concept",
+        "horse",
+        "symbolism"
+      ],
+      "quality": "\"standard\"",
+      "source_ref": "don-quixote:rocinante",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "inn",
+          "label": "inn"
+        }
+      ]
+    },
+    {
+      "id": "roque-guinart",
+      "type": "person",
+      "label": "Roque Guinart",
+      "description": "\"Roque Guinart is a Catalan bandit chief encountered by Don Quixote near Barcelona in Part II. Based on the historical figure Perot Rocaguinarda (1582–1635), he is portrayed as a chivalrous outlaw who enforces a rough justice among his followers and treats Don Quixote with unexpected courtesy.\"",
+      "aliases": [
+        "Roque Guinart",
+        "Roque Guinarde"
+      ],
+      "tags": [
+        "part-ii",
+        "catalonia",
+        "bandit",
+        "barcelona",
+        "historical-figure"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:roque-guinart",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "the-duke",
+          "label": "The Duke"
+        }
+      ]
+    },
+    {
+      "id": "sancho-panza",
+      "type": "person",
+      "label": "Sancho Panza",
+      "description": "The peasant labourer who becomes Don Quixote's squire, lured by promises of an island to govern. Sancho Panza's earthy practicality and stream of proverbs provide the comic counterpoint to his master's high-flown idealism.",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "don-quixote:sancho-panza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "dulcinea-del-toboso",
+          "label": "dulcinea-del-toboso"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "barataria",
+          "label": "barataria"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "sanson-carrasco",
+      "type": "person",
+      "label": "Samson Carrasco",
+      "description": "\"Samson Carrasco is a bachelor from Salamanca who, in Part II of Don Quixote, disguises himself first as the Knight of the Mirrors and later as the Knight of the White Moon in order to defeat Don Quixote in combat and force him to return home.\"",
+      "aliases": [
+        "Sansón Carrasco",
+        "Bachelor Carrasco",
+        "Knight of the Mirrors",
+        "Knight of the White Moon",
+        "El Caballero de los Espejos",
+        "El Caballero de la Blanca Luna"
+      ],
+      "tags": [
+        "antagonist",
+        "bachelor",
+        "salamanca",
+        "disguise",
+        "part-ii"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:sanson-carrasco",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "the Priest"
+        },
+        {
+          "type": "related",
+          "target": "master-nicholas",
+          "label": "Master Nicholas"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "cide-hamete-benengeli",
+          "label": "Cide Hamete Benengeli"
+        }
+      ]
+    },
+    {
+      "id": "teresa-panza",
+      "type": "person",
+      "label": "Teresa Panza",
+      "description": "\"Teresa Panza (née Teresa Cascajo) is Sancho Panza's wife. In Part II she receives letters from her husband during his governorship of Barataria and exchanges correspondence with the Duchess, providing a grounded, skeptical counterpoint to Sancho's ambitions.\"",
+      "aliases": [
+        "Teresa Panza",
+        "Teresa Cascajo",
+        "Teresaina",
+        "Doña Teresa Panza"
+      ],
+      "tags": [
+        "part-ii",
+        "female-character",
+        "sancho-family",
+        "barataria",
+        "letters"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:teresa-panza",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "the-duchess",
+          "label": "Duchess"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "the-housekeeper",
+          "label": "The Housekeeper"
+        }
+      ]
+    },
+    {
+      "id": "the-captive",
+      "type": "person",
+      "label": "The Captive (Ruy Pérez de Viedma)",
+      "description": "\"Ruy Pérez de Viedma, known simply as 'the Captive,' is a former Spanish military captain who appears at Juan Palomeque's inn in Part I and narrates the story of his captivity in Algiers and his escape with the help of Zoraida, a Moorish woman who converted to Christianity.\"",
+      "aliases": [
+        "The Captive",
+        "Ruy Pérez de Viedma",
+        "Captain Viedma"
+      ],
+      "tags": [
+        "part-i",
+        "captive-tale",
+        "algiers",
+        "military",
+        "zoraida",
+        "interpolated-tale"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-captive",
+      "relations": [
+        {
+          "type": "related",
+          "target": "juan-palomeque",
+          "label": "Juan Palomeque"
+        },
+        {
+          "type": "related",
+          "target": "zoraida",
+          "label": "Zoraida"
+        },
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "cervantes",
+          "label": "Miguel de Cervantes"
+        }
+      ]
+    },
+    {
+      "id": "the-duchess",
+      "type": "person",
+      "label": "The Duchess",
+      "description": "\"The Duchess is the wife of the Duke and co-host of Don Quixote and Sancho Panza at their country estate in Part II. Together with her husband, she orchestrates elaborate practical jokes, including Sancho's governorship of Barataria and the staged disenchantment of Dulcinea.\"",
+      "aliases": [
+        "Duchess",
+        "la Duquesa"
+      ],
+      "tags": [
+        "part-ii",
+        "nobility",
+        "host",
+        "prank",
+        "barataria",
+        "female-character"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-duchess",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-duke",
+          "label": "the Duke"
+        },
+        {
+          "type": "related",
+          "target": "dulcinea-del-toboso",
+          "label": "Dulcinea del Toboso"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "id": "the-duke",
+      "type": "person",
+      "label": "The Duke",
+      "description": "\"The Duke is a Spanish nobleman who, together with his wife the Duchess, hosts Don Quixote and Sancho Panza at his country estate in Part II. Recognizing the pair from the published chronicle, he orchestrates elaborate and often cruel practical jokes at their expense, including Sancho's governorship of Barataria.\"",
+      "aliases": [
+        "Duke",
+        "el Duque"
+      ],
+      "tags": [
+        "part-ii",
+        "nobility",
+        "host",
+        "prank",
+        "barataria"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-duke",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-duchess",
+          "label": "the Duchess"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "cide-hamete-benengeli",
+          "label": "Cide Hamete Benengeli"
+        }
+      ]
+    },
+    {
+      "id": "the-housekeeper",
+      "type": "person",
+      "label": "The Housekeeper",
+      "description": "\"The Housekeeper is a member of Don Quixote's household who, together with the Niece, is deeply opposed to his chivalric pursuits. She participates in the famous scrutiny and burning of Quixote's library of chivalric romances in Part I, and appears throughout Part II in a protective but largely ineffective domestic role.\"",
+      "aliases": [
+        "the housekeeper",
+        "la Ama"
+      ],
+      "tags": [
+        "part-i",
+        "part-ii",
+        "domestic",
+        "female-character",
+        "book-burning"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-housekeeper",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "Priest"
+        },
+        {
+          "type": "related",
+          "target": "master-nicholas",
+          "label": "the Barber"
+        },
+        {
+          "type": "related",
+          "target": "the-niece",
+          "label": "the Niece"
+        },
+        {
+          "type": "related",
+          "target": "sanson-carrasco",
+          "label": "Samson Carrasco"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "id": "the-niece",
+      "type": "person",
+      "label": "The Niece",
+      "description": "\"The Niece is a young woman, not yet twenty, who lives in Don Quixote's household. Together with the Housekeeper, she is fiercely opposed to her uncle's chivalric pursuits and participates in the burning of his library.\"",
+      "aliases": [
+        "the niece",
+        "la Sobrina"
+      ],
+      "tags": [
+        "part-i",
+        "part-ii",
+        "domestic",
+        "female-character",
+        "book-burning"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-niece",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-housekeeper",
+          "label": "the Housekeeper"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "Sancho Panza"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "Don Quixote"
+        },
+        {
+          "type": "related",
+          "target": "the-priest",
+          "label": "The Priest"
+        }
+      ]
+    },
+    {
+      "id": "the-priest",
+      "type": "\"person\"",
+      "label": "\"The Priest\"",
+      "description": "\"The parish priest of Don Quixote's village — a learned, pragmatic, and ultimately compassionate man who orchestrates the scrutiny of the library, the Sierra Morena rescue mission, and several schemes to cure his friend Alonso Quijano of his chivalric obsession.\"",
+      "aliases": [
+        "Pero Pérez",
+        "the curate",
+        "Father Pero Pérez",
+        "the licentiate"
+      ],
+      "tags": [
+        "person",
+        "priest",
+        "village",
+        "book-burning"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:the-priest",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "master-nicholas",
+          "label": "master-nicholas"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "amadis-de-gaula",
+          "label": "amadis-de-gaula"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "tirant-lo-blanc",
+      "type": "\"work\"",
+      "label": "\"Tirant lo Blanc\"",
+      "description": "\"The Valencian chivalric romance by Joanot Martorell (1490), uniquely praised in Don Quixote as a realistic and humane knightly tale — the only chivalric book the curate spares without hesitation.\"",
+      "aliases": [
+        "Tirante el Blanco",
+        "Tirant lo Blanch"
+      ],
+      "tags": [
+        "work",
+        "chivalric romance",
+        "catalan literature"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:tirant-lo-blanc",
+      "relations": [
+        {
+          "type": "related",
+          "target": "amadis-de-gaula",
+          "label": "amadis-de-gaula"
+        },
+        {
+          "type": "related",
+          "target": "chivalry",
+          "label": "chivalry"
+        },
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "madness",
+          "label": "madness"
+        }
+      ]
+    },
+    {
+      "id": "windmills",
+      "type": "\"other\"",
+      "label": "\"The Windmills\"",
+      "description": "\"The windmills that Don Quixote mistakes for giants in the novel's most famous episode (Part I, Chapter 8) — the iconic symbol of his capacity to transform mundane reality into chivalric adventure, and of the novel's central theme of imagination versus reality.\"",
+      "aliases": [
+        "the windmill adventure",
+        "los molinos de viento",
+        "windmill-giants"
+      ],
+      "tags": [
+        "other",
+        "trope",
+        "perception"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:windmills",
+      "relations": [
+        {
+          "type": "related",
+          "target": "don-quixote",
+          "label": "don-quixote"
+        },
+        {
+          "type": "related",
+          "target": "sancho-panza",
+          "label": "sancho-panza"
+        },
+        {
+          "type": "related",
+          "target": "mambrinos-helmet",
+          "label": "mambrinos-helmet"
+        },
+        {
+          "type": "related",
+          "target": "perception",
+          "label": "perception"
+        },
+        {
+          "type": "related",
+          "target": "adventure-of-the-lions",
+          "label": "adventure-of-the-lions"
+        }
+      ]
+    },
+    {
+      "id": "zoraida",
+      "type": "person",
+      "label": "Zoraida",
+      "description": "\"Zoraida is a Moorish woman of Algiers who helps the Captive (Ruy Pérez de Viedma) escape from slavery. The daughter of the wealthy Moor Agi Morato, she secretly converts to Christianity, takes the name Maria, and risks everything — family, wealth, and country — to flee to Spain with the Captive.\"",
+      "aliases": [
+        "Zoraida",
+        "Lela Zoraida",
+        "Maria",
+        "Zoraida la Mora"
+      ],
+      "tags": [
+        "part-i",
+        "captive-tale",
+        "algiers",
+        "moors",
+        "conversion",
+        "female-character"
+      ],
+      "quality": "standard",
+      "source_ref": "don-quixote:zoraida",
+      "relations": [
+        {
+          "type": "related",
+          "target": "the-captive",
+          "label": "the Captive"
+        },
+        {
+          "type": "related",
+          "target": "juan-palomeque",
+          "label": "Juan Palomeque"
+        },
+        {
+          "type": "related",
+          "target": "luscinda",
+          "label": "Luscinda"
+        },
+        {
+          "type": "related",
+          "target": "dorotea",
+          "label": "Dorotea"
+        },
+        {
+          "type": "related",
+          "target": "don-fernando",
+          "label": "Don Fernando"
+        }
+      ]
+    }
+  ]
+}

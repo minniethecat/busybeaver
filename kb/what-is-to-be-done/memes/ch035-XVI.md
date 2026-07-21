@@ -1,0 +1,17 @@
+---
+description: "But Viérotchka was sitting in her room."
+id: ch035-XVI
+label: "XVI"
+tags: ["chapter"]
+type: chapter
+---
+
+# XVI
+
+### XVI
+
+[032-001]But [[viéra-pavlovna|Viérotchka]] was sitting in her room.
+
+[032-002]“Did I do well to make him come in? *Mámenka* looked so sharply! And what an awkward position I have put him in! How can he stay to dinner? *Bozhe moï!* what will become of poor me?
+
+[032-003]“He says there’s one way. No, my love, there’s no way at all. Yes, there *is* one way, the window; when it becomes absolutely unendurable, I will throw myself out. How foolish I am! *When it becomes unendurable!* How is it now? And when you throw yourself out of the window, how quick, quick you fly, not as though you were falling, but as though you really had wings; that must be very delightful. Only—afterwards you strike against the sidewalk—*akh!* how terribly it must hurt! No, I don’t believe you’d have time to feel it; but—only it must be very hard. But it would be over in a twinkling; and then before you struck—how soft the air is—like a feather cushion—it takes you up so gently, so tenderly. No, it must be good. Yes, but what then! Everybody would be gazing; one’s skull broken, face torn, in blood, in mud. No, if clean sand could only be scattered over the spot; but down there the sand is all filthy. No, if it were white and clean, it would be good; one’s face would not be torn; it would be clean, and not disgust people. And in Paris young girls stifle themselves with coal gas; that’s a good idea, a very good idea: but it is not good to jump out of the window. The other’s a good way, though. How loud they are talking out there! What are they talking about? No, I can’t catch what they are saying. I would leave him a note explaining everything; this is what I told him the other day: ‘This is my birthday.’ How forward I was! How could I have been so? But then I was foolish, and didn’t understand. Yes, how sensible the poor girls are in Paris! Well, can’t I be just as sensible? How strange it will be! They’ll come into the room; they won’t see anything; only there’ll be a smell of gas, a greenish tint to the air; they’ll be frightened. ‘What does this mean? Where is Viérotchka?’ *Mámenka* will scold *pápenka:* ‘What are you standing there for? Open the window.’ They open the window, and see me sitting at my bureau, my head resting on it, and my face in my hands. ‘Viérotchka, are you suffocated?’ I make no reply. ‘Viérotchka, why don’t you speak? *Akh!* she is suffocated!’ They’ll begin to scream, to weep. *Akh!* how strange it will be! for them to weep, and for *mámenka* to begin to tell how she loved me. Yes, but he will be grieved. Well, I’ll leave him a note. Yes, I’ll think about it, think about it, and do like the poor girls in Paris; if I make up my mind, I shall do it. I’m not afraid! And what is there to be afraid of? It must be so good! But I will wait till he has told me what the plan is that he proposes. But no, there can’t be any; he only said so to console me. Why do people try to offer consolation? There’s no sense in it at all. Can there be any consolation when there’s no help? He is sensible, and yet he does just the same. What did he say so for? There’s no sense in it. But what’s he talking about? He seems to feel happy. How merry his voice sounds! Has he really thought of some plan? No, there can’t be any way whatever. But if he had not thought of something, would he be so happy? What can he have thought of?”

@@ -1,0 +1,49 @@
+---
+description: §17 from Part I of Critique of Judgment.
+id: section-17
+label: '§ 17: Of the Ideal of beauty'
+tags: ["chapter"]
+type: chapter
+---
+
+[017-001]There can be no objective rule of taste which shall determine by means of concepts what is beautiful. For every judgement from this source is aesthetical;i.e.the feeling of the subject, and not a concept of the Object, is its determining ground.
+
+[017-002]To seek for a principle of taste which shall furnish, by means of definite concepts, a universal criterion of the beautiful, is fruitless trouble; because what is sought is impossible and self-contradictory. The universal communicability of sensation (satisfaction or dissatisfaction) without the aid of a concept—the agreement, as far as is possible, of all times and peoples as regards this feeling in the representation of certain objects—this is the empirical criterion, although weak and hardly sufficing for probability, of the derivation of a taste, thus confirmed by examples, from the deep-lying grounds of agreement common to all men, in judging of the forms under which objects are given to them.
+
+[017-003]Hence, we consider some products of taste asexemplary. Not that taste can be acquired byimitating others; for it must be an original faculty.
+
+[017-004]He who imitates a model shows, no doubt, in so far as he attains to it, skill; but only shows taste in so far as he can judge of this model itself.34It follows from hence that the highest model, the archetype of taste, is a mere Idea, which every one must produce in himself; and according to which he must judge every Object of taste, every example of judgement by taste, and even the taste of every one.Ideaproperly means a rational concept, andIdealthe representation of an individual being, regarded as adequate to an Idea.35Hence that archetype of taste, which certainly rests on the indeterminate Idea that Reason has of a maximum, but which cannot be represented by concepts, but only in an individual presentation, is better called the Ideal of the beautiful. Although we are not in possession of this, we yet strive to produce it in ourselves. But it can only be an Ideal of the Imagination, because it rests on a presentation and not on concepts, and the Imagination is the faculty of presentation.—How do we arrive at such an Ideal of beauty?A priori, or empirically?
+
+[017-005]Moreover, what species of the beautiful is susceptible of an Ideal?
+
+[017-006]First, it is well to remark that the beauty forwhich an Ideal is to be sought cannot bevaguebeauty, but isfixedby a concept of objective purposiveness; and thus it cannot appertain to the Object of a quite pure judgement of taste, but to that of a judgement of taste which is in part intellectual.
+
+[017-007]That is, in whatever grounds of judgement an Ideal is to be found, an Idea of Reason in accordance with definite concepts must lie at its basis; which determinesa priorithe purpose on which the internal possibility of the object rests.
+
+[017-008]An Ideal of beautiful flowers, of a beautiful piece of furniture, of a beautiful view, is inconceivable.
+
+[017-009]But neither can an Ideal be represented of a beauty dependent on definite purposes,e.g.of a beautiful dwelling-house, a beautiful tree, a beautiful garden, etc.; presumably because their purpose is not sufficiently determined and fixed by the concept, and thus the purposiveness is nearly as free as in the case ofvaguebeauty. The only being which has the purpose of its existence in itself isman, who can determine his purposes by Reason; or, where he must receive them from external perception, yet can compare them with essential and universal purposes, and can judge this their accordance aesthetically. Thismanis, then, alone of all objects in the world, susceptible of an Ideal ofbeauty; as it is onlyhumanityin his person, as an intelligence, that is susceptible of the Ideal ofperfection.
+
+[017-010]But there are here two elements.First, there is the aestheticalnormal Idea, which is an individual intuition (of the Imagination), representing the standard of our judgement [upon man] as a thing belonging to a particular animal species.Secondly, there is therational Ideawhich makes the purposes of humanity, so far as they cannot be sensiblyrepresented, the principle for judging of a figure through which, as their phenomenal effect, those purposes are revealed. The normal Idea of the figure of an animal of a particular race must take its elements from experience. But the greatest purposiveness in the construction of the figure, that would be available for the universal standard of aesthetical judgement upon each individual of this species—the image which is as it were designedly at the basis of nature’s Technic, to which only the whole race and not any isolated individual is adequate—this lies merely in the Idea of the judging [subject]. And this, with its proportions, as an aesthetical Idea, can be completely presentedin concretoin a model. In order to make intelligible in some measure (for who can extract her whole secret from nature?) how this comes to pass, we shall attempt a psychological explanation.
+
+[017-011]We must remark that, in a way quite incomprehensible by us, the Imagination can not only recall, on occasion, the signs for concepts long past, but can also reproduce the image of the figure of the object out of an unspeakable number of objects of different kinds or even of the same kind.
+
+[017-012]Further, if the mind is concerned with comparisons, the Imagination can, in all probability, actually though unconsciously let one image glide into another, and thus by the concurrence of several of the same kind come by an average, which serves as the common measure of all. Every one has seen a thousand full-grown men. Now if you wish to judge of their normal size, estimating it by means of comparison, the Imagination (as I think) allows a great number of images (perhaps the whole thousand) to fall on one another. If I am allowedto apply here the analogy of optical presentation, it is in the space where most of them are combined and inside the contour, where the place is illuminated with the most vivid colours, that theaverage sizeis cognisable; which, both in height and breadth, is equally far removed from the extreme bounds of the greatest and smallest stature. And this is the stature of a beautiful man. (We could arrive at the same thing mechanically, by adding together all thousand magnitudes, heights, breadths, and thicknesses, and dividing the sum by a thousand.
+
+[017-013]But the Imagination does this by means of a dynamical effect, which arises from the various impressions of such figures on the organ of internal sense.) If now in a similar way for this average man we seek the average head, for this head the average nose, etc., such figure is at the basis of the normal Idea in the country where the comparison is instituted. Thus necessarily under these empirical conditions a negro must have a different normal Idea of the beauty of the [human figure] from a white man, a Chinaman a different normal Idea from a European, etc. And the same is the case with the model of a beautiful horse or dog (of a certain breed).—Thisnormal Ideais not derived from proportions got from experience [and regarded]as definite rules; but in accordance with it rules for judging become in the first instance possible. It is the image for the whole race, which floats among all the variously different intuitions of individuals, which nature takes as archetype in her productions of the same species, but which seems not to be fully reached in any individual case. It is by no means the wholearchetype of beautyin the race, but only the form constituting the indispensablecondition of all beauty, and thus merelycorrectnessin the [mental] presentation of the race.
+
+[017-014]It is, like the celebratedDoryphorusofPolycletus,36therule(Myron’s37Cow might also be used thus for its kind). It can therefore contain nothing specifically characteristic, for otherwise it would not be thenormal Ideafor the race. Its presentation pleases, not by its beauty, but merely because it contradicts no condition, under which alone a thing of this kind can be beautiful. The presentation is merely correct.38
+
+[017-015]We must yet distinguish thenormal Ideaof the beautiful from theIdeal, which latter, on grounds already alleged, we can only expect in thehumanfigure. In this the Ideal consists in the expression of themoral, without which the object would not please universally and thus positively (not merely negatively in a correct presentation). The visible expression of moral Ideas that rule men inwardly,can indeed only be got from experience; but to make its connexion with all which our Reason unites with the morally good in the Idea of the highest purposiveness,—goodness of heart, purity, strength, peace, etc.,—visible as it were in bodily manifestation (as the effect of that which is internal), requires a union of pure Ideas of Reason with great imaginative power, even in him who wishes to judge of it, still more in him who wishes to present it. The correctness of such an Ideal of beauty is shown by its permitting no sensible charm to mingle with the satisfaction in the Object and yet allowing us to take a great interest therein. This shows that a judgement in accordance with such a standard can never be purely aesthetical, and that a judgement in accordance with an Ideal of beauty is not a mere judgement of taste.
+
+#### EXPLANATION OF THE BEAUTIFUL
+
+[017-016]DERIVED FROM THIS THIRD MOMENT
+
+[017-017]Beautyis the form of thepurposivenessof an object, so far as this is perceived in itwithout any representation of a purpose.39
+
+---
+
+#### FOURTH MOMENTOF THE JUDGEMENT OF TASTE, ACCORDING TO THE
+
+[017-018]MODALITY OF THE SATISFACTION IN THE OBJECT

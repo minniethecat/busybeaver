@@ -1,0 +1,61 @@
+---
+description: "Letter LV"
+id: Letter-LV
+label: "Letter LV"
+tags: ["chapter"]
+type: chapter
+---
+
+[055-001] Evelina in Continuation
+
+[055-002] July 4th.
+
+[055-003] You may now, my dear Sir, send Mrs. Clinton for your Evelina with as much speed as she can conveniently make the journey, for no further opposition will be made to her leaving this town: happy had it perhaps been for her had she never entered it!
+
+[055-004] This morning Madame Duval desired me to go to Snow-Hill, with an invitation to the Branghtons and Mr. Smith to spend the evening with her; and she desired M. Du Bois, who breakfasted with us, to accompany me. I was very unwilling to obey her, as I neither wished to walk with M. Du Bois, nor yet to meet young Branghton. And, indeed, another, a yet more powerful reason, added to my reluctance;—for I thought it possible that Lord Orville might send some answer, or perhaps might call, during my absence; however, I did not dare dispute her commands.
+
+[055-005] Poor M. Du Bois spoke not a word during our walk, which was, I believe, equally unpleasant to us both. We found all the family assembled in the shop. Mr. Smith, the moment he perceived me, addressed himself to Miss Branghton, whom he entertained with all the gallantry in his power. I rejoice to find that my conduct at the Hampstead ball has had so good an effect. But young Branghton was extremely troublesome; he repeatedly laughed in my face, and looked so impertinently significant, that I was obliged to give up my reserve to M. Du Bois, and enter into conversation with him merely to avoid such boldness.
+
+[055-006] “Miss,” said Mr. Branghton, “I’m sorry to hear from my son that you wasn’t pleased with what we did about that Lord Orville: but I should like to know what it was you found fault with, for we did all for the best.”
+
+[055-007] “Goodness!” cried the son, “why, if you’d seen Miss, you’d have been surprised—she went out of the room quite in a huff, like—”
+
+[055-008] “It is too late, now,” said I, “to reason upon this subject; but, for the future, I must take the liberty to request, that my name may never be made use of without my knowledge. May I tell Madame Duval that you will do her the favour to accept her invitation?”
+
+[055-009] “As to me, Ma’am,” said Mr. Smith, “I am much obliged to the old lady, but I have no mind to be taken in by her again; you’ll excuse me, Ma’am.”
+
+[055-010] All the rest promised to come, and I then took leave; but, as I left the shop, I heard Mr. Branghton say, “Take courage, Tom, she’s only coy.” And, before I had walked ten yards, the youth followed.
+
+[055-011] I was so much offended that I would not look at him, but began to converse with M. Du Bois, who was now more lively than I had ever before seen him; for, most unfortunately, he misinterpreted the reason of my attention to him.
+
+[055-012] The first intelligence I received when I came home, was, that two gentlemen had called, and left cards. I eagerly enquired for them, and read the names of Lord Orville and Sir Clement Willoughby. I by no means regretted that I missed seeing the latter, but perhaps I may all my life regret that I missed the former; for probably he has now left town—and I may see him no more!
+
+[055-013] “My goodness,” cried young Branghton, rudely looking over me, “only think of that Lord’s coming all this way! It’s my belief he’d got some order ready for father, and so he’d a mind to call and ask you if I’d told him the truth.”
+
+[055-014] “Pray, Betty,” cried I, “how long has he been gone?”
+
+[055-015] “Not two minutes, Ma’am.”
+
+[055-016] “Why then, I’ll lay you any wager,” said young Branghton, “he saw you and I a-walking up Holborn Hill.”
+
+[055-017] “God forbid!” cried I, impatiently; and, too much chagrined to bear with any more of his remarks, I ran upstairs; but I heard him say to M. Du Bois, “Miss is so *uppish* this morning, that I think I had better not speak to her again.”
+
+[055-018] I wish M. Du Bois had taken the same resolution; but he chose to follow me into the dining-room, which he found empty.
+
+[055-019] “*Vous ne l’aimez donc pas, ce garçon, Mademoiselle!*” cried he.
+
+[055-020] “Me!” cried I, “no, I detest him!” for I was sick at heart.
+
+[055-021] “*Ah, tu me rends la vie!*” cried he; and, flinging himself at my feet, he had just caught my hand as the door was opened by Madame Duval.
+
+[055-022] Hastily, and with marks of guilty confusion in his face, he arose; but the rage of that lady quite amazed me! Advancing to the retreating M. Du Bois, she began, in French, an attack, which her extreme wrath and wonderful volubility almost rendered unintelligible; yet I understood but too much, since her reproaches convinced me she had herself proposed being the object of his affection.
+
+[055-023] He defended himself in a weak and evasive manner; and, upon her commanding him from her sight, very readily withdrew: and then, with yet greater violence, she upbraided me with having *seduced* his heart, called me an ungrateful, designing girl, and protested she would neither take me to Paris, nor any more interest herself in my affairs, unless I would instantly agree to marry young Branghton.
+
+[055-024] Frightened as I had been at her vehemence, this proposal restored all my courage; and I frankly told her, that in this point I never could obey her. More irritated than ever, she ordered me to quit the room.
+
+[055-025] Such is the present situation of affairs. I shall excuse myself from seeing the Branghtons this afternoon: indeed, I never wish to see them again. I am sorry, however innocently, that I have displeased Madame Duval; yet I shall be very glad to quit this town, for I believe it does not now contain one person I ever wish to again meet. Had I but seen Lord Orville, I should regret nothing: I could then have more fully explained what I so hastily wrote; yet it will always be a pleasure to me to recollect that he called, since I flatter myself it was in consequence of his being satisfied with my letter.
+
+[055-026] Adieu, my dear Sir; the time now approaches when I hope once more to receive your blessing, and to owe all my joy, all my happiness, to your kindness.
+
+### Letter LVI: Mr. Villars to Evelina

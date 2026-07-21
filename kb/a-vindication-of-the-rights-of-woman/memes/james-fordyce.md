@@ -1,37 +1,40 @@
 ---
+description: "Scottish Presbyterian clergyman and poet (1720–1796), author of Sermons to Young Women — a conduct book Wollstonecraft singles out for particular scorn as the epitome of the literature that infantilises women under the guise of moral instruction."
 id: james-fordyce
-label: James Fordyce
+label: "James Fordyce"
+tags: ["person"]
 type: person
-description: "Scottish Presbyterian clergyman whose Sermons to Young Women (1766) Wollstonecraft critiques as an example of the sentimental, patronizing advice that degrades female character"
-tags: ["clergyman", "conduct-book", "sermons"]
 ---
 
 # James Fordyce
 
-1720 – 1796. Scottish Presbyterian clergyman whose enormously popular *Sermons to Young Women* (1766) represents, for Wollstonecraft, the worst excesses of the conduct-book tradition — sentimental, patronizing, and ultimately degrading to women's moral capacity.
+## Overview
 
-## Life
+James Fordyce (1720–1796) was a Scottish Presbyterian minister whose *Sermons to Young Women* (1766) became one of the most widely read conduct books of the late eighteenth century. For Wollstonecraft, Fordyce represents the worst tendencies of the genre: florid, sentimental prose that substitutes emotional manipulation for rational argument, and moral advice that trains women in weakness rather than strength.
 
-Fordyce was a Scottish Presbyterian minister who gained fame as a preacher in London. His *Sermons to Young Women*, first published in 1766, went through numerous editions and became one of the most widely read conduct books of the late eighteenth century. The sermons treated topics such as modesty, piety, and the proper conduct of young women in society, all delivered in a florid, sentimental style.
+Wollstonecraft's dismissal of Fordyce is among the most uncompromising in the *Vindication*. She groups his "fulsome" sermons with the novels and romances that fill women's minds with "false expectations" and leave them unfit for genuine moral reasoning. In the ranking of intellectual adversaries, Rousseau commands respect even in disagreement; Gregory receives engaged critique; Fordyce receives contempt.
 
-## Role in the Text
+## In the Text
 
-Wollstonecraft treats Fordyce as an exemplar of the worst tendencies in conduct-book literature. Where Rousseau at least possesses philosophical substance, Fordyce offers only sentimental platitudes — "the flimsy rhetoric of weak sensibility" — that reduce women to objects of male admiration. She critiques the style as much as the substance: Fordyce's "flowery diction" substitutes emotional manipulation for rational argument, training women to respond to sentiment rather than to reason.
+Fordyce appears in the Introduction, where Wollstonecraft dismisses his sermons as an example of the "verbose" and "inflated" style she associates with degraded taste. The reference is brief — Fordyce is not accorded the extended engagement given to Rousseau or Gregory — but his function is clear: he is an emblem of everything wrong with the literature addressed to women.
 
-Wollstonecraft's contempt for Fordyce is palpable. His sermons represent the reduction of female virtue to the art of pleasing — a reduction she considers not merely mistaken but actively harmful. By treating women as beings whose highest duty is to be agreeable, Fordyce and writers like him systematically undermine women's capacity for genuine moral development.
+## Key Quotations
 
-### Works Referenced
+> "I shall not dwell on the fulsome eulogiums on the sex, nor the verbose declamation of Fordyce's sermons."
 
-- *Sermons to Young Women* (1766) — the conduct book Wollstonecraft critiques for its sentimental style and patronizing content
+> "Such declamations tend to give a romantic turn to the mind, and produce a kind of sickly delicacy."
 
-## Key Ideas
+## Related Works
 
-Fordyce's *Sermons* represent the mainstream of eighteenth-century advice literature for women: pious, sentimental, and fundamentally concerned with women's social performance rather than their moral development. Wollstonecraft's critique of Fordyce is part of her broader argument that the entire genre of conduct literature — whether philosophical (Rousseau), paternal (Gregory), or clerical (Fordyce) — is structurally incapable of treating women as rational moral agents.
+- [[sermons-to-young-women|Sermons to Young Women]] (1766)
 
-## See Also
+## Related Concepts
 
-- [[Jean-Jacques Rousseau]]
-- [[John Gregory]]
-- [[Manners]]
-- [[Modesty]]
-- [[Sensibility]]
+- [[education]] — Fordyce represents the worst of the conduct-book tradition
+- [[sensibility]] — His florid prose cultivates the excessive sensibility Wollstonecraft critiques
+- [[prejudice]] — His sermons encode and transmit prejudices about female nature
+- [[virtue]] — Wollstonecraft's charge: Fordyce substitutes sentiment for genuine virtue
+
+## Biographical Summary
+
+James Fordyce (1720–1796) was a Scottish Presbyterian minister and poet. His *Sermons to Young Women* (1766) was immensely popular, running through multiple editions. In 1792, Wollstonecraft's dismissal of the work was influential enough that its popularity declined. Fordyce also published *Addresses to Young Men* (1777) and *Addresses to the Deity* (1785).

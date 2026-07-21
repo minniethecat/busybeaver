@@ -1,0 +1,58 @@
+---
+description: ""
+id: Aphorism-305
+label: "Aphorism 305"
+tags: ["chapter"]
+type: chapter
+---
+
+## Book IV
+
+### 305.
+
+### 305.
+
+
+*Self-control.*—Those moral teachers who first
+
+and foremost order man to get himself into his
+
+own power, induce thereby a curious infirmity in
+
+him,—namely, a constant sensitiveness with reference
+
+to all natural strivings and inclinations, and
+
+as it were, a sort of itching. Whatever may henceforth
+
+drive him, draw him, allure or impel him,
+
+whether internally or externally—it always seems
+
+to this sensitive being, as if his self-control were
+
+in danger: he is no longer at liberty to trust
+
+himself to any instinct, to any free flight, but
+
+stands constantly with defensive mien, armed
+
+against himself, with sharp distrustful eye, the
+
+eternal watcher of his stronghold, to which office
+
+he has appointed himself. Yes, he can be *great* in
+
+that position! But how unendurable he has now
+
+become to others, how difficult even for himself
+
+to bear, how impoverished and cut off from the
+
+finest accidents of his soul! Yea, even from all
+
+further *instruction*! For we must be able to lose
+
+ourselves at times, if we want to learn something
+
+of what we have not in ourselves.
