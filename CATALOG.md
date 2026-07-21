@@ -10,12 +10,27 @@
 
 ## Books
 
-| Book | Author | Language | Memes | Wiki |
-| --- | --- | --- | --- | --- |
-| **红楼梦** (Dream of the Red Chamber) | 曹雪芹 Cao Xueqin | 简体中文 | 3,897 | [`kb/honglou/`](./kb/honglou/) |
-| **The Picture of Dorian Gray** | Oscar Wilde | English | 452 | [`kb/the-picture-of-dorian-gray/`](./kb/the-picture-of-dorian-gray/) |
+| Book | Author | Language | Year | Memes | Wiki |
+| --- | --- | --- | --- | --- | --- |
+| **红楼梦** (Dream of the Red Chamber) | 曹雪芹 Cao Xueqin | 简体中文 | 1791 | 3,897 | [`kb/honglou/`](./kb/honglou/) |
+| **The Picture of Dorian Gray** | Oscar Wilde | English | 1890 | 452 | [`kb/the-picture-of-dorian-gray/`](./kb/the-picture-of-dorian-gray/) |
+| **Common Sense** | Baron d'Holbach | English | 1772 | 617 | [`kb/common-sense/`](./kb/common-sense/) |
+| **Letters to His Son** | Lord Chesterfield | English | 1774 | 497 | [`kb/letters-to-his-son/`](./kb/letters-to-his-son/) |
+| **Aesop's Fables** | Aesop | English | 6th cent. BCE | 479 | [`kb/aesops-fables/`](./kb/aesops-fables/) |
+| **Le Morte d'Arthur** | Sir Thomas Malory | English | 1485 | 453 | [`kb/le-morte-darthur/`](./kb/le-morte-darthur/) |
+| **Olney Hymns** | William Cowper & John Newton | English | 1779 | 453 | [`kb/olney-hymns/`](./kb/olney-hymns/) |
+| **Moby-Dick** | Herman Melville | English | 1851 | 411 | [`kb/moby-dick/`](./kb/moby-dick/) |
+| **A Vindication of the Rights of Woman** | Mary Wollstonecraft | English | 1792 | 364 | [`kb/a-vindication-of-the-rights-of-woman/`](./kb/a-vindication-of-the-rights-of-woman/) |
+| **Industrial Biography** | Samuel Smiles | English | 1863 | 353 | [`kb/industrial-biography/`](./kb/industrial-biography/) |
+| **Metamorphoses** | Ovid | English | 8 CE | 344 | [`kb/metamorphoses/`](./kb/metamorphoses/) |
+| **Choice Specimens of American Literature** | Various (anthology) | English | 1871 | 335 | [`kb/choice-specimens-of-american-literature/`](./kb/choice-specimens-of-american-literature/) |
+| **Daniel Deronda** | George Eliot | English | 1876 | 331 | [`kb/daniel-deronda/`](./kb/daniel-deronda/) |
+| **Dombey and Son** | Charles Dickens | English | 1848 | 331 | [`kb/dombey-and-son/`](./kb/dombey-and-son/) |
+| **A Popular History of Ireland** | Thomas D'Arcy McGee | English | 1863 | 324 | [`kb/a-popular-history-of-ireland/`](./kb/a-popular-history-of-ireland/) |
+| **Alarms and Discursions** | G. K. Chesterton | English | 1910 | 314 | [`kb/alarms-and-discursions/`](./kb/alarms-and-discursions/) |
+| **The Philosophical Works of Descartes** | René Descartes | English | 1637–1649 | 307 | [`kb/philosophical-works/`](./kb/philosophical-works/) |
 
-**Totals:** 2 books · 4,349 Memes
+**Totals:** 17 books · 10,262 Memes
 
 ---
 
