@@ -8,7 +8,9 @@
 
 **~500 books · ~50,000 Memes · every assertion traceable to its source**
 
-<sub>🌐 This README is offered in several major languages. The **English version (this document) is the official one.**</sub>
+<sub>🌐 **English (official)** · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
+
+<sub>This README is offered in several major languages. The **English version (this document) is the official one.**</sub>
 
 </div>
 
