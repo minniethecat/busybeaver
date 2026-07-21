@@ -107,7 +107,11 @@ Whatever path you choose, the PN provenance travels with the knowledge, so your 
 | **Memes** | ~50,000 |
 | **Next milestone** | 10,000 books |
 
-The corpus grows continuously. This dump is a snapshot along the way.
+**We update this knowledge base continuously — new books are added every day.** Our goal is to eventually include every book that matters most to human civilization. This dump is a snapshot along the way.
+
+### 📚 Request a book
+
+Is there a classic you especially want memified? **We'd love to hear it.** Open an issue on this repository, or email **Minnie Katz** at **minnie.sew.da@gmail.com** with your suggestion, and we'll prioritize it in the queue.
 
 ---
 
