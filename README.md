@@ -41,6 +41,19 @@ Because of that, knowledge no longer has to be encoded as RDF triples or formal 
 
 ---
 
+## Lineage & prior art
+
+BusyBeaver stands on the shoulders of the great structured-knowledge projects that came before it. We owe a particular debt to:
+
+- **[Wikidata](https://www.wikidata.org/)** — collaborative, multilingual, machine-readable knowledge at scale.
+- **[DBpedia](https://www.dbpedia.org/)** — extracting structured knowledge from the world's encyclopedias.
+- **[Freebase](https://en.wikipedia.org/wiki/Freebase_(database))** — an open graph of entities and relationships.
+- **[Semantic MediaWiki](https://www.semantic-mediawiki.org/)** — bringing semantic structure into the wiki itself.
+
+To build BusyBeaver we designed a **new semantic-wiki method** of our own — one where the unit of knowledge is a source-anchored, agent-consumable Meme rather than a rigid triple. That method will be **open-sourced separately**.
+
+---
+
 ## The hard problem: hallucination & provenance
 
 The single hardest part of building a knowledge base with LLMs is **detecting and controlling hallucination**.
