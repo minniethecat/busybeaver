@@ -1,0 +1,37 @@
+---
+id: Psalms-148
+label: "Psalms 148"
+type: chapter
+description: "Psalms Chapter 148 — King James Version"
+tags: ["chapter", "psalms"]
+---
+
+# Psalms 148
+
+[019-148-001] 148:1 Praise ye the LORD. Praise ye the LORD from the heavens: praise him in
+
+[019-148-002] 148:2 Praise ye him, all his angels: praise ye him, all his hosts.
+
+[019-148-003] 148:3 Praise ye him, sun and moon: praise him, all ye stars of light.
+
+[019-148-004] 148:4 Praise him, ye heavens of heavens, and ye waters that be above the
+
+[019-148-005] 148:5 Let them praise the name of the LORD: for he commanded, and they were
+
+[019-148-006] 148:6 He hath also stablished them for ever and ever: he hath made a decree
+
+[019-148-007] 148:7 Praise the LORD from the earth, ye dragons, and all deeps:
+
+[019-148-008] 148:8 Fire, and hail; snow, and vapours; stormy wind fulfilling his word:
+
+[019-148-009] 148:9 Mountains, and all hills; fruitful trees, and all cedars:
+
+[019-148-010] 148:10 Beasts, and all cattle; creeping things, and flying fowl:
+
+[019-148-011] 148:11 Kings of the earth, and all people; princes, and all judges of the
+
+[019-148-012] 148:12 Both young men, and maidens; old men, and children:
+
+[019-148-013] 148:13 Let them praise the name of the LORD: for his name alone is excellent;
+
+[019-148-014] 148:14 He also exalteth the horn of his people, the praise of all his saints;

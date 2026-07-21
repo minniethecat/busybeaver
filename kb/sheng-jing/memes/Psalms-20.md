@@ -1,0 +1,27 @@
+---
+id: Psalms-20
+label: "Psalms 20"
+type: chapter
+description: "Psalms Chapter 20 — King James Version"
+tags: ["chapter", "psalms"]
+---
+
+# Psalms 20
+
+[019-020-001] 20:1 The LORD hear thee in the day of trouble; the name of the God of Jacob
+
+[019-020-002] 20:2 Send thee help from the sanctuary, and strengthen thee out of Zion;
+
+[019-020-003] 20:3 Remember all thy offerings, and accept thy burnt sacrifice; Selah.
+
+[019-020-004] 20:4 Grant thee according to thine own heart, and fulfil all thy counsel.
+
+[019-020-005] 20:5 We will rejoice in thy salvation, and in the name of our God we will set
+
+[019-020-006] 20:6 Now know I that the LORD saveth his anointed; he will hear him from his
+
+[019-020-007] 20:7 Some trust in chariots, and some in horses: but we will remember the name
+
+[019-020-008] 20:8 They are brought down and fallen: but we are risen, and stand upright.
+
+[019-020-009] 20:9 Save, LORD: let the king hear us when we call.

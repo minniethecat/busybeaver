@@ -1,0 +1,3194 @@
+{
+  "book": "jun-zhu-lun",
+  "title": "君主论",
+  "description": "君主论 — knowledge fragments for AI agents",
+  "language": "zh-CN",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 149,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "'A knowledge base on Machiavelli''s \"The Prince\"'",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:About",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "'Table of Contents'",
+      "description": "'Complete table of contents for The Prince, including introduction, dedication, 26 chapters, and appendices'",
+      "aliases": [
+        "TOC",
+        "Table of Contents",
+        "Contents"
+      ],
+      "tags": [],
+      "quality": "stub",
+      "source_ref": "jun-zhu-lun:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "introduction",
+          "label": "introduction"
+        },
+        {
+          "type": "related",
+          "target": "dedication",
+          "label": "dedication"
+        },
+        {
+          "type": "related",
+          "target": "chapter-01",
+          "label": "chapter-01"
+        },
+        {
+          "type": "related",
+          "target": "chapter-02",
+          "label": "chapter-02"
+        },
+        {
+          "type": "related",
+          "target": "chapter-03",
+          "label": "chapter-03"
+        },
+        {
+          "type": "related",
+          "target": "chapter-04",
+          "label": "chapter-04"
+        },
+        {
+          "type": "related",
+          "target": "chapter-05",
+          "label": "chapter-05"
+        },
+        {
+          "type": "related",
+          "target": "chapter-06",
+          "label": "chapter-06"
+        },
+        {
+          "type": "related",
+          "target": "chapter-07",
+          "label": "chapter-07"
+        },
+        {
+          "type": "related",
+          "target": "chapter-08",
+          "label": "chapter-08"
+        },
+        {
+          "type": "related",
+          "target": "chapter-09",
+          "label": "chapter-09"
+        },
+        {
+          "type": "related",
+          "target": "chapter-10",
+          "label": "chapter-10"
+        },
+        {
+          "type": "related",
+          "target": "chapter-11",
+          "label": "chapter-11"
+        },
+        {
+          "type": "related",
+          "target": "chapter-12",
+          "label": "chapter-12"
+        },
+        {
+          "type": "related",
+          "target": "chapter-13",
+          "label": "chapter-13"
+        },
+        {
+          "type": "related",
+          "target": "chapter-14",
+          "label": "chapter-14"
+        },
+        {
+          "type": "related",
+          "target": "chapter-15",
+          "label": "chapter-15"
+        },
+        {
+          "type": "related",
+          "target": "chapter-16",
+          "label": "chapter-16"
+        },
+        {
+          "type": "related",
+          "target": "chapter-17",
+          "label": "chapter-17"
+        },
+        {
+          "type": "related",
+          "target": "chapter-18",
+          "label": "chapter-18"
+        },
+        {
+          "type": "related",
+          "target": "chapter-19",
+          "label": "chapter-19"
+        },
+        {
+          "type": "related",
+          "target": "chapter-20",
+          "label": "chapter-20"
+        },
+        {
+          "type": "related",
+          "target": "chapter-21",
+          "label": "chapter-21"
+        },
+        {
+          "type": "related",
+          "target": "chapter-22",
+          "label": "chapter-22"
+        },
+        {
+          "type": "related",
+          "target": "chapter-23",
+          "label": "chapter-23"
+        },
+        {
+          "type": "related",
+          "target": "chapter-24",
+          "label": "chapter-24"
+        },
+        {
+          "type": "related",
+          "target": "chapter-25",
+          "label": "chapter-25"
+        },
+        {
+          "type": "related",
+          "target": "chapter-26",
+          "label": "chapter-26"
+        },
+        {
+          "type": "related",
+          "target": "appendix-valentino",
+          "label": "appendix-valentino"
+        },
+        {
+          "type": "related",
+          "target": "appendix-castruccio",
+          "label": "appendix-castruccio"
+        }
+      ]
+    },
+    {
+      "id": "achilles",
+      "type": "person",
+      "label": "Achilles",
+      "description": "'Legendary Greek hero of the Trojan War, cited by Machiavelli as an exemplar whom Alexander the Great imitated — and as a prince who was educated by the centaur Chiron, symbolizing the union of force and cunning.'",
+      "aliases": [],
+      "tags": [
+        "mythological",
+        "exemplar",
+        "antiquity",
+        "military"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:achilles",
+      "relations": []
+    },
+    {
+      "id": "agathocles-of-syracuse",
+      "type": "person",
+      "label": "Agathocles of Syracuse",
+      "description": "'Agathocles (361–289 BC), tyrant of Syracuse and archetypal criminal prince in The Prince Chapter 8, who rose from low origins to kingship through calculated cruelty.'",
+      "aliases": [
+        "Agathocles the Sicilian"
+      ],
+      "tags": [
+        "person",
+        "antiquity",
+        "military",
+        "renaissance"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:agathocles-of-syracuse",
+      "relations": [
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        }
+      ]
+    },
+    {
+      "id": "albinus",
+      "type": "person",
+      "label": "Clodius Albinus",
+      "description": "'Roman usurper (c. 150–197 CE) who challenged Septimius Severus for the imperial throne, cited by Machiavelli as an example of a ruler deceived by promises and destroyed by his own hesitation.'",
+      "aliases": [
+        "Albinus",
+        "Clodius Albinus"
+      ],
+      "tags": [
+        "roman-usurper",
+        "exemplar",
+        "politics",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:albinus",
+      "relations": []
+    },
+    {
+      "id": "alexander-the-great",
+      "type": "person",
+      "label": "Alexander the Great",
+      "description": "'King of Macedon (r. 336–323 BCE) and conqueror of the Persian Empire, cited by Machiavelli as a model of military virtue and generosity for princes to imitate.'",
+      "aliases": [
+        "Alexander",
+        "Alexander III of Macedon"
+      ],
+      "tags": [
+        "macedonian-king",
+        "conqueror",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:alexander-the-great",
+      "relations": []
+    },
+    {
+      "id": "ambition",
+      "type": "concept",
+      "label": "Ambition (Ambizione)",
+      "description": "'In The Prince, ambition is the driving force of political action — both the source of greatness and the cause of ruin when unchecked by prudence or constrained by stable institutions.'",
+      "aliases": [
+        "ambizione",
+        "ambition-of-the-great"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:ambition",
+      "relations": []
+    },
+    {
+      "id": "antiochus",
+      "type": "person",
+      "label": "Antiochus III",
+      "description": "'Seleucid king (r. 223–187 BCE), cited by Machiavelli as an example of a ruler who lost his kingdom by failing to manage conquered territories and provoking Roman intervention.'",
+      "aliases": [
+        "Antiochus the Great",
+        "Antiochus"
+      ],
+      "tags": [
+        "seleucid-king",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:antiochus",
+      "relations": []
+    },
+    {
+      "id": "appendix-castruccio",
+      "type": "\"chapter\"",
+      "label": "\"Appendix: Castruccio Castracani\"",
+      "description": "\"The Life of Castruccio Castracani of Lucca\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:appendix-castruccio",
+      "relations": []
+    },
+    {
+      "id": "appendix-valentino",
+      "type": "\"chapter\"",
+      "label": "\"Appendix: Duke Valentino\"",
+      "description": "\"Description of the Methods Adopted by the Duke Valentino When Murdering Vitellozzo Vitelli, Oliverotto da Fermo, the Signor Pagolo, and the Duke di Gravina Orsini\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:appendix-valentino",
+      "relations": []
+    },
+    {
+      "id": "arms",
+      "type": "concept",
+      "label": "Arms (Arme)",
+      "description": "'In The Prince, a ruler who does not possess his own arms cannot be secure. Good arms are the indispensable foundation of good laws and the first principle of princely self-reliance.'",
+      "aliases": [
+        "arme",
+        "weapons",
+        "military-force",
+        "good-arms"
+      ],
+      "tags": [
+        "politics",
+        "military",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:arms",
+      "relations": []
+    },
+    {
+      "id": "auxiliaries",
+      "type": "concept",
+      "label": "Auxiliaries",
+      "description": "'Troops lent by another power — Machiavelli argues they are even more dangerous than mercenaries because they are united and trained to obey someone else'",
+      "aliases": [
+        "auxiliary arms",
+        "auxiliary troops",
+        "allied soldiers"
+      ],
+      "tags": [
+        "politics",
+        "military",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:auxiliaries",
+      "relations": []
+    },
+    {
+      "id": "battle-of-vaila",
+      "type": "event",
+      "label": "Battle of Vaila",
+      "description": "'The Battle of Vaila (Agnadello, 1509) — the decisive engagement of the War of the League of Cambrai in which Venice lost in a single day all that she had accumulated over eight hundred years.'",
+      "aliases": [
+        "Battle of Agnadello",
+        "Battle of Vailà"
+      ],
+      "tags": [
+        "event",
+        "renaissance",
+        "military",
+        "venice"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:battle-of-vaila",
+      "relations": []
+    },
+    {
+      "id": "bologna",
+      "type": "place",
+      "label": "Bologna",
+      "description": "'A papal city ruled by the Bentivogli family — Machiavelli''s example of hereditary princely rule and the consequences of losing popular support'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "renaissance",
+        "geography",
+        "city-state"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:bologna",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pope-julius-ii",
+          "label": "Pope Julius II"
+        },
+        {
+          "type": "related",
+          "target": "cesare-borgia",
+          "label": "Cesare Borgia"
+        },
+        {
+          "type": "related",
+          "target": "papal-states",
+          "label": "Papal States"
+        },
+        {
+          "type": "related",
+          "target": "republic-of-venice",
+          "label": "Republic of Venice"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        }
+      ]
+    },
+    {
+      "id": "caracalla",
+      "type": "person",
+      "label": "Caracalla",
+      "description": "'Roman emperor (r. 198–217 CE), son of Septimius Severus, cited by Machiavelli as an example of a ruler whose excessive cruelty toward his subjects led to his assassination.'",
+      "aliases": [
+        "Antoninus",
+        "Marcus Aurelius Antoninus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "politics",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:caracalla",
+      "relations": []
+    },
+    {
+      "id": "catherina-sforza",
+      "type": "person",
+      "label": "Catherina Sforza",
+      "description": "\"Countess of Forlì (1463–1509); the first diplomatic mission of Machiavelli was to her court, and from her conduct he drew the lesson that earning the confidence of the people is better than relying on fortresses.\"",
+      "aliases": [
+        "Caterina Sforza",
+        "My Lady of Forli"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "italy",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:catherina-sforza",
+      "relations": []
+    },
+    {
+      "id": "cesare-borgia",
+      "type": "person",
+      "label": "Cesare Borgia",
+      "description": "'The son of Pope Alexander VI whose career as Duke of Romagna serves as Machiavelli''s central exemplar of the new prince who rises through fortune but acts with virtù'",
+      "aliases": [
+        "Duke Valentino",
+        "Il Valentino",
+        "Duke of Romagna"
+      ],
+      "tags": [
+        "person",
+        "renaissance",
+        "italy",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:cesare-borgia",
+      "relations": []
+    },
+    {
+      "id": "chapter-01",
+      "type": "\"chapter\"",
+      "label": "\"Chapter I\"",
+      "description": "\"How Many Kinds of Principalities There Are, and by What Means They Are Acquired\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-01",
+      "relations": []
+    },
+    {
+      "id": "chapter-02",
+      "type": "\"chapter\"",
+      "label": "\"Chapter II\"",
+      "description": "\"Concerning Hereditary Principalities\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-02",
+      "relations": []
+    },
+    {
+      "id": "chapter-03",
+      "type": "\"chapter\"",
+      "label": "\"Chapter III\"",
+      "description": "\"Concerning Mixed Principalities\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-03",
+      "relations": []
+    },
+    {
+      "id": "chapter-04",
+      "type": "\"chapter\"",
+      "label": "\"Chapter IV\"",
+      "description": "\"Why the Kingdom of Darius, Conquered by Alexander, Did Not Rebel Against the Successors of Alexander at His Death\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-04",
+      "relations": []
+    },
+    {
+      "id": "chapter-05",
+      "type": "\"chapter\"",
+      "label": "\"Chapter V\"",
+      "description": "\"Concerning the Way to Govern Cities or Principalities Which Lived Under Their Own Laws Before They Were Annexed\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-05",
+      "relations": []
+    },
+    {
+      "id": "chapter-06",
+      "type": "\"chapter\"",
+      "label": "\"Chapter VI\"",
+      "description": "\"Concerning New Principalities Which Are Acquired by One's Own Arms and Ability\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-06",
+      "relations": []
+    },
+    {
+      "id": "chapter-07",
+      "type": "\"chapter\"",
+      "label": "\"Chapter VII\"",
+      "description": "\"Concerning New Principalities Which Are Acquired Either by the Arms of Others or by Good Fortune\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-07",
+      "relations": []
+    },
+    {
+      "id": "chapter-08",
+      "type": "\"chapter\"",
+      "label": "\"Chapter VIII\"",
+      "description": "\"Concerning Those Who Have Obtained a Principality by Wickedness\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-08",
+      "relations": []
+    },
+    {
+      "id": "chapter-09",
+      "type": "\"chapter\"",
+      "label": "\"Chapter IX\"",
+      "description": "\"Concerning a Civil Principality\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-09",
+      "relations": []
+    },
+    {
+      "id": "chapter-10",
+      "type": "\"chapter\"",
+      "label": "\"Chapter X\"",
+      "description": "\"Concerning the Way in Which the Strength of All Principalities Ought to Be Measured\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-10",
+      "relations": []
+    },
+    {
+      "id": "chapter-11",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XI\"",
+      "description": "\"Concerning Ecclesiastical Principalities\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-11",
+      "relations": []
+    },
+    {
+      "id": "chapter-12",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XII\"",
+      "description": "\"How Many Kinds of Soldiery There Are, and Concerning Mercenaries\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-12",
+      "relations": []
+    },
+    {
+      "id": "chapter-13",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XIII\"",
+      "description": "\"Concerning Auxiliaries, Mixed Soldiery, and One's Own\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-13",
+      "relations": []
+    },
+    {
+      "id": "chapter-14",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XIV\"",
+      "description": "\"That Which Concerns a Prince on the Subject of the Art of War\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-14",
+      "relations": []
+    },
+    {
+      "id": "chapter-15",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XV\"",
+      "description": "\"Concerning Things for Which Men, and Especially Princes, Are Praised or Blamed\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-15",
+      "relations": []
+    },
+    {
+      "id": "chapter-16",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XVI\"",
+      "description": "\"Concerning Liberality and Meanness\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-16",
+      "relations": []
+    },
+    {
+      "id": "chapter-17",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XVII\"",
+      "description": "\"Concerning Cruelty and Clemency, and Whether It Is Better to Be Loved Than Feared\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-17",
+      "relations": []
+    },
+    {
+      "id": "chapter-18",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XVIII\"",
+      "description": "\"Concerning the Way in Which Princes Should Keep Faith\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-18",
+      "relations": []
+    },
+    {
+      "id": "chapter-19",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XIX\"",
+      "description": "\"That One Should Avoid Being Despised and Hated\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-19",
+      "relations": []
+    },
+    {
+      "id": "chapter-20",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XX\"",
+      "description": "\"Are Fortresses, and Many Other Things to Which Princes Often Resort, Advantageous or Hurtful?\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-20",
+      "relations": []
+    },
+    {
+      "id": "chapter-21",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXI\"",
+      "description": "\"How a Prince Should Conduct Himself So as to Gain Renown\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-21",
+      "relations": []
+    },
+    {
+      "id": "chapter-22",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXII\"",
+      "description": "\"Concerning the Secretaries of Princes\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-22",
+      "relations": []
+    },
+    {
+      "id": "chapter-23",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXIII\"",
+      "description": "\"How Flatterers Should Be Avoided\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-23",
+      "relations": []
+    },
+    {
+      "id": "chapter-24",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXIV\"",
+      "description": "\"Why the Princes of Italy Have Lost Their States\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-24",
+      "relations": []
+    },
+    {
+      "id": "chapter-25",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXV\"",
+      "description": "\"What Fortune Can Effect in Human Affairs and How to Withstand Her\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-25",
+      "relations": []
+    },
+    {
+      "id": "chapter-26",
+      "type": "\"chapter\"",
+      "label": "\"Chapter XXVI\"",
+      "description": "\"An Exhortation to Liberate Italy from the Barbarians\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:chapter-26",
+      "relations": []
+    },
+    {
+      "id": "charles-viii-of-france",
+      "type": "person",
+      "label": "Charles VIII of France",
+      "description": "'King of France (r. 1483–1498); his 1494 invasion of Italy opened the peninsula to foreign intervention and his weak conduct closed every door to French influence, forcing his successor Louis XII to rebuild from nothing.'",
+      "aliases": [
+        "Charles VIII",
+        "King Charles VIII"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "france",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:charles-viii-of-france",
+      "relations": []
+    },
+    {
+      "id": "civil-principality",
+      "type": "concept",
+      "label": "Civil Principality",
+      "description": "'A principality where a private citizen becomes prince through the favour of fellow-citizens rather than through violence or hereditary succession.'",
+      "aliases": [
+        "civil principate",
+        "principato civile",
+        "principality by consent"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "state-typology"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:civil-principality",
+      "relations": []
+    },
+    {
+      "id": "clemency",
+      "type": "concept",
+      "label": "Clemency (Clemenza)",
+      "description": "'In The Prince, clemency is a princely virtue that must be used with caution — misused clemency allows disorders to flourish, while well-measured severity preserves order.'",
+      "aliases": [
+        "clemenza",
+        "mercy",
+        "compassion"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:clemency",
+      "relations": []
+    },
+    {
+      "id": "colonies",
+      "type": "concept",
+      "label": "Colonies",
+      "description": "'In The Prince, sending colonies to conquered territories is Machiavelli''s preferred method of maintaining control — cheaper and more effective than maintaining armed garrisons.'",
+      "aliases": [
+        "colonization",
+        "colonial-administration"
+      ],
+      "tags": [
+        "politics",
+        "military",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:colonies",
+      "relations": []
+    },
+    {
+      "id": "commodus",
+      "type": "person",
+      "label": "Commodus",
+      "description": "'Roman emperor (r. 177–192 CE), cited by Machiavelli in Chapter 19 as an example of a ruler whose cruelty made him hated and led to his assassination.'",
+      "aliases": [
+        "Lucius Aurelius Commodus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "politics",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:commodus",
+      "relations": []
+    },
+    {
+      "id": "conspiracy",
+      "type": "concept",
+      "label": "Conspiracy (Congiura)",
+      "description": "'In The Prince, conspiracy is the mechanism through which internal enemies seek to overthrow a ruler — and the ultimate test of whether a prince has avoided hatred.'",
+      "aliases": [
+        "congiura",
+        "plot",
+        "conjuration"
+      ],
+      "tags": [
+        "politics",
+        "history",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:conspiracy",
+      "relations": []
+    },
+    {
+      "id": "cruelty",
+      "type": "concept",
+      "label": "Cruelty",
+      "description": "'Machiavelli''s distinction between cruelty \"well-used\" — inflicted once, for necessity, and not repeated — and cruelty abused, a core doctrine of The Prince concerning the ethics of princely violence'",
+      "aliases": [
+        "well-used cruelty",
+        "crudeltà",
+        "cruel deeds"
+      ],
+      "tags": [
+        "concept",
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:cruelty",
+      "relations": []
+    },
+    {
+      "id": "cyrus-the-great",
+      "type": "person",
+      "label": "Cyrus the Great",
+      "description": "'Founder of the Achaemenid Persian Empire (r. 559–530 BCE), cited by Machiavelli as one of the four great armed prophets who rose by their own ability.'",
+      "aliases": [
+        "Cyrus"
+      ],
+      "tags": [
+        "exemplar",
+        "founder",
+        "antiquity",
+        "persian-empire"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:cyrus-the-great",
+      "relations": []
+    },
+    {
+      "id": "david",
+      "type": "person",
+      "label": "David",
+      "description": "'Biblical king of Israel, cited by Machiavelli in Chapter 13 as an exemplar of a ruler who fought with his own arms rather than borrowed weapons.'",
+      "aliases": [
+        "King David"
+      ],
+      "tags": [
+        "biblical",
+        "exemplar",
+        "military",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:david",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mercenaries",
+          "label": "mercenaries"
+        }
+      ]
+    },
+    {
+      "id": "dedication",
+      "type": "\"chapter\"",
+      "label": "\"Dedication\"",
+      "description": "\"Dedication to Lorenzo de' Medici\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "preface"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:dedication",
+      "relations": []
+    },
+    {
+      "id": "didius-julianus",
+      "type": "person",
+      "label": "Didius Julianus",
+      "description": "'Roman emperor (r. 193 CE) who bought the throne at auction and reigned nine weeks before being killed by Septimius Severus, cited by Machiavelli as proof that weakness invites destruction.'",
+      "aliases": [
+        "Julian",
+        "Marcus Didius Julianus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "weakness",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:didius-julianus",
+      "relations": []
+    },
+    {
+      "id": "duke-of-gravina",
+      "type": "person",
+      "label": "Duke of Gravina",
+      "description": "'Francesco Orsini, Duke of Gravina, an Italian nobleman and condottiero who was among the conspirators killed by Cesare Borgia at the Sinigaglia massacre in 1502.'",
+      "aliases": [
+        "Francesco Orsini",
+        "Duke di Gravina Orsini"
+      ],
+      "tags": [
+        "renaissance",
+        "condottiero",
+        "italian-nobility"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:duke-of-gravina",
+      "relations": []
+    },
+    {
+      "id": "ecclesiastical-principality",
+      "type": "concept",
+      "label": "Ecclesiastical Principality",
+      "description": "'The type of principality ruled by the Church — unique in Machiavelli''s typology because it requires neither virtue nor fortune to maintain, being sustained by \"ancient religious institutions\" alone'",
+      "aliases": [
+        "ecclesiastical principalities",
+        "Church principality",
+        "papal principality"
+      ],
+      "tags": [
+        "concept",
+        "politics",
+        "religion",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:ecclesiastical-principality",
+      "relations": []
+    },
+    {
+      "id": "faith-faithlessness",
+      "type": "concept",
+      "label": "Faith / Faithlessness",
+      "description": "'Machiavelli''s doctrine that a prudent prince should know how to keep faith when it benefits him and break it when necessary, while always appearing faithful.'",
+      "aliases": [
+        "keeping faith",
+        "breaking faith",
+        "fidelity of princes",
+        "good faith"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:faith-faithlessness",
+      "relations": []
+    },
+    {
+      "id": "fear-vs-love",
+      "type": "concept",
+      "label": "Fear vs. Love",
+      "description": "'Machiavelli''s doctrine that a prince should prefer being feared over loved when both cannot be maintained, but must avoid being hated.'",
+      "aliases": [
+        "whether it is better to be feared than loved",
+        "fear and love",
+        "feared or loved"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:fear-vs-love",
+      "relations": []
+    },
+    {
+      "id": "ferdinand-of-aragon",
+      "type": "person",
+      "label": "Ferdinand of Aragon",
+      "description": "'King of Spain (r. 1479–1516); presented by Machiavelli as the exemplar of a prince who achieves greatness through the cloak of religion while possessing none of its virtues.'",
+      "aliases": [
+        "Ferdinand the Catholic",
+        "King Ferdinand of Spain"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "spain",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:ferdinand-of-aragon",
+      "relations": []
+    },
+    {
+      "id": "fermo",
+      "type": "place",
+      "label": "Fermo",
+      "description": "\"A city in the Marche region of Italy, known in The Prince as the setting of Oliverotto da Fermo's treacherous seizure of power, analyzed in Chapter 8 as an example of crime-based principality acquisition.\"",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "marche",
+        "city-state",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:fermo",
+      "relations": []
+    },
+    {
+      "id": "ferrara",
+      "type": "place",
+      "label": "Ferrara",
+      "description": "'A duchy ruled by the House of Este — Machiavelli''s example of a hereditary principality that survived foreign invasions through ancient lineage and strategic balancing'",
+      "aliases": [
+        "Duchy of Ferrara"
+      ],
+      "tags": [
+        "italy",
+        "renaissance",
+        "geography",
+        "city-state"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:ferrara",
+      "relations": [
+        {
+          "type": "related",
+          "target": "milan",
+          "label": "Milan"
+        },
+        {
+          "type": "related",
+          "target": "republic-of-venice",
+          "label": "Republic of Venice"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "pope-julius-ii",
+          "label": "Pope Julius II"
+        },
+        {
+          "type": "related",
+          "target": "hereditary-principality",
+          "label": "Hereditary Principality"
+        }
+      ]
+    },
+    {
+      "id": "flatterers",
+      "type": "concept",
+      "label": "Flatterers",
+      "description": "'In The Prince, flatterers pose a subtle danger to rulers — the only defense is to choose wise counselors and let them speak truth without fear.'",
+      "aliases": [
+        "flattery",
+        "sycophants",
+        "courtiers"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:flatterers",
+      "relations": []
+    },
+    {
+      "id": "florence",
+      "type": "place",
+      "label": "Florence",
+      "description": "'Florence, the Renaissance city-state and republic, was Machiavellis birthplace and the political laboratory from which he drew his most acute observations on republican and princely government.'",
+      "aliases": [
+        "Republic of Florence",
+        "Florentine Republic"
+      ],
+      "tags": [
+        "place",
+        "renaissance",
+        "italy",
+        "city-state"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:florence",
+      "relations": []
+    },
+    {
+      "id": "forli",
+      "type": "place",
+      "label": "Forli",
+      "description": "\"A city in the Romagna region, noted in The Prince as the domain of Catherina Sforza and a target of Cesare Borgia's military campaign, illustrating the vulnerabilities of mercenary-dependent defenses.\"",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "romagna",
+        "city-state",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:forli",
+      "relations": []
+    },
+    {
+      "id": "fortresses",
+      "type": "concept",
+      "label": "Fortresses",
+      "description": "'Machiavelli''s analysis of whether fortresses are useful to a prince — concluding that the best fortress is not to be hated by the people.'",
+      "aliases": [
+        "fortress",
+        "citadels",
+        "strongholds",
+        "defensive fortifications"
+      ],
+      "tags": [
+        "politics",
+        "military",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:fortresses",
+      "relations": []
+    },
+    {
+      "id": "fortuna",
+      "type": "concept",
+      "label": "Fortuna",
+      "description": "'Machiavelli''s concept of fortune — the unpredictable force that governs half of human affairs and which the prince must learn to resist and channel through virtù'",
+      "aliases": [
+        "fortune",
+        "luck",
+        "chance"
+      ],
+      "tags": [
+        "politics",
+        "philosophy",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:fortuna",
+      "relations": []
+    },
+    {
+      "id": "foundations",
+      "type": "concept",
+      "label": "Foundations (Fondamenti)",
+      "description": "'In The Prince, good foundations are the deep structures — good laws and good arms — upon which all durable principalities are built and without which even the greatest virtù cannot long sustain a state.'",
+      "aliases": [
+        "fondamenti",
+        "good-foundations",
+        "state-foundations"
+      ],
+      "tags": [
+        "politics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:foundations",
+      "relations": []
+    },
+    {
+      "id": "france",
+      "type": "place",
+      "label": "France",
+      "description": "'The Kingdom of France under Louis XII, the dominant foreign power in Italian affairs during Machiavellis career, whose errors in Italy provide the cautionary case study of Chapter 3 of The Prince.'",
+      "aliases": [
+        "Kingdom of France"
+      ],
+      "tags": [
+        "place",
+        "renaissance",
+        "europe",
+        "monarchy"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:france",
+      "relations": []
+    },
+    {
+      "id": "francesco-sforza",
+      "type": "person",
+      "label": "Francesco Sforza",
+      "description": "'The condottiero who became Duke of Milan — Machiavelli''s exemplar of the prince who rises by his own arms and ability'",
+      "aliases": [
+        "Duke of Milan",
+        "Sforza"
+      ],
+      "tags": [
+        "person",
+        "renaissance",
+        "italy",
+        "military"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:francesco-sforza",
+      "relations": []
+    },
+    {
+      "id": "fraud",
+      "type": "concept",
+      "label": "Fraud (Frode)",
+      "description": "'In The Prince, fraud is one of the two modes of animal combat — the fox''s method — and a legitimate tool of statecraft when used to overcome enemies and secure the state.'",
+      "aliases": [
+        "frode",
+        "deception",
+        "cunning",
+        "astuzia"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:fraud",
+      "relations": []
+    },
+    {
+      "id": "french-invasion-1494",
+      "type": "event",
+      "label": "French Invasion of 1494",
+      "description": "'The invasion of Italy by Charles VIII of France in 1494 — the event that shattered the Italian balance of power and opened the peninsula to decades of foreign intervention, forming the backdrop to The Prince'",
+      "aliases": [
+        "Charles VIII invasion",
+        "1494 invasion"
+      ],
+      "tags": [
+        "event",
+        "renaissance",
+        "italy",
+        "france",
+        "war"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:french-invasion-1494",
+      "relations": []
+    },
+    {
+      "id": "genoa",
+      "type": "place",
+      "label": "Genoa",
+      "description": "'A major maritime republic of Renaissance Italy, whose shifting allegiance between France and the Italian powers is noted in The Prince as an example of the consequences of foreign intervention.'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "liguria",
+        "maritime-republic",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:genoa",
+      "relations": []
+    },
+    {
+      "id": "germany",
+      "type": "place",
+      "label": "Germany",
+      "description": "'The German lands of the Holy Roman Empire, analyzed in The Prince as exemplifying a distinctive political constitution of free cities and princely states that makes them difficult to conquer.'",
+      "aliases": [
+        "Holy Roman Empire"
+      ],
+      "tags": [
+        "europe",
+        "holy-roman-empire",
+        "politics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:germany",
+      "relations": []
+    },
+    {
+      "id": "giampaolo-baglioni",
+      "type": "person",
+      "label": "Giampaolo Baglioni",
+      "description": "'Tyrant of Perugia who conspired against Cesare Borgia at the Magione meeting'",
+      "aliases": [
+        "Gianpagolo Baglioni",
+        "Giovanpagolo Baglioni"
+      ],
+      "tags": [
+        "renaissance",
+        "condottiero",
+        "italian-wars"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:giampaolo-baglioni",
+      "relations": [
+        {
+          "type": "related",
+          "target": "vitellozzo-vitelli",
+          "label": "Vitellozzo Vitelli"
+        },
+        {
+          "type": "related",
+          "target": "oliverotto-da-fermo",
+          "label": "Oliverotto da Fermo"
+        },
+        {
+          "type": "related",
+          "target": "cesare-borgia",
+          "label": "Cesare Borgia"
+        },
+        {
+          "type": "related",
+          "target": "pandolfo-petrucci",
+          "label": "Pandolfo Petrucci"
+        },
+        {
+          "type": "related",
+          "target": "sinigaglia-massacre",
+          "label": "Sinigaglia Massacre"
+        }
+      ]
+    },
+    {
+      "id": "giorgio-scali",
+      "type": "person",
+      "label": "Giorgio Scali",
+      "description": "'Florentine demagogue mentioned in Chapter 9 as an example of one who rose through popular favor'",
+      "aliases": [
+        "Messer Giorgio Scali"
+      ],
+      "tags": [
+        "renaissance",
+        "florence",
+        "demagogue",
+        "14th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:giorgio-scali",
+      "relations": [
+        {
+          "type": "related",
+          "target": "niccolo-machiavelli",
+          "label": "Niccolò Machiavelli"
+        },
+        {
+          "type": "related",
+          "target": "florence",
+          "label": "Florence"
+        },
+        {
+          "type": "related",
+          "target": "girolamo-savonarola",
+          "label": "Girolamo Savonarola"
+        }
+      ]
+    },
+    {
+      "id": "giovanni-bentivogli",
+      "type": "person",
+      "label": "Giovanni Bentivogli",
+      "description": "\"Ruler of Bologna (1443–1508); his family survived assassination through popular goodwill, illustrating the principle of Machiavelli that the favor of the people is the best fortress of a prince.\"",
+      "aliases": [
+        "Giovanni II Bentivoglio",
+        "Messer Giovanni Bentivogli"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "bologna",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:giovanni-bentivogli",
+      "relations": []
+    },
+    {
+      "id": "giovanni-fogliani",
+      "type": "person",
+      "label": "Giovanni Fogliani",
+      "description": "'Maternal uncle of Oliverotto da Fermo, murdered by his nephew at the Banquet of Fermo in 1501, an episode Machiavelli recounts in Chapter 8 as an example of criminal treachery.'",
+      "aliases": [],
+      "tags": [
+        "renaissance",
+        "italian",
+        "condottiero",
+        "victim"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:giovanni-fogliani",
+      "relations": []
+    },
+    {
+      "id": "girolamo-savonarola",
+      "type": "person",
+      "label": "Girolamo Savonarola",
+      "description": "'Florentine Dominican friar and reformer (1452–1498); cited in The Prince as the definitive example of an \"unarmed prophet\" who comes to a bad end.'",
+      "aliases": [
+        "Savonarola",
+        "Fra Girolamo Savonarola"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "florence",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:girolamo-savonarola",
+      "relations": []
+    },
+    {
+      "id": "glory",
+      "type": "concept",
+      "label": "Glory (Gloria)",
+      "description": "'In The Prince, glory is the ultimate reward of princely virtù — won through great deeds, new foundations, and successful arms.'",
+      "aliases": [
+        "gloria",
+        "fame",
+        "honour"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:glory",
+      "relations": []
+    },
+    {
+      "id": "greece",
+      "type": "place",
+      "label": "Greece",
+      "description": "'Ancient Greece as a political reference point in The Prince, used by Machiavelli to illustrate the dynamics of foreign intervention, coalition warfare, and the structural weaknesses of divided states.'",
+      "aliases": [
+        "Ancient Greece"
+      ],
+      "tags": [
+        "classical",
+        "antiquity",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:greece",
+      "relations": []
+    },
+    {
+      "id": "hatred",
+      "type": "concept",
+      "label": "Hatred (Odio)",
+      "description": "'In The Prince, hatred is the one sentiment a prince must above all avoid — more dangerous than being feared, and the surest path to ruin.'",
+      "aliases": [
+        "odio",
+        "hate"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:hatred",
+      "relations": []
+    },
+    {
+      "id": "heliogabalus",
+      "type": "person",
+      "label": "Heliogabalus",
+      "description": "'Roman emperor (r. 218–222), mentioned in Chapter 19 as an example of contemptible rulers'",
+      "aliases": [
+        "Elagabalus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "severan-dynasty",
+        "3rd-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:heliogabalus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "macrinus",
+          "label": "Macrinus"
+        },
+        {
+          "type": "related",
+          "target": "caracalla",
+          "label": "Caracalla"
+        },
+        {
+          "type": "related",
+          "target": "septimius-severus",
+          "label": "Septimius Severus"
+        },
+        {
+          "type": "related",
+          "target": "commodus",
+          "label": "Commodus"
+        },
+        {
+          "type": "related",
+          "target": "maximinus",
+          "label": "Maximinus"
+        }
+      ]
+    },
+    {
+      "id": "hereditary-principality",
+      "type": "concept",
+      "label": "Hereditary Principality",
+      "description": "'A principality ruled by a long-established dynasty — the easiest type of state to maintain according to Machiavelli'",
+      "aliases": [
+        "hereditary state",
+        "inherited principality"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:hereditary-principality",
+      "relations": []
+    },
+    {
+      "id": "introduction",
+      "type": "\"chapter\"",
+      "label": "\"Introduction\"",
+      "description": "\"Translator's introduction to Machiavelli's life and works\"",
+      "aliases": [],
+      "tags": [
+        "chapter",
+        "preface"
+      ],
+      "quality": "unknown",
+      "source_ref": "jun-zhu-lun:introduction",
+      "relations": []
+    },
+    {
+      "id": "italy",
+      "type": "place",
+      "label": "Italy",
+      "description": "'The central theater of The Prince — a politically fragmented peninsula contested by France, Spain, the papacy, and local princes'",
+      "aliases": [
+        "Italian Peninsula"
+      ],
+      "tags": [
+        "italy",
+        "renaissance",
+        "16th-century",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:italy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "republic-of-venice",
+          "label": "Republic of Venice"
+        },
+        {
+          "type": "related",
+          "target": "milan",
+          "label": "Milan"
+        },
+        {
+          "type": "related",
+          "target": "papal-states",
+          "label": "Papal States"
+        },
+        {
+          "type": "related",
+          "target": "naples",
+          "label": "Naples"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "charles-viii-of-france",
+          "label": "Charles VIII"
+        },
+        {
+          "type": "related",
+          "target": "ferdinand-of-aragon",
+          "label": "Ferdinand of Aragon"
+        },
+        {
+          "type": "related",
+          "target": "florence",
+          "label": "Florence"
+        }
+      ]
+    },
+    {
+      "id": "justice",
+      "type": "concept",
+      "label": "Justice (Giustizia)",
+      "description": "'In The Prince, justice is instrumental rather than absolute — a just war is one that is necessary, and justice in rule serves the stability of the state rather than an abstract moral order.'",
+      "aliases": [
+        "giustizia",
+        "just-war"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:justice",
+      "relations": []
+    },
+    {
+      "id": "law",
+      "type": "concept",
+      "label": "Law (Legge)",
+      "description": "'In The Prince, law is one half of the centaur — the human mode of rule, paired with force. Good laws depend on good arms, and both sustain the state.'",
+      "aliases": [
+        "legge",
+        "laws",
+        "legal-order"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:law",
+      "relations": []
+    },
+    {
+      "id": "league-of-cambrai",
+      "type": "event",
+      "label": "League of Cambrai",
+      "description": "'The League of Cambrai (1508–1510), an anti-Venetian alliance of European powers that Machiavelli analyzes as a case study in the fragility of coalitions and the perils of strengthening ones rivals.'",
+      "aliases": [
+        "War of the League of Cambrai"
+      ],
+      "tags": [
+        "event",
+        "renaissance",
+        "diplomacy",
+        "alliance"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:league-of-cambrai",
+      "relations": []
+    },
+    {
+      "id": "liberality",
+      "type": "concept",
+      "label": "Liberality",
+      "description": "'Machiavellis analysis of liberality (generosity) as a princely virtue that paradoxically leads to ruin when practiced, and the superior alternative of parsimony.'",
+      "aliases": [
+        "Liberality vs Parsimony",
+        "Generosity",
+        "Meanness"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "concept",
+        "renaissance"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:liberality",
+      "relations": [
+        {
+          "type": "related",
+          "target": "necessity",
+          "label": "necessity"
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "type": "concept",
+      "label": "Liberty (Libertà)",
+      "description": "'In The Prince, liberty (libertà) is the cherished political condition of free republics — a fragile state that makes conquest difficult but which, once lost, is nearly impossible to restore without destroying the conquered state.'",
+      "aliases": [
+        "liberta",
+        "freedom",
+        "republican-liberty"
+      ],
+      "tags": [
+        "politics",
+        "philosophy",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:liberty",
+      "relations": []
+    },
+    {
+      "id": "lion-and-fox",
+      "type": "concept",
+      "label": "Lion and Fox",
+      "description": "'In The Prince, the lion and the fox are the two natures a prince must combine — the lion frightens wolves (force), the fox recognizes snares (cunning). Neither alone is sufficient.'",
+      "aliases": [
+        "the-lion-and-the-fox",
+        "forza-e-astuzia",
+        "force-and-fraud"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:lion-and-fox",
+      "relations": []
+    },
+    {
+      "id": "lombardy",
+      "type": "place",
+      "label": "Lombardy",
+      "description": "'A wealthy northern Italian region contested by France, Venice, and local princes — central to Machiavelli''s analysis of Louis XII''s errors in Italy'",
+      "aliases": [
+        "Lombardia"
+      ],
+      "tags": [
+        "italy",
+        "renaissance",
+        "geography",
+        "city-state"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:lombardy",
+      "relations": [
+        {
+          "type": "related",
+          "target": "milan",
+          "label": "Milan"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "republic-of-venice",
+          "label": "Republic of Venice"
+        },
+        {
+          "type": "related",
+          "target": "louis-xii-of-france",
+          "label": "Louis XII of France"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "lorenzo-de-medici",
+      "type": "person",
+      "label": "Lorenzo de' Medici",
+      "description": "'Ruler of Florence (1449–1492), known as \"Il Magnifico\"; the youth of Machiavelli was shaped by his governance and his grandson was the dedicatee of The Prince.'",
+      "aliases": [
+        "Lorenzo il Magnifico",
+        "Lorenzo the Magnificent"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "florence",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:lorenzo-de-medici",
+      "relations": []
+    },
+    {
+      "id": "louis-xi",
+      "type": "person",
+      "label": "Louis XI",
+      "description": "'King of France (r. 1461–1483); father of Jeanne of France, whose marriage dissolution by Louis XII was a condition of papal support.'",
+      "aliases": [
+        "King Louis XI"
+      ],
+      "tags": [
+        "renaissance",
+        "15th-century",
+        "france",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:louis-xi",
+      "relations": []
+    },
+    {
+      "id": "louis-xii-of-france",
+      "type": "person",
+      "label": "Louis XII of France",
+      "description": "'King of France (r. 1498–1515), called \"The Father of the People\"; a central negative example in The Prince whose five errors in Italian statecraft cost him Lombardy.'",
+      "aliases": [
+        "King Louis XII",
+        "Louis XII"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "france",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:louis-xii-of-france",
+      "relations": []
+    },
+    {
+      "id": "lucca",
+      "type": "place",
+      "label": "Lucca",
+      "description": "'A Tuscan city-state and the birthplace of Castruccio Castracani, appearing in The Prince as both a political actor in Chapter 7 and the central setting of the biographical appendix.'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "tuscany",
+        "city-state",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:lucca",
+      "relations": []
+    },
+    {
+      "id": "macrinus",
+      "type": "person",
+      "label": "Macrinus",
+      "description": "'Roman emperor (r. 217–218), briefly mentioned in Chapter 19 among contemptible rulers'",
+      "aliases": [
+        "Marcus Opellius Macrinus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "3rd-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:macrinus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "caracalla",
+          "label": "Caracalla"
+        },
+        {
+          "type": "related",
+          "target": "septimius-severus",
+          "label": "Septimius Severus"
+        },
+        {
+          "type": "related",
+          "target": "heliogabalus",
+          "label": "Heliogabalus"
+        },
+        {
+          "type": "related",
+          "target": "pertinax",
+          "label": "Pertinax"
+        },
+        {
+          "type": "related",
+          "target": "didius-julianus",
+          "label": "Didius Julianus"
+        }
+      ]
+    },
+    {
+      "id": "marcus-aurelius",
+      "type": "person",
+      "label": "Marcus Aurelius",
+      "description": "'Roman emperor (r. 161–180 CE) and Stoic philosopher, cited by Machiavelli in Chapter 19 as the model of a virtuous ruler who succeeded because he inherited the empire rather than seizing it.'",
+      "aliases": [
+        "Marcus the Philosopher",
+        "Marcus Aurelius Antoninus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "philosophy",
+        "exemplar",
+        "antiquity",
+        "stoicism"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:marcus-aurelius",
+      "relations": []
+    },
+    {
+      "id": "maximilian-i",
+      "type": "person",
+      "label": "Maximilian I",
+      "description": "'Holy Roman Emperor (r. 1493–1519); portrayed by Machiavelli as a secretive ruler whose refusal to seek or heed counsel caused his repeated failures.'",
+      "aliases": [
+        "Emperor Maximilian",
+        "Maximilian I of the Holy Roman Empire"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "holy-roman-empire",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:maximilian-i",
+      "relations": []
+    },
+    {
+      "id": "maximinus",
+      "type": "person",
+      "label": "Maximinus",
+      "description": "'Roman emperor (r. 235–238 CE), cited by Machiavelli in Chapter 19 as a cruel and warlike ruler killed by his own soldiers.'",
+      "aliases": [
+        "Maximinus Thrax",
+        "Gaius Julius Verus Maximinus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "cruelty",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:maximinus",
+      "relations": []
+    },
+    {
+      "id": "mercenaries",
+      "type": "concept",
+      "label": "Mercenaries",
+      "description": "'Machiavelli''s analysis of mercenary arms as useless and dangerous — soldiers who fight only for pay and have no loyalty to the prince or state'",
+      "aliases": [
+        "mercenary arms",
+        "mercenary troops",
+        "hired soldiers"
+      ],
+      "tags": [
+        "politics",
+        "military",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:mercenaries",
+      "relations": []
+    },
+    {
+      "id": "milan",
+      "type": "place",
+      "label": "Milan",
+      "description": "'The Duchy of Milan — a Lombard city-state that Machiavelli uses as the exemplar of a principality acquired through both fortune and ability, seized by Francesco Sforza and repeatedly contested by France'",
+      "aliases": [
+        "Duchy of Milan",
+        "Milano"
+      ],
+      "tags": [
+        "place",
+        "renaissance",
+        "italy",
+        "lombardy"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:milan",
+      "relations": []
+    },
+    {
+      "id": "mixed-principality",
+      "type": "concept",
+      "label": "Mixed Principality",
+      "description": "'A principality formed by annexing a new territory to an existing state — the most unstable form of rule in Machiavelli''s typology, requiring the prince to navigate contested loyalties and structural resistance'",
+      "aliases": [
+        "mixed principalities",
+        "composite principality"
+      ],
+      "tags": [
+        "concept",
+        "politics",
+        "state-theory",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:mixed-principality",
+      "relations": []
+    },
+    {
+      "id": "moses",
+      "type": "person",
+      "label": "Moses",
+      "description": "'Biblical lawgiver and leader of the Israelites, cited by Machiavelli as the supreme example of an armed prophet who founded a new order through his own ability.'",
+      "aliases": [],
+      "tags": [
+        "biblical",
+        "founder",
+        "exemplar",
+        "armed-prophet"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:moses",
+      "relations": []
+    },
+    {
+      "id": "nabis",
+      "type": "person",
+      "label": "Nabis",
+      "description": "'Tyrant of Sparta (r. 207–192 BCE), cited by Machiavelli as an example of a ruler who maintained power by keeping the people satisfied while eliminating his rivals.'",
+      "aliases": [],
+      "tags": [
+        "spartan-tyrant",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:nabis",
+      "relations": []
+    },
+    {
+      "id": "naples",
+      "type": "place",
+      "label": "Naples",
+      "description": "'The Kingdom of Naples — southern Italy''s hereditary monarchy, repeatedly conquered and divided by France and Spain in the Italian Wars'",
+      "aliases": [
+        "Kingdom of Naples",
+        "Neapolitan Kingdom"
+      ],
+      "tags": [
+        "italy",
+        "naples",
+        "kingdom",
+        "renaissance",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:naples",
+      "relations": [
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "spain",
+          "label": "Spain"
+        },
+        {
+          "type": "related",
+          "target": "louis-xii-of-france",
+          "label": "Louis XII"
+        },
+        {
+          "type": "related",
+          "target": "ferdinand-of-aragon",
+          "label": "Ferdinand of Aragon"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "Italy"
+        },
+        {
+          "type": "related",
+          "target": "charles-viii-of-france",
+          "label": "Charles VIII"
+        }
+      ]
+    },
+    {
+      "id": "native-troops",
+      "type": "concept",
+      "label": "Native Troops",
+      "description": "'Troops raised from a prince''s own subjects — the only reliable foundation of military power according to Machiavelli, who considered native arms the decisive factor separating successful princes from those who lost their states'",
+      "aliases": [
+        "own arms",
+        "one's own arms",
+        "national army",
+        "native soldiers"
+      ],
+      "tags": [
+        "concept",
+        "military",
+        "politics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:native-troops",
+      "relations": []
+    },
+    {
+      "id": "necessity",
+      "type": "concept",
+      "label": "Necessity (Necessità)",
+      "description": "'A core Machiavellian concept: necessity (necessità) as the driving force that compels, justifies, and constrains princely action.'",
+      "aliases": [
+        "necessita",
+        "Necessità",
+        "Necessity"
+      ],
+      "tags": [
+        "politics",
+        "concept",
+        "renaissance"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:necessity",
+      "relations": []
+    },
+    {
+      "id": "neutrality",
+      "type": "concept",
+      "label": "Neutrality (Neutralità)",
+      "description": "'In The Prince, neutrality in the conflicts of others is almost always a mistake — a prince who declares himself decisively wins respect; one who remains neutral becomes the prey of the victor.'",
+      "aliases": [
+        "neutralita",
+        "staying-neutral"
+      ],
+      "tags": [
+        "politics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:neutrality",
+      "relations": []
+    },
+    {
+      "id": "new-principality",
+      "type": "concept",
+      "label": "New Principality",
+      "description": "'A principality newly acquired by a prince — the central subject of The Prince and the most difficult type of state to maintain'",
+      "aliases": [
+        "new state",
+        "acquired principality"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:new-principality",
+      "relations": []
+    },
+    {
+      "id": "niccolo-machiavelli",
+      "type": "person",
+      "label": "Niccolò Machiavelli",
+      "description": "'Florentine diplomat, historian, and political philosopher (1469–1527); author of The Prince and secretary to the Florentine Republic.'",
+      "aliases": [
+        "Nicolo Machiavelli",
+        "Machiavelli"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "florence",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:niccolo-machiavelli",
+      "relations": []
+    },
+    {
+      "id": "occasione",
+      "type": "concept",
+      "label": "Occasione (Opportunity)",
+      "description": "'The Machiavellian concept that virtù requires opportunity (occasione) to manifest — great founders are those who recognize and seize the favorable moment.'",
+      "aliases": [
+        "opportunity",
+        "occasion",
+        "occasione",
+        "favorable circumstance"
+      ],
+      "tags": [
+        "politics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:occasione",
+      "relations": []
+    },
+    {
+      "id": "oliverotto-da-fermo",
+      "type": "person",
+      "label": "Oliverotto da Fermo",
+      "description": "'Oliverotto da Fermo (1475–1503), a condottiere who seized Fermo by murdering his uncle and leading citizens at a banquet — Machiavelli''s exemplar of criminal principality and its ultimate failure.'",
+      "aliases": [
+        "Oliverotto Euffreducci",
+        "Oliverotto of Fermo"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "15th-century",
+        "criminal-principality"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:oliverotto-da-fermo",
+      "relations": []
+    },
+    {
+      "id": "orsini-family",
+      "type": "organization",
+      "label": "Orsini Family",
+      "description": "'The Orsini, one of the great Roman baronial families whose conspiratorial opposition to Cesare Borgia — and subsequent elimination at Sinigaglia — provides a central case study in The Princes analysis of faction management.'",
+      "aliases": [
+        "House of Orsini",
+        "Orsini"
+      ],
+      "tags": [
+        "organization",
+        "renaissance",
+        "faction",
+        "rome"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:orsini-family",
+      "relations": []
+    },
+    {
+      "id": "pagolo-vitelli",
+      "type": "person",
+      "label": "Pagolo Vitelli",
+      "description": "'Italian condottiero captain of the Florentine army, cited by Machiavelli as both the commander under whom Oliverotto da Fermo trained and an example of a prudent military leader.'",
+      "aliases": [
+        "Paolo Vitelli"
+      ],
+      "tags": [
+        "renaissance",
+        "italian",
+        "condottiero",
+        "military"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pagolo-vitelli",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mercenaries",
+          "label": "mercenaries"
+        }
+      ]
+    },
+    {
+      "id": "pandolfo-petrucci",
+      "type": "person",
+      "label": "Pandolfo Petrucci",
+      "description": "'Ruler of Siena (r. 1487–1512); cited in The Prince as an exemplar of a prince who governs through those he once distrusted and of a ruler wise enough to choose a capable minister.'",
+      "aliases": [
+        "Pandolfo Petrucci of Siena"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "siena",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pandolfo-petrucci",
+      "relations": []
+    },
+    {
+      "id": "papal-states",
+      "type": "organization",
+      "label": "Papal States",
+      "description": "'The temporal domain of the Pope in central Italy — Machiavelli''s analysis of ecclesiastical principalities as uniquely secure because they are sustained by religious authority rather than arms'",
+      "aliases": [
+        "the Church",
+        "the Papacy",
+        "Holy See",
+        "Ecclesiastical States"
+      ],
+      "tags": [
+        "organization",
+        "renaissance",
+        "italy",
+        "politics",
+        "religion"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:papal-states",
+      "relations": []
+    },
+    {
+      "id": "pertinax",
+      "type": "person",
+      "label": "Pertinax",
+      "description": "'Roman emperor (r. 193 CE) whose brief reign of three months ended in assassination, cited by Machiavelli as proof that excessive moderation can be fatal for a prince.'",
+      "aliases": [
+        "Publius Helvius Pertinax"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "politics",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pertinax",
+      "relations": []
+    },
+    {
+      "id": "perugia",
+      "type": "place",
+      "label": "Perugia",
+      "description": "'An Umbrian city ruled by the Baglioni family — the site of the Magione conspiracy against Cesare Borgia and a case study in failed princely ruthlessness'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "renaissance",
+        "geography",
+        "city-state"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:perugia",
+      "relations": [
+        {
+          "type": "related",
+          "target": "cesare-borgia",
+          "label": "Cesare Borgia"
+        },
+        {
+          "type": "related",
+          "target": "sinigaglia-massacre",
+          "label": "Sinigaglia Massacre"
+        },
+        {
+          "type": "related",
+          "target": "giampaolo-baglioni",
+          "label": "Giampaolo Baglioni"
+        },
+        {
+          "type": "related",
+          "target": "pagolo-vitelli",
+          "label": "Pagolo Vitelli"
+        },
+        {
+          "type": "related",
+          "target": "romagna",
+          "label": "Romagna"
+        }
+      ]
+    },
+    {
+      "id": "pescennius-niger",
+      "type": "person",
+      "label": "Pescennius Niger",
+      "description": "'Roman usurper (c. 135–194 CE) who claimed the imperial throne against Septimius Severus, cited by Machiavelli as the first rival Severus defeated in his calculated campaign to secure sole power.'",
+      "aliases": [
+        "Gaius Pescennius Niger"
+      ],
+      "tags": [
+        "roman-usurper",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pescennius-niger",
+      "relations": []
+    },
+    {
+      "id": "philip-ii-of-macedon",
+      "type": "person",
+      "label": "Philip II of Macedon",
+      "description": "'King of Macedon (r. 359–336 BCE), father of Alexander the Great, cited by Machiavelli as an exemplar of a ruler who organized his own armed forces.'",
+      "aliases": [
+        "Philip of Macedon"
+      ],
+      "tags": [
+        "macedonian-king",
+        "exemplar",
+        "military",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:philip-ii-of-macedon",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mercenaries",
+          "label": "mercenaries"
+        }
+      ]
+    },
+    {
+      "id": "philopoemen",
+      "type": "person",
+      "label": "Philopoemen",
+      "description": "'Greek general and strategos of the Achaean League (253–183 BCE), called \"the last of the Greeks,\" cited by Machiavelli in Chapter 14 as the model of a prince who never ceases to study the art of war.'",
+      "aliases": [
+        "Philopoemen of Megalopolis"
+      ],
+      "tags": [
+        "greek",
+        "exemplar",
+        "military",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:philopoemen",
+      "relations": []
+    },
+    {
+      "id": "pisa",
+      "type": "place",
+      "label": "Pisa",
+      "description": "'A Tuscan city-state and longtime rival of Florence, repeatedly discussed in The Prince as an example of resistance to conquest and the difficulty of holding acquired territories.'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "tuscany",
+        "city-state",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pisa",
+      "relations": []
+    },
+    {
+      "id": "pistoia",
+      "type": "place",
+      "label": "Pistoia",
+      "description": "'A Tuscan city-state whose factional politics are analyzed in The Prince as a case study in how a ruler should manage internal divisions in subject territories.'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "tuscany",
+        "city-state",
+        "renaissance",
+        "faction"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pistoia",
+      "relations": []
+    },
+    {
+      "id": "pope-alexander-vi",
+      "type": "person",
+      "label": "Pope Alexander VI",
+      "description": "'Rodrigo Borgia (1431–1503), Pope Alexander VI, whose pontificate exemplified ecclesiastical principality and whose ambitious state-building through his son Cesare Borgia forms a central case study in The Prince.'",
+      "aliases": [
+        "Rodrigo Borgia",
+        "Alexander VI"
+      ],
+      "tags": [
+        "person",
+        "papacy",
+        "renaissance",
+        "borgia"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:pope-alexander-vi",
+      "relations": []
+    },
+    {
+      "id": "pope-julius-ii",
+      "type": "person",
+      "label": "Pope Julius II",
+      "description": "'Pope Julius II (Giuliano della Rovere, 1443–1513), the \"Warrior Pope\" — a central figure in Machiavelli''s analysis of ecclesiastical power, impetuous action, and the relationship between fortune and audacity.'",
+      "aliases": [
+        "Giuliano della Rovere",
+        "Julius II",
+        "Pope Julius"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "papacy",
+        "16th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pope-julius-ii",
+      "relations": []
+    },
+    {
+      "id": "pope-leo-x",
+      "type": "person",
+      "label": "Pope Leo X",
+      "description": "'Medici pope (r. 1513–1521) who created cardinals and was the dedicatee of The Prince'",
+      "aliases": [
+        "Giovanni de' Medici",
+        "Cardinal de' Medici"
+      ],
+      "tags": [
+        "renaissance",
+        "papacy",
+        "medici",
+        "16th-century"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:pope-leo-x",
+      "relations": [
+        {
+          "type": "related",
+          "target": "lorenzo-de-medici",
+          "label": "Lorenzo de' Medici"
+        },
+        {
+          "type": "related",
+          "target": "niccolo-machiavelli",
+          "label": "Machiavelli"
+        },
+        {
+          "type": "related",
+          "target": "league-of-cambrai",
+          "label": "League of Cambrai"
+        },
+        {
+          "type": "related",
+          "target": "pope-alexander-vi",
+          "label": "Pope Alexander VI"
+        },
+        {
+          "type": "related",
+          "target": "pope-julius-ii",
+          "label": "Pope Julius II"
+        },
+        {
+          "type": "related",
+          "target": "florence",
+          "label": "Florence"
+        }
+      ]
+    },
+    {
+      "id": "principality",
+      "type": "concept",
+      "label": "Principality",
+      "description": "'The core political unit analyzed in Machiavelli''s The Prince — a state ruled by a single prince, distinguished from a republic'",
+      "aliases": [
+        "principalities",
+        "princely state"
+      ],
+      "tags": [
+        "politics",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:principality",
+      "relations": []
+    },
+    {
+      "id": "prudence",
+      "type": "concept",
+      "label": "Prudence (Prudenza)",
+      "description": "'In The Prince, prudence is the faculty of knowing how to distinguish between courses of action and choose the one that avoids greater evils — the essential cognitive virtue of the successful prince.'",
+      "aliases": [
+        "prudenza",
+        "practical-wisdom"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:prudence",
+      "relations": []
+    },
+    {
+      "id": "ramiro-dorco",
+      "type": "person",
+      "label": "Ramiro d'Orco",
+      "description": "'A cruel but effective governor appointed by Cesare Borgia in the Romagna, later executed and displayed publicly to appease the people.'",
+      "aliases": [
+        "Remirro de Orco",
+        "Ramiro de Lorqua"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:ramiro-dorco",
+      "relations": []
+    },
+    {
+      "id": "republic",
+      "type": "concept",
+      "label": "Republic",
+      "description": "'The form of government by which a free people rules itself — the alternative to princely rule that Machiavelli served, admired, and analyzed as a distinct political species throughout his career'",
+      "aliases": [
+        "republics",
+        "repubblica",
+        "free state",
+        "republican government"
+      ],
+      "tags": [
+        "concept",
+        "politics",
+        "government",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:republic",
+      "relations": []
+    },
+    {
+      "id": "republic-of-venice",
+      "type": "organization",
+      "label": "Republic of Venice",
+      "description": "'The Most Serene Republic of Venice — the maritime republic that Machiavelli cites as an example of a state founded on ancient institutions, and whose downfall at Vaila he uses to warn against reliance on mercenary arms'",
+      "aliases": [
+        "Venetian Republic",
+        "the Republic of Venice",
+        "La Serenissima"
+      ],
+      "tags": [
+        "organization",
+        "renaissance",
+        "italy",
+        "republic"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:republic-of-venice",
+      "relations": []
+    },
+    {
+      "id": "romagna",
+      "type": "place",
+      "label": "Romagna",
+      "description": "'The region of northern Italy that Cesare Borgia conquered and pacified — Machiavelli''s case study in the effective governance of a newly acquired territory'",
+      "aliases": [
+        "the Romagna",
+        "Romagna region"
+      ],
+      "tags": [
+        "place",
+        "renaissance",
+        "italy"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:romagna",
+      "relations": []
+    },
+    {
+      "id": "rome",
+      "type": "place",
+      "label": "Rome",
+      "description": "'The seat of the papacy and the model of ancient republican virtue — central to Machiavelli''s political imagination as both historical exemplar and contemporary power center'",
+      "aliases": [
+        "Eternal City",
+        "Papal Rome"
+      ],
+      "tags": [
+        "italy",
+        "rome",
+        "papacy",
+        "renaissance",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:rome",
+      "relations": [
+        {
+          "type": "related",
+          "target": "orsini-family",
+          "label": "Orsini"
+        },
+        {
+          "type": "related",
+          "target": "marcus-aurelius",
+          "label": "Marcus Aurelius"
+        },
+        {
+          "type": "related",
+          "target": "maximinus",
+          "label": "Maximinus"
+        },
+        {
+          "type": "related",
+          "target": "giorgio-scali",
+          "label": "Giorgio Scali"
+        },
+        {
+          "type": "related",
+          "target": "romulus",
+          "label": "Romulus"
+        },
+        {
+          "type": "related",
+          "target": "septimius-severus",
+          "label": "Septimius Severus"
+        },
+        {
+          "type": "related",
+          "target": "pope-alexander-vi",
+          "label": "Pope Alexander VI"
+        }
+      ]
+    },
+    {
+      "id": "romulus",
+      "type": "person",
+      "label": "Romulus",
+      "description": "'Legendary founder and first king of Rome, cited by Machiavelli as one of the four great armed prophets who rose by their own ability, alongside Moses, Cyrus, and Theseus.'",
+      "aliases": [],
+      "tags": [
+        "mythical-founder",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:romulus",
+      "relations": []
+    },
+    {
+      "id": "saul",
+      "type": "person",
+      "label": "Saul",
+      "description": "'First king of Israel in the Old Testament, cited by Machiavelli in Chapter 13 as the ruler who mistakenly armed David with borrowed weapons — an allegory for the danger of relying on the arms of others.'",
+      "aliases": [
+        "King Saul"
+      ],
+      "tags": [
+        "biblical",
+        "exemplar",
+        "military",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:saul",
+      "relations": [
+        {
+          "type": "related",
+          "target": "mercenaries",
+          "label": "mercenaries"
+        }
+      ]
+    },
+    {
+      "id": "scipio-africanus",
+      "type": "person",
+      "label": "Scipio Africanus",
+      "description": "'Roman general (236–183 BCE) who defeated Hannibal, cited by Machiavelli as an exemplar of military virtue and the dangers of excessive clemency.'",
+      "aliases": [
+        "Scipio"
+      ],
+      "tags": [
+        "roman-republic",
+        "general",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:scipio-africanus",
+      "relations": []
+    },
+    {
+      "id": "septimius-severus",
+      "type": "person",
+      "label": "Septimius Severus",
+      "description": "'Roman emperor (r. 193–211 CE), cited by Machiavelli in Chapter 19 as an exemplar of a ruler who combined the lion and the fox to maintain power.'",
+      "aliases": [
+        "Severus"
+      ],
+      "tags": [
+        "roman-emperor",
+        "exemplar",
+        "politics",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:septimius-severus",
+      "relations": []
+    },
+    {
+      "id": "siena",
+      "type": "place",
+      "label": "Siena",
+      "description": "'A Tuscan city-state whose prince Pandolfo Petrucci is cited in The Prince as an exemplar of prudent rule through trusted ministers, and which yielded to Cesare Borgia alongside Lucca.'",
+      "aliases": [],
+      "tags": [
+        "italy",
+        "tuscany",
+        "city-state",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:siena",
+      "relations": []
+    },
+    {
+      "id": "sinigaglia-massacre",
+      "type": "event",
+      "label": "Sinigaglia Massacre",
+      "description": "'The 1502 trap in which Cesare Borgia eliminated his chief rivals — the most dramatic demonstration of Machiavellian virtù in The Prince'",
+      "aliases": [
+        "Massacre at Sinigaglia",
+        "Trap at Sinigaglia"
+      ],
+      "tags": [
+        "event",
+        "renaissance",
+        "italy",
+        "politics"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:sinigaglia-massacre",
+      "relations": []
+    },
+    {
+      "id": "spain",
+      "type": "place",
+      "label": "Spain",
+      "description": "'Rising European power whose king Ferdinand of Aragon established dominance in southern Italy and rivaled France for control of the peninsula'",
+      "aliases": [
+        "Kingdom of Spain",
+        "Spanish Crown"
+      ],
+      "tags": [
+        "spain",
+        "16th-century",
+        "european-powers",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:spain",
+      "relations": [
+        {
+          "type": "related",
+          "target": "ferdinand-of-aragon",
+          "label": "Ferdinand of Aragon"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "naples",
+          "label": "Naples"
+        },
+        {
+          "type": "related",
+          "target": "louis-xii-of-france",
+          "label": "Louis XII"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "swiss-cantons",
+      "type": "organization",
+      "label": "Swiss Cantons",
+      "description": "'The Swiss Cantons, whose infantry formations dominated Renaissance battlefields and whose role as both mercenary suppliers and independent military power provides Machiavelli with a key example in his analysis of arms and state power.'",
+      "aliases": [
+        "Swiss",
+        "Swiss Confederacy"
+      ],
+      "tags": [
+        "organization",
+        "renaissance",
+        "military",
+        "mercenaries"
+      ],
+      "quality": "featured",
+      "source_ref": "jun-zhu-lun:swiss-cantons",
+      "relations": []
+    },
+    {
+      "id": "theseus",
+      "type": "person",
+      "label": "Theseus",
+      "description": "'Legendary founder-king of Athens, cited by Machiavelli as one of the four great armed prophets who rose by their own ability, alongside Moses, Cyrus, and Romulus.'",
+      "aliases": [],
+      "tags": [
+        "mythical-founder",
+        "exemplar",
+        "antiquity"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:theseus",
+      "relations": []
+    },
+    {
+      "id": "tuscany",
+      "type": "place",
+      "label": "Tuscany",
+      "description": "'A central Italian region dominated by Florence — the theater of Cesare Borgia''s ambitions and the home of Machiavelli''s political world'",
+      "aliases": [
+        "Toscana"
+      ],
+      "tags": [
+        "italy",
+        "renaissance",
+        "geography",
+        "florence"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:tuscany",
+      "relations": [
+        {
+          "type": "related",
+          "target": "florence",
+          "label": "Florence"
+        },
+        {
+          "type": "related",
+          "target": "cesare-borgia",
+          "label": "Cesare Borgia"
+        },
+        {
+          "type": "related",
+          "target": "sinigaglia-massacre",
+          "label": "Sinigaglia Massacre"
+        },
+        {
+          "type": "related",
+          "target": "perugia",
+          "label": "Perugia"
+        }
+      ]
+    },
+    {
+      "id": "urbino",
+      "type": "place",
+      "label": "Urbino",
+      "description": "'A duchy in the Marche region of Italy, conquered by Cesare Borgia and cited in The Prince as an example of both successful conquest and subsequent rebellion against papal authority.'",
+      "aliases": [
+        "Duchy of Urbino"
+      ],
+      "tags": [
+        "italy",
+        "marche",
+        "duchy",
+        "renaissance",
+        "papacy"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:urbino",
+      "relations": []
+    },
+    {
+      "id": "venice",
+      "type": "place",
+      "label": "Venice",
+      "description": "'The Most Serene Republic — Italy''s leading maritime power and an example of aristocratic republican government analyzed in The Prince'",
+      "aliases": [
+        "Republic of Venice",
+        "Venetian Republic"
+      ],
+      "tags": [
+        "italy",
+        "venice",
+        "republic",
+        "renaissance",
+        "geography"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:venice",
+      "relations": [
+        {
+          "type": "related",
+          "target": "pope-julius-ii",
+          "label": "Pope Julius II"
+        },
+        {
+          "type": "related",
+          "target": "louis-xii-of-france",
+          "label": "Louis XII"
+        },
+        {
+          "type": "related",
+          "target": "florence",
+          "label": "Florence"
+        },
+        {
+          "type": "related",
+          "target": "league-of-cambrai",
+          "label": "League of Cambrai"
+        },
+        {
+          "type": "related",
+          "target": "france",
+          "label": "France"
+        },
+        {
+          "type": "related",
+          "target": "italy",
+          "label": "Italy"
+        }
+      ]
+    },
+    {
+      "id": "virtu",
+      "type": "concept",
+      "label": "Virtù",
+      "description": "'Machiavelli''s concept of proactive ability — the skill, strength, and ingenuity a prince must possess to acquire and maintain a state'",
+      "aliases": [
+        "virtue",
+        "ability",
+        "prowess"
+      ],
+      "tags": [
+        "politics",
+        "philosophy",
+        "renaissance",
+        "concept"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:virtu",
+      "relations": []
+    },
+    {
+      "id": "vitellozzo-vitelli",
+      "type": "person",
+      "label": "Vitellozzo Vitelli",
+      "description": "'Italian condottiero and lord of Città di Castello; one of the captains strangled by Cesare Borgia at the massacre of Sinigaglia in 1502.'",
+      "aliases": [
+        "Vitellozzo"
+      ],
+      "tags": [
+        "renaissance",
+        "16th-century",
+        "italy",
+        "person"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:vitellozzo-vitelli",
+      "relations": []
+    },
+    {
+      "id": "wisdom",
+      "type": "concept",
+      "label": "Wisdom (Sapienza)",
+      "description": "'In The Prince, wisdom is not innate but arises from the quality of the prince''s counselors — a wise prince chooses wise men and knows how to use their counsel.'",
+      "aliases": [
+        "sapienza",
+        "sagacity",
+        "good-judgment"
+      ],
+      "tags": [
+        "politics",
+        "ethics",
+        "renaissance"
+      ],
+      "quality": "standard",
+      "source_ref": "jun-zhu-lun:wisdom",
+      "relations": []
+    }
+  ]
+}

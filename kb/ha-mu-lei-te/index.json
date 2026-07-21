@@ -1,0 +1,5121 @@
+{
+  "book": "ha-mu-lei-te",
+  "title": "哈姆雷特",
+  "description": "哈姆雷特 — knowledge fragments for AI agents",
+  "language": "zh-CN",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 89,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "关于本 Wiki",
+      "description": "莎士比亚悲剧《哈姆雷特》知识图谱",
+      "aliases": [
+        "关于",
+        "About"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:About",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        }
+      ]
+    },
+    {
+      "id": "丹麦",
+      "type": "place",
+      "label": "丹麦",
+      "description": "《哈姆雷特》全剧的地理与政治背景——丹麦王国，在哈姆雷特眼中是\"一座监狱\"，隐喻着腐败、幽闭与无处不在的监视",
+      "aliases": [
+        "Denmark"
+      ],
+      "tags": [
+        "地点",
+        "国家",
+        "背景",
+        "丹麦"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:丹麦",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        },
+        {
+          "type": "related",
+          "target": "墓地",
+          "label": "墓地"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        }
+      ]
+    },
+    {
+      "id": "习俗",
+      "type": "concept",
+      "label": "习俗",
+      "description": "习俗在《哈姆雷特》中既是哈姆雷特批判丹麦宫廷腐败的切入点，也是全剧对\"习惯如何侵蚀理性\"的哲学反思——从\"honoured in the breach\"到\"monster custom\"，习俗的力量贯穿全剧",
+      "aliases": [
+        "Custom",
+        "Tradition",
+        "风俗",
+        "惯例",
+        "Ceremony"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "社会",
+        "批判",
+        "丹麦"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:习俗",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "马塞勒斯",
+          "label": "马塞勒斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "腐败",
+          "label": "腐败"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "表象",
+          "label": "表象"
+        },
+        {
+          "type": "related",
+          "target": "权力",
+          "label": "权力"
+        }
+      ]
+    },
+    {
+      "id": "人性",
+      "type": "concept",
+      "label": "人性",
+      "description": "人性是《哈姆雷特》的道德底色——全剧反复追问：人性本善还是本恶？当\"unnatural\"的行为不断发生，人的天性是否足以抵抗堕落？",
+      "aliases": [
+        "Nature",
+        "Human Nature"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "人性",
+        "道德"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:人性",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "理性",
+          "label": "理性"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "伏提曼德",
+      "type": "person",
+      "label": "伏提曼德",
+      "description": "丹麦朝臣，与考尼律斯一同出使挪威，成功劝说老王挪威约束福丁布拉斯，为哈姆雷特剧中波罗的海政治线铺平道路。",
+      "aliases": [
+        "Voltemand",
+        "Voltemand"
+      ],
+      "tags": [
+        "朝臣",
+        "使节",
+        "挪威",
+        "外交"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:伏提曼德",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        }
+      ]
+    },
+    {
+      "id": "伶人",
+      "type": "person",
+      "label": "伶人",
+      "description": "巡演戏班的领衔演员，以普里阿摩斯/赫卡柏的激情独白触发哈姆雷特的自我反思，并协助演出\"捕鼠器\"。",
+      "aliases": [
+        "First Player",
+        "首席演员"
+      ],
+      "tags": [
+        "戏班",
+        "戏中戏",
+        "Pyrrhus",
+        "Hecuba",
+        "表演"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:伶人",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "Murder"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        }
+      ]
+    },
+    {
+      "id": "信仰",
+      "type": "concept",
+      "label": "信仰",
+      "description": "基督教信仰框架是《哈姆雷特》的宇宙论基础——天堂、地狱、炼狱构成人物的道德坐标系，而鬼魂的宗教身份模糊性成为全剧的核心认识论悬疑",
+      "aliases": [
+        "Faith",
+        "宗教信仰",
+        "来世信仰",
+        "基督教"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "宗教",
+        "来世"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:信仰",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "天意"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        }
+      ]
+    },
+    {
+      "id": "克劳狄斯",
+      "type": "person",
+      "label": "克劳狄斯",
+      "description": "《哈姆雷特》中反派/篡位国王——克劳狄斯",
+      "aliases": [
+        "Claudius"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:克劳狄斯",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "内疚",
+      "type": "concept",
+      "label": "内疚",
+      "description": "内疚（Guilt）是《哈姆雷特》的隐藏情感——克劳狄斯的'My offence is rank, it smells to heaven'揭示了罪恶在犯罪者灵魂中不可洗去的痕迹，而戏中戏正是以内疚为武器来探测隐藏的真相",
+      "aliases": [
+        "Guilt",
+        "罪疚",
+        "良心",
+        "忏悔",
+        "Conscience"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "心理",
+        "内疚",
+        "道德"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:内疚",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        }
+      ]
+    },
+    {
+      "id": "决斗",
+      "type": "concept",
+      "label": "决斗",
+      "description": "决斗是《哈姆雷特》终局的暴力形式——哈姆雷特与莱尔提斯在克劳狄斯的操纵下以比剑决斗收场，毒剑、毒酒与换剑构成全剧最具仪式感的死亡汇聚",
+      "aliases": [
+        "Duel",
+        "Fencing",
+        "Swordplay",
+        "比剑",
+        "击剑"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "暴力",
+        "仪式",
+        "荣誉"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:决斗",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "奥斯里克",
+          "label": "奥斯里克"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "providence"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        }
+      ]
+    },
+    {
+      "id": "吉尔登斯吞",
+      "type": "person",
+      "label": "吉尔登斯吞",
+      "description": "《哈姆雷特》中的朝臣，哈姆雷特童年好友，与罗森格兰兹共同被克劳狄斯利用监视哈姆雷特，最终被哈姆雷特反杀。",
+      "aliases": [
+        "Guildenstern"
+      ],
+      "tags": [
+        "人物",
+        "朝臣",
+        "哈姆雷特之友"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:吉尔登斯吞",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        }
+      ]
+    },
+    {
+      "id": "命运",
+      "type": "concept",
+      "label": "命运",
+      "description": "命运在《哈姆雷特》中呈现为双重面目——既是\"暴虐的命运之矢\"（slings and arrows of outrageous fortune），也是哈姆雷特最终接受的\"准备好了就是一切\"的必然性",
+      "aliases": [
+        "Fortune",
+        "Fate",
+        "宿命",
+        "运数"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "命运"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:命运",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "恐惧",
+          "label": "恐惧"
+        },
+        {
+          "type": "related",
+          "target": "自然",
+          "label": "自然"
+        }
+      ]
+    },
+    {
+      "id": "哈姆雷特",
+      "type": "person",
+      "label": "哈姆雷特",
+      "description": "莎士比亚悲剧《哈姆雷特》的主人公，丹麦王子，因父亲被叔父谋杀而踏上复仇之路，是西方文学中最复杂深刻的人物形象之一",
+      "aliases": [
+        "Hamlet"
+      ],
+      "tags": [
+        "人物",
+        "主角",
+        "丹麦王子",
+        "复仇",
+        "悲剧"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:哈姆雷特",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "老哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "墓地",
+          "label": "墓地"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        }
+      ]
+    },
+    {
+      "id": "地狱",
+      "type": "concept",
+      "label": "地狱",
+      "description": "地狱是《哈姆雷特》宗教世界观的核心构成——鬼魂来自\"地狱\"还是\"炼狱\"的模糊性贯穿全剧，克劳狄斯的诅咒恐惧和哈姆雷特的来世思辨均以地狱为终极参照",
+      "aliases": [
+        "Hell",
+        "Perdition",
+        "Damnation",
+        "阴间"
+      ],
+      "tags": [
+        "主题",
+        "宗教",
+        "概念",
+        "来世",
+        "道德"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:地狱",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "天意"
+        },
+        {
+          "type": "related",
+          "target": "信仰",
+          "label": "信仰"
+        }
+      ]
+    },
+    {
+      "id": "坟墓",
+      "type": "concept",
+      "label": "坟墓",
+      "description": "坟墓是《哈姆雷特》第五幕的核心场景——掘墓人的黑色幽默、约里克的骷髅和奥菲莉娅的葬礼将全剧的死亡主题推向存在主义高峰：死亡面前人人平等",
+      "aliases": [
+        "Grave",
+        "Tomb",
+        "墓地",
+        "墓穴",
+        "埋葬"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "死亡",
+        "意象",
+        "墓地场景"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:坟墓",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "爱情",
+          "label": "爱情"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        }
+      ]
+    },
+    {
+      "id": "埃尔西诺",
+      "type": "place",
+      "label": "埃尔西诺",
+      "description": "《哈姆雷特》的核心舞台——埃尔西诺城堡，鬼魂在露台显现，戏中戏在大厅上演，波洛涅斯在密室被杀，终局决斗在大殿爆发，城堡本身就是一座封闭的悲剧剧场",
+      "aliases": [
+        "Elsinore"
+      ],
+      "tags": [
+        "地点",
+        "城堡",
+        "丹麦",
+        "核心场景"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:埃尔西诺",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "墓地",
+          "label": "墓地"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        }
+      ]
+    },
+    {
+      "id": "墓地",
+      "type": "place",
+      "label": "墓地",
+      "description": "《哈姆雷特》第五幕的关键场景——墓地",
+      "aliases": [
+        "Graveyard",
+        "Churchyard"
+      ],
+      "tags": [
+        "地点"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:墓地",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        }
+      ]
+    },
+    {
+      "id": "复仇",
+      "type": "concept",
+      "label": "复仇",
+      "description": "复仇是《哈姆雷特》的核心驱动力——鬼魂的复仇召唤启动了全剧情节，三条复仇线（哈姆雷特、莱尔提斯、福丁布拉斯）的交织将悲剧推向终局",
+      "aliases": [
+        "Revenge",
+        "Vengeance",
+        "报仇"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "悲剧",
+        "复仇悲剧"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:复仇",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        }
+      ]
+    },
+    {
+      "id": "天堂",
+      "type": "concept",
+      "label": "天堂",
+      "description": "天堂是《哈姆雷特》基督教世界观中的终极善之归宿——与地狱构成二元对立，贯穿鬼魂的归属之问、克劳狄斯的忏悔恐惧、以及哈姆雷特的来世思辨",
+      "aliases": [
+        "Heaven",
+        "天国",
+        "Paradise",
+        "来世"
+      ],
+      "tags": [
+        "主题",
+        "宗教",
+        "概念",
+        "来世",
+        "道德"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:天堂",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "地狱",
+          "label": "地狱"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "天意"
+        },
+        {
+          "type": "related",
+          "target": "信仰",
+          "label": "信仰"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        }
+      ]
+    },
+    {
+      "id": "天意",
+      "type": "concept",
+      "label": "天意",
+      "description": "天意在《哈姆雷特》中代表一种从命运无常到神圣安排的哲学转变——哈姆雷特从对命运的挣扎转向对天意的接受，'the readiness is all'即是这一转变的完成",
+      "aliases": [
+        "Providence",
+        "神意",
+        "命运安排",
+        "神圣安排"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "宗教",
+        "命运"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:天意",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        },
+        {
+          "type": "related",
+          "target": "信仰",
+          "label": "信仰"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "时间",
+          "label": "时间"
+        }
+      ]
+    },
+    {
+      "id": "奥斯里克",
+      "type": "person",
+      "label": "奥斯里克",
+      "description": "《哈姆雷特》中的年轻朝臣，在第五幕中负责传递比剑挑战并为比赛担任裁判，是一个浮夸、谄媚的喜剧角色。",
+      "aliases": [
+        "Osric"
+      ],
+      "tags": [
+        "人物",
+        "朝臣"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:奥斯里克",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        }
+      ]
+    },
+    {
+      "id": "奥菲莉娅",
+      "type": "person",
+      "label": "奥菲莉娅",
+      "description": "《哈姆雷特》中女主角——奥菲莉娅",
+      "aliases": [
+        "Ophelia"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:奥菲莉娅",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "忧郁",
+      "type": "concept",
+      "label": "忧郁",
+      "description": "忧郁（Melancholy）是《哈姆雷特》的情感底色——从哈姆雷特的'out of my weakness and my melancholy'到奥菲莉娅的疯歌，忧郁如同丹麦上空的阴影笼罩全剧人物",
+      "aliases": [
+        "Melancholy",
+        "愁思",
+        "哀愁",
+        "抑郁"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "心理",
+        "忧郁"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:忧郁",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        },
+        {
+          "type": "related",
+          "target": "悲伤",
+          "label": "悲伤"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "表象",
+          "label": "表象"
+        }
+      ]
+    },
+    {
+      "id": "恐惧",
+      "type": "concept",
+      "label": "恐惧",
+      "description": "恐惧在《哈姆雷特》中驱动着多重人物——哈姆雷特对死后未知的恐惧导致延宕，克劳狄斯对被揭露的恐惧推动情节，而哈姆雷特最终超越恐惧走向命运",
+      "aliases": [
+        "Fear",
+        "恐惧感",
+        "畏惧"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "心理",
+        "情感"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:恐惧",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        }
+      ]
+    },
+    {
+      "id": "悲伤",
+      "type": "concept",
+      "label": "悲伤",
+      "description": "悲伤（Grief）是《哈姆雷特》的初始驱动情感——老王之死引发的哀悼在丹麦宫廷中被系统性地压抑，未完成的悲伤转化为疯狂、复仇与悲剧的连锁反应",
+      "aliases": [
+        "Grief",
+        "哀悼",
+        "丧恸",
+        "悲痛",
+        "Sorrow",
+        "Mourning"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "情感",
+        "悲伤",
+        "哀悼"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:悲伤",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "忧郁",
+          "label": "忧郁"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        }
+      ]
+    },
+    {
+      "id": "愚人",
+      "type": "concept",
+      "label": "愚人",
+      "description": "愚人是《哈姆雷特》中最深刻的悖论角色——掘墓小丑以最低贱的身份说出最智慧的话，哈姆雷特的\"装疯\"以疯癫为面具揭示真相，愚/智的边界在全剧中被反复模糊",
+      "aliases": [
+        "Fool",
+        "Clown",
+        "Jester",
+        "小丑",
+        "弄臣"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "智慧",
+        "社会批判"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:愚人",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "奥斯里克",
+          "label": "奥斯里克"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "谎言",
+          "label": "谎言"
+        },
+        {
+          "type": "related",
+          "target": "表象",
+          "label": "表象"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        }
+      ]
+    },
+    {
+      "id": "戏中戏",
+      "type": "event",
+      "label": "戏中戏",
+      "description": "《哈姆雷特》第三幕的转折性事件——哈姆雷特安排戏班上演谋杀剧以试探克劳狄斯，确认了其弑兄罪行，推动剧情从怀疑走向确定的复仇行动",
+      "aliases": [
+        "Play-within-a-play",
+        "Mousetrap"
+      ],
+      "tags": [
+        "事件",
+        "转折点",
+        "第三幕",
+        "哈姆雷特"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:戏中戏",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        }
+      ]
+    },
+    {
+      "id": "戏剧",
+      "type": "concept",
+      "label": "戏剧",
+      "description": "戏剧是《哈姆雷特》的核心叙事装置——戏中戏《捕鼠机》既是揭露克劳狄斯罪行的陷阱，也是莎士比亚关于戏剧本质与力量的元戏剧宣言",
+      "aliases": [
+        "Theatre",
+        "Play-within-a-play",
+        "戏中戏",
+        "Meta-theatre"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "元戏剧",
+        "戏中戏",
+        "表演"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:戏剧",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "表象",
+          "label": "表象"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        }
+      ]
+    },
+    {
+      "id": "战争",
+      "type": "concept",
+      "label": "战争",
+      "description": "战争是《哈姆雷特》政治背景的核心要素——挪威入侵威胁贯穿全剧，福丁布拉斯军队的\"蛋壳\"远征为哈姆雷特的复仇决心提供了决定性对照",
+      "aliases": [
+        "War",
+        "Warfare",
+        "战争主题",
+        "Military"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "政治",
+        "战争",
+        "挪威"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:战争",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "伏提曼德",
+          "label": "伏提曼德"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "权力",
+          "label": "权力"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        }
+      ]
+    },
+    {
+      "id": "掘墓人",
+      "type": "person",
+      "label": "掘墓人",
+      "description": "埃尔西诺的掘墓人兼教堂司事，在奥菲莉娅墓地上与哈姆雷特展开机锋对话，递出约里克头骨引发\"Alas, poor Yorick\"独白。",
+      "aliases": [
+        "First Clown",
+        "小丑甲",
+        "Gravedigger",
+        "掘墓者"
+      ],
+      "tags": [
+        "墓地",
+        "死亡",
+        "小丑",
+        "约里克",
+        "Yorick"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:掘墓人",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "墓地",
+          "label": "墓地"
+        }
+      ]
+    },
+    {
+      "id": "时间",
+      "type": "concept",
+      "label": "时间",
+      "description": "\"时间在《哈姆雷特》中被体验为一种脱节的秩序——'the time is out of joint'不仅是哈姆雷特的个人困境，更是丹麦政治秩序崩坏的宇宙隐喻\"",
+      "aliases": [
+        "Time",
+        "时间脱节",
+        "时机",
+        "永恒"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "时间",
+        "哲学"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:时间",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "天意"
+        }
+      ]
+    },
+    {
+      "id": "权力",
+      "type": "concept",
+      "label": "权力",
+      "description": "权力是《哈姆雷特》的政治核心——克劳狄斯以弑兄夺取王权，哈姆雷特以复仇争夺王权，而全剧对权力合法性的拷问贯穿始终",
+      "aliases": [
+        "Power",
+        "王权",
+        "统治权",
+        "权势"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "政治",
+        "王权"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:权力",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "野心",
+          "label": "野心"
+        },
+        {
+          "type": "related",
+          "target": "腐败",
+          "label": "腐败"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        }
+      ]
+    },
+    {
+      "id": "格特鲁德",
+      "type": "person",
+      "label": "格特鲁德",
+      "description": "《哈姆雷特》中的丹麦王后——格特鲁德",
+      "aliases": [
+        "Gertrude"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:格特鲁德",
+      "relations": [
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "爱情",
+          "label": "爱情"
+        },
+        {
+          "type": "related",
+          "target": "背叛",
+          "label": "背叛"
+        }
+      ]
+    },
+    {
+      "id": "梦",
+      "type": "concept",
+      "label": "梦",
+      "description": "梦在《哈姆雷特》中是野心、激情与虚幻的隐喻——哈姆雷特以\"John-a-dreams\"自嘲其延宕，克劳狄斯以\"bad dreams\"暴露其内疚",
+      "aliases": [
+        "Dream",
+        "梦境",
+        "幻梦"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "心理",
+        "隐喻"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:梦",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "睡眠",
+          "label": "睡眠"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "野心",
+          "label": "野心"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        }
+      ]
+    },
+    {
+      "id": "死亡",
+      "type": "concept",
+      "label": "死亡",
+      "description": "《哈姆雷特》最核心的主题——死亡贯穿全剧始终：老哈姆雷特之死开启叙事，哈姆雷特的\"生存还是毁灭\"定义存在困境，终局大屠杀以尸横遍野收场",
+      "aliases": [
+        "Death"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "悲剧",
+        "死亡",
+        "存在主义"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:死亡",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "爱情",
+          "label": "爱情"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        }
+      ]
+    },
+    {
+      "id": "毒杀",
+      "type": "event",
+      "label": "毒杀",
+      "description": "《哈姆雷特》中贯穿全剧的隐秘谋杀手段——老哈姆雷特被灌耳毒杀，格特鲁德误饮毒酒，哈姆雷特与莱尔提斯互中毒剑，毒是腐败王国从内部溃烂的隐喻",
+      "aliases": [
+        "Poison"
+      ],
+      "tags": [
+        "事件",
+        "谋杀",
+        "主题",
+        "克劳狄斯"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:毒杀",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "Denmark"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        }
+      ]
+    },
+    {
+      "id": "毒药",
+      "type": "concept",
+      "label": "毒药",
+      "description": "毒药是《哈姆雷特》最核心的贯穿性母题——全剧始于毒药灌耳的谋杀，中经戏中戏的毒药复现，终于毒剑与毒酒的全面清算",
+      "aliases": [
+        "Poison",
+        "毒",
+        "毒杀"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "母题",
+        "死亡",
+        "意象"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:毒药",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "谎言",
+          "label": "谎言"
+        },
+        {
+          "type": "related",
+          "target": "腐败",
+          "label": "腐败"
+        }
+      ]
+    },
+    {
+      "id": "波洛涅斯",
+      "type": "person",
+      "label": "波洛涅斯",
+      "description": "《哈姆雷特》中的御前大臣——波洛涅斯",
+      "aliases": [
+        "Polonius"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:波洛涅斯",
+      "relations": [
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        }
+      ]
+    },
+    {
+      "id": "灵魂",
+      "type": "concept",
+      "label": "灵魂",
+      "description": "灵魂是《哈姆雷特》的精神内核——鬼魂的存在提出灵魂归宿问题，哈姆雷特对来世的恐惧定义了他的延宕，而克劳狄斯的灵魂则悬在忏悔与诅咒之间",
+      "aliases": [
+        "Soul"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "宗教",
+        "来世",
+        "存在主义"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:灵魂",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "掘墓人",
+          "label": "掘墓人"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        }
+      ]
+    },
+    {
+      "id": "爱情",
+      "type": "concept",
+      "label": "爱情",
+      "description": "《哈姆雷特》的核心主题之一——爱情在剧中以多重面目出现：哈姆雷特与奥菲莉娅的悲剧之恋、格特鲁德的争议性婚姻、以及爱情在政治与复仇碾压下的脆弱",
+      "aliases": [
+        "Love"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "爱情",
+        "悲剧"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:爱情",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "犹豫",
+      "type": "concept",
+      "label": "犹豫",
+      "description": "犹豫（Hesitation）是《哈姆雷特》核心的戏剧动力——'Thus conscience does make cowards of us all'——思考本身成为行动的障碍，而延宕构成了全剧的节奏",
+      "aliases": [
+        "Hesitation",
+        "延宕",
+        "迟疑",
+        "怀疑",
+        "踌躇",
+        "Procrastination",
+        "Doubt"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "心理",
+        "犹豫",
+        "行动"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:犹豫",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "忧郁",
+          "label": "忧郁"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "理性",
+          "label": "理性"
+        }
+      ]
+    },
+    {
+      "id": "理性",
+      "type": "concept",
+      "label": "理性",
+      "description": "理性是《哈姆雷特》的哲学引擎——哈姆雷特的延宕是否源于过度的理性？理性与疯狂之间的边界又在何处？",
+      "aliases": [
+        "Reason"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "疯狂",
+        "延宕"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:理性",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "爱情",
+          "label": "爱情"
+        }
+      ]
+    },
+    {
+      "id": "疯狂",
+      "type": "concept",
+      "label": "疯狂",
+      "description": "《哈姆雷特》重要主题——疯狂在剧中的表现与意义",
+      "aliases": [
+        "Madness"
+      ],
+      "tags": [
+        "主题",
+        "概念"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:疯狂",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "目录",
+      "type": "overview",
+      "label": "目录",
+      "description": "《哈姆雷特》全部章节索引",
+      "aliases": [
+        "目录",
+        "TOC",
+        "目次"
+      ],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:目录",
+      "relations": [
+        {
+          "type": "related",
+          "target": "第一幕第一场",
+          "label": "第一幕第一场"
+        },
+        {
+          "type": "related",
+          "target": "第一幕第二场",
+          "label": "第一幕第二场"
+        },
+        {
+          "type": "related",
+          "target": "第一幕第三场",
+          "label": "第一幕第三场"
+        },
+        {
+          "type": "related",
+          "target": "第一幕第四场",
+          "label": "第一幕第四场"
+        },
+        {
+          "type": "related",
+          "target": "第一幕第五场",
+          "label": "第一幕第五场"
+        },
+        {
+          "type": "related",
+          "target": "第二幕第一场",
+          "label": "第二幕第一场"
+        },
+        {
+          "type": "related",
+          "target": "第二幕第二场",
+          "label": "第二幕第二场"
+        },
+        {
+          "type": "related",
+          "target": "第三幕第一场",
+          "label": "第三幕第一场"
+        },
+        {
+          "type": "related",
+          "target": "第三幕第二场",
+          "label": "第三幕第二场"
+        },
+        {
+          "type": "related",
+          "target": "第三幕第三场",
+          "label": "第三幕第三场"
+        },
+        {
+          "type": "related",
+          "target": "第三幕第四场",
+          "label": "第三幕第四场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第一场",
+          "label": "第四幕第一场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第二场",
+          "label": "第四幕第二场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第三场",
+          "label": "第四幕第三场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第四场",
+          "label": "第四幕第四场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第五场",
+          "label": "第四幕第五场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第六场",
+          "label": "第四幕第六场"
+        },
+        {
+          "type": "related",
+          "target": "第四幕第七场",
+          "label": "第四幕第七场"
+        },
+        {
+          "type": "related",
+          "target": "第五幕第一场",
+          "label": "第五幕第一场"
+        },
+        {
+          "type": "related",
+          "target": "第五幕第二场",
+          "label": "第五幕第二场"
+        }
+      ]
+    },
+    {
+      "id": "睡眠",
+      "type": "concept",
+      "label": "睡眠",
+      "description": "睡眠在《哈姆雷特》中是死亡的核心隐喻——\"to die, to sleep\"——但更是内疚的剥夺者：克劳狄斯因罪不能安眠，老哈姆雷特在睡眠中被杀",
+      "aliases": [
+        "Sleep",
+        "安眠",
+        "长眠"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "死亡",
+        "心理",
+        "隐喻"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:睡眠",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "梦",
+          "label": "梦"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "毒药",
+          "label": "毒药"
+        }
+      ]
+    },
+    {
+      "id": "祈祷",
+      "type": "concept",
+      "label": "祈祷",
+      "description": "祈祷是《哈姆雷特》中最关键的神学场景——克劳狄斯在祈祷中袒露罪孽却拒绝放弃罪果，哈姆雷特因此放弃天堂刺杀，这一延宕成为全剧最富争议的道德抉择",
+      "aliases": [
+        "Prayer",
+        "Confession",
+        "祷告",
+        "忏悔"
+      ],
+      "tags": [
+        "主题",
+        "宗教",
+        "概念",
+        "道德",
+        "神学"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:祈祷",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "天堂",
+          "label": "天堂"
+        },
+        {
+          "type": "related",
+          "target": "地狱",
+          "label": "地狱"
+        },
+        {
+          "type": "related",
+          "target": "内疚",
+          "label": "内疚"
+        },
+        {
+          "type": "related",
+          "target": "天意",
+          "label": "天意"
+        }
+      ]
+    },
+    {
+      "id": "福丁布拉斯",
+      "type": "person",
+      "label": "福丁布拉斯",
+      "description": "挪威王子，其父被老哈姆雷特所杀。哈姆雷特的行为对照角色，剧终接管丹麦王位。",
+      "aliases": [
+        "Fortinbras"
+      ],
+      "tags": [
+        "挪威",
+        "王子",
+        "复仇",
+        "权力继承"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:福丁布拉斯",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        },
+        {
+          "type": "related",
+          "target": "伏提曼德",
+          "label": "伏提曼德"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        }
+      ]
+    },
+    {
+      "id": "秩序",
+      "type": "concept",
+      "label": "秩序",
+      "description": "秩序（Order）及其瓦解是《哈姆雷特》的宇宙论框架——'Something is rotten in the state of Denmark'宣告了自然、政治与道德三重秩序的崩溃，而全剧的悲剧运动是对秩序的不可完成的修复",
+      "aliases": [
+        "Order",
+        "宇宙秩序",
+        "自然秩序",
+        "政治秩序",
+        "失序",
+        "Disorder"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "政治",
+        "秩序",
+        "宇宙论"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:秩序",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "马塞勒斯",
+          "label": "马塞勒斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "自然",
+          "label": "自然"
+        },
+        {
+          "type": "related",
+          "target": "权力",
+          "label": "权力"
+        }
+      ]
+    },
+    {
+      "id": "第一幕第一场",
+      "type": "chapter",
+      "label": "\"第一幕 第一场\"",
+      "description": "\"《哈姆雷特》第一幕 第一场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第一幕第一场",
+      "relations": []
+    },
+    {
+      "id": "第一幕第三场",
+      "type": "chapter",
+      "label": "\"第一幕 第三场\"",
+      "description": "\"《哈姆雷特》第一幕 第三场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第一幕第三场",
+      "relations": []
+    },
+    {
+      "id": "第一幕第二场",
+      "type": "chapter",
+      "label": "\"第一幕 第二场\"",
+      "description": "\"《哈姆雷特》第一幕 第二场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第一幕第二场",
+      "relations": []
+    },
+    {
+      "id": "第一幕第五场",
+      "type": "chapter",
+      "label": "\"第一幕 第五场\"",
+      "description": "\"《哈姆雷特》第一幕 第五场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第一幕第五场",
+      "relations": []
+    },
+    {
+      "id": "第一幕第四场",
+      "type": "chapter",
+      "label": "\"第一幕 第四场\"",
+      "description": "\"《哈姆雷特》第一幕 第四场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第一幕第四场",
+      "relations": []
+    },
+    {
+      "id": "第三幕第一场",
+      "type": "chapter",
+      "label": "\"第三幕 第一场\"",
+      "description": "\"《哈姆雷特》第三幕 第一场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第三幕第一场",
+      "relations": []
+    },
+    {
+      "id": "第三幕第三场",
+      "type": "chapter",
+      "label": "\"第三幕 第三场\"",
+      "description": "\"《哈姆雷特》第三幕 第三场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第三幕第三场",
+      "relations": []
+    },
+    {
+      "id": "第三幕第二场",
+      "type": "chapter",
+      "label": "\"第三幕 第二场\"",
+      "description": "\"《哈姆雷特》第三幕 第二场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第三幕第二场",
+      "relations": []
+    },
+    {
+      "id": "第三幕第四场",
+      "type": "chapter",
+      "label": "\"第三幕 第四场\"",
+      "description": "\"《哈姆雷特》第三幕 第四场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第三幕第四场",
+      "relations": []
+    },
+    {
+      "id": "第二幕第一场",
+      "type": "chapter",
+      "label": "\"第二幕 第一场\"",
+      "description": "\"《哈姆雷特》第二幕 第一场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第二幕第一场",
+      "relations": []
+    },
+    {
+      "id": "第二幕第二场",
+      "type": "chapter",
+      "label": "\"第二幕 第二场\"",
+      "description": "\"《哈姆雷特》第二幕 第二场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第二幕第二场",
+      "relations": []
+    },
+    {
+      "id": "第五幕第一场",
+      "type": "chapter",
+      "label": "\"第五幕 第一场\"",
+      "description": "\"《哈姆雷特》第五幕 第一场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第五幕第一场",
+      "relations": []
+    },
+    {
+      "id": "第五幕第二场",
+      "type": "chapter",
+      "label": "\"第五幕 第二场\"",
+      "description": "\"《哈姆雷特》第五幕 第二场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第五幕第二场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第一场",
+      "type": "chapter",
+      "label": "\"第四幕 第一场\"",
+      "description": "\"《哈姆雷特》第四幕 第一场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第一场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第七场",
+      "type": "chapter",
+      "label": "\"第四幕 第七场\"",
+      "description": "\"《哈姆雷特》第四幕 第七场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第七场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第三场",
+      "type": "chapter",
+      "label": "\"第四幕 第三场\"",
+      "description": "\"《哈姆雷特》第四幕 第三场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第三场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第二场",
+      "type": "chapter",
+      "label": "\"第四幕 第二场\"",
+      "description": "\"《哈姆雷特》第四幕 第二场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第二场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第五场",
+      "type": "chapter",
+      "label": "\"第四幕 第五场\"",
+      "description": "\"《哈姆雷特》第四幕 第五场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第五场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第六场",
+      "type": "chapter",
+      "label": "\"第四幕 第六场\"",
+      "description": "\"《哈姆雷特》第四幕 第六场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第六场",
+      "relations": []
+    },
+    {
+      "id": "第四幕第四场",
+      "type": "chapter",
+      "label": "\"第四幕 第四场\"",
+      "description": "\"《哈姆雷特》第四幕 第四场\"",
+      "aliases": [],
+      "tags": [
+        "chapter"
+      ],
+      "quality": "unknown",
+      "source_ref": "ha-mu-lei-te:第四幕第四场",
+      "relations": []
+    },
+    {
+      "id": "罗森格兰兹",
+      "type": "person",
+      "label": "罗森格兰兹",
+      "description": "《哈姆雷特》中的朝臣，哈姆雷特的童年好友，被克劳狄斯利用监视哈姆雷特，最终被哈姆雷特反杀。",
+      "aliases": [
+        "Rosencrantz"
+      ],
+      "tags": [
+        "人物",
+        "朝臣",
+        "哈姆雷特之友"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:罗森格兰兹",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "马塞勒斯",
+          "label": "马塞勒斯"
+        }
+      ]
+    },
+    {
+      "id": "罪",
+      "type": "concept",
+      "label": "罪",
+      "description": "罪恶是《哈姆雷特》的道德核心——克劳狄斯的弑兄之罪是全部情节的发动机，而哈姆雷特对罪与罚的沉思则构成了全剧最深沉的哲学层面",
+      "aliases": [
+        "Sin"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "宗教",
+        "道德",
+        "原罪"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:罪",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "美德",
+      "type": "concept",
+      "label": "美德",
+      "description": "美德在《哈姆雷特》中面临拷问——哈姆雷特以\"装疯\"策略要求自己\"假定一种美德\"（assume a virtue），而克劳狄斯的忏悔暴露了美德与利益冲突的永恒困境",
+      "aliases": [
+        "Virtue",
+        "德性",
+        "德行"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "道德",
+        "哲学"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:美德",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        },
+        {
+          "type": "related",
+          "target": "谎言",
+          "label": "谎言"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        }
+      ]
+    },
+    {
+      "id": "背叛",
+      "type": "concept",
+      "label": "背叛",
+      "description": "背叛是《哈姆雷特》的叙事起点与结构原则——克劳狄斯弑兄篡位是原初背叛，此后罗森格兰兹与吉尔登斯吞的出卖、格特鲁德的迅速改嫁、莱尔提斯的毒剑密谋，构成一部背叛的多声部赋格",
+      "aliases": [
+        "Betrayal",
+        "Treason",
+        "Treachery",
+        "出卖",
+        "不忠"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "道德",
+        "背叛",
+        "政治阴谋"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:背叛",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "责任",
+          "label": "责任"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "谎言",
+          "label": "谎言"
+        }
+      ]
+    },
+    {
+      "id": "腐败",
+      "type": "concept",
+      "label": "腐败",
+      "description": "腐败是《哈姆雷特》最核心的政治隐喻——从马塞勒斯的名言\"Something is rotten in the state of Denmark\"到克劳狄斯自陈\"rank corruption\"，全剧以腐败的意象编织了一幅丹麦王国从王座到墓地的全面腐烂图景",
+      "aliases": [
+        "Corruption",
+        "Decay",
+        "Rot",
+        "腐烂",
+        "堕落"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "政治",
+        "道德",
+        "社会"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:腐败",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "马塞勒斯",
+          "label": "马塞勒斯"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "毒药",
+          "label": "毒药"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "权力",
+          "label": "权力"
+        },
+        {
+          "type": "related",
+          "target": "地狱",
+          "label": "地狱"
+        },
+        {
+          "type": "related",
+          "target": "习俗",
+          "label": "习俗"
+        }
+      ]
+    },
+    {
+      "id": "自然",
+      "type": "concept",
+      "label": "自然",
+      "description": "「自然」在《哈姆雷特》中是一个多层概念——既指人的天性本性，也指被克劳狄斯弑兄罪行所颠覆的自然秩序",
+      "aliases": [
+        "Nature",
+        "天性",
+        "本性",
+        "自然秩序"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "人性",
+        "秩序"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:自然",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "人性",
+          "label": "人性"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "腐败",
+          "label": "腐败"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        }
+      ]
+    },
+    {
+      "id": "良知",
+      "type": "concept",
+      "label": "良知",
+      "description": "《哈姆雷特》重要主题——良知在剧中的表现与意义",
+      "aliases": [
+        "Conscience"
+      ],
+      "tags": [
+        "主题",
+        "概念"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:良知",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "荣誉",
+      "type": "concept",
+      "label": "荣誉",
+      "description": "《哈姆雷特》重要主题——荣誉在剧中的表现与意义",
+      "aliases": [
+        "Honour"
+      ],
+      "tags": [
+        "主题",
+        "概念"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:荣誉",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "莱尔提斯",
+      "type": "person",
+      "label": "莱尔提斯",
+      "description": "《哈姆雷特》中波洛涅斯之子、奥菲莉娅之兄，因父亲被哈姆雷特误杀而走上复仇之路，最终与哈姆雷特在毒剑决斗中同归于尽",
+      "aliases": [
+        "Laertes"
+      ],
+      "tags": [
+        "人物",
+        "角色",
+        "复仇",
+        "决斗"
+      ],
+      "quality": "featured",
+      "source_ref": "ha-mu-lei-te:莱尔提斯",
+      "relations": [
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "墓地",
+          "label": "墓地"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        }
+      ]
+    },
+    {
+      "id": "行动",
+      "type": "concept",
+      "label": "行动",
+      "description": "行动与无为的辩证是《哈姆雷特》最核心的哲学张力——哈姆雷特以\"延宕的复仇者\"著称，其行动力的瘫痪正是全剧悲剧性的根源",
+      "aliases": [
+        "Action",
+        "行动力",
+        "实践"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "哲学",
+        "人性"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:行动",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "命运",
+          "label": "命运"
+        },
+        {
+          "type": "related",
+          "target": "背叛",
+          "label": "背叛"
+        }
+      ]
+    },
+    {
+      "id": "表象",
+      "type": "concept",
+      "label": "表象",
+      "description": "表象与真实的辩证关系是《哈姆雷特》的核心认识论主题——'Seems, madam?'开启了全剧对表象之虚假性的持续追问，丹麦是一个表象的王国而真相隐藏其后",
+      "aliases": [
+        "Appearance",
+        "表象与真实",
+        "伪装",
+        "假象",
+        "表演"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "认识论",
+        "表象"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:表象",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "谎言",
+          "label": "谎言"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        }
+      ]
+    },
+    {
+      "id": "记忆",
+      "type": "concept",
+      "label": "记忆",
+      "description": "记忆在《哈姆雷特》中既是被强加的伦理命令（鬼魂的'Remember me'），也是被争夺的政治资源——谁控制记忆，谁就控制了对过去的解释权",
+      "aliases": [
+        "Memory",
+        "铭记",
+        "纪念",
+        "Remembrance"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "记忆",
+        "心理"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:记忆",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "时间",
+          "label": "时间"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        }
+      ]
+    },
+    {
+      "id": "谋杀",
+      "type": "concept",
+      "label": "谋杀",
+      "description": "《哈姆雷特》重要主题——谋杀在剧中的表现与意义",
+      "aliases": [
+        "Murder"
+      ],
+      "tags": [
+        "主题",
+        "概念"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:谋杀",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "谎言",
+      "type": "concept",
+      "label": "谎言",
+      "description": "谎言是《哈姆雷特》的表层肌理——从\"seems\"与\"is\"的对立出发，全剧的每一个人物都在伪装，每一层表象之下都藏着另一层真相",
+      "aliases": [
+        "Lie",
+        "Deception"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "表象",
+        "欺骗",
+        "宫廷政治"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:谎言",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        }
+      ]
+    },
+    {
+      "id": "责任",
+      "type": "concept",
+      "label": "责任",
+      "description": "责任是《哈姆雷特》中驱动全部主要人物行动的核心道德力量——哈姆雷特的复仇孝道、臣子的服从义务、君主的保护职责，与个人良知的冲突构成全剧最根本的道德困境",
+      "aliases": [
+        "Duty",
+        "Obligation",
+        "义务",
+        "天职",
+        "孝道"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "道德",
+        "孝道",
+        "复仇义务"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:责任",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "良知",
+          "label": "良知"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        },
+        {
+          "type": "related",
+          "target": "荣誉",
+          "label": "荣誉"
+        }
+      ]
+    },
+    {
+      "id": "野心",
+      "type": "concept",
+      "label": "野心",
+      "description": "野心是《哈姆雷特》悲剧的原始驱动力——克劳狄斯的弑兄篡位源于野心，而哈姆雷特对野心的哲学反思则为全剧提供了关于权力欲望的最深刻分析",
+      "aliases": [
+        "Ambition",
+        "雄心",
+        "权力欲"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "政治",
+        "权力",
+        "动机"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:野心",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "权力",
+          "label": "权力"
+        },
+        {
+          "type": "related",
+          "target": "罪",
+          "label": "罪"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "腐败",
+          "label": "腐败"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        }
+      ]
+    },
+    {
+      "id": "霍拉旭",
+      "type": "person",
+      "label": "霍拉旭",
+      "description": "《哈姆雷特》中哈姆雷特的挚友——霍拉旭",
+      "aliases": [
+        "Horatio"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:霍拉旭",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "马塞勒斯",
+          "label": "Marcellus"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "音乐",
+      "type": "concept",
+      "label": "音乐",
+      "description": "音乐在《哈姆雷特》中是理智与疯狂的边界标记——奥菲莉娅的疯歌是破碎心智的唯一语言，哈姆雷特的竖笛隐喻则是对\"被操控\"的最锋利批判",
+      "aliases": [
+        "Music",
+        "Song",
+        "歌曲",
+        "竖笛",
+        "Recorder"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "意象",
+        "艺术",
+        "疯狂"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:音乐",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "奥菲莉娅",
+          "label": "奥菲莉娅"
+        },
+        {
+          "type": "related",
+          "target": "戏中戏",
+          "label": "戏中戏"
+        },
+        {
+          "type": "related",
+          "target": "罗森格兰兹",
+          "label": "罗森格兰兹"
+        },
+        {
+          "type": "related",
+          "target": "吉尔登斯吞",
+          "label": "吉尔登斯吞"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "疯狂",
+          "label": "疯狂"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "爱情",
+          "label": "爱情"
+        },
+        {
+          "type": "related",
+          "target": "表象",
+          "label": "表象"
+        }
+      ]
+    },
+    {
+      "id": "马塞勒斯",
+      "type": "person",
+      "label": "马塞勒斯",
+      "description": "《哈姆雷特》中的埃尔西诺守卫，在第一幕中与霍拉旭一同目睹鬼魂出现。",
+      "aliases": [
+        "Marcellus"
+      ],
+      "tags": [
+        "人物",
+        "守卫",
+        "埃尔西诺"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:马塞勒斯",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "埃尔西诺",
+          "label": "埃尔西诺"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "丹麦",
+          "label": "丹麦"
+        }
+      ]
+    },
+    {
+      "id": "鬼魂",
+      "type": "person",
+      "label": "鬼魂",
+      "description": "《哈姆雷特》中老哈姆雷特的鬼魂——鬼魂",
+      "aliases": [
+        "Ghost"
+      ],
+      "tags": [
+        "人物",
+        "角色"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:鬼魂",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        }
+      ]
+    },
+    {
+      "id": "鲜血",
+      "type": "concept",
+      "label": "鲜血",
+      "description": "鲜血是《哈姆雷特》贯穿全剧的核心意象——既是暴力和谋杀的物理痕迹，也是内疚与激情的心理隐喻，从鬼魂的控诉到终局大屠杀始终在场",
+      "aliases": [
+        "Blood",
+        "血",
+        "血腥"
+      ],
+      "tags": [
+        "主题",
+        "概念",
+        "意象",
+        "暴力",
+        "内疚"
+      ],
+      "quality": "standard",
+      "source_ref": "ha-mu-lei-te:鲜血",
+      "relations": [
+        {
+          "type": "related",
+          "target": "哈姆雷特",
+          "label": "哈姆雷特"
+        },
+        {
+          "type": "related",
+          "target": "谋杀",
+          "label": "谋杀"
+        },
+        {
+          "type": "related",
+          "target": "复仇",
+          "label": "复仇"
+        },
+        {
+          "type": "related",
+          "target": "克劳狄斯",
+          "label": "克劳狄斯"
+        },
+        {
+          "type": "related",
+          "target": "内疚",
+          "label": "内疚"
+        },
+        {
+          "type": "related",
+          "target": "福丁布拉斯",
+          "label": "福丁布拉斯"
+        },
+        {
+          "type": "related",
+          "target": "鲜血",
+          "label": "鲜血"
+        },
+        {
+          "type": "related",
+          "target": "行动",
+          "label": "行动"
+        },
+        {
+          "type": "related",
+          "target": "犹豫",
+          "label": "犹豫"
+        },
+        {
+          "type": "related",
+          "target": "格特鲁德",
+          "label": "格特鲁德"
+        },
+        {
+          "type": "related",
+          "target": "波洛涅斯",
+          "label": "波洛涅斯"
+        },
+        {
+          "type": "related",
+          "target": "莱尔提斯",
+          "label": "莱尔提斯"
+        },
+        {
+          "type": "related",
+          "target": "霍拉旭",
+          "label": "霍拉旭"
+        },
+        {
+          "type": "related",
+          "target": "死亡",
+          "label": "死亡"
+        },
+        {
+          "type": "related",
+          "target": "鬼魂",
+          "label": "鬼魂"
+        },
+        {
+          "type": "related",
+          "target": "毒杀",
+          "label": "毒杀"
+        }
+      ]
+    }
+  ]
+}

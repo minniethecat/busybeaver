@@ -1,0 +1,61 @@
+---
+id: banishment
+label: "Banishment"
+type: concept
+description: "Banishment in Timon of Athens is a double motif: Timon's self-exile from Athenian society and Alcibiades's formal banishment by the Senate, each a transformation of punishment into power and a catalyst for the destruction of Athens."
+tags: ["exile", "reversal", "justice"]
+---
+
+# Banishment in Timon of Athens
+
+## Overview
+
+Banishment is the structural hinge of *[[timon-of-athens|Timon of Athens]]*, appearing in two distinct but interlocking forms that drive the play's action from its midpoint to its conclusion. [[timon|Timon]]'s self-banishment — his declaration that "Timon will to the woods" (011-003) — is a voluntary exile from the Athenian society that has betrayed him, a ritual renunciation that transforms the play's geography from the interior spaces of feasting and debt-collection to the open [[the-woods|wilderness]] of cursing and misanthropy. [[alcibiades|Alcibiades]]'s banishment by the Senate (009-026) is a formal legal sentence, an act of political expulsion that converts a loyal general into the leader of a conquering army.
+
+Together, these two banishments constitute the play's most searching examination of a paradox: exile is both the deepest punishment a community can inflict and the condition of liberation from that community's values. The double motif also exposes the self-destructive logic of Athenian power — the Senate banishes the one man who could defend it, and the city's ingratitude drives into the wilderness the one man whose [[gold|wealth]] could have sustained it. Banishment, in Shakespeare's handling, is not merely a plot device but a philosophical condition, the state in which the play's most radical truths can finally be spoken.
+
+## Key Passages
+
+> We banish thee for ever. (009-026)
+
+The [[first-senator|First Senator]]'s sentence on [[alcibiades|Alcibiades]] is the play's most concentrated act of institutional power. The words are brief — "in few words, but spacious in effect" — and the brevity itself is a form of violence, a dismissal that refuses argument. The sentence is delivered not as [[law|justice]] but as the silencing of a voice that has challenged senatorial authority. The adverb "for ever" performs the work of finality: banishment is not a temporary sanction but an ontological transformation, a permanent change in the banished person's relationship to the [[athens|city]]. The Senate's logic — that "nothing emboldens sin so much as mercy" (009-003) — cloaks judicial murder and political expulsion in the language of legal necessity, a rhetorical strategy the play systematically exposes as hollow.
+
+> Banish me! / Banish your dotage; banish usury, / That makes the senate ugly. (009-027)
+
+[[alcibiades|Alcibiades]]'s response to his sentence seizes the Senate's own word and turns it back upon them. The repetition of "banish" — first as exclamation, then as imperative — transforms the verb from a punishment received into a punishment inflicted. [[alcibiades|Alcibiades]] names what should truly be banished: the Senators' "dotage" (senility, foolishness) and their "[[debt|usury]]" (money-lending at interest). The accusation is precise — the same senators who lend money at interest now condemn a soldier to death for killing in a brawl — and the phrase "makes the senate ugly" strips away institutional dignity to reveal the corruption beneath.
+
+> I hate not to be banish'd; / It is a cause worthy my spleen and fury, / That I may strike at Athens. (009-029)
+
+Alone on stage after the Senators' exit, [[alcibiades|Alcibiades]] reveals banishment's transformative potential. The paradox — "I hate not to be banish'd" — is not rhetorical cleverness but a genuine recognition: banishment has freed him from [[service|obligations]] to a state that does not deserve his loyalty. The word "cause" recasts his expulsion as a justification for military action, and "strike at Athens" announces the play's second plot.
+
+> Timon will to the woods; where he shall find / The unkindest beast more kinder than mankind. (011-003)
+
+[[timon|Timon]]'s self-banishment speech, delivered from outside the walls of [[athens|Athens]], is simultaneously a curse upon the city and a declaration of exile. The phrase "Timon will to the woods" has the force of a performative utterance — [[timon|Timon]] names his destination and thereby enacts his departure. The woods represent an anti-[[athens|Athens]]: a space outside [[law|law]], commerce, and [[flattery|flattery]], where the hierarchies that structured Athenian society are inverted. The comparison of beasts to mankind — the "unkindest beast" is "more kinder" than any human — establishes the philosophical position that will dominate the play's second half. Banishment here is not imposed but chosen, a self-expulsion that is also a self-definition.
+
+> O thou wall, / That girdlest in those wolves, dive in the earth, / And fence not Athens! (011-003)
+
+The opening of [[timon|Timon]]'s exile speech directs its destructive energy at the physical boundary between city and wilderness. The wall that defines [[athens|Athens]] as a civilised space is called upon to destroy itself — "dive in the earth" — because the city it encloses is populated by "wolves," predators dressed as citizens. The speech that follows is a comprehensive curse that seeks to dissolve every social bond: matrons are to "turn incontinent," children to fail in obedience, the senate to be dragged from its bench. Banishment, in this moment, is not withdrawal but an active project of unmaking — [[timon|Timon]] seeks to banish the very order of civilisation from the city he leaves behind.
+
+> Thy back, I prithee. (013-132)
+
+This terse dismissal, spoken by [[timon|Timon]] to [[apemantus|Apemantus]] in the woods, crystallises banishment's final, most extreme form: the refusal of all human company. After expelling himself from [[athens|Athens]], [[timon|Timon]] now expels the one man who might claim kinship with him — the fellow misanthrope, the professional hater. "Thy back, I prithee" reduces banishment to its purest linguistic form: a request to be shown only the back of the departing person, a demand for solitude that is also a declaration that even the company of those who share one's views is intolerable. Banishment has become not a punishment but an identity, the condition of being [[timon|Timon]].
+
+## Character Perspectives
+
+**[[timon|Timon]]** enacts banishment as self-definition. His departure from [[athens|Athens]] is voluntary — no Senate pronounces sentence upon him, no legal authority expels him — yet the voluntariness is itself a form of extremity. [[timon|Timon]] does not merely leave; he curses the city as he goes, calling down [[disease|plagues]] upon its inhabitants and declaring that his [[hate|hatred]] will grow "to the whole race of mankind, high and low" (011-003). His banishment is totalising: he exiles himself not only from a place but from the human species, adopting the name "Misanthropos" (013-008) as his new identity.
+
+The woods become his domain, but they are also his prison — the freedom of exile proves indistinguishable from the confinement of bitterness. His refusal of [[flavius|Flavius]]'s [[service|loyalty]] (013-170) and his dismissal of [[apemantus|Apemantus]]'s company (013-132) demonstrate that banishment, once chosen, cannot be partially maintained; it demands the expulsion of every human contact, including those who offer love.
+
+**[[alcibiades|Alcibiades]]** experiences banishment as political transformation. Unlike [[timon|Timon]], whose exile is self-imposed, [[alcibiades|Alcibiades]] is formally sentenced by the Senate — his banishment is an act of institutional power that reveals the [[disease|corruption]] of the institution that imposes it. His response is not withdrawal but counter-attack: he raises an army, accepts [[timon|Timon]]'s gold (013-040), and marches on [[athens|Athens]]. The banishment that was meant to silence him instead gives him a "cause" (009-029) — a justification for violence that the play treats as legitimate. His final entry into [[athens|Athens]] as conqueror, promising to "make war breed peace," completes the arc of banishment-turned-conquest. [[alcibiades|Alcibiades]] demonstrates that exile can be politically productive in a way that [[timon|Timon]]'s cosmic misanthropy cannot.
+
+**The [[first-senator|Senators]]** deploy banishment as an instrument of power, and in doing so engineer their own destruction. Their banishment of [[alcibiades|Alcibiades]] is presented as [[law|legal]] necessity — "We are for law: he dies; urge it no more" (009-020) — but the play exposes this language as a disguise for cruelty. The same senators who practise [[debt|usury]] now condemn a soldier for a brawl, and their sentence of banishment is the act that converts a loyal general into an invading enemy. The irony is structural: the Senate's attempt to preserve its own power through banishment is the very act that guarantees its loss. The banishment of [[alcibiades|Alcibiades]] is, in the play's moral economy, a self-inflicted wound — the Senate banishes the one man who could have defended it.
+
+## Critical Interpretations
+
+Banishment in *[[timon-of-athens|Timon of Athens]]* belongs to a Shakespearean tradition of exile narratives that includes *Coriolanus*, *King Lear*, and *As You Like It*. In each of these plays, banishment functions as both punishment and liberation — the exiled character is stripped of social identity but gains a perspective unavailable within the society that expelled them. *[[timon|Timon]]* is distinctive, however, in making banishment a double motif: the play presents two exiles, one voluntary and one imposed, one leading to misanthropic withdrawal and the other to military conquest.
+
+The structural parallelism invites comparison: which form of banishment is more effective, which exile is more authentic? The play refuses a simple answer. [[timon|Timon]]'s self-exile produces the most radical truth-telling — his curses in the woods are the play's most powerful language — but it also produces his death. [[alcibiades|Alcibiades]]'s imposed exile produces political action and the promise of restoration, but his final speech is notably modest, promising only to "make war breed peace."
+
+The woods as a setting for banishment carry specific Renaissance associations. The pastoral tradition, from Virgil through Sidney and Spenser, imagined the green world as a space of renewal and transformation, where exiles from the court discovered truer values. Shakespeare had used this convention in the Forest of Arden in *As You Like It*, where banishment leads to love and reconciliation. *[[timon|Timon]]* inverts the pastoral: [[the-woods|Timon's woods]] are not a place of renewal but of desolation, not a space of love but of curses. The green world has become a brown world — a place of roots and digging in the dirt, where the only truth discovered is the irredeemable corruption of humanity. This inversion is one of the play's darkest gestures: even banishment, the traditional engine of pastoral transformation, offers no redemption in [[timon|Timon]]'s [[athens|Athens]].
+
+The classical sources for the play complicate the banishment motif further. The historical Alcibiades was banished from [[athens|Athens]] multiple times — once for alleged impiety (the mutilation of the herms), later for political intrigue — and each banishment was followed by a return to power. Shakespeare simplifies this history, presenting a single banishment that leads directly to conquest, but the simplification is dramatically purposeful: it makes [[alcibiades|Alcibiades]]'s exile a clean parallel to [[timon|Timon]]'s, and it sharpens the play's critique of institutional ingratitude. Plutarch's *Life of Alcibiades*, likely Shakespeare's source, emphasises the general's capacity to reinvent himself after each exile, a quality Shakespeare preserves in [[alcibiades|Alcibiades]]'s ability to accept [[timon|Timon]]'s gold while rejecting [[timon|Timon]]'s counsel (013-040). Banishment, in both the classical and Shakespearean treatments, is the condition of self-reinvention — but the selves that emerge from exile are not necessarily better than the ones that entered it.

@@ -1,0 +1,6883 @@
+{
+  "book": "sonnets-from-the-portuguese",
+  "title": "Sonnets from the Portuguese",
+  "description": "Sonnets from the Portuguese — knowledge fragments for AI agents",
+  "language": "en",
+  "generated": "2026-07-21",
+  "version": 1,
+  "meme_count": 116,
+  "memes": [
+    {
+      "id": "About",
+      "type": "overview",
+      "label": "About This Wiki",
+      "description": "A sequence of 44 love sonnets by Elizabeth Barrett Browning",
+      "aliases": [
+        "About",
+        "关于"
+      ],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:About",
+      "relations": []
+    },
+    {
+      "id": "Colophon",
+      "type": "chapter",
+      "label": "Colophon",
+      "description": "Edition colophon",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:Colophon",
+      "relations": []
+    },
+    {
+      "id": "Imprint",
+      "type": "chapter",
+      "label": "Imprint",
+      "description": "Edition imprint and publication information",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:Imprint",
+      "relations": []
+    },
+    {
+      "id": "TOC",
+      "type": "overview",
+      "label": "Table of Contents",
+      "description": "Table of Contents for Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:TOC",
+      "relations": [
+        {
+          "type": "related",
+          "target": "Imprint",
+          "label": "Imprint"
+        },
+        {
+          "type": "related",
+          "target": "Uncopyright",
+          "label": "Uncopyright"
+        },
+        {
+          "type": "related",
+          "target": "Colophon",
+          "label": "Colophon"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-01",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-02",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-03",
+          "label": "Sonnet III"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-04",
+          "label": "Sonnet IV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-05",
+          "label": "Sonnet V"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-06",
+          "label": "Sonnet VI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-07",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-08",
+          "label": "Sonnet VIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-09",
+          "label": "Sonnet IX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-10",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-11",
+          "label": "Sonnet XI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-12",
+          "label": "Sonnet XII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-13",
+          "label": "Sonnet XIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-14",
+          "label": "Sonnet XIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-15",
+          "label": "Sonnet XV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-16",
+          "label": "Sonnet XVI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-17",
+          "label": "Sonnet XVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-18",
+          "label": "Sonnet XVIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-19",
+          "label": "Sonnet XIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-20",
+          "label": "Sonnet XX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-21",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-22",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-23",
+          "label": "Sonnet XXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-24",
+          "label": "Sonnet XXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-25",
+          "label": "Sonnet XXV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-26",
+          "label": "Sonnet XXVI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-27",
+          "label": "Sonnet XXVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-28",
+          "label": "Sonnet XXVIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-29",
+          "label": "Sonnet XXIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-30",
+          "label": "Sonnet XXX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-31",
+          "label": "Sonnet XXXI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-32",
+          "label": "Sonnet XXXII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-33",
+          "label": "Sonnet XXXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-34",
+          "label": "Sonnet XXXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-35",
+          "label": "Sonnet XXXV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-36",
+          "label": "Sonnet XXXVI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-37",
+          "label": "Sonnet XXXVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-38",
+          "label": "Sonnet XXXVIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-39",
+          "label": "Sonnet XXXIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-40",
+          "label": "Sonnet XL"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-41",
+          "label": "Sonnet XLI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-42",
+          "label": "Sonnet XLII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-44",
+          "label": "Sonnet XLIV"
+        }
+      ]
+    },
+    {
+      "id": "Uncopyright",
+      "type": "chapter",
+      "label": "Uncopyright",
+      "description": "Public domain dedication",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:Uncopyright",
+      "relations": []
+    },
+    {
+      "id": "angel-imagery",
+      "type": "concept",
+      "label": "Angel (Imagery)",
+      "description": "The angel as a figure for the beloved's transformative presence in *Sonnets from the Portuguese* — a being who mediates between heaven and earth, the divine and the human.",
+      "aliases": [
+        "angel",
+        "angels",
+        "angelic imagery"
+      ],
+      "tags": [
+        "theme",
+        "angel",
+        "spirituality",
+        "petrarchan"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:angel-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "Heart (Imagery)"
+        }
+      ]
+    },
+    {
+      "id": "browning-courtship",
+      "type": "event",
+      "label": "Browning Courtship (1845–1846)",
+      "description": "The courtship and elopement of Elizabeth Barrett and Robert Browning (1845–1846), the biographical event that occasioned *Sonnets from the Portuguese*.",
+      "aliases": [
+        "Browning courtship",
+        "courtship",
+        "elopement",
+        "1845-1846"
+      ],
+      "tags": [
+        "event",
+        "courtship",
+        "biography",
+        "victorian"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:browning-courtship",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "Love (Theme)"
+        }
+      ]
+    },
+    {
+      "id": "concept-index",
+      "type": "list",
+      "label": "Concept Index",
+      "description": "Complete index of all concept pages in Sonnets from the Portuguese wiki, grouped by subtype.",
+      "aliases": [],
+      "tags": [
+        "index"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:concept-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "Angel (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "Hand (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "heaven-imagery",
+          "label": "Heaven (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "Heart (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "Kiss (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "Light (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "Tear (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "Thought (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "Voice (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "Dream (Motif)"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "Shadow (Motif)"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "Death (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "Grief (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "Love (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "Music (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "Silence (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "Soul (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan Sonnet Form"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-index",
+          "label": "sonnet-index"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        }
+      ]
+    },
+    {
+      "id": "death-theme",
+      "type": "concept",
+      "label": "Death (Theme)",
+      "description": "The theme of death in *Sonnets from the Portuguese*, explored as a foil to love, a shadow of past grief, and the ultimate threshold beyond which love transcends.",
+      "aliases": [
+        "death",
+        "mortality",
+        "death theme"
+      ],
+      "tags": [
+        "theme",
+        "death",
+        "mortality",
+        "petrarchan"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:death-theme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "visions"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "dream",
+      "type": "concept",
+      "label": "Dream (Motif)",
+      "description": "The dream and vision motif in Elizabeth Barrett Browning's *Sonnets from the Portuguese* contrasts the speaker's former life of solitary visions with the superior reality of the beloved's presence — dreams are revealed as pale anticipations of a love that surpasses imagination itself.",
+      "aliases": [
+        "dream",
+        "dreams",
+        "dreaming",
+        "vision",
+        "visions",
+        "visionary"
+      ],
+      "tags": [
+        "motif",
+        "dream",
+        "vision",
+        "imagination",
+        "reality"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:dream",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "Sonnet VI"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiii",
+          "label": "Sonnet XXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvi",
+          "label": "Sonnet XXVI"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silent"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxx",
+          "label": "Sonnet XXX"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadows"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-barrett-browning",
+      "type": "person",
+      "label": "Elizabeth Barrett Browning",
+      "description": "English poet (1806–1861), author of *Sonnets from the Portuguese* (1850), one of the most prominent Victorian poets whose courtship with Robert Browning produced the sequence's autobiographical love sonnets.",
+      "aliases": [
+        "Barrett Browning",
+        "EBB",
+        "Elizabeth Barrett"
+      ],
+      "tags": [
+        "poet",
+        "victorian",
+        "author",
+        "browning-circle"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:elizabeth-barrett-browning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "the sonnet sequence"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "sonnet form"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "event-index",
+      "type": "list",
+      "label": "Event Index",
+      "description": "Index of event pages in the Sonnets from the Portuguese wiki.",
+      "aliases": [],
+      "tags": [
+        "index"
+      ],
+      "quality": "basic",
+      "source_ref": "sonnets-from-the-portuguese:event-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "Browning Courtship (1845–1846)"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "elizabeth-barrett-browning"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "robert-browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-index",
+          "label": "sonnet-index"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "sonnets-from-the-portuguese"
+        }
+      ]
+    },
+    {
+      "id": "god",
+      "type": "person",
+      "label": "God",
+      "description": "God as a divine figure referenced throughout Elizabeth Barrett Browning's Sonnets from the Portuguese, appearing in over a dozen sonnets as witness, judge, creator, and object of faith.",
+      "aliases": [
+        "the Divine",
+        "the Almighty"
+      ],
+      "tags": [
+        "theological",
+        "divine-figure",
+        "sonnet-reference"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:god",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Browning"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "Sonnet VI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxv",
+          "label": "Sonnet XXV"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvii",
+          "label": "Sonnet XXVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "Soul (Theme)"
+        }
+      ]
+    },
+    {
+      "id": "grief-theme",
+      "type": "concept",
+      "label": "Grief (Theme)",
+      "description": "Grief as love's inseparable companion in *Sonnets from the Portuguese* — the accumulated sorrow of the speaker's past that love acknowledges, transforms, but never erases.",
+      "aliases": [
+        "grief",
+        "sorrow",
+        "suffering"
+      ],
+      "tags": [
+        "theme",
+        "grief",
+        "suffering",
+        "emotion"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:grief-theme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxv",
+          "label": "Sonnet XXXV"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "Death (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "Tear (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "Heart (Imagery)"
+        }
+      ]
+    },
+    {
+      "id": "hand-imagery",
+      "type": "concept",
+      "label": "Hand (Imagery)",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:hand-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "heaven-imagery",
+          "label": "heaven"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "thought"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "Sonnet XIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xx",
+          "label": "Sonnet XX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiii",
+          "label": "Sonnet XXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiv",
+          "label": "Sonnet XXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxviii",
+          "label": "Sonnet XXVIII"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxii",
+          "label": "Sonnet XXXII"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "musician"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiv",
+          "label": "Sonnet XXXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxvi",
+          "label": "Sonnet XXXVI"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "EBB"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart-imagery"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        }
+      ]
+    },
+    {
+      "id": "heart-imagery",
+      "type": "concept",
+      "label": "Heart (Imagery)",
+      "description": "The heart as the embodied center of emotional life in *Sonnets from the Portuguese* — heavy with grief, lifted by love, and the organ through which the speaker most directly registers love's physical reality.",
+      "aliases": [
+        "heart",
+        "heart imagery",
+        "heart theme"
+      ],
+      "tags": [
+        "theme",
+        "heart",
+        "imagery",
+        "embodiment"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:heart-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "Sonnet XI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "Sonnet VI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiii",
+          "label": "Sonnet XIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "Sonnet VIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxv",
+          "label": "Sonnet XXXV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-05",
+          "label": "Sonnet V"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "heaven-imagery",
+      "type": "concept",
+      "label": "Heaven (Imagery)",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:heaven-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiv",
+          "label": "Sonnet XXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxi",
+          "label": "Sonnet XXXI"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "religious-faith"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "hand-imagery"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "thought-imagery"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "voice-imagery"
+        }
+      ]
+    },
+    {
+      "id": "imagery-index",
+      "type": "list",
+      "label": "Imagery Index",
+      "description": "Index of all imagery-related concept pages in the Sonnets from the Portuguese wiki.",
+      "aliases": [],
+      "tags": [
+        "index"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:imagery-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "Heart (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "Soul (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "Light (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "Shadow (Motif)"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "Kiss (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "Hand (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "Voice (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "Tear (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "Angel (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "heaven-imagery",
+          "label": "Heaven (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "Thought (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "Dream (Motif)"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "Silence (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "Music (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-index",
+          "label": "sonnet-index"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death-theme"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief-theme"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love-theme"
+        }
+      ]
+    },
+    {
+      "id": "kiss-imagery",
+      "type": "concept",
+      "label": "Kiss (Imagery)",
+      "description": "The kiss as the physical sacrament of love in *Sonnets from the Portuguese* — the embodied act that seals the spiritual union with tangible, mortal presence.",
+      "aliases": [
+        "kiss",
+        "kisses",
+        "kissing imagery"
+      ],
+      "tags": [
+        "theme",
+        "kiss",
+        "physicality",
+        "embodiment"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:kiss-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxvi",
+          "label": "Sonnet XXXVI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvii",
+          "label": "Sonnet XXVII"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "Heart (Imagery)"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "light-imagery",
+      "type": "concept",
+      "label": "Light (Imagery)",
+      "description": "Light as the dominant metaphor for love's transformative illumination in *Sonnets from the Portuguese* — the beloved's presence that dispels the speaker's former darkness.",
+      "aliases": [
+        "light",
+        "light imagery",
+        "light-darkness"
+      ],
+      "tags": [
+        "theme",
+        "light",
+        "imagery",
+        "darkness"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:light-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "love-theme",
+      "type": "concept",
+      "label": "Love (Theme)",
+      "description": "The central theme of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, explored as spiritual devotion, romantic passion, grief, and transcendent union across all 44 sonnets.",
+      "aliases": [
+        "love",
+        "love theme",
+        "love in the sonnets"
+      ],
+      "tags": [
+        "theme",
+        "love",
+        "petrarchan",
+        "central-motif"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:love-theme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "Sonnet 43"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ix",
+          "label": "Sonnet IX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxv",
+          "label": "Sonnet XXXV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxvi",
+          "label": "Sonnet XXXVI"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "mental imagery"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII — \"How do I love thee?\""
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan Sonnet Form"
+        }
+      ]
+    },
+    {
+      "id": "music-theme",
+      "type": "concept",
+      "label": "Music (Theme)",
+      "description": "Music in Elizabeth Barrett Browning's *Sonnets from the Portuguese* serves as a metaphor for the speaker's poetic voice, her emotional register (melancholy, sweetness), and the transcendent harmony of divine love.",
+      "aliases": [
+        "music",
+        "music theme",
+        "melody",
+        "song",
+        "musician",
+        "singing"
+      ],
+      "tags": [
+        "theme",
+        "music",
+        "song",
+        "motif",
+        "metaphor"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:music-theme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iv",
+          "label": "Sonnet IV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "Sonnet XI"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "Sonnet XVII"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvi",
+          "label": "Sonnet XXVI"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "visionary"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiii",
+          "label": "Sonnet XXXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iii",
+          "label": "Sonnet III"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        }
+      ]
+    },
+    {
+      "id": "person-index",
+      "type": "list",
+      "label": "Person Index",
+      "description": "Complete index of all person pages in Sonnets from the Portuguese wiki.",
+      "aliases": [],
+      "tags": [
+        "index"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:person-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-index",
+          "label": "sonnet-index"
+        }
+      ]
+    },
+    {
+      "id": "petrarchan-sonnet-form",
+      "type": "concept",
+      "label": "Petrarchan Sonnet Form",
+      "description": "The fourteen-line Italian poetic form (ABBA ABBA CDC DCD) that structures *Sonnets from the Portuguese*, adapted by Elizabeth Barrett Browning to give voice to a female speaker's experience of reciprocal love.",
+      "aliases": [
+        "Petrarchan sonnet",
+        "Italian sonnet",
+        "sonnet form"
+      ],
+      "tags": [
+        "form",
+        "sonnet",
+        "petrarchan",
+        "poetic-form"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:petrarchan-sonnet-form",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "religious-faith",
+      "type": "concept",
+      "label": "Religious Faith",
+      "description": "The religious and theological dimension of *Sonnets from the Portuguese*, in which God appears as witness, benefactor, and ultimate reference point for love's meaning.",
+      "aliases": [
+        "faith",
+        "God",
+        "religion",
+        "Christianity",
+        "spirituality"
+      ],
+      "tags": [
+        "theme",
+        "religion",
+        "faith",
+        "god",
+        "christianity"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:religious-faith",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "Sonnet XVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "Sonnet VIII"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvi",
+          "label": "Sonnet XXVI"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvii",
+          "label": "Sonnet XXVII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "Sonnet XLIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "robert-browning",
+      "type": "person",
+      "label": "Robert Browning",
+      "description": "English poet (1812–1889), husband of Elizabeth Barrett Browning and the addressee of *Sonnets from the Portuguese*, a major Victorian poet in his own right known for dramatic monologues.",
+      "aliases": [
+        "Browning",
+        "Robert"
+      ],
+      "tags": [
+        "poet",
+        "victorian",
+        "browning-circle"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:robert-browning",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "elopement"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silent"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "shadow",
+      "type": "concept",
+      "label": "Shadow (Motif)",
+      "description": "The shadow and shade motif in Elizabeth Barrett Browning's *Sonnets from the Portuguese* spans the darkness of grief, the protective shadow of the beloved's presence, and the shadow as poetic shelter — evolving from a marker of melancholy to a sign of intimate union.",
+      "aliases": [
+        "shadow",
+        "shade",
+        "shadows",
+        "shadow motif"
+      ],
+      "tags": [
+        "motif",
+        "shadow",
+        "imagery",
+        "petrarchan"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:shadow",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxix",
+          "label": "Sonnet XXIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "Sonnet VI"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "Sonnet XVII"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xviii",
+          "label": "Sonnet XVIII"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "Sonnet XIX"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "Silence (Theme)"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "Dream (Motif)"
+        }
+      ]
+    },
+    {
+      "id": "silence",
+      "type": "concept",
+      "label": "Silence (Theme)",
+      "description": "Silence in Elizabeth Barrett Browning's *Sonnets from the Portuguese* is not absence but a form of presence — a spiritual language that surpasses speech, a sanctuary for intimate union, and the condition in which the deepest love is expressed without words.",
+      "aliases": [
+        "silence",
+        "silent",
+        "silence theme",
+        "wordlessness"
+      ],
+      "tags": [
+        "theme",
+        "silence",
+        "motif",
+        "communication",
+        "spiritual"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:silence",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiii",
+          "label": "Sonnet XIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xx",
+          "label": "Sonnet XX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "visions"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvi",
+          "label": "Sonnet XXVI"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "Shadow (Motif)"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-01",
+      "type": "chapter",
+      "label": "Sonnet I",
+      "description": "Sonnet I from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-01",
+      "relations": [
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-02",
+      "type": "chapter",
+      "label": "Sonnet II",
+      "description": "Sonnet II from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-02",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-03",
+      "type": "chapter",
+      "label": "Sonnet III",
+      "description": "Sonnet III from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-03",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "musician"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-04",
+      "type": "chapter",
+      "label": "Sonnet IV",
+      "description": "Sonnet IV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-04",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-05",
+      "type": "chapter",
+      "label": "Sonnet V",
+      "description": "Sonnet V from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-05",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-06",
+      "type": "chapter",
+      "label": "Sonnet VI",
+      "description": "Sonnet VI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-06",
+      "relations": [
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dream"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-07",
+      "type": "chapter",
+      "label": "Sonnet VII",
+      "description": "Sonnet VII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-07",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-08",
+      "type": "chapter",
+      "label": "Sonnet VIII",
+      "description": "Sonnet VIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-08",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-09",
+      "type": "chapter",
+      "label": "Sonnet IX",
+      "description": "Sonnet IX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-09",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-10",
+      "type": "chapter",
+      "label": "Sonnet X",
+      "description": "Sonnet X from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-10",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-11",
+      "type": "chapter",
+      "label": "Sonnet XI",
+      "description": "Sonnet XI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-11",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-12",
+      "type": "chapter",
+      "label": "Sonnet XII",
+      "description": "Sonnet XII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-12",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-13",
+      "type": "chapter",
+      "label": "Sonnet XIII",
+      "description": "Sonnet XIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-13",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-14",
+      "type": "chapter",
+      "label": "Sonnet XIV",
+      "description": "Sonnet XIV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-14",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-15",
+      "type": "chapter",
+      "label": "Sonnet XV",
+      "description": "Sonnet XV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-15",
+      "relations": [
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-16",
+      "type": "chapter",
+      "label": "Sonnet XVI",
+      "description": "Sonnet XVI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-16",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-17",
+      "type": "chapter",
+      "label": "Sonnet XVII",
+      "description": "Sonnet XVII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-17",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "melody"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-18",
+      "type": "chapter",
+      "label": "Sonnet XVIII",
+      "description": "Sonnet XVIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-18",
+      "relations": [
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-19",
+      "type": "chapter",
+      "label": "Sonnet XIX",
+      "description": "Sonnet XIX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-19",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-20",
+      "type": "chapter",
+      "label": "Sonnet XX",
+      "description": "Sonnet XX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-20",
+      "relations": [
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-21",
+      "type": "chapter",
+      "label": "Sonnet XXI",
+      "description": "Sonnet XXI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-21",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-22",
+      "type": "chapter",
+      "label": "Sonnet XXII",
+      "description": "Sonnet XXII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-22",
+      "relations": [
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silent"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-23",
+      "type": "chapter",
+      "label": "Sonnet XXIII",
+      "description": "Sonnet XXIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-23",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dreams"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-24",
+      "type": "chapter",
+      "label": "Sonnet XXIV",
+      "description": "Sonnet XXIV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-24",
+      "relations": [
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-25",
+      "type": "chapter",
+      "label": "Sonnet XXV",
+      "description": "Sonnet XXV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-25",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-26",
+      "type": "chapter",
+      "label": "Sonnet XXVI",
+      "description": "Sonnet XXVI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-26",
+      "relations": [
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "visions"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silent"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-27",
+      "type": "chapter",
+      "label": "Sonnet XXVII",
+      "description": "Sonnet XXVII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-27",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-28",
+      "type": "chapter",
+      "label": "Sonnet XXVIII",
+      "description": "Sonnet XXVIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-28",
+      "relations": [
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-29",
+      "type": "chapter",
+      "label": "Sonnet XXIX",
+      "description": "Sonnet XXIX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-29",
+      "relations": [
+        {
+          "type": "related",
+          "target": "About",
+          "label": "About"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-30",
+      "type": "chapter",
+      "label": "Sonnet XXX",
+      "description": "Sonnet XXX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-30",
+      "relations": [
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-31",
+      "type": "chapter",
+      "label": "Sonnet XXXI",
+      "description": "Sonnet XXXI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-31",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-32",
+      "type": "chapter",
+      "label": "Sonnet XXXII",
+      "description": "Sonnet XXXII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-32",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-33",
+      "type": "chapter",
+      "label": "Sonnet XXXIII",
+      "description": "Sonnet XXXIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-33",
+      "relations": [
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-34",
+      "type": "chapter",
+      "label": "Sonnet XXXIV",
+      "description": "Sonnet XXXIV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-34",
+      "relations": [
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-35",
+      "type": "chapter",
+      "label": "Sonnet XXXV",
+      "description": "Sonnet XXXV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-35",
+      "relations": [
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-36",
+      "type": "chapter",
+      "label": "Sonnet XXXVI",
+      "description": "Sonnet XXXVI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-36",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-37",
+      "type": "chapter",
+      "label": "Sonnet XXXVII",
+      "description": "Sonnet XXXVII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-37",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-38",
+      "type": "chapter",
+      "label": "Sonnet XXXVIII",
+      "description": "Sonnet XXXVIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-38",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-39",
+      "type": "chapter",
+      "label": "Sonnet XXXIX",
+      "description": "Sonnet XXXIX from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-39",
+      "relations": [
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angel"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-40",
+      "type": "chapter",
+      "label": "Sonnet XL",
+      "description": "Sonnet XL from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-40",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "weeping"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-41",
+      "type": "chapter",
+      "label": "Sonnet XLI",
+      "description": "Sonnet XLI from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-41",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-42",
+      "type": "chapter",
+      "label": "Sonnet XLII",
+      "description": "Sonnet XLII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-42",
+      "relations": [
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angel"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-43",
+      "type": "chapter",
+      "label": "Sonnet XLIII",
+      "description": "Sonnet XLIII from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-43",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "Let me count the ways"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-44",
+      "type": "chapter",
+      "label": "Sonnet XLIV",
+      "description": "Sonnet XLIV from Sonnets from the Portuguese",
+      "aliases": [],
+      "tags": [],
+      "quality": "unknown",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-44",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-i",
+      "type": "work",
+      "label": "Sonnet I (\"I thought once how Theocritus had sung\")",
+      "description": "The opening sonnet of Elizabeth Barrett Browning's Sonnets from the Portuguese, introducing the sequence's central transformation from death to love through the figure of Theocritus and a mystical vision.",
+      "aliases": [
+        "Sonnet 1",
+        "Sonnet I"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem",
+        "opening"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-i",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "weeping"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-ii",
+      "type": "work",
+      "label": "Sonnet II (\"But only three in all God's universe\")",
+      "description": "Sonnet II of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 2",
+        "Sonnet II"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-ii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "religious-faith"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light-imagery"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iii",
+          "label": "sonnet-iii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-iii",
+      "type": "work",
+      "label": "Sonnet III (\"Unlike are we, unlike, O princely Heart!\")",
+      "description": "Sonnet III of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 3",
+        "Sonnet III"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-iii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "musician"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angel"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iv",
+          "label": "sonnet-iv"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-index",
+      "type": "list",
+      "label": "Sonnet Index",
+      "description": "Complete index of all 44 sonnet work pages in Sonnets from the Portuguese wiki, grouped by quality tier.",
+      "aliases": [
+        "work-index"
+      ],
+      "tags": [
+        "index"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-index",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "Sonnet XLIII (\"How do I love thee? Let me count the ways.\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I (\"I thought once how Theocritus had sung\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiv",
+          "label": "Sonnet XIV (\"If thou must love me, let it be for nought\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xviii",
+          "label": "Sonnet XVIII (\"I never gave a lock of hair away\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xx",
+          "label": "Sonnet XX (\"Beloved, my Beloved, when I think\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxviii",
+          "label": "Sonnet XXVIII (\"My letters! all dead paper, mute and white!\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxii",
+          "label": "Sonnet XXXII (\"The first time that the sun rose on thine oath\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II (\"But only three in all God's universe\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iii",
+          "label": "Sonnet III (\"Unlike are we, unlike, O princely Heart!\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iv",
+          "label": "Sonnet IV (\"Thou hast thy calling to some palace-floor,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-v",
+          "label": "Sonnet V (\"I lift my heavy heart up solemnly,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "Sonnet VI (\"Go from me. Yet I feel that I shall stand\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII (\"The face of all the world is changed, I think\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "Sonnet VIII (\"What can I give thee back, O liberal\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ix",
+          "label": "Sonnet IX (\"Can it be right to give what I can give?\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X (\"Yet, love, mere love, is beautiful indeed\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "Sonnet XI (\"And therefore if to love can be desert,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xii",
+          "label": "Sonnet XII (\"Indeed this very love which is my boast,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiii",
+          "label": "Sonnet XIII (\"And wilt thou have me fashion into speech\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xv",
+          "label": "Sonnet XV (\"Accuse me not, beseech thee, that I wear\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvi",
+          "label": "Sonnet XVI (\"And yet, because thou overcomest so,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "Sonnet XVII (\"My poet, thou canst touch on all the notes\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "Sonnet XIX (\"The soul's Rialto hath its merchandize;\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI (\"Say over again, and yet once over again,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII (\"When our two souls stand up erect and strong,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiii",
+          "label": "Sonnet XXIII (\"Is it indeed so? If I lay here dead,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiv",
+          "label": "Sonnet XXIV (\"Let the world's sharpness, like a clasping knife,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxv",
+          "label": "Sonnet XXV (\"A heavy heart, Beloved, have I borne\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvi",
+          "label": "Sonnet XXVI (\"I lived with visions for my company\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxvii",
+          "label": "Sonnet XXVII (\"My own Beloved, who hast lifted me\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxix",
+          "label": "Sonnet XXIX (\"I think of thee!—my thoughts do twine and bud\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxx",
+          "label": "Sonnet XXX (\"I see thine image through my tears to-night,\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxi",
+          "label": "Sonnet XXXI (\"Thou comest! all is said without a word.\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiii",
+          "label": "Sonnet XXXIII (\"Yes, call me by my pet-name!\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiv",
+          "label": "Sonnet XXXIV (\"With the same heart, I said, I'll answer thee\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxv",
+          "label": "Sonnet XXXV (\"If I leave all for thee, wilt thou exchange\")"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxvi",
+          "label": "Sonnet XXXVI (\"When we first met and loved, I did not build\")"
+        },
+        {
+          "type": "related",
+          "target": "concept-index",
+          "label": "concept-index"
+        },
+        {
+          "type": "related",
+          "target": "person-index",
+          "label": "person-index"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "sonnets-from-the-portuguese"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-iv",
+      "type": "work",
+      "label": "Sonnet IV (\"Thou hast thy calling to some palace-floor,\")",
+      "description": "Sonnet IV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 4",
+        "Sonnet IV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-iv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iii",
+          "label": "Sonnet III"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "musician"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-v",
+          "label": "sonnet-v"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-ix",
+      "type": "work",
+      "label": "Sonnet IX (\"Can it be right to give what I can give?\")",
+      "description": "Sonnet IX of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 9",
+        "Sonnet IX"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-ix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "sonnet-viii"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "sonnet-x"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-v",
+      "type": "work",
+      "label": "Sonnet V (\"I lift my heavy heart up solemnly,\")",
+      "description": "Sonnet V of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 5",
+        "Sonnet V"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-v",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iv",
+          "label": "sonnet-iv"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "sonnet-vi"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-vi",
+      "type": "work",
+      "label": "Sonnet VI (\"Go from me. Yet I feel that I shall stand\")",
+      "description": "Sonnet VI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 6",
+        "Sonnet VI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-vi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ii",
+          "label": "Sonnet II"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-v",
+          "label": "sonnet-v"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "sonnet-vii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-vii",
+      "type": "work",
+      "label": "Sonnet VII (\"The face of all the world is changed, I think,\")",
+      "description": "Sonnet VII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 7",
+        "Sonnet VII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-vii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light-imagery"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vi",
+          "label": "sonnet-vi"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "sonnet-viii"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-viii",
+      "type": "work",
+      "label": "Sonnet VIII (\"What can I give thee back, O liberal\")",
+      "description": "Sonnet VIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 8",
+        "Sonnet VIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-viii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ix",
+          "label": "sonnet-ix"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-x",
+      "type": "work",
+      "label": "Sonnet X (\"Yet, love, mere love, is beautiful indeed\")",
+      "description": "Sonnet X of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 10",
+        "Sonnet X"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-x",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-ix",
+          "label": "Sonnet IX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-v",
+          "label": "Sonnet V"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "sonnet-xi"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xi",
+      "type": "work",
+      "label": "Sonnet XI (\"And therefore if to love can be desert,\")",
+      "description": "Sonnet XI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 11",
+        "Sonnet XI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xii",
+          "label": "sonnet-xii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xii",
+      "type": "work",
+      "label": "Sonnet XII (\"Indeed this very love which is my boast\")",
+      "description": "Sonnet XII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning. The speaker declares that even her greatest love is not her own achievement but derives entirely from the beloved's example, using the imagery of a ruby crown and a golden throne.",
+      "aliases": [
+        "Sonnet 12",
+        "Sonnet XII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "Sonnet 11"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xiii",
+      "type": "work",
+      "label": "Sonnet XIII (\"And wilt thou have me fashion into speech\")",
+      "description": "Sonnet XIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. The speaker confronts the impossibility of expressing love in words, using the extended metaphor of a torch dropped at the beloved's feet and offering silent fortitude in place of speech.",
+      "aliases": [
+        "Sonnet 13",
+        "Sonnet XIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xiii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet 1"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xii",
+          "label": "sonnet-xii"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiv",
+          "label": "sonnet-xiv"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "petrarchan-sonnet-form"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xiv",
+      "type": "work",
+      "label": "Sonnet XIV (\"If thou must love me, let it be for nought\")",
+      "description": "Sonnet XIV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. One of the most quoted in the sequence, the speaker argues that love must be unconditional — not for smile, look, or pity — but purely for love's own sake, culminating in the imperative \"love me for love's sake, that evermore / Thou mayst love on through love's eternity.\"",
+      "aliases": [
+        "Sonnet 14",
+        "Sonnet XIV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xiv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xi",
+          "label": "Sonnet 11"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiii",
+          "label": "sonnet-xiii"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xv",
+          "label": "sonnet-xv"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xix",
+      "type": "work",
+      "label": "Sonnet XIX (\"The soul's Rialto hath its merchandise\")",
+      "description": "Sonnet XIX of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. Reciprocating Sonnet XVIII's gift, the speaker receives a lock of the beloved's dark hair, comparing it to that praised by Pindar, and places it on her heart as a warming presence \"till mine grows cold in death.\"",
+      "aliases": [
+        "Sonnet 19",
+        "Sonnet XIX"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xviii",
+          "label": "Sonnet XVIII"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "sonnet-xvii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xliii",
+      "type": "work",
+      "label": "Sonnet XLIII (\"How Do I Love Thee?\")",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xliii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "suffering"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "sonnet form"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angel"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "theocritus"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "thought-imagery"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "voice-imagery"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "hand-imagery"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xv",
+      "type": "work",
+      "label": "Sonnet XV (\"Accuse me not, beseech thee, that I wear\")",
+      "description": "Sonnet XV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. The speaker explores the asymmetry of love — the beloved looks at her with untroubled devotion while she looks past love toward its ending, using the striking image of a bee shut in crystalline and the vista of rivers flowing to a bitter sea.",
+      "aliases": [
+        "Sonnet 15",
+        "Sonnet XV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiv",
+          "label": "sonnet-xiv"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvi",
+          "label": "sonnet-xvi"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xvi",
+      "type": "work",
+      "label": "Sonnet XVI (\"And yet, because thou overcomest so\")",
+      "description": "Sonnet XVI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. A pivotal surrender sonnet in which the speaker finally accepts the beloved's love, using military and royal imagery to describe conquest not as humiliation but as elevation, culminating in the plea \"Make thy love larger to enlarge my worth.\"",
+      "aliases": [
+        "Sonnet 16",
+        "Sonnet XVI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xvi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xv",
+          "label": "Sonnet XV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xiv",
+          "label": "Sonnet XIV"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xii",
+          "label": "Sonnet XII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "sonnet-xvii"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xvii",
+      "type": "work",
+      "label": "Sonnet XVII (\"My poet, thou canst touch on all the notes\")",
+      "description": "Sonnet XVII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. Addressed to \"My poet,\" the speaker asks the beloved — a fellow poet — what role she should play in his life, listing possibilities from hope to memory to shade to grave, culminating in the single word \"Choose.\"",
+      "aliases": [
+        "Sonnet 17",
+        "Sonnet XVII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xvii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvi",
+          "label": "Sonnet XVI"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "music"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xviii",
+          "label": "sonnet-xviii"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "petrarchan-sonnet-form"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xviii",
+      "type": "work",
+      "label": "Sonnet XVIII (\"I never gave a lock of hair away\")",
+      "description": "Sonnet XVIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. The speaker gives the beloved a lock of her hair, a gift never before offered to any man. The lock bears the kiss her mother left when she died, making the gift a transmission of maternal love across generations.",
+      "aliases": [
+        "Sonnet 18",
+        "Sonnet XVIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xviii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shade"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xvii",
+          "label": "sonnet-xvii"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "sonnet-xix"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xx",
+      "type": "work",
+      "label": "Sonnet XX (\"Beloved, my Beloved, when I think\")",
+      "description": "Sonnet XX of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. A meditation on the miracle of love's arrival — the speaker contrasts her past isolation (\"alone here in the snow\") with the wonder that the beloved existed in the world without her knowing, comparing atheists who cannot guess God's presence to those who would not sense love's approach.",
+      "aliases": [
+        "Sonnet 20",
+        "Sonnet XX"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xx",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "faith"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxx",
+          "label": "Sonnet 30"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "sonnet-xix"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "sonnet-xxi"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxi",
+      "type": "work",
+      "label": "Sonnet XXI (\"Say over again, and yet once over again\")",
+      "description": "\"Sonnet XXI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846. The speaker begs the beloved to repeat 'thou dost love me' endlessly, comparing the repetition to the cuckoo's spring song. Each iteration is as welcome as the returning season. The sonnet closes with the paradox of loving in silence with the soul.\"",
+      "aliases": [
+        "Sonnet 21",
+        "Sonnet XXI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xx",
+          "label": "sonnet-xx"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "sonnet-xxii"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "voice-imagery"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxii",
+      "type": "work",
+      "label": "Sonnet XXII (\"When our two souls stand up erect and strong,\")",
+      "description": "Sonnet XXII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 22",
+        "Sonnet XXII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxiii",
+      "type": "work",
+      "label": "Sonnet XXIII (\"Is it indeed so? If I lay here dead\")",
+      "description": "Sonnet XXIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 23",
+        "Sonnet XXIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxiii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dreaming"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxiv",
+      "type": "work",
+      "label": "Sonnet XXIV (\"Let the world's sharpness like a clasping knife\")",
+      "description": "Sonnet XXIV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 24",
+        "Sonnet XXIV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxiv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiii",
+          "label": "Sonnet XXIII"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxix",
+      "type": "work",
+      "label": "Sonnet XXIX (\"I think of thee!—my thoughts do twine and bud\")",
+      "description": "Sonnet XXIX of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 29",
+        "Sonnet XXIX"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxix",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxv",
+      "type": "work",
+      "label": "Sonnet XXV (\"A heavy heart, Beloved, have I borne\")",
+      "description": "Sonnet XXV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 25",
+        "Sonnet XXV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "sorrow"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiv",
+          "label": "Sonnet XXIV"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxvi",
+      "type": "work",
+      "label": "Sonnet XXVI (\"I lived with visions for my company\")",
+      "description": "Sonnet XXVI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 26",
+        "Sonnet XXVI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxvi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxvii",
+      "type": "work",
+      "label": "Sonnet XXVII (\"My own Beloved, who hast lifted me\")",
+      "description": "Sonnet XXVII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 27",
+        "Sonnet XXVII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxvii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "angel-imagery",
+          "label": "angels"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "kiss-imagery",
+          "label": "kiss"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxviii",
+      "type": "work",
+      "label": "Sonnet XXVIII (\"My letters! all dead paper, mute and white!\")",
+      "description": "Sonnet XXVIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 28",
+        "Sonnet XXVIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxviii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxx",
+      "type": "work",
+      "label": "Sonnet XXX (\"I see thine image through my tears tonight\")",
+      "description": "Sonnet XXX of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 30",
+        "Sonnet XXX"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxx",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "dream"
+        },
+        {
+          "type": "related",
+          "target": "light-imagery",
+          "label": "light"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxix",
+          "label": "Sonnet XXIX"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxi",
+      "type": "work",
+      "label": "Sonnet XXXI (\"Thou comest! all is said without a word.\")",
+      "description": "Sonnet XXXI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 31",
+        "Sonnet XXXI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxii",
+      "type": "work",
+      "label": "Sonnet XXXII (\"The first time that the sun rose on thine oath\")",
+      "description": "Sonnet XXXII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 32",
+        "Sonnet XXXII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxiii",
+      "type": "work",
+      "label": "Sonnet XXXIII (\"Yes, call me by my pet-name! let me hear\")",
+      "description": "Sonnet XXXIII of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 33",
+        "Sonnet XXXIII"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxiii",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxiv",
+      "type": "work",
+      "label": "Sonnet XXXIV (\"With the same heart, I said, I'll answer thee\")",
+      "description": "Sonnet XXXIV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 34",
+        "Sonnet XXXIV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxiv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxv",
+      "type": "work",
+      "label": "Sonnet XXXV (\"If I leave all for thee, wilt thou exchange\")",
+      "description": "Sonnet XXXV of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846 during her courtship with Robert Browning.",
+      "aliases": [
+        "Sonnet 35",
+        "Sonnet XXXV"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxv",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        }
+      ]
+    },
+    {
+      "id": "sonnet-xxxvi",
+      "type": "work",
+      "label": "Sonnet XXXVI (\"When we met first and loved, I did not build\")",
+      "description": "Sonnet XXXVI of Elizabeth Barrett Browning's *Sonnets from the Portuguese*, composed 1845–1846.",
+      "aliases": [
+        "Sonnet 36",
+        "Sonnet XXXVI"
+      ],
+      "tags": [
+        "sonnet",
+        "petrarchan",
+        "love-poem"
+      ],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:sonnet-xxxvi",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        }
+      ]
+    },
+    {
+      "id": "sonnets-from-the-portuguese",
+      "type": "work",
+      "label": "Sonnets from the Portuguese",
+      "description": "A sequence of 44 Petrarchan sonnets by Elizabeth Barrett Browning, written 1845–1846 during her courtship with Robert Browning and first published in 1850 as part of the revised *Poems*.",
+      "aliases": [
+        "Sonnets from the Portuguese",
+        "the sonnets",
+        "the sonnet sequence"
+      ],
+      "tags": [
+        "sonnet-sequence",
+        "poetry",
+        "victorian",
+        "love-poetry"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:sonnets-from-the-portuguese",
+      "relations": [
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "Petrarchan sonnet"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "browning-courtship",
+          "label": "courtship"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "Robert Browning"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "Let me count the ways"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "soul-theme",
+      "type": "concept",
+      "label": "Soul (Theme)",
+      "description": "The soul as the seat of love's deepest experience in *Sonnets from the Portuguese* — the medium of spiritual union, the voice that speaks when the body cannot, and the eternal dimension that love claims for its own.",
+      "aliases": [
+        "soul",
+        "spirit",
+        "soul theme"
+      ],
+      "tags": [
+        "theme",
+        "soul",
+        "spirituality",
+        "union"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:soul-theme",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "death"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-vii",
+          "label": "Sonnet VII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xii",
+          "label": "Sonnet XII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xix",
+          "label": "Sonnet XIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxii",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "Religious Faith"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-22",
+          "label": "Sonnet XXII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-43",
+          "label": "Sonnet XLIII"
+        }
+      ]
+    },
+    {
+      "id": "tear-imagery",
+      "type": "concept",
+      "label": "Tear (Imagery)",
+      "description": "The tear as the physical manifestation of emotional intensity in *Sonnets from the Portuguese* — at once sign of grief and vehicle of purification.",
+      "aliases": [
+        "tears",
+        "weeping",
+        "tear imagery"
+      ],
+      "tags": [
+        "theme",
+        "tears",
+        "emotion",
+        "embodiment"
+      ],
+      "quality": "standard",
+      "source_ref": "sonnets-from-the-portuguese:tear-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-viii",
+          "label": "Sonnet VIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-v",
+          "label": "Sonnet V"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "god",
+          "label": "God"
+        },
+        {
+          "type": "related",
+          "target": "religious-faith",
+          "label": "religion"
+        }
+      ]
+    },
+    {
+      "id": "theocritus",
+      "type": "person",
+      "label": "Theocritus",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:theocritus",
+      "relations": [
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "singing"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "Elizabeth Barrett Browning"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "death-theme",
+          "label": "mortality"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadow"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "tears"
+        },
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "the sonnet sequence"
+        },
+        {
+          "type": "related",
+          "target": "robert-browning",
+          "label": "robert-browning"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "hand-imagery"
+        },
+        {
+          "type": "related",
+          "target": "heaven-imagery",
+          "label": "heaven-imagery"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "thought-imagery"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "voice-imagery",
+          "label": "voice-imagery"
+        }
+      ]
+    },
+    {
+      "id": "thought-imagery",
+      "type": "concept",
+      "label": "Thought (Imagery)",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:thought-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "Theocritus"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "EBB"
+        },
+        {
+          "type": "related",
+          "target": "heart-imagery",
+          "label": "heart"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xviii",
+          "label": "Sonnet XVIII"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxii",
+          "label": "Sonnet XXXII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxiii",
+          "label": "Sonnet XXIII"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxix",
+          "label": "Sonnet XXIX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiv",
+          "label": "Sonnet XXXIV"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxi",
+          "label": "Sonnet XXXI"
+        },
+        {
+          "type": "related",
+          "target": "shadow",
+          "label": "shadows"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "soul-theme"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "hand-imagery"
+        },
+        {
+          "type": "related",
+          "target": "heaven-imagery",
+          "label": "heaven-imagery"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        }
+      ]
+    },
+    {
+      "id": "voice-imagery",
+      "type": "concept",
+      "label": "Voice (Imagery)",
+      "description": ">",
+      "aliases": [],
+      "tags": [],
+      "quality": "featured",
+      "source_ref": "sonnets-from-the-portuguese:voice-imagery",
+      "relations": [
+        {
+          "type": "related",
+          "target": "sonnets-from-the-portuguese",
+          "label": "Sonnets from the Portuguese"
+        },
+        {
+          "type": "related",
+          "target": "love-theme",
+          "label": "love"
+        },
+        {
+          "type": "related",
+          "target": "grief-theme",
+          "label": "grief"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-i",
+          "label": "Sonnet I"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-x",
+          "label": "Sonnet X"
+        },
+        {
+          "type": "related",
+          "target": "petrarchan-sonnet-form",
+          "label": "sonnet form"
+        },
+        {
+          "type": "related",
+          "target": "music-theme",
+          "label": "song"
+        },
+        {
+          "type": "related",
+          "target": "dream",
+          "label": "vision"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-iv",
+          "label": "Sonnet IV"
+        },
+        {
+          "type": "related",
+          "target": "tear-imagery",
+          "label": "weeping"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xx",
+          "label": "Sonnet XX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxi",
+          "label": "Sonnet XXI"
+        },
+        {
+          "type": "related",
+          "target": "soul-theme",
+          "label": "spirit"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxx",
+          "label": "Sonnet XXX"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xxxiii",
+          "label": "Sonnet XXXIII"
+        },
+        {
+          "type": "related",
+          "target": "silence",
+          "label": "silence"
+        },
+        {
+          "type": "related",
+          "target": "elizabeth-barrett-browning",
+          "label": "EBB"
+        },
+        {
+          "type": "related",
+          "target": "thought-imagery",
+          "label": "thought-imagery"
+        },
+        {
+          "type": "related",
+          "target": "hand-imagery",
+          "label": "hand-imagery"
+        },
+        {
+          "type": "related",
+          "target": "theocritus",
+          "label": "theocritus"
+        },
+        {
+          "type": "related",
+          "target": "sonnet-xliii",
+          "label": "sonnet-xliii"
+        }
+      ]
+    }
+  ]
+}
