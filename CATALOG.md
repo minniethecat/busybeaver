@@ -12,6 +12,7 @@
 
 | Book | Author | Language | Year | Memes | Wiki |
 | --- | --- | --- | --- | --- | --- |
+| **资治通鉴** (Zizhi Tongjian) | 司马光 Sima Guang | 简体中文 | 1084 | 19,177 | [`kb/tongjian/`](./kb/tongjian/) |
 | **红楼梦** (Dream of the Red Chamber) | 曹雪芹 Cao Xueqin | 简体中文 | 1791 | 3,897 | [`kb/honglou/`](./kb/honglou/) |
 | **The Picture of Dorian Gray** | Oscar Wilde | English | 1890 | 452 | [`kb/the-picture-of-dorian-gray/`](./kb/the-picture-of-dorian-gray/) |
 | **Common Sense** | Baron d'Holbach | English | 1772 | 617 | [`kb/common-sense/`](./kb/common-sense/) |
@@ -30,7 +31,7 @@
 | **Alarms and Discursions** | G. K. Chesterton | English | 1910 | 314 | [`kb/alarms-and-discursions/`](./kb/alarms-and-discursions/) |
 | **The Philosophical Works of Descartes** | René Descartes | English | 1637–1649 | 307 | [`kb/philosophical-works/`](./kb/philosophical-works/) |
 
-**Totals:** 17 books · 10,262 Memes
+**Totals:** 18 books · 29,439 Memes
 
 ---
 
