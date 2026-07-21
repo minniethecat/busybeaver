@@ -1,0 +1,13 @@
+---
+id: fable-109
+label: "THE IMAGE-SELLER"
+type: chapter
+description: "A certain man made a wooden Image of Mercury, and exposed it for sale in the market."
+tags: ["chapter", "fable"]
+---
+
+## THE IMAGE-SELLER
+
+[109-001]A certain man made a wooden Image of Mercury, and exposed it for sale in the market. As no one offered to buy it, however, he thought he would try to attract a purchaser by proclaiming the virtues of the Image. So he cried up and down the market, "A god for sale! a god for sale! One who'll bring you luck and keep you lucky!" Presently one of the bystanders stopped him and said, "If your god is all you make him out to be, how is it you don't keep him and make the most of him yourself?" "I'll tell you why," replied he; "he brings gain, it is true, but he takes his time about it; whereas I want money at once."
+
+---

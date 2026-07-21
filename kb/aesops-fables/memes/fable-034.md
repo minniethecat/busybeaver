@@ -1,0 +1,13 @@
+---
+id: fable-034
+label: "THE FROGS' COMPLAINT AGAINST THE SUN"
+type: chapter
+description: "Once upon a time the Sun was about to take to himself a wife."
+tags: ["chapter", "fable"]
+---
+
+## THE FROGS' COMPLAINT AGAINST THE SUN
+
+[034-001]Once upon a time the Sun was about to take to himself a wife. The Frogs in terror all raised their voices to the skies, and Jupiter, disturbed by the noise, asked them what they were croaking about. They replied, "The Sun is bad enough even while he is single, drying up our marshes with his heat as he does. But what will become of us if he marries and begets other Suns?"
+
+---

@@ -1,0 +1,17 @@
+---
+id: fable-225
+label: "THE FISHERMAN PIPING"
+type: chapter
+description: "A Fisherman who could play the flute went down one day to the sea-shore with his nets and his flute; and, taking his stand on a projecting rock, began to pla..."
+tags: ["chapter", "fable"]
+---
+
+## THE FISHERMAN PIPING
+
+::: image pn=225-001
+![THE FISHERMAN PIPING](images/2977816755627561192_210t.jpg)
+:::
+
+[225-002]A Fisherman who could play the flute went down one day to the sea-shore with his nets and his flute; and, taking his stand on a projecting rock, began to play a tune, thinking that the music would bring the fish jumping out of the sea. He went on playing for some time, but not a fish appeared: so at last he threw down his flute and cast his net into the sea, and made a great haul of fish. When they were landed and he saw them leaping about on the shore, he cried, "You rascals! you wouldn't dance when I piped: but now I've stopped, you can do nothing else!"
+
+---

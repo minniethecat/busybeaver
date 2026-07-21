@@ -1,0 +1,15 @@
+---
+id: fable-146
+label: "THE FARMER AND THE FOX"
+type: chapter
+description: "A Farmer was greatly annoyed by a Fox, which came prowling about his yard at night and carried off his fowls."
+tags: ["chapter", "fable"]
+---
+
+## THE FARMER AND THE FOX
+
+[146-001]A Farmer was greatly annoyed by a Fox, which came prowling about his yard at night and carried off his fowls. So he set a trap for him and caught him; and in order to be revenged upon him, he tied a bunch of tow to his tail and set fire to it and let him go. As ill-luck would have it, however, the Fox made straight for the fields where the corn was standing ripe and ready for cutting. It quickly caught fire and was all burnt up, and the Farmer lost all his harvest.
+
+[146-002]Revenge is a two-edged sword.
+
+---

@@ -1,0 +1,13 @@
+---
+id: fable-233
+label: "THE ROSE AND THE AMARANTH"
+type: chapter
+description: "A Rose and an Amaranth blossomed side by side in a garden, and the Amaranth said to her neighbour, \"How I envy you your beauty and your sweet scent! No wonde..."
+tags: ["chapter", "fable"]
+---
+
+## THE ROSE AND THE AMARANTH
+
+[233-001]A Rose and an Amaranth blossomed side by side in a garden, and the Amaranth said to her neighbour, "How I envy you your beauty and your sweet scent! No wonder you are such a universal favourite." But the Rose replied with a shade of sadness in her voice, "Ah, my dear friend, I bloom but for a time: my petals soon wither and fall, and then I die. But your flowers never fade, even if they are cut; for they are everlasting."
+
+---

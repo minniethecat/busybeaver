@@ -1,0 +1,13 @@
+---
+id: fable-082
+label: "THE KID ON THE HOUSETOP"
+type: chapter
+description: "A Kid climbed up on to the roof of an outhouse, attracted by the grass and other things that grew in the thatch; and as he stood there browsing away, he caug..."
+tags: ["chapter", "fable"]
+---
+
+## THE KID ON THE HOUSETOP
+
+[082-001]A Kid climbed up on to the roof of an outhouse, attracted by the grass and other things that grew in the thatch; and as he stood there browsing away, he caught sight of a Wolf passing below, and jeered at him because he couldn't reach him. The Wolf only looked up and said, "I hear you, my young friend; but it is not you who mock me, but the roof on which you are standing."
+
+---

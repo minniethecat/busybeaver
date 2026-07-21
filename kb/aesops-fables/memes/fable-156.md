@@ -1,0 +1,17 @@
+---
+id: fable-156
+label: "THE GRASSHOPPER AND THE ANTS"
+type: chapter
+description: "One fine day in winter some Ants were busy drying their store of corn, which had got rather damp during a long spell of rain."
+tags: ["chapter", "fable"]
+---
+
+## THE GRASSHOPPER AND THE ANTS
+
+[156-001]One fine day in winter some Ants were busy drying their store of corn, which had got rather damp during a long spell of rain. Presently up came a Grasshopper and begged them to spare her a few grains, "For," she said, "I'm simply starving." The Ants stopped work for a moment, though this was against their principles. "May we ask," said they, "what you were doing with yourself all last summer? Why didn't you collect a store of food for the winter?" "The fact is," replied the Grasshopper, "I was so busy singing that I hadn't the time." "If you spent the summer singing," replied the Ants, "you can't do better than spend the winter dancing." And they chuckled and went on with their work.
+
+::: image pn=156-002
+![THE GRASSHOPPER AND THE ANTS](images/2977816755627561192_154.jpg)
+:::
+
+---

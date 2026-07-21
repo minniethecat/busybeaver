@@ -1,0 +1,13 @@
+---
+id: fable-228
+label: "DEMADES AND HIS FABLE"
+type: chapter
+description: "Demades the orator was once speaking in the Assembly at Athens; but the people were very inattentive to what he was saying, so he stopped and said, \"Gentleme..."
+tags: ["chapter", "fable"]
+---
+
+## DEMADES AND HIS FABLE
+
+[228-001]Demades the orator was once speaking in the Assembly at Athens; but the people were very inattentive to what he was saying, so he stopped and said, "Gentlemen, I should like to tell you one of Aesop's fables." This made every one listen intently. Then Demades began: "Demeter, a Swallow, and an Eel were once travelling together, and came to a river without a bridge: the Swallow flew over it, and the Eel swam across"; and then he stopped. "What happened to Demeter?" cried several people in the audience. "Demeter," he replied, "is very angry with you for listening to fables when you ought to be minding public business."
+
+---

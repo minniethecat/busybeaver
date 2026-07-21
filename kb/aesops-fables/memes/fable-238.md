@@ -1,0 +1,17 @@
+---
+id: fable-238
+label: "THE WOLF AND HIS SHADOW"
+type: chapter
+description: "A Wolf, who was roaming about on the plain when the sun was getting low in the sky, was much impressed by the size of his shadow, and said to himself, \"I had..."
+tags: ["chapter", "fable"]
+---
+
+## THE WOLF AND HIS SHADOW
+
+::: image pn=238-001
+![THE WOLF AND HIS SHADOW](images/2977816755627561192_220.jpg)
+:::
+
+[238-002]A Wolf, who was roaming about on the plain when the sun was getting low in the sky, was much impressed by the size of his shadow, and said to himself, "I had no idea I was so big. Fancy my being afraid of a lion! Why, I, not he, ought to be King of the beasts"; and, heedless of danger, he strutted about as if there could be no doubt at all about it. Just then a lion sprang upon him and began to devour him. "Alas," he cried, "had I not lost sight of the facts, I shouldn't have been ruined by my fancies."
+
+---

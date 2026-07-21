@@ -1,0 +1,13 @@
+---
+id: fable-140
+label: "THE HARE AND THE HOUND"
+type: chapter
+description: "A Hound started a Hare from her form, and pursued her for some distance; but as she gradually gained upon him, he gave up the chase."
+tags: ["chapter", "fable"]
+---
+
+## THE HARE AND THE HOUND
+
+[140-001]A Hound started a Hare from her form, and pursued her for some distance; but as she gradually gained upon him, he gave up the chase. A rustic who had seen the race met the Hound as he was returning, and taunted him with his defeat. "The little one was too much for you," said he. "Ah, well," said the Hound, "don't forget it's one thing to be running for your dinner, but quite another to be running for your life."
+
+---

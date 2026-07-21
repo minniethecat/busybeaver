@@ -1,0 +1,13 @@
+---
+id: fable-169
+label: "THE MAN AND HIS TWO SWEETHEARTS"
+type: chapter
+description: "A Man of middle age, whose hair was turning grey, had two Sweethearts, an old woman and a young one."
+tags: ["chapter", "fable"]
+---
+
+## THE MAN AND HIS TWO SWEETHEARTS
+
+[169-001]A Man of middle age, whose hair was turning grey, had two Sweethearts, an old woman and a young one. The elder of the two didn't like having a lover who looked so much younger than herself; so, whenever he came to see her, she used to pull the dark hairs out of his head to make him look old. The younger, on the other hand, didn't like him to look so much older than herself, and took every opportunity of pulling out the grey hairs, to make him look young. Between them, they left not a hair in his head, and he became perfectly bald.
+
+---

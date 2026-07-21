@@ -1,0 +1,13 @@
+---
+id: fable-057
+label: "JUPITER AND THE MONKEY"
+type: chapter
+description: "Jupiter issued a proclamation to all the beasts, and offered a prize to the one who, in his judgment, produced the most beautiful offspring."
+tags: ["chapter", "fable"]
+---
+
+## JUPITER AND THE MONKEY
+
+[057-001]Jupiter issued a proclamation to all the beasts, and offered a prize to the one who, in his judgment, produced the most beautiful offspring. Among the rest came the Monkey, carrying a baby monkey in her arms, a hairless, flat-nosed little fright. When they saw it, the gods all burst into peal on peal of laughter; but the Monkey hugged her little one to her, and said, "Jupiter may give the prize to whomsoever he likes: but I shall always think my baby the most beautiful of them all."
+
+---

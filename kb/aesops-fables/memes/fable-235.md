@@ -1,0 +1,13 @@
+---
+id: fable-235
+label: "THE WOLVES, THE SHEEP, AND THE RAM"
+type: chapter
+description: "The Wolves sent a deputation to the Sheep with proposals for a lasting peace between them, on condition of their giving up the sheep-dogs to instant death."
+tags: ["chapter", "fable"]
+---
+
+## THE WOLVES, THE SHEEP, AND THE RAM
+
+[235-001]The Wolves sent a deputation to the Sheep with proposals for a lasting peace between them, on condition of their giving up the sheep-dogs to instant death. The foolish Sheep agreed to the terms; but an old Ram, whose years had brought him wisdom, interfered and said, "How can we expect to live at peace with you? Why, even with the dogs at hand to protect us, we are never secure from your murderous attacks!"
+
+---

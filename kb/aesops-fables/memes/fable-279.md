@@ -1,0 +1,13 @@
+---
+id: fable-279
+label: "PROMETHEUS AND THE MAKING OF MAN"
+type: chapter
+description: "At the bidding of Jupiter, Prometheus set about the creation of Man and the other animals."
+tags: ["chapter", "fable"]
+---
+
+## PROMETHEUS AND THE MAKING OF MAN
+
+[279-001]At the bidding of Jupiter, Prometheus set about the creation of Man and the other animals. Jupiter, seeing that Mankind, the only rational creatures, were far outnumbered by the irrational beasts, bade him redress the balance by turning some of the latter into men. Prometheus did as he was bidden, and this is the reason why some people have the forms of men but the souls of beasts.
+
+---

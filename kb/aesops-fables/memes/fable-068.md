@@ -1,0 +1,13 @@
+---
+id: fable-068
+label: "THE BOY AND THE NETTLES"
+type: chapter
+description: "A Boy was gathering berries from a hedge when his hand was stung by a Nettle."
+tags: ["chapter", "fable"]
+---
+
+## THE BOY AND THE NETTLES
+
+[068-001]A Boy was gathering berries from a hedge when his hand was stung by a Nettle. Smarting with the pain, he ran to tell his mother, and said to her between his sobs, "I only touched it ever so lightly, mother." "That's just why you got stung, my son," she said; "if you had grasped it firmly, it wouldn't have hurt you in the least."
+
+---

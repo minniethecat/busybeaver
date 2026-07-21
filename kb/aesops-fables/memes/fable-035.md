@@ -1,0 +1,13 @@
+---
+id: fable-035
+label: "THE DOG, THE COCK, AND THE FOX"
+type: chapter
+description: "A Dog and a Cock became great friends, and agreed to travel together."
+tags: ["chapter", "fable"]
+---
+
+## THE DOG, THE COCK, AND THE FOX
+
+[035-001]A Dog and a Cock became great friends, and agreed to travel together. At nightfall the Cock flew up into the branches of a tree to roost, while the Dog curled himself up inside the trunk, which was hollow. At break of day the Cock woke up and crew, as usual. A Fox heard, and, wishing to make a breakfast of him, came and stood under the tree and begged him to come down. "I should so like," said he, "to make the acquaintance of one who has such a beautiful voice." The Cock replied, "Would you just wake my porter who sleeps at the foot of the tree? He'll open the door and let you in." The Fox accordingly rapped on the trunk, when out rushed the Dog and tore him in pieces.
+
+---

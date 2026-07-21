@@ -1,0 +1,21 @@
+---
+id: fable-076
+label: "THE FROGS ASKING FOR A KING"
+type: chapter
+description: "Time was when the Frogs were discontented because they had no one to rule over them: so they sent a deputation to Jupiter to ask him to give them a King."
+tags: ["chapter", "fable"]
+---
+
+## THE FROGS ASKING FOR A KING
+
+::: image pn=076-001
+![KING LOG](images/2977816755627561192_092t.jpg)
+:::
+
+[076-002]Time was when the Frogs were discontented because they had no one to rule over them: so they sent a deputation to Jupiter to ask him to give them a King. Jupiter, despising the folly of their request, cast a log into the pool where they lived, and said that that should be their King. The Frogs were terrified at first by the splash, and scuttled away into the deepest parts of the pool; but by and by, when they saw that the log remained motionless, one by one they ventured to the surface again, and before long, growing bolder, they began to feel such contempt for it that they even took to sitting upon it. Thinking that a King of that sort was an insult to their dignity, they sent to Jupiter a second time, and begged him to take away the sluggish King he had given them, and to give them another and a better one. Jupiter, annoyed at being pestered in this way, sent a Stork to rule over them, who no sooner arrived among them than he began to catch and eat the Frogs as fast as he could.
+
+::: image pn=076-003
+![THE FROGS ASKING FOR A KING](images/2977816755627561192_091.jpg)
+:::
+
+---

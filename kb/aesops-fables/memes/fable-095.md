@@ -1,0 +1,13 @@
+---
+id: fable-095
+label: "MERCURY AND THE TRADESMEN"
+type: chapter
+description: "When Jupiter was creating man, he told Mercury to make an infusion of lies, and to add a little of it to the other ingredients which went to the making of th..."
+tags: ["chapter", "fable"]
+---
+
+## MERCURY AND THE TRADESMEN
+
+[095-001]When Jupiter was creating man, he told Mercury to make an infusion of lies, and to add a little of it to the other ingredients which went to the making of the Tradesmen. Mercury did so, and introduced an equal amount into each in turn—the tallow-chandler, and the greengrocer, and the haberdasher, and all, till he came to the horse-dealer, who was last on the list, when, finding that he had a quantity of the infusion still left, he put it all into him. This is why all Tradesmen lie more or less, but they none of them lie like a horse-dealer.
+
+---

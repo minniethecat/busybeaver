@@ -1,0 +1,15 @@
+---
+id: fable-002
+label: "THE GOOSE THAT LAID THE GOLDEN EGGS"
+type: chapter
+description: "A Man and his Wife had the good fortune to possess a Goose which laid a Golden Egg every day."
+tags: ["chapter", "fable"]
+---
+
+## THE GOOSE THAT LAID THE GOLDEN EGGS
+
+[002-001]A Man and his Wife had the good fortune to possess a Goose which laid a Golden Egg every day. Lucky though they were, they soon began to think they were not getting rich fast enough, and, imagining the bird must be made of gold inside, they decided to kill it in order to secure the whole store of precious metal at once. But when they cut it open they found it was just like any other goose. Thus, they neither got rich all at once, as they had hoped, nor enjoyed any longer the daily addition to their wealth.
+
+[002-002]Much wants more and loses all.
+
+---

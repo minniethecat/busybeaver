@@ -1,0 +1,13 @@
+---
+id: fable-227
+label: "THE PLOUGHMAN, THE ASS, AND THE OX"
+type: chapter
+description: "A Ploughman yoked his Ox and his Ass together, and set to work to plough his field."
+tags: ["chapter", "fable"]
+---
+
+## THE PLOUGHMAN, THE ASS, AND THE OX
+
+[227-001]A Ploughman yoked his Ox and his Ass together, and set to work to plough his field. It was a poor makeshift of a team, but it was the best he could do, as he had but a single Ox. At the end of the day, when the beasts were loosed from the yoke, the Ass said to the Ox, "Well, we've had a hard day: which of us is to carry the master home?" The Ox looked surprised at the question. "Why," said he, "you, to be sure, as usual."
+
+---

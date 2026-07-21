@@ -1,0 +1,13 @@
+---
+id: fable-177
+label: "THE SICK STAG"
+type: chapter
+description: "A Stag fell sick and lay in a clearing in the forest, too weak to move from the spot."
+tags: ["chapter", "fable"]
+---
+
+## THE SICK STAG
+
+[177-001]A Stag fell sick and lay in a clearing in the forest, too weak to move from the spot. When the news of his illness spread, a number of the other beasts came to inquire after his health, and they one and all nibbled a little of the grass that grew round the invalid till at last there was not a blade within his reach. In a few days he began to mend, but was still too feeble to get up and go in search of fodder; and thus he perished miserably of hunger owing to the thoughtlessness of his friends.
+
+---

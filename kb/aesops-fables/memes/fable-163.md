@@ -1,0 +1,17 @@
+---
+id: fable-163
+label: "THE ASS AND THE WOLF"
+type: chapter
+description: "An Ass was feeding in a meadow, and, catching sight of his enemy the Wolf in the distance, pretended to be very lame and hobbled painfully along."
+tags: ["chapter", "fable"]
+---
+
+## THE ASS AND THE WOLF
+
+[163-001]An Ass was feeding in a meadow, and, catching sight of his enemy the Wolf in the distance, pretended to be very lame and hobbled painfully along. When the Wolf came up, he asked the Ass how he came to be so lame, and the Ass replied that in going through a hedge he had trodden on a thorn, and he begged the Wolf to pull it out with his teeth, "In case," he said, "when you eat me, it should stick in your throat and hurt you very much." The Wolf said he would, and told the Ass to lift up his foot, and gave his whole mind to getting out the thorn. But the Ass suddenly let out with his heels and fetched the Wolf a fearful kick in the mouth, breaking his teeth; and then he galloped off at full speed. As soon as he could speak the Wolf growled to himself, "It serves me right: my father taught me to kill, and I ought to have stuck to that trade instead of attempting to cure."
+
+---
+
+::: image pn=163-002
+![THE MONKEY AND THE CAMEL](images/2977816755627561192_160.jpg)
+:::

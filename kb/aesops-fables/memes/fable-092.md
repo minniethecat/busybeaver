@@ -1,0 +1,15 @@
+---
+id: fable-092
+label: "THE BLACKSMITH AND HIS DOG"
+type: chapter
+description: "A Blacksmith had a little Dog, which used to sleep when his master was at work, but was very wide awake indeed when it was time for meals."
+tags: ["chapter", "fable"]
+---
+
+## THE BLACKSMITH AND HIS DOG
+
+[092-001]A Blacksmith had a little Dog, which used to sleep when his master was at work, but was very wide awake indeed when it was time for meals. One day his master pretended to be disgusted at this, and when he had thrown him a bone as usual, he said, "What on earth is the good of a lazy cur like you? When I am hammering away at my anvil, you just curl up and go to sleep: but no sooner do I stop for a mouthful of food than you wake up and wag your tail to be fed."
+
+[092-002]Those who will not work deserve to starve.
+
+---

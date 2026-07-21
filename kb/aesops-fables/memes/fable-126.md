@@ -1,0 +1,13 @@
+---
+id: fable-126
+label: "THE OLD HOUND"
+type: chapter
+description: "A Hound who had served his master well for years, and had run down many a quarry in his time, began to lose his strength and speed owing to age."
+tags: ["chapter", "fable"]
+---
+
+## THE OLD HOUND
+
+[126-001]A Hound who had served his master well for years, and had run down many a quarry in his time, began to lose his strength and speed owing to age. One day, when out hunting, his master started a powerful wild boar and set the Hound at him. The latter seized the beast by the ear, but his teeth were gone and he could not retain his hold; so the boar escaped. His master began to scold him severely, but the Hound interrupted him with these words: "My will is as strong as ever, master, but my body is old and feeble. You ought to honour me for what I have been instead of abusing me for what I am."
+
+---

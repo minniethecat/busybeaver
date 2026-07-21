@@ -1,0 +1,13 @@
+---
+id: fable-164
+label: "THE MONKEY AND THE CAMEL"
+type: chapter
+description: "At a gathering of all the beasts the Monkey gave an exhibition of dancing and entertained the company vastly."
+tags: ["chapter", "fable"]
+---
+
+## THE MONKEY AND THE CAMEL
+
+[164-001]At a gathering of all the beasts the Monkey gave an exhibition of dancing and entertained the company vastly. There was great applause at the finish, which excited the envy of the Camel and made him desire to win the favour of the assembly by the same means. So he got up from his place and began dancing, but he cut such a ridiculous figure as he plunged about, and made such a grotesque exhibition of his ungainly person, that the beasts all fell upon him with ridicule and drove him away.
+
+---

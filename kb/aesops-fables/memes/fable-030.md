@@ -1,0 +1,13 @@
+---
+id: fable-030
+label: "THE DOLPHINS, THE WHALES, AND THE SPRAT"
+type: chapter
+description: "The Dolphins quarrelled with the Whales, and before very long they began fighting with one another."
+tags: ["chapter", "fable"]
+---
+
+## THE DOLPHINS, THE WHALES, AND THE SPRAT
+
+[030-001]The Dolphins quarrelled with the Whales, and before very long they began fighting with one another. The battle was very fierce, and had lasted some time without any sign of coming to an end, when a Sprat thought that perhaps he could stop it; so he stepped in and tried to persuade them to give up fighting and make friends. But one of the Dolphins said to him contemptuously, "We would rather go on fighting till we're all killed than be reconciled by a Sprat like you!"
+
+---

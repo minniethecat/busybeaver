@@ -1,0 +1,15 @@
+---
+id: fable-243
+label: "THE STAG AND THE LION"
+type: chapter
+description: "A Stag was chased by the hounds, and took refuge in a cave, where he hoped to be safe from his pursuers."
+tags: ["chapter", "fable"]
+---
+
+## THE STAG AND THE LION
+
+[243-001]A Stag was chased by the hounds, and took refuge in a cave, where he hoped to be safe from his pursuers. Unfortunately the cave contained a Lion, to whom he fell an easy prey. "Unhappy that I am," he cried, "I am saved from the power of the dogs only to fall into the clutches of a Lion."
+
+[243-002]Out of the frying-pan into the fire.
+
+---

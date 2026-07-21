@@ -1,0 +1,15 @@
+---
+id: fable-080
+label: "THE MAN AND THE LION"
+type: chapter
+description: "A Man and a Lion were companions on a journey, and in the course of conversation they began to boast about their prowess, and each claimed to be superior to ..."
+tags: ["chapter", "fable"]
+---
+
+## THE MAN AND THE LION
+
+[080-001]A Man and a Lion were companions on a journey, and in the course of conversation they began to boast about their prowess, and each claimed to be superior to the other in strength and courage. They were still arguing with some heat when they came to a cross-road where there was a statue of a Man strangling a Lion. "There!" said the Man triumphantly, "look at that! Doesn't that prove to you that we are stronger than you?" "Not so fast, my friend," said the Lion: "that is only your view of the case. If we Lions could make statues, you may be sure that in most of them you would see the Man underneath."
+
+[080-002]There are two sides to every question.
+
+---

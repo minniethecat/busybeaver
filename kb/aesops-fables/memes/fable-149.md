@@ -1,0 +1,15 @@
+---
+id: fable-149
+label: "THE STAG WITH ONE EYE"
+type: chapter
+description: "A Stag, blind of one eye, was grazing close to the sea-shore and kept his sound eye turned towards the land, so as to be able to perceive the approach of the..."
+tags: ["chapter", "fable"]
+---
+
+## THE STAG WITH ONE EYE
+
+[149-001]A Stag, blind of one eye, was grazing close to the sea-shore and kept his sound eye turned towards the land, so as to be able to perceive the approach of the hounds, while the blind eye he turned towards the sea, never suspecting that any danger would threaten him from that quarter. As it fell out, however, some sailors, coasting along the shore, spied him and shot an arrow at him, by which he was mortally wounded. As he lay dying, he said to himself, "Wretch that I am! I bethought me of the dangers of the land, whence none assailed me: but I feared no peril from the sea, yet thence has come my ruin."
+
+[149-002]Misfortune often assails us from an unexpected quarter.
+
+---

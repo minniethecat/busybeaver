@@ -1,0 +1,15 @@
+---
+id: fable-188
+label: "THE LABOURER AND THE SNAKE"
+type: chapter
+description: "A Labourer's little son was bitten by a Snake and died of the wound."
+tags: ["chapter", "fable"]
+---
+
+## THE LABOURER AND THE SNAKE
+
+[188-001]A Labourer's little son was bitten by a Snake and died of the wound. The father was beside himself with grief, and in his anger against the Snake he caught up an axe and went and stood close to the Snake's hole, and watched for a chance of killing it. Presently the Snake came out, and the man aimed a blow at it, but only succeeded in cutting off the tip of its tail before it wriggled in again. He then tried to get it to come out a second time, pretending that he wished to make up the quarrel. But the Snake said, "I can never be your friend because of my lost tail, nor you mine because of your lost child."
+
+[188-002]Injuries are never forgotten in the presence of those who caused them.
+
+---
