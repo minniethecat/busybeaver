@@ -8,6 +8,8 @@
 
 **~500 books · ~50,000 Memes · every assertion traceable to its source**
 
+<sub>🌐 This README is offered in several major languages. The **English version (this document) is the official one.**</sub>
+
 </div>
 
 ---
@@ -135,6 +137,10 @@ Whatever path you choose, the PN provenance travels with the knowledge, so your 
 | **Next milestone** | 10,000 books |
 
 **We update this knowledge base continuously — new books are added every day.** Our goal is to eventually include every book that matters most to human civilization. This dump is a snapshot along the way.
+
+### 🌍 A multilingual knowledge base
+
+BusyBeaver is built to be **international**. The initial corpus is primarily **English and Chinese**, and we will keep adding the world's major languages over time — because the classics that shaped human civilization were not written in any single tongue.
 
 ### 📚 Request a book
 
