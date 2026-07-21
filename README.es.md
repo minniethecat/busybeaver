@@ -6,7 +6,7 @@
 
 *Los grandes libros del mundo, descompuestos en conocimiento trazable y componible — construido para agentes de IA, no solo para humanos.*
 
-**Más de 50.000 Memes y creciendo cada día · destilados de los libros clásicos de la humanidad · cada afirmación trazable hasta su fuente**
+**Una base de conocimiento en constante crecimiento — en evolución, verificable, destilada de los clásicos de la humanidad**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · **Español** · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 
@@ -90,6 +90,17 @@ Como cada Meme es pequeño, autodescriptivo y anclado a su fuente, los Memes son
 
 ---
 
+## 📦 Conmutación de paquetes para el conocimiento
+
+Cada salto en la infraestructura global surgió de una nueva **unidad de intercambio**:
+
+- La **conmutación de paquetes de datos** dividió la información en pequeños paquetes enrutables — y nos dio **Internet**.
+- El **transporte en contenedores** dividió la carga en cajas estándar e intercambiables — y globalizó el **comercio**.
+
+El **Meme es esa unidad para el conocimiento**: un paquete pequeño, autodescriptivo y anclado a su fuente, que puede enrutarse, intercambiarse, agregarse y recombinarse entre sistemas y organizaciones. Hacer que funcione la **conmutación de paquetes de conocimiento** es como pensamos construir una **infraestructura global de conocimiento**.
+
+---
+
 ## ¿Por qué una base de conocimiento y no solo texto crudo?
 
 Si los agentes pueden leer, ¿por qué no simplemente darles los libros? Porque BusyBeaver te da dos cosas que el texto crudo no puede:
@@ -130,6 +141,16 @@ Sea cual sea el camino que elijas, la procedencia del PN viaja con el conocimien
 
 ---
 
+## 🛠️ ¿Qué puedes hacer con BusyBeaver?
+
+- **Crear obra nueva a partir de él.** Usa el conocimiento como material para una *creación secundaria*: tu blog, presentaciones, novelas, guiones, artículos, cómics, vídeos y más.
+- **Dar contexto experto a tu agent.** Aliméntalo con un conjunto seleccionado de temas para que se convierta en un verdadero experto en una materia.
+- **Entrenar tus modelos.** Entrena sobre Memes estructurados: más eficiente y mucho más ahorrador de tokens que leer texto crudo.
+- **Hacer crecer tu propia KB.** Usa BusyBeaver como capa de conocimiento fundamental para sembrar y ampliar tu propia base de conocimiento (por ejemplo, tu wiki).
+- **Integrar y descubrir.** Como el conocimiento es *consultable*, puedes hacer integración de datos basada en conocimiento — y usar consultas para fabricar serendipia, revelando conexiones que no sabías que buscabas.
+
+---
+
 ## Estado y hoja de ruta
 
 | | |
@@ -163,6 +184,16 @@ BusyBeaver es el corpus. Alrededor de él estamos construyendo:
 En esta base de conocimiento pública publicamos **únicamente conocimiento derivado de libros libres de derechos de autor** (dominio público). Esto mantiene el volcado limpio para compartir y seguro para construir sobre él.
 
 ¿Tienes **material con derechos de autor** propio que te gustaría convertir en una KB nativa para agentes? Para eso está el servicio **Cualquier contenido → wiki** (ver **Lo que viene**). ¿Interés temprano? Contáctanos: **minnie.sew.da@gmail.com**.
+
+---
+
+## 🚀 Tu conocimiento, memificado
+
+BusyBeaver es solo el comienzo. Nuestro plan es ayudarte a convertir *tu propio* conocimiento — **tanto tus notas personales como el saber de tu empresa** — en el mismo tipo de KB: **distribuible, componible y fácil de consumir para los agents.**
+
+Y sigue siendo **tuyo, bajo tu control.** Da a cada Meme una **visibilidad** distinta: mantén algunos privados, comparte otros con tu equipo, publica otros para el mundo. Distribuye tu conocimiento **de forma selectiva, a audiencias específicas — o incluso véndelo**, Meme a Meme.
+
+Los clásicos son nuestro punto de partida. La visión mayor es una economía abierta y federada de conocimiento confiable y nativo para agents — y tu conocimiento tiene un lugar en ella.
 
 ---
 

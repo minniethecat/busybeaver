@@ -6,7 +6,7 @@
 
 *Die großen Bücher der Welt, aufgebrochen in nachvollziehbares, komponierbares Wissen — gebaut für KI-Agenten, nicht nur für Menschen.*
 
-**Über 50.000 Memes, täglich wachsend · destilliert aus den klassischen Büchern der Menschheit · jede Aussage bis zu ihrer Quelle rückverfolgbar**
+**Eine kontinuierlich wachsende Wissensbasis — sich weiterentwickelnd, überprüfbar, destilliert aus den Klassikern der Menschheit**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · **Deutsch** · [日本語](./README.ja.md)</sub>
 
@@ -90,6 +90,17 @@ Weil jedes Meme klein, selbstbeschreibend und quellenverankert ist, sind Memes *
 
 ---
 
+## 📦 Paketvermittlung für Wissen
+
+Jeder Sprung in der globalen Infrastruktur entstand aus einer neuen **Austauscheinheit**:
+
+- Die **Paketvermittlung von Daten** zerlegte Information in kleine, routbare Pakete — und schenkte uns das **Internet**.
+- Der **Containertransport** zerlegte Fracht in standardisierte, austauschbare Boxen — und globalisierte den **Handel**.
+
+Das **Meme ist diese Einheit für Wissen**: ein kleines, selbstbeschreibendes, an seine Quelle gebundenes Paket, das über Systeme und Organisationen hinweg geroutet, ausgetauscht, aggregiert und neu kombiniert werden kann. Die **Paketvermittlung von Wissen** zum Laufen zu bringen — so wollen wir eine **globale Wissensinfrastruktur** aufbauen.
+
+---
+
 ## Warum eine Wissensbasis, nicht einfach Rohtext?
 
 Wenn Agenten lesen können, warum ihnen dann nicht einfach die Bücher füttern? Weil BusyBeaver zwei Dinge bietet, die Rohtext nicht kann:
@@ -130,6 +141,16 @@ Welchen Weg Sie auch wählen, die PN-Provenienz reist mit dem Wissen mit, sodass
 
 ---
 
+## 🛠️ Was können Sie mit BusyBeaver tun?
+
+- **Neues daraus erschaffen.** Nutzen Sie das Wissen als Rohstoff für *Zweitschöpfungen*: Ihren Blog, Präsentationen, Romane, Drehbücher, Aufsätze, Comics, Videos und mehr.
+- **Ihrem Agenten Experten-Kontext geben.** Füttern Sie ihn mit einer ausgewählten Menge an Themen, damit er zu einem echten Experten für eine Sache wird.
+- **Ihre Modelle trainieren.** Trainieren Sie auf strukturierten Memes — effizienter und weit token-sparsamer als das Lesen von Rohtext.
+- **Ihre eigene KB wachsen lassen.** Nutzen Sie BusyBeaver als grundlegende Wissensschicht, um Ihre eigene Wissensbasis (etwa Ihr Wiki) zu säen und auszubauen.
+- **Integrieren und entdecken.** Weil das Wissen *abfragbar* ist, können Sie wissensbasierte Datenintegration betreiben — und mit Abfragen Serendipität erzeugen, indem Sie Verbindungen aufdecken, nach denen Sie gar nicht gesucht haben.
+
+---
+
 ## Status & Fahrplan
 
 | | |
@@ -163,6 +184,16 @@ Gibt es einen Klassiker, den Sie besonders gerne memifiziert sehen würden? **Wi
 In dieser öffentlichen Wissensbasis veröffentlichen wir **nur Wissen, das aus urheberrechtsfreien Büchern stammt** (gemeinfrei). Das hält den Dump sauber teilbar und sicher, um darauf aufzubauen.
 
 Haben Sie eigenes **urheberrechtlich geschütztes Material**, das Sie in eine agentennative Wissensbasis verwandeln möchten? Dafür ist der Dienst **Beliebiger Inhalt → Wiki** (siehe **Was als Nächstes kommt**) gedacht. Frühes Interesse? Melden Sie sich: **minnie.sew.da@gmail.com**.
+
+---
+
+## 🚀 Ihr Wissen, memifiziert
+
+BusyBeaver ist erst der Anfang. Wir wollen **Ihnen** helfen, *Ihr eigenes* Wissen — **persönliche Notizen wie auch Unternehmens-Know-how** — in dieselbe Art von KB zu verwandeln: **verteilbar, kombinierbar und mühelos von Agenten konsumierbar.**
+
+Und es bleibt **unter Ihrer Kontrolle.** Geben Sie einzelnen Memes unterschiedliche **Sichtbarkeit** — halten Sie manche privat, teilen Sie andere mit Ihrem Team, veröffentlichen Sie wieder andere für die ganze Welt. Verbreiten Sie Ihr Wissen **gezielt, an bestimmte Zielgruppen — oder verkaufen Sie es sogar**, Meme für Meme.
+
+Die Klassiker sind unser Anfang. Die größere Vision ist eine offene, föderierte Ökonomie vertrauenswürdigen, agenten-nativen Wissens — und Ihr Wissen hat darin seinen Platz.
 
 ---
 

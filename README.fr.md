@@ -6,7 +6,7 @@
 
 *Les grands livres du monde, décomposés en connaissances traçables et composables — conçus pour les agents IA, pas seulement pour les humains.*
 
-**Plus de 50 000 Memes, en croissance chaque jour · distillés des grands livres classiques de l'humanité · chaque affirmation traçable jusqu'à sa source**
+**Une base de connaissances en croissance continue — évolutive, vérifiable, distillée des classiques de l'humanité**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · [Español](./README.es.md) · **Français** · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 
@@ -90,6 +90,17 @@ Parce que chaque Meme est petit, auto-descriptif et ancré dans sa source, les M
 
 ---
 
+## 📦 La commutation de paquets pour le savoir
+
+Chaque bond de l'infrastructure mondiale est né d'une nouvelle **unité d'échange** :
+
+- La **commutation de paquets de données** a découpé l'information en petits paquets routables — et nous a donné l'**Internet**.
+- Le **transport par conteneurs** a découpé les marchandises en boîtes standardisées et interchangeables — et a mondialisé le **commerce**.
+
+Le **Meme est cette unité pour le savoir** : un paquet petit, auto-descriptif et ancré à sa source, qui peut être routé, échangé, agrégé et recombiné entre systèmes et organisations. Faire fonctionner la **commutation de paquets de savoir**, c'est ainsi que nous entendons bâtir une **infrastructure mondiale du savoir**.
+
+---
+
 ## Pourquoi une base de connaissances, et pas simplement du texte brut ?
 
 Si les agents savent lire, pourquoi ne pas simplement leur fournir les livres ? Parce que BusyBeaver offre deux choses que le texte brut ne peut pas offrir :
@@ -130,6 +141,16 @@ Quelle que soit la voie choisie, la provenance PN voyage avec la connaissance, d
 
 ---
 
+## 🛠️ Que pouvez-vous faire avec BusyBeaver ?
+
+- **Créer de nouvelles œuvres à partir de lui.** Utilisez le savoir comme matière première pour une *création secondaire* : votre blog, des présentations, des romans, des scénarios, des articles, des bandes dessinées, des vidéos, et plus encore.
+- **Donner un contexte expert à votre agent.** Nourrissez-le d'un ensemble de sujets choisis pour qu'il devienne un véritable expert d'un domaine.
+- **Entraîner vos modèles.** Entraînez sur des Memes structurés : plus efficace et bien plus économe en tokens que lire du texte brut.
+- **Faire grandir votre propre KB.** Utilisez BusyBeaver comme couche de savoir fondamentale pour amorcer et étendre votre propre base de connaissances (votre wiki, par exemple).
+- **Intégrer et découvrir.** Parce que le savoir est *interrogeable*, vous pouvez faire de l'intégration de données fondée sur le savoir — et utiliser des requêtes pour fabriquer de la sérendipité, en révélant des liens que vous ne cherchiez pas.
+
+---
+
 ## Statut et feuille de route
 
 | | |
@@ -163,6 +184,16 @@ Y a-t-il un classique que vous aimeriez tout particulièrement voir memifié ? *
 Dans cette base de connaissances publique, nous ne publions **que des connaissances issues de livres libres de droits** (domaine public). Cela garantit que le dump reste propre à partager et sûr pour bâtir dessus.
 
 Vous disposez de **matériel protégé par le droit d'auteur** que vous aimeriez transformer en une base de connaissances native pour agents ? C'est à cela que sert le service **Tout contenu → wiki** (voir **Ce qui s'en vient**). Intéressé dès maintenant ? Contactez-nous : **minnie.sew.da@gmail.com**.
+
+---
+
+## 🚀 Votre savoir, memifié
+
+BusyBeaver n'est qu'un début. Notre plan : vous aider à transformer *votre propre* savoir — **vos notes personnelles comme le savoir-faire de votre entreprise** — en une KB du même type : **distribuable, composable et facile à consommer pour les agents.**
+
+Et il reste **le vôtre, sous votre contrôle.** Donnez à chaque Meme une **visibilité** différente : gardez-en certains privés, partagez-en d'autres avec votre équipe, publiez-en d'autres pour le monde entier. Diffusez votre savoir **de façon ciblée, à des publics précis — ou même vendez-le**, Meme par Meme.
+
+Les classiques sont notre point de départ. La vision plus large : une économie ouverte et fédérée de savoir fiable et nativement pensé pour les agents — et votre savoir y a toute sa place.
 
 ---
 

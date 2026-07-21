@@ -6,7 +6,7 @@
 
 *The world's great books, broken down into traceable, composable knowledge — built for AI agents, not just for humans.*
 
-**50,000+ Memes and growing every day · distilled from humanity's classic books · every assertion traceable to its source**
+**A continuously growing knowledge base — evolving, verifiable, distilled from humanity's classics**
 
 <sub>🌐 **English (official)** · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 
@@ -90,6 +90,17 @@ Because every Meme is small, self-describing, and source-anchored, Memes are **d
 
 ---
 
+## 📦 Packet-switching for knowledge
+
+Every leap in global infrastructure came from a new **unit of exchange**:
+
+- **Data packet-switching** broke information into small, routable packets — and gave us the **Internet**.
+- **Container shipping** broke cargo into standard, interchangeable boxes — and globalized **trade**.
+
+The **Meme is that unit for knowledge**: a small, self-describing, source-anchored packet that can be routed, exchanged, aggregated, and recombined across systems and organizations. Making **knowledge packet-switching** work is how we intend to build a **global knowledge infrastructure**.
+
+---
+
 ## Why a knowledge base, not just raw text?
 
 If agents can read, why not just feed them the books? Because BusyBeaver gives you two things raw text can't:
@@ -130,6 +141,16 @@ Whatever path you choose, the PN provenance travels with the knowledge, so your 
 
 ---
 
+## 🛠️ What can you do with BusyBeaver?
+
+- **Create new work from it.** Use the knowledge as raw material for *secondary creation* — blog posts, slide decks, novels, screenplays, papers, comics, videos, and more.
+- **Give your agent expert context.** Feed it a selected set of topics so it becomes a genuine expert on a subject.
+- **Train your models.** Train on structured Memes — more efficient and far more token-thrifty than feeding raw text.
+- **Grow your own KB.** Use BusyBeaver as a foundational knowledge layer to seed and expand your own knowledge base (your own wiki, for example).
+- **Integrate and discover.** Because the knowledge is *queryable*, you can do knowledge-based data integration — and use queries to manufacture serendipity, surfacing connections you never knew to look for.
+
+---
+
 ## Status & roadmap
 
 | | |
@@ -163,6 +184,16 @@ Is there a classic you especially want memified? **We'd love to hear it.** Open 
 In this public knowledge base we publish **only knowledge derived from books that are free of copyright** (public domain). This keeps the dump clean to share and safe to build on.
 
 Have **copyrighted material** of your own you'd like turned into an agent-native KB? That's what the **Any-content → wiki** service (see [What's coming](#-whats-coming)) is for. Early interest? Reach out: **minnie.sew.da@gmail.com**.
+
+---
+
+## 🚀 Your knowledge, memified
+
+BusyBeaver is only the beginning. Our plan is to help **you** turn *your own* knowledge — **personal notes and enterprise know-how alike** — into the same kind of KB: **distributable, composable, and effortless for agents to consume.**
+
+And it stays **yours to control.** Give different Memes different **visibility** — keep some private, share some with your team, publish others to the world. Distribute your knowledge **selectively, to specific audiences — or even sell it**, one Meme at a time.
+
+The classics are where we begin. The larger vision is an open, federated economy of trustworthy, agent-native knowledge — and your knowledge has a place in it.
 
 ---
 
