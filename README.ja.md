@@ -6,7 +6,7 @@
 
 *世界の偉大な書物を、追跡可能で組み合わせ可能な知識へと分解する——人間だけでなく、AIエージェントのために構築された。*
 
-**~500冊の書籍・約50,000のMeme・すべての主張がその出典まで追跡可能**
+**50,000+ の Meme、日々成長中・人類の古典から抽出・すべての主張がその出典まで追跡可能**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · **日本語**</sub>
 

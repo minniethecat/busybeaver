@@ -6,7 +6,7 @@
 
 *Los grandes libros del mundo, descompuestos en conocimiento trazable y componible — construido para agentes de IA, no solo para humanos.*
 
-**~500 libros · ~50,000 Memes · cada afirmación trazable hasta su fuente**
+**Más de 50.000 Memes y creciendo cada día · destilados de los libros clásicos de la humanidad · cada afirmación trazable hasta su fuente**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · **Español** · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 

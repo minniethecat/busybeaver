@@ -6,7 +6,7 @@
 
 *The world's great books, broken down into traceable, composable knowledge — built for AI agents, not just for humans.*
 
-**~500 books · ~50,000 Memes · every assertion traceable to its source**
+**50,000+ Memes and growing every day · distilled from humanity's classic books · every assertion traceable to its source**
 
 <sub>🌐 **English (official)** · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 

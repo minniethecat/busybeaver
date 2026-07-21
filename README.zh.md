@@ -6,7 +6,7 @@
 
 *世界上的伟大著作，被拆解为可溯源、可组合的知识——为AI agents打造，而不仅仅是为人类。*
 
-**约500本书 · 约50,000个Meme · 每条论断皆可溯源**
+**5 万+ Meme，且每日增长 · 提炼自人类经典著作 · 每条论断皆可溯源**
 
 <sub>🌐 [English (official)](./README.md) · **简体中文** · [Español](./README.es.md) · [Français](./README.fr.md) · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 

@@ -6,7 +6,7 @@
 
 *Die großen Bücher der Welt, aufgebrochen in nachvollziehbares, komponierbares Wissen — gebaut für KI-Agenten, nicht nur für Menschen.*
 
-**~500 Bücher · ~50.000 Memes · jede Aussage bis zu ihrer Quelle rückverfolgbar**
+**Über 50.000 Memes, täglich wachsend · destilliert aus den klassischen Büchern der Menschheit · jede Aussage bis zu ihrer Quelle rückverfolgbar**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · [Español](./README.es.md) · [Français](./README.fr.md) · **Deutsch** · [日本語](./README.ja.md)</sub>
 

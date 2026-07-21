@@ -6,7 +6,7 @@
 
 *Les grands livres du monde, décomposés en connaissances traçables et composables — conçus pour les agents IA, pas seulement pour les humains.*
 
-**~500 livres · ~50 000 Memes · chaque affirmation traçable jusqu'à sa source**
+**Plus de 50 000 Memes, en croissance chaque jour · distillés des grands livres classiques de l'humanité · chaque affirmation traçable jusqu'à sa source**
 
 <sub>🌐 [English (official)](./README.md) · [简体中文](./README.zh.md) · [Español](./README.es.md) · **Français** · [Deutsch](./README.de.md) · [日本語](./README.ja.md)</sub>
 
