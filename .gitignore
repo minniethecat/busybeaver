@@ -47,6 +47,9 @@ yarn-error.log*
 # === Private / local-only working directory ===
 private/
 
+# === Local-only Claude Code memory (personal norms, never committed) ===
+CLAUDE.local.md
+
 # === Secrets / local config ===
 *.local
 secrets.*
