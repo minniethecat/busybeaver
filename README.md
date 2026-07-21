@@ -95,6 +95,14 @@ We've already done the systematic work of **decomposing** the knowledge and **li
 > Raw text gives your agent *words to read.*
 > BusyBeaver gives it *knowledge it can trust, already structured and cross-linked.*
 
+### 🌿 Grass vs. 🥩 meat
+
+Think of it this way: **raw text is grass; the BusyBeaver KB is meat.**
+
+You *can* eat grass directly — but then you need a big, expensive digestive system to break it down. Eat meat instead, and you save all the energy you'd have spent digesting grass — energy that, for your agent, is **LLM tokens** — and spend it on smarter things instead.
+
+**Meat is high-density knowledge: context, highly compressed.** BusyBeaver has already done the digesting, so your agent doesn't have to.
+
 ---
 
 ## How to use it
