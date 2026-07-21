@@ -115,6 +115,16 @@ Is there a classic you especially want memified? **We'd love to hear it.** Open 
 
 ---
 
+## Copyright & scope
+
+In this public knowledge base we publish **only knowledge derived from books that are free of copyright** (public domain). This keeps the dump clean to share and safe to build on.
+
+Want to memify your **own copyrighted material** — internal handbooks, licensed texts, proprietary research — into an agent-native knowledge base of your own? We're building a **service** for exactly that. **Stay tuned.** 📬
+
+*(Interested early? Reach out: **minnie.sew.da@gmail.com**.)*
+
+---
+
 ## License
 
 BusyBeaver is released under the **[PolyForm Noncommercial License 1.0.0](./LICENSE)**.
