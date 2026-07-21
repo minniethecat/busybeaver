@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="BusyBeaver logo" width="220" />
+
 # 🦫 BusyBeaver
 
 ### 人類の古典的名著をエージェントネイティブに知識化するナレッジベース

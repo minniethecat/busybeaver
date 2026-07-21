@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="BusyBeaver logo" width="220" />
+
 # 🦫 BusyBeaver
 
 ### Eine agentennative Wissensbasis der klassischen Bücher der Menschheit

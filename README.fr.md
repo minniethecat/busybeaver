@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="BusyBeaver logo" width="220" />
+
 # 🦫 BusyBeaver
 
 ### Une base de connaissances native pour agents des grands classiques de l'humanité

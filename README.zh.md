@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="BusyBeaver logo" width="220" />
+
 # 🦫 BusyBeaver
 
 ### 一个面向agent的人类经典著作知识库
