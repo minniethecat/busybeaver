@@ -1,0 +1,11 @@
+---
+id: ch-principles-80-lxxv
+label: "LXXV"
+type: "chapter"
+description: "Summary of what must be observed in order to philosophize correctly."
+tags: ["chapter"]
+---
+
+(133-001) Summary of what must be observed in order to philosophize correctly.
+
+(133-002) Wherefore if we would philosophize in earnest, and give ourselves to the search after all the truths we are capable of [[knowledge|knowing]], we must, in the first place, lay aside our prejudices; in other words, we must take care scrupulously to withhold our [[judgment|assent]] from the opinions we have formerly admitted, until upon new examination we discover that they are true. We must, in the next place, make an orderly review of the notions we have in our minds, and hold as true all and only those which we will clearly and distinctly apprehend. In this way we will observe, first of all, that we exist in so far as it is our nature to think, and at the same time that there is a [[god|God]] upon whom we depend; and after considering his attributes we will be able to investigate the truth of all other things, since God is the cause of them. Besides the notions we have of God and of our mind, we will likewise find that we possess the knowledge of many propositions which are eternally true, as, for example, that nothing cannot be the cause of anything, etc. We will farther discover in our minds the knowledge of a corporeal or [[extension|extended]] nature that may be moved, divided, etc., and also of certain sensations that affect us, as of pain, colours, tastes, etc., although we do not yet know the cause of our being so affected; and, comparing what we have now learned, by examining those things in their order, with our former confused knowledge of them, we will acquire the habit of forming clear and distinct conceptions of all the objects we are capable of knowing. In these few precepts seem to me to be comprised the most general and important principles of human knowledge.

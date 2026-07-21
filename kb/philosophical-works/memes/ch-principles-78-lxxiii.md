@@ -1,0 +1,11 @@
+---
+id: ch-principles-78-lxxiii
+label: "LXXIII"
+type: "chapter"
+description: "The third cause is, that we become fatigued by attending to those objects which are not present to the senses; and that we are thus accustomed to judge of these not from present perception but from..."
+tags: ["chapter"]
+---
+
+(131-001) The third cause is, that we become fatigued by attending to those objects which are not present to the senses; and that we are thus accustomed to judge of these not from present perception but from preconceived opinion.
+
+(131-002) Besides, our mind cannot attend to any object without at length experiencing some pain and fatigue; and of all objects it has the greatest difficulty in attending to those which are present neither to the senses nor to the imagination: whether for the reason that this is natural to it from its union with the body, or because in our early years, being occupied merely with perceptions and imaginations, it has become more familiar with, and acquired greater facility in thinking in those modes than in any other. Hence it also happens that many are unable to conceive any substance except what is imaginable and corporeal, and even sensible. For they are ignorant of the circumstance, that those objects alone are imaginable which consist in extension, motion, and figure, while there are many others besides these that are intelligible; and they persuade themselves that nothing can subsist but body, and, finally, that there is no body which is not sensible. And since in truth we perceive no object such as it is by sense alone [but only by our reason exercised upon sensible objects], as will hereafter be clearly shown, it thus happens that the majority during life perceive nothing unless in a confused way.

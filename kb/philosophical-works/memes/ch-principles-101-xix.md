@@ -1,0 +1,11 @@
+---
+id: ch-principles-101-xix
+label: "XIX"
+type: "chapter"
+description: "That this confirms what was said of rarefaction."
+tags: ["chapter"]
+---
+
+(032-001) That this confirms what was said of rarefaction.
+
+(032-002) After we have thus remarked that the nature of corporeal substance consists only in its being an [[extension|extended]] thing, and that its extension is not different from that which we attribute to space, however empty, it is easy to discover the impossibility of any one of its parts in any way whatsoever occupying more space at one time than at another, and thus of being otherwise rarefied than in the way explained above; and it is easy to perceive also that there cannot be more [[body|matter]] or body in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty: for the quantity of the parts of which a body is composed does not depend on their weight or hardness, but only on the extension, which is always equal in the same vase.

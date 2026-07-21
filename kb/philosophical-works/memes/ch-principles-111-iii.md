@@ -1,0 +1,11 @@
+---
+id: ch-principles-111-iii
+label: "III"
+type: "chapter"
+description: "In what sense it may be said that all things were created for the sake of man."
+tags: ["chapter"]
+---
+
+(043-001) In what sense it may be said that all things were created for the sake of man.
+
+(043-002) For although, as far as regards morals, it may be a pious thought to believe that [[god|God]] made all things for us, seeing we may thus be incited to greater gratitude and love toward him; and although it is even in some sense true, because there is no created thing of which we cannot make some use, if it be only that of exercising our mind in considering it, and honouring God on account of it, it is yet by no means probable that all things were created for us in this way that God had no other end in their creation; and this supposition would be plainly ridiculous and inept in physical reasoning, for we do not doubt but that many things exist, or formerly existed and have now ceased to be, which were never seen or known by man, and were never of use to him.

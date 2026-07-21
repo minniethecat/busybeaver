@@ -1,0 +1,11 @@
+---
+id: ch-principles-62-lvii
+label: "LVII"
+type: "chapter"
+description: "That some attributes exist in the things to which they are attributed, and others only in our thought; and what duration and time are."
+tags: ["chapter"]
+---
+
+(115-001) That some attributes exist in the things to which they are attributed, and others only in our thought; and what duration and time are.
+
+(115-002) Of these attributes or modes there are some which exist in the things themselves, and others that have only an existence in our thought; thus, for example, time, which we distinguish from duration taken in its generality, and call the measure of motion, is only a certain mode under which we think duration itself, for we do not indeed conceive the duration of things that are moved to be different from the duration of things that are not moved: as is evident from this, that if two bodies are in motion for an hour, the one moving quickly and the other slowly, we do not reckon more time in the one than in the other, although there may be much more motion in the one of the bodies than in the other. But that we may comprehend the duration of all things under a common measure, we compare their duration with that of the greatest and most regular motions that give rise to years and days, and which we call time; hence what is so designated is nothing superadded to duration, taken in its generality, but a mode of thinking.

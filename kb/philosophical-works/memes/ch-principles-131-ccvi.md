@@ -1,0 +1,11 @@
+---
+id: ch-principles-131-ccvi
+label: "CCVI"
+type: "chapter"
+description: "That we possess even more than a moral certainty of it."
+tags: ["chapter"]
+---
+
+(065-001) That we possess even more than a moral certainty of it.
+
+(065-002) Besides, there are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it]. This certainty is founded on the metaphysical ground, that, as [[god|God]] is supremely good and the source of all truth, the faculty of distinguishing truth from error which he gave us, cannot be fallacious so long as we use it aright, and distinctly perceive anything by it. Of this character are the demonstrations of mathematics, the knowledge that material things exist, and the clear reasonings that are formed regarding them. The results I have given in this treatise will perhaps be admitted to a place in the class of truths that are absolutely certain, if it be considered that they are deduced in a continuous series from the first and most elementary principles of human knowledge; especially if it be sufficiently understood that we can perceive no external objects unless some local motion be caused by them in our nerves, and that such motion cannot be caused by the fixed stars, owing to their great distance from us, unless a motion be also produced in them and in the whole heavens lying between them and us: for these points being admitted, all the others, at least the more general doctrines which I have advanced regarding the world or earth [e.g., the fluidity of the heavens, Part III, Section XLVI], will appear to be almost the only possible explanations of the phenomena they present.

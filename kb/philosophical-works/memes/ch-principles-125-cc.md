@@ -1,0 +1,11 @@
+---
+id: ch-principles-125-cc
+label: "CC"
+type: "chapter"
+description: "That this treatise contains no principles which are not universally received; and that this philosophy is not new, but of all others the most ancient and common."
+tags: ["chapter"]
+---
+
+(058-001) That this treatise contains no principles which are not universally received; and that this philosophy is not new, but of all others the most ancient and common.
+
+(058-002) But I am desirous also that it should be observed that, though I have here endeavoured to give an explanation of the whole nature of material things, I have nevertheless made use of no principle which was not received and approved by [[aristotle|Aristotle]], and by the other philosophers of all ages; so that this philosophy, so far from being new, is of all others the most ancient and common: for I have in truth merely considered the figure, motion, and magnitude of bodies, and examined what must follow from their mutual concourse on the principles of mechanics, which are confirmed by certain and daily experience. But no one ever doubted that bodies are moved, and that they are of various sizes and figures, according to the diversity of which their motions also vary, and that from mutual collision those somewhat greater than others are divided into many smaller, and thus change figure. We have experience of the truth of this, not merely by a single sense, but by several, as touch, sight, and hearing: we also distinctly imagine and understand it. This cannot be said of any of the other things that fall under our senses, as colours, sounds, and the like; for each of these affects but one of our senses, and merely impresses upon our imagination a confused image of itself, affording our understanding no distinct knowledge of what it is.
