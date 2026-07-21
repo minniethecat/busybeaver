@@ -147,7 +147,7 @@ BusyBeaver is built to be **international**. The initial corpus is primarily **E
 BusyBeaver is the corpus. Around it we're building:
 
 - **Interactive wikis for every book** — browse and query each book's knowledge as a living, linked wiki, not just a flat dump.
-- **Any-content → wiki** — a service that turns *arbitrary* content (yours included) into a structured, agent-native wiki.
+- **Any-content → wiki** — a service that turns *arbitrary* content into a structured, agent-native wiki — including **your own copyrighted material** (internal handbooks, licensed texts, proprietary research), so you get a private KB of your own.
 - **Federated semantic wiki** — a shared protocol that lets knowledge agents **freely exchange, aggregate, and query** knowledge across independent wikis. One address space, many participants — the Purple-Number dream, federated.
 
 ### 📚 Request a book
@@ -160,9 +160,7 @@ Is there a classic you especially want memified? **We'd love to hear it.** Open 
 
 In this public knowledge base we publish **only knowledge derived from books that are free of copyright** (public domain). This keeps the dump clean to share and safe to build on.
 
-Want to memify your **own copyrighted material** — internal handbooks, licensed texts, proprietary research — into an agent-native knowledge base of your own? We're building a **service** for exactly that. **Stay tuned.** 📬
-
-*(Interested early? Reach out: **minnie.sew.da@gmail.com**.)*
+Have **copyrighted material** of your own you'd like turned into an agent-native KB? That's what the **Any-content → wiki** service (see [What's coming](#-whats-coming)) is for. Early interest? Reach out: **minnie.sew.da@gmail.com**.
 
 ---
 
