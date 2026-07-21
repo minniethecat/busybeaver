@@ -1,0 +1,65 @@
+---
+id: section-016
+label: John Jay, 1745-1829 — From the "Address from the Convention." December 23, 1776.
+type: chapter
+description: John Jay, 1745-1829 — From the "Address from the Convention." December 23, 1776.
+tags: []
+---
+
+\* \* \* \* \*
+
+=\_John Jay, 1745-1829.\_= (Manual, pp. 484, 486.)
+
+From the \"Address from the Convention.\" December 23, 1776.
+
+=\_65.\_= AN APPEAL TO ARMS.
+
+[015-001]Rouse, brave citizens! Do your duty like men; and be persuaded that Divine Providence will not permit this western world to be involved in the horrors of slavery. Consider that, from the earliest ages of the world, religion, liberty, and reason have been bending their course towards the setting sun. The holy Gospels are yet to be preached to these western regions; and we have the highest reason to believe that the Almighty will not suffer slavery and the gospel to go hand in hand. It cannot, it will not be.
+
+[015-002]But if there be any among us dead to all sense of honor and love of their country; if deaf to all the calls of liberty, virtue, and religion; if forgetful of the magnanimity of their ancestors, and the happiness of their children; if neither the examples nor the success of other nations, the dictates of reason and of nature, or the great duties they owe to their God, themselves, and their posterity have any effect upon them; if neither the injuries they have received, the prize they are contending for, the future blessings or curses of their children, the applause or the reproach of all mankind, the approbation or displeasure of the great Judge, or the happiness or misery consequent upon their conduct, in this and a future state can move them,\--then let them be assured that they deserve to be slaves, and are entitled to nothing but anguish and tribulation\.... Let them forget every duty, human and divine, remember not that they have children, and beware how they call to mind the justice of the Supreme Being.
+
+\* \* \* \* \*
+
+=\_Alexander Hamilton, 1757-1804.\_= (Manual, pp. 484, 486.)
+
+From \"Vindication of the Funding System.\"
+
+=\_66.\_= CHARACTER OF THE DEBT.
+
+[015-003]A person who, unacquainted with the fact, should learn the history of our debt from the declamations with which certain newspapers are perpetually charged, would be led to suppose that it is the mere creature of the \_present\_ government, for the purpose of burthening the people with taxes, and producing an artificial and corrupt influence over them; he would, at least, take it for granted that it had been contracted in the pursuit of some wanton or vain project of ambition or glory; he would scarcely be able to conceive that every part of it was the relict of a war which had given [[liberty|independence]], and preserved liberty to the country; that the present government found it as it is, in point of magnitude (except as to the diminutions made by itself), and has done nothing more than to bring under a regular regimen and provision, what was before a scattered and heterogeneous mass.
+
+[015-004]And yet this is the simple and exact state of the business. The whole of the debt embraced by the provisions of the funding system, consisted of the unextinguished principal and arrears of interest, of the debt which had been contracted by the United States in the course of the late war with Great Britain, and which remained uncancelled, and the principal and arrears of interest of the separate debts of the respective States contracted during the same period, which remained, \_outstanding, and unsatisfied, relating to services and supplies for carrying on the war\_. Nothing more was done by that system, than to incorporate these two species of debt into the mass, and to make for the whole, one general, comprehensive provision. There is therefore, no arithmetic, no logic, by which it can be shown that the funding system has augmented the aggregate debt of the country. The sum total is manifestly the same; though the parts which were before divided are now united. There is, consequently, no color for an assertion, that the system in question either created any \_new\_ debt, or made any addition to the \_old\_. And it follows, that the collective burthen upon the people of the United States must have been as great \_without\_ as \_with\_ the union of the different portions and descriptions of the debt. The only difference can be, that without it that burthen would have been otherwise distributed, and would have fallen with unequal weight, instead of being equally borne as it now is.
+
+[015-005]These conclusions which have been drawn respecting the non-increase of the debt, proceed upon the presumption that every part of the public debt, as well that of the States individually, as that of the United States, was to have been honestly paid. If there is any fallacy in this supposition, the inferences may be erroneous; but the error would imply the disgrace of the United States, or parts of them,\--a disgrace from which every man of true honor and genuine patriotism will be happy to see them rescued.
+
+[015-006]When we hear the epithets, \"vile matter,\" \"corrupt mass,\" bestowed upon the public debt, and the owners of it indiscriminately maligned as the harpies and vultures of the community, there is ground to suspect that those who hold the language, though they may not dare to avow it, contemplate a more summary process for getting rid of debts than that of paying them. Charity itself cannot avoid concluding from the language and conduct of some men, (and some of them of no inconsiderable importance,) that in their vocabularies \_creditor\_ and \_enemy\_ are synonymous terms, and that they have a laudable antipathy against every man to whom they owe money, either as individuals or as members of the society.
+
+\* \* \* \* \*
+
+From a \"Letter to Lafayette,\" October 6, 1789.
+
+=\_67.\_= THE FRENCH REVOLUTION.
+
+[015-007]I have seen, with a mixture of pleasure and apprehension, the progress of events which have lately taken place in your country. As a friend to mankind and to liberty, I rejoice in the efforts which you are making to establish it, while I fear much for the final success of the attempts, for the fate of those I esteem who are engaged in them, and for the danger in case of success, of innovations greater than will consist with the real felicity of your nation. If your affairs still go well when this reaches you, you will ask why this foreboding of ill, when all the appearances have been so much in your favor. I will tell you: I dread disagreements among those who are now united (which will be likely to be improved by the adverse party) about the nature of your constitution; I dread the vehement character of your people, whom I fear you may find it more easy to bring on, than to keep within proper bounds after you have put them in motion. I dread the interested refractoriness of your nobles, who cannot all be gratified, and who may be unwilling to submit to the requisite sacrifices. And I dread the reveries of your philosophic politicians, who appear in the moment to have great influence, and who, being mere speculatists, may aim at more refinement than suits either with human nature, or the composition of your nation.
+
+\* \* \* \* \*
+
+=\_Fisher Ames, 1738-1808.\_= (Manual, p. 487.)
+
+From the \"Speech on the British Treaty.\" April 15, 1795.
+
+=\_68.\_= OBLIGATION OF NATIONAL GOOD FAITH.
+
+[015-008]The consequences of refusing to make provision for the treaty are not all to be foreseen. By rejecting, vast interests are committed to the sport of the winds: chance becomes the arbiter of events, and it is forbidden to human foresight to count their number, or measure their extent. Before we resolve to leap into this abyss, so dark and so profound, it becomes us to pause, and reflect upon such of the dangers as are obvious and inevitable. If this assembly should be wrought into a temper to defy these consequences, it is vain, it is deceptive, to pretend that we can escape them. It is worse than weakness to say, that as to public faith, our vote has already settled the question. Another tribunal than our own is already erected; the public opinion, not merely of our own country, but of the enlightened world, will pronounce a judgment that we cannot resist, that we dare not even affect to despise. \... This, sir, is a cause that would be dishonored and betrayed if I contented myself with appealing only to the understanding. It is too cold, and its processes are too slow, for the occasion. I desire to thank God that since he has given me an intellect so fallible, he has impressed upon me an instinct that is sure. On a question of shame and honor, reasoning is sometimes useless, and worse. I feel the decision in my pulse; if it throws no light upon the brain, it kindles a fire at the heart.
+
+[015-009]What is patriotism? Is it a narrow affection for the spot where a man was born? Are the very clods where we tread entitled to this ardent preference, because they are greener? No, sir, this is not the character of the virtue, and it soars higher for its object. It is an extended self-love, mingling with all the enjoyments of life, and twisting itself with the minutest filaments of the heart. It is thus we obey the laws of society, because they are the laws of virtue. In their authority we see not the array of force and terror, but the venerable image of our country\'s honor. Every good citizen makes that honor his own, and cherishes it not only as precious, but as sacred. He is willing to risk his life in its defence; and is conscious that he gains protection, while he gives it. For what rights of a citizen will be deemed inviolable, when a state renounces the principles that constitute their security? Or, if his life should not be invaded, what would its enjoyments be in a country odious in the eyes of strangers, and dishonored in his own? Could he look with affection and veneration to such a country as his parent? The sense of having one would die within him; he would blush for his patriotism, if he retained any, and justly. for it would be a vice; he would be a banished man in his native land. I see no exception to the respect that is paid among nations to the [[justice|law]] of good faith. If there are cases in this enlightened period when it is violated, then are none when it is decried. It is the philosophy of politics, the religion of governments. It is observed by barbarians; a whiff of tobacco smoke, or a string of beads, gives not merely binding force, but sanctity, to treaties. Even in Algiers, a truce may be bought for money; but when ratified, even Algiers is too wise or too just, to disown and annul its obligation. Thus we see, neither the ignorance of savages, nor the principles of an association for piracy and rapine, permit a nation to despise its engagements. If, sir, there could be a resurrection from the foot of the gallows, if the victims of justice could live again, collect together, and form a society, they would, however loath, soon find themselves obliged to make justice, that justice under which they fell, the fundamental law of their state. They would perceive it was their interest to make others respect, and they would, therefore, soon pay some respect themselves, to the obligations of good faith.
+
+\* \* \* \* \*
+
+=\_Gouverneur Morris, 1752-1816.\_= (Manual, p. 484.)
+
+From a \"Report to Congress in 1780.\"
+
+=\_69.\_= QUALIFICATIONS OF A MINISTER OF FOREIGN AFFAIRS.
+
+[015-010]A minister of foreign affairs should have a genius quick, lively, penetrating; should write on all occasions with clearness and perspicuity; be capable of expressing his sentiments with dignity, and conveying strong sense and argument in easy and agreeable diction; his temper mild, cool, and placid; festive, insinuating, and pliant, yet obstinate; communicative, and yet reserved. He should know the human face and heart, and the connections between them; should be versed in the laws of nature and nations, and not ignorant of the civil and municipal law; should be acquainted with the history of Europe, and with the interests, views, commerce, and productions of the commercial and maritime powers; should know the interests and commerce of America, understand the French and Spanish languages, at least the former, and be skilled in the modes and forms of public business; a man educated more in the world than in the closet, that by use, as well as by nature, he may give proper attention to great objects, and have proper contempt for small ones. He should be attached to the independence of America, and the alliance with France, as the great pillars of our politics; and this attachment should not be slight and accidental, but regular, consistent, and founded in strong conviction. His manners, gentle and polite; above all things, honest, and least of all things, avaricious. His circumstances and connections should be such as to give solid pledges for his fidelity; and he should by no means be disagreeable to the prince with whom we are in alliance, his ministers, or subjects.

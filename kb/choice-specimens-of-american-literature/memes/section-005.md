@@ -1,0 +1,61 @@
+---
+id: section-005
+label: MISCELLANEOUS WRITERS OF THE SEVENTEENTH AND EIGHTEENTH CENTURIES. — John Winthrop, 1587-1649
+type: chapter
+description: MISCELLANEOUS WRITERS OF THE SEVENTEENTH AND EIGHTEENTH CENTURIES. — John Winthrop, 1587-1649
+tags: []
+---
+
+\* \* \* \* \*
+
+MISCELLANEOUS WRITERS OF THE SEVENTEENTH AND EIGHTEENTH CENTURIES.
+
+=\_[[john-winthrop|John Winthrop]], 1587-1649.\_= (Manual, p. 490.)
+
+From his \"Life and Letters.\"
+
+=\_10.\_= TRUE LIBERTY DEFINED.
+
+[004-001]For the other point concerning liberty, I observe a great mistake in the country about that. There is a twofold liberty,\--natural (I mean as our nature is now corrupt) and civil, or federal. The first is common to man with beasts and other creatures. By this, man, as he stands in relation to man simply, hath liberty to do what he lists: it is a liberty to evil as well as to good. This liberty is incompatible and inconsistent with authority, and cannot endure the least restraint of the most just authority. The exercise and maintaining of this liberty makes men grow more evil, and, in time, to be worse than brute beasts. This is that great enemy of truth and peace, that wild beast, which all the ordinances of God are bent against, to restrain and subdue it. The other kind of liberty I call civil, or federal; it may also be termed moral, in reference to the covenant between God and man in the moral [[justice|law]], and the politic covenants and constitutions amongst men themselves. This liberty is the proper end and object of authority, and cannot subsist without it; and it is a liberty to that only which is good, just, and honest. This liberty you are to stand for, with the hazard not only of your goods, but of your lives, if need be.
+
+\* \* \* \* \*
+
+From \"The History of [[new-england|New England]].\"
+
+=\_11.\_= PROPOSED TREATMENT OF THE INDIANS.
+
+[004-002]We received a letter at the General Court from the magistrates of Connecticut, and New Haven, and of Aquiday,\[3\] wherein they declared their dislike of such as would have the Indians rooted out, as being of the cursed race of Ham, and their desire of our mutual accord in seeking to gain them by justice and kindness, and withal to watch over them to prevent any danger by them, &c. We returned answer of our consent with them in all things propounded, only we refused to include those of Aquiday in our answer, or to have any treaty with them.
+
+[004-003]\[Footnote 3: The original name of Rhode Island.\]
+
+\* \* \* \* \*
+
+=\_William Byrd,\[4\] 1674-1744.\_=
+
+From \"History of the Dividing Line between [[virginia|Virginia]] and North Carolina.\"
+
+=\_12.\_= THE GINSENG AND SNAKEROOT PLANTS.
+
+[004-004]Though practice will soon make a man of tolerable vigor an able footman, yet, as a help to bear fatigue, I used to chew a root of ginseng as I walked along. This kept up my spirits, and made me trip away as nimbly in my half jack-boots as younger men could in their shoes\.... The Emperor of China sends ten thousand men every year on purpose to gather it\.... Providence has planted it very thin in every country. Nor, indeed, is mankind worthy of so great a blessing, since health and long life are commonly abused to ill purposes. This noble plant grows likewise at the Cape of Good Hope. It grows also on the northern continent of America, near the mountains, but as sparingly as truth and public spirit. Its virtues are, that it gives an uncommon warmth and vigor to the blood, and frisks the spirits beyond any other cordial. It cheers the heart even of a man that has a bad wife, and makes him look down with great composure on the crosses of the world. It promotes insensible perspiration, dissolves all phlegmatic and viscous humors that are apt to obstruct the narrow channels of the nerves. It helps the memory, and would quicken even Helvetian dullness. \'Tis friendly to the lungs, much more than scolding itself. It comforts the stomach and strengthens the bowels, preventing all colics and fluxes. In one word, it will make a man live a great while, and very well while he does live; and, what is more, it will even make old age amiable, by rendering it lively, cheerful, and good-humored\.... I found near our camp some plants of that kind of Rattlesnake root, called star-grass. The leaves shoot out circularly, and grow horizontally and near the ground. The root is in shape not unlike the rattle of that serpent, and is a strong antidote against the bite of it. It is very bitter, and where it meets with any poison, works by violent sweats, but where it meets with none, has no sensible operation but that of putting the spirits into a great hurry, and so of promoting perspiration. The rattlesnake has an utter antipathy to this plant, insomuch that if you smear your hands with the juice of it, you may handle the viper safely. Thus much I can say on my own experience, that once in July, when these snakes are in their greatest vigor, I besmeared a dog\'s nose with the powder of this root, and made him trample on a large snake several times, which, however, was so far from biting him, that it perfectly sickened at the dog\'s approach, and turned his head from him with the utmost aversion. In our march one of the men killed a small rattlesnake, which had no more than two rattles. Those vipers remain in vigor generally till towards the end of September, or sometimes later, if the weather continues a little warm. On this consideration we had provided three several sorts of rattlesnake root, made up into proper doses, and ready for immediate use, in case any one of the men or their horses had been bitten\.... In the low grounds the Carolina gentlemen shewed us another plant, which they said was used in their country to cure the bite of the rattlesnake. It put forth several leaves, in figure like a heart, and was clouded so like the common Assarabacca, that I conceived it to be of that family.
+
+[004-005]\[Footnote 4: A native of Virginia:\--was sent to England for his
+
+[004-006]education, where he became intimate with the wits of Queen Anne\'s time. On his return to Virginia, he became a prominent official. He has left very pleasing accounts of his explorations.\]
+
+\* \* \* \* \*
+
+=\_[[benjamin-franklin|Benjamin Franklin]], 1706-1790.\_= (Manual, pp. 478, 486.)
+
+Extract from his Autobiography.
+
+=\_13.\_= GOOD RESOLUTIONS.\--THE CROAKER.
+
+[004-007]I grew convinced, that \_truth, sincerity\_, and \_integrity\_, in dealings between man and man, were of the utmost importance to the felicity of life, and I formed written resolutions, which still remain in my journal book, to practice them ever while I lived. Revelation had indeed no weight with me, as such; but I entertained an opinion, that, though certain actions might not be bad, \_because\_ they were forbidden by it, or good \_because\_ it commended them; yet probably those actions might be forbidden \_because\_ they were bad for us, or commanded because they were beneficial to us, in their own natures, all the circumstances of things considered. And this persuasion, with the kind hand of Providence, or some guardian angel, or accidental favorable circumstances or situations, or all together, preserved me, through this dangerous time of youth, and the hazardous situations I was sometimes in among strangers, remote from the eye and advice of my father, free from any \_wilful\_ gross immorality or injustice, that might have been expected from my want of religion. I say wilful because the instances I have mentioned had something of \_necessity\_ in them, from my youth, inexperience, and the knavery of others. I had therefore a tolerable character to begin the world with; I valued it properly, and determined to preserve it. We had not been long returned to Philadelphia, before the new types arrived from London. We settled with Keimer and left him by his consent before he heard of it. We found a house to let near the market, and took it. To lessen the rent, which was then but twenty-four pounds a year, though I have since known it to let for seventy, we took in Thomas Godfrey, a glazier, and his family, who were to pay a considerable part of it to us, and we to board with them. We had scarce opened our letters and put our press in order, before George House, an acquaintance of mine, brought a countryman to us, whom he had met in the street, inquiring for a printer. All our cash was now expended in the variety of particulars we had been obliged to procure, and this countryman\'s five shillings, being our first-fruits, and coming so seasonably, gave me more pleasure than any crown I have since earned; and the gratitude I felt towards House has made me often more ready, than perhaps I otherwise should have been, to assist young beginners. There are croakers in every country, always boding its ruin. Such a one there lived in Philadelphia; a person of note, an elderly man, with a wise look and a very grave manner of speaking; his name was Samuel Mickle. This gentleman, a stranger to me, stopped me one day at my door, and asked me if I was the young man, who had lately opened a new printing-house? Being answered in the affirmative, he said he was sorry for me, because it was an expensive undertaking, and the expense would be lost; for Philadelphia was a sinking place, the people already half bankrupts, or near being so; all the appearances of the contrary, such as new buildings and the rise of rents, being to his certain knowledge fallacious; for they were in fact among the things that would ruin us. Then he gave me such a detail of misfortunes now existing, or that were soon to exist, that he left me half melancholy. Had I known him before I engaged in this business, probably I never should have done it. This person continued to live in this decaying place, and to declaim in the same strain, refusing for many years to buy a house there, because all was going to destruction; and at last I had the pleasure of seeing him give him five times as much for one, as he might have bought it for when he first began croaking.
+
+\* \* \* \* \*
+
+From a Letter to Peter Collinson.
+
+=\_14.\_= FRANKLIN\'S ELECTRICAL KITE.
+
+[004-008]As frequent mention is made in public papers from Europe of the success of the Philadelphia experiment for drawing the electric fire from clouds, by means of pointed rods of iron erected on high, buildings, &c., it may be agreeable to the curious to be informed that the same experiment has succeeded in Philadelphia, though made in a different and more easy manner, which is as follows: Make a small cross of two light strips of cedar, the arms so long as to reach to the four corners of a large thin silk handkerchief, when extended; tie the corners of the handkerchief to the extremities of the cross, so you have the body of a kite; which, being properly accommodated with a tail, loop, and string, will rise in the air, like those made of paper; but this, being of silk, is fitter to bear the wet and wind of a thundergust without tearing. To the top of the upright stick of the cross is to be fixed a very sharp-pointed wire, rising a foot or more above the wood. To the end of the twine, next the hand, is to be tied a silk ribbon, and where the silk and twine join, a key may be fastened. This kite is to be raised when a thundergust appears to be coming on, and the person who holds the string must stand within a door or window, or under some cover, so that the silk ribbon may not be wet; and care must be taken that the twine does not touch the frame of the door or window. As soon as any of the thunder-clouds come over the kite, the pointed wire will draw the electric fire from them, and the kite, with all the twine, will be electrified, and the loose filaments of the twine will stand out every way, and be attracted by an approaching finger. And when the rain has wetted the kite and twine, so that it can conduct the electric fire freely, you will find it stream out plentifully from the key on the approach of your knuckle. At this key the phial may be charged; and all the other electric experiments be performed, which are usually done by the help of a rubbed glass globe or tube, and thereby the sameness of the electric matter with that of lightning be completely demonstrated.

@@ -1,0 +1,61 @@
+---
+id: section-037
+label: What if there was a spring time of blossoming but once in a hundred — years! How would men look forward to it, and ol...
+type: chapter
+description: What if there was a spring time of blossoming but once in a hundred — years! How would men look forward to it, and ol...
+tags: []
+---
+
+[036-001]What if there was a spring time of blossoming but once in a hundred years! How would men look forward to it, and old men, who had beheld its wonders, tell the story to their children, how once all the homely trees became beautiful, and earth was covered with freshness and new growth! How would young men hope to become old, that they might see so glad a sight! And when beheld, the aged man would say, \"Lord, now lettest thou thy servant depart in peace, for mine eyes have seen thy salvation.\"
+
+\* \* \* \* \*
+
+From an \"Installation Sermon,\" January 4th, 1846.
+
+=\_169.\_= THE TRUE IDEA OF A CHRISTIAN CHURCH.
+
+[036-002]The saints of olden time perished at the stake; they hung on gibbets; they agonized upon the rack; they died under the steel of the tormentor. It was the heroism of our fathers\' day that swam the unknown seas; froze in the woods; starved with want and cold; fought battles with the red right hand. It is the sainthood and heroism of our day that toils for the ignorant, the poor, the weak, the oppressed, the wicked. Yes, it is our saints and heroes who fight fighting; who contend for the slave, and his master too, for the drunkard, the criminal; yes, for the wicked or the weak in all their forms\.... But the saints and the heroes of this day, who draw no sword, whose right hand is never bloody, who burn in no fires of wood or sulphur, nor languish briefly on the hasty cross; the saints and heroes who, in a worldly world, dare to be men; in an age of conformity and selfishness, speak for Truth and Man, living for noble aims, men who will swear to no lies howsoever popular; who will honor no sins, though never so profitable, respectable, and ancient; men who count Christ not their master, but teacher, friend, brother, and strive like him to practice all they pray; to incarnate and make real the Word of God, these men I honor far more than the saints of old\.... Racks and fagots soon waft the soul to God, stern messengers, but swift. A boy could bear that passage,\--the martyrdom of death. But the temptation of a long life of neglect, and scorn, and obloquy, and shame, and want, and desertion by false friends; to live blameless though blamed, cut off from human sympathy, that is the martyrdom of to-day. I shed no tears for such martyrs. I shout when I see one; I take courage and thank God for the real saints, prophets and heroes of to-day\.... Yea, though now men would steal the rusty sword from underneath the bones of a saint or hero long deceased, to smite off therewith the head of a new prophet, that ancient hero\'s son; though they would gladly crush the heart out of him with the tombstones they piled up for great men, dead and honored now; yet in some future day, that mob penitent, baptized with a new spirit, like drunken men returned to sanity once more, shall search through all this land for marble white enough to build a monument to that prophet whom their fathers slew; they shall seek through all the world for gold of fineness fit to chronicle such names. I cannot wait; but I will honor such men now, not adjourn the warning of their voice, and the glory of their example, till another age! The church may cast out such men; burn them with the torments of an age too refined in its cruelty to use coarse fagots and the vulgar axe! It is no loss to these men; but the ruin of the church. I say the Christian church of the nineteenth century must honor such men, if it would do a church\'s work; must take pains to make such men as these, or it is a dead church, with no claim on us, except that we bury it. A true church will always be the church of martyrs. The ancients commenced every great work with a victim! We do not call it so; but the sacrifice is demanded, got ready, and offered by unconscious priests long ere the enterprise succeeds. Did not Christianity begin with a martyrdom?
+
+\* \* \* \* \*
+
+From \"Historic Americans.\"
+
+=\_170.\_= CHARACTER OF FRANKLIN.
+
+[036-003]His was the morality of a strong, experienced person, who had seen the folly of wise men, the meanness of proud men, the baseness of honorable men, and the littleness of great men, and made liberal allowances for the failures of all men. If the final end to be reached were just, he did not always inquire about the provisional means which led thither. He knew that the right line is the shortest distance between two points, in morals as in mathematics, but yet did not quarrel with such as attained the point by a crooked line. Such is the habit of politicians, diplomatists, statesmen, who look on all men as a commander looks on his soldiers, and does not ask them to join the church or keep their hands clean, but to stand to their guns and win the battle. Thus, in the legislature of Pennsylvania, Franklin found great difficulty in carrying on the necessary measures for military defence, because a majority of the Assembly were Quakers, who, though friendly to the success of the revolution founded contrary to their principles, refused to vote the supplies of war. So he caused them to vote appropriations to purchase bread, flour, wheat, \_or other grain\_. The Government said, \"I shall take the money, for I understand very well their meaning,\--other grain is gunpowder.\" He afterwards moved the purchase of a fire-engine, saying to his friend, \"Nominate me on the committee, and I will nominate you; we will buy a great gun, which is certainly a fire engine; the Quakers can have no objection to that.\" Such was the course of policy that Franklin took, as I think, to excess; but yet I believe that no statesman of that whole century did so much to embody the eternal rules of right in the customs of the people, and to make the constitution of the universe the common [[justice|law]] of all mankind; and I cannot bestow higher praise than that, on any man whose name I can recall. He mitigated the ferocities of war. He built new hospitals, and improved old ones. He first introduced this humane principle into the Law of Nations, that in time of war, private property on land shall be unmolested, and peaceful commerce continued, and captive soldiers treated as well as the soldiers of the captors. Generous during his life-time, his dead hand still gathers and distributes blessings to the mechanics of Boston, and their children. True is it that \"Him only pleasure leads and peace attends, Whose means are pure and spotless as his ends.\"
+
+[036-004]But it is a great thing in this stage of the world to find a man whose \_ends\_ are pure and spotless. Let us thank him for that.
+
+\* \* \* \* \*
+
+From \"Historic Americans.\"
+
+=\_171.\_= CHARACTER OF THOMAS JEFFERSON.
+
+[036-005]Of all those who controlled the helm of affairs during the time of the Revolution, and while the Constitution and the forms of our National and State Institutions were carefully organized, there is none who has been more generally popular, more commonly beloved, more usually believed to be necessary to the Legislation and Administration of his country, than Thomas Jefferson. It may not be said of him that of all those famous men he could least have been spared; for in the rare and great qualities for patiently and wisely conducting the vast affairs of State and Nation in pressing emergencies, he seems to have been wanting. But his grand merit was this\--that while his powerful opponents favored a strong government, and believed it necessary thereby to repress what they called the lower classes, he, Jefferson, believed in Humanity; believed in a true Democracy. He respected labor and education, and upheld the right to education of all men. These were the Ideas in which he was far in advance of all the considerable men, whether of his State or of his Nation\--ideas which he illustrated through long years of his life and conduct. The great debt that the Nation owes to him is this\--that he so ably and consistently advocated these needful opinions, that he made himself the head and the hand of the great party that carried these ideas into power, that put an end to all possibility of class-government, made naturalization easy, extended the suffrage and applied it to judicial office, opened a still wider and better education to all, and quietly inaugurated reforms, yet incomplete, of which we have the benefit to this day, and which, but for him, we might not have won against the party of Strong Government, except by a difficult and painful Revolution.
+
+\* \* \* \* \*
+
+=\_Wendell Phillips,\[51\] 1811-.\_=
+
+From \"A Lecture delivered in December, 1861.\"
+
+=\_172.\_= THE WAR FOR THE UNION.
+
+[036-006]I would have government announce to the world that we understand the evil which has troubled our peace for seventy years, thwarting the natural tendency of our institutions, sending ruin along our wharves and through our workshops every ten years, poisoning the national conscience. We know well its character. But democracy, unlike other governments, is strong enough to let evils work out their own death\--strong enough to face them when they reveal their proportions. It was in this sublime consciousness of strength, not of weakness, that our fathers submitted to the well-known evil of slavery, and tolerated it until the viper we thought we could safely tread on, at the touch of disappointment, starts up a fiend whose stature reaches the sky. But our cheeks do not blanch. Democracy accepts the struggle. After this forbearance of three generations, confident that she has yet power to execute her will, she sends her proclamation, down to the Gulf\--[[liberty|freedom]] to every man beneath the stars, and death to every institution that disturbs our peace, or threatens the future of the republic.
+
+[036-007]\[Footnote 51: A native of Massachusetts: a vigorous thinker and speaker
+
+[036-008]on the great moral and political topics of the day, and the most eloquent of the Anti-Slavery leaders.\]
+
+\* \* \* \* \*
+
+From His \"Speeches, Lectures.\" &c.
+
+=\_173.\_= CHARACTER OF TOUSSAINT L\'OUVERTURE.
+
+[036-009]Above the lust of gold, pure in private life, generous in the use of his power, it was against such a man that Napoleon sent his army, giving to General Leclerc,\--the husband of his beautiful sister Pauline,\--thirty thousand of his best troops, with orders to re-introduce slavery. Among these soldiers came all of Toussaint\'s old mulatto rivals and foes.
+
+\* \* \* \* \*
+
+[036-010]Mounting his horse, and riding to the eastern end of the island, Samana, he looked out on a sight such as no native had ever seen before. Sixty ships of the line, crowded by the best soldiers of Europe, rounded the point. They were soldiers who had never yet met an equal, whose tread, like Caesar\'s, had shaken Europe,\--soldiers who had scaled the Pyramids, and planted the French banners on the walls of Rome. He looked a moment, counted the flotilla, let the reins fall on the neck of his horse, and, turning to Christophe, exclaimed: \"All France is come to Hayti; they can only come to make us slaves; and we are lost.\" He then recognized the only mistake of his life,\--his confidence in Bonaparte, which had led him to disband his army. Returning to the hills, he issued the only proclamation which bears his name and breathes vengeance: \"My children, France comes to make us slaves. God gave us liberty; France has no right to take it away. Burn the cities, destroy the harvests, tear up the roads with cannon, poison the wells, show the white man the hell he comes to make\"; and he was obeyed. When the great William of Orange saw Louis XIV. cover Holland with troops, he said, \"Break down the dykes, give Holland back to ocean\"; and Europe said, \"Sublime!\" When Alexander saw the armies of France descend upon Russia, he said: \"Burn Moscow, starve back the invaders\"; and Europe said, \"Sublime!\" This black saw all Europe marshalled to crush him, and gave to his people the same heroic example of defiance.

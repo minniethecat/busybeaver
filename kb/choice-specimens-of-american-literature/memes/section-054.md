@@ -1,0 +1,71 @@
+---
+id: section-054
+label: From his "Travels in the Carolinas, Florida," &c. — 254
+type: chapter
+description: From his "Travels in the Carolinas, Florida," &c. — 254
+tags: []
+---
+
+\* \* \* \* \*
+
+From his \"Travels in the Carolinas, Florida,\" &c.
+
+=\_254.\_= THE WOOD PELICAN OF FLORIDA.
+
+[053-001]This solitary bird does not associate in flocks, but is generally seen alone, commonly near the banks of great rivers, in vast marshes or meadows, especially such as are caused by inundations, and also in the vast deserted rice plantations: he stands alone on the topmost limb of tall dead cypress trees, his neck contracted or drawn in upon his shoulders, and beak resting like a long scythe upon his breast: in this pensive posture and solitary situation, it looks extremely grave, sorrowful, and melancholy, as if in the deepest thought.
+
+\* \* \* \* \*
+
+=\_Alexander Wilson, 1766-1813.\_= (Manual, p. 504.)
+
+From the \"American Ornithology.\"
+
+=\_255.\_= NEST OF THE RED-HEADED WOODPECKER.
+
+[053-002]Notwithstanding the care which this bird, in common with the rest of its genus, takes to place its young beyond the reach of enemies, within the hollows of trees, yet there is one deadly foe, against whose depredations neither the height of the tree nor the depth of the cavity is the least security. This is the blade snake, who frequently glides up the trunk of the tree, and, like a skulking savage, enters the woodpecker\'s peaceful apartment, devours the eggs or helpless young, in spite of the cries and flutterings of the parents, and if the place be large enough, coils himself up in the spot they occupied, where he will sometimes remain for several days. The eager school-boy, after hazarding his neck to reach the woodpecker\'s hole, at the triumphant moment when he thinks the nestlings his own, and strips his arm, launching it down into the cavity, and grasping what he conceives to be the callow young, starts with horror at the sight of a hideous snake, and almost drops from his giddy pinnacle, retreating down the tree with terror and precipitation. Several adventures of this kind have come to my knowledge; and one of them was attended with serious consequences, where both snake and boy fell to the ground, and a broken thigh, and long confinement, cured the adventurer completely of his ambition for robbing woodpeckers\' nests.
+
+\* \* \* \* \*
+
+=\_256.\_= THE WHITE-HEADED, OR BALD, EAGLE.
+
+[053-003]Elevated on the high dead limb of some gigantic tree that commands a wide view of the neighboring shore and ocean, he seems calmly to contemplate the motions of the various feathered tribes that pursue their busy avocations below,\--the snow-white Gulls slowly winnowing the air; the busy \_Tringoe\_ coursing along the sands; trains of Ducks streaming over the surface; silent and watchful Cranes, intent and wading; clamorous crows; and all the winged multitudes that subsist by the bounty of this vast liquid magazine of nature. High over all these hovers one, whose action instantly arrests his whole attention. By his wide curvature of wing, and sudden suspension in air, he knows him to be the Fish Hawk, settling over some devoted victim of the deep. His eye kindles at the sight, and balancing himself with half-opened wings, on the branch, he watches the result. Down, rapid as an arrow from heaven, descends the distant object of his attention, the roar of its wings reaching the ear as it disappears in the deep, making the surges foam around. At this moment, the eager looks of the Eagle are all ardor; and levelling his neck for flight, he sees the Fish Hawk once more emerge, struggling with his prey, and mounting in the air with screams of exultation. These are the signal for our hero, who launching into the air, instantly gives chase, and soon gains on the Fish Hawk; each exerts his utmost to mount above the other, displaying in these rencontres the most elegant and sublime aerial evolutions. The unincumbered Eagle rapidly advances, and is just on the point of reaching his opponent, when, with a sudden scream, probably of despair and honest execration, the latter drops his fish; the Eagle poising himself for a moment, as if to take a more certain aim, descends like a whirlwind, snatches it in his grasp ere it reaches the water, and bears his ill-gotten booty silently away to the woods.
+
+\* \* \* \* \*
+
+=\_Stephen Elliott,\[64\] 1771-1830.\_=
+
+From \"Views of [[nature-emerson|Nature]].\"
+
+=\_257.\_= COMPLETENESS AND VARIETY OF NATURE.
+
+[053-004]What is there that will not be included in the history of nature? The earth on which we tread, the air we breathe, the waters around the earth, the material forms that inhabit its surface, the mind of man, with all its magical illusions and all its inherent energy, the planets that move around our system, the firmament of heaven\--the smallest of the invisible atoms which float around our globe, and the most majestic of the orbs that roll through the immeasurable fields of space\--all are parts of one system, productions of one power, creations of one intellect, the offspring of Him, by whom all that is inert and inorganic in creation was formed, and from whom all that have life derive their being.
+
+[053-005]Of this immense system,\--all that we can examine,\--this little globe that we inherit, is full of animation, and crowded with forms, organized, glowing with life, and generally sentient. No space is unoccupied; the exposed surface of the rock is incrusted with living substances; plants occupy the bark, and decaying limbs, of other plants; animals live on the surface, and in the bodies, of other animals: inhabitants are fashioned and adapted to equatorial heats, and polar ice;\--air, earth, and ocean teem with life;\--and if to other worlds the same proportion of life and of enjoyment has been distributed which has been allotted to ours, if creative benevolence has equally filled every other planet of every other system, nay, even the suns themselves, with beings, organized, animated, and intelligent, how countless must be the generations of the living! What voices which we cannot hear, what languages that we cannot understand, what multitudes that we cannot see, may, as they roll along the stream of time, be employed hourly, daily, and forever, in choral songs of praise, hymning their great Creator! And when, in this almost prodigal waste of life, we perceive that every being, from the puny insect which flutters in the evening ray; from the lichen which we can scarcely distinguish on the mouldering rock; from the fungus that springs up and re-animates the mass of dead and decomposing substances; that every living form possesses a structure as perfect in its sphere, an organization sometimes as complex, always as truly and completely adapted to its purposes and modes of existence as that of the most perfect animal; when we discover them all to be governed by laws as definite, as immutable, as those which regulate the planetary movements, great must be our admiration of the wisdom which has arrayed, and the power which has perfected this stupendous fabric. Nor does creation here cease. There are beyond the limits of our system, beyond the visible forms of matter, other principles, other powers, higher orders of beings, an immaterial world which we cannot yet know; other modes of existence which we cannot comprehend; yet however inscrutable to us, this spiritual world must be guided by its own unerring laws, and the harmonious order which reigns in all we can see and understand, ascending through the series of immortal and invisible existence, must govern even the powers and dominions, the seraphim and cherubim, that surround the throne of God himself.
+
+[053-006]\[Footnote 64: Distinguished as a writer and scholar, and especially for
+
+[053-007]his work on the Botany of South Carolina and Georgia; a native of South Carolina.\]
+
+\* \* \* \* \*
+
+=\_John James Audubon, 1776-1851.\_= (Manual, p. 504.)
+
+From the \"Ornithological Biography.\"
+
+=\_258.\_= THE PASSENGER PIGEON.
+
+[053-008]I cannot describe to you the extreme beauty of their aerial evolutions, when a hawk chanced to press upon the rear of a flock. At once, like a torrent, and with a noise like thunder, they rushed into a compact mass, pressing upon each other towards the centre. In these almost solid masses, they darted forward in undulating and angular lines, descended and swept close over the earth with inconceivable velocity, mounted perpendicularly so as to resemble a vast column, and when high, were seen wheeling and twisting within their continued lines, which then resembled the coils of a gigantic serpent.
+
+[053-009]It is extremely interesting to see flock after flock performing exactly the same evolutions which had been traced as it were, in the air, by a preceding flock. Thus should a hawk have charged on a group at a certain spot, the angles, curves, and undulations that have been described by the birds, in their efforts to escape from the dreaded talons of the plunderer, are undeviatingly followed by the next group that comes up. Should the by-stander happen to witness one of these affrays, and, struck with the rapidity and elegance of the motions exhibited, feel desirous of seeing them repeated, his wishes will be gratified, if he only remain in the place until the next group comes up. As soon as the pigeons discover a sufficiency of food to entice them to alight, they fly around in circles, reviewing the country below. During their evolutions, on such occasions, the dense mass which they form, exhibits a beautiful appearance, as it changes its direction, now displaying a glistening sheet of azure, when the backs of the birds come simultaneously into view, and anon, suddenly presenting a mass of rich purple. They then pass lower, over the woods, and for a moment are lost among the foliage, but again emerge, and are seen gliding aloft. They now alight, but the next moment, as if suddenly alarmed, they take to wing, producing by the flapping of their wings a noise like the roar of distant thunder, and sweep through the forests to see if danger is near. Hunger, however, soon brings them to the ground. When alighted, they are seen industriously throwing up the withered leaves in quest of the falling mast. The rear ranks are continually rising, passing over the main body, and alighting in front, in such rapid succession, that the whole flock seems still on wing. The quantity of ground thus swept is astonishing, and so completely has it been cleared, that the gleaner who might follow in their rear, would find his labor completely lost.
+
+\* \* \* \* \*
+
+=\_259.\_= EMIGRANTS REMOVING WESTWARD.
+
+[053-010]I think I see them at this moment harnessing their horses and attaching them to their wagons, which are already filled with bedding, provisions, and the younger children; while on the outside are fastened spinning-wheels and looms, and a bucket filled with tar and tallow swings between the hind wheels. Several axes are secured to the bolster, and the feeding-trough of the horses contains pots, kettles, and pans. The servant, now become a driver, rides the near saddled horse; the wife is mounted on another; the worthy husband shoulders his gun; and his sons, clad in plain, substantial homespun, drive the cattle ahead, and lead the procession, followed by the hounds and other dogs.
+
+\* \* \* \* \*
+
+=\_260.\_= INTEREST OF EXPLORATION IN THE REMOTE WEST.
+
+[053-011]How delightful, I have often exclaimed, must have been the feelings of those enthusiastic naturalists, my friends Nuttall and Townsend, while traversing the ridges of the Rocky Mountains! How grand and impressive the scenery presented to their admiring gaze, when from an elevated station they saw the mountain torrent hurling its foamy waters over the black crags of the rugged ravine, while on wide-spread wings the Great Vulture sailed overhead watching the departure of the travellers, that he might feast on the Salmon which in striving to ascend the cataract had been thrown on the stony beach! Now the weary travellers are resting on the bank of a brawling brook, along which they are delighted to see the lively Dipper frisking wren-like from stone to stone. On the stunted bushes above them some curious Jays are chattering, and as my friends are looking upon the gay and restless birds, they are involuntarily led to extend their gaze to the green slope beneath the more distant crags, where they spy a mountain sheep, watching the movements of the travellers as well as those of yon wolves stealing silently toward the fleet-footed animal. Again the pilgrims are in motion; they wind their pathless way round rocks and fissures; they have reached the greatest height of the sterile platform; and as they gaze on the valleys whose waters hasten to join the Pacific Ocean, and bid adieu, perhaps for the last time, to the dear friends they have left in the distant east, how intense must be their feelings, as thoughts of the past and the future blend themselves in their anxious minds! But now I see them, brother-like, with lighter steps, descending toward the head waters of the famed Oregon. They have reached the great stream, and seating themselves in a canoe, shoot adown the current, gazing on the beautiful shrubs and flowers that ornament the banks, and the majestic trees that cover the sides of the valley, all new to them, and presenting a wide field of discovery. The melodies of unknown songsters enliven their spirits, and glimpses of gaudily plumed birds excite their desire to search those beautiful thickets; but time is urgent, and onward they must speed. A deer crosses the stream, they pursue and capture it; and it being now evening, they land and soon form a camp, carefully concealed from the prying eyes of the lurking savage. The night is past, the dawn smiles upon the refreshed travellers, who launch their frail bark; and, as they slowly float on the stream, both listen attentively to the notes of the Red-and-White-winged Troopial, and wonder how similar they are to those of the \"Red-winged Starling;\" they think of the affinities of species, and especially of those of the lively birds composing this beautiful group.
