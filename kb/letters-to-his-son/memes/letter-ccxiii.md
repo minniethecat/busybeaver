@@ -1,0 +1,21 @@
+---
+id: letter-ccxiii
+label: "LETTER CCXIII"
+type: chapter
+description: "I write to you now, because I love to write to you; and hope that my letters are welcome to you; for otherwise I have very little to inform you of. The King..."
+tags: ["chapter"]
+---
+
+## LETTER CCXIII
+
+### BATH, November 20, 1757
+
+[213-001]MY DEAR FRIEND: I write to you now, because I love to write to you; and hope that my letters are welcome to you; for otherwise I have very little to inform you of. The King of Prussia’s late victory you are better informed, of than we are here. It has given infinite joy to the unthinking public, who are not aware that it comes too late in the year and too late in the war, to be attended with any very great consequences. There are six or seven thousand of the human species less than there were a month ago, and that seems to me to be all. However, I am glad of it, upon account of the pleasure and the glory which it gives the King of Prussia, to whom I wish well as a man, more than as a king. And surely he is so great a man, that had he lived seventeen or eighteen hundred years ago, and his life been transmitted to us in a language that we could not very well understand—I mean either Greek or Latin—we should have talked of him as we do now of your Alexanders, your Caesars, and others; with whom, I believe, we have but a very slight acquaintance. ‘Au reste’, I do not see that his affairs are much mended by this victory. The same combination of the great Powers of Europe against him still subsists, and must at last prevail. I believe the French army will melt away, as is usual, in Germany; but this army is extremely diminished by battles, fatigues, and desertion: and he will find great difficulties in recruiting it from his own already exhausted dominions. He must therefore, and to be sure will, negotiate privately with the French, and get better terms that way than he could any other.
+
+[213-002]The report of the three general officers, the Duke of Marlborough, Lord George Sackville, and General Waldegrave, was laid before the King last Saturday, after their having sat four days upon M——t’s affair: nobody yet knows what it is; but it is generally believed that M——t will be brought to a court-martial. That you may not mistake this matter, as MOST people here do, I must explain to you, that this examination before the three above-mentioned general officers, was by no means a trial; but only a previous inquiry into his conduct, to see whether there was, or was not, cause to bring him to a regular trial before a court-martial. The case is exactly parallel to that of a grand jury; who, upon a previous and general examination, find, or do not find, a bill to bring the matter before the petty jury; where the fact is finally tried. For my own part, my opinion is fixed upon that affair: I am convinced that the expedition was to be defeated; and nothing that can appear before a court-martial can make me alter that opinion. I have been too long acquainted with human nature to have great regard for human testimony; and a very great degree of probability, supported by various concurrent circumstances, conspiring in one point, will have much greater weight with me, than human testimony upon oath, or even upon honor; both which I have frequently seen considerably warped by private views.
+
+[213-003]The parliament, which now stands prorogued to the first of next month, it is thought will be put off for some time longer, till we know in what light to lay before it the state of our alliance with Prussia, since the conclusion of the Hanover neutrality; which, if it did not quite break it, made at least a great flaw in it.
+
+[213-004]The birth-day was neither fine nor crowded; and no wonder, since the King was that day seventy-five. The old Court and the young one are much better together since the Duke’s retirement; and the King has presented the Prince of Wales with a service of plate.
+
+[213-005]I am still UNWELL, though I drink these waters very regularly. I will stay here at least six weeks longer; where I am much quieter than I should be allowed to be in town. When things are in such a miserable situation as they are at present, I desire neither to be concerned nor consulted, still less quoted. Adieu!

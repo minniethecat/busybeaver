@@ -1,0 +1,19 @@
+---
+id: letter-cclxxv
+label: "LETTER CCLXXV"
+type: chapter
+description: "The day before yesterday I received your letter of the 3d instant. I find that your important affair of the ceremonial is adjusted at last, as I foresaw it w..."
+tags: ["chapter"]
+---
+
+## LETTER CCLXXV
+
+### LONDON, April 22, 1765
+
+[275-001]MY DEAR FRIEND: The day before yesterday I received your letter of the 3d instant. I find that your important affair of the ceremonial is adjusted at last, as I foresaw it would be. Such minutiae are often laid hold on as a pretense, for powers who have a mind to quarrel; but are never tenaciously insisted upon where there is neither interest nor inclination to break. Comte Flemming, though a hot, is a wise man; and I was sure would not break, both with England and Hanover, upon so trifling a point, especially during a minority. ‘A propos’ of a minority; the King is to come to the House to-morrow, to recommend a bill to settle a Regency, in case of his demise while his successor is a minor. Upon the King’s late illness, which was no trifling one, the whole nation cried out aloud for such a bill, for reasons which will readily occur to you, who know situations, persons, and characters here. I do not know the particulars of this intended bill; but I wish it may be copied exactly from that which was passed in the late King’s time, when the present King was a minor. I am sure there cannot be a better.
+
+[275-002]You inquire about Monsieur de Guerchy’s affair; and I will give you as succinct an account as I can of so extraordinary and perplexed a transaction: but without giving you my own opinion of it by the common post. You know what passed at first between Mr. de Guerchy and Monsieur d’Eon, in which both our Ministers and Monsieur de Guerchy, from utter inexperience in business, puzzled themselves into disagreeable difficulties. About three or four months ago, Monsieur du Vergy published in a brochure, a parcel of letters, from himself to the Duc de Choiseul; in which he positively asserts that Monsieur de Guerchy prevailed with him (Vergy) to come over into England to assassinate d’Eon; the words are, as well as I remember, ‘que ce n’etoit pas pour se servir de sa plume, mais de son epee, qu’on le demandoit en Angleterre’. This accusation of assassination, you may imagine, shocked Monsieur de Guerchy, who complained bitterly to our Ministers; and they both puzzled on for some time, without doing anything, because they did not know what to do. At last du Vergy, about two months ago, applied himself to the Grand Jury of Middlesex, and made oath that Mr. de Guerchy had hired him (du Vergy) to assassinate d’Eon. Upon this deposition, the Grand jury found a bill of intended murder against Monsieur de Guerchy; which bill, however, never came to the Petty Jury. The King granted a ‘noli prosequi’ in favor of Monsieur de Guerchy; and the Attorney-General is actually prosecuting du Vergy. Whether the King can grant a ‘noli prosequi’ in a criminal case, and whether ‘le droit des gens’ extends to criminal cases, are two points which employ our domestic politicians, and the whole Corps Diplomatique. ‘Enfin’, to use a very coarse and vulgar saying, ‘il y a de la merde au bout du baton, quelque part’.
+
+[275-003]I see and hear these storms from shore, ‘suave mari magno’, etc. I enjoy my own security and tranquillity, together with better health than I had reason to expect at my age, and with my constitution: however, I feel a gradual decay, though a gentle one; and I think that I shall not tumble, but slide gently to the bottom of the hill of life. When that will be, I neither know nor care, for I am very weary. God bless you!
+
+[275-004]Mallet died two days ago, of a diarrhoea, which he had carried with him to France, and brought back again hither.

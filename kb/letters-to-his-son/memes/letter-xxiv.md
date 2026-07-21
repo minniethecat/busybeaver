@@ -1,0 +1,25 @@
+---
+id: letter-xxiv
+label: "LETTER XXIV"
+type: chapter
+description: "January 2, O. S. 1748."
+tags: ["chapter"]
+---
+
+## LETTER XXIV
+
+[024-001]January 2, O. S. 1748.
+
+[024-002]DEAR BOY: I am edified with the allotment of your time at Leipsig; which is so well employed from morning till night, that a fool would say you had none left for yourself; whereas, I am sure you have sense enough to know, that such a right use of your time is having it all to yourself; nay, it is even more, for it is laying it out to immense interest, which, in a very few years, will amount to a prodigious capital.
+
+[024-003]Though twelve of your fourteen ‘Commensaux’ may not be the liveliest people in the world, and may want (as I easily conceive that they do) ‘le ton de la bonne campagnie, et les graces’, which I wish you, yet pray take care not to express any contempt, or throw out any ridicule; which I can assure you, is not more contrary to good manners than to good sense: but endeavor rather to get all the good you can out of them; and something or other is to be got out of everybody. They will, at least, improve you in the German language; and, as they come from different countries, you may put them upon subjects, concerning which they must necessarily be able to give you some useful informations, let them be ever so dull or disagreeable in general: they will know something, at least, of the laws, customs, government, and considerable families of their respective countries; all which are better known than not, and consequently worth inquiring into. There is hardly any body good for every thing, and there is scarcely any body who is absolutely good for nothing. A good chemist will extract some spirit or other out of every substance; and a man of parts will, by his dexterity and management, elicit something worth knowing out of every being he converses with.
+
+[024-004]As you have been introduced to the Duchess of Courland, pray go there as often as ever your more necessary occupations will allow you. I am told she is extremely well bred, and has parts. Now, though I would not recommend to you, to go into women’s company in search of solid knowledge, or judgment, yet it has its use in other respects; for it certainly polishes the manners, and gives ‘une certaine tournure’, which is very necessary in the course of the world; and which Englishmen have generally less of than any people in the world.
+
+[024-005]I cannot say that your suppers are luxurious, but you must own they are solid; and a quart of soup, and two pounds of potatoes, will enable you to pass the night without great impatience for your breakfast next morning. One part of your supper (the potatoes) is the constant diet of my old friends and countrymen,—[Lord Chesterfield, from the time he was appointed Lord-lieutenant of Ireland, 1775, used always to call the Irish his countrymen.]—the Irish, who are the healthiest and the strongest bodies of men that I know in Europe.
+
+[024-006]As I believe that many of my letters to you and to Mr. Harte have miscarried, as well as some of yours and his to me; particularly one of his from Leipsig, to which he refers in a subsequent one, and which I never received; I would have you, for the future, acknowledge the dates of all the letters which either of you shall receive from me; and I will do the same on my part.
+
+[024-007]That which I received by the last mail, from you, was of the 25th November, N. S.; the mail before that brought me yours, of which I have forgot the date, but which inclosed one to Lady Chesterfield: she will answer it soon, and, in the mean time, thanks you for it.
+
+[024-008]My disorder was only a very great cold, of which I am entirely recovered. You shall not complain for want of accounts from Mr. Grevenkop, who will frequently write you whatever passes here, in the German language and character; which will improve you in both. Adieu.

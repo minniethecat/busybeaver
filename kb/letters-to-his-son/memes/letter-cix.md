@@ -1,0 +1,19 @@
+---
+id: letter-cix
+label: "LETTER CIX"
+type: chapter
+description: "You are now, I suppose, at Naples, in a new scene of ‘Virtu’, examining all the curiosities of Herculaneum, watching the eruptions of Mount Vesuvius, and sur..."
+tags: ["chapter"]
+---
+
+## LETTER CIX
+
+### LONDON, March 29, O. S. 1750
+
+[109-001]MY DEAR FRIEND: You are now, I suppose, at Naples, in a new scene of ‘Virtu’, examining all the curiosities of Herculaneum, watching the eruptions of Mount Vesuvius, and surveying the magnificent churches and public buildings, by which Naples is distinguished.
+
+[109-002]You have a court there into the bargain, which, I hope, you frequent and attend to. Polite manners, a versatility of mind, a complaisance even to enemies, and the ‘volto sciolto’, with the ‘pensieri stretti’, are only to be learned at courts, and must be well learned by whoever would either shine or thrive in them. Though they do not change the nature, they smooth and soften the manners of mankind. Vigilance, dexterity, and flexibility supply the place of natural force; and it is the ablest mind, not the strongest body that prevails there. Monsieur and Madame Fogliani will, I am sure, show you all the politeness of courts; for I know no better bred people than they are. Domesticate yourself there while you stay at Naples, and lay aside the English coldness and formality. You have also a letter to Comte Mahony, whose house I hope you frequent, as it is the resort of the best company. His sister, Madame Bulkeley, is now here; and had I known of your going so soon to Naples, I would have got you, ‘ex abundanti’, a letter from her to her brother. The conversation of the moderns in the evening is full as necessary for you, as that of the ancients in the morning.
+
+[109-003]You would do well, while you are at Naples, to read some very short history of that kingdom. It has had great variety of masters, and has occasioned many wars; the general history of which will enable you to ask many proper questions, and to receive useful informations in return. Inquire into the manner and form of that government; for constitution it has none, being an absolute one; but the most absolute governments have certain customs and forms, which are more or less observed by their respective tyrants. In China it is the fashion for the emperors, absolute as they are, to govern with justice and equity; as in the other Oriental monarchies, it is the custom to govern by violence and cruelty. The King of France, as absolute, in fact, as any of them, is by custom only more gentle; for I know of no constitutional bar to his will. England is now, the only monarchy in the world, that can properly be said to have a constitution; for the people’s rights and liberties are secured by laws; and I cannot reckon Sweden and Poland to be monarchies, those two kings having little more to say than the Doge of Venice. I do not presume to say anything of the constitution of the empire to you, who are ‘jurisperitorum Germanicorum facile princeps’.
+
+[109-004]When you write to me, which, by the way, you do pretty seldom, tell me rather whom you see, than what you see. Inform me of your evening transactions and acquaintances; where, and how you pass your evenings; what people of learning you have made acquaintance with; and, if you will trust me with so important an affair, what belle passion inflames you. I interest myself most in what personally concerns you most; and this is a very critical year in your life. To talk like a virtuoso, your canvas is, I think, a good one, and RAPHAEL HARTE has drawn the outlines admirably; nothing is now wanting but the coloring of Titian, and the Graces, the ‘morbidezza’ of Guido; but that is a great deal. You must get them soon, or you will never get them at all. ‘Per la lingua Italiana, sono sicuro ch’ella n’e adesso professore, a segno tale ch’io non ardisca dirle altra cosa in quela lingua se non. Addio’.

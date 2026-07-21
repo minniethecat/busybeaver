@@ -1,0 +1,17 @@
+---
+id: letter-ccix
+label: "LETTER CCIX"
+type: chapter
+description: "It is not without some difficulty that I snatch this moment of leisure from my extreme idleness, to inform you of the present lamentable and astonishing stat..."
+tags: ["chapter"]
+---
+
+## LETTER CCIX
+
+### BLACKHEATH, October 10, 1757
+
+[209-001]MY DEAR FRIEND: It is not without some difficulty that I snatch this moment of leisure from my extreme idleness, to inform you of the present lamentable and astonishing state of affairs here, which you would know but imperfectly from the public papers, and but partially from your private correspondents. ‘Or sus’ then—Our in vincible Armada, which cost at least half a million, sailed, as you know, some weeks ago; the object kept an inviolable secret: conjectures various, and expectations great. Brest was perhaps to be taken; but Martinico and St. Domingo, at least. When lo! the important island of Aix was taken without the least resistance, seven hundred men made prisoners, and some pieces of cannon carried off. From thence we sailed toward Rochfort, which it seems was our main object; and consequently one should have supposed that we had pilots on board who knew all the soundings and landing places there and thereabouts: but no; for General M——-t asked the Admiral if he could land him and the troops near Rochfort? The Admiral said, with great ease. To which the General replied, but can you take us on board again? To which the Admiral answered, that, like all naval operations, will depend upon the wind. If so, said the General, I’ll e’en go home again. A Council of War was immediately called, where it was unanimously resolved, that it was ADVISABLE to return; accordingly they are returned. As the expectations of the whole nation had been raised to the highest pitch, the universal disappointment and indignation have arisen in proportion; and I question whether the ferment of men’s minds was ever greater. Suspicions, you may be sure, are various and endless, but the most prevailing one is, that the tail of the Hanover neutrality, like that of a comet, extended itself to Rochfort. What encourages this suspicion is, that a French man of war went unmolested through our whole fleet, as it lay near Rochfort. Haddock’s whole story is revived; Michel’s representations are combined with other circumstances; and the whole together makes up a mass of discontent, resentment, and even fury, greater than perhaps was ever known in this country before. These are the facts, draw your own conclusions from them; for my part, I am lost in astonishment and conjectures, and do not know where to fix. My experience has shown me, that many things which seem extremely probable are not true: and many which seem highly improbable are true; so that I will conclude this article, as Josephus does almost every article of his history, with saying, BUT OF THIS EVERY MAN WILL BELIEVE AS HE THINKS PROPER. What a disgraceful year will this be in the annals of this country! May its good genius, if ever it appears again, tear out those sheets, thus stained and blotted by our ignominy!
+
+[209-002]Our domestic affairs are, as far as I know anything of them, in the same situation as when I wrote to you last; but they will begin to be in motion upon the approach of the session, and upon the return of the Duke, whose arrival is most impatiently expected by the mob of London; though not to strew flowers in his way.
+
+[209-003]I leave this place next Saturday, and London the Saturday following, to be the next day at Bath. Adieu.

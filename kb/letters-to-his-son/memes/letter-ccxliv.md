@@ -1,0 +1,17 @@
+---
+id: letter-ccxliv
+label: "LETTER CCXLIV"
+type: chapter
+description: "Your secretary’s last letter of the 4th, which I received yesterday, has quieted my fears a good deal, but has not entirely dissipated them. YOUR FEVER STILL..."
+tags: ["chapter"]
+---
+
+## LETTER CCXLIV
+
+### BLACKHEATH, May 16, 1759
+
+[244-001]MY DEAR FRIEND: Your secretary’s last letter of the 4th, which I received yesterday, has quieted my fears a good deal, but has not entirely dissipated them. YOUR FEVER STILL CONTINUES, he says, THOUGH IN A LESS DEGREE. Is it a continued fever, or an intermitting one? If the former, no wonder that you are weak, and that your head aches. If the latter, why has not the bark, in substance and large doses, been administered? for if it had, it must have stopped it by this time. Next post, I hope, will set me quite at ease. Surely you have not been so regular as you ought, either in your medicines or in your general regimen, otherwise this fever would not have returned; for the Doctor calls it, YOUR FEVER RETURNED, as if you had an exclusive patent for it. You have now had illnesses enough, to know the value of health, and to make you implicitly follow the prescriptions of your physician in medicines, and the rules of your own common sense in diet; in which, I can assure you, from my own experience, that quantity is often worse than quality; and I would rather eat half a pound of bacon at a meal, than two pounds of any the most wholesome food.
+
+[244-002]I have been settled here near a week, to my great satisfaction; ‘c’est ma place’, and I know it, which is not given to everybody. Cut off from social life by my deafness, as well as other physical ills, and being at best but the ghost of my former self, I walk here in silence and solitude as becomes a ghost: with this only difference, that I walk by day, whereas, you know, to be sure, that other ghosts only appear by night. My health, however, is better than it was last year, thanks to my almost total milk diet. This enables me to vary my solitary amusements, and alternately to scribble as well as read, which I could not do last year. Thus I saunter away the remainder, be it more or less, of an agitated and active life, now reduced (and I am not sure that I am a loser by the change) to so quiet and serene a one, that it may properly be called still life.
+
+[244-003]The French whisper in confidence, in order that it may be the more known and the more credited, that they intend to invade us this year, in no less than three places; that is England, Scotland, and Ireland. Some of our great men, like the devils, believe and tremble; others, and one little one whom I know, laugh at it; and, in general, it seems to be but a poor, instead of a formidable scarecrow. While somebody was at the head of a moderate army, and wanted (I know why) to be at the head of a great one, intended invasions were made an article of political faith; and the belief of them was required, as in the Church the belief of some absurdities, and even impossibilities, is required upon pain of heresy, excommunication, and consequently damnation, if they tend to the power and interest of the heads of the Church. But now that there is a general toleration, and that the best subjects, as well as the best Christians, may believe what their reasons find their consciences suggest, it is generally and rationally supposed the French will threaten and not strike, since we are so well prepared, both by armies and fleets, to receive and, I may add, to destroy them. Adieu! God bless you.

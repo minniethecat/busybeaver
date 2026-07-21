@@ -1,0 +1,21 @@
+---
+id: letter-cvi
+label: "LETTER CVI"
+type: chapter
+description: "If the Italian of your letter to Lady Chesterfield was all your own, I am very well satisfied with the progress which you have made in that language in so sh..."
+tags: ["chapter"]
+---
+
+## LETTER CVI
+
+### LONDON, February 22, O. S. 1750
+
+[106-001]MY DEAR FRIEND: If the Italian of your letter to Lady Chesterfield was all your own, I am very well satisfied with the progress which you have made in that language in so short a time; according to that gradation, you will, in a very little time more, be master of it. Except at the French Ambassador’s, I believe you hear only Italian spoke; for the Italians speak very little French, and that little generally very ill. The French are even with them, and generally speak Italian as ill; for I never knew a Frenchman in my life who could pronounce the Italian ce, ci, or ge, gi. Your desire of pleasing the Roman ladies will of course give you not only the desire, but the means of speaking to them elegantly in their own language. The Princess Borghese, I am told, speaks French both ill and unwillingly; and therefore you should make a merit to her of your application to her language. She is, by a kind of prescription (longer than she would probably wish), at the head of the ‘beau monde’ at Rome; and can, consequently, establish or destroy a young fellow’s fashionable character. If she declares him ‘amabile e leggiadro’, others will think him so, or at least those who do not will not dare to say so. There are in every great town some such women, whose rank, beauty, and fortune have conspired to place them at the head of the fashion. They have generally been gallant, but within certain decent bounds. Their gallantries have taught, both them and their admirers, good-breeding; without which they could keep up no dignity, but would be vilified by those very gallantries which put them in vogue. It is with these women, as with ministers and favorites at court; they decide upon fashion and characters, as these do of fortunes and preferments. Pay particular court, therefore, wherever you are, to these female sovereigns of the ‘beau monde’; their recommendation is a passport through all the realms of politeness. But then, remember that they require minute officious attentions. You should, if possible, guess at and anticipate all their little fancies and inclinations; make yourself familiarly and domestically useful to them, by offering yourself for all their little commissions, and assisting in doing the honors of their houses, and entering with seeming unction into all their little grievances, bustles, and views; for they are always busy. If you are once ‘ben ficcato’ at the Palazzo Borghese, you twill soon be in fashion at Rome; and being in fashion will soon fashion you; for that is what you must now think of very seriously.
+
+[106-002]I am sorry that there is no good dancing-master at Rome, to form your exterior air and carriage; which, I doubt, are not yet the genteelest in the world. But you may, and I hope you will, in the meantime, observe the air and carriage of those who are reckoned to have the best, and form your own upon them. Ease, gracefulness, and dignity, compose the air and address of a man of fashion; which is as unlike the affected attitudes and motions of a ‘petit maitre’, as it is to the awkward, negligent, clumsy, and slouching manner of a booby.
+
+[106-003]I am extremely pleased with the account Mr. Harte has given me of the allotment of your time at Rome. Those five hours every morning, which you employ in serious studies with Mr. Harte, are laid out with great interest, and will make you rich all the rest of your life. I do not look upon the subsequent morning hours, which you pass with your Ciceroni, to be ill-disposed of; there is a kind of connection between them; and your evening diversions in good company are, in their way, as useful and necessary. This is the way for you to have both weight and lustre in the world; and this is the object which I always had in view in your education.
+
+[106-004]Adieu, my friend! go on and prosper.
+
+[106-005]Mr. Grevenkop has just received Mr. Harte’s letter of the 19th N. S.

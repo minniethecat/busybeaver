@@ -1,0 +1,27 @@
+---
+id: letter-ccxxi
+label: "LETTER CCXXI"
+type: chapter
+description: "I have your letter of the 9th now before me, and condole with you upon the present solitude and inaction of Hamburg. You are now shrunk from the dignity and..."
+tags: ["chapter"]
+---
+
+## LETTER CCXXI
+
+### BLACKHEATH, May 18, O. S. 1758.
+
+[221-001]MY DEAR FRIEND: I have your letter of the 9th now before me, and condole with you upon the present solitude and inaction of Hamburg. You are now shrunk from the dignity and importance of a consummate minister, to be but, as it were, a common man. But this has, at one time or another, been the case of most great men; who have not always had equal opportunities of exerting their talents. The greatest must submit to the capriciousness of fortune; though they can, better than others, improve the favorable moments. For instance, who could have thought, two years ago, that you would have been the Atlas of the Northern Pole; but the Good Genius of the North ordered it so; and now that you have set that part of the globe right, you return to ‘otium cum dignitate’. But to be serious: now that you cannot have much office business to do, I could tell you what to do, that would employ you, I should think, both usefully and agreeably. I mean, that you should write short memoirs of that busy scene, in which you have been enough concerned, since your arrival at Hamburg, to be able to put together authentic facts and anecdotes. I do not know whether you will give yourself the trouble to do it or not; but I do know, that if you will, ‘olim hcec meminisse juvabit’. I would have them short, but correct as to facts and dates.
+
+[221-002]I have told Alt, in the strongest manner, your lamentations for the loss of the House of Cassel, ‘et il en fera rapport a son Serenissime Maitre’. When you are quite idle (as probably you may be, some time this summer), why should you not ask leave to make a tour to Cassel for a week? which would certainly be granted you from hence, and which would be looked upon as a ‘bon procede’ at Cassel.
+
+[221-003]The King of Prussia is probably, by this time, at the gates of Vienna, making the Queen of Hungary really do what Monsieur de Bellisle only threatened; sign a peace upon the ramparts of her capital. If she is obstinate, and will not, she must fly either to Presburg or to Inspruck, and Vienna must fall. But I think he will offer her reasonable conditions enough for herself; and I suppose, that, in that case, Caunitz will be reasonable enough to advise her to accept of them. What turn would the war take then? Would the French and Russians carry it on without her? The King of Prussia, and the Prince of Brunswick, would soon sweep them out of Germany. By this time, too, I believe, the French are entertained in America with the loss of Cape Breton; and, in consequence of that, Quebec; for we have a force there equal to both those undertakings, and officers there, now, that will execute what Lord L———never would so much as attempt. His appointments were too considerable to let him do anything that might possibly put an end to the war. Lord Howe, upon seeing plainly that he was resolved to do nothing, had asked leave to return, as well as Lord Charles Hay.
+
+[221-004]We have a great expedition preparing, and which will soon be ready to sail from the Isle of Wight; fifteen thousand good troops, eighty battering cannons, besides mortars, and every other thing in abundance, fit for either battle or siege. Lord Anson desired, and is appointed, to command the fleet employed upon this expedition; a proof that it is not a trifling one. Conjectures concerning its destination are infinite; and the most ignorant are, as usual, the boldest conjecturers. If I form any conjectures, I keep them to myself, not to be disproved by the event; but, in truth, I form none: I might have known, but would not.
+
+[221-005]Everything seems to tend to a peace next winter: our success in America, which is hardly doubtful, and the King of Prussia’s in Germany, which is as little so, will make France (already sick of the expense of the war) very tractable for a peace. I heartily wish it: for though people’s heads are half turned with the King of Prussia’s success, and will be quite turned, if we have any in America, or at sea, a moderate peace will suit us better than this immoderate war of twelve millions a year.
+
+[221-006]Domestic affairs go just as they did; the Duke of Newcastle and Mr. Pitt jog on like man and wife; that is, seldom agreeing, often quarreling; but by mutual interest, upon the whole, not parting. The latter, I am told, gains ground in the closet; though he still keeps his strength in the House, and his popularity in the public; or, perhaps, because of that.
+
+[221-007]Do you hold your resolution of visiting your dominions of Bremen and Lubeck this summer? If you do, pray take the trouble of informing yourself correctly of the several constitutions and customs of those places, and of the present state of the federal union of the Hanseatic towns: it will do you no harm, nor cost you much trouble; and it is so much clear gain on the side of useful knowledge.
+
+[221-008]I am now settled at Blackheath for the summer; where unseasonable frost and snow, and hot and parching east winds, have destroyed all my fruit, and almost my fruit-trees. I vegetate myself little better than they do; I crawl about on foot and on horseback; read a great deal, and write a little; and am very much yours.
