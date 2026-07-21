@@ -26,6 +26,8 @@ We do this by breaking knowledge down into small, distributable, richly-semantic
 
 This repository is a **dump**: the memified breakdown of several hundred classic books. That corpus is **growing fast** — our first milestone is **10,000 books**.
 
+> **Why "Busy Beaver"?** In computability theory, the **Busy Beaver function** is the archetype of the *fastest-growing* function — it outruns everything computable. That's the ambition behind the name: a **super knowledge base** for the coming world of agents, growing as fast as we can make it.
+
 If you point an agent at BusyBeaver, it digests the classics *dramatically faster*, because the hard work — splitting the text apart, analyzing it, and linking it together — is already done.
 
 ---
