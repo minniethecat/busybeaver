@@ -18,6 +18,8 @@ BusyBeaver is an LLM-built knowledge base whose mission is to take the knowledge
 
 We do this by breaking knowledge down into small, distributable, richly-semantic fragments. We call each fragment a **Meme**.
 
+> The word **Meme** was coined by the British biologist **Richard Dawkins** in *The Selfish Gene* (1976), where he defined it as **the basic unit of cultural transmission**. BusyBeaver takes the idea literally: a Meme is a unit of knowledge small enough to travel, replicate, and recombine.
+
 - Every **Meme** carries its own **metadata**.
 - Every **Meme** can be **queried**.
 - **Memes** can be **freely composed** into wikis, briefings, or answers.
