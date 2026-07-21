@@ -12,9 +12,10 @@
 
 | Book | Author | Language | Memes | Wiki |
 | --- | --- | --- | --- | --- |
+| **红楼梦** (Dream of the Red Chamber) | 曹雪芹 Cao Xueqin | 简体中文 | 3,897 | [`kb/honglou/`](./kb/honglou/) |
 | **The Picture of Dorian Gray** | Oscar Wilde | English | 452 | [`kb/the-picture-of-dorian-gray/`](./kb/the-picture-of-dorian-gray/) |
 
-**Totals:** 1 book · 452 Memes
+**Totals:** 2 books · 4,349 Memes
 
 ---
 
@@ -36,7 +37,7 @@ kb/<book-slug>/
 
 ### Meme types
 
-Memes are typed so you can slice a book by what you need:
+Memes are typed so you can slice a book by what you need. Every book uses this core set:
 
 | Type | Meaning |
 | --- | --- |
@@ -44,10 +45,11 @@ Memes are typed so you can slice a book by what you need:
 | `concept` | An idea, theme, or motif running through the work |
 | `person` | A character or real person |
 | `chapter` | A chapter, with full text and paragraph numbers (PN) for citation |
-| `location` | A place |
 | `event` | Something that happens in the narrative |
 | `organization` | A group, institution, or collective |
 | `overview` | Orientation pages (`About`, `TOC`) |
+
+Books also carry types specific to what they are *about* — *红楼梦*, for instance, adds `poem`, `food`, `clothing`, `plant`, `medicine`, `ritual`, and `game`, because those are the texture of the novel. Read a book's `index.json` for its own type inventory rather than assuming a fixed vocabulary.
 
 ### Quality grades
 
