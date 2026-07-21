@@ -1,0 +1,70 @@
+# === OS ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# === Editors / IDEs ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.claude/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.env
+.python-version
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# === Secrets / local config ===
+*.local
+secrets.*
+credentials.*
+.envrc
+
+# === Derived indexes & vector stores (do not commit generated artifacts) ===
+*.index
+*.faiss
+*.ann
+*.usearch
+chroma/
+.chroma/
+qdrant_storage/
+elasticsearch_data/
+embeddings/
+*.embeddings.*
+
+# === Logs & scratch ===
+*.log
+tmp/
+temp/
+scratch/
+.cache/
